@@ -1,0 +1,231 @@
+{
+  "book": 30,
+  "chapter_count": 32,
+  "chapters": [
+    {
+      "chapter": "1",
+      "title": "Attalus Comes to Rome",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_30\\chapter_01.md",
+      "greek_chars": 1578,
+      "english_chars": 1833
+    },
+    {
+      "chapter": "2",
+      "title": "Stratius Sent to Attalus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_30\\chapter_02.md",
+      "greek_chars": 1791,
+      "english_chars": 1934
+    },
+    {
+      "chapter": "3",
+      "title": "Attalus At Rome",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_30\\chapter_03.md",
+      "greek_chars": 1321,
+      "english_chars": 1410
+    },
+    {
+      "chapter": "4",
+      "title": "Rhodian Ambassadors Argue Against War",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_30\\chapter_04.md",
+      "greek_chars": 3167,
+      "english_chars": 3189
+    },
+    {
+      "chapter": "5",
+      "title": "The Rhodians Try To Excuse Themselves",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_30\\chapter_05.md",
+      "greek_chars": 2756,
+      "english_chars": 3576
+    },
+    {
+      "chapter": "6",
+      "title": "Greek States and the War With Perseus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_30\\chapter_06.md",
+      "greek_chars": 1311,
+      "english_chars": 1779
+    },
+    {
+      "chapter": "7",
+      "title": "Examples of Three Classes of Statesmen",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_30\\chapter_07.md",
+      "greek_chars": 1587,
+      "english_chars": 2024
+    },
+    {
+      "chapter": "8",
+      "title": "Shameless Conduct of the Supporters of Perseus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_30\\chapter_08.md",
+      "greek_chars": 1561,
+      "english_chars": 1603
+    },
+    {
+      "chapter": "9",
+      "title": "Polyaratus of Rhodes",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_30\\chapter_09.md",
+      "greek_chars": 3559,
+      "english_chars": 3919
+    },
+    {
+      "chapter": "10",
+      "title": "Statue-bases for Perseus Used by Aemilius",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_30\\chapter_10.md",
+      "greek_chars": 921,
+      "english_chars": 1101
+    },
+    {
+      "chapter": "11",
+      "title": "The Greek Prisoners In Italy",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_30\\chapter_11.md",
+      "greek_chars": 845,
+      "english_chars": 1819
+    },
+    {
+      "chapter": "12",
+      "title": "Epirus Also In Turmoil",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_30\\chapter_12.md",
+      "greek_chars": 308,
+      "english_chars": 396
+    },
+    {
+      "chapter": "13",
+      "title": "The Romanising Party Takes Command Throughout Greece",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_30\\chapter_13.md",
+      "greek_chars": 1932,
+      "english_chars": 2095
+    },
+    {
+      "chapter": "14",
+      "title": "Noisy Scene In A Roman Theatre",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_30\\chapter_14.md",
+      "greek_chars": 153,
+      "english_chars": 2712
+    },
+    {
+      "chapter": "15",
+      "title": "How to Hold Good Games",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_30\\chapter_15.md",
+      "greek_chars": 200,
+      "english_chars": 232
+    },
+    {
+      "chapter": "16",
+      "title": "Aemilius in Epirus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_30\\chapter_16.md",
+      "greek_chars": 426,
+      "english_chars": 218
+    },
+    {
+      "chapter": "17",
+      "title": "Reaction of the Egyptian Kings",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_30\\chapter_17.md",
+      "greek_chars": 639,
+      "english_chars": 702
+    },
+    {
+      "chapter": "18",
+      "title": "Cotys, King of the Odrysae",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_30\\chapter_18.md",
+      "greek_chars": 1225,
+      "english_chars": 709
+    },
+    {
+      "chapter": "19",
+      "title": "Prusias and Eumenes",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_30\\chapter_19.md",
+      "greek_chars": 2308,
+      "english_chars": 1297
+    },
+    {
+      "chapter": "20",
+      "title": "Eumenes Prevented from Visiting Rome",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_30\\chapter_20.md",
+      "greek_chars": 1274,
+      "english_chars": 2602
+    },
+    {
+      "chapter": "21",
+      "title": "The Athenians and Rhodians",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_30\\chapter_21.md",
+      "greek_chars": 654,
+      "english_chars": 1802
+    },
+    {
+      "chapter": "22",
+      "title": "Death of Theaetetus of Rhodes",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_30\\chapter_22.md",
+      "greek_chars": 1816,
+      "english_chars": 756
+    },
+    {
+      "chapter": "23",
+      "title": "Public Hatred of Callicrates and His Faction",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_30\\chapter_23.md",
+      "greek_chars": 917,
+      "english_chars": 1290
+    },
+    {
+      "chapter": "24",
+      "title": "Delight at Peraea",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_30\\chapter_24.md",
+      "greek_chars": 326,
+      "english_chars": 457
+    },
+    {
+      "chapter": "25",
+      "title": "Chapter 25",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_30\\chapter_25.md",
+      "greek_chars": 3091,
+      "english_chars": 0
+    },
+    {
+      "chapter": "26",
+      "title": "Chapter 26",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_30\\chapter_26.md",
+      "greek_chars": 482,
+      "english_chars": 0
+    },
+    {
+      "chapter": "27",
+      "title": "Chapter 27",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_30\\chapter_27.md",
+      "greek_chars": 640,
+      "english_chars": 0
+    },
+    {
+      "chapter": "28",
+      "title": "Chapter 28",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_30\\chapter_28.md",
+      "greek_chars": 190,
+      "english_chars": 0
+    },
+    {
+      "chapter": "29",
+      "title": "Chapter 29",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_30\\chapter_29.md",
+      "greek_chars": 1208,
+      "english_chars": 0
+    },
+    {
+      "chapter": "30",
+      "title": "Chapter 30",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_30\\chapter_30.md",
+      "greek_chars": 1421,
+      "english_chars": 0
+    },
+    {
+      "chapter": "31",
+      "title": "Chapter 31",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_30\\chapter_31.md",
+      "greek_chars": 3297,
+      "english_chars": 0
+    },
+    {
+      "chapter": "32",
+      "title": "Chapter 32",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_30\\chapter_32.md",
+      "greek_chars": 2055,
+      "english_chars": 0
+    }
+  ],
+  "failures": []
+}

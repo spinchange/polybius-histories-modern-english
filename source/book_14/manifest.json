@@ -1,0 +1,98 @@
+{
+  "book": 14,
+  "chapter_count": 13,
+  "chapters": [
+    {
+      "chapter": "1",
+      "title": "Scipio Plans To Attack the Punic Camp",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_14\\chapter_01.md",
+      "greek_chars": 2871,
+      "english_chars": 3445
+    },
+    {
+      "chapter": "1a",
+      "title": "Preface",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_14\\chapter_1a.md",
+      "greek_chars": 1162,
+      "english_chars": 1527
+    },
+    {
+      "chapter": "2",
+      "title": "Scipio Prepares to Attack Utica by Sea",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_14\\chapter_02.md",
+      "greek_chars": 2541,
+      "english_chars": 2782
+    },
+    {
+      "chapter": "3",
+      "title": "Syphax and Hasdrubal Are Deluded",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_14\\chapter_03.md",
+      "greek_chars": 1464,
+      "english_chars": 1663
+    },
+    {
+      "chapter": "4",
+      "title": "The Romans Burn the Enemy Camp",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_14\\chapter_04.md",
+      "greek_chars": 2057,
+      "english_chars": 2296
+    },
+    {
+      "chapter": "5",
+      "title": "Dreadful Scene In the Burning Camps",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_14\\chapter_05.md",
+      "greek_chars": 2341,
+      "english_chars": 2665
+    },
+    {
+      "chapter": "6",
+      "title": "Anda Surrenders to Rome",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_14\\chapter_06.md",
+      "greek_chars": 2288,
+      "english_chars": 2512
+    },
+    {
+      "chapter": "7",
+      "title": "Carthaginians Reinforced and Resolute",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_14\\chapter_07.md",
+      "greek_chars": 1726,
+      "english_chars": 2059
+    },
+    {
+      "chapter": "8",
+      "title": "Scipio Determines to Attack",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_14\\chapter_08.md",
+      "greek_chars": 2358,
+      "english_chars": 3040
+    },
+    {
+      "chapter": "9",
+      "title": "Scipio's Victory On the Great Plains",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_14\\chapter_09.md",
+      "greek_chars": 1896,
+      "english_chars": 2192
+    },
+    {
+      "chapter": "10",
+      "title": "Scipio Fears a Carthaginian Attack on the Fleet",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_14\\chapter_10.md",
+      "greek_chars": 2122,
+      "english_chars": 2429
+    },
+    {
+      "chapter": "11",
+      "title": "Women at Alexandria",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_14\\chapter_11.md",
+      "greek_chars": 687,
+      "english_chars": 676
+    },
+    {
+      "chapter": "12",
+      "title": "Ptolemy Philopator, B.C. 222-205",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_14\\chapter_12.md",
+      "greek_chars": 982,
+      "english_chars": 1413
+    }
+  ],
+  "failures": []
+}

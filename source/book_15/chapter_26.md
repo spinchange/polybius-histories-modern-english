@@ -1,0 +1,68 @@
+# Book 15 Chapter 26: Another Murder Committed by Agathocles
+
+## Greek
+
+πρώτους δὲ συναθροίσας τοὺς Μακεδόνας, εἰς
+τούτους εἰσῆλθε μετὰ τοῦ βασιλέως καὶ τῆς Ἀγαθοκλείας.
+
+καὶ τὰς μὲν ἀρχὰς ὑπεκρίνετο τὸν οὐ δυνάμενον εἰπεῖν ἃ βούλεται διὰ τὸ πλῆθος τῶν ἐπιφερομένων δακρύων:
+
+ἐπεὶ δὲ πλεονάκις ἀπομάττων
+τῇ χλαμύδι κατεκράτησε τῆς ἐπιφορᾶς, βαστάσας τὸ
+παιδίον "3Λάβετε"3 ἔφη "3τοῦτον, ὃν ὁ πατὴρ ἀποθνήσκων εἰς μὲν τὰς ἀγκάλας ἔδωκε ταύτῃ"3 δείξας τὴν
+ἀδελφὴν "3παρακατέθετο δ᾽ εἰς τὴν ὑμετέραν, ὦ ἄνδρες Μακεδόνες, πίστιν.
+
+ἡ μὲν οὖν [καὶ] ταύτης
+εὔνοια βραχεῖάν τινα ῥοπὴν ἔχει πρὸς τὴν τούτου
+σωτηρίαν, ἐν ὑμῖν δὲ κεῖται καὶ ταῖς ὑμετέραις χερσὶ
+τὰ τούτου νυνὶ πράγματα.
+
+Τληπόλεμος γὰρ πάλαι
+μὲν ἦν δῆλος τοῖς ὀρθῶς σκοπουμένοις μειζόνων
+ἐφιέμενος ἢ καθ᾽ ἑαυτὸν πραγμάτων, νῦν δὲ καὶ
+τὴν ἡμέραν καὶ τὸν καιρὸν ὥρικεν, ἐν ᾗ μέλλει τὸ
+διάδημ᾽ ἀναλαμβάνειν.
+
+"3 καὶ περὶ τούτων οὐχ αὑτῷ
+πιστεύειν ἐκέλευεν, ἀλλὰ τοῖς εἰδόσι τὴν ἀλήθειαν
+καὶ παροῦσι νῦν ἐξ αὐτῶν τῶν πραγμάτων.
+
+καὶ
+τοῦτ᾽ εἰπὼν εἰσῆγε τὸν Κριτόλαον, ὃς ἔφη καὶ τοὺς
+βωμοὺς αὐτὸς ἑωρακέναι κατασκευαζομένους καὶ τὰ
+θύματα παρὰ τοῖς πλήθεσιν ἑτοιμαζόμενα πρὸς τὴν
+τοῦ διαδήματος ἀνάδειξιν.
+
+ὧν οἱ Μακεδόνες ἀκούοντες οὐχ οἷον ἠλέουν αὐτόν, ἀλλ᾽ ἁπλῶς οὐδὲν
+προσεῖχον τῶν λεγομένων, μυχθίζοντες δὲ καὶ διαψιθυρίζοντες ἐξελήρησαν οὕτως ὥστε μηδ᾽ αὐτὸν
+εἰδέναι [μήτε] πῶς τὸ παράπαν ἐκ τῆς ἐκκλησίας
+ἀπελύθη.
+
+παραπλήσια δὲ τούτοις ἐγίνετο καὶ περὶ
+τὰ λοιπὰ συστήματα κατὰ τοὺς ἐκκλησιασμούς.
+
+ἐν
+δὲ τῷ μεταξὺ πολὺς ἦν ὁ καταπλέων ἐκ τῶν ἄνω
+στρατοπέδων, καὶ παρεκάλουν οἱ μὲν συγγενεῖς, οἱ
+δὲ φίλους, βοηθεῖν τοῖς ὑποκειμένοις, καὶ μὴ περιιδεῖν σφᾶς ἀνέδην ὑφ᾽ οὕτως ἀναξίων ὑβριζομένους.
+
+μάλιστα δὲ παρώξυνε τοὺς πολλοὺς πρὸς τὴν κατὰ
+τῶν προεστώτων τιμωρίαν τὸ γινώσκειν ὅτι τὸ μέλλειν καθ᾽ αὑτῶν ἐστι διὰ τὸ πάντων τῶν παρακομιζομένων ἐπιτηδείων εἰς τὴν Ἀλεξάνδρειαν κρατεῖν
+
+## English Reference (Perseus / 1889)
+
+Another Murder Committed by Agathocles
+
+Another murder committed by Agathocles was that
+A fragment from the earlier history of Agathocles.
+
+of Deinon, son of Deinon. But this, as the proverb has it, was the fairest of his foul deeds.
+For the letter ordering the murder of Arsinoe
+had fallen into this man's hands, and he might have given
+information about the plot and saved the Queen; but at the
+time he chose rather to help Philammon, and so became the
+cause of all the misfortunes which followed; while, after the
+murder was committed, he was always recalling the circumstances, commiserating the unhappy woman, and expressing
+repentance at having let such an opportunity slip: and this he
+repeated in the hearing of many, so that Agathocles heard of
+it, and he met with his just punishment in losing his life....

@@ -1,0 +1,168 @@
+{
+  "book": 28,
+  "chapter_count": 23,
+  "chapters": [
+    {
+      "chapter": "1",
+      "title": "Antiochus and Ptolemy Appeal to Rome",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_28\\chapter_01.md",
+      "greek_chars": 1662,
+      "english_chars": 1933
+    },
+    {
+      "chapter": "2",
+      "title": "Embassy from Rhodes",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_28\\chapter_02.md",
+      "greek_chars": 1084,
+      "english_chars": 1293
+    },
+    {
+      "chapter": "3",
+      "title": "Pressure Put On Achaia and Aetolia",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_28\\chapter_03.md",
+      "greek_chars": 1534,
+      "english_chars": 2441
+    },
+    {
+      "chapter": "4",
+      "title": "Discussion of the Aetolian Congress",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_28\\chapter_04.md",
+      "greek_chars": 1988,
+      "english_chars": 2285
+    },
+    {
+      "chapter": "5",
+      "title": "Lycortas Advises Neutrality",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_28\\chapter_05.md",
+      "greek_chars": 994,
+      "english_chars": 1194
+    },
+    {
+      "chapter": "6",
+      "title": "Council of the Achaeans",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_28\\chapter_06.md",
+      "greek_chars": 1527,
+      "english_chars": 1903
+    },
+    {
+      "chapter": "7",
+      "title": "A Speech of Polybius",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_28\\chapter_07.md",
+      "greek_chars": 2841,
+      "english_chars": 3798
+    },
+    {
+      "chapter": "8",
+      "title": "Perseus Sends Pleuratus to Genthius",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_28\\chapter_08.md",
+      "greek_chars": 1796,
+      "english_chars": 1944
+    },
+    {
+      "chapter": "9",
+      "title": "Unwise Parsimony of Perseus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_28\\chapter_09.md",
+      "greek_chars": 1412,
+      "english_chars": 2985
+    },
+    {
+      "chapter": "10",
+      "title": "Perseus Blames Hippias for the Failure",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_28\\chapter_10.md",
+      "greek_chars": 314,
+      "english_chars": 489
+    },
+    {
+      "chapter": "11",
+      "title": "Heracleum Captured by the Testudo",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_28\\chapter_11.md",
+      "greek_chars": 398,
+      "english_chars": 843
+    },
+    {
+      "chapter": "12",
+      "title": "Achaean Aid To Rome Declined",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_28\\chapter_12.md",
+      "greek_chars": 1691,
+      "english_chars": 1907
+    },
+    {
+      "chapter": "13",
+      "title": "Marcius Declines Assistance from the Achaeans",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_28\\chapter_13.md",
+      "greek_chars": 2506,
+      "english_chars": 3004
+    },
+    {
+      "chapter": "14",
+      "title": "Treachery of the Cydonians",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_28\\chapter_14.md",
+      "greek_chars": 636,
+      "english_chars": 713
+    },
+    {
+      "chapter": "15",
+      "title": "The Cydonians Ask Help from Eumenes",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_28\\chapter_15.md",
+      "greek_chars": 469,
+      "english_chars": 463
+    },
+    {
+      "chapter": "16",
+      "title": "Dissensions In Crete and Rhodes",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_28\\chapter_16.md",
+      "greek_chars": 1748,
+      "english_chars": 2028
+    },
+    {
+      "chapter": "17",
+      "title": "Antiochus Invades Egypt",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_28\\chapter_17.md",
+      "greek_chars": 2430,
+      "english_chars": 3973
+    },
+    {
+      "chapter": "18",
+      "title": "Antiochus IV. Epiphanes",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_28\\chapter_18.md",
+      "greek_chars": 193,
+      "english_chars": 231
+    },
+    {
+      "chapter": "19",
+      "title": "Envoys Sent to Antiochus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_28\\chapter_19.md",
+      "greek_chars": 1089,
+      "english_chars": 1650
+    },
+    {
+      "chapter": "20",
+      "title": "Antiochus Epiphanes In Egypt",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_28\\chapter_20.md",
+      "greek_chars": 2144,
+      "english_chars": 2290
+    },
+    {
+      "chapter": "21",
+      "title": "Eulaeus Convinces Ptolemy to Give Up the Kingdom",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_28\\chapter_21.md",
+      "greek_chars": 1065,
+      "english_chars": 1333
+    },
+    {
+      "chapter": "22",
+      "title": "Antiochus Leaves Alexandria",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_28\\chapter_22.md",
+      "greek_chars": 300,
+      "english_chars": 406
+    },
+    {
+      "chapter": "23",
+      "title": "Envoys from Rhodes to Antiochus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_28\\chapter_23.md",
+      "greek_chars": 718,
+      "english_chars": 873
+    }
+  ],
+  "failures": []
+}

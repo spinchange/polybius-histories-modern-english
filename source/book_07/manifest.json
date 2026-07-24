@@ -1,0 +1,154 @@
+{
+  "book": 7,
+  "chapter_count": 21,
+  "chapters": [
+    {
+      "chapter": "1",
+      "title": "Capua and Petelia",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_07\\chapter_01.md",
+      "greek_chars": 1751,
+      "english_chars": 0
+    },
+    {
+      "chapter": "2",
+      "title": "Hieronymus of Syracuse",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_07\\chapter_02.md",
+      "greek_chars": 3199,
+      "english_chars": 0
+    },
+    {
+      "chapter": "3",
+      "title": "Hieronymus of Syracuse",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_07\\chapter_03.md",
+      "greek_chars": 4055,
+      "english_chars": 0
+    },
+    {
+      "chapter": "4",
+      "title": "The Treaty with Carthage",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_07\\chapter_04.md",
+      "greek_chars": 4055,
+      "english_chars": 0
+    },
+    {
+      "chapter": "5",
+      "title": "Hieronymus Decides For War",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_07\\chapter_05.md",
+      "greek_chars": 3472,
+      "english_chars": 0
+    },
+    {
+      "chapter": "6",
+      "title": "Description of Leontini",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_07\\chapter_06.md",
+      "greek_chars": 1796,
+      "english_chars": 0
+    },
+    {
+      "chapter": "7",
+      "title": "Fall of Heronymus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_07\\chapter_07.md",
+      "greek_chars": 3284,
+      "english_chars": 0
+    },
+    {
+      "chapter": "8",
+      "title": "Character of Hiero II",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_07\\chapter_08.md",
+      "greek_chars": 3213,
+      "english_chars": 0
+    },
+    {
+      "chapter": "9",
+      "title": "Treaty Between Hannibal and King Philip V. of Macedon",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_07\\chapter_09.md",
+      "greek_chars": 7824,
+      "english_chars": 0
+    },
+    {
+      "chapter": "10",
+      "title": "Messene and Philip V. in B. C. 215",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_07\\chapter_10.md",
+      "greek_chars": 2135,
+      "english_chars": 0
+    },
+    {
+      "chapter": "11",
+      "title": "Philip Dissuaded from Taking Messene",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_07\\chapter_11.md",
+      "greek_chars": 4683,
+      "english_chars": 0
+    },
+    {
+      "chapter": "12",
+      "title": "Philip's Loss of Popularity",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_07\\chapter_12.md",
+      "greek_chars": 4528,
+      "english_chars": 0
+    },
+    {
+      "chapter": "13",
+      "title": "Philip Begins to Become a Tyrant",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_07\\chapter_13.md",
+      "greek_chars": 3746,
+      "english_chars": 0
+    },
+    {
+      "chapter": "14",
+      "title": "Aratus a Moderating Influence on Philip",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_07\\chapter_14.md",
+      "greek_chars": 2969,
+      "english_chars": 0
+    },
+    {
+      "chapter": "14b",
+      "title": "Chapter 14b",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_07\\chapter_14b.md",
+      "greek_chars": 314,
+      "english_chars": 0
+    },
+    {
+      "chapter": "14c",
+      "title": "Chapter 14c",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_07\\chapter_14c.md",
+      "greek_chars": 397,
+      "english_chars": 0
+    },
+    {
+      "chapter": "14d",
+      "title": "Chapter 14d",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_07\\chapter_14d.md",
+      "greek_chars": 443,
+      "english_chars": 0
+    },
+    {
+      "chapter": "15",
+      "title": "The War of Antiochus with Achaeus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_07\\chapter_15.md",
+      "greek_chars": 4475,
+      "english_chars": 0
+    },
+    {
+      "chapter": "16",
+      "title": "Antiochus Takes Sardis",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_07\\chapter_16.md",
+      "greek_chars": 4118,
+      "english_chars": 0
+    },
+    {
+      "chapter": "17",
+      "title": "The Sack of Sardis",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_07\\chapter_17.md",
+      "greek_chars": 3886,
+      "english_chars": 0
+    },
+    {
+      "chapter": "18",
+      "title": "Sardis Destroyed",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_07\\chapter_18.md",
+      "greek_chars": 3272,
+      "english_chars": 0
+    }
+  ],
+  "failures": []
+}

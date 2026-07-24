@@ -1,0 +1,63 @@
+{
+  "book": 39,
+  "chapter_count": 8,
+  "chapters": [
+    {
+      "chapter": "1",
+      "title": "Variety Is Pleasing",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_39\\chapter_01.md",
+      "greek_chars": 3960,
+      "english_chars": 0
+    },
+    {
+      "chapter": "2",
+      "title": "Digressions in History",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_39\\chapter_02.md",
+      "greek_chars": 2775,
+      "english_chars": 0
+    },
+    {
+      "chapter": "3",
+      "title": "Scipio Intends to Fight",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_39\\chapter_03.md",
+      "greek_chars": 2758,
+      "english_chars": 0
+    },
+    {
+      "chapter": "4",
+      "title": "Fall of Carthage",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_39\\chapter_04.md",
+      "greek_chars": 3739,
+      "english_chars": 0
+    },
+    {
+      "chapter": "5",
+      "title": "Diaeus Succeeds Critolaus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_39\\chapter_05.md",
+      "greek_chars": 4372,
+      "english_chars": 0
+    },
+    {
+      "chapter": "6",
+      "title": "Chapter 6",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_39\\chapter_06.md",
+      "greek_chars": 852,
+      "english_chars": 0
+    },
+    {
+      "chapter": "7",
+      "title": "Character of Pytheas",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_39\\chapter_07.md",
+      "greek_chars": 1526,
+      "english_chars": 0
+    },
+    {
+      "chapter": "8",
+      "title": "Diaeus Becomes Strategus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_39\\chapter_08.md",
+      "greek_chars": 4681,
+      "english_chars": 0
+    }
+  ],
+  "failures": []
+}

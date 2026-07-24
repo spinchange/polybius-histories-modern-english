@@ -1,0 +1,133 @@
+{
+  "book": 23,
+  "chapter_count": 18,
+  "chapters": [
+    {
+      "chapter": "1",
+      "title": "Demetrius Before the Senate",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_23\\chapter_01.md",
+      "greek_chars": 2218,
+      "english_chars": 2280
+    },
+    {
+      "chapter": "2",
+      "title": "Demetrius in the Senate",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_23\\chapter_02.md",
+      "greek_chars": 1785,
+      "english_chars": 2125
+    },
+    {
+      "chapter": "3",
+      "title": "Philip's Jealousy Roused",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_23\\chapter_03.md",
+      "greek_chars": 1773,
+      "english_chars": 2133
+    },
+    {
+      "chapter": "4",
+      "title": "The Spartan Ambassadors",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_23\\chapter_04.md",
+      "greek_chars": 2355,
+      "english_chars": 3099
+    },
+    {
+      "chapter": "5",
+      "title": "Deinocrates of Messene",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_23\\chapter_05.md",
+      "greek_chars": 2818,
+      "english_chars": 3768
+    },
+    {
+      "chapter": "6",
+      "title": "Ambassadors from the Spartan Exiles",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_23\\chapter_06.md",
+      "greek_chars": 344,
+      "english_chars": 352
+    },
+    {
+      "chapter": "7",
+      "title": "Philip and Perseus are Jealous of Demetrius",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_23\\chapter_07.md",
+      "greek_chars": 1068,
+      "english_chars": 1547
+    },
+    {
+      "chapter": "8",
+      "title": "Death of Demetrius",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_23\\chapter_08.md",
+      "greek_chars": 953,
+      "english_chars": 1017
+    },
+    {
+      "chapter": "9",
+      "title": "The Senate Refuses to Help Either Messene or Achaia",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_23\\chapter_09.md",
+      "greek_chars": 2779,
+      "english_chars": 3177
+    },
+    {
+      "chapter": "10",
+      "title": "Philip's Desperate Measures",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_23\\chapter_10.md",
+      "greek_chars": 3164,
+      "english_chars": 3331
+    },
+    {
+      "chapter": "11",
+      "title": "Philip Addresses his Sons",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_23\\chapter_11.md",
+      "greek_chars": 1412,
+      "english_chars": 1449
+    },
+    {
+      "chapter": "12",
+      "title": "The Fall of Philopoemen",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_23\\chapter_12.md",
+      "greek_chars": 1178,
+      "english_chars": 2092
+    },
+    {
+      "chapter": "13",
+      "title": "Character of Hannibal",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_23\\chapter_13.md",
+      "greek_chars": 474,
+      "english_chars": 693
+    },
+    {
+      "chapter": "14",
+      "title": "Character of P. Cornelius Scipio Africanus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_23\\chapter_14.md",
+      "greek_chars": 1827,
+      "english_chars": 2260
+    },
+    {
+      "chapter": "15",
+      "title": "Submission of the Messenians",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_23\\chapter_15.md",
+      "greek_chars": 707,
+      "english_chars": 694
+    },
+    {
+      "chapter": "16",
+      "title": "Lycortas Defeats Messene",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_23\\chapter_16.md",
+      "greek_chars": 2227,
+      "english_chars": 2816
+    },
+    {
+      "chapter": "17",
+      "title": "Arguments For and Against Admitting Sparta",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_23\\chapter_17.md",
+      "greek_chars": 2316,
+      "english_chars": 2583
+    },
+    {
+      "chapter": "18",
+      "title": "Sparta Included In the League",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_23\\chapter_18.md",
+      "greek_chars": 686,
+      "english_chars": 966
+    }
+  ],
+  "failures": []
+}

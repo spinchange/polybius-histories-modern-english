@@ -1,0 +1,399 @@
+{
+  "book": 18,
+  "chapter_count": 56,
+  "chapters": [
+    {
+      "chapter": "1",
+      "title": "The War with Philip",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_01.md",
+      "greek_chars": 2112,
+      "english_chars": 2516
+    },
+    {
+      "chapter": "2",
+      "title": "Congress of Nicaea",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_02.md",
+      "greek_chars": 1084,
+      "english_chars": 1264
+    },
+    {
+      "chapter": "3",
+      "title": "Speech of Alexander Isius",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_03.md",
+      "greek_chars": 2146,
+      "english_chars": 2316
+    },
+    {
+      "chapter": "4",
+      "title": "Philip's Response",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_04.md",
+      "greek_chars": 1486,
+      "english_chars": 1641
+    },
+    {
+      "chapter": "5",
+      "title": "Philip Retorts On His Accusers",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_05.md",
+      "greek_chars": 1251,
+      "english_chars": 1460
+    },
+    {
+      "chapter": "6",
+      "title": "Philip's Answer to the Rhodians and Attalus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_06.md",
+      "greek_chars": 1223,
+      "english_chars": 1362
+    },
+    {
+      "chapter": "7",
+      "title": "A Retort of Flamininus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_07.md",
+      "greek_chars": 1245,
+      "english_chars": 1380
+    },
+    {
+      "chapter": "8",
+      "title": "The Dispute Referred To the Senate",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_08.md",
+      "greek_chars": 1723,
+      "english_chars": 2005
+    },
+    {
+      "chapter": "9",
+      "title": "They Agree to Send Envoys to the Roman Senate",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_09.md",
+      "greek_chars": 1723,
+      "english_chars": 2144
+    },
+    {
+      "chapter": "10",
+      "title": "Pleadings Before the Senate",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_10.md",
+      "greek_chars": 1833,
+      "english_chars": 1988
+    },
+    {
+      "chapter": "11",
+      "title": "The Greeks Ask for Help Against Philip",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_11.md",
+      "greek_chars": 2199,
+      "english_chars": 2586
+    },
+    {
+      "chapter": "12",
+      "title": "Greece Assigned to Flamininus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_12.md",
+      "greek_chars": 766,
+      "english_chars": 820
+    },
+    {
+      "chapter": "13",
+      "title": "Wise Patriots or Traitors?",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_13.md",
+      "greek_chars": 1417,
+      "english_chars": 1515
+    },
+    {
+      "chapter": "14",
+      "title": "Comparison with Philip II and Demosthenes",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_14.md",
+      "greek_chars": 2632,
+      "english_chars": 3546
+    },
+    {
+      "chapter": "15",
+      "title": "The Fate of Traitors",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_15.md",
+      "greek_chars": 2717,
+      "english_chars": 2973
+    },
+    {
+      "chapter": "16",
+      "title": "Attalus in Sicyon",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_16.md",
+      "greek_chars": 528,
+      "english_chars": 801
+    },
+    {
+      "chapter": "17",
+      "title": "Attalus and the Boeotians",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_17.md",
+      "greek_chars": 705,
+      "english_chars": 844
+    },
+    {
+      "chapter": "18",
+      "title": "Roman and Greek Palisading",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_18.md",
+      "greek_chars": 2682,
+      "english_chars": 3190
+    },
+    {
+      "chapter": "19",
+      "title": "Flamininus and Philip Nearing Each Other",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_19.md",
+      "greek_chars": 1852,
+      "english_chars": 2102
+    },
+    {
+      "chapter": "20",
+      "title": "Both Sides Advance on Scotusa",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_20.md",
+      "greek_chars": 1580,
+      "english_chars": 1939
+    },
+    {
+      "chapter": "21",
+      "title": "The Macedonians Send for Help",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_21.md",
+      "greek_chars": 1281,
+      "english_chars": 1535
+    },
+    {
+      "chapter": "22",
+      "title": "Skirmishes Before the Main Battle",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_22.md",
+      "greek_chars": 2109,
+      "english_chars": 2456
+    },
+    {
+      "chapter": "23",
+      "title": "Flamininus Rouses His Troops",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_23.md",
+      "greek_chars": 1395,
+      "english_chars": 1648
+    },
+    {
+      "chapter": "24",
+      "title": "The Battle of Cynoscephalae",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_24.md",
+      "greek_chars": 1901,
+      "english_chars": 2163
+    },
+    {
+      "chapter": "25",
+      "title": "The Battle",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_25.md",
+      "greek_chars": 1516,
+      "english_chars": 2350
+    },
+    {
+      "chapter": "26",
+      "title": "Philip's Defeat and Flight",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_26.md",
+      "greek_chars": 1993,
+      "english_chars": 2461
+    },
+    {
+      "chapter": "27",
+      "title": "Philip Retreats, the Romans Plunder",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_27.md",
+      "greek_chars": 1264,
+      "english_chars": 1505
+    },
+    {
+      "chapter": "28",
+      "title": "The Macedonian Phalanx",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_28.md",
+      "greek_chars": 2252,
+      "english_chars": 2466
+    },
+    {
+      "chapter": "29",
+      "title": "A Well-Formed Phalanx is Irresistible",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_29.md",
+      "greek_chars": 1255,
+      "english_chars": 1491
+    },
+    {
+      "chapter": "30",
+      "title": "Roman Soldiers in More Open Order",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_30.md",
+      "greek_chars": 1944,
+      "english_chars": 2236
+    },
+    {
+      "chapter": "31",
+      "title": "Cumbrous Nature of the Phalanx",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_31.md",
+      "greek_chars": 1946,
+      "english_chars": 2080
+    },
+    {
+      "chapter": "32",
+      "title": "How the Romans Fight Against a Phalanx",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_32.md",
+      "greek_chars": 2255,
+      "english_chars": 2514
+    },
+    {
+      "chapter": "33",
+      "title": "Philip's Conduct After the Battle",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_33.md",
+      "greek_chars": 1377,
+      "english_chars": 1625
+    },
+    {
+      "chapter": "34",
+      "title": "Flamininus and the Aetolians At Odds",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_34.md",
+      "greek_chars": 1397,
+      "english_chars": 1776
+    },
+    {
+      "chapter": "35",
+      "title": "Comparative Incorruptibility of Romans",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_35.md",
+      "greek_chars": 2295,
+      "english_chars": 2828
+    },
+    {
+      "chapter": "36",
+      "title": "Congress at Tempe Begins",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_36.md",
+      "greek_chars": 1593,
+      "english_chars": 1660
+    },
+    {
+      "chapter": "37",
+      "title": "Debate In the Congress At Tempe",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_37.md",
+      "greek_chars": 1940,
+      "english_chars": 2449
+    },
+    {
+      "chapter": "38",
+      "title": "Philip Comes to the Conference",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_38.md",
+      "greek_chars": 1605,
+      "english_chars": 2148
+    },
+    {
+      "chapter": "39",
+      "title": "Peace Terms Agreed On",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_39.md",
+      "greek_chars": 1180,
+      "english_chars": 1544
+    },
+    {
+      "chapter": "40",
+      "title": "Foolish Credulity",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_40.md",
+      "greek_chars": 501,
+      "english_chars": 600
+    },
+    {
+      "chapter": "41",
+      "title": "Asia: King Attalus I",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_41.md",
+      "greek_chars": 1699,
+      "english_chars": 2414
+    },
+    {
+      "chapter": "41a",
+      "title": "Chapter 41a",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_41a.md",
+      "greek_chars": 432,
+      "english_chars": 0
+    },
+    {
+      "chapter": "42",
+      "title": "Italy: Treaty with Philip Confirmed",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_42.md",
+      "greek_chars": 1202,
+      "english_chars": 1354
+    },
+    {
+      "chapter": "43",
+      "title": "Greece: Murder of Brachylles",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_43.md",
+      "greek_chars": 2175,
+      "english_chars": 2573
+    },
+    {
+      "chapter": "44",
+      "title": "Decree of the Senate on the Peace with Philip",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_44.md",
+      "greek_chars": 1031,
+      "english_chars": 1045
+    },
+    {
+      "chapter": "45",
+      "title": "The Freedom of Greece",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_45.md",
+      "greek_chars": 2399,
+      "english_chars": 2878
+    },
+    {
+      "chapter": "46",
+      "title": "Proclamation At the Isthmian Games",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_46.md",
+      "greek_chars": 3076,
+      "english_chars": 3607
+    },
+    {
+      "chapter": "47",
+      "title": "The Commissioners Make Detailed Arrangements",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_47.md",
+      "greek_chars": 1914,
+      "english_chars": 2085
+    },
+    {
+      "chapter": "48",
+      "title": "The Commissioners Carry Word Throughout Greece",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_48.md",
+      "greek_chars": 1469,
+      "english_chars": 1783
+    },
+    {
+      "chapter": "49",
+      "title": "Asia: Roman Envoys To Antiochus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_49.md",
+      "greek_chars": 382,
+      "english_chars": 442
+    },
+    {
+      "chapter": "50",
+      "title": "Conference Between Roman Legates and Antiochus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_50.md",
+      "greek_chars": 1255,
+      "english_chars": 1673
+    },
+    {
+      "chapter": "51",
+      "title": "The King's Reply",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_51.md",
+      "greek_chars": 1506,
+      "english_chars": 1876
+    },
+    {
+      "chapter": "52",
+      "title": "Antiochus Demands a Rhodian Court",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_52.md",
+      "greek_chars": 601,
+      "english_chars": 726
+    },
+    {
+      "chapter": "53",
+      "title": "Egypt: Fall of Scopas",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_53.md",
+      "greek_chars": 1696,
+      "english_chars": 2010
+    },
+    {
+      "chapter": "54",
+      "title": "Scopas and Dicaearchus Punished",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_54.md",
+      "greek_chars": 1943,
+      "english_chars": 2281
+    },
+    {
+      "chapter": "55",
+      "title": "Anacleteria of Ptolemy Epiphanes",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_18\\chapter_55.md",
+      "greek_chars": 1722,
+      "english_chars": 2233
+    }
+  ],
+  "failures": []
+}

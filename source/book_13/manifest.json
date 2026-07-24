@@ -1,0 +1,84 @@
+{
+  "book": 13,
+  "chapter_count": 11,
+  "chapters": [
+    {
+      "chapter": "1",
+      "title": "The Aetolians",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_13\\chapter_01.md",
+      "greek_chars": 479,
+      "english_chars": 1175
+    },
+    {
+      "chapter": "1a",
+      "title": "Chapter 1a",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_13\\chapter_1a.md",
+      "greek_chars": 517,
+      "english_chars": 0
+    },
+    {
+      "chapter": "2",
+      "title": "Scopas Goes to Egypt",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_13\\chapter_02.md",
+      "greek_chars": 1070,
+      "english_chars": 1041
+    },
+    {
+      "chapter": "3",
+      "title": "Philip's Treacherous Conduct, B. C. 204",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_13\\chapter_03.md",
+      "greek_chars": 1402,
+      "english_chars": 1517
+    },
+    {
+      "chapter": "4",
+      "title": "Philip Intrigues Against Rhodes",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_13\\chapter_04.md",
+      "greek_chars": 1425,
+      "english_chars": 1513
+    },
+    {
+      "chapter": "5",
+      "title": "Distrust between Philip and the Rhodians",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_13\\chapter_05.md",
+      "greek_chars": 1082,
+      "english_chars": 1689
+    },
+    {
+      "chapter": "6",
+      "title": "Nabis, Tyrant of Sparta, B.C. 207-192",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_13\\chapter_06.md",
+      "greek_chars": 1575,
+      "english_chars": 1801
+    },
+    {
+      "chapter": "7",
+      "title": "Nabis's Wife",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_13\\chapter_07.md",
+      "greek_chars": 1511,
+      "english_chars": 1710
+    },
+    {
+      "chapter": "8",
+      "title": "Nabis Finds a Pretext for War",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_13\\chapter_08.md",
+      "greek_chars": 1299,
+      "english_chars": 1479
+    },
+    {
+      "chapter": "9",
+      "title": "Antiochus in Arabia, B.C. 205-204",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_13\\chapter_09.md",
+      "greek_chars": 1015,
+      "english_chars": 861
+    },
+    {
+      "chapter": "10",
+      "title": "Chapter 10",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_13\\chapter_10.md",
+      "greek_chars": 888,
+      "english_chars": 0
+    }
+  ],
+  "failures": []
+}

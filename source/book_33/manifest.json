@@ -1,0 +1,147 @@
+{
+  "book": 33,
+  "chapter_count": 20,
+  "chapters": [
+    {
+      "chapter": "1",
+      "title": "War Against Attalus Prevented",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_33\\chapter_01.md",
+      "greek_chars": 1361,
+      "english_chars": 1743
+    },
+    {
+      "chapter": "3",
+      "title": "Release of Achaeans Refused",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_33\\chapter_03.md",
+      "greek_chars": 318,
+      "english_chars": 673
+    },
+    {
+      "chapter": "4",
+      "title": "Character of Aristocrates",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_33\\chapter_04.md",
+      "greek_chars": 410,
+      "english_chars": 667
+    },
+    {
+      "chapter": "5",
+      "title": "Suicide of Archias",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_33\\chapter_05.md",
+      "greek_chars": 621,
+      "english_chars": 609
+    },
+    {
+      "chapter": "6",
+      "title": "The Prienians Refuse to Give Orophernes' Funds to Ariarathes",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_33\\chapter_06.md",
+      "greek_chars": 1395,
+      "english_chars": 1704
+    },
+    {
+      "chapter": "7",
+      "title": "Marseilles Complains about the Ligurians",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_33\\chapter_07.md",
+      "greek_chars": 652,
+      "english_chars": 766
+    },
+    {
+      "chapter": "8",
+      "title": "The Ligurians, Ptolemies, And Prusias",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_33\\chapter_08.md",
+      "greek_chars": 522,
+      "english_chars": 1292
+    },
+    {
+      "chapter": "9",
+      "title": "The Senate Appoints Commissioners to Stop the War",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_33\\chapter_09.md",
+      "greek_chars": 1211,
+      "english_chars": 807
+    },
+    {
+      "chapter": "10",
+      "title": "The Ligurians Resist Roman Intervention",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_33\\chapter_10.md",
+      "greek_chars": 2084,
+      "english_chars": 1541
+    },
+    {
+      "chapter": "11",
+      "title": "Ligurian War",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_33\\chapter_11.md",
+      "greek_chars": 1037,
+      "english_chars": 2445
+    },
+    {
+      "chapter": "12",
+      "title": "Roman Commissioners Visit Attalus and Prusias",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_33\\chapter_12.md",
+      "greek_chars": 1466,
+      "english_chars": 1691
+    },
+    {
+      "chapter": "13",
+      "title": "Roman Envoys Make Peace Between Prusias and Attalus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_33\\chapter_13.md",
+      "greek_chars": 1379,
+      "english_chars": 1385
+    },
+    {
+      "chapter": "14",
+      "title": "Another Embassy from Achaia",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_33\\chapter_14.md",
+      "greek_chars": 202,
+      "english_chars": 188
+    },
+    {
+      "chapter": "15",
+      "title": "War Between Rhodes and Crete",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_33\\chapter_15.md",
+      "greek_chars": 512,
+      "english_chars": 648
+    },
+    {
+      "chapter": "16",
+      "title": "Crete and Rhodes Ask the Achaeans for Help",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_33\\chapter_16.md",
+      "greek_chars": 1221,
+      "english_chars": 1517
+    },
+    {
+      "chapter": "17",
+      "title": "Unreasonable Actions of the Rhodians",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_33\\chapter_17.md",
+      "greek_chars": 1019,
+      "english_chars": 1155
+    },
+    {
+      "chapter": "18",
+      "title": "Alexander Balas",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_33\\chapter_18.md",
+      "greek_chars": 2203,
+      "english_chars": 2922
+    },
+    {
+      "chapter": "19",
+      "title": "Demetrius's Intemperance",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_33\\chapter_19.md",
+      "greek_chars": 171,
+      "english_chars": 212
+    },
+    {
+      "chapter": "20",
+      "title": "The Multitude Will Act on its Feelings",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_33\\chapter_20.md",
+      "greek_chars": 179,
+      "english_chars": 596
+    },
+    {
+      "chapter": "21",
+      "title": "Chapter 21",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_33\\chapter_21.md",
+      "greek_chars": 367,
+      "english_chars": 0
+    }
+  ],
+  "failures": []
+}

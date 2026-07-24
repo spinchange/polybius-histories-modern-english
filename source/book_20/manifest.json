@@ -1,0 +1,91 @@
+{
+  "book": 20,
+  "chapter_count": 12,
+  "chapters": [
+    {
+      "chapter": "1",
+      "title": "Greece: Antiochus and the Aetolians Meet",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_20\\chapter_01.md",
+      "greek_chars": 214,
+      "english_chars": 524
+    },
+    {
+      "chapter": "2",
+      "title": "The Boeotians Answer Antiochus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_20\\chapter_02.md",
+      "greek_chars": 171,
+      "english_chars": 171
+    },
+    {
+      "chapter": "3",
+      "title": "Epirus and Elis Ask Antiochus for Help",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_20\\chapter_03.md",
+      "greek_chars": 982,
+      "english_chars": 1112
+    },
+    {
+      "chapter": "4",
+      "title": "The Decline of Boeotia",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_20\\chapter_04.md",
+      "greek_chars": 1209,
+      "english_chars": 1479
+    },
+    {
+      "chapter": "5",
+      "title": "Continued Decline of Boeotia",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_20\\chapter_05.md",
+      "greek_chars": 2453,
+      "english_chars": 2918
+    },
+    {
+      "chapter": "6",
+      "title": "Disorganised State of Boeotia",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_20\\chapter_06.md",
+      "greek_chars": 2238,
+      "english_chars": 2605
+    },
+    {
+      "chapter": "7",
+      "title": "Fortune and Degeneracy of the Boeotians",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_20\\chapter_07.md",
+      "greek_chars": 767,
+      "english_chars": 1143
+    },
+    {
+      "chapter": "8",
+      "title": "Submission of the Aetolian Officers",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_20\\chapter_08.md",
+      "greek_chars": 956,
+      "english_chars": 997
+    },
+    {
+      "chapter": "9",
+      "title": "The Aetolians Seek a Truce",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_20\\chapter_09.md",
+      "greek_chars": 1850,
+      "english_chars": 2091
+    },
+    {
+      "chapter": "10",
+      "title": "The Aetolians Do Not Confirm the Terms",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_20\\chapter_10.md",
+      "greek_chars": 2931,
+      "english_chars": 3333
+    },
+    {
+      "chapter": "11",
+      "title": "The Fate of Nicander",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_20\\chapter_11.md",
+      "greek_chars": 2050,
+      "english_chars": 2063
+    },
+    {
+      "chapter": "12",
+      "title": "Philopoemen's Disinterestedness",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_20\\chapter_12.md",
+      "greek_chars": 1698,
+      "english_chars": 2542
+    }
+  ],
+  "failures": []
+}

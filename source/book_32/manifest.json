@@ -1,0 +1,119 @@
+{
+  "book": 32,
+  "chapter_count": 16,
+  "chapters": [
+    {
+      "chapter": "1",
+      "title": "The Senate Breaks its Alliance with Ptolemy Philometor",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_32\\chapter_01.md",
+      "greek_chars": 993,
+      "english_chars": 1155
+    },
+    {
+      "chapter": "2",
+      "title": "Massanissa Harasses the Carthaginians",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_32\\chapter_02.md",
+      "greek_chars": 1228,
+      "english_chars": 1932
+    },
+    {
+      "chapter": "3",
+      "title": "Prusias Accuses Eumenes",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_32\\chapter_03.md",
+      "greek_chars": 2565,
+      "english_chars": 482
+    },
+    {
+      "chapter": "4",
+      "title": "Demetrius and Ariarathes",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_32\\chapter_04.md",
+      "greek_chars": 670,
+      "english_chars": 1261
+    },
+    {
+      "chapter": "5",
+      "title": "Ambassadors from Ariarathes",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_32\\chapter_05.md",
+      "greek_chars": 2223,
+      "english_chars": 1144
+    },
+    {
+      "chapter": "6",
+      "title": "Isocrates Comes to Rome as Ambassador",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_32\\chapter_06.md",
+      "greek_chars": 1450,
+      "english_chars": 1665
+    },
+    {
+      "chapter": "7",
+      "title": "Isocrates the Grammarian",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_32\\chapter_07.md",
+      "greek_chars": 738,
+      "english_chars": 3117
+    },
+    {
+      "chapter": "8",
+      "title": "Legacy of L. Aemilius Paulus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_32\\chapter_08.md",
+      "greek_chars": 966,
+      "english_chars": 2044
+    },
+    {
+      "chapter": "9",
+      "title": "Scipio the Younger and Polybius",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_32\\chapter_09.md",
+      "greek_chars": 757,
+      "english_chars": 2091
+    },
+    {
+      "chapter": "10",
+      "title": "Polybius Responds to Scipio's Speech",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_32\\chapter_10.md",
+      "greek_chars": 1271,
+      "english_chars": 2032
+    },
+    {
+      "chapter": "11",
+      "title": "Character of the Younger Scipio",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_32\\chapter_11.md",
+      "greek_chars": 1627,
+      "english_chars": 1800
+    },
+    {
+      "chapter": "12",
+      "title": "Scipio's Generosity to his Mother",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_32\\chapter_12.md",
+      "greek_chars": 153,
+      "english_chars": 2312
+    },
+    {
+      "chapter": "13",
+      "title": "Scipio's Liberality",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_32\\chapter_13.md",
+      "greek_chars": 1598,
+      "english_chars": 3484
+    },
+    {
+      "chapter": "14",
+      "title": "Scipio's Manliness",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_32\\chapter_14.md",
+      "greek_chars": 302,
+      "english_chars": 3535
+    },
+    {
+      "chapter": "15",
+      "title": "Scipio's Courage",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_32\\chapter_15.md",
+      "greek_chars": 2167,
+      "english_chars": 2624
+    },
+    {
+      "chapter": "16",
+      "title": "Scipio's Success Due to his Character",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_32\\chapter_16.md",
+      "greek_chars": 842,
+      "english_chars": 753
+    }
+  ],
+  "failures": []
+}

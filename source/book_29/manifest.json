@@ -1,0 +1,196 @@
+{
+  "book": 29,
+  "chapter_count": 27,
+  "chapters": [
+    {
+      "chapter": "1",
+      "title": "Speech of L. Aemilius Paullus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_29\\chapter_01.md",
+      "greek_chars": 621,
+      "english_chars": 829
+    },
+    {
+      "chapter": "2",
+      "title": "Gaius Popilius Laenas Sent to Alexandria",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_29\\chapter_02.md",
+      "greek_chars": 387,
+      "english_chars": 500
+    },
+    {
+      "chapter": "3",
+      "title": "Genthius Forms an Alliance with Perseus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_29\\chapter_03.md",
+      "greek_chars": 1845,
+      "english_chars": 1944
+    },
+    {
+      "chapter": "4",
+      "title": "Genthius Joins Perseus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_29\\chapter_04.md",
+      "greek_chars": 1985,
+      "english_chars": 2242
+    },
+    {
+      "chapter": "5",
+      "title": "Difficulty of Explaining the Intrigues of Perseus and Eumenes",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_29\\chapter_05.md",
+      "greek_chars": 645,
+      "english_chars": 934
+    },
+    {
+      "chapter": "6",
+      "title": "Reasons to Suspect Intrigue between Eumenes and Perseus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_29\\chapter_06.md",
+      "greek_chars": 1204,
+      "english_chars": 1549
+    },
+    {
+      "chapter": "7",
+      "title": "Eumenes Intrigues With Perseus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_29\\chapter_07.md",
+      "greek_chars": 1188,
+      "english_chars": 1586
+    },
+    {
+      "chapter": "8",
+      "title": "Struggle between Eumenes and Perseus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_29\\chapter_08.md",
+      "greek_chars": 1801,
+      "english_chars": 1956
+    },
+    {
+      "chapter": "9",
+      "title": "The Avarice of Perseus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_29\\chapter_09.md",
+      "greek_chars": 1945,
+      "english_chars": 2273
+    },
+    {
+      "chapter": "10",
+      "title": "Rhodes Decides to Seek Peace",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_29\\chapter_10.md",
+      "greek_chars": 982,
+      "english_chars": 1198
+    },
+    {
+      "chapter": "11",
+      "title": "Turbulent Assembly at Rhodes",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_29\\chapter_11.md",
+      "greek_chars": 827,
+      "english_chars": 990
+    },
+    {
+      "chapter": "12",
+      "title": "Of Proportion In History",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_29\\chapter_12.md",
+      "greek_chars": 2227,
+      "english_chars": 2735
+    },
+    {
+      "chapter": "13",
+      "title": "Character of Genthius",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_29\\chapter_13.md",
+      "greek_chars": 314,
+      "english_chars": 880
+    },
+    {
+      "chapter": "14",
+      "title": "Scipio Nasica and Fabius Maximus Volunteer to Outflank the Macedonians",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_29\\chapter_14.md",
+      "greek_chars": 556,
+      "english_chars": 1226
+    },
+    {
+      "chapter": "15",
+      "title": "A Cretan Deserter Brings Intelligence to Perseus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_29\\chapter_15.md",
+      "greek_chars": 499,
+      "english_chars": 891
+    },
+    {
+      "chapter": "16",
+      "title": "Battle of Pydna",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_29\\chapter_16.md",
+      "greek_chars": 305,
+      "english_chars": 1134
+    },
+    {
+      "chapter": "17",
+      "title": "Perseus Loses His Resolve",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_29\\chapter_17.md",
+      "greek_chars": 867,
+      "english_chars": 1090
+    },
+    {
+      "chapter": "18",
+      "title": "Ambitious Youth",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_29\\chapter_18.md",
+      "greek_chars": 206,
+      "english_chars": 270
+    },
+    {
+      "chapter": "19",
+      "title": "The Senate Makes an Example of the Rhodian Ambassadors",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_29\\chapter_19.md",
+      "greek_chars": 1816,
+      "english_chars": 2122
+    },
+    {
+      "chapter": "20",
+      "title": "Perseus an Example of the Impermanence of Fortune",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_29\\chapter_20.md",
+      "greek_chars": 682,
+      "english_chars": 933
+    },
+    {
+      "chapter": "21",
+      "title": "Uncertainties of Fortune",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_29\\chapter_21.md",
+      "greek_chars": 1672,
+      "english_chars": 1885
+    },
+    {
+      "chapter": "22",
+      "title": "Further Problems for Eumenes",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_29\\chapter_22.md",
+      "greek_chars": 776,
+      "english_chars": 1202
+    },
+    {
+      "chapter": "23",
+      "title": "The Ptolemies Ask Help From Achaia",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_29\\chapter_23.md",
+      "greek_chars": 1827,
+      "english_chars": 2005
+    },
+    {
+      "chapter": "24",
+      "title": "The Achaeans Agree to Help the Ptolemies",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_29\\chapter_24.md",
+      "greek_chars": 2906,
+      "english_chars": 3985
+    },
+    {
+      "chapter": "25",
+      "title": "Antiochus Forced To Leave Egypt",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_29\\chapter_25.md",
+      "greek_chars": 1141,
+      "english_chars": 1409
+    },
+    {
+      "chapter": "26",
+      "title": "Antiochus Renews the War",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_29\\chapter_26.md",
+      "greek_chars": 405,
+      "english_chars": 576
+    },
+    {
+      "chapter": "27",
+      "title": "Popilius Makes Antiochus Stop the War",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_29\\chapter_27.md",
+      "greek_chars": 2258,
+      "english_chars": 2787
+    }
+  ],
+  "failures": []
+}

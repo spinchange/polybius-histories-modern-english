@@ -1,0 +1,371 @@
+{
+  "book": 12,
+  "chapter_count": 52,
+  "chapters": [
+    {
+      "chapter": "1",
+      "title": "Geography of Libya",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_01.md",
+      "greek_chars": 515,
+      "english_chars": 287
+    },
+    {
+      "chapter": "2",
+      "title": "The Lotus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_02.md",
+      "greek_chars": 1132,
+      "english_chars": 995
+    },
+    {
+      "chapter": "3",
+      "title": "Timaeus Wrong about Libya",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_03.md",
+      "greek_chars": 1842,
+      "english_chars": 1816
+    },
+    {
+      "chapter": "4",
+      "title": "The Errors of Timaeus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_04.md",
+      "greek_chars": 2589,
+      "english_chars": 7047
+    },
+    {
+      "chapter": "4a",
+      "title": "Chapter 4a",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_4a.md",
+      "greek_chars": 1118,
+      "english_chars": 0
+    },
+    {
+      "chapter": "4b",
+      "title": "Chapter 4b",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_4b.md",
+      "greek_chars": 571,
+      "english_chars": 0
+    },
+    {
+      "chapter": "4c",
+      "title": "Chapter 4c",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_4c.md",
+      "greek_chars": 901,
+      "english_chars": 0
+    },
+    {
+      "chapter": "4d",
+      "title": "Chapter 4d",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_4d.md",
+      "greek_chars": 1210,
+      "english_chars": 0
+    },
+    {
+      "chapter": "5",
+      "title": "Aristotle's Account of Locri is Correct",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_05.md",
+      "greek_chars": 1947,
+      "english_chars": 2244
+    },
+    {
+      "chapter": "6",
+      "title": "The Epizephyrian Locrians",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_06.md",
+      "greek_chars": 910,
+      "english_chars": 4963
+    },
+    {
+      "chapter": "6a",
+      "title": "Chapter 6a",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_6a.md",
+      "greek_chars": 674,
+      "english_chars": 0
+    },
+    {
+      "chapter": "6b",
+      "title": "Chapter 6b",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_6b.md",
+      "greek_chars": 2101,
+      "english_chars": 0
+    },
+    {
+      "chapter": "7",
+      "title": "Timaeus and the Character of a Historian",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_07.md",
+      "greek_chars": 1193,
+      "english_chars": 1299
+    },
+    {
+      "chapter": "8",
+      "title": "Timaeus Criticises Aristotle",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_08.md",
+      "greek_chars": 1154,
+      "english_chars": 1419
+    },
+    {
+      "chapter": "9",
+      "title": "Timaeus's Statement of Method",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_09.md",
+      "greek_chars": 1128,
+      "english_chars": 1089
+    },
+    {
+      "chapter": "10",
+      "title": "The Investigations of Timaeus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_10.md",
+      "greek_chars": 1672,
+      "english_chars": 1966
+    },
+    {
+      "chapter": "11",
+      "title": "Timaeus's Use of Chronological Records",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_11.md",
+      "greek_chars": 1418,
+      "english_chars": 1554
+    },
+    {
+      "chapter": "12",
+      "title": "Timaeus On Divination",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_12.md",
+      "greek_chars": 1451,
+      "english_chars": 3730
+    },
+    {
+      "chapter": "12a",
+      "title": "Chapter 12a",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_12a.md",
+      "greek_chars": 731,
+      "english_chars": 0
+    },
+    {
+      "chapter": "12b",
+      "title": "Chapter 12b",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_12b.md",
+      "greek_chars": 855,
+      "english_chars": 0
+    },
+    {
+      "chapter": "13",
+      "title": "Timaeus On Demochares and Agathocles",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_13.md",
+      "greek_chars": 2069,
+      "english_chars": 2602
+    },
+    {
+      "chapter": "14",
+      "title": "No Place in History for Abusive Language",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_14.md",
+      "greek_chars": 1116,
+      "english_chars": 1159
+    },
+    {
+      "chapter": "15",
+      "title": "Timaeus Blinded by Personal Malignity",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_15.md",
+      "greek_chars": 1796,
+      "english_chars": 1917
+    },
+    {
+      "chapter": "16",
+      "title": "The Laws of Zaleucus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_16.md",
+      "greek_chars": 1990,
+      "english_chars": 2413
+    },
+    {
+      "chapter": "17",
+      "title": "A Criticism on Ephorus and Callisthenes",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_17.md",
+      "greek_chars": 1500,
+      "english_chars": 1627
+    },
+    {
+      "chapter": "18",
+      "title": "The Battle of Issus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_18.md",
+      "greek_chars": 1945,
+      "english_chars": 2329
+    },
+    {
+      "chapter": "19",
+      "title": "Callisthenes Vague on Alexander's Movements",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_19.md",
+      "greek_chars": 1639,
+      "english_chars": 1679
+    },
+    {
+      "chapter": "20",
+      "title": "Inaccuracies about Tactics",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_20.md",
+      "greek_chars": 1429,
+      "english_chars": 1706
+    },
+    {
+      "chapter": "21",
+      "title": "Worst Misstatement of Callisthenes",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_21.md",
+      "greek_chars": 1275,
+      "english_chars": 1609
+    },
+    {
+      "chapter": "22",
+      "title": "Further Absurdities",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_22.md",
+      "greek_chars": 902,
+      "english_chars": 1034
+    },
+    {
+      "chapter": "23",
+      "title": "Timaeus Exalts Timoleon To Excess",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_23.md",
+      "greek_chars": 1534,
+      "english_chars": 1606
+    },
+    {
+      "chapter": "24",
+      "title": "Timoleon. Phalaris",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_24.md",
+      "greek_chars": 1063,
+      "english_chars": 1440
+    },
+    {
+      "chapter": "25",
+      "title": "General Remarks on Timaeus as an Historian",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_25.md",
+      "greek_chars": 1823,
+      "english_chars": 19504
+    },
+    {
+      "chapter": "25a",
+      "title": "Chapter 25a",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_25a.md",
+      "greek_chars": 1201,
+      "english_chars": 0
+    },
+    {
+      "chapter": "25b",
+      "title": "Chapter 25b",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_25b.md",
+      "greek_chars": 841,
+      "english_chars": 0
+    },
+    {
+      "chapter": "25c",
+      "title": "Chapter 25c",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_25c.md",
+      "greek_chars": 1080,
+      "english_chars": 0
+    },
+    {
+      "chapter": "25d",
+      "title": "Chapter 25d",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_25d.md",
+      "greek_chars": 1827,
+      "english_chars": 0
+    },
+    {
+      "chapter": "25e",
+      "title": "Chapter 25e",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_25e.md",
+      "greek_chars": 1814,
+      "english_chars": 0
+    },
+    {
+      "chapter": "25f",
+      "title": "Chapter 25f",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_25f.md",
+      "greek_chars": 1611,
+      "english_chars": 0
+    },
+    {
+      "chapter": "25g",
+      "title": "Chapter 25g",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_25g.md",
+      "greek_chars": 783,
+      "english_chars": 0
+    },
+    {
+      "chapter": "25h",
+      "title": "Chapter 25h",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_25h.md",
+      "greek_chars": 1599,
+      "english_chars": 0
+    },
+    {
+      "chapter": "25i",
+      "title": "Chapter 25i",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_25i.md",
+      "greek_chars": 2057,
+      "english_chars": 0
+    },
+    {
+      "chapter": "25k",
+      "title": "Chapter 25k",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_25k.md",
+      "greek_chars": 2454,
+      "english_chars": 0
+    },
+    {
+      "chapter": "26",
+      "title": "Sophistical Commonplaces",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_26.md",
+      "greek_chars": 1832,
+      "english_chars": 7489
+    },
+    {
+      "chapter": "26a",
+      "title": "Chapter 26a",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_26a.md",
+      "greek_chars": 938,
+      "english_chars": 0
+    },
+    {
+      "chapter": "26b",
+      "title": "Chapter 26b",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_26b.md",
+      "greek_chars": 1242,
+      "english_chars": 0
+    },
+    {
+      "chapter": "26c",
+      "title": "Chapter 26c",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_26c.md",
+      "greek_chars": 1180,
+      "english_chars": 0
+    },
+    {
+      "chapter": "26d",
+      "title": "Chapter 26d",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_26d.md",
+      "greek_chars": 1533,
+      "english_chars": 0
+    },
+    {
+      "chapter": "27",
+      "title": "An Historian Needs Practical Experience",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_27.md",
+      "greek_chars": 1970,
+      "english_chars": 2655
+    },
+    {
+      "chapter": "27a",
+      "title": "Chapter 27a",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_27a.md",
+      "greek_chars": 594,
+      "english_chars": 0
+    },
+    {
+      "chapter": "28",
+      "title": "Mere Inquiry Is Insufficient",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_28.md",
+      "greek_chars": 2130,
+      "english_chars": 4954
+    },
+    {
+      "chapter": "28a",
+      "title": "Chapter 28a",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_12\\chapter_28a.md",
+      "greek_chars": 2258,
+      "english_chars": 0
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,126 @@
+{
+  "book": 36,
+  "chapter_count": 17,
+  "chapters": [
+    {
+      "chapter": "1",
+      "title": "The Third Punic War",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_36\\chapter_01.md",
+      "greek_chars": 1122,
+      "english_chars": 1392
+    },
+    {
+      "chapter": "2",
+      "title": "The Romans Find a Justification for War",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_36\\chapter_02.md",
+      "greek_chars": 494,
+      "english_chars": 1677
+    },
+    {
+      "chapter": "3",
+      "title": "War With Carthage Resolved Upon",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_36\\chapter_03.md",
+      "greek_chars": 1421,
+      "english_chars": 1576
+    },
+    {
+      "chapter": "4",
+      "title": "Meaning of Surrender",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_36\\chapter_04.md",
+      "greek_chars": 1649,
+      "english_chars": 2285
+    },
+    {
+      "chapter": "5",
+      "title": "Speech of Mago Brettius",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_36\\chapter_05.md",
+      "greek_chars": 1439,
+      "english_chars": 1670
+    },
+    {
+      "chapter": "6",
+      "title": "The Roman Army In Africa",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_36\\chapter_06.md",
+      "greek_chars": 1023,
+      "english_chars": 1447
+    },
+    {
+      "chapter": "7",
+      "title": "Panic at the Envoys' Report",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_36\\chapter_07.md",
+      "greek_chars": 519,
+      "english_chars": 1252
+    },
+    {
+      "chapter": "8",
+      "title": "Character of Hamilcar Phameas",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_36\\chapter_08.md",
+      "greek_chars": 1132,
+      "english_chars": 1843
+    },
+    {
+      "chapter": "9",
+      "title": "Chapter 9",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_36\\chapter_09.md",
+      "greek_chars": 3695,
+      "english_chars": 0
+    },
+    {
+      "chapter": "10",
+      "title": "Chapter 10",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_36\\chapter_10.md",
+      "greek_chars": 1098,
+      "english_chars": 0
+    },
+    {
+      "chapter": "11",
+      "title": "Chapter 11",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_36\\chapter_11.md",
+      "greek_chars": 801,
+      "english_chars": 0
+    },
+    {
+      "chapter": "12",
+      "title": "Chapter 12",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_36\\chapter_12.md",
+      "greek_chars": 954,
+      "english_chars": 0
+    },
+    {
+      "chapter": "13",
+      "title": "Chapter 13",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_36\\chapter_13.md",
+      "greek_chars": 538,
+      "english_chars": 0
+    },
+    {
+      "chapter": "14",
+      "title": "Chapter 14",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_36\\chapter_14.md",
+      "greek_chars": 917,
+      "english_chars": 0
+    },
+    {
+      "chapter": "15",
+      "title": "Chapter 15",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_36\\chapter_15.md",
+      "greek_chars": 932,
+      "english_chars": 0
+    },
+    {
+      "chapter": "16",
+      "title": "Chapter 16",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_36\\chapter_16.md",
+      "greek_chars": 1776,
+      "english_chars": 0
+    },
+    {
+      "chapter": "17",
+      "title": "Chapter 17",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_36\\chapter_17.md",
+      "greek_chars": 4003,
+      "english_chars": 0
+    }
+  ],
+  "failures": []
+}

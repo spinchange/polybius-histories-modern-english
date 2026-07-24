@@ -1,0 +1,49 @@
+{
+  "book": 25,
+  "chapter_count": 6,
+  "chapters": [
+    {
+      "chapter": "1",
+      "title": "Destruction of Celtiberian Cities",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_25\\chapter_01.md",
+      "greek_chars": 369,
+      "english_chars": 250
+    },
+    {
+      "chapter": "2",
+      "title": "The Accession of Perseus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_25\\chapter_02.md",
+      "greek_chars": 2007,
+      "english_chars": 2689
+    },
+    {
+      "chapter": "3",
+      "title": "First Acts of Perseus as King",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_25\\chapter_03.md",
+      "greek_chars": 1589,
+      "english_chars": 2543
+    },
+    {
+      "chapter": "4",
+      "title": "Character and First Measures of Perseus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_25\\chapter_04.md",
+      "greek_chars": 1628,
+      "english_chars": 2120
+    },
+    {
+      "chapter": "5",
+      "title": "Lycians Revolt Again",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_25\\chapter_05.md",
+      "greek_chars": 871,
+      "english_chars": 1088
+    },
+    {
+      "chapter": "6",
+      "title": "The Dardanian Envoys Complain about Perseus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_25\\chapter_06.md",
+      "greek_chars": 744,
+      "english_chars": 923
+    }
+  ],
+  "failures": []
+}

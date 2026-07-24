@@ -1,0 +1,147 @@
+{
+  "book": 27,
+  "chapter_count": 20,
+  "chapters": [
+    {
+      "chapter": "1",
+      "title": "Affairs In Boeotia: The War with Perseus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_27\\chapter_01.md",
+      "greek_chars": 5705,
+      "english_chars": 0
+    },
+    {
+      "chapter": "2",
+      "title": "Romans and Perseus Try to Secure Greece",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_27\\chapter_02.md",
+      "greek_chars": 4616,
+      "english_chars": 0
+    },
+    {
+      "chapter": "3",
+      "title": "Rhodes Prepares to Assist Rome",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_27\\chapter_03.md",
+      "greek_chars": 2054,
+      "english_chars": 0
+    },
+    {
+      "chapter": "4",
+      "title": "Perseus Sends a Statement to the Greeks",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_27\\chapter_04.md",
+      "greek_chars": 3518,
+      "english_chars": 0
+    },
+    {
+      "chapter": "5",
+      "title": "Perseus Sends Alexander to Boeotia",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_27\\chapter_05.md",
+      "greek_chars": 2581,
+      "english_chars": 0
+    },
+    {
+      "chapter": "6",
+      "title": "The Boeotians and Rhodians",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_27\\chapter_06.md",
+      "greek_chars": 1660,
+      "english_chars": 0
+    },
+    {
+      "chapter": "7",
+      "title": "War With Perseus Begun",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_27\\chapter_07.md",
+      "greek_chars": 8082,
+      "english_chars": 0
+    },
+    {
+      "chapter": "8",
+      "title": "Perseus Summons a Council",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_27\\chapter_08.md",
+      "greek_chars": 5420,
+      "english_chars": 0
+    },
+    {
+      "chapter": "9",
+      "title": "Moral Effect of Perseus's Successes",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_27\\chapter_09.md",
+      "greek_chars": 5660,
+      "english_chars": 0
+    },
+    {
+      "chapter": "10",
+      "title": "The Unthinking Multitude",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_27\\chapter_10.md",
+      "greek_chars": 2167,
+      "english_chars": 0
+    },
+    {
+      "chapter": "11",
+      "title": "Invention of the Cestros",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_27\\chapter_11.md",
+      "greek_chars": 1718,
+      "english_chars": 0
+    },
+    {
+      "chapter": "12",
+      "title": "Character of Cotys",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_27\\chapter_12.md",
+      "greek_chars": 655,
+      "english_chars": 0
+    },
+    {
+      "chapter": "13",
+      "title": "Indecisive Result of the First Campaign",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_27\\chapter_13.md",
+      "greek_chars": 1754,
+      "english_chars": 0
+    },
+    {
+      "chapter": "14",
+      "title": "Dispute at Rhodes",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_27\\chapter_14.md",
+      "greek_chars": 1306,
+      "english_chars": 0
+    },
+    {
+      "chapter": "15",
+      "title": "Charops of Epirus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_27\\chapter_15.md",
+      "greek_chars": 5834,
+      "english_chars": 0
+    },
+    {
+      "chapter": "16",
+      "title": "Plot to Kidnap a Roman Consul",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_27\\chapter_16.md",
+      "greek_chars": 2905,
+      "english_chars": 0
+    },
+    {
+      "chapter": "17",
+      "title": "Pharnaces, King of Pontus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_27\\chapter_17.md",
+      "greek_chars": 273,
+      "english_chars": 0
+    },
+    {
+      "chapter": "18",
+      "title": "Attalus Wants his Brother's Honours Restored",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_27\\chapter_18.md",
+      "greek_chars": 2084,
+      "english_chars": 0
+    },
+    {
+      "chapter": "19",
+      "title": "Antiochus Protests Ptolemy's War Plans",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_27\\chapter_19.md",
+      "greek_chars": 854,
+      "english_chars": 0
+    },
+    {
+      "chapter": "20",
+      "title": "The Need of Promptness and Persistence",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_27\\chapter_20.md",
+      "greek_chars": 1043,
+      "english_chars": 0
+    }
+  ],
+  "failures": []
+}

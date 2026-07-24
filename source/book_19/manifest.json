@@ -1,0 +1,21 @@
+{
+  "book": 19,
+  "chapter_count": 2,
+  "chapters": [
+    {
+      "chapter": "1",
+      "title": "Summary Based on Livy",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_19\\chapter_01.md",
+      "greek_chars": 174,
+      "english_chars": 4212
+    },
+    {
+      "chapter": "2",
+      "title": "Chapter 2",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_19\\chapter_02.md",
+      "greek_chars": 299,
+      "english_chars": 0
+    }
+  ],
+  "failures": []
+}

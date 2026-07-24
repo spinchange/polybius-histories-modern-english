@@ -1,0 +1,112 @@
+{
+  "book": 24,
+  "chapter_count": 15,
+  "chapters": [
+    {
+      "chapter": "1",
+      "title": "The Spartan Exiles Refused",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_24\\chapter_01.md",
+      "greek_chars": 1311,
+      "english_chars": 1891
+    },
+    {
+      "chapter": "2",
+      "title": "Treaty Between the Achaeans and the Messenians",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_24\\chapter_02.md",
+      "greek_chars": 795,
+      "english_chars": 1004
+    },
+    {
+      "chapter": "3",
+      "title": "Mount Haemus in Thrace",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_24\\chapter_03.md",
+      "greek_chars": 300,
+      "english_chars": 412
+    },
+    {
+      "chapter": "4",
+      "title": "Troubles in Crete",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_24\\chapter_04.md",
+      "greek_chars": 273,
+      "english_chars": 430
+    },
+    {
+      "chapter": "5",
+      "title": "Attalus Goes to Rome",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_24\\chapter_05.md",
+      "greek_chars": 1451,
+      "english_chars": 1587
+    },
+    {
+      "chapter": "6",
+      "title": "Murder of Apollonides At Sparta",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_24\\chapter_06.md",
+      "greek_chars": 1263,
+      "english_chars": 1443
+    },
+    {
+      "chapter": "7",
+      "title": "Chaeron the Spartan Demagogue",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_24\\chapter_07.md",
+      "greek_chars": 1541,
+      "english_chars": 1792
+    },
+    {
+      "chapter": "8",
+      "title": "Pharnaces Invades Cappadocia",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_24\\chapter_08.md",
+      "greek_chars": 1629,
+      "english_chars": 1994
+    },
+    {
+      "chapter": "9",
+      "title": "Eumenes and Pharnaces",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_24\\chapter_09.md",
+      "greek_chars": 2589,
+      "english_chars": 2562
+    },
+    {
+      "chapter": "10",
+      "title": "Callicrates Sent to Rome",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_24\\chapter_10.md",
+      "greek_chars": 2687,
+      "english_chars": 1900
+    },
+    {
+      "chapter": "11",
+      "title": "Callicrates Turns Traitor",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_24\\chapter_11.md",
+      "greek_chars": 1175,
+      "english_chars": 2958
+    },
+    {
+      "chapter": "12",
+      "title": "Rome and the Achaean League",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_24\\chapter_12.md",
+      "greek_chars": 985,
+      "english_chars": 3301
+    },
+    {
+      "chapter": "13",
+      "title": "Comparison Between Philopoemen and Aristaenus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_24\\chapter_13.md",
+      "greek_chars": 2237,
+      "english_chars": 1255
+    },
+    {
+      "chapter": "14",
+      "title": "Aristaenus's Attitude to Rome",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_24\\chapter_14.md",
+      "greek_chars": 1682,
+      "english_chars": 1135
+    },
+    {
+      "chapter": "15",
+      "title": "Philopoemen's Policy",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_24\\chapter_15.md",
+      "greek_chars": 2241,
+      "english_chars": 2475
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,21 @@
+{
+  "book": 26,
+  "chapter_count": 2,
+  "chapters": [
+    {
+      "chapter": "1",
+      "title": "Antiochus Epiphanes",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_26\\chapter_01.md",
+      "greek_chars": 2288,
+      "english_chars": 2713
+    },
+    {
+      "chapter": "1a",
+      "title": "Chapter 1a",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_26\\chapter_1a.md",
+      "greek_chars": 517,
+      "english_chars": 0
+    }
+  ],
+  "failures": []
+}

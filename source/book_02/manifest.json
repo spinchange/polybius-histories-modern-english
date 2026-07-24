@@ -1,0 +1,503 @@
+{
+  "book": 2,
+  "chapter_count": 71,
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "Recapitulation of Book 1",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_01.md",
+      "greek_chars": 1736,
+      "english_chars": 1955
+    },
+    {
+      "chapter": 2,
+      "title": "Situation in <a target=\"_blank\" onclick=\"openPopupWindow(this); return false\" href=\"entityvote?doc=Perseus:text:1999.01.0001&auth=tgn,7016683&n=1&type=place\">Illyria</a>",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_02.md",
+      "greek_chars": 1715,
+      "english_chars": 1983
+    },
+    {
+      "chapter": 3,
+      "title": "The Illyrians Relieve Medion",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_03.md",
+      "greek_chars": 1631,
+      "english_chars": 1884
+    },
+    {
+      "chapter": 4,
+      "title": "Death of Agron of <a target=\"_blank\" onclick=\"openPopupWindow(this); return false\" href=\"entityvote?doc=Perseus:text:1999.01.0001&auth=tgn,7016683&n=1&type=place\">Illyria</a>",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_04.md",
+      "greek_chars": 1676,
+      "english_chars": 2112
+    },
+    {
+      "chapter": 5,
+      "title": "Queen Teuta's Pirates",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_05.md",
+      "greek_chars": 1836,
+      "english_chars": 2286
+    },
+    {
+      "chapter": 6,
+      "title": "The Aetolians and Achaeans Support the Epirotes",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_06.md",
+      "greek_chars": 1836,
+      "english_chars": 2289
+    },
+    {
+      "chapter": 7,
+      "title": "A Band of Gallic Mercenaries",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_07.md",
+      "greek_chars": 2100,
+      "english_chars": 2622
+    },
+    {
+      "chapter": 8,
+      "title": "Queen Teuta and <a target=\"_blank\" onclick=\"openPopupWindow(this); return false\" href=\"entityvote?doc=Perseus:text:1999.01.0001&auth=perseus,Rome&n=1&type=place\">Rome</a>",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_08.md",
+      "greek_chars": 2326,
+      "english_chars": 2852
+    },
+    {
+      "chapter": 9,
+      "title": "Teuta Sends Out Another Fleet",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_09.md",
+      "greek_chars": 1742,
+      "english_chars": 2233
+    },
+    {
+      "chapter": 10,
+      "title": "Illyrian Victories",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_10.md",
+      "greek_chars": 1788,
+      "english_chars": 1867
+    },
+    {
+      "chapter": 11,
+      "title": "Corcyra Submits To the Romans",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_11.md",
+      "greek_chars": 2929,
+      "english_chars": 3300
+    },
+    {
+      "chapter": 12,
+      "title": "Teuta Agrees to Pay Tribute to <a target=\"_blank\" onclick=\"openPopupWindow(this); return false\" href=\"entityvote?doc=Perseus:text:1999.01.0001&auth=perseus,Rome&n=1&type=place\">Rome</a>",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_12.md",
+      "greek_chars": 1637,
+      "english_chars": 1694
+    },
+    {
+      "chapter": 13,
+      "title": "Jealousy At Rome of Hasdrubal In Spain",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_13.md",
+      "greek_chars": 1624,
+      "english_chars": 1955
+    },
+    {
+      "chapter": 14,
+      "title": "Cisalpine Gaul",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_14.md",
+      "greek_chars": 2595,
+      "english_chars": 2514
+    },
+    {
+      "chapter": 15,
+      "title": "Grain Production in Cisalpine Gaul",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_15.md",
+      "greek_chars": 1912,
+      "english_chars": 1346
+    },
+    {
+      "chapter": 16,
+      "title": "Rivers and Mountains in Northern Italy",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_16.md",
+      "greek_chars": 2713,
+      "english_chars": 3009
+    },
+    {
+      "chapter": 17,
+      "title": "Gallic Settlements In the Valley of the Po",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_17.md",
+      "greek_chars": 2061,
+      "english_chars": 3117
+    },
+    {
+      "chapter": 18,
+      "title": "Early Conflicts between Gauls and Romans",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_18.md",
+      "greek_chars": 1641,
+      "english_chars": 2006
+    },
+    {
+      "chapter": 19,
+      "title": "Gallic Wars",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_19.md",
+      "greek_chars": 2168,
+      "english_chars": 2274
+    },
+    {
+      "chapter": 20,
+      "title": "The Boii Attack the Romans and Lose",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_20.md",
+      "greek_chars": 1395,
+      "english_chars": 1821
+    },
+    {
+      "chapter": 21,
+      "title": "War with Insubres and Boii and Gaesatae",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_21.md",
+      "greek_chars": 1774,
+      "english_chars": 1850
+    },
+    {
+      "chapter": 22,
+      "title": "Several Gallic Tribes Join Forces",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_22.md",
+      "greek_chars": 2247,
+      "english_chars": 2251
+    },
+    {
+      "chapter": 23,
+      "title": "The Roman Forces",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_23.md",
+      "greek_chars": 2015,
+      "english_chars": 2227
+    },
+    {
+      "chapter": 24,
+      "title": "Forces Available to the Romans",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_24.md",
+      "greek_chars": 2600,
+      "english_chars": 2674
+    },
+    {
+      "chapter": 25,
+      "title": "Defeat of the Romans Near Faesulae",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_25.md",
+      "greek_chars": 1850,
+      "english_chars": 2133
+    },
+    {
+      "chapter": 26,
+      "title": "Aemilius Deters the Gauls",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_26.md",
+      "greek_chars": 1753,
+      "english_chars": 1970
+    },
+    {
+      "chapter": 27,
+      "title": "Atilius Meets the Gauls",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_27.md",
+      "greek_chars": 1797,
+      "english_chars": 2077
+    },
+    {
+      "chapter": 28,
+      "title": "The Gauls Defeated On Their Way Home",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_28.md",
+      "greek_chars": 2220,
+      "english_chars": 1962
+    },
+    {
+      "chapter": 29,
+      "title": "A Peculiar and Surprising Battle",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_29.md",
+      "greek_chars": 1552,
+      "english_chars": 1676
+    },
+    {
+      "chapter": 30,
+      "title": "Great Slaughter of the Gauls",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_30.md",
+      "greek_chars": 1702,
+      "english_chars": 1863
+    },
+    {
+      "chapter": 31,
+      "title": "Aemilius Returns Victorious",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_31.md",
+      "greek_chars": 1534,
+      "english_chars": 1747
+    },
+    {
+      "chapter": 32,
+      "title": "Victory Over the Insubres",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_32.md",
+      "greek_chars": 2018,
+      "english_chars": 2363
+    },
+    {
+      "chapter": 33,
+      "title": "Tactics Against the Gauls",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_33.md",
+      "greek_chars": 1965,
+      "english_chars": 2227
+    },
+    {
+      "chapter": 34,
+      "title": "Capture of <a target=\"_blank\" onclick=\"openPopupWindow(this); return false\" href=\"entityvote?doc=Perseus:text:1999.01.0001&auth=perseus,Mediolanum&n=1&type=place\">Mediolanum</a> and End of the War",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_34.md",
+      "greek_chars": 2409,
+      "english_chars": 2850
+    },
+    {
+      "chapter": 35,
+      "title": "Character of the Gauls",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_35.md",
+      "greek_chars": 2177,
+      "english_chars": 2189
+    },
+    {
+      "chapter": 36,
+      "title": "Hasdrubal Dies and Hannibal Succeeds Him",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_36.md",
+      "greek_chars": 1047,
+      "english_chars": 1365
+    },
+    {
+      "chapter": 37,
+      "title": "Greece At This Time",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_37.md",
+      "greek_chars": 2687,
+      "english_chars": 3026
+    },
+    {
+      "chapter": 38,
+      "title": "Origin of the Name \"Achaean\"",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_38.md",
+      "greek_chars": 1828,
+      "english_chars": 2117
+    },
+    {
+      "chapter": 39,
+      "title": "The First Achaean League",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_39.md",
+      "greek_chars": 2207,
+      "english_chars": 3481
+    },
+    {
+      "chapter": 40,
+      "title": "Unification of the <a target=\"_blank\" onclick=\"openPopupWindow(this); return false\" href=\"entityvote?doc=Perseus:text:1999.01.0001&auth=tgn,7017076&n=1&type=place\">Peloponnese</a>",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_40.md",
+      "greek_chars": 1294,
+      "english_chars": 1265
+    },
+    {
+      "chapter": 41,
+      "title": "The Second League",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_41.md",
+      "greek_chars": 2637,
+      "english_chars": 2939
+    },
+    {
+      "chapter": 42,
+      "title": "Policy of the Achaean League",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_42.md",
+      "greek_chars": 1221,
+      "english_chars": 1477
+    },
+    {
+      "chapter": 43,
+      "title": "Margos First Sole Strategus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_43.md",
+      "greek_chars": 1700,
+      "english_chars": 2381
+    },
+    {
+      "chapter": 44,
+      "title": "Death of Demetrius",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_44.md",
+      "greek_chars": 1365,
+      "english_chars": 1508
+    },
+    {
+      "chapter": 45,
+      "title": "The Aetolians Envy the Achaeans",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_45.md",
+      "greek_chars": 1540,
+      "english_chars": 1964
+    },
+    {
+      "chapter": 46,
+      "title": "Intrigues of the Aetolians",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_46.md",
+      "greek_chars": 1493,
+      "english_chars": 1749
+    },
+    {
+      "chapter": 47,
+      "title": "The Cleomenic War",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_47.md",
+      "greek_chars": 1782,
+      "english_chars": 2316
+    },
+    {
+      "chapter": 48,
+      "title": "Aratus Involves <a target=\"_blank\" onclick=\"openPopupWindow(this); return false\" href=\"entityvote?doc=Perseus:text:1999.01.0001&auth=perseus,Megalopolis&n=1&type=place\">Megalopolis</a>",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_48.md",
+      "greek_chars": 1267,
+      "english_chars": 1577
+    },
+    {
+      "chapter": 49,
+      "title": "Message to Antigonus Doson from Aratus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_49.md",
+      "greek_chars": 1935,
+      "english_chars": 2315
+    },
+    {
+      "chapter": 50,
+      "title": "Antigonus Doson Will Help the League",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_50.md",
+      "greek_chars": 2238,
+      "english_chars": 3023
+    },
+    {
+      "chapter": 51,
+      "title": "The Achaeans Must Appeal to Antigonus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_51.md",
+      "greek_chars": 1300,
+      "english_chars": 1566
+    },
+    {
+      "chapter": 52,
+      "title": "Antigonus Doson at the Isthmus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_52.md",
+      "greek_chars": 1938,
+      "english_chars": 2907
+    },
+    {
+      "chapter": 53,
+      "title": "Cleomenes Returns to <a target=\"_blank\" onclick=\"openPopupWindow(this); return false\" href=\"entityvote?doc=Perseus:text:1999.01.0001&auth=perseus,Sparta&n=1&type=place\">Sparta</a> after the Achaeans Take Argos",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_53.md",
+      "greek_chars": 1187,
+      "english_chars": 1605
+    },
+    {
+      "chapter": 54,
+      "title": "Antigonus Doson Appointed Generalissimo",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_54.md",
+      "greek_chars": 2021,
+      "english_chars": 2455
+    },
+    {
+      "chapter": 55,
+      "title": "Capture of <a target=\"_blank\" onclick=\"openPopupWindow(this); return false\" href=\"entityvote?doc=Perseus:text:1999.01.0001&auth=perseus,Megalopolis&n=1&type=place\">Megalopolis</a>",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_55.md",
+      "greek_chars": 1624,
+      "english_chars": 1994
+    },
+    {
+      "chapter": 56,
+      "title": "The Credibility of Phylarchus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_56.md",
+      "greek_chars": 3336,
+      "english_chars": 4897
+    },
+    {
+      "chapter": 57,
+      "title": "The Treatment of <a target=\"_blank\" onclick=\"openPopupWindow(this); return false\" href=\"entityvote?doc=Perseus:text:1999.01.0001&auth=perseus,Mantinea&n=1&type=place\">Mantinea</a>",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_57.md",
+      "greek_chars": 1515,
+      "english_chars": 1706
+    },
+    {
+      "chapter": 58,
+      "title": "The Mantineans Turn Over their City to the Lacedaemonians",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_58.md",
+      "greek_chars": 2655,
+      "english_chars": 3310
+    },
+    {
+      "chapter": 59,
+      "title": "Execution of Aristomachus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_59.md",
+      "greek_chars": 1881,
+      "english_chars": 2196
+    },
+    {
+      "chapter": 60,
+      "title": "Crimes of Aristomachus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_60.md",
+      "greek_chars": 1515,
+      "english_chars": 2151
+    },
+    {
+      "chapter": 61,
+      "title": "The Loyalty of the Megalopolitans",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_61.md",
+      "greek_chars": 2340,
+      "english_chars": 2843
+    },
+    {
+      "chapter": 62,
+      "title": "The Wealth of <a target=\"_blank\" onclick=\"openPopupWindow(this); return false\" href=\"entityvote?doc=Perseus:text:1999.01.0001&auth=perseus,Megalopolis&n=1&type=place\">Megalopolis</a>",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_62.md",
+      "greek_chars": 2071,
+      "english_chars": 2285
+    },
+    {
+      "chapter": 63,
+      "title": "Cleomenes Invades Argolis",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_63.md",
+      "greek_chars": 1188,
+      "english_chars": 1358
+    },
+    {
+      "chapter": 64,
+      "title": "Cleomenes Invades Argos",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_64.md",
+      "greek_chars": 1486,
+      "english_chars": 1707
+    },
+    {
+      "chapter": 65,
+      "title": "Battle of <a target=\"_blank\" onclick=\"openPopupWindow(this); return false\" href=\"entityvote?doc=Perseus:text:1999.01.0001&auth=perseus,Sellasia&n=1&type=place\">Sellasia</a>",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_65.md",
+      "greek_chars": 2298,
+      "english_chars": 2364
+    },
+    {
+      "chapter": 66,
+      "title": "The Two Armies Line Up",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_66.md",
+      "greek_chars": 1750,
+      "english_chars": 2196
+    },
+    {
+      "chapter": 67,
+      "title": "Battle Begins",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_67.md",
+      "greek_chars": 1472,
+      "english_chars": 1847
+    },
+    {
+      "chapter": 68,
+      "title": "Skill and Gallantry of Philopoemen",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_68.md",
+      "greek_chars": 1814,
+      "english_chars": 2083
+    },
+    {
+      "chapter": 69,
+      "title": "Defeat of Cleomenes",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_69.md",
+      "greek_chars": 1985,
+      "english_chars": 2190
+    },
+    {
+      "chapter": 70,
+      "title": "End of the Introductory Period",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_70.md",
+      "greek_chars": 1422,
+      "english_chars": 1477
+    },
+    {
+      "chapter": 71,
+      "title": "Conclusion of Book 2",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_02\\chapter_71.md",
+      "greek_chars": 1742,
+      "english_chars": 1668
+    }
+  ]
+}

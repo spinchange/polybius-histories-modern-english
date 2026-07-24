@@ -1,0 +1,49 @@
+{
+  "book": 35,
+  "chapter_count": 6,
+  "chapters": [
+    {
+      "chapter": "1",
+      "title": "The \"Fiery War\"",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_35\\chapter_01.md",
+      "greek_chars": 837,
+      "english_chars": 936
+    },
+    {
+      "chapter": "2",
+      "title": "The Celtiberian Wars",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_35\\chapter_02.md",
+      "greek_chars": 2323,
+      "english_chars": 2923
+    },
+    {
+      "chapter": "3",
+      "title": "The Senate's Instructions to Marcellus",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_35\\chapter_03.md",
+      "greek_chars": 1227,
+      "english_chars": 1670
+    },
+    {
+      "chapter": "4",
+      "title": "Scipio Volunteers For Spain",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_35\\chapter_04.md",
+      "greek_chars": 2318,
+      "english_chars": 3456
+    },
+    {
+      "chapter": "5",
+      "title": "Scipio's Spanish Campaign",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_35\\chapter_05.md",
+      "greek_chars": 289,
+      "english_chars": 423
+    },
+    {
+      "chapter": "6",
+      "title": "Cato's Wit",
+      "file": "C:\\Users\\executor\\AppData\\Local\\hermes\\cache\\documents\\the_histories_translation\\source\\book_35\\chapter_06.md",
+      "greek_chars": 802,
+      "english_chars": 873
+    }
+  ],
+  "failures": []
+}
