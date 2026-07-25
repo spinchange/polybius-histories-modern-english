@@ -144,7 +144,9 @@ def xhtml_doc(title: str, body: str) -> str:
 
 def paragraph_markup(text: str) -> str:
     klass = ' class="bridgehead"' if BRIDGEHEAD_RE.match(text) else ""
-    return f"    <p{klass}>{html.escape(text)}</p>"
+    escaped = html.escape(text)
+    escaped = re.sub(r"\*([^*]+)\*", r"<i>\1</i>", escaped)
+    return f"    <p{klass}>{escaped}</p>"
 
 
 def inline_note_markup(text: str) -> str:
