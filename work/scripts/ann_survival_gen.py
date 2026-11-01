@@ -51,27 +51,64 @@ def split_credit(raw: str) -> list[tuple[str, str]]:
     return [(n, w) for _, n, w in sorted(found)]
 
 
+SCOPE_N = {"this paragraph": 1, "this and the next paragraph": 2, "this and the next two paragraphs": 3,
+           "this and the next three paragraphs": 4, "this and the next four paragraphs": 5}
+
+
+def scope_len(raw: str) -> int | None:
+    m = re.search(r"\(([^)]*)\)\s*$", raw)
+    return SCOPE_N.get(m.group(1).strip()) if m else None
+
+
 def scan():
+    """chapter -> {title, credits, partial, n_paras, segments: [(first, last, [(author, work)])]}.
+
+    Convention (user decision 2026-11-01, see phase6b_apply_mixed.py): a line governs
+    the paragraph below it unless it states a longer scope; a lone unscoped line
+    directly under the heading governs the whole chapter. Unmarked paragraphs in a
+    mixed chapter come from other sources (Constantinian excerpts, or Wescher's codex in 8.37).
+    """
     chapters: dict[tuple[int, str], dict] = {}
     for path in sorted(ROOT.glob(BOOK_GLOB)):
         cur = None
+        pending = []   # [raw, paragraph index it precedes]
         for line in path.read_text(encoding="utf-8").splitlines():
             h = HEAD_RE.match(line)
             if h:
                 cur = (int(h.group(1)), h.group(2))
-                chapters[cur] = {"title": h.group(3), "credits": [], "partial": False}
+                chapters[cur] = {"title": h.group(3), "credits": [], "partial": False, "n_paras": 0, "lines": []}
                 continue
+            if cur is None:
+                continue
+            c = chapters[cur]
             q = QUOTE_RE.match(line)
-            if q and cur:
-                c = chapters[cur]
-                if SCOPE_RE.search(q.group(1)):
+            if q:
+                raw = q.group(1)
+                c["lines"].append((c["n_paras"] + 1, raw))
+                if SCOPE_RE.search(raw) or "last sentence by" in raw:
                     c["partial"] = True
-                for pair in split_credit(q.group(1)):
+                for pair in split_credit(raw):
                     if pair not in c["credits"]:
                         c["credits"].append(pair)
-                if "last sentence by" in q.group(1):
-                    c["partial"] = True
-    return {k: v for k, v in chapters.items() if v["credits"]}
+            elif line.strip() and not line.startswith(("#", "---")):
+                c["n_paras"] += 1
+    out = {}
+    for k, c in chapters.items():
+        if not c["credits"]:
+            continue
+        segs = []
+        lone = len(c["lines"]) == 1 and c["lines"][0][0] == 1 and scope_len(c["lines"][0][1]) is None
+        for start, raw in c["lines"]:
+            n = c["n_paras"] if lone else (scope_len(raw) or 1)
+            segs.append((start, min(start + n - 1, c["n_paras"]), split_credit(raw)))
+        c["segments"] = segs
+        c["mixed"] = not (len(segs) == 1 and segs[0][0] == 1 and segs[0][1] >= c["n_paras"])
+        out[k] = c
+    return out
+
+
+def span(a: int, b: int) -> str:
+    return f"paragraph {a}" if a == b else f"paragraphs {a} to {b}"
 
 
 def render(book: int, ch: str, info: dict, n_lines: int) -> str:
@@ -81,10 +118,23 @@ def render(book: int, ch: str, info: dict, n_lines: int) -> str:
     work = "; ".join(f"{n}, {works[n]}" if works[n] else n for n in names)
     date = "; ".join(AUTHORS[n][1] for n in names)
     label = names[0] if len(names) == 1 else " and ".join([", ".join(names[:-1]), names[-1]] if len(names) > 2 else names)
-    s1 = f"What we have of this chapter is preserved by {label}."
-    body = [s1] + [AUTHORS[n][0] for n in names]
-    if len(names) > 1 or info["partial"]:
-        body.append("Not every paragraph has the same source, so the italic lines in the text say which paragraph is whose.")
+    if info["mixed"]:
+        bits = [f"{span(a_, b_)} {'is' if a_ == b_ else 'are'} quoted by " + " and ".join(n for n, _ in cr)
+                for a_, b_, cr in info["segments"]]
+        covered = {p for a_, b_, _ in info["segments"] for p in range(a_, b_ + 1)}
+        rest = [p for p in range(1, info["n_paras"] + 1) if p not in covered]
+        body = ["This chapter has more than one source: " + "; ".join(bits) + "."]
+        if rest:
+            runs, lo = [], rest[0]
+            for x, y in zip(rest, rest[1:] + [None]):
+                if y != x + 1:
+                    runs.append(str(lo) if lo == x else f"{lo} to {x}"); lo = y
+            noun = "paragraph" if len(rest) == 1 else "paragraphs"
+            body.append(f"The unmarked {noun} ({' and '.join(runs)}) come{'s' if len(rest) == 1 else ''} from no quoting author; "
+                        "by this edition's convention they come from the Constantinian excerpts or another collection (see the Phase 6b findings).")
+    else:
+        body = [f"What we have of this chapter is preserved by {label}."]
+    body += [AUTHORS[n][0] for n in names]
     note = " ".join(body)
     return f"""---
 id: survival/{book:02d}-{ch}

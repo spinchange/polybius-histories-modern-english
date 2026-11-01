@@ -2812,19 +2812,19 @@ A6,,,annotation-qa-showpieces,FIXED,"Opus read of 10 showpieces 2026-11-01: Appi
 6b,31,18,attribution,done,"Constantinian/Exc. antiqua excerpt, no book line; collection: De legationibus"
 6b,36,17,attribution,done,"Constantinian/Exc. antiqua excerpt, no book line; collection: De sententiis"
 6b,39,8,attribution,done,"Constantinian/Exc. antiqua excerpt, no book line; collection: De sententiis"
-6b,8,22,attribution,EDITOR,MIXED witnesses; per-paragraph line convention needed; see findings
-6b,8,24,attribution,EDITOR,MIXED witnesses; per-paragraph line convention needed; see findings
-6b,8,37,attribution,EDITOR,MIXED witnesses; per-paragraph line convention needed; see findings
-6b,9,9,attribution,EDITOR,MIXED witnesses; per-paragraph line convention needed; see findings
-6b,9,27,attribution,EDITOR,MIXED witnesses; per-paragraph line convention needed; see findings
-6b,9,45,attribution,EDITOR,MIXED witnesses; per-paragraph line convention needed; see findings
-6b,13,5,attribution,EDITOR,MIXED witnesses; per-paragraph line convention needed; see findings
-6b,13,9,attribution,EDITOR,MIXED witnesses; per-paragraph line convention needed; see findings
-6b,16,39,attribution,EDITOR,MIXED witnesses; per-paragraph line convention needed; see findings
-6b,21,6,attribution,EDITOR,MIXED witnesses; per-paragraph line convention needed; see findings
-6b,23,12,attribution,EDITOR,MIXED witnesses; per-paragraph line convention needed; see findings
-6b,29,14,attribution,EDITOR,MIXED witnesses; per-paragraph line convention needed; see findings
-6b,32,11,attribution,EDITOR,MIXED witnesses; per-paragraph line convention needed; see findings
+6b,8,22,attribution,RESOLVED,"MIXED witnesses: per-paragraph convention (a) adopted 2026-11-01 and applied (phase6b_apply_mixed.py); survival entries follow it"
+6b,8,24,attribution,RESOLVED,"MIXED witnesses: per-paragraph convention (a) adopted 2026-11-01 and applied (phase6b_apply_mixed.py); survival entries follow it"
+6b,8,37,attribution,RESOLVED,"MIXED witnesses: per-paragraph convention (a) adopted 2026-11-01 and applied (phase6b_apply_mixed.py); survival entries follow it"
+6b,9,9,attribution,RESOLVED,"MIXED witnesses: per-paragraph convention (a) adopted 2026-11-01 and applied (phase6b_apply_mixed.py); survival entries follow it"
+6b,9,27,attribution,RESOLVED,"MIXED witnesses: per-paragraph convention (a) adopted 2026-11-01 and applied (phase6b_apply_mixed.py); survival entries follow it"
+6b,9,45,attribution,RESOLVED,"MIXED witnesses: per-paragraph convention (a) adopted 2026-11-01 and applied (phase6b_apply_mixed.py); survival entries follow it"
+6b,13,5,attribution,RESOLVED,"MIXED witnesses: per-paragraph convention (a) adopted 2026-11-01 and applied (phase6b_apply_mixed.py); survival entries follow it"
+6b,13,9,attribution,RESOLVED,"MIXED witnesses: per-paragraph convention (a) adopted 2026-11-01 and applied (phase6b_apply_mixed.py); survival entries follow it"
+6b,16,39,attribution,RESOLVED,"MIXED witnesses: per-paragraph convention (a) adopted 2026-11-01 and applied (phase6b_apply_mixed.py); survival entries follow it"
+6b,21,6,attribution,RESOLVED,"MIXED witnesses: per-paragraph convention (a) adopted 2026-11-01 and applied (phase6b_apply_mixed.py); survival entries follow it"
+6b,23,12,attribution,RESOLVED,"MIXED witnesses: per-paragraph convention (a) adopted 2026-11-01 and applied (phase6b_apply_mixed.py); survival entries follow it"
+6b,29,14,attribution,RESOLVED,"MIXED witnesses: per-paragraph convention (a) adopted 2026-11-01 and applied (phase6b_apply_mixed.py); survival entries follow it"
+6b,32,11,attribution,RESOLVED,"MIXED witnesses: per-paragraph convention (a) adopted 2026-11-01 and applied (phase6b_apply_mixed.py); survival entries follow it"
 6b,13,10,attribution,EDITOR,"QUOTED Stephanus, medium: Allaria not in Didot; Temese book number differs"
 6b,8,22,attribution,done,"MIXED resolved: per-paragraph Quoted-by lines (convention a, work/scripts/phase6b_apply_mixed.py)"
 6b,8,24,attribution,done,"MIXED resolved: per-paragraph Quoted-by lines (convention a, work/scripts/phase6b_apply_mixed.py)"
