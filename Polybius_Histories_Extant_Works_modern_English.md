@@ -24190,7 +24190,7 @@ Then, after saying these and similar things, they parted, having arranged to mee
 
 ## Book 38 Chapter 8: The Commissioners Arrive in Achaea
 
-When Gulussa reported what had been said to the general, Popilius laughed and said, “So this is what you were preparing to ask for after displaying such outrageous impiety toward our prisoners? And now you place your hopes in the gods, though you have broken the laws of men as well?”
+When Gulussa reported what had been said to the general, Publius laughed and said, “So this is what you were preparing to ask for after displaying such outrageous impiety toward our prisoners? And now you place your hopes in the gods, though you have broken the laws of men as well?”
 
 The king then wanted to remind Scipio of a further point, especially that an end must now be brought to the business: for apart from all the uncertain things, the season of the consuls was already drawing near, and he said that this ought to be taken into account, lest, if winter overtook him, another man should come and take, without effort, the credit for his labors.
 

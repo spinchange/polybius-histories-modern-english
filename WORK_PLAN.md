@@ -276,3 +276,21 @@ Sonnet drafts; the user signs off (this is the one phase that is mostly human):
 - Title misalignment ranges and known accuracy errors: listed in Phases 2 and 4.
 - EPUB validates clean (epubcheck 5.3.0); identifier is stable uuid5; HTML/PDF
   build fine. dist epub currently modified/uncommitted.
+
+## Phase 2/3 outcome (2026-10-31)
+
+- Phase 2: Books 20–39 screened (360 chapters, Sonnet collators 5/agent; Opus
+  confirm step never triggered — zero false/UNSURE; control on known-bad 37.1
+  correctly flagged). 135 crib-derived titles queued in
+  `work/reports/phase2_title_queue.csv` for Phase 5.
+- **Books 7–19 alignment screening consciously skipped.** Phase 4 puts every
+  chapter there in front of an agent against the Greek anyway, which would
+  catch wholesale mismatches.
+- Phase 3: 37.1, 38.2, 39.2, 39.3 retranslated from the Greek; crib bodies
+  removed; titles already fixed (not in the Phase 5 queue). 38.8
+  "Popilius laughed" → "Publius laughed" applied (ὁ Πόπλιος = Scipio).
+- **Phase 6 queue additions:** 37.1 now a Stephanus-type gazetteer fragment —
+  add its attribution line AND drop/rework the leftover rubric
+  "Olympiad 158, year 1. Macedonian War.", which doesn't fit it. 39.2 is a
+  quotation by Strabo (attribution). 39.3 uncertain readings: καταμόνους,
+  ἀπὸ τῆς χώρας, χάριν — flag for Phase 4 Opus.
