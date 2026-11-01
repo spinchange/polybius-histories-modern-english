@@ -24028,21 +24028,11 @@ Therefore, in such a situation, one might say that the event was a divine afflic
 
 Modern English translation of the Greek text.
 
-## Book 37 Chapter 1: Views in Greece of Roman Policy
+## Book 37 Chapter 1: Mouseion, a Place near Olympus
 
 Olympiad 158, year 1. Macedonian War.
 
-In Greece there was a great deal of discussion of every kind. People argued first about the Carthaginians, after the Romans had conquered them, and then about the man pretending to be Philip.
-
-Opinion about the Carthaginians was sharply split. Some praised the Romans as wise and far-sighted statesmen. By removing a permanent danger and destroying a city that had long contested supremacy with them, and might have done so again if given the chance, they had secured dominance for their own country.
-
-Others rejected that view. They said the Romans had not set out with such a policy in mind when they first gained power. Rather, little by little, they had slipped into the same appetite for domination that had once marked Athens and Sparta. They had moved more slowly than those states, but all signs suggested that they too would end in the same place. In earlier times, they said, Rome had fought only until its opponents were beaten and had been brought to accept Roman commands. But now the Romans had shown their real intentions in their treatment of Perseus, wiping out the Macedonian royal house root and branch, and they had put the finishing touch on the same policy in their dealings with the Carthaginians. For although the Carthaginians had done nothing that could not be repaired, the Romans had still taken irreversible measures against them, even though they were ready to accept any terms and obey any orders laid upon them.
-
-Still others took the opposite side. They said the Romans were in general a truly civilized people, and that they prided themselves on one special trait: they fought openly and honorably, without night attacks or ambushes, scorning every advantage won by trickery or deception and thinking that only straightforward, face-to-face combat suited their character. But in this case, they said, the whole war against Carthage had been carried on by trickery and concealment. Little by little, by offering inducements in one place and keeping silence in another, the Romans had stripped the Carthaginians of all hope of help from their allies. Conduct of that sort belonged more properly to the scheming of a monarchy than to a Roman republic.
-
-Others again argued the opposite. If it were true that, before the surrender, the Romans had behaved as alleged—dangling inducements here, making partial disclosures there—then they would rightly be open to such accusations. But if, on the contrary, the Carthaginians themselves had already surrendered and acknowledged Rome’s right to decide what should be done with them, then the Romans, acting within that unquestioned authority, had simply imposed the measures they judged best. In that case the action could no longer be called impious or treacherous.
-
-Some even denied that it was impious at all. For, they said, an impious act is one committed against the gods, one’s parents, or the dead; treachery is a breach of oaths or written agreements; injustice is a violation of law and custom. None of these charges fit the Romans. They had offended neither the gods, nor their parents, nor the dead; nor had they broken oaths or treaties, but instead accused the Carthaginians of doing so. Nor had they violated law, custom, or their own good faith. Having received a voluntary surrender, and having full authority to do whatever they wished if the other side failed to comply with their orders, they had simply used force when that eventuality occurred.
+Mouseion, a place near Olympus in Macedonia: Polybius in his thirty-seventh book.
 
 
 ---
@@ -24069,31 +24059,31 @@ So, just as we think those who live on in suffering after punishment are more pi
 
 If anyone doubts that what I have just said is true, let him recall and compare the disasters commonly regarded as the greatest in Greece with what I have now said.
 
-## Book 38 Chapter 2: Misery In Carthage
+## Book 38 Chapter 2: Earlier Greek Reverses Without Disgrace
 
-When Scipio said this to Gulussa, he laughed and replied: “So it was for this that you treated our prisoners with such shocking cruelty! And you trust in the gods after violating even human law?”
+Fortune seems to have brought the greatest fear upon the Greeks at the time of Xerxes’ crossing into Europe. For then all of them were in danger, but very few came to utter ruin, and of these the Athenians most of all.
 
-The king then went on to remind Scipio that the affair had to be finished quickly, above all because unforeseen events might intervene and because the consular elections were now close at hand; it was only right to bear that in mind, lest if winter found them where they were, another consul would come and replace him and take the whole credit for his work without effort.
+For, wisely foreseeing what was to come, they abandoned their country together with their children and wives.
 
-Scipio then instructed that Hasdrubal should be given safe conduct for himself, his wife and children, and ten families of his friends and relatives, together with permission to take ten talents from his own property and whichever of his slaves he wished to bring out with him.
+The crisis did indeed do them harm, for the barbarians, once they became masters of Athens, destroyed it without mercy. Yet the Athenians earned no reproach or shame; on the contrary, they won the highest renown among all mankind, because they counted everything else of less importance and chose to share the same fortune as the rest of the Greeks.
 
-With these terms agreed, Gulussa went to meet Hasdrubal on the third day.
+Accordingly, because they had made a noble choice, they not only recovered their city and their own territory at once, but soon afterward were contending with the Lacedaemonians for the leadership of the other Greeks.
 
-Hasdrubal again came forward with great display and in a dignified step, dressed in his purple robe and full suit of armor, so as to make the tyrants of tragedy look small by comparison.
+Later, defeated in their turn by the Spartans, they were reduced to such necessity that they pulled down the walls of their own city.
 
-He was naturally fat, but by that time he had grown extremely corpulent and had become more than usually red from exposure to the sun, so that he looked like a man living like a fat ox at a fair, and in no way like a commander in the midst of such terrible misery as can scarcely be described.
+But here too one might say that the blame belongs to the Lacedaemonians, not to the Athenians, because they used too harshly the power that Fortune had given them.
 
-When he met the king and heard the offer made by the consul, he slapped his thigh again and again and, calling on the gods and Fortune, declared that the day would never come when Hasdrubal would behold the sun and his native city in flames; for to a noble spirit, one’s country and its burning houses are a glorious funeral pyre.
+The Spartans, in turn defeated by the Thebans, lost the leadership of the Greeks, and afterward, giving up their rule beyond their borders, were confined within the frontiers of Laconia.
 
-These words compel us to admire the man and the nobility of his speech; but when we look at his administration of affairs, we cannot fail to be struck by his lack of courage and spirit.
+And what is shameful in this, if, while contending for the noblest prizes, they failed so far that they withdrew once more to their ancestral dominion?
 
-For at a time when his fellow citizens were dying of hunger, he gave banquets and served expensive second courses, and by his own excellent physical condition made their misery all the more obvious.
+These events, therefore, must be called reverses, but by no means should they be termed misfortunes.
 
-The number of the dying, and the number of those who deserted daily because of hunger, was beyond belief.
+The Mantineans were forced to abandon their city when the Lacedaemonians broke it up and scattered them to live in villages; but in this matter everyone condemned the folly not of the Mantineans but of the Lacedaemonians.
 
-Yet by harshly rebuking some and executing or abusing others, he kept the common people cowed; and by that means, in a country reduced to the lowest depths of disaster, he maintained authority that a tyrant would scarcely enjoy in a prosperous city.
+Some time later the Thebans saw their own city utterly laid waste, when Alexander, intending to cross into Asia, supposed that by punishing the Thebans he would keep the Greeks in check through fear while he was occupied with his own undertakings.
 
-So I think I was right to say that it would not be easy to find two men more alike than those who were then directing the affairs of Greece and Carthage. That will become clear when we come to a formal comparison between them.
+But at that time everyone pitied the Thebans as men who had suffered unjust and terrible treatment, and no one defended this act as just.
 
 ## Book 38 Chapter 3: Consummation of the Misfortunes of Greece
 
@@ -24200,7 +24190,7 @@ Then, after saying these and similar things, they parted, having arranged to mee
 
 ## Book 38 Chapter 8: The Commissioners Arrive in Achaea
 
-When Gulussa reported what had been said to the general, Popilius laughed and said, “So this is what you were preparing to ask for after displaying such outrageous impiety toward our prisoners? And now you place your hopes in the gods, though you have broken the laws of men as well?”
+When Gulussa reported what had been said to the general, Publius laughed and said, “So this is what you were preparing to ask for after displaying such outrageous impiety toward our prisoners? And now you place your hopes in the gods, though you have broken the laws of men as well?”
 
 The king then wanted to remind Scipio of a further point, especially that an end must now be brought to the business: for apart from all the uncertain things, the season of the consuls was already drawing near, and he said that this ought to be taken into account, lest, if winter overtook him, another man should come and take, without effort, the credit for his labors.
 
@@ -24481,39 +24471,35 @@ He was likewise eager in the rest of his life for the worst Greek habits: for he
 
 This will be clear from the facts themselves: for he was the first man to be present in Greece at the time when the battle in Phocis took place, but he excused himself on grounds of ill health and withdrew to Thebes in order not to share the danger; yet after the battle was over he was the first to write to the Senate about the victory, adding detailed explanations as though he himself had taken part in the fighting.
 
-## Book 39 Chapter 2: Digressions in History
+## Book 39 Chapter 2: Soldiers’ Contempt for Corinth’s Artworks
 
-Accordingly, I think that the most learned of the ancient historians have taken their periods of rest in this way: some by digressions into myth and legend, others by digressions into historical fact—not limiting themselves to Greek history, but bringing in discussions of foreign history as well.
+Polybius, speaking with pity of what happened at the capture of the city, adds an account of the soldiers’ contempt for works of art and for the dedicated offerings.
 
-For example, in the course of a history of Thessaly and of Alexander of Pherae’s campaigns, they introduce an account of Spartan activity in the Peloponnese, or of Athenian deeds, or of events in Macedonia or Illyria; then they break off to recount Iphicrates’ expedition to Egypt and Clearchus’ crimes in the Pontus.
+For he says that he was present and saw paintings thrown on the ground, and the soldiers playing draughts on them.
 
-That shows that all these historians use this method; but they use it without system, whereas I use it systematically.
+Among them he names Aristides’ painting of Dionysus, of which some say the saying “Nothing to the Dionysus” was spoken, and the Heracles tormented by the robe of Deianeira.
 
-For when these men say, for example, that Bardylis king of the Illyrians and Cersobleptes king of the Thracians established their dynasties, they do not continue the story without interruption or return to it later after an interval to resume where they left off; instead, treating it like an episode in a poem, they go back to their original subject.
+## Book 39 Chapter 3: Polybius Saves Philopoemen’s Honors
 
-But I have carefully divided up all the most important countries in the world and the course of their several histories; I have followed the same plan for the order in which the divisions appear; and I have also arranged the history of each year in the several countries, carefully keeping to the limits of time.
+Because of the goodwill the people had long felt toward Philopoemen, they did not take down the statues of him that stood in certain cities. So true is it, in my view, that everything done sincerely produces in those who have been well treated a goodwill that is hard to erase.
 
-As a result, I have made the transitions back and forth between the continuous narrative and the recurring interruptions easy and obvious to students, so that a careful reader need never miss anything.
+Therefore one might justly apply the common saying: he has missed, as the proverb goes, not by a door but by a whole street.
 
-## Book 39 Chapter 3: Scipio Intends to Fight
+There were many statues of him and great honors that the cities had decreed, but during the disasters that befell Greece at Corinth a Roman attempted to remove them all and to prosecute him, charging, as though he were still alive, that he had been an enemy of the Romans and ill-disposed toward them. But after speeches had been made and Polybius had answered the false accuser, neither Mummius nor the envoys would consent to destroy the honors of a distinguished man.
 
-Because the Carthaginians still held out on the citadel, Scipio found that the stretch of water between them was not very deep; and when Polybius advised him to block it with iron spikes or drive sharp wooden stakes into it, so that the enemy could not cross and attack the mole, he replied that, since he had already taken the walls and got inside the city, it would be absurd to take precautions in order to avoid fighting the enemy.
+[...] he undertook to explain at greater length, in keeping with what we said about the man at the beginning.
 
-Although there were many statues of him and great honors decreed by the cities, a Roman man in the disasters around Corinth attempted to destroy them all and drive him into exile, as though he had still been alive and had become an enemy and hostile to Rome.
+The points were these: that he had often disagreed with the Romans over their commands, but disagreed only so far as to inform and persuade them on the matters in dispute, and that he did not do even this without good reason.
 
-But after words were spoken and Polybius answered the slanderer, neither Mummius nor the envoys allowed the honors of a distinguished man to be destroyed.
+He said that the man had given a genuine proof of his policy, and had done a service rescued, as the saying goes, out of the fire, at the time of the wars with Philip and with Antiochus.
 
-Thereupon he undertook to explain more fully and in continuity what he had already said at the beginning about the man.
+For at that time, though he had the greatest weight of any of the Greeks, both through his own power and through that of the Achaeans, he had kept faith with the friendship of Rome most truly; he had joined the Achaeans in the decree by which, four months before the Romans crossed over, they declared war from their own territory on Antiochus and the Aetolians, when almost all the other Greeks had become estranged from friendship with Rome.
 
-The point was that he often disputed with the Romans about what they ordered, and disagreed with them to the extent of teaching and persuading them in disputed matters, and never did so at random.
+The ten commissioners, having heard this and approving the speaker’s attitude, granted that his honors should remain in all the cities.
 
-He said that the true proof of his disposition was also supplied, as they say, by fire in the Philippic and Antiochian periods: for at the time when he had the greatest influence among the Greeks, both by his own power and by that of the Achaeans, he had most truly preserved friendship with the Romans; and when the Achaeans shared in the decision four months before the Romans crossed over, they brought war against Antiochus and the Aetolians from the country, while almost all the other Greeks were alienated from Roman friendship.
+Taking this opportunity, Polybius asked the general for the statues, although they had already been carried off from the Peloponnese to Acarnania—I mean those of Achaeus, Aratus, and Philopoemen.
 
-The ten commissioners, hearing these things and approving the speaker’s purpose, granted that the honors should be left to him alone in all the cities.
-
-Polybius then took the opportunity to ask the commander for the statues, though they had already been moved from the Peloponnese to Acarnania—I mean the statues of Achaeus, Aratus, and Philopoemen.
-
-The people, admiring this conduct, set up a stone statue of him.
+The people, admiring his conduct in this, set up a stone statue of him.
 
 ## Book 39 Chapter 4: Fall of Carthage
 

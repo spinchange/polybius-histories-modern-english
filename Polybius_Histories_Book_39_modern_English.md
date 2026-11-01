@@ -26,39 +26,35 @@ He was likewise eager in the rest of his life for the worst Greek habits: for he
 
 This will be clear from the facts themselves: for he was the first man to be present in Greece at the time when the battle in Phocis took place, but he excused himself on grounds of ill health and withdrew to Thebes in order not to share the danger; yet after the battle was over he was the first to write to the Senate about the victory, adding detailed explanations as though he himself had taken part in the fighting.
 
-## Book 39 Chapter 2: Digressions in History
+## Book 39 Chapter 2: Soldiers’ Contempt for Corinth’s Artworks
 
-Accordingly, I think that the most learned of the ancient historians have taken their periods of rest in this way: some by digressions into myth and legend, others by digressions into historical fact—not limiting themselves to Greek history, but bringing in discussions of foreign history as well.
+Polybius, speaking with pity of what happened at the capture of the city, adds an account of the soldiers’ contempt for works of art and for the dedicated offerings.
 
-For example, in the course of a history of Thessaly and of Alexander of Pherae’s campaigns, they introduce an account of Spartan activity in the Peloponnese, or of Athenian deeds, or of events in Macedonia or Illyria; then they break off to recount Iphicrates’ expedition to Egypt and Clearchus’ crimes in the Pontus.
+For he says that he was present and saw paintings thrown on the ground, and the soldiers playing draughts on them.
 
-That shows that all these historians use this method; but they use it without system, whereas I use it systematically.
+Among them he names Aristides’ painting of Dionysus, of which some say the saying “Nothing to the Dionysus” was spoken, and the Heracles tormented by the robe of Deianeira.
 
-For when these men say, for example, that Bardylis king of the Illyrians and Cersobleptes king of the Thracians established their dynasties, they do not continue the story without interruption or return to it later after an interval to resume where they left off; instead, treating it like an episode in a poem, they go back to their original subject.
+## Book 39 Chapter 3: Polybius Saves Philopoemen’s Honors
 
-But I have carefully divided up all the most important countries in the world and the course of their several histories; I have followed the same plan for the order in which the divisions appear; and I have also arranged the history of each year in the several countries, carefully keeping to the limits of time.
+Because of the goodwill the people had long felt toward Philopoemen, they did not take down the statues of him that stood in certain cities. So true is it, in my view, that everything done sincerely produces in those who have been well treated a goodwill that is hard to erase.
 
-As a result, I have made the transitions back and forth between the continuous narrative and the recurring interruptions easy and obvious to students, so that a careful reader need never miss anything.
+Therefore one might justly apply the common saying: he has missed, as the proverb goes, not by a door but by a whole street.
 
-## Book 39 Chapter 3: Scipio Intends to Fight
+There were many statues of him and great honors that the cities had decreed, but during the disasters that befell Greece at Corinth a Roman attempted to remove them all and to prosecute him, charging, as though he were still alive, that he had been an enemy of the Romans and ill-disposed toward them. But after speeches had been made and Polybius had answered the false accuser, neither Mummius nor the envoys would consent to destroy the honors of a distinguished man.
 
-Because the Carthaginians still held out on the citadel, Scipio found that the stretch of water between them was not very deep; and when Polybius advised him to block it with iron spikes or drive sharp wooden stakes into it, so that the enemy could not cross and attack the mole, he replied that, since he had already taken the walls and got inside the city, it would be absurd to take precautions in order to avoid fighting the enemy.
+[...] he undertook to explain at greater length, in keeping with what we said about the man at the beginning.
 
-Although there were many statues of him and great honors decreed by the cities, a Roman man in the disasters around Corinth attempted to destroy them all and drive him into exile, as though he had still been alive and had become an enemy and hostile to Rome.
+The points were these: that he had often disagreed with the Romans over their commands, but disagreed only so far as to inform and persuade them on the matters in dispute, and that he did not do even this without good reason.
 
-But after words were spoken and Polybius answered the slanderer, neither Mummius nor the envoys allowed the honors of a distinguished man to be destroyed.
+He said that the man had given a genuine proof of his policy, and had done a service rescued, as the saying goes, out of the fire, at the time of the wars with Philip and with Antiochus.
 
-Thereupon he undertook to explain more fully and in continuity what he had already said at the beginning about the man.
+For at that time, though he had the greatest weight of any of the Greeks, both through his own power and through that of the Achaeans, he had kept faith with the friendship of Rome most truly; he had joined the Achaeans in the decree by which, four months before the Romans crossed over, they declared war from their own territory on Antiochus and the Aetolians, when almost all the other Greeks had become estranged from friendship with Rome.
 
-The point was that he often disputed with the Romans about what they ordered, and disagreed with them to the extent of teaching and persuading them in disputed matters, and never did so at random.
+The ten commissioners, having heard this and approving the speaker’s attitude, granted that his honors should remain in all the cities.
 
-He said that the true proof of his disposition was also supplied, as they say, by fire in the Philippic and Antiochian periods: for at the time when he had the greatest influence among the Greeks, both by his own power and by that of the Achaeans, he had most truly preserved friendship with the Romans; and when the Achaeans shared in the decision four months before the Romans crossed over, they brought war against Antiochus and the Aetolians from the country, while almost all the other Greeks were alienated from Roman friendship.
+Taking this opportunity, Polybius asked the general for the statues, although they had already been carried off from the Peloponnese to Acarnania—I mean those of Achaeus, Aratus, and Philopoemen.
 
-The ten commissioners, hearing these things and approving the speaker’s purpose, granted that the honors should be left to him alone in all the cities.
-
-Polybius then took the opportunity to ask the commander for the statues, though they had already been moved from the Peloponnese to Acarnania—I mean the statues of Achaeus, Aratus, and Philopoemen.
-
-The people, admiring this conduct, set up a stone statue of him.
+The people, admiring his conduct in this, set up a stone statue of him.
 
 ## Book 39 Chapter 4: Fall of Carthage
 

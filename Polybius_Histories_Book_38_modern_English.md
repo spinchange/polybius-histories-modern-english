@@ -20,31 +20,31 @@ So, just as we think those who live on in suffering after punishment are more pi
 
 If anyone doubts that what I have just said is true, let him recall and compare the disasters commonly regarded as the greatest in Greece with what I have now said.
 
-## Book 38 Chapter 2: Misery In Carthage
+## Book 38 Chapter 2: Earlier Greek Reverses Without Disgrace
 
-When Scipio said this to Gulussa, he laughed and replied: “So it was for this that you treated our prisoners with such shocking cruelty! And you trust in the gods after violating even human law?”
+Fortune seems to have brought the greatest fear upon the Greeks at the time of Xerxes’ crossing into Europe. For then all of them were in danger, but very few came to utter ruin, and of these the Athenians most of all.
 
-The king then went on to remind Scipio that the affair had to be finished quickly, above all because unforeseen events might intervene and because the consular elections were now close at hand; it was only right to bear that in mind, lest if winter found them where they were, another consul would come and replace him and take the whole credit for his work without effort.
+For, wisely foreseeing what was to come, they abandoned their country together with their children and wives.
 
-Scipio then instructed that Hasdrubal should be given safe conduct for himself, his wife and children, and ten families of his friends and relatives, together with permission to take ten talents from his own property and whichever of his slaves he wished to bring out with him.
+The crisis did indeed do them harm, for the barbarians, once they became masters of Athens, destroyed it without mercy. Yet the Athenians earned no reproach or shame; on the contrary, they won the highest renown among all mankind, because they counted everything else of less importance and chose to share the same fortune as the rest of the Greeks.
 
-With these terms agreed, Gulussa went to meet Hasdrubal on the third day.
+Accordingly, because they had made a noble choice, they not only recovered their city and their own territory at once, but soon afterward were contending with the Lacedaemonians for the leadership of the other Greeks.
 
-Hasdrubal again came forward with great display and in a dignified step, dressed in his purple robe and full suit of armor, so as to make the tyrants of tragedy look small by comparison.
+Later, defeated in their turn by the Spartans, they were reduced to such necessity that they pulled down the walls of their own city.
 
-He was naturally fat, but by that time he had grown extremely corpulent and had become more than usually red from exposure to the sun, so that he looked like a man living like a fat ox at a fair, and in no way like a commander in the midst of such terrible misery as can scarcely be described.
+But here too one might say that the blame belongs to the Lacedaemonians, not to the Athenians, because they used too harshly the power that Fortune had given them.
 
-When he met the king and heard the offer made by the consul, he slapped his thigh again and again and, calling on the gods and Fortune, declared that the day would never come when Hasdrubal would behold the sun and his native city in flames; for to a noble spirit, one’s country and its burning houses are a glorious funeral pyre.
+The Spartans, in turn defeated by the Thebans, lost the leadership of the Greeks, and afterward, giving up their rule beyond their borders, were confined within the frontiers of Laconia.
 
-These words compel us to admire the man and the nobility of his speech; but when we look at his administration of affairs, we cannot fail to be struck by his lack of courage and spirit.
+And what is shameful in this, if, while contending for the noblest prizes, they failed so far that they withdrew once more to their ancestral dominion?
 
-For at a time when his fellow citizens were dying of hunger, he gave banquets and served expensive second courses, and by his own excellent physical condition made their misery all the more obvious.
+These events, therefore, must be called reverses, but by no means should they be termed misfortunes.
 
-The number of the dying, and the number of those who deserted daily because of hunger, was beyond belief.
+The Mantineans were forced to abandon their city when the Lacedaemonians broke it up and scattered them to live in villages; but in this matter everyone condemned the folly not of the Mantineans but of the Lacedaemonians.
 
-Yet by harshly rebuking some and executing or abusing others, he kept the common people cowed; and by that means, in a country reduced to the lowest depths of disaster, he maintained authority that a tyrant would scarcely enjoy in a prosperous city.
+Some time later the Thebans saw their own city utterly laid waste, when Alexander, intending to cross into Asia, supposed that by punishing the Thebans he would keep the Greeks in check through fear while he was occupied with his own undertakings.
 
-So I think I was right to say that it would not be easy to find two men more alike than those who were then directing the affairs of Greece and Carthage. That will become clear when we come to a formal comparison between them.
+But at that time everyone pitied the Thebans as men who had suffered unjust and terrible treatment, and no one defended this act as just.
 
 ## Book 38 Chapter 3: Consummation of the Misfortunes of Greece
 
@@ -151,7 +151,7 @@ Then, after saying these and similar things, they parted, having arranged to mee
 
 ## Book 38 Chapter 8: The Commissioners Arrive in Achaea
 
-When Gulussa reported what had been said to the general, Popilius laughed and said, “So this is what you were preparing to ask for after displaying such outrageous impiety toward our prisoners? And now you place your hopes in the gods, though you have broken the laws of men as well?”
+When Gulussa reported what had been said to the general, Publius laughed and said, “So this is what you were preparing to ask for after displaying such outrageous impiety toward our prisoners? And now you place your hopes in the gods, though you have broken the laws of men as well?”
 
 The king then wanted to remind Scipio of a further point, especially that an end must now be brought to the business: for apart from all the uncertain things, the season of the consuls was already drawing near, and he said that this ought to be taken into account, lest, if winter overtook him, another man should come and take, without effort, the credit for his labors.
 
