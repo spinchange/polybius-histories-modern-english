@@ -24,7 +24,7 @@ Status: FINAL (Phase 7). Rules marked **DECIDED** were fixed by the editor (2026
 - Greek and Latin technical terms are kept in English dress and explained once, in context, not in footnotes.
 
 ## Titles and headings
-- Chapter headings: `## Book N Chapter M: Title`. Titles are sentence case with proper nouns capitalised.
+- Chapter headings: `## Book N Chapter M: Title`. Titles are in **title case**: first and last words and all major words capitalised; articles, short prepositions and conjunctions (a, an, and, as, at, but, by, for, from, in, into, of, on, or, over, the, to, with, and similar) lowercase. Amended 2026-11-01 from the original "sentence case" draft to match the corpus (1,310 headings); `work/scripts/heading_report.py` enforces it.
 - Titles describe the chapter's content; they do not follow the 1889 crib's rubrics.
 
 ## Gaps, fragments and attribution
