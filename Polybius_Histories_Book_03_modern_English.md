@@ -30,7 +30,7 @@ I shall make my approach to the narrative as follows. First, having pointed out 
 
 Next, I shall try to make clear how, during the same period, Philip of Macedon—after fighting his war with the Aetolians to its end and afterward settling affairs among the Greeks—set out to share these same hopes with the Carthaginians, how Antiochus and Ptolemy Philopator first disputed and finally went to war with each other over Coele-Syria, and how the Rhodians and Prusias took up war against the Byzantines and forced them to stop levying tolls on those sailing into the Pontus.
 
-Pausing my account at this point, I shall put together a discussion of the Roman constitution, in which I shall show in due sequence that the distinctive character of their political system contributed enormously to their success—not only in winning back their dominion over the Italians and Sicilians, and in further acquiring the rule over the Iberians and the Celts, but finally also, after they had defeated the Carthaginians in war, in coming to conceive the idea of universal empire.
+Pausing my account at this point, I shall put together a discussion of the Roman constitution, in which I shall show in due sequence that the distinctive character of their political system contributed enormously to their success—not only in winning back their dominion over the Italians and Sicilians, and in further acquiring the rule over the Iberians and the Gauls, but finally also, after they had defeated the Carthaginians in war, in coming to conceive the idea of universal empire.
 
 Together with this, by way of digression, I shall describe the fall of the dynasty of Hiero of Syracuse.
 
@@ -86,7 +86,7 @@ The Romans, too, restored to their own country those Greeks who had been accused
 
 Not long afterward these same Romans laid their hands on the Carthaginians, intending first to compel them to relocate, and then, for reasons to be stated in what follows, to root them out altogether.
 
-Corresponding to these events—as the Macedonians broke away from their friendship with Rome and the Lacedaemonians from their membership in the Achaean confederation—the common calamity of all Greece had at once its beginning and its end.
+Corresponding to these events—as the Macedonians broke away from their friendship with Rome and the Spartans from their membership in the Achaean confederation—the common calamity of all Greece had at once its beginning and its end.
 
 Such, then, is the design of my work.
 
@@ -172,11 +172,11 @@ For that man’s spirit had not been broken by the war over Sicily, since he bel
 
 Now, had the upheaval over the mercenaries not broken out among the Carthaginians, he would at once have sought another pretext and begun preparations for action, so far as it lay in his power.
 
-But he was forestalled by the civil disturbances, and in these...
+But he was forestalled by the civil disturbances, and in these [...]
 
 ## Book 3 Chapter 10: Second Cause of the War
 
-...he was occupied, taken up with those events. When the Romans, after the Carthaginians had put down the aforementioned disturbance, declared war on them, the Carthaginians at first were ready to face any extremity, supposing they would prevail on the justice of their cause, as we have explained concerning these matters in the earlier books— without which it would be impossible to follow properly either what is now being said or what we shall say hereafter.
+[...] he was occupied, taken up with those events. When the Romans, after the Carthaginians had put down the aforementioned disturbance, declared war on them, the Carthaginians at first were ready to face any extremity, supposing they would prevail on the justice of their cause, as we have explained concerning these matters in the earlier books— without which it would be impossible to follow properly either what is now being said or what we shall say hereafter.
 
 But since the Romans would not give way, the Carthaginians yielded to the circumstances, and though deeply aggrieved, being unable to do anything, they withdrew from Sardinia and agreed to pay another twelve hundred talents on top of the earlier sum, on condition of not having to take on the war at that time.
 
@@ -186,11 +186,11 @@ For Hamilcar, adding to his own private resentment the anger of his fellow citiz
 
 I mean the prosperous course of Carthaginian affairs in Iberia. For it was by relying on the strength gained there that they confidently entered upon the aforementioned war.
 
-That Hamilcar contributed most to bringing about the second war—even though he died ten years before its outbreak—one could find many proofs; but what follows will be just about...
+That Hamilcar contributed most to bringing about the second war—even though he died ten years before its outbreak—one could find many proofs; but what follows will be just about [...]
 
 ## Book 3 Chapter 11: Hannibal’s Oath
 
-...enough to establish the point. For at the time when Hannibal, after being defeated by the Romans, finally left his homeland and was staying at the court of Antiochus, the Romans, now observing the scheming of the Aetolians, sent envoys to Antiochus, wishing not to be left in the dark about the king’s intentions.
+[...] enough to establish the point. For at the time when Hannibal, after being defeated by the Romans, finally left his homeland and was staying at the court of Antiochus, the Romans, now observing the scheming of the Aetolians, sent envoys to Antiochus, wishing not to be left in the dark about the king’s intentions.
 
 These envoys, seeing that Antiochus was inclined toward the Aetolians and eager to make war on the Romans, courted Hannibal, intent on bringing him under suspicion with Antiochus.
 
@@ -218,11 +218,11 @@ Hasdrubal, dying before his time, did not make his purpose evident to everyone; 
 
 For this reason, those placed in charge of public affairs ought to attend to nothing more than discerning the true intentions of those who lay aside their enmities or form friendships—whether they are making their agreements as a concession to circumstances or because their spirit has truly been defeated— so that they may be constantly on guard against the former, regarding them as men lying in wait for an opportunity, while trusting the latter as genuine subjects or friends and giving them, without hesitation, whatever orders the occasion may require.
 
-These, then, are to be considered the causes of the war with Hannibal. As for the beginnings, which I am about to relate...
+These, then, are to be considered the causes of the war with Hannibal. As for the beginnings, which I am about to relate [...]
 
 ## Book 3 Chapter 13: Hannibal Succeeds to Command in Spain
 
-...The Carthaginians had taken hard their defeat over Sicily, but their anger was intensified still further, as I said above, by the affair of Sardinia and by the size of the sum of money imposed on them at the end.
+[...] The Carthaginians had taken hard their defeat over Sicily, but their anger was intensified still further, as I said above, by the affair of Sardinia and by the size of the sum of money imposed on them at the end.
 
 For this reason, as soon as they had brought most of Iberia under their control, they were ready to seize on anything that offered a chance against the Romans.
 
@@ -236,11 +236,11 @@ After this, by means of vigorous and terrifying assaults, he quickly took the ci
 
 Having exacted money from the cities and gained control of large funds, he came to New Carthage to winter.
 
-Treating those under him generously—paying part of the wages owed to the men serving with him and promising the rest—he instilled in his forces great goodwill and high hopes...
+Treating those under him generously—paying part of the wages owed to the men serving with him and promising the rest—he instilled in his forces great goodwill and high hopes [...]
 
 ## Book 3 Chapter 14: Hannibal Attacks the Vaccaei
 
-...for the future. In the following summer he set out again, this time against the Vaccaei. He took Helmantica (Salmantica) by storm at the first assault, but Arbucala—because of the city’s size, its large population, and the bravery of its inhabitants—he captured by force only after a laborious siege.
+[...] for the future. In the following summer he set out again, this time against the Vaccaei. He took Helmantica (Salmantica) by storm at the first assault, but Arbucala—because of the city’s size, its large population, and the bravery of its inhabitants—he captured by force only after a laborious siege.
 
 After this, on his march back, he unexpectedly found himself in the gravest danger, when the Carpesii—who are just about the strongest tribe in those regions—rushed upon him.
 
@@ -348,7 +348,7 @@ When Demetrius and his men caught sight of the ships and, despising their small 
 
 ## Book 3 Chapter 19: Illyrian War Successfully Finished
 
-[The Illyrians rushed out] to prevent the enemy’s landing. As soon as battle was joined and the fighting grew fierce, more and more men kept coming out of the city in support, until at last the whole force had poured out into the engagement.
+As soon as battle was joined and the fighting grew fierce, more and more men kept coming out of the city in support, until at last the whole force had poured out into the engagement.
 
 At that point the Romans who had disembarked during the night joined the battle, having made their way through unobserved ground.
 
@@ -394,7 +394,7 @@ Nonetheless, they put forward the ablest man among them and began to plead their
 
 ## Book 3 Chapter 21: Romans Demand Surrender of Hannibal
 
-[The Carthaginians began] to argue their case. As for the agreement made with Hasdrubal, they passed over it in silence, on the grounds that it had never been made, and that even if it had, it was not binding on them, since it had been concluded without their authorization.
+As for the agreement made with Hasdrubal, they passed over it in silence, on the grounds that it had never been made, and that even if it had, it was not binding on them, since it had been concluded without their authorization.
 
 On this point they used a precedent drawn from the Romans themselves: they said that the treaty made by Lutatius during the war over Sicily, after it had already been agreed to by Lutatius, was later annulled by the Roman people on the grounds that it had been made without their authorization.
 
@@ -418,7 +418,7 @@ I have translated the treaty and set it down below as accurately as I possibly c
 
 The terms of the treaty run roughly as follows: “On these conditions there shall be friendship between the Romans and the allies of the Romans, and the Carthaginians and the allies of the Carthaginians:
 
-The Romans and their allies shall not sail beyond the Fair Promontory, unless they are forced to by storm or by enemies. If anyone is driven beyond it by necessity, he shall not be permitted to buy or take anything except what is needed for the repair of his ship or for [7;8] sacrifices, and within five days he must depart. Those who come to trade shall pay no duty, except for the fee to the herald or the clerk. Whatever is sold in their presence shall be guaranteed to the seller by the public faith—that is, whatever is sold either in Libya or in Sardinia.
+The Romans and their allies shall not sail beyond the Fair Promontory, unless they are forced to by storm or by enemies. If anyone is driven beyond it by necessity, he shall not be permitted to buy or take anything except what is needed for the repair of his ship or for sacrifices, and within five days he must depart. Those who come to trade shall pay no duty, except for the fee to the herald or the clerk. Whatever is sold in their presence shall be guaranteed to the seller by the public faith—that is, whatever is sold either in Libya or in Sardinia.
 
 If any Roman comes to the part of Sicily that the Carthaginians govern, he shall have rights equal in all respects to the Carthaginians. The Carthaginians shall do no wrong to the people of Ardea, Antium, Laurentum, Circeii, or Tarracina, nor to any other of the Latins who are subject to Rome. From those cities that are not subject to Rome they shall keep their hands; and if they take one, they shall hand it back to the Romans undamaged. They shall build no fortress in Latium. If they enter the territory in arms, they shall not spend a night within that territory.”
 
@@ -610,19 +610,19 @@ No one should be surprised at the precision of this enumeration—if I have used
 
 For I myself found this record set down on a bronze tablet at Lacinium, drawn up by Hannibal during the period when he was operating in the regions of Italy, and I judged it to be entirely trustworthy, at least for such matters; and therefore I chose to follow this record.
 
-## Book 3 Chapter 34: Hannibal Contacts the Celts
+## Book 3 Chapter 34: Hannibal Contacts the Gauls
 
-Hannibal, having taken every precaution for the security of affairs both in Libya and in Iberia, now waited expectantly for the messengers being sent to him from the Celts.
+Hannibal, having taken every precaution for the security of affairs both in Libya and in Iberia, now waited expectantly for the messengers being sent to him from the Gauls.
 
 For he had clearly informed himself of the excellence of the land at the foot of the Alps and around the river Po, of the multitude of those who inhabited it, and further of the men’s daring in war, and—most important of all—of the hostility they bore toward the Romans from the earlier war, which I described in the book before this one, so that those who read might be able to follow what is now about to be told.
 
-He therefore clung to this hope and promised everything, sending careful messages to the chieftains of the Celts, both those on the near side of the Alps and those dwelling in the Alps themselves, since he believed that he could establish the war against the Romans within Italy only if he could pass through the difficult country that lay before him, reach the regions just mentioned, and make use of the Celts as helpers and allies for the undertaking he had in view.
+He therefore clung to this hope and promised everything, sending careful messages to the chieftains of the Gauls, both those on the near side of the Alps and those dwelling in the Alps themselves, since he believed that he could establish the war against the Romans within Italy only if he could pass through the difficult country that lay before him, reach the regions just mentioned, and make use of the Gauls as helpers and allies for the undertaking he had in view.
 
-When the messengers arrived and reported the willingness and expectation of the Celts, and declared that the crossing of the Alpine mountains, though very toilsome and difficult, was nevertheless not impossible, he gathered his forces from their winter quarters at the approach of spring.
+When the messengers arrived and reported the willingness and expectation of the Gauls, and declared that the crossing of the Alpine mountains, though very toilsome and difficult, was nevertheless not impossible, he gathered his forces from their winter quarters at the approach of spring.
 
 Since the news from Carthage had also just reached him, his spirit was raised, and, trusting in the goodwill of his fellow citizens, he now openly summoned his forces to the war against the Romans.
 
-He set before them how the Romans had ventured to demand his own surrender and that of all the commanders of the army, and he pointed out the excellence of the country to which they were going, and the goodwill and alliance of the Celts.
+He set before them how the Romans had ventured to demand his own surrender and that of all the commanders of the army, and he pointed out the excellence of the country to which they were going, and the goodwill and alliance of the Gauls.
 
 When the troops eagerly rallied to his side, he praised them, named a fixed day on which he would make the departure, and for the moment dismissed the assembly.
 
@@ -654,7 +654,7 @@ We must therefore point out a method by which it will be possible, in speaking o
 
 The first and most important means of knowledge, and one moreover that is common to all people, is the division and ordering of the heaven that surrounds us, by which all of us who are worth anything at all recognize east, west, south, and north.
 
-The second is that, by assigning the regions of the earth to each of these distinctions and always carrying in our minds whatever is mentioned onto one of the directions named above, we arrive at familiar and customary notions about things unknown and
+The second is that, by assigning the regions of the earth to each of these distinctions and always carrying in our minds whatever is mentioned onto one of the directions named above, we arrive at familiar and customary notions about things unknown and [...]
 
 ## Book 3 Chapter 37: Three Geographic Divisions of the World
 
@@ -674,9 +674,9 @@ Europe lies opposite both of them, facing toward the north, and stretches contin
 
 Its largest and deepest portion lies directly beneath the north, between the river Don and the Narbo—a river not far to the west of Marseilles and of the mouths of the Rhone, through which the aforesaid river empties into the Sardinian Sea.
 
-From the Narbo and the surrounding country the Celts dwell, as far as the mountains called the Pyrenees, which extend without a break from our sea to the outer sea.
+From the Narbo and the surrounding country the Gauls dwell, as far as the mountains called the Pyrenees, which extend without a break from our sea to the outer sea.
 
-The remaining part of Europe, from those mountains onward—the part adjoining the west and the Pillars of Heracles—is enclosed by our sea and the outer sea; and the portion stretching along our sea as far as the Pillars of Heracles is called Iberia, while the portion lying along the outer sea, which is called the Great Sea, has no common name, because it has only recently been explored. It is inhabited entirely by barbarous and populous peoples, about whom I will give a detailed
+The remaining part of Europe, from those mountains onward—the part adjoining the west and the Pillars of Heracles—is enclosed by our sea and the outer sea; and the portion stretching along our sea as far as the Pillars of Heracles is called Iberia, while the portion lying along the outer sea, which is called the Great Sea, has no common name, because it has only recently been explored. It is inhabited entirely by barbarous and populous peoples, about whom I will give a detailed [...]
 
 ## Book 3 Chapter 38: Unknown Areas in the North and the South
 
@@ -686,17 +686,17 @@ And anyone who says or writes anything about these regions otherwise must be reg
 
 Let this much, then, be said by me so that my narrative may not be wholly unintelligible to those unacquainted with the localities, but so that, at least in terms of the broad distinctions, they may grasp something and refer what is said to some point in their minds, judging from the surrounding heaven.
 
-For just as, in the matter of sight, we are accustomed always to turn our faces toward whatever is being pointed out to us, so too with the mind we must constantly direct and incline our thoughts toward the places
+For just as, in the matter of sight, we are accustomed always to turn our faces toward whatever is being pointed out to us, so too with the mind we must constantly direct and incline our thoughts toward the places [...]
 
 ## Book 3 Chapter 39: The Length of Hannibal’s March
 
-...demonstrating these points in the course of my account. But I will set these matters aside and turn back to the continuous thread of the narrative before me.
+[...] demonstrating these points in the course of my account. But I will set these matters aside and turn back to the continuous thread of the narrative before me.
 
 At this time the Carthaginians were masters of all those parts of Libya that face the inner sea, from the Altars of Philaenus, which lie along the Great Syrtis, as far as the Pillars of Heracles.
 
 This stretch of coastline is more than sixteen thousand stades in length.
 
-Having crossed the strait at the Pillars of Heracles, they had likewise gained control of all Iberia as far as the headland on our sea where the Pyrenees range comes to an end—the mountains that form the boundary between the Iberians and the Celts.
+Having crossed the strait at the Pillars of Heracles, they had likewise gained control of all Iberia as far as the headland on our sea where the Pyrenees range comes to an end—the mountains that form the boundary between the Iberians and the Gauls.
 
 This place is about eight thousand stades distant from the mouth at the Pillars of Heracles.
 
@@ -712,7 +712,7 @@ Of this territory he had by now covered nearly half in terms of sheer distance, 
 
 ## Book 3 Chapter 40: Gauls Attack the Military Colonies
 
-Hannibal, then, set about forcing the passes over the Pyrenees, full of fear of the Celts because of the strength of the terrain.
+Hannibal, then, set about forcing the passes over the Pyrenees, full of fear of the Gauls because of the strength of the terrain.
 
 The Romans, meanwhile, at this same period had heard from the envoys they had sent to Carthage both the decisions reached and the words that had been spoken; and when news fell upon them, sooner than they expected, that Hannibal had crossed the river Ebro with his army, they resolved to send Publius Cornelius with legions into Iberia, and Tiberius Sempronius into Libya.
 
@@ -738,17 +738,17 @@ When news reached Rome that the fourth legion was surrounded by the Boii and bei
 
 ## Book 3 Chapter 41: The Consuls Set Out to Iberia and Libya
 
-Such, then, was the state of Celtic affairs from the beginning down to the arrival of Hannibal, and they had reached the outcome that I have described both earlier and now.
+Such, then, was the state of Gallic affairs from the beginning down to the arrival of Hannibal, and they had reached the outcome that I have described both earlier and now.
 
 The Roman commanders, having made ready everything for their own undertakings, set sail at the start of the season for the operations before them—Publius to Iberia with sixty ships, and Tiberius Sempronius to Libya with a hundred and sixty quinqueremes.
 
 With these he set out to wage war so formidably and made such preparations at Lilybaeum—mustering everyone from every quarter—as though he meant to lay siege to Carthage itself the moment he landed.
 
-Publius, sailing along the Ligurian coast, came on the fifth day from Pisae to the region around Massalia, and, anchoring off the first mouth of the Rhone, the one called the Massaliote mouth, he began disembarking his forces. He had heard that Hannibal was already crossing the Pyrenees, but he was convinced that he was still far off, both because of the difficulty of the terrain and because of the multitude of Celts lying between them.
+Publius, sailing along the Ligurian coast, came on the fifth day from Pisae to the region around Massalia, and, anchoring off the first mouth of the Rhone, the one called the Massaliote mouth, he began disembarking his forces. He had heard that Hannibal was already crossing the Pyrenees, but he was convinced that he was still far off, both because of the difficulty of the terrain and because of the multitude of Gauls lying between them.
 
-Hannibal, however, contrary to expectation, partly winning over the Celts with money and partly forcing his way through them, arrived with his forces at the crossing of the Rhone, keeping the Sardinian Sea on his right.
+Hannibal, however, contrary to expectation, partly winning over the Gauls with money and partly forcing his way through them, arrived with his forces at the crossing of the Rhone, keeping the Sardinian Sea on his right.
 
-When it was made clear to Publius that the enemy were at hand, he partly disbelieved it because of the speed of their arrival and partly wished to learn the precise truth; so while he himself let his troops recover from the voyage and deliberated with the tribunes about which ground to use and how to engage the enemy, he sent out three hundred of his most courageous cavalry, attaching to them as both guides and supporting fighters some Celts who happened to be serving as mercenaries with the Massaliotes.
+When it was made clear to Publius that the enemy were at hand, he partly disbelieved it because of the speed of their arrival and partly wished to learn the precise truth; so while he himself let his troops recover from the voyage and deliberated with the tribunes about which ground to use and how to engage the enemy, he sent out three hundred of his most courageous cavalry, attaching to them as both guides and supporting fighters some Gauls who happened to be serving as mercenaries with the Massaliotes.
 
 ## Book 3 Chapter 42: The Passage of the Rhone
 
@@ -796,7 +796,7 @@ The barbarians, finding the situation utterly unexpected, split: some hurried to
 
 Hannibal, with events falling out just as he had planned, immediately formed up the first men as they landed, rallied them with encouragement, and engaged the barbarians.
 
-The Celts, both because of their disorder and because of the unexpected turn of events, were quickly routed and broke into flight.
+The Gauls, both because of their disorder and because of the unexpected turn of events, were quickly routed and broke into flight.
 
 ## Book 3 Chapter 44: Hannibal Addresses His Men
 
@@ -812,7 +812,7 @@ Then he himself gathered his forces and brought forward the chieftains in Magilu
 
 Of what was said, the strongest grounds for confidence among the rank and file were, first, the plain fact of the presence of these envoys, who were urging them on and pledging to share in the war against Rome; second, the trustworthiness of their promise that they would guide the army through such country that, without lacking any of their necessities, they would make their march into Italy both swiftly and safely; and besides this, the richness and the vast size of the land they were going to reach, and furthermore the eagerness of the men alongside whom they were about to wage their battles against the Roman forces.
 
-So, having spoken to this effect, the Celts withdrew.
+So, having spoken to this effect, the Gauls withdrew.
 
 After them Hannibal himself came forward and first reminded the troops of their past achievements: in these, he said, though they had undertaken many bold actions and dangers, they had failed in none, so long as they had followed his judgment and counsel.
 
@@ -826,7 +826,7 @@ When the men responded with approval and showed great drive and enthusiasm, he p
 
 When the assembly had broken up, the Numidians who had been sent ahead to reconnoiter returned, having lost most of their number, while the rest had fled headlong.
 
-For not far from their own camp they had collided with the Roman cavalry that Publius had dispatched on the same errand, and both sides showed such fierce determination in the clash that of the Romans and Celts about a hundred and forty horsemen were killed, and of the Numidians more than two hundred.
+For not far from their own camp they had collided with the Roman cavalry that Publius had dispatched on the same errand, and both sides showed such fierce determination in the clash that of the Romans and Gauls about a hundred and forty horsemen were killed, and of the Numidians more than two hundred.
 
 After this, the Romans, having pressed close to the Carthaginian stockade in their pursuit and reconnoitered it, turned back and hurried away to report the enemy’s presence to their commander; and when they reached their own camp, they delivered their report.
 
@@ -866,7 +866,7 @@ Once the animals had been ferried over, Hannibal took up the elephants and the c
 
 The Rhone has its sources above the head of the Adriatic Gulf, inclining toward the west, in the parts of the Alps that slope toward the north; it flows toward the winter sunset, and empties into the Sardinian Sea.
 
-It runs for a long way through a valley, to the north of which dwell the Ardyan Celts, while the entire southern side of it is bounded by the foothills of the Alps that incline toward the north. As for the plains around the Po, about which I have already spoken at some length, the ridges of the aforementioned mountains separate them from the valley of the Rhone; these ridges take their beginning at Massalia and run as far as the head of the whole Adriatic.
+It runs for a long way through a valley, to the north of which dwell the Ardyan Gauls, while the entire southern side of it is bounded by the foothills of the Alps that incline toward the north. As for the plains around the Po, about which I have already spoken at some length, the ridges of the aforementioned mountains separate them from the valley of the Rhone; these ridges take their beginning at Massalia and run as far as the head of the whole Adriatic.
 
 It was these that Hannibal then crossed over, passing from the region of the Rhone into Italy.
 
@@ -878,13 +878,13 @@ For having laid it down that the strongholds and ruggedness of the Alpine mounta
 
 ## Book 3 Chapter 48: Absurd Premises of Other Historians
 
-[They fall into both of these errors.] For, in the first place, what general could be shown to be more devoid of judgment than Hannibal, what commander more inept, if, leading forces so large and resting his greatest hopes of overall success on them, he knew, as these writers claim, neither the roads nor the country, neither where he was going at all nor against whom, and, to crown it, not even whether what he was attempting was generally possible?
+For, in the first place, what general could be shown to be more devoid of judgment than Hannibal, what commander more inept, if, leading forces so large and resting his greatest hopes of overall success on them, he knew, as these writers claim, neither the roads nor the country, neither where he was going at all nor against whom, and, to crown it, not even whether what he was attempting was generally possible?
 
 What men who have utterly failed and are at their wits’ end in every way will not bring themselves to do—namely, to plunge into unscouted country with an army—this the writers attribute to Hannibal, who held the greatest hopes for his cause entirely unimpaired.
 
 Likewise their account of the desolation, and further of the ruggedness and difficulty of the terrain, makes their falsehood plain.
 
-For they failed to inquire into the fact that the Celts living along the Rhone, not once nor twice before Hannibal’s arrival—and not in the distant past but quite recently—had crossed the Alps with great armies, drawn up against the Romans and fought alongside the Celts inhabiting the plains around the Po, as I have shown in the earlier parts of this work; and besides this, they did not know that a very large tribe of people happens to live in the Alps themselves. Instead, ignorant of every one of the things I have mentioned, they claim that some hero appeared and pointed out the roads to them.
+For they failed to inquire into the fact that the Gauls living along the Rhone, not once nor twice before Hannibal’s arrival—and not in the distant past but quite recently—had crossed the Alps with great armies, drawn up against the Romans and fought alongside the Gauls inhabiting the plains around the Po, as I have shown in the earlier parts of this work; and besides this, they did not know that a very large tribe of people happens to live in the Alps themselves. Instead, ignorant of every one of the things I have mentioned, they claim that some hero appeared and pointed out the roads to them.
 
 By this they naturally fall into the same case as the writers of tragedy. For with all of those, the denouements of their dramas require a god and a stage machine, because they take their initial premises to be false and irrational; and so historians too must suffer and do the same—bringing on heroes and gods to appear—once they have set up beginnings that are implausible and false. For how is it possible to set a reasonable ending upon irrational beginnings?
 
@@ -972,7 +972,7 @@ They claimed to be well aware both of the town’s capture and of the destructio
 
 For a long time Hannibal remained cautious and distrustful of what they said. But reasoning that if he accepted their offer he might perhaps make these new arrivals more cautious and more peaceable, whereas if he refused he would have them as open enemies, he assented to their proposal and pretended to enter into friendship with them.
 
-When the barbarians had handed over the hostages, supplied cattle in abundance, and altogether put themselves into his hands without reserve, Hannibal’s men came to trust them to a certain extent—so much so that they even used them as guides for the difficult ground that lay ahead. But after these guides had led the way for two days, the people just mentioned gathered their forces, followed close behind, and attacked, [seizing] a certain gorge that was hard to pass and ringed with cliffs
+When the barbarians had handed over the hostages, supplied cattle in abundance, and altogether put themselves into his hands without reserve, Hannibal’s men came to trust them to a certain extent—so much so that they even used them as guides for the difficult ground that lay ahead. But after these guides had led the way for two days, the people just mentioned gathered their forces, followed close behind, and attacked, [seizing] a certain gorge that was hard to pass and ringed with cliffs [...]
 
 ## Book 3 Chapter 53: The White Rock
 
@@ -994,7 +994,7 @@ During this time it happened that many of the horses that had bolted in panic an
 
 ## Book 3 Chapter 54: The Descent Into Italy
 
-...and rejoined the camp. By now, since the setting of the Pleiades was drawing near, the snow was already gathering on the peaks; and seeing his men in low spirits, both because of the hardship they had already endured and because of what they still expected to face, Hannibal tried to gather and encourage them, having one single resource for the purpose: the clear sight of Italy. For Italy lies so close beneath the mountains just mentioned that, when both are viewed together, the Alps appear to stand like a citadel over the whole of Italy.
+[...] and rejoined the camp. By now, since the setting of the Pleiades was drawing near, the snow was already gathering on the peaks; and seeing his men in low spirits, both because of the hardship they had already endured and because of what they still expected to face, Hannibal tried to gather and encourage them, having one single resource for the purpose: the clear sight of Italy. For Italy lies so close beneath the mountains just mentioned that, when both are viewed together, the Alps appear to stand like a citadel over the whole of Italy.
 
 Therefore, by pointing out to them the plains around the Po, and by reminding them in general of the goodwill of the Gauls who inhabited them, and at the same time indicating the location of Rome itself, he succeeded to some extent in restoring the men’s confidence.
 
@@ -1006,7 +1006,7 @@ Still, they endured this hardship, being by now accustomed to such troubles.
 
 But when they came to a place that neither the elephants nor the pack animals could get past because of its narrowness—where the cliff face had fallen away for nearly a stade and a half, having been broken before but having now collapsed even more freshly—there once again the men fell into despair and confusion.
 
-At first the Carthaginian general attempted to go around the difficult ground; but when fresh snow fell and made this route also impossible to travel,
+At first the Carthaginian general attempted to go around the difficult ground; but when fresh snow fell and made this route also impossible to travel, [...]
 
 ## Book 3 Chapter 55: Snow
 
@@ -1096,7 +1096,7 @@ At first he invited them into friendship and alliance; but when they would not l
 
 By slaughtering those who had resisted him, he instilled such fear in the neighbouring barbarian tribes that they all came over to him at once, surrendering themselves into his trust.
 
-As for the rest of the Celts inhabiting the plains, they were eager to make common cause with the Carthaginians, in keeping with their original intention.
+As for the rest of the Gauls inhabiting the plains, they were eager to make common cause with the Carthaginians, in keeping with their original intention.
 
 But since the Roman legions had by now advanced past most of them and cut them off, they kept quiet; and some were even compelled to serve alongside the Romans.
 
@@ -1146,7 +1146,7 @@ And when the result of the lottery was announced, those who had been picked were
 
 When the combat took place, the captives who were left behind counted the dead man no less fortunate than the victor, since the one had been released from many great miseries, while they themselves were still left to endure them.
 
-The same view was held by most of the Carthaginians as well: for as they watched, by way of comparison, the wretchedness of those who were being led off still alive, they pitied these men, while the one who had died they accounted
+The same view was held by most of the Carthaginians as well: for as they watched, by way of comparison, the wretchedness of those who were being led off still alive, they pitied these men, while the one who had died they accounted [...]
 
 ## Book 3 Chapter 63: Harangues of Hannibal and Scipio
 
@@ -1232,7 +1232,7 @@ Then, hearing that the rest had already gotten a long way ahead, he turned about
 
 On the second day he halted and bridged the crossing with river boats, and assigned to Hasdrubal the task of bringing the main body across, while he himself crossed at once and dealt with the envoys who had arrived from the neighboring districts.
 
-For as soon as he had gained the advantage, all the neighboring Celts hastened, in keeping with their original intention, to become his friends, to supply him, and to join the Carthaginians on campaign.
+For as soon as he had gained the advantage, all the neighboring Gauls hastened, in keeping with their original intention, to become his friends, to supply him, and to join the Carthaginians on campaign.
 
 After receiving those who had come in a friendly manner and bringing his forces over from the far side, he advanced along the river, taking the opposite direction to his earlier march: for he now made his way downstream, eager to come to grips with the enemy.
 
@@ -1244,9 +1244,9 @@ But when no one came out against him, he pitched camp, leaving an interval of ab
 
 ## Book 3 Chapter 67: The Gauls Join Hannibal
 
-The Celts who were serving alongside the Romans, seeing that the Carthaginians’ prospects were the more promising of the two, made an agreement among themselves and watched for the right moment to strike, each remaining meanwhile in his own tent.
+The Gauls who were serving alongside the Romans, seeing that the Carthaginians’ prospects were the more promising of the two, made an agreement among themselves and watched for the right moment to strike, each remaining meanwhile in his own tent.
 
-After the men in the camp had eaten their supper and gone to sleep, the Celts let most of the night pass, and then, around the time of the morning watch, they armed themselves and fell upon the Romans encamped nearest to them.
+After the men in the camp had eaten their supper and gone to sleep, the Gauls let most of the night pass, and then, around the time of the morning watch, they armed themselves and fell upon the Romans encamped nearest to them.
 
 They killed many of them and wounded a good number more; and in the end, after cutting off the heads of the dead, they withdrew to the Carthaginians, numbering about two thousand infantry and a little under two hundred cavalry.
 
@@ -1258,9 +1258,9 @@ At the same time the Boii also arrived and handed over to him the three men whom
 
 Hannibal welcomed their goodwill and gave pledges of friendship and alliance to those who had come; but he returned the men to them, instructing them to keep them safe, so that through them they might recover their own hostages, in keeping with their original purpose.
 
-Publius, indignant at the treachery that had occurred, reasoned that since the Celts had long been hostile toward the Romans, the defection of these men would cause all the surrounding Gauls to go over to the Carthaginians; and so he decided that he must guard against what was coming.
+Publius, indignant at the treachery that had occurred, reasoned that since the Gauls had long been hostile toward the Romans, the defection of these men would cause all the surrounding Gauls to go over to the Carthaginians; and so he decided that he must guard against what was coming.
 
-For this reason, when night fell, he broke camp toward dawn and set out toward the river Trebia and the hills adjoining it, trusting in the strength of the terrain
+For this reason, when night fell, he broke camp toward dawn and set out toward the river Trebia and the hills adjoining it, trusting in the strength of the terrain [...]
 
 ## Book 3 Chapter 68: Tiberius Sempronius Joins Scipio
 
@@ -1276,11 +1276,11 @@ Publius, then, having crossed the river just mentioned, made camp on the first l
 
 Hannibal pitched his camp about forty stades away from the enemy.
 
-The mass of the Celts who inhabited the plains, having committed themselves to the Carthaginians’ hopes, supplied the army abundantly with provisions and were ready to share in every undertaking and danger alongside Hannibal.
+The mass of the Gauls who inhabited the plains, having committed themselves to the Carthaginians’ hopes, supplied the army abundantly with provisions and were ready to share in every undertaking and danger alongside Hannibal.
 
 The people in Rome, when news of the cavalry engagement reached them, were taken aback that the outcome had run contrary to their expectations; yet they were not at a loss for excuses to convince themselves that what had happened was not a defeat.
 
-Some blamed the rashness of the general, others the deliberate treachery of the Celts, which they inferred from the latter’s recent defection.
+Some blamed the rashness of the general, others the deliberate treachery of the Gauls, which they inferred from the latter’s recent defection.
 
 In general, since their infantry legions remained intact, they reckoned their hopes for the overall outcome were likewise intact.
 
@@ -1298,17 +1298,17 @@ Having become master of the garrison and the stores of grain, he used the grain 
 
 He honored the traitor lavishly, eager to entice those holding positions of authority over toward the Carthaginians’ prospects.
 
-After this, observing that certain Celts who lived between the Po and the river Trebia had made a friendship with him while at the same time sending messages to the Romans—convinced that in this way they would secure their safety from both sides— he sent out two thousand infantry and about a thousand cavalry, both Celts and Numidians, with orders to overrun their territory.
+After this, observing that certain Gauls who lived between the Po and the river Trebia had made a friendship with him while at the same time sending messages to the Romans—convinced that in this way they would secure their safety from both sides— he sent out two thousand infantry and about a thousand cavalry, both Gauls and Numidians, with orders to overrun their territory.
 
-When these men had carried out their orders and gathered a great deal of plunder, the Celts immediately came to the Roman camp begging for help.
+When these men had carried out their orders and gathered a great deal of plunder, the Gauls immediately came to the Roman camp begging for help.
 
 Tiberius, who had long been looking for an opportunity to act, now seized on this as a pretext and sent out the greater part of his cavalry, together with about a thousand javelin-throwers from his infantry.
 
-When these troops quickly came up with the enemy across the Trebia and fought them for the plunder, the Celts and Numidians were put to flight and withdrew toward their own camp.
+When these troops quickly came up with the enemy across the Trebia and fought them for the plunder, the Gauls and Numidians were put to flight and withdrew toward their own camp.
 
 But the troops on guard in front of the Carthaginian camp quickly grasped what was happening and brought up reserves from there to help the hard-pressed men; whereupon the Romans in turn were routed and withdrew back to their own camp.
 
-Tiberius, seeing what was happening, sent out all his cavalry and javelin-throwers. When this happened, the Celts again gave way and retreated to the safety of their own position.
+Tiberius, seeing what was happening, sent out all his cavalry and javelin-throwers. When this happened, the Gauls again gave way and retreated to the safety of their own position.
 
 The Carthaginian general, being unprepared to risk a decisive engagement and believing that one should never bring on a full-scale battle without a settled plan or on the strength of any chance opening—which, it must be said, is the mark of a good commander— checked his own men as they drew near the camp and forced them to halt and turn about, but prevented them from pursuing and engaging the enemy, recalling them through his aides and trumpeters. The Romans, after waiting a short time, withdrew, having lost only a few of their own men while destroying a greater number of the Carthaginians.
 
@@ -1320,7 +1320,7 @@ Now it lay within his power to act on his own judgment in the present circumstan
 
 Publius, however, held the opposite view about the present situation.
 
-For he reckoned that their legions would become better after wintering under arms; that the faithlessness of the Celts would not remain loyal once the Carthaginians were inactive and forced to keep quiet, but would instead make some fresh move against them again; and besides, that once he himself had recovered from his wound, he hoped to be able to render real service to their common cause.
+For he reckoned that their legions would become better after wintering under arms; that the faithlessness of the Gauls would not remain loyal once the Carthaginians were inactive and forced to keep quiet, but would instead make some fresh move against them again; and besides, that once he himself had recovered from his wound, he hoped to be able to render real service to their common cause.
 
 Reasoning along these lines, he urged Tiberius to remain with things as they stood.
 
@@ -1328,17 +1328,17 @@ Tiberius knew that each of these points was being stated truly and properly; but
 
 For this reason, choosing not the moment that the circumstances called for but his own, he was plainly bound to fall short of what was needed.
 
-Hannibal, holding much the same view as Publius about the present situation, was for the opposite reason eager to engage the enemy: first, he wished to make use of the Celts’ fighting spirit while it was still fresh; second, to engage the Roman legions while they were still untrained and newly recruited; third, to fight while Publius was still unable to take the field; and, most important of all, to be doing something and not let the time slip away to no purpose.
+Hannibal, holding much the same view as Publius about the present situation, was for the opposite reason eager to engage the enemy: first, he wished to make use of the Gauls’ fighting spirit while it was still fresh; second, to engage the Roman legions while they were still untrained and newly recruited; third, to fight while Publius was still unable to take the field; and, most important of all, to be doing something and not let the time slip away to no purpose.
 
 For when a general has brought his army into foreign territory and is attempting bold undertakings, this is the one means of safety: continually to keep the hopes of his allies fresh.
 
-Hannibal, then, knowing the attack that was to come
+Hannibal, then, knowing the attack that was to come [...]
 
 ## Book 3 Chapter 71: Hannibal Prepares An Ambush
 
 These were the matters that occupied Tiberius. Hannibal, meanwhile, had long since noticed a stretch of ground between the two camps that was flat and bare of trees, yet well suited for an ambush, because a watercourse ran through it with a raised bank along its edge, and along that bank grew a continuous thicket of thorns and brambles. There he set about laying a trap for the enemy.
 
-He was confident the scheme would easily escape notice. For the Romans were suspicious of wooded ground, since the Celts always set their ambushes in such places, but they felt no distrust of level and open country— not realizing that, both for staying concealed and for keeping the men in ambush from coming to any harm, open ground is in fact better suited than woodland. The reason is that those lying in wait can see everything that is going on from a long way off, while in most such places there is cover enough to hide behind.
+He was confident the scheme would easily escape notice. For the Romans were suspicious of wooded ground, since the Gauls always set their ambushes in such places, but they felt no distrust of level and open country— not realizing that, both for staying concealed and for keeping the men in ambush from coming to any harm, open ground is in fact better suited than woodland. The reason is that those lying in wait can see everything that is going on from a long way off, while in most such places there is cover enough to hide behind.
 
 A chance watercourse with a low bank, or sometimes reeds, ferns, and a kind of thorn-scrub, can conceal not only infantry but at times even cavalry, provided one takes the modest precaution of laying the conspicuous parts of the armor flat against the ground and tucking the helmets in under the shields.
 
@@ -1372,7 +1372,7 @@ The Carthaginians, by contrast, had eaten and drunk in their tents, had got thei
 
 Hannibal, watching for his moment, as soon as he saw that the Romans had crossed the river, threw out his spearmen and Balearic slingers—some eight thousand of them—as a covering force and led out his army.
 
-Advancing about eight stades in front of his camp, he drew up his infantry, about twenty thousand in number—Iberians, Celts, and Libyans—in a single straight line, and dividing his cavalry, he stationed them on either wing—more than ten thousand, counting his Celtic allies—while he split the elephants and posted them in front of both wings.
+Advancing about eight stades in front of his camp, he drew up his infantry, about twenty thousand in number—Iberians, Gauls, and Libyans—in a single straight line, and dividing his cavalry, he stationed them on either wing—more than ten thousand, counting his Gallic allies—while he split the elephants and posted them in front of both wings.
 
 Tiberius at this same moment was recalling his cavalry, since he saw they could make no headway against the enemy. For the Numidians would fall back easily and in scattered fashion, then wheel about and press the attack again boldly and recklessly—this being the characteristic feature of Numidian fighting.
 
@@ -1380,7 +1380,7 @@ His infantry he drew up in the formation customary among the Romans: about sixte
 
 For with them a full army for major operations consists of that many men, whenever circumstances bring both consuls together at once.
 
-After this, placing his cavalry—about four thousand—on either wing, he advanced against the enemy in imposing style, in good order
+After this, placing his cavalry—about four thousand—on either wing, he advanced against the enemy in imposing style, in good order [...]
 
 ## Book 3 Chapter 73: The Battle of the Trebia
 
@@ -1396,7 +1396,7 @@ And so, as soon as the light troops who had fought the opening skirmish had been
 
 As the Roman cavalry gave way and the wings of the phalanx were left exposed, the Carthaginian spearmen and the mass of Numidians, sweeping past their own front ranks and falling upon the Roman flanks, did them great damage and prevented them from fighting the troops facing them.
 
-But the heavy-armed troops on both sides, who held the front and center positions of the whole line, kept up a close, hand-to-hand fight for a long time, evenly matched,
+But the heavy-armed troops on both sides, who held the front and center positions of the whole line, kept up a close, hand-to-hand fight for a long time, evenly matched, [...]
 
 ## Book 3 Chapter 74: The Romans Retreat to Placentia
 
@@ -1404,7 +1404,7 @@ making the contest a fierce one. It was at this point that the Numidians lying i
 
 In the end both of Tiberius’s wings, pressed in front by the elephants and all around—on their flanks—by the light-armed troops, were routed and driven, as the pursuit went on, toward the river that lay behind them.
 
-After this, of the Romans stationed in the center of the action, those positioned in the rear were destroyed and suffered terribly under the attack of the men from the ambush, while those in the foremost ranks, forced to fight on, overpowered the Celts and a portion of the Libyans, killed many of them, and cut their way through the Carthaginian line.
+After this, of the Romans stationed in the center of the action, those positioned in the rear were destroyed and suffered terribly under the attack of the men from the ambush, while those in the foremost ranks, forced to fight on, overpowered the Gauls and a portion of the Libyans, killed many of them, and cut their way through the Carthaginian line.
 
 Seeing that their own wings had been driven off the field, they gave up any thought of going to their aid or of returning to their own camp—wary of the enemy’s superior numbers of cavalry, and hindered by the river and by the driving, swirling downpour beating down on their heads.
 
@@ -1414,7 +1414,7 @@ Of the rest, the greater part perished near the river at the hands of the elepha
 
 The Carthaginian army pursued the enemy as far as the river but, unable to advance any farther because of the storm, returned again to its camp.
 
-They were all overjoyed at the battle, feeling they had won a complete success; for it turned out that few of the Iberians and Libyans had fallen, and that the heaviest losses had been among the Celts.
+They were all overjoyed at the battle, feeling they had won a complete success; for it turned out that few of the Iberians and Libyans had fallen, and that the heaviest losses had been among the Gauls.
 
 But from the rain and the snow that followed, they were so badly affected that the elephants died—all but one—and many of the men and horses perished as well from the cold.
 
@@ -1422,7 +1422,7 @@ But from the rain and the snow that followed, they were so badly affected that t
 
 Tiberius, well aware of what had happened but wishing as far as possible to hide the disaster from the people in Rome, sent messengers to report that a battle had been fought but that the storm had robbed them of the victory.
 
-For the moment the Romans believed the reports that reached them; but before long they learned that the Carthaginians were holding their own camp and that all the Celts had gone over to friendship with them, while their own men had abandoned their camp, had withdrawn from the field, had all gathered together into the cities, and were being supplied with necessities by sea up the river Po. They then understood all too clearly what had really happened in the battle.
+For the moment the Romans believed the reports that reached them; but before long they learned that the Carthaginians were holding their own camp and that all the Gauls had gone over to friendship with them, while their own men had abandoned their camp, had withdrawn from the field, had all gathered together into the cities, and were being supplied with necessities by sea up the river Po. They then understood all too clearly what had really happened in the battle.
 
 And so, since the affair had come upon them as a complete surprise, they devoted themselves with special energy to their remaining preparations and to guarding the regions that lay exposed, sending legions to Sardinia and Sicily, and garrisons to Tarentum and to other places of strategic value; they also fitted out sixty quinqueremes.
 
@@ -1462,7 +1462,7 @@ By dividing the spoils fairly among his soldiers, he won great goodwill from the
 
 Such was the state of affairs in Iberia. As the spring season set in, Gaius Flaminius took up his forces and advanced through Etruria, pitching camp before the city of the Arretines, while Gnaeus Servilius went in the opposite direction, toward Ariminum, to watch there for the enemy’s invasion.
 
-Hannibal, wintering in Celtic territory, kept the Romans among the prisoners from the battle under guard, giving them only modest rations, but their allies he at first treated with every kindness; and afterward he gathered them together and addressed them, declaring that he had not come to make war on them but on the Romans on their behalf. Therefore, he said, if they were sensible, they should hold fast to friendship with him.
+Hannibal, wintering in Gallic territory, kept the Romans among the prisoners from the battle under guard, giving them only modest rations, but their allies he at first treated with every kindness; and afterward he gathered them together and addressed them, declaring that he had not come to make war on them but on the Romans on their behalf. Therefore, he said, if they were sensible, they should hold fast to friendship with him.
 
 For he had come, first, to win back freedom for the peoples of Italy, and likewise to help each of them recover the cities and territory they had lost to the Romans.
 
@@ -1472,19 +1472,19 @@ With these words he released them all without ransom to their own homes, wishing
 
 During his time in winter quarters he also employed a certain stratagem that was thoroughly Phoenician in character.
 
-Because he was anxious about the unreliability of the Celts and about possible plots against his life—the alliance between himself and them being so recently formed—he had a set of false hairpieces made, each one suited to the appearance natural to a different age of life.
+Because he was anxious about the unreliability of the Gauls and about possible plots against his life—the alliance between himself and them being so recently formed—he had a set of false hairpieces made, each one suited to the appearance natural to a different age of life.
 
 These he wore constantly, changing them from one to another, and in the same way he kept changing his clothing as well, always to match whichever wig he was wearing.
 
 By this means he was hard to recognize, not only for those who caught sight of him suddenly, but even for those who were on familiar terms with him.
 
-He observed, however, that the Celts were resentful at the war dragging on in their own territory, and that they were eager and on edge to push into enemy land—ostensibly out of anger toward the Romans, but mostly for the sake of plunder. He therefore decided to break camp as quickly as possible and to satisfy the army’s impulses.
+He observed, however, that the Gauls were resentful at the war dragging on in their own territory, and that they were eager and on edge to push into enemy land—ostensibly out of anger toward the Romans, but mostly for the sake of plunder. He therefore decided to break camp as quickly as possible and to satisfy the army’s impulses.
 
 And so, as soon as the season began to change, he made inquiries of those reputed to have the best knowledge of the country. He found that the other routes for invading enemy territory were long and obvious to the enemy, whereas the one leading through the marshes into Etruria, though difficult, was short and would catch Flaminius and his men completely off guard.
 
 Since he was always by temperament drawn to this kind of approach, he resolved to make his march by this route.
 
-But when word spread through the camp that the general intended to lead them through some marshes, every man grew wary of the march, fearful of pits and
+But when word spread through the camp that the general intended to lead them through some marshes, every man grew wary of the march, fearful of pits and [...]
 
 ## Book 3 Chapter 79: Hannibal Goes Through the Marsh
 
@@ -1492,17 +1492,17 @@ the swampy stretches of the terrain. But Hannibal had carefully reconnoitered th
 
 As for the longer term, he gave no thought at all to the whole baggage train, reasoning that once he reached enemy country, if he were defeated he would have no further need of supplies, and if he held the open field he would have no shortage of provisions.
 
-Behind the troops just mentioned he set the Celts, and behind all of them the cavalry.
+Behind the troops just mentioned he set the Gauls, and behind all of them the cavalry.
 
-He left his brother Mago in charge of the rearguard, both for general reasons and especially because of the softness and aversion to hardship of the Celts, so that if they should suffer and try to turn back, Mago could stop them with the cavalry and lay hands on them.
+He left his brother Mago in charge of the rearguard, both for general reasons and especially because of the softness and aversion to hardship of the Gauls, so that if they should suffer and try to turn back, Mago could stop them with the cavalry and lay hands on them.
 
 Now the Iberians and Libyans, marching through the marshes while these were still untrampled, got through with only moderate hardship, since they were all hardy by nature and accustomed to such ordeals.
 
-But the Celts advanced only with difficulty, since the marshes were now churned up and trodden into deep mire, and they endured the suffering painfully and miserably, being wholly unused to that kind of distress.
+But the Gauls advanced only with difficulty, since the marshes were now churned up and trodden into deep mire, and they endured the suffering painfully and miserably, being wholly unused to that kind of distress.
 
 Yet they were prevented from slipping back to the rear by the cavalry stationed behind them.
 
-All of them suffered, especially from sleeplessness, as they marched continuously through water for four days and three nights on end; but the Celts in particular labored and perished more than the rest.
+All of them suffered, especially from sleeplessness, as they marched continuously through water for four days and three nights on end; but the Gauls in particular labored and perished more than the rest.
 
 Most of his pack animals slipped in the mud, fell, and died, providing a single service to the men in their fall: for the soldiers sat on the carcasses and, piling the baggage in heaps, kept themselves above the water, and in this way snatched a little sleep during a short part of the night.
 
@@ -1554,7 +1554,7 @@ For he had instilled in the crowds such confident expectation that those who tag
 
 Hannibal, for his part, was at the same time advancing forward through Etruria toward Rome, keeping on his left the city called Cortona and its hills, and on his right the lake called Thrasymene.
 
-As he advanced he set fire to the country and laid it waste, wishing to provoke the fury of his opponents. And when he saw that Flaminius was already drawing near, and had observed ground naturally suited to his purpose,
+As he advanced he set fire to the country and laid it waste, wishing to provoke the fury of his opponents. And when he saw that Flaminius was already drawing near, and had observed ground naturally suited to his purpose, [...]
 
 ## Book 3 Chapter 83: Hannibal Takes a Position in the Valley
 
@@ -1564,7 +1564,7 @@ Passing through the valley along the lake, Hannibal seized for himself the hill 
 
 The Balearic slingers and spearmen he led around by the vanguard and posted in concealment beneath the hills lying to the right of the valley, deploying them in a long extended line.
 
-The cavalry and the Celts he likewise led around in a circuit under the hills on the left and stretched them out in a continuous line, so that the outermost of them were right at the entrance—the one running between the lake and the foot of the hills into the place described.
+The cavalry and the Gauls he likewise led around in a circuit under the hills on the left and stretched them out in a continuous line, so that the outermost of them were right at the entrance—the one running between the lake and the foot of the hills into the place described.
 
 So Hannibal, having made these preparations during the night and having ringed the valley with his ambushes, kept quiet.
 
@@ -1584,7 +1584,7 @@ As a result, most of them were cut down still in their order of march, unable to
 
 For while they were still debating what to do, they were being destroyed before they realized it.
 
-At that very moment some of the Celts fell upon Flaminius himself—who was at a loss and in utter distress over the whole situation—and killed him.
+At that very moment some of the Gauls fell upon Flaminius himself—who was at a loss and in utter distress over the whole situation—and killed him.
 
 So of the Romans in the valley nearly fifteen thousand fell, unable either to give way to the circumstances or to do anything at all, but holding to this above all else, in keeping with their training: not to flee or abandon their ranks.
 
@@ -1610,7 +1610,7 @@ He began by making clear that Maharbal had no authority to grant the men who had
 
 When he had finished with that, he distributed all the captives who were Romans among the units of his army to be held under guard, but he released all the allies, without ransom, to return to their own homes, repeating the same declaration he had made before: that he had come to wage war not against the Italians but against the Romans, on behalf of the freedom of the Italians.
 
-He then let his own forces recover their strength, and he buried the most distinguished of the dead from his own army, about thirty in number; for in all about fifteen hundred had fallen, most of whom were Celts.
+He then let his own forces recover their strength, and he buried the most distinguished of the dead from his own army, about thirty in number; for in all about fifteen hundred had fallen, most of whom were Gauls.
 
 Having done this, he began to deliberate with his brother and his friends about where and how he ought to press his advance, since he was now confident about the whole campaign.
 
@@ -1636,7 +1636,7 @@ For this reason they set aside the annual conduct of public business and the ele
 
 Hannibal, now thoroughly confident about the whole campaign, decided against approaching Rome for the present, and instead advanced through the countryside, plundering it without resistance, making his march toward the Adriatic.
 
-Passing through the country called Umbria and that of Picenum, he reached the Adriatic region on the tenth day, having taken so much plunder that the army could neither drive nor carry off the spoils, and having killed a great many people along the way; for, just as in the storming of cities, on this occasion too an order had been given to kill any grown men who fell into their hands. This he did because of the
+Passing through the country called Umbria and that of Picenum, he reached the Adriatic region on the tenth day, having taken so much plunder that the army could neither drive nor carry off the spoils, and having killed a great many people along the way; for, just as in the storming of cities, on this occasion too an order had been given to kill any grown men who fell into their hands. This he did because of the [...]
 
 ## Book 3 Chapter 87: Quintus Fabius Maximus
 
@@ -1692,7 +1692,7 @@ With the Roman army the very opposite of all this was the case.
 
 For this reason Fabius was unable to commit to a decisive engagement, since his inferiority was plain to see. Instead, falling back in his calculations upon his own advantages, he kept to these and conducted the war by their means.
 
-And the Romans’ advantages were inexhaustible resources
+And the Romans’ advantages were inexhaustible resources [...]
 
 ## Book 3 Chapter 90: Hannibal Enters Campania
 
@@ -1758,7 +1758,7 @@ Fabius understood his plan—that he was preparing to make his return by the sam
 
 ## Book 3 Chapter 93: The Cattle With the Burning Fagots
 
-...he encamped. When the Carthaginians arrived and pitched their camp on the level ground right at the foot of the slope, he expected to carry off their plunder without a fight, and even, in all likelihood, to put an end to the whole affair, thanks to the favorable lie of the land.
+[...] he encamped. When the Carthaginians arrived and pitched their camp on the level ground right at the foot of the slope, he expected to carry off their plunder without a fight, and even, in all likelihood, to put an end to the whole affair, thanks to the favorable lie of the land.
 
 So he was occupied with these deliberations and bent upon them, considering where and how he should make use of the terrain, and which men were to begin the attack on the enemy, and from what quarter.
 
@@ -1774,11 +1774,11 @@ As soon as the third part of the night had passed, he at once led out the work c
 
 This was quickly done because of their numbers, and he gave the order to light them all and directed the men to drive the oxen forward and force them up toward the ridge tops, while he posted the spearmen behind them, telling them to help the drivers up to a certain point, but, once the animals had taken their first headlong rush, to run out along the flanks and, raising a din, to make for the high ground and seize the ridge tops in advance, so that they might lend support and engage the enemy if they should meet any at the heights.
 
-At this same moment he himself moved out, taking first the heavy infantry, behind them the cavalry, next the booty, and after all the rest the Iberians and Celts...
+At this same moment he himself moved out, taking first the heavy infantry, behind them the cavalry, next the booty, and after all the rest the Iberians and Gauls [...]
 
 ## Book 3 Chapter 94: Fabius Returns to Rome
 
-...he came to the narrows and the defiles. As for the Romans guarding the narrows, the moment they saw the lights advancing toward the heights, they supposed Hannibal was making his push that way, and so they abandoned the difficult ground and hurried to the help of the heights.
+[...] he came to the narrows and the defiles. As for the Romans guarding the narrows, the moment they saw the lights advancing toward the heights, they supposed Hannibal was making his push that way, and so they abandoned the difficult ground and hurried to the help of the heights.
 
 But as they drew near the oxen they were thrown into confusion by the lights, imagining and expecting something greater and more terrible than what was actually happening. Then, when the Carthaginian spearmen arrived, after the two sides had exchanged a few long-range shots, with the oxen now charging in among them, both parties drew apart and held to the heights, waiting expectantly for the coming of day, since they could not make out what was going on.
 
@@ -1812,7 +1812,7 @@ Coming to anchor about eighty stades from the enemy, he sent ahead two fast-sail
 
 For the people of Massilia, if any others ever did, nobly shared in the fortunes of Rome—often on later occasions, but most of all during the war with Hannibal.
 
-When the men sent out to reconnoiter reported that the enemy’s fleet happened to be lying at anchor off the mouth of the river, Scipio put to sea in haste, wishing to fall upon them suddenly...
+When the men sent out to reconnoiter reported that the enemy’s fleet happened to be lying at anchor off the mouth of the river, Scipio put to sea in haste, wishing to fall upon them suddenly [...]
 
 ## Book 3 Chapter 96: Naval Success of the Romans In Spain
 
@@ -1842,7 +1842,7 @@ He first put in at Lilybaeum in Sicily; after that he sailed down to Libya, to t
 
 On the voyage back he gained control of the island of Cossyrus and, after installing a garrison in its little town, he put in again at Lilybaeum.
 
-For the rest, having moored his fleet there, after no long time he himself
+For the rest, having moored his fleet there, after no long time he himself [...]
 
 ## Book 3 Chapter 97: Spanish Hostages Given Up To the Scipios
 
@@ -1854,7 +1854,7 @@ For this reason, regarding this war too as of great importance, they sent out th
 
 For never before had the Romans ventured to cross the river Ebro—they had been content with the friendship and alliance of the tribes on the near side—but now they crossed it, and for the first time found the courage to lay claim to affairs on the far side, with chance, too, lending them considerable help in the circumstances that surrounded them.
 
-For after overawing the Iberians living about the crossing, they came to the city of the Saguntines and pitched camp about forty stades away, near the temple of Aphrodite, having taken up a position naturally well suited both for safety from the enemy and for the supply of provisions from the sea; for it happened that their fleet was at the same time making its passage along the coast beside them. It was there that
+For after overawing the Iberians living about the crossing, they came to the city of the Saguntines and pitched camp about forty stades away, near the temple of Aphrodite, having taken up a position naturally well suited both for safety from the enemy and for the supply of provisions from the sea; for it happened that their fleet was at the same time making its passage along the coast beside them. It was there that [...]
 
 ## Book 3 Chapter 98: Treason of Abilyx
 
@@ -1870,7 +1870,7 @@ For, by restoring the boys to their cities, he would win over the goodwill not o
 
 He urged Bostar also to expect a host of gifts privately from those who recovered their children; for each of them, unexpectedly regaining the dearest of their kin, would compete in showering benefits on the man in charge of the affair.
 
-By arguing these points and many others like them in the same vein, he persuaded Bostar to agree to
+By arguing these points and many others like them in the same vein, he persuaded Bostar to agree to [...]
 
 ## Book 3 Chapter 99: The Boys are Restored to Their Native Cities
 
@@ -1976,7 +1976,7 @@ And so that they should not be spotted early by the men going out to forage, at 
 
 When Marcus saw what was happening, he thought it a piece of luck and immediately sent out his light-armed troops, ordering them to fight and contend for the position; after them he sent the cavalry.
 
-Next, behind these, he himself led up the heavy infantry in a continuous line, just as before, handling every part of the operation
+Next, behind these, he himself led up the heavy infantry in a continuous line, just as before, handling every part of the operation [...]
 
 ## Book 3 Chapter 105: Cautious Fabius Saves the Day
 
@@ -2010,7 +2010,7 @@ Aemilius and his colleagues, after consulting with the Senate, at once enrolled 
 
 They instructed Gnaeus and his men by no means to risk a general engagement of any kind, but to carry out partial skirmishes as vigorously and as continuously as possible, in order to train the young men and prepare them, full of confidence, for the decisive battles—since they reckoned that their earlier reverses had come about, in no small part, from their having relied on troops that were newly levied and wholly untrained.
 
-They themselves sent Lucius Postumius, a praetor with six lictors, to Gaul with an army, wishing to create a diversion against the Celts who were serving with Hannibal.
+They themselves sent Lucius Postumius, a praetor with six lictors, to Gaul with an army, wishing to create a diversion against the Gauls who were serving with Hannibal.
 
 They also took thought for bringing back the fleet wintering at Lilybaeum, and sent across to the commanders in Iberia everything that was urgently needed for the campaign.
 
@@ -2170,21 +2170,21 @@ Together with the allies there were about eighty thousand infantry and a little 
 
 At the same time Hannibal sent his Balearic slingers and javelin-men across the river and posted them in front of his force; the rest he led out of the camp and, bringing them over the stream at two places, drew them up against the enemy.
 
-Right at the river, on his left, he placed the Iberian and Celtic cavalry facing the Roman cavalry; next to them, half of the Libyan infantry armed in the heavy fashion; next to these, the Iberians and Celts; beside them he placed the remaining portion of the Libyans; and on the right wing he posted the Numidian cavalry.
+Right at the river, on his left, he placed the Iberian and Gallic cavalry facing the Roman cavalry; next to them, half of the Libyan infantry armed in the heavy fashion; next to these, the Iberians and Gauls; beside them he placed the remaining portion of the Libyans; and on the right wing he posted the Numidian cavalry.
 
-Once he had extended everything along a single line, he then took the central units of the Iberians and Celts and pushed them forward, arranging the other units next to them in proportionate gradation, so that the line formed a crescent-shaped bulge and grew thin in its own formation, his intention being that the Libyans should hold the position of a reserve in the battle, while the Iberians and Celts bore the brunt of the first fighting.
+Once he had extended everything along a single line, he then took the central units of the Iberians and Gauls and pushed them forward, arranging the other units next to them in proportionate gradation, so that the line formed a crescent-shaped bulge and grew thin in its own formation, his intention being that the Libyans should hold the position of a reserve in the battle, while the Iberians and Gauls bore the brunt of the first fighting.
 
-## Book 3 Chapter 114: Arms of the Libyans, Iberians, and Celts
+## Book 3 Chapter 114: Arms of the Libyans, Iberians, and Gauls
 
 The Libyans’ equipment was Roman, for Hannibal had armed them all with a selection from the spoils taken in the earlier battle.
 
-As for the Iberians and Celts, their shields were much alike, but their swords were of opposite design.
+As for the Iberians and Gauls, their shields were much alike, but their swords were of opposite design.
 
 For the Iberian sword could thrust just as effectively as it could strike downward, whereas the Gallic blade had only one use, the downward cut, and that one only with room to swing.
 
-Since their companies were drawn up alternately—the Celts naked, the Iberians arrayed in their national fashion in short linen tunics bordered with purple—the sight that resulted was at once strange and terrifying.
+Since their companies were drawn up alternately—the Gauls naked, the Iberians arrayed in their national fashion in short linen tunics bordered with purple—the sight that resulted was at once strange and terrifying.
 
-The whole strength of the Carthaginian cavalry came to about ten thousand, and that of the infantry to not much more than forty thousand, including the Celts. Aemilius held the Roman right, Gaius the left, and the center was held by Marcus and Gnaeus, who had been the commanders of the previous year.
+The whole strength of the Carthaginian cavalry came to about ten thousand, and that of the infantry to not much more than forty thousand, including the Gauls. Aemilius held the Roman right, Gaius the left, and the center was held by Marcus and Gnaeus, who had been the commanders of the previous year.
 
 On the Carthaginian side, Hasdrubal held the left and Hanno the right, while at the center was Hannibal himself, with his brother Mago beside him.
 
@@ -2194,21 +2194,21 @@ Since the Roman line faced south, as I said above, and the Carthaginian line fac
 
 When the first clash had come about between the forward troops, at the outset the fighting among the light-armed themselves was evenly matched.
 
-But as soon as the Iberian and Celtic cavalry on the left closed with the Romans, these men made the battle a real and barbaric one: for the combat did not follow the rules, with wheeling and counter-maneuver, but once they had collided they fought grappling man against man, dismounting from their horses.
+But as soon as the Iberian and Gallic cavalry on the left closed with the Romans, these men made the battle a real and barbaric one: for the combat did not follow the rules, with wheeling and counter-maneuver, but once they had collided they fought grappling man against man, dismounting from their horses.
 
 When the Carthaginian horsemen had won the upper hand and killed most of their opponents in the struggle—for the Romans all fought with passion and courage—and were driving the rest along the river, slaughtering them and laying hands on them without mercy, then the infantry lines took over from the light-armed and engaged one another.
 
-For a short time the ranks of the Iberians and Celts held and fought the Romans gallantly; but after that, crushed by the weight, they gave way and fell back, breaking up the crescent.
+For a short time the ranks of the Iberians and Gauls held and fought the Romans gallantly; but after that, crushed by the weight, they gave way and fell back, breaking up the crescent.
 
-The Roman maniples, following them eagerly, easily cut through the enemy’s line, since the Celts had been drawn up thinly while the Romans had massed together from the wings toward the center and the point of danger.
+The Roman maniples, following them eagerly, easily cut through the enemy’s line, since the Gauls had been drawn up thinly while the Romans had massed together from the wings toward the center and the point of danger.
 
-For the wings and the center did not come into action at the same time; rather the center engaged first, because the Celts, having been arranged in a crescent formation, projected far ahead of the wings, since the convex of the crescent faced the enemy.
+For the wings and the center did not come into action at the same time; rather the center engaged first, because the Gauls, having been arranged in a crescent formation, projected far ahead of the wings, since the convex of the crescent faced the enemy.
 
 But as the Romans pursued these troops and crowded in toward the center and the yielding part of the enemy, they pressed forward so far that on either side, along their exposed flanks, the Libyans in their heavy armor came up against them: those on the right wing wheeled to the left and, charging from the spear side, took position alongside the enemy’s flank, while those on the left made their turn to the right and charged in from the shield side—the situation itself showing them what had to be done.
 
-The result, just as Hannibal had foreseen, was that the Romans were cut off in the middle by the Libyans, caught there by their headlong pursuit of the Celts.
+The result, just as Hannibal had foreseen, was that the Romans were cut off in the middle by the Libyans, caught there by their headlong pursuit of the Gauls.
 
-These men, then, no longer fighting in phalanx formation but turning individually and by maniples against those who were attacking them on the flanks...
+These men, then, no longer fighting in phalanx formation but turning individually and by maniples against those who were attacking them on the flanks [...]
 
 ## Book 3 Chapter 116: The Slaughter at Cannae
 
@@ -2244,7 +2244,7 @@ All the rest, numbering about seventy thousand, died nobly—the throng of caval
 
 And it became clear to later generations that for the occasions of war it is better to have half the number of infantry but be superior in cavalry than to risk a decisive battle with all forces evenly matched against the enemy.
 
-On Hannibal’s side, about four thousand Celts fell, about fifteen hundred Iberians and Libyans, and about two hundred cavalry.
+On Hannibal’s side, about four thousand Gauls fell, about fifteen hundred Iberians and Libyans, and about two hundred cavalry.
 
 The Romans who were taken alive had been outside the main battle, and for the following reason.
 
@@ -2266,7 +2266,7 @@ These had high hopes of becoming masters of Rome itself at the first onset.
 
 The Romans, for their part, at once gave up the rule of Italy on account of the defeat, and were in great fear and danger both for themselves and for the soil of their fatherland, expecting that at any moment Hannibal himself would arrive.
 
-And indeed, as though Fortune were measuring out yet more and joining in the contest against them on top of what had already happened, it came about that a few days later, while fear gripped the city, the general who had been sent to Gaul fell unexpectedly into an ambush and was utterly destroyed, together with his army, by the Celts.
+And indeed, as though Fortune were measuring out yet more and joining in the contest against them on top of what had already happened, it came about that a few days later, while fear gripped the city, the general who had been sent to Gaul fell unexpectedly into an ambush and was utterly destroyed, together with his army, by the Gauls.
 
 Nevertheless the Senate left undone none of the things in its power, but exhorted the people, secured the affairs of the city, and deliberated about the present crisis like men. This became evident from what happened afterward; for although the Romans were on that occasion admittedly beaten and had yielded their claim to excellence in arms, by the distinctive character of their constitution and by deliberating well they not only recovered the rule of Italy, afterward defeating the Carthaginians, but within a few years became masters of the whole inhabited world.
 

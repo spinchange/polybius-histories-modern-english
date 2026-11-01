@@ -32,7 +32,7 @@ After that, for as long as he remained in the Peloponnese and campaigned as thei
 
 After these measures had been approved, the Achaeans dispersed to their cities. The king, after consulting with his friends, decided, once the forces had come together from winter quarters, to wage the war by sea.
 
-He was convinced that only in this way would he be able to appear quickly against the enemy at every point, while his opponents would be least able to come to one another’s aid, since they were separated by their territories and each would be anxious for his own safety because of the uncertainty and speed with which an enemy could arrive by sea. For he was at war with the Aetolians, the Lacedaemonians, and the Eleans as well.
+He was convinced that only in this way would he be able to appear quickly against the enemy at every point, while his opponents would be least able to come to one another’s aid, since they were separated by their territories and each would be anxious for his own safety because of the uncertainty and speed with which an enemy could arrive by sea. For he was at war with the Aetolians, the Spartans, and the Eleans as well.
 
 Once this decision had been made, he assembled both the Achaean ships and his own at Lechaeum, and by repeatedly putting out to sea he trained the phalanx troops and got them used to the oars, the Macedonians responding eagerly to every order he gave.
 
@@ -280,7 +280,7 @@ For Philip had encamped near Metapa and was there waiting for the men from the r
 
 On the following day, as he advanced, he ravaged the countryside and, after encamping near Conope, remained there through the next day.
 
-On the day after that he broke camp again and marched along the Achelous as far as Stratus. After crossing the river, he drew up his force out of missile range,
+On the day after that he broke camp again and marched along the Achelous as far as Stratus. After crossing the river, he drew up his force out of missile range, [...]
 
 ## Book 5 Chapter 14: Skirmish at Stratus
 
@@ -374,11 +374,11 @@ After mooring his ships at Lechaeum, he disembarked his troops and sent messenge
 
 After making these arrangements and spending no time at all in Corinth, he gave the Macedonians orders to break camp. Marching by way of Argos, he reached Tegea on the second day.
 
-There he took with him the Achaeans who had assembled and advanced by the mountain road, eager to enter Laconian territory without the Lacedaemonians noticing.
+There he took with him the Achaeans who had assembled and advanced by the mountain road, eager to enter Laconian territory without the Spartans noticing.
 
 After going around through the deserted country, on the fourth day he came upon the hills opposite the city and passed along toward Amyclae itself, keeping the Menelaeum on his right.
 
-The Lacedaemonians, watching from the city as the army moved along, were struck with panic and fear, marveling at what was happening.
+The Spartans, watching from the city as the army moved along, were struck with panic and fear, marveling at what was happening.
 
 For their minds were still unsettled by the reports that had come in about Philip’s destruction of Thermus and, in general, about his actions in Aetolia; and there was even a rumor among them that Lycurgus would be sent out to aid the Aetolians.
 
@@ -392,7 +392,7 @@ He stayed there two days, and on the third, putting out before dawn, reached Lec
 
 After this he continued his marches without interruption, and on the seventh day came upon the hills above the city near the Menelaeum, so that most people who saw what had happened could hardly believe it.
 
-So the Lacedaemonians, thrown into fear by the unexpected nature of the event, were at a loss and in a difficult position for the moment.
+So the Spartans, thrown into fear by the unexpected nature of the event, were at a loss and in a difficult position for the moment.
 
 ## Book 5 Chapter 19: Philip Marches Through Laconia
 
@@ -406,7 +406,7 @@ On the following day, ravaging the countryside as he went, he descended to the s
 
 After raiding and laying waste the neighboring districts for the next two days, he encamped near Carnium. Setting out from there, he marched on Asine; and after making assaults on it but accomplishing nothing of importance, he broke camp again. From that point on, as he continued his advance, he devastated all the country facing the Cretan Sea as far as Taenarum.
 
-Then, changing direction once more, he marched past the Lacedaemonian naval station, which is called Gythium, has a secure harbor, and lies about two hundred and thirty stades from the city.
+Then, changing direction once more, he marched past the Spartan naval station, which is called Gythium, has a secure harbor, and lies about two hundred and thirty stades from the city.
 
 Leaving this on his right as he marched, he encamped near Helos, which, viewed as a district, is the largest and finest stretch of land in Laconia.
 
@@ -424,7 +424,7 @@ When they reached a place called Glympes, which lies on the borders of Argolis a
 
 For they neither dug a trench nor put up a palisade around their camp, nor did they choose a naturally advantageous site; instead, trusting in the goodwill of the people who lived in the place, they encamped unsuspectingly in front of its wall.
 
-But when the arrival of the Messenians was reported to Lycurgus, he took his mercenaries and some of the Lacedaemonians, advanced to the place, and at daybreak boldly attacked their camp.
+But when the arrival of the Messenians was reported to Lycurgus, he took his mercenaries and some of the Spartans, advanced to the place, and at daybreak boldly attacked their camp.
 
 The Messenians had made bad decisions in every respect, and especially in marching out from Tegea without a force strong enough in numbers and without relying on experienced advisers; yet when the danger actually came upon them, they still did the best that circumstances allowed for their own safety.
 
@@ -444,7 +444,7 @@ After giving instructions to the commanders and his friends about the coming dan
 
 He arranged with those in the city to keep watch, so that whenever he raised the signal they would quickly lead the troops out in front of the city from several points at once and draw them up facing the Eurotas, where the river comes nearest to the city.
 
-Such were the measures of Lycurgus and the Lacedaemonians.
+Such were the measures of Lycurgus and the Spartans.
 
 But lest unfamiliarity with the ground make what I say obscure and hard to follow, I should also explain the nature and arrangement of the place, which indeed is what I try to do throughout this work, always connecting places that are unknown and making them familiar by comparison with places already known and described.
 
@@ -464,9 +464,9 @@ So it happens that the hills on which the Menelaeum stands lie beyond the river,
 
 Through this strip the river just mentioned flows along the very foot of the hill, and the whole width there is no more than a stade and a half.
 
-Through this Philip was necessarily obliged to make his return march, with the city and the Lacedaemonians, ready and drawn up for battle, on his left, and on his right the river and Lycurgus’s men standing on the hills.
+Through this Philip was necessarily obliged to make his return march, with the city and the Spartans, ready and drawn up for battle, on his left, and on his right the river and Lycurgus’s men standing on the hills.
 
-The Lacedaemonians had also devised the following in addition to these advantages: by damming the river upstream they diverted it into the ground between the city and the hills, and once that area had been soaked through, it was impossible for not only horses but even infantry to enter it.
+The Spartans had also devised the following in addition to these advantages: by damming the river upstream they diverted it into the ground between the city and the hills, and once that area had been soaked through, it was impossible for not only horses but even infantry to enter it.
 
 So the only course left was to lead the army close under the foothills, thus exposing themselves to the enemy in a long marching column in which they could scarcely support one another.
 
@@ -482,7 +482,7 @@ When this was done, the magistrates responsible immediately led out the citizen 
 
 When Philip came near Lycurgus’s men, he first sent the mercenaries against them.
 
-As a result, the Lacedaemonians had the advantage at the outset and fought with greater confidence, since both their equipment and the ground contributed greatly in their favor.
+As a result, the Spartans had the advantage at the outset and fought with greater confidence, since both their equipment and the ground contributed greatly in their favor.
 
 But when Philip brought up the peltasts to support those engaged, keeping them in reserve formation, and launched the Illyrians in a flank attack, the mercenaries under Philip, encouraged by the support of the Illyrians and peltasts, were much more strongly emboldened for the fight, while Lycurgus’s men, alarmed by the attack of the heavy-armed troops, gave way and fled.
 
@@ -496,7 +496,7 @@ So the king, after crossing the river, remained in support with the light-armed 
 
 When the troops from the city tried to attack the cavalry serving as the covering force, and the engagement became more general, the peltasts fought with courage.
 
-And about this time Philip gained an acknowledged advantage, and after joining in the pursuit and chasing the Lacedaemonian cavalry to the gates, he then crossed the Eurotas safely and brought up the rear of his phalanx.
+And about this time Philip gained an acknowledged advantage, and after joining in the pursuit and chasing the Spartan cavalry to the gates, he then crossed the Eurotas safely and brought up the rear of his phalanx.
 
 ## Book 5 Chapter 24: Philip Proceeds to Tegea
 
@@ -740,7 +740,7 @@ At the time, then, Sosibius was pleased to hear this and was doubly encouraged i
 
 But afterward, as he observed the king’s slackness, he kept renewing the thought in his mind, and kept before his eyes both the boldness of Cleomenes and the goodwill that the foreign troops felt toward him. Therefore it was especially then that he urged the king and his friends to act first and shut Cleomenes up.
 
-To carry out this plan...
+To carry out this plan [...]
 
 ## Book 5 Chapter 37: Sosibius Plots Against Cleomenes
 
@@ -1072,7 +1072,7 @@ Quickly reversing course, he returned to his own entrenchment and arrived around
 
 For the men posted by the palisade, startled from sleep by the rush of those approaching, nearly bolted from the camp.
 
-Molon, for his part, did what he could to calm the disturbance...
+Molon, for his part, did what he could to calm the disturbance [...]
 
 ## Book 5 Chapter 53: Disposition of Troops
 
@@ -1278,7 +1278,7 @@ Learning that Nicolaus, Ptolemy’s general, was encamped before Ptolemais besie
 
 But Nicolaus, having already learned beforehand of the king’s approach, withdrew himself, and sent out Lagoras the Cretan and Dorymenes the Aetolian to seize in advance the narrows near Berytus.
 
-The king attacked these men in his first assault and
+The king attacked these men in his first assault and [...]
 
 ## Book 5 Chapter 62: Invasion of Coele-Syria
 
@@ -1334,7 +1334,7 @@ They also held assemblies under arms and gave exhortations, in which the most us
 
 Polycrates all the more so, both because of the antiquity of his house and because of the fame his father Mnasiades had won as an athlete.
 
-These men, exhorting the troops both privately and in public, instilled in them an eagerness and zeal for the coming struggle
+These men, exhorting the troops both privately and in public, instilled in them an eagerness and zeal for the coming struggle [...]
 
 ## Book 5 Chapter 65: Reform of the Egyptian Army
 
@@ -1358,7 +1358,7 @@ The body of Egyptians amounted to about twenty thousand phalangites and was subo
 
 A body of Thracians and Gauls was also assembled: about four thousand from the settlers and their descendants, while those recently brought in numbered about two thousand. These were commanded by Dionysius the Thracian.
 
-Such, then, in its numbers and in the variety of its components, was the force being prepared for Ptolemy, and
+Such, then, in its numbers and in the variety of its components, was the force being prepared for Ptolemy, and [...]
 
 ## Book 5 Chapter 66: Antiochus Puts his Troops in Winter Quarters
 
@@ -1414,7 +1414,7 @@ From there he sent Nicarchus and Theodotus ahead, ordering them to seize beforeh
 
 Taking up again from there Theodotus and Nicarchus with the light-armed troops of the army, he set out to reconnoitre the difficult ground already held by Nicolaus’s men.
 
-After thoroughly surveying the peculiarities of the terrain, he withdrew for that day to his camp; but on the following day, leaving his heavy arms there and Nicarchus in charge of them, he advanced with the rest of his force
+After thoroughly surveying the peculiarities of the terrain, he withdrew for that day to his camp; but on the following day, leaving his heavy arms there and Nicarchus in charge of them, he advanced with the rest of his force [...]
 
 ## Book 5 Chapter 69: Antiochus Forces the Pass of Porphyrion
 
@@ -1454,7 +1454,7 @@ He drew the men of the town out into a skirmish and lured their front-line fight
 
 About this same time Ceraeas, one of the officers serving under Ptolemy, deserted to Antiochus. By receiving him with great honor, Antiochus stirred the hopes of many other commanders on the enemy’s side; indeed, not long afterward Hippolochus the Thessalian came over to him with four hundred cavalry from Ptolemy’s forces.
 
-Having secured Atabyrium as well, he broke camp and, advancing, took over Pella and
+Having secured Atabyrium as well, he broke camp and, advancing, took over Pella and [...]
 
 ## Book 5 Chapter 71: Continued Success of Antiochus
 
@@ -1560,7 +1560,7 @@ In any case, Achaeus arrived in good time, and the Selgians, on meeting with him
 
 But Logbasis, during this same period, had little by little gathered into his own house some of the soldiers slipping in from the camp, and he advised his fellow citizens not to let the opportunity pass, but to act with their eyes on the goodwill being displayed by Achaeus, and to put the finishing touch to the agreement after deliberating about the situation with the whole people present.
 
-The assembly was quickly convened, and they began to deliberate, having summoned in as well all the men from the guard posts, so as to bring matters to completion
+The assembly was quickly convened, and they began to deliberate, having summoned in as well all the men from the guard posts, so as to bring matters to completion [...]
 
 ## Book 5 Chapter 76: Death of Logbasis
 
@@ -1614,7 +1614,7 @@ So Attalus, having restored the Aegosagae to the Hellespont and dealt kindly wit
 
 ## Book 5 Chapter 79: Forces Available to Antiochus and Ptolemy
 
-[He withdrew] with his army to Pergamum. Antiochus and Ptolemy, as the spring season was setting in and their preparations were ready, set about deciding the conflict by battle.
+Antiochus and Ptolemy, as the spring season was setting in and their preparations were ready, set about deciding the conflict by battle.
 
 Ptolemy’s forces, then, set out from Alexandria with some seventy thousand infantry, five thousand cavalry, and seventy-three elephants.
 
@@ -1800,7 +1800,7 @@ And finally, after giving so much, as though they still owed gratitude, they set
 
 ## Book 5 Chapter 89: Royal Gifts
 
-…of the Syracusans. Ptolemy too promised them three hundred talents of silver and a million artabae of grain; ship timber for ten quinqueremes and ten triremes, amounting to forty thousand cubits, by measure, of squared pine planking; a thousand talents of bronze coinage, three thousand talents of tow, three thousand bolts of sailcloth; for the rebuilding of the Colossus, three thousand talents, a hundred master builders and three hundred and fifty laborers, and for these, each year, fourteen talents toward their wages; and besides this, for the games and the sacrifices, twelve thousand artabae of grain, and moreover, for the provisioning of ten triremes, twenty thousand artabae.
+[...] of the Syracusans. Ptolemy too promised them three hundred talents of silver and a million artabae of grain; ship timber for ten quinqueremes and ten triremes, amounting to forty thousand cubits, by measure, of squared pine planking; a thousand talents of bronze coinage, three thousand talents of tow, three thousand bolts of sailcloth; for the rebuilding of the Colossus, three thousand talents, a hundred master builders and three hundred and fifty laborers, and for these, each year, fourteen talents toward their wages; and besides this, for the games and the sacrifices, twelve thousand artabae of grain, and moreover, for the provisioning of ten triremes, twenty thousand artabae.
 
 Of all this he gave the greater part at once, and a third of the entire sum of silver.
 
@@ -1846,7 +1846,7 @@ But Pyrrhias, who had marched out of Elis entirely lightly equipped and was at o
 
 Therefore Lycurgus, being unable to join up with Pyrrhias’ force and not being strong enough on his own, after making brief assaults on Andania, withdrew again to Sparta without having accomplished anything.
 
-Aratus, now that the enemy’s plan had collapsed, acting sensibly and taking thought for the future, arranged with Taurion to provide fifty cavalry and five hundred infantry, and with the Messenians that they should send out an equal number of cavalry and infantry, intending to use these men to guard the territory of the Messenians, the Megalopolitans, the Tegeans, and also the Argives— for these lands, bordering on Laconia, lie exposed, ahead of the rest of the Peloponnesians, to the war waged by the Lacedaemonians— while with the Achaean picked troops and the mercenaries he would guard the parts of Achaea facing toward Elis and Aetolia.
+Aratus, now that the enemy’s plan had collapsed, acting sensibly and taking thought for the future, arranged with Taurion to provide fifty cavalry and five hundred infantry, and with the Messenians that they should send out an equal number of cavalry and infantry, intending to use these men to guard the territory of the Messenians, the Megalopolitans, the Tegeans, and also the Argives— for these lands, bordering on Laconia, lie exposed, ahead of the rest of the Peloponnesians, to the war waged by the Spartans— while with the Achaean picked troops and the mercenaries he would guard the parts of Achaea facing toward Elis and Aetolia.
 
 ## Book 5 Chapter 93: Condition of Megalopolis
 
@@ -2016,7 +2016,7 @@ For the moment he showed the dispatch to Demetrius of Pharos alone, charging him
 
 Demetrius seized this opening and urged that Philip ought to throw off the war against the Aetolians as quickly as possible and instead hold fast to affairs in Illyria and to a crossing into Italy.
 
-For all of Greece, he said, was already doing Philip’s bidding and would continue to do so afterward—the Achaeans out of genuine goodwill, the Aetolians cowed by what had befallen them in the present war— while Italy and the crossing there, he said, were the beginning of the design for universal dominion, to which no one had a better claim than Philip;
+For all of Greece, he said, was already doing Philip’s bidding and would continue to do so afterward—the Achaeans out of genuine goodwill, the Aetolians cowed by what had befallen them in the present war— while Italy and the crossing there, he said, were the beginning of the design for universal dominion, to which no one had a better claim than Philip; [...]
 
 ## Book 5 Chapter 102: Philip and the Aetolians Discuss Peace
 
@@ -2032,7 +2032,7 @@ After this, when Cleonicus had gone back and forth two or three times, and the A
 
 He himself crossed over with his force and encamped near Panormus—a harbor of the Peloponnese lying directly opposite the city of Naupactus—and waited for the delegates of the allies.
 
-During the time in which these delegates were to assemble, he sailed to Zacynthus and on his own authority settled the affairs of the island, and then returned,
+During the time in which these delegates were to assemble, he sailed to Zacynthus and on his own authority settled the affairs of the island, and then returned, [...]
 
 ## Book 5 Chapter 103: Philip Goes to Naupactus
 
@@ -2050,7 +2050,7 @@ The Aetolians came in full numbers but without their arms, and keeping about two
 
 At first the king sent out all the delegates who had come from the allies, instructing them to propose peace to the Aetolians on these terms: that both sides keep what they now held.
 
-The Aetolians readily accepted this, and from then on there was a continuous exchange of messages between them about the particulars. Most of these I shall pass over, since they contain nothing worth recording, but I shall make mention of the exhortation of Agelaus of Naupactus, which he delivered at the first meeting before both
+The Aetolians readily accepted this, and from then on there was a continuous exchange of messages between them about the particulars. Most of these I shall pass over, since they contain nothing worth recording, but I shall make mention of the exhortation of Agelaus of Naupactus, which he delivered at the first meeting before both [...]
 
 ## Book 5 Chapter 104: The Cloud in the West
 

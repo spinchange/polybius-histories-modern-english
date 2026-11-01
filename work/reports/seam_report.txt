@@ -1,112 +1,15 @@
 Seam report
-  bracket-repeat: 7
-  heading-spacing: 6
   known: 9
-  stray-marker: 5
-  unterminated: 78
+  unterminated: 2
 
-B01 L485 [bracket-repeat] starts with bracketed text | [Having made these preparations,] they watched for the right moment to fight at sea. As fo
-B01 L555 [bracket-repeat] starts with bracketed text | [There they came to anchor.] Now the Romans’ aim was to sail across to Libya and shift the
-B01 L825 [unterminated] paragraph ends without terminal punctuation before heading | Then, taking aboard the young men who had held out in Libya, from Aspis
-B01 L867 [unterminated] paragraph ends without terminal punctuation before heading | Having made themselves masters of the place, they sailed back to Rome,
-B01 L1047 [unterminated] paragraph ends without terminal punctuation before heading |  of urgent matters, kept up the spirits of the besieged, and dismayed the Romans
-B01 L1439 [unterminated] paragraph ends without terminal punctuation before heading | ceived high hopes and great expectations of the redress that was coming to them…
-B01 L1485 [unterminated] paragraph ends without terminal punctuation before heading | d especially in their transport home. So they referred to him the matter of the…
-B01 L1513 [unterminated] paragraph ends without terminal punctuation before heading | s reason no one any longer dared to offer advice, they appointed for themselves…
-B01 L1531 [unterminated] paragraph ends without terminal punctuation before heading | ay siege—some to Utica, others to Hippo Zarytus—because these cities refused to…
-B02 L43 [unterminated] paragraph ends without terminal punctuation before heading | eral and captured the city should share with his predecessor both the management
-B02 L61 [unterminated] paragraph ends without terminal punctuation before heading | age and the rest of the plunder down to their boats, at once put to sea, setting
-B02 L185 [unterminated] paragraph ends without terminal punctuation before heading |  the Achaeans, and within a few days had them fitted out and sailed for Corcyra,
-B02 L273 [unterminated] paragraph ends without terminal punctuation before heading | Ebro for the purpose of war—they at once launched their war against the Celts in
-B02 L571 [unterminated] paragraph ends without terminal punctuation before heading | t another head-on, judging both from the reports reaching them and from what was
-B02 L609 [unterminated] paragraph ends without terminal punctuation before heading |  drawn on by the hope of profit, they were spurred on twice as keenly toward the
-B02 L610 [heading-spacing] no blank line before heading | ## Book 2 Chapter 30: Great Slaughter of the Gauls
-B02 L627 [heading-spacing] no blank line before heading | ## Book 2 Chapter 31: Aemilius Returns Victorious
-B02 L643 [unterminated] paragraph ends without terminal punctuation before heading |  rainstorms setting in, and on top of that an outbreak of plague befalling them,
-B02 L644 [heading-spacing] no blank line before heading | ## Book 2 Chapter 32: Victory Over the Insubres
-B02 L663 [heading-spacing] no blank line before heading | ## Book 2 Chapter 33: Tactics Against the Gauls
-B02 L680 [heading-spacing] no blank line before heading | ## Book 2 Chapter 34: Capture of Mediolanum and End of the War
-B02 L704 [unterminated] paragraph ends without terminal punctuation before heading | ted and fled to the foothills. Gnaeus pursued them, ravaged the countryside, and
-B02 L705 [heading-spacing] no blank line before heading | ## Book 2 Chapter 35: Character of the Gauls
-B02 L789 [unterminated] paragraph ends without terminal punctuation before heading | , at one time by the dominance of the Lacedaemonians, at another, still more, by
-B02 L857 [unterminated] paragraph ends without terminal punctuation before heading | njustice and reckless daring that they made a formal compact with each other for
-B02 L897 [unterminated] paragraph ends without terminal punctuation before heading | This, then, was how the war called the Cleomenic War began, and at about these
-B02 L933 [unterminated] paragraph ends without terminal punctuation before heading |  summary; but most of what they said, following Aratus’s instructions, concerned
-B02 L967 [unterminated] paragraph ends without terminal punctuation before heading | d, should they—after first exhausting every hope that lay within themselves—then
-B02 L983 [unterminated] paragraph ends without terminal punctuation before heading | For this reason the deliberation was at first postponed,
-B02 L1001 [unterminated] paragraph ends without terminal punctuation before heading | igonus and Cleomenes lay encamped opposite each other, the one striving to enter
-B02 L1013 [unterminated] paragraph ends without terminal punctuation before heading | failed in this attempt as well, and marching by way of Mantinea returned thus to
-B02 L1155 [unterminated] paragraph ends without terminal punctuation before heading | I pass over the crimes committed throughout the whole of his life and
-B03 L351 [bracket-repeat] starts with bracketed text | [The Illyrians rushed out] to prevent the enemy’s landing. As soon as battle was joined an
 B03 L395 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | ## Book 3 Chapter 21: Romans Demand Surrender of Hannibal
-B03 L397 [bracket-repeat] starts with bracketed text | [The Carthaginians began] to argue their case. As for the agreement made with Hasdrubal, t
-B03 L421 [stray-marker] '[7;8]' | The Romans and their allies shall not sail beyond the Fair Promontory, unless they are for
 B03 L445 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | Its terms run roughly as follows: “On these conditions there shall be friendship between t
 B03 L479 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | Since such treaties exist, and are still preserved even now, engraved on bronze tablets be
-B03 L657 [unterminated] paragraph ends without terminal punctuation before heading | amed above, we arrive at familiar and customary notions about things unknown and
-B03 L679 [unterminated] paragraph ends without terminal punctuation before heading | ed entirely by barbarous and populous peoples, about whom I will give a detailed
-B03 L689 [unterminated] paragraph ends without terminal punctuation before heading | th the mind we must constantly direct and incline our thoughts toward the places
-B03 L881 [bracket-repeat] starts with bracketed text | [They fall into both of these errors.] For, in the first place, what general could be show
-B03 L975 [unterminated] paragraph ends without terminal punctuation before heading | attacked, [seizing] a certain gorge that was hard to pass and ringed with cliffs
-B03 L1009 [unterminated] paragraph ends without terminal punctuation before heading |  ground; but when fresh snow fell and made this route also impossible to travel,
 B03 L1043 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | For some readers will perhaps ask why, having devoted so much discussion to the regions of
-B03 L1149 [unterminated] paragraph ends without terminal punctuation before heading | ff still alive, they pitied these men, while the one who had died they accounted
-B03 L1263 [unterminated] paragraph ends without terminal punctuation before heading | river Trebia and the hills adjoining it, trusting in the strength of the terrain
-B03 L1335 [unterminated] paragraph ends without terminal punctuation before heading | Hannibal, then, knowing the attack that was to come
-B03 L1383 [unterminated] paragraph ends without terminal punctuation before heading | d—on either wing, he advanced against the enemy in imposing style, in good order
-B03 L1399 [unterminated] paragraph ends without terminal punctuation before heading | whole line, kept up a close, hand-to-hand fight for a long time, evenly matched,
-B03 L1487 [unterminated] paragraph ends without terminal punctuation before heading | them through some marshes, every man grew wary of the march, fearful of pits and
-B03 L1557 [unterminated] paragraph ends without terminal punctuation before heading | s already drawing near, and had observed ground naturally suited to his purpose,
 B03 L1579 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | Flaminius and his men, taken aback by this sudden appearance, and with visibility poor bec
-B03 L1639 [unterminated] paragraph ends without terminal punctuation before heading | iven to kill any grown men who fell into their hands. This he did because of the
-B03 L1695 [unterminated] paragraph ends without terminal punctuation before heading | And the Romans’ advantages were inexhaustible resources
-B03 L1845 [unterminated] paragraph ends without terminal punctuation before heading | For the rest, having moored his fleet there, after no long time he himself
-B03 L1857 [unterminated] paragraph ends without terminal punctuation before heading |  the same time making its passage along the coast beside them. It was there that
-B03 L1873 [unterminated] paragraph ends without terminal punctuation before heading | ints and many others like them in the same vein, he persuaded Bostar to agree to
-B03 L1979 [unterminated] paragraph ends without terminal punctuation before heading | antry in a continuous line, just as before, handling every part of the operation
-B04 L195 [unterminated] paragraph ends without terminal punctuation before heading | So, reasoning along these lines, they advanced and pitched camp near
-B04 L213 [unterminated] paragraph ends without terminal punctuation before heading | they descended into conditions that favored the enemy. The outcome, accordingly,
-B04 L251 [unterminated] paragraph ends without terminal punctuation before heading |  assembled at the city of the Corinthians and ratified the resolution, with Phi-
-B04 L427 [unterminated] paragraph ends without terminal punctuation before heading | But Polyphontas and certain men with him, prudently foreseeing what was to come,
-B04 L443 [unterminated] paragraph ends without terminal punctuation before heading | pose them, and put the government and the magistracies into the hands of his own
-B04 L621 [unterminated] paragraph ends without terminal punctuation before heading | This being so, Machatas departed again without having achieved anything
-B04 L681 [unterminated] paragraph ends without terminal punctuation before heading | And about this same time the Rhodians declared war on the Byzantines for certain
-B04 L745 [unterminated] paragraph ends without terminal punctuation before heading | f the basin. To those, however, who have given even a little attention, even now
-B04 L801 [unterminated] paragraph ends without terminal punctuation before heading | For this reason it falls short of the city of the Calchedonians and runs
-B04 L825 [unterminated] paragraph ends without terminal punctuation before heading | that give the Byzantines their advantage by sea; the matters concerning the land
-B04 L979 [unterminated] paragraph ends without terminal punctuation before heading |  the Aetolians; and some of the young men they expelled, and others they killed,
-B04 L1045 [unterminated] paragraph ends without terminal punctuation before heading | g inside the gates was the whole point of taking an enemy’s city, in this manner
-B04 L1117 [unterminated] paragraph ends without terminal punctuation before heading | p, then, won over by the Epirotes and having encamped around Ambracus, set about
-B04 L1173 [unterminated] paragraph ends without terminal punctuation before heading | raging parties to deal likewise with the remaining towers throughout the country
-B04 L1235 [unterminated] paragraph ends without terminal punctuation before heading | Having arranged these matters, he broke camp and advanced, and pitched camp
-B04 L1247 [unterminated] paragraph ends without terminal punctuation before heading | ion of Caphyae; for it was there that he had written to the Achaeans to assemble
 B04 L1435 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | Be that as it may, when a clear and bright day had dawned, the king at first light drew up
-B05 L283 [unterminated] paragraph ends without terminal punctuation before heading | as Stratus. After crossing the river, he drew up his force out of missile range,
-B05 L1281 [unterminated] paragraph ends without terminal punctuation before heading | The king attacked these men in his first assault and
-B05 L1337 [unterminated] paragraph ends without terminal punctuation before heading | y and in public, instilled in them an eagerness and zeal for the coming struggle
-B05 L1361 [unterminated] paragraph ends without terminal punctuation before heading |  in the variety of its components, was the force being prepared for Ptolemy, and
-B05 L1417 [unterminated] paragraph ends without terminal punctuation before heading | ms there and Nicarchus in charge of them, he advanced with the rest of his force
-B05 L1457 [unterminated] paragraph ends without terminal punctuation before heading | ing secured Atabyrium as well, he broke camp and, advancing, took over Pella and
-B05 L1563 [unterminated] paragraph ends without terminal punctuation before heading | n as well all the men from the guard posts, so as to bring matters to completion
-B05 L1617 [bracket-repeat] starts with bracketed text | [He withdrew] with his army to Pergamum. Antiochus and Ptolemy, as the spring season was s
-B05 L2019 [unterminated] paragraph ends without terminal punctuation before heading | e design for universal dominion, to which no one had a better claim than Philip;
-B05 L2035 [unterminated] paragraph ends without terminal punctuation before heading | s and on his own authority settled the affairs of the island, and then returned,
-B05 L2053 [unterminated] paragraph ends without terminal punctuation before heading | ion of Agelaus of Naupactus, which he delivered at the first meeting before both
-B06 L131 [unterminated] paragraph ends without terminal punctuation before heading | m the noblest, most high-minded, and most courageous, because such men are least
-B06 L369 [stray-marker] 'VI. On' | VI. On the Roman Military After they have elected the consuls, they next appoint military 
 B06 L449 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | In addition to these they carry two heavy javelins (pila), a bronze helmet, and a greave. 
-B07 L113 [unterminated] paragraph ends without terminal punctuation before heading | For such a subject is more pleasing to those who enjoy hearing history,
-B12 L55 [unterminated] paragraph ends without terminal punctuation before heading |  shows a great difference both in appearance and in taste; and it lives, for the
-B12 L87 [stray-marker] 'III. On' | III. On the Other Errors of Timaeus Having torn Timaeus apart on many points, Polybius goe
-B12 L101 [unterminated] paragraph ends without terminal punctuation before heading | emy, sacrifice a horse beforehand and slaughter it for omens, reading the future
-B12 L159 [unterminated] paragraph ends without terminal punctuation before heading |  standing and the disrepute that formerly attached to them, preferring to appear
-B12 L281 [unterminated] paragraph ends without terminal punctuation before heading | But all the same, neither Demetrius nor anyone else ever said
-B12 L441 [stray-marker] 'VI. On' | VI. On the historian Timaeus Timaeus mounts a most violent attack against Ephorus, though 
 B12 L479 [unterminated] paragraph ends without terminal punctuation before heading | hose who have applied themselves to written records, [...] [the text breaks off]
 B12 L729 [unterminated] paragraph ends without terminal punctuation before heading | perly handled by others, [he leaves none of them...] [...] [the text breaks off]
-B16 L207 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | After this Philip made some attacks that came to nothing because the town was so strong, a
-B18 L573 [unterminated] paragraph ends without terminal punctuation before heading |  very moment of the engagement, it is easy to foresee what will follow from what
-B18 L899 [bracket-repeat] starts with bracketed text | [Ptolemy]. At about the same time there also arrived two of the ten commissioners: Publius
-B18 L911 [unterminated] paragraph ends without terminal punctuation before heading | planation remained to anyone who reasoned correctly. With these words the Romans
-B22 L111 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | ## Book 22 Chapter 6: Egypt Under Ptolemy Epiphanes After the Death of Aristomenes (18, 53
-B34 L181 [stray-marker] 'IV. On' | IV. On Lusitania Polybius of Megalopolis, in the thirty-fourth book of his Histories, whil
+B16 L207 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | ## Book 16 Chapter 11: Philip’s Operations in Caria, 201 BC
+B22 L111 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | ## Book 22 Chapter 6: Envoys Accuse Philip Before the Senate

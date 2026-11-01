@@ -2,6 +2,8 @@
 
 Modern English translation of the Greek text.
 
+*Book 34, Polybius's treatise on geography, survives only in quotations by later authors, chiefly Strabo.*
+
 ## Book 34 Chapter 1: Polybius on Life beneath the Equator
 
 Those historians who, in the course of a general history, set out separately the geography of the continents did as Ephorus and Polybius did.
@@ -106,7 +108,9 @@ And to those who ask how Odysseus could have come to Sicily three times and yet 
 
 ## Book 34 Chapter 5: Polybius Attacks Pytheas’ Tales
 
-III. Polybius argues against earlier geographical writers When Polybius describes Europe, he says that he will pass over the ancient writers and instead examine those who criticize them: Dicaearchus, Eratosthenes, the most recent author to write on geography, and Pytheas, by whom, he says, many have been misled, since he claimed to have gone over the whole of Britain on foot and gave the island a perimeter of more than forty thousand stades, and also told stories about Thule and those regions where there was no longer land by itself, nor sea, nor air, but some compound made from all of them, like a sea-lung, in which, he says, earth and sea and everything together are suspended, and that this serves as a sort of bond holding the whole together, being neither passable on foot nor navigable by ship.
+*Quoted by Strabo, Geography.*
+
+When Polybius describes Europe, he says that he will pass over the ancient writers and instead examine those who criticize them: Dicaearchus, Eratosthenes, the most recent author to write on geography, and Pytheas, by whom, he says, many have been misled, since he claimed to have gone over the whole of Britain on foot and gave the island a perimeter of more than forty thousand stades, and also told stories about Thule and those regions where there was no longer land by itself, nor sea, nor air, but some compound made from all of them, like a sea-lung, in which, he says, earth and sea and everything together are suspended, and that this serves as a sort of bond holding the whole together, being neither passable on foot nor navigable by ship.
 
 He says that he saw for himself the thing that resembled a sea-lung, but that he reports the rest from hearsay. Such, then, are the tales of Pytheas, including his further claim that after returning from there he traveled all along the ocean-facing coast of Europe from Gades to the Tanais.
 
@@ -124,9 +128,11 @@ The ignorance of Eratosthenes about the western and northern parts of Europe has
 
 But Eratosthenes and Dicaearchus may be excused, since they had not seen those regions. But who could excuse Polybius and Posidonius?
 
-And yet Polybius is precisely the man who calls such pronouncements mere popular guesswork, the sort people make about distances in these regions and in many others, but not even in...
+And yet Polybius is precisely the man who calls such pronouncements mere popular guesswork, the sort people make about distances in these regions and in many others, but not even in [...]
 
 ## Book 34 Chapter 6: Polybius Corrects Dicaearchus on Distances
+
+*Quoted by Strabo, Geography.*
 
 With arguments of this kind he refutes those earlier writers while claiming precision. For example, Dicaearchus said that from the Peloponnese to the Pillars there were ten thousand stades, and that the distance from the Peloponnese to the head of the Adriatic was greater than this; and since he gave the distance from the Peloponnese to the strait as three thousand, the remainder from the strait to the Pillars came to seven thousand, Polybius says that he will let the three thousand stand, whether it is correctly reckoned or not, but that the seven thousand works in neither way, neither for someone measuring along the coast nor for someone measuring straight through the open sea.
 
@@ -178,7 +184,7 @@ Polybius likewise sets out the first two, but makes a third at Malea and Sunium,
 
 ## Book 34 Chapter 8: Lusitania’s Acorn-Fed Tunny and Cheap Prices
 
-IV. On Lusitania Polybius of Megalopolis, in the thirty-fourth book of his Histories, while discussing the land of Lusitania in Iberia, says that acorn-bearing trees are rooted deep in the sea there, and that tunny grow fat by feeding on their fruit.
+Polybius of Megalopolis, in the thirty-fourth book of his Histories, while discussing the land of Lusitania in Iberia, says that acorn-bearing trees are rooted deep in the sea there, and that tunny grow fat by feeding on their fruit.
 
 For that reason, one would not be wrong to call the tunny sea-pigs.
 
@@ -196,7 +202,7 @@ The meat of wild animals was considered hardly worth setting a price on at all; 
 
 ## Book 34 Chapter 9: Spain: Springs, Silver Mines, and Iberian Peoples
 
-V. Spain The inhabitants are called the Turdetani and the Turduli; some think these are the same people, others that they are different.
+The inhabitants are called the Turdetani and the Turduli; some think these are the same people, others that they are different.
 
 Polybius is among those who say that the Turduli live to the north of the Turdetani as their neighbors.
 
@@ -228,7 +234,7 @@ He says that this king rivaled the luxury of the Phaeacians, except that the mix
 
 ## Book 34 Chapter 10: Gaul and the Alps: Fish, Gold, and Lakes
 
-VI. Gaul Polybius, in the thirty-fourth book of his Histories, says that from the Pyrenees to the river Narbo there is a plain, through which flow the rivers Illeberis and Rhoscynus, passing by cities of the same names inhabited by Celts.
+Polybius, in the thirty-fourth book of his Histories, says that from the Pyrenees to the river Narbo there is a plain, through which flow the rivers Illeberis and Rhoscynus, passing by cities of the same names inhabited by Gauls.
 
 In this plain are found what are called underground fish.
 
@@ -272,7 +278,9 @@ The third, Verbanus, is nearly three hundred stades long and thirty wide, and it
 
 ## Book 34 Chapter 11: Italy: Coasts, Campania, and the Lipari Volcanoes
 
-VII. Italy Polybius says that at Capua a remarkable wine is produced, called Anadendrites, with which no other can be compared.
+*Quoted by Strabo, Geography.*
+
+Polybius says that at Capua a remarkable wine is produced, called Anadendrites, with which no other can be compared.
 
 He says that the coast from Iapygia to the strait is three thousand stades by land, washed by the Sicilian Sea, but by sea voyage it is less than five hundred.
 
@@ -314,7 +322,9 @@ So it appears that what seems most mythical in the poet was not spoken in vain, 
 
 ## Book 34 Chapter 12: Roads and Distances from Apollonia to Byzantium
 
-VIII. Thrace, Macedonia, Greece He also says other things that are not trustworthy: that the seas are connected by channels because Chian and Thasian pottery is found in the Naro; that both seas can be seen from a certain mountain; that among the Liburnian islands is Titheis, with a circuit of five hundred stades; and that the Danube pours one of its mouths into the Adriatic.
+*Quoted by Strabo, Geography.*
+
+He also says other things that are not trustworthy: that the seas are connected by channels because Chian and Thasian pottery is found in the Naro; that both seas can be seen from a certain mountain; that among the Liburnian islands is Titheis, with a circuit of five hundred stades; and that the Danube pours one of its mouths into the Adriatic.
 
 Some statements of Eratosthenes too are misunderstandings shaped by popular talk, as Polybius says when discussing him and other historians.
 
@@ -340,11 +350,11 @@ When Polybius said that the distance from Malea northward to the Danube was abou
 
 ## Book 34 Chapter 13: Eratosthenes as the Authority on Asia
 
-IX. Asia As for the regions lying directly beyond these as far as India, Artemidorus gives the same account as Eratosthenes. Polybius too says that, on matters concerning those lands, Eratosthenes is the authority one should trust most.
+As for the regions lying directly beyond these as far as India, Artemidorus gives the same account as Eratosthenes. Polybius too says that, on matters concerning those lands, Eratosthenes is the authority one should trust most.
 
 ## Book 34 Chapter 14: Polybius Disgusted by Alexandria’s Three Peoples
 
-X. Alexandria, City of Egypt Polybius, who had himself been in the city, says that he was disgusted by its condition at that time.
+Polybius, who had himself been in the city, says that he was disgusted by its condition at that time.
 
 He says that three groups lived in the city: first, the Egyptian and native population, sharp-witted and fit for civic life; a second, the mercenary class, a heavy, numerous, and unruly body. For from ancient custom they maintained foreign men under arms, men trained to rule rather than obey because of the weakness of the kings.
 

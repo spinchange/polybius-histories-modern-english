@@ -222,8 +222,6 @@ For he was temperate, and he showed a gentleness and depth of spirit worthy of a
 
 ## Book 27 Chapter 13: Ptolemy’s Frugal Rule in Cyprus
 
-II. Affairs in Egypt.
-
 Ptolemy, the commander in Cyprus, was not Egyptian in his ways at all, but a sensible and capable man.
 
 For when he took over the island, while the king was still an infant, he applied himself diligently to raising money, but he gave absolutely nothing to anyone, though the royal administrators often asked him for funds and bitterly criticized him for never releasing anything.

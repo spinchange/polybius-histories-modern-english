@@ -4,6 +4,8 @@ Modern English translation of the Greek text.
 
 ## Book 7 Chapter 1: Capua and Petelia
 
+*Quoted by Athenaeus, Deipnosophistae.*
+
 Polybius says in the seventh book that the people of Capua in Campania, made wealthy by the excellence of their land, drifted into luxury and extravagance, surpassing even the famous reputation of Croton and Sybaris.
 
 So, he says, being unable to bear their present prosperity, they called in Hannibal. For that reason they later suffered irreparable disasters at Roman hands.
@@ -110,7 +112,7 @@ It seems to me that writers of histories about particular episodes, once they ha
 
 How much more reasonably could someone have spent the space used to pad out books and spin the narrative out at length on Hiero and Gelo, leaving Hieronymus aside.
 
-For such a subject is more pleasing to those who enjoy hearing history,
+For such a subject is more pleasing to those who enjoy hearing history, [...]
 
 ## Book 7 Chapter 8: Character of Hiero II
 
@@ -162,6 +164,8 @@ And if it seems good to us to remove anything from this oath or to add anything 
 
 ## Book 7 Chapter 10: Messene and Philip V. in 215 BC
 
+*Quoted by Suidas, Lexicon.*
+
 While democracy was in force among the Messenians, the notable men had been driven into exile, and those who had received allotments of their property held power in the state; so the members of the old citizen body who remained found it hard to endure these men’s equality of speech.
 
 Gorgus of Messene was second to no Messenian in wealth or birth, and in the prime of life he had become the most distinguished of all those who sought crowns in athletic contests.
@@ -180,7 +184,7 @@ For both because the beginning of his career was so conspicuous and because his 
 
 That after he succeeded to the kingship Thessaly, Macedonia, and in general all the regions under his own rule were more loyal and better disposed toward him than they had been toward any former king, though he took over the Macedonian power while still a young man, can easily be learned from the following facts.
 
-For though he was constantly drawn away from Macedonia by the war against the Aetolians and Lacedaemonians, not only did none of the peoples just mentioned break into civil disorder, but none of the neighboring barbarians even dared to touch Macedonia.
+For though he was constantly drawn away from Macedonia by the war against the Aetolians and Spartans, not only did none of the peoples just mentioned break into civil disorder, but none of the neighboring barbarians even dared to touch Macedonia.
 
 And it would not be possible to speak adequately of the affection and eagerness shown toward him by Alexander, Chrysogonus, and his other friends.
 
@@ -228,11 +232,11 @@ And we promised to make this clear from what would be recounted later, postponin
 
 And as if, after tasting human blood and the murder and betrayal of allies, he had been changed—not from a man into a wolf, as in the Arcadian myth cited by Plato, but from a king into a savage tyrant.
 
-An even clearer proof of the character of the two men is the advice given about the citadel, helping us not to remain uncertain even about the events concerning the...
+An even clearer proof of the character of the two men is the advice given about the citadel, helping us not to remain uncertain even about the events concerning the [...]
 
 ## Book 7 Chapter 14: Aratus a Moderating Influence on Philip
 
-...Aetolians. Once these points are admitted, it is already easy to reckon up the difference in the policy of the two men.
+[...] Aetolians. Once these points are admitted, it is already easy to reckon up the difference in the policy of the two men.
 
 For just as now, when Philip listened to Aratus, he kept faith with the Messenians in the matter of the citadel, and, as the saying goes, applied a small remedy to the great wound created by the earlier slaughter, so in the Aetolian affair, when he followed Demetrius, he sinned against the gods by destroying consecrated offerings, wronged men by transgressing the laws of war, and missed the mark of his proper policy, making himself an implacable and bitter enemy to those who differed with him.
 
@@ -244,13 +248,19 @@ So great is the weight for young kings, both toward the ruin and toward the rest
 
 ## Book 7 Chapter 14b: A Forged Letter and the Cretans
 
+*Quoted by Suidas, Lexicon.*
+
 They sent out some of the Cretans as if for a raid, after giving them a forged letter.
 
 ## Book 7 Chapter 14c: The Massylians of Libya
 
+*Quoted by Stephanus of Byzantium, Ethnica.*
+
 The Massylians are a Libyan people. Polybius in the seventh book calls them the Massyleis.
 
 ## Book 7 Chapter 14d: Oricus on the Adriatic
+
+*Quoted by Stephanus of Byzantium, Ethnica.*
 
 The name is used in the masculine, as Polybius has it in the seventh book: “those who inhabit Oricus, who are also the first to lie on the right for a man sailing in toward the Adriatic.”
 
@@ -274,11 +284,11 @@ Observing this, the man I mentioned noticed that when the birds had eaten their 
 
 After that he approached by night with care and examined the possible routes of access and the positions for ladders.
 
-And finding that at one place, along one of the cliffs, an ascent was possible, he laid the matter before the...
+And finding that at one place, along one of the cliffs, an ascent was possible, he laid the matter before the [...]
 
 ## Book 7 Chapter 16: Antiochus Takes Sardis
 
-...king. When the king took up the hope and urged Lagoras to carry out the attempt, the latter promised to do what he could, but asked the king to assign to him Theodotus the Aetolian and Dionysius, the commander of the bodyguard, so that they might join him, lend their aid, and share in the enterprise, since each of them seemed to possess enough strength and daring for the plan in hand.
+[...] king. When the king took up the hope and urged Lagoras to carry out the attempt, the latter promised to do what he could, but asked the king to assign to him Theodotus the Aetolian and Dionysius, the commander of the bodyguard, so that they might join him, lend their aid, and share in the enterprise, since each of them seemed to possess enough strength and daring for the plan in hand.
 
 The king immediately did as he asked, and the men mentioned, after coming to an understanding and sharing all the details among themselves, waited for a moonless night in the hours before dawn.
 

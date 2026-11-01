@@ -4,7 +4,7 @@ Modern English translation of the Greek text.
 
 ## Book 16 Chapter 1: Philip V. Wages War with Attalus, King of Pergamum, and the Rhodians.
 
-I. Affairs in Macedonia When King Philip reached Pergamum and thought he had, as good as with his own hands, finished off Attalus, he gave free rein to every kind of outrage.
+When King Philip reached Pergamum and thought he had, as good as with his own hands, finished off Attalus, he gave free rein to every kind of outrage.
 
 In indulging a temper almost like madness, he directed most of his anger not against men but against the gods.
 
@@ -202,6 +202,8 @@ Nothing but the natural course of events.
 
 For people often pursue impossible aims when they view them from far off, because the greatness of their hopes overpowers their reason; but when they come close to the actual business, they abandon their plans just as irrationally, since their calculations are thrown into confusion by the difficulty and awkwardness of the obstacles they meet.
 
+*Compare Livy 31.14: “Jam cum Rhodiis et Attalo navalibus certaminibus, neutro feliciter, vires expertus.”*
+
 ## Book 16 Chapter 11: Philip’s Operations in Caria, 201 BC
 
 After this Philip made some attacks that came to nothing because the town was so strong, and then withdrew again, plundering the forts and settlements in the countryside.
@@ -236,7 +238,7 @@ But excess must not be permitted. It may be difficult to mark the exact measure 
 
 ## Book 16 Chapter 13: Affairs in Greece
 
-II. Affairs in Greece I have already explained what policy Nabis, tyrant of the Lacedaemonians, adopted from the beginning, and how, after driving out the citizens, he freed the slaves and married them to their masters’ wives and daughters.
+I have already explained what policy Nabis, tyrant of the Lacedaemonians, adopted from the beginning, and how, after driving out the citizens, he freed the slaves and married them to their masters’ wives and daughters.
 
 I have also shown how he built up his power by making Sparta a kind of inviolable refuge for those who fled their own countries because of impiety or wickedness, and so gathered there a crowd of lawless men.
 
@@ -388,7 +390,7 @@ And in the same spirit I would ask my readers now and in time to come: if ever I
 
 ## Book 16 Chapter 21: Egypt — Character of Tlepolemus
 
-III. Affairs in Egypt Tlepolemus, who had charge of the royal government in Egypt, was young in years and had spent his life continuously in military service, with a certain distinction.
+Tlepolemus, who had charge of the royal government in Egypt, was young in years and had spent his life continuously in military service, with a certain distinction.
 
 By nature he was high-strung and ambitious, and in general he brought many qualities useful for action, but many harmful ones as well.
 
@@ -436,7 +438,7 @@ After this public speech he also took the seal away from Sosibius, and once he h
 
 ## Book 16 Chapter 22a: Polybius Praises the Loyalty of Gaza
 
-IV. Affairs in Syria When King Antiochus sacked the city of the Gazans, Polybius says:
+When King Antiochus sacked the city of the Gazans, Polybius says:
 
 “It seems to me both just and fitting to give the people of Gaza the testimony they deserve.
 
@@ -452,7 +454,7 @@ Therefore, just as we single out good men for honorable mention in our histories
 
 ## Book 16 Chapter 23: Scipio’s Triumph
 
-V. Affairs in Italy Publius Scipio returned from Libya not long after the events just described.
+Publius Scipio returned from Libya not long after the events just described.
 
 Since the expectation of the multitude matched the greatness of his achievements, the splendor surrounding the man and the goodwill of the people toward him were correspondingly great.
 
@@ -466,7 +468,7 @@ After all this was over, the people in Rome kept celebrating splendid games and 
 
 ## Book 16 Chapter 24: War Between Rome and Philip V
 
-VI. Affairs in Macedonia and Greece At the beginning of winter, in the year when Publius Sulpicius became consul at Rome, King Philip was staying at Bargylia. Seeing that the Rhodians and Attalus were not disbanding their fleet, but actually filling up their crews and watching the coast with even greater energy, he was in a very troubled state and had many and varied thoughts about the future.
+At the beginning of winter, in the year when Publius Sulpicius became consul at Rome, King Philip was staying at Bargylia. Seeing that the Rhodians and Attalus were not disbanding their fleet, but actually filling up their crews and watching the coast with even greater energy, he was in a very troubled state and had many and varied thoughts about the future.
 
 He was anxious at once about getting out from Bargylia and foresaw danger by sea, and at the same time he distrusted the situation in Macedonia and by no means wanted to winter in Asia, being afraid of both the Aetolians and the Romans.
 
@@ -710,7 +712,7 @@ Philip saw that the Achaeans were acting cautiously about the war with Rome, and
 
 ## Book 16 Chapter 39: Coele-Syria
 
-VII. Affairs in Asia Polybius of Megalopolis gives witness to what we have said. For in the sixteenth book of his Histories he says as follows: “Scopas, the general of Ptolemy, marched into the upper country and during the winter subdued the nation of the Jews.”
+Polybius of Megalopolis gives witness to what we have said. For in the sixteenth book of his Histories he says as follows: “Scopas, the general of Ptolemy, marched into the upper country and during the winter subdued the nation of the Jews.”
 
 But since the siege had been conducted in a wandering and ineffective way, Scopas came under disrepute and was attacked with youthful recklessness.
 
@@ -722,7 +724,7 @@ We have more to say about this place, and especially about the renowned manifest
 
 ## Book 16 Chapter 40: Geographical Fragments of Uncertain Place
 
-VIII. Fragments of Uncertain Place Babrantion, a place near Chios. Polybius, book sixteen.
+Babrantion, a place near Chios. Polybius, book sixteen.
 
 Gitta, a city of Palestine.
 

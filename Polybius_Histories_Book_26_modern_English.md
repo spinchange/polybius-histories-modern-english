@@ -28,6 +28,8 @@ Once, when someone said, “How fortunate you kings are, to use such things and 
 
 ## Book 26 Chapter 1a: Why Polybius Calls Antiochus Epimanes
 
+*This passage repeats chapter 1 as preserved by a second quoting author.*
+
 Olympiad 151. Affairs of Antiochus.
 
 Polybius, in the twenty-sixth book of the Histories, calls him Epimanes rather than Epiphanes because of his conduct. For he not only came down to associate with common townsmen, but even drank with visiting foreigners and with the very meanest people.

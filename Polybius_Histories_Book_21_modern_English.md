@@ -770,7 +770,7 @@ Yet Philopoemen made this his aim and accomplished it. For it was noble to bring
 
 And seeing that money is the source from which every monarchy recovers itself, and being by nature a shrewd and statesmanlike man, he took measures to prevent any importation of funds gathered from outside.
 
-## Book 21 Chapter 33: The War with the Gauls of Asia
+## Book 21 Chapter 33: The War with the Galatians of Asia
 
 Affairs in Asia.
 
@@ -824,7 +824,7 @@ Gnaeus accepted them, invaded the territory of the Sagalassians, drove off a lar
 
 When envoys came to him, he received them and, after taking a crown worth fifty talents, twenty thousand medimni of barley, and twenty thousand medimni of wheat, admitted them to friendship.
 
-## Book 21 Chapter 37: The Gauls of Asia
+## Book 21 Chapter 37: The Galatians of Asia
 
 Gnaeus, the Roman commander, sent envoys to the Galatian Eposognatus, asking him to negotiate with the Galatian kings.
 
@@ -838,7 +838,7 @@ Gnaeus received them kindly.
 
 Later, when Gnaeus was near the little town called Gordium, envoys came from Eposognatus announcing that he had gone and spoken with the Galatian kings, but that they would not agree to any friendly arrangement at all. Instead, they had gathered their children, women, and all their possessions on the mountain called Olympus and stood ready for battle.
 
-## Book 21 Chapter 38: A Gallic Woman Takes Vengeance
+## Book 21 Chapter 38: A Galatian Woman Takes Vengeance
 
 Chiomara, the wife of Ortiagon, was among the prisoners taken together with the other women when Gnaeus and the Romans defeated the Galatians in Asia.
 
@@ -854,7 +854,7 @@ When she came to her husband and laid the head before him, he marveled and said,
 
 Polybius says that he himself met and spoke with this woman at Sardis and admired both her spirit and her intelligence.
 
-## Book 21 Chapter 39: Attempted Treachery By the Gauls
+## Book 21 Chapter 39: Attempted Treachery By the Galatians
 
 After the Romans had won their victory over the Galatians and were encamped near the city of Ancyra, with Gnaeus the commander preparing to advance farther, envoys came from the Tectosages asking Gnaeus to leave his forces where they were, but on the following day to come himself to the space between the camps. Their kings, they said, would also come and discuss terms of settlement.
 
@@ -1030,6 +1030,6 @@ When most of the necessary and important arrangements had thus been completed, t
 
 ## Book 21 Chapter 47: Thracians Attack the Returning Romans
 
-On the Romans’ return journey they suffered many terrible things at the hands of the Thracians...
+On the Romans’ return journey they suffered many terrible things at the hands of the Thracians [...]
 
 The surviving Greek here is badly mutilated; only the opening sense can be translated with confidence.

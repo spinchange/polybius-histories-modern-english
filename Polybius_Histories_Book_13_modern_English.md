@@ -4,7 +4,7 @@ Modern English translation of the Greek text.
 
 ## Book 13 Chapter 1: The Aetolians
 
-I. Greek Affairs Because of the unbroken succession of wars and the extravagance of their way of life, the Aetolians had slipped into debt without realizing it themselves, much less anyone else.
+Because of the unbroken succession of wars and the extravagance of their way of life, the Aetolians had slipped into debt without realizing it themselves, much less anyone else.
 
 So, being naturally inclined toward a change in their own constitution, they chose Dorimachus and Scopas to draft laws for them, thinking that these men were, by temperament, eager for upheaval and were also deeply entangled in many ordinary financial obligations. After receiving this authority, they wrote the laws.
 
@@ -72,7 +72,7 @@ Damocles, who was sent with Pythion as a spy to the Romans, was a capable instru
 
 ## Book 13 Chapter 6: Nabis, Tyrant of Sparta, 207–192 BC
 
-Nabis, the tyrant of the Lacedaemonians, now in the third year of his rule, did not yet venture to undertake or attempt anything on a grand scale, because the defeat of Machanidas by the Achaeans was still recent, but he was laying the groundwork and setting the foundation for a tyranny that would be long-lasting and oppressive.
+Nabis, the tyrant of the Spartans, now in the third year of his rule, did not yet venture to undertake or attempt anything on a grand scale, because the defeat of Machanidas by the Achaeans was still recent, but he was laying the groundwork and setting the foundation for a tyranny that would be long-lasting and oppressive.
 
 He destroyed outright what remained in Sparta, drove into exile those who stood out most in wealth or ancestral distinction, and distributed their property and wives among the most prominent of the others and among his mercenaries.
 
@@ -84,9 +84,9 @@ Nor, apart from what has already been mentioned, was he satisfied with merely ba
 
 Some he had murdered by sending men after them on the roads; others he killed by dragging them back from the places to which they had fled.
 
-In the end, in whatever cities one of the exiles happened to be living, he secretly rented the neighboring houses through men unlikely to arouse suspicion, and sent Cretans into them; these made openings in the walls and, shooting through existing windows, destroyed some of the exiles while they were standing and others while they were lying in their own houses, so that there was no place of escape and no moment of safety for the wretched Lacedaemonians.
+In the end, in whatever cities one of the exiles happened to be living, he secretly rented the neighboring houses through men unlikely to arouse suspicion, and sent Cretans into them; these made openings in the walls and, shooting through existing windows, destroyed some of the exiles while they were standing and others while they were lying in their own houses, so that there was no place of escape and no moment of safety for the wretched Spartans.
 
-And so this was the sort of...
+And so this was the sort of [...]
 
 ## Book 13 Chapter 7: Nabis’s Wife
 
@@ -126,7 +126,7 @@ Nabis, who had long been looking for grounds of accusation and a plausible prete
 
 ## Book 13 Chapter 9: Antiochus in Arabia, 205–204 BC
 
-II. Asian Affairs Labae, like Sabae, is a city of Chattenia, as Polybius says in his thirteenth book. The ethnic is Labaean, just as from Sabae comes Sabaean. Both belong to the same region, for Chattenia is territory of the Gerrhaeans.
+Labae, like Sabae, is a city of Chattenia, as Polybius says in his thirteenth book. The ethnic is Labaean, just as from Sabae comes Sabaean. Both belong to the same region, for Chattenia is territory of the Gerrhaeans.
 
 Chattenia is the third district of the Gerrhaeans.
 
@@ -140,13 +140,13 @@ When freedom had been confirmed for the Gerrhaeans, they immediately honored Kin
 
 ## Book 13 Chapter 10: Geographical Fragments from Italy and Greece
 
-III. Miscellaneous Geographical Fragments A. Italian Affairs Badiza, a city of Bruttium, mentioned by Polybius in his thirteenth book.
+Badiza, a city of Bruttium, mentioned by Polybius in his thirteenth book.
 
 Lampeteia, a city of Bruttium, mentioned by Polybius in his thirteenth book.
 
 There is also Temese, both a city of Italy and a river. But Polybius, in the thirteenth book, calls the city Temeseia.
 
-B. Greek and Macedonian Affairs Allaria, a city of Crete, mentioned by Polybius in the thirteenth book. The ethnic is Allariates, as he himself says.
+Allaria, a city of Crete, mentioned by Polybius in the thirteenth book. The ethnic is Allariates, as he himself says.
 
 Ilattia, a city of Crete, mentioned by Polybius in his thirteenth book.
 
@@ -160,4 +160,4 @@ Digeroi, a Thracian people, mentioned by Polybius in Book 13.
 
 Cabyle, a city of Thrace not far from the territory of the Astae, mentioned by Polybius in the thirteenth book.
 
-C. Fragment of Uncertain Location Melitoussa, a city of Illyria, mentioned by Polybius in the thirteenth book.
+Melitoussa, a city of Illyria, mentioned by Polybius in the thirteenth book.
