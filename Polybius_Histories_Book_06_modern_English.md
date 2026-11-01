@@ -16,7 +16,7 @@ Concerning this matter—which touches on certain aspects of their military affa
 
 This (the college of the Salii) is, as we have stated in our discussion of the constitution, one of the three colleges through which the most distinguished sacrifices to the gods are performed at Rome.
 
-## Book 6 Chapter 2
+## Book 6 Chapter 2: Why the Constitution Is Examined Now
 
 I am well aware, then, that some will be puzzled as to why, abandoning the unbroken thread of our narrative—the joining and adding on of events—we have deferred to this point our account of the constitution mentioned above.
 
@@ -208,7 +208,7 @@ And this was a natural thing to experience. For whenever we fixed our attention 
 
 As for which of these forms held sway over each of the respective parts of the constitution—that, both then and still now (with a few exceptions), is as follows.
 
-## Book 6 Chapter 11a
+## Book 6 Chapter 11a: Fragments on Pallantium, Ostia, and Demaratus
 
 They give this town the name Pallantium, after their mother-city in Arcadia; but, as some relate—among them Polybius of Megalopolis—it was named after a youth named Pallas who died there. This Pallas was the son of Heracles and of Launa, the daughter of Evander; and his grandfather on his mother’s side, having heaped up a tomb for him on the hill, named the place Pallantium after the youth.
 
@@ -228,7 +228,7 @@ For learning to be truthful toward the gods is a foundation for truth toward one
 
 For in most human enterprises, those who have acquired things are well suited to preserving them, while those who have received them ready-made are well suited to losing them.
 
-## Book 6 Chapter 11b
+## Book 6 Chapter 11b: Fragments on Courage and Olcium
 
 All the works of virtue ought to be practiced from childhood by those who train themselves well, and above all courage.
 
@@ -694,7 +694,7 @@ The four men selected from the first squadron draw lots for the different watche
 
 After this, the four take up their position beside the first maniple of the triarii, for the centurion of that maniple is responsible for sounding the bugle for each watch.
 
-## Book 6 Chapter 36
+## Book 6 Chapter 36: The Night Rounds of the Watch
 
 When the time comes, the man on whom the first watch has fallen by lot goes the rounds for that watch, taking some companions with him as witnesses.
 
@@ -1160,6 +1160,6 @@ Accordingly they dismissed the nine envoys, who returned voluntarily in accordan
 
 Thus Hannibal was not so much delighted by his victory over the Romans in battle as shaken and astonished by the steadiness and greatness of spirit the Romans showed in their deliberations.
 
-## Book 6 Chapter 59
+## Book 6 Chapter 59: Rhynchos near Stratus
 
 There is also a place near Stratus in Aetolia called Rhynchos, as Polybius says in his Histories.

@@ -2,7 +2,7 @@
 
 Modern English translation of the Greek text.
 
-## Book 39 Chapter 1: Variety Is Pleasing
+## Book 39 Chapter 1: Aulus Postumius and Cato’s Rebuke
 
 Aulus Postumius became worthy of special notice in the following respects.
 
@@ -56,7 +56,7 @@ Taking this opportunity, Polybius asked the general for the statues, although th
 
 The people, admiring his conduct in this, set up a stone statue of him.
 
-## Book 39 Chapter 4: Fall of Carthage
+## Book 39 Chapter 4: Polybius Refuses Diaeus’ Confiscated Property
 
 After the arrangement that the ten commissioners had made in Achaea, those same commissioners instructed the treasurer who was to sell Diaeus’ property that whatever Polybius chose from among the possessions should be taken out and given to him as a gift, and that the rest should be sold to the buyers.
 
@@ -66,7 +66,7 @@ For as he went through the cities to sell the property of all who had been assoc
 
 Some of these men paid no attention, but those who followed his advice won the very best reputation among the citizens.
 
-## Book 39 Chapter 5: Diaeus Succeeds Critolaus
+## Book 39 Chapter 5: Polybius Settles the New Constitution
 
 When these arrangements had been completed, the ten commissioners, with the spring season now beginning, sailed back to Italy, having left behind for all the Greeks a fine proof of Roman intent.
 
@@ -80,7 +80,7 @@ Everyone judged that this was the right thing to do; for if he had not carried o
 
 For this reason we must regard this among all the things mentioned above as Polybius’ finest achievement.
 
-## Book 39 Chapter 6
+## Book 39 Chapter 6: The Roman General’s Restraint in Greece
 
 After the Roman general had separated from the assembly in Achaea, he repaired the place at the Isthmus and adorned the temples at Olympia and Delphi, and on the following days he went from city to city, receiving honor in each and obtaining the respect appropriate to him.
 
@@ -92,7 +92,7 @@ Indeed, even in those matters where he seemed to me to have overlooked something
 
 This was most clearly shown in the case of the Chalcidian horsemen, whom he put to death.
 
-## Book 39 Chapter 7: Character of Pytheas
+## Book 39 Chapter 7: Character of King Ptolemy
 
 When the king of Syria, Ptolemy, was struck in the course of the war, he died; and some judged him worthy of great praise and remembrance, while others judged the opposite.
 
@@ -106,7 +106,7 @@ And when his brother later plotted against Cyprus, and he became master of him b
 
 Yet in moments of success and achievement he became unstrung in spirit, and a kind of Egyptian softness and laziness settled around him; and in such moods he fell into misfortunes.
 
-## Book 39 Chapter 8: Diaeus Becomes Strategus
+## Book 39 Chapter 8: Polybius Recapitulates His Whole Plan
 
 Polybius says near the end of his work that after we had brought these matters to a conclusion, we returned from Rome, as though we had already completed the chief points of what went before, and were worthy of the gratitude due to Roman goodwill.
 

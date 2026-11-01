@@ -202,7 +202,7 @@ Perseus, with only one thought in mind—either to win or to die—did not hold 
 
 As time went on and the strain grew heavier, Perseus’ spirit gave way, like athletes in poor condition; for when danger drew near and everything had to be decided, he could not keep his courage firm.
 
-## Book 29 Chapter 18: Ambitious Youth
+## Book 29 Chapter 18: Perseus Flees the Battle to “Sacrifice”
 
 The Macedonian king, as Polybius says, lost his nerve just as the battle was getting under way and rode off to the city, pretending that he was sacrificing to Heracles—fitting cowardly rites for a cowardly man, and prayers that the god would not accept.
 
@@ -314,7 +314,7 @@ By presenting this contrast, Lycortas made a strong impression, since the differ
 
 For just as it was not easy to count the benefactions of the Alexandrian kings, so it was impossible to find any act of goodwill done by the dynasty of Antiochus for the Achaeans in the course of affairs.
 
-## Book 29 Chapter 25: Antiochus Forced To Leave Egypt
+## Book 29 Chapter 25: The Achaeans Choose Mediation over Aid
 
 For a time Andronidas and Callicrates kept using arguments in favor of making peace, but since no one was listening to them, they resorted to a trick.
 

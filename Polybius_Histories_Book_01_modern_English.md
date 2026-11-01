@@ -530,7 +530,7 @@ The city of Camarina, which had revolted from them a little earlier, they now be
 
 After these operations they set about besieging the people of Lipara.
 
-## Book 1 Chapter 25: The Battle of Ecnomus
+## Book 1 Chapter 25: Skirmish off Tyndaris
 
 The next year Gaius Atilius, the Roman commander, lay at anchor off Tyndaris, and when he saw the Carthaginian fleet sailing past in disorder, he ordered his own crews to follow the leading ships and set out ahead of the rest himself with ten ships of matching speed.
 
@@ -584,7 +584,7 @@ Behind the transports they placed the fourth squadron, those called the Triarii,
 
 When all had been fitted together in the manner described, the whole formation took the shape of a wedge: the part toward the apex was hollow, the part at the base solid, and the whole was effective and serviceable, and at the same time hard to break apart.
 
-## Book 1 Chapter 27: The Battle of Ecnomus
+## Book 1 Chapter 27: The Carthaginian Center Feigns Flight
 
 At the same time the Carthaginian commanders briefly addressed their men, pointing out to them that if they won the sea-battle they would carry on the war over Sicily, but if they were beaten they would be fighting for their own homeland and all that they held dear; and so they ordered them to board the ships.
 
@@ -608,7 +608,7 @@ A fierce struggle followed. In speed, the Carthaginians had much the better of i
 
 Such, then, was the course of the fighting in this quarter.
 
-## Book 1 Chapter 28: The Siege of Aspis
+## Book 1 Chapter 28: The Battle Splits into Three Fights
 
 Such was the state of affairs [in the center]. At the same time Hanno, commanding the right wing, which had held off at a distance during the first encounter, crossed the open sea and charged the ships of the Triarii, causing them great trouble and difficulty.
 
@@ -636,7 +636,7 @@ Such was the course of the fighting in its separate parts; but the outcome of th
 
 Of their ships, twenty-four were destroyed, and of the Carthaginians over thirty. Not a single Roman ship fell into enemy hands with its crew, but sixty-four of the Carthaginian ships did.
 
-## Book 1 Chapter 29: The Siege of Aspis
+## Book 1 Chapter 29: The Romans Land in Africa
 
 After this the Romans again took on fresh supplies, fitted out the captured ships, and gave the crews the care their success deserved. Then they put to sea and made their voyage toward Libya.
 

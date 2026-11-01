@@ -294,3 +294,21 @@ Sonnet drafts; the user signs off (this is the one phase that is mostly human):
   "Olympiad 158, year 1. Macedonian War.", which doesn't fit it. 39.2 is a
   quotation by Strabo (attribution). 39.3 uncertain readings: καταμόνους,
   ἀπὸ τῆς χώρας, χάριν — flag for Phase 4 Opus.
+
+## Phase 5 outcome (2026-10-31)
+
+- 244 headings retitled (105 bare, the Phase 2 queue, duplicates, 9.44, long/case fixes) by titler
+  agents in 31 batches, one book per agent at a time. Titles written from the translated
+  content; Phase 2 hints were advisory. 15.8 and 10.43 left alone / case-only. Known-bad
+  ranges not in the Phase 2 queue (e.g. most of Book 25, 31.6) were NOT retitled — the
+  collator screen judged those titles correct.
+- Scripted check (`heading_report.py`) now shows 0 bare headings, 0 duplicates per book,
+  0 format issues. Straight apostrophes in 7 headings normalized to ’. `work/status.csv`
+  re-quoted (all rows 6 fields). EPUBCheck green.
+- Leftovers for Phase 6: stray crib rubrics at the top of 12.4a ("III. On the Other Errors
+  of Timaeus") and 34.5 ("III. Polybius argues against…"); 16.10's Livy footnote was dropped
+  with the fused heading — restore as a real footnote; `## II. Fragment of Uncertain Place`
+  in Book 20 (unparsed).
+- Soft calls to eyeball: 1.25, 24.4, 32.4, 38.21, 39.6, 39.7; 33.8 uses "Massalia" (style
+  sheet to decide Marseilles/Massalia).
+- Haiku title-case pass was replaced by the script check (no model needed).

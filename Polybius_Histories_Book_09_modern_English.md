@@ -212,7 +212,7 @@ Among them Hasdrubal son of Gesco, abusing the authority he possessed, went so f
 
 And when Andobales refused, confident because of his long-standing loyalty to Carthage, Hasdrubal brought a false accusation against him and forced him to hand over his daughters as hostages.
 
-## Book 9 Chapter 11a
+## Book 9 Chapter 11a: Rome Seeks Grain from Egypt
 
 The Romans sent envoys to Ptolemy because they wanted grain supplies, since there was a severe shortage among them.
 
@@ -410,7 +410,7 @@ No sensible person would admit such a thing. Let this be enough on these matters
 
 Given the state of feeling on both sides, among Romans and Carthaginians alike, and since the turns dealt by Fortune kept alternately reversing themselves for each, it was natural, as the poet says, that sorrow and joy should enter their hearts together.
 
-## Book 9 Chapter 22: Estimate of Hannibal
+## Book 9 Chapter 22: Hannibal as the One Directing Mind
 
 In all that befell both sides—Romans and Carthaginians alike—there was one man and one mind responsible: I mean Hannibal.
 
@@ -452,7 +452,7 @@ So even the character of cities changes with the differences among their leaders
 
 King Philip too, when Taurion or Demetrius were advising him, was most impious, but when Aratus or Chrysogonus were with him, he was most gentle.
 
-## Book 9 Chapter 24: Estimate of Hannibal
+## Book 9 Chapter 24: Monomachus Proposes Eating Human Flesh
 
 Something similar, it seems to me, happened in Hannibal’s case as well.
 
@@ -506,7 +506,7 @@ For these reasons it is extremely difficult to pronounce on Hannibal’s true ch
 
 The common report, however, was that among the Carthaginians he had the reputation of being greedy for money, and among the Romans of being cruel.
 
-## Book 9 Chapter 26a
+## Book 9 Chapter 26a: Why Perimeter Does Not Measure Size
 
 Most people judge the size of the places just mentioned from the mere length of their perimeter.
 
@@ -872,13 +872,13 @@ The reason is that its increase does not come from the gathering of winter rains
 
 That is why on that occasion the transport of the army was slow: the boats were heavily loaded, the river was at its lowest, and the force of the current contributed only very little to the voyage.
 
-## Book 9 Chapter 44: Embassy from Rome to Ptolemy
+## Book 9 Chapter 44: Goodwill in Allies and Universal History
 
 Those who enter upon undertakings without goodwill and zeal are not likely to prove true allies when the actions themselves arrive.
 
 And it is true, as I have often said, that it is impossible to comprehend or grasp in the mind the finest spectacle in history—I mean the ordering of events as a whole—from writers who record only separate actions.
 
-## Book 9 Chapter 45
+## Book 9 Chapter 45: Cyathus, Arsinoe, Xynia, and Phorunna
 
 Polybius in the ninth book of his Histories also records a river called Cyathus near the city of Arsinoe in Aetolia.
 

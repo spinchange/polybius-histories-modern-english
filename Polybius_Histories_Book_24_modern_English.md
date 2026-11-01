@@ -30,13 +30,13 @@ After giving this reply to the exiles, they set up the inscribed treaty with the
 
 But when Bippus and his companions returned from Rome and explained that the letters about the exiles had been written not because the senate was eager for the measure, but because the exiles had pressed the matter, the Achaeans resolved to stand by the existing arrangements.
 
-## Book 24 Chapter 3: Mount Haemus in Thrace
+## Book 24 Chapter 3: Troubles in Crete
 
 In Crete the beginning of serious troubles was being set in motion—if indeed one should speak of a “beginning” of troubles in Crete.
 
 For because civil wars there are unceasing, and because the savagery they show one another is extreme, beginning and end are the same thing in Crete; and what some people might think a paradoxical statement can there be seen happening constantly.
 
-## Book 24 Chapter 4: Troubles in Crete
+## Book 24 Chapter 4: Mount Haemus in Thrace
 
 Affairs in Macedonia.
 
@@ -62,7 +62,7 @@ After hearing them graciously, the senate replied that it would send commissione
 
 That was the situation in Italy.
 
-## Book 24 Chapter 6: Murder of Apollonides At Sparta
+## Book 24 Chapter 6: Ptolemy Offers Ships to the Achaeans
 
 Affairs in Greece.
 
@@ -94,7 +94,7 @@ When news of this reached the Achaeans and the people were outraged at what had 
 
 He also urged the remaining auditors to make a genuine investigation into the public funds, and to see that the relatives of the exiles recovered once more the properties of which Chaeron had deprived them a short time before.
 
-## Book 24 Chapter 8: Pharnaces Invades Cappadocia
+## Book 24 Chapter 8: The Achaeans Debate the Roman Letters
 
 At this time, when Hyperbatus the general brought before the assembly the question of what should be done about the letters from Rome concerning the return of the Spartan exiles, the party of Lycortas urged that they should stand by the existing arrangements, because the Romans, they said, were only doing what suited them by listening within reasonable limits to men who seemed to have been wronged in the matter of their property.
 
@@ -110,7 +110,7 @@ They immediately appointed as envoys Callicrates of Leontium, Lydiadas of Megalo
 
 But when they arrived at Rome, Callicrates entered the senate and was so far from presenting the case in accordance with his instructions that, from the very outset, he undertook not only to denounce his political opponents boldly, but even to lecture the senate.
 
-## Book 24 Chapter 9: Eumenes and Pharnaces
+## Book 24 Chapter 9: Callicrates Lectures the Roman Senate
 
 For he said that the Romans themselves were responsible for the Greeks’ refusal to obey them, and for their disregard of both written orders and verbal instructions.
 
@@ -138,7 +138,7 @@ And now again, although the Romans had for a long time been writing about the re
 
 In view of all this, he urged them to take thought for the future.
 
-## Book 24 Chapter 10: Callicrates Sent to Rome
+## Book 24 Chapter 10: The Senate Rewards Callicrates
 
 After Callicrates had spoken these and similar words, he withdrew.
 
@@ -166,7 +166,7 @@ Callicrates, however, when he went to Rome at this time, was supposed to speak f
 
 And by his embassy he overawed and broke the spirit of the masses, since the common people had no idea what he had truly said in the senate. First of all, he was elected general, and, to add to the other evils, he did so by bribery; and after taking office he restored the exiles from Sparta and from Messene.
 
-## Book 24 Chapter 11: Callicrates Turns Traitor
+## Book 24 Chapter 11: Philopoemen and Aristaenus Contrasted
 
 Philopoemen and Aristaenus, both Achaeans, were unlike each other both in natural character and in political choice.
 
@@ -178,7 +178,7 @@ Still, he tried to appear to hold to the laws, and he cultivated that impression
 
 Philopoemen, on the other hand, agreed to and supported without excuse everything the Romans asked that was consistent with the laws and the alliance, but whenever they ordered anything beyond those limits, he could not bring himself to comply willingly. Instead he said they must first make a legal case, and then press their claim again; and if even then they failed to persuade, one should at last yield under protest and only then do what was required.
 
-## Book 24 Chapter 12: Rome and the Achaean League
+## Book 24 Chapter 12: Aristaenus Defends Obedience to Rome
 
 Aristaenus used such arguments as these before the Achaeans in defense of his own policy. He said that it was impossible, while holding out both the spear and the herald’s staff at once, to preserve friendship with Rome.
 
@@ -188,7 +188,7 @@ To miss both, he said, is the clearest mark of poor judgment. And this plainly h
 
 Therefore we must either show that we are capable of refusing obedience, or, if we do not dare even to say that, we must be ready to comply promptly with all commands.”
 
-## Book 24 Chapter 13: Comparison Between Philopoemen and Aristaenus
+## Book 24 Chapter 13: Philopoemen Resists the Inevitable
 
 Philopoemen said one should not judge him so ignorant that he was unable to measure either the difference between the Roman and Achaean constitutions or the superiority of Roman power.
 
@@ -212,7 +212,7 @@ Thus, when the greatest crises then confronted both Romans and Greeks in the war
 
 Yet a report circulated that Aristaenus was more favorably disposed toward the Romans than Philopoemen.
 
-## Book 24 Chapter 14: Aristaenus’s Attitude to Rome
+## Book 24 Chapter 14: Eumenes and Attalus March on Pharnaces
 
 Affairs in Asia.
 
@@ -236,7 +236,7 @@ Just as they had encamped, news came that Roman envoys had arrived to negotiate 
 
 When king Eumenes heard this, he sent Attalus to receive them, while he himself doubled his forces and carefully put them in order, both to meet the actual demands of the campaign and because he wished to show the Romans that he was capable, by his own power, of defending himself against Pharnaces—
 
-## Book 24 Chapter 15: Philopoemen’s Policy
+## Book 24 Chapter 15: Peace Talks with Pharnaces Fail
 
 —and of defeating him in war. When the envoys arrived and urged that the war be ended, Eumenes and Ariarathes said that they were ready for anything asked of them, but they requested the Romans, if possible, to bring them together in conference with Pharnaces, so that by hearing the arguments face to face they might see more fully his faithlessness and cruelty.
 

@@ -750,7 +750,7 @@ Having obtained this honor and lived seventy-two years, of which he reigned fort
 
 And greatest of all, having left four sons in the prime of life, he so well ordered the affairs of his realm that the kingdom was handed down to his children’s children without a single dispute.
 
-## Book 18 Chapter 41a
+## Book 18 Chapter 41a: Antiochus Covets Ephesus
 
 II. Affairs of Asia They tried to prevent Antiochus from sailing along the coast, not out of hostility toward him, but because they feared that, if he strengthened Philip, he would become an obstacle to the freedom of the Greeks.
 

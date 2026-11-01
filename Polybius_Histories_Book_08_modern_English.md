@@ -54,7 +54,7 @@ The man just mentioned had prepared such defenses within the city, and likewise 
 
 Appius therefore advanced with screens and ladders toward the section of wall adjoining the Hexapylae on the eastern side.
 
-## Book 8 Chapter 3a
+## Book 8 Chapter 3a: A Saying on Silence
 
 Most people can least endure the lightest burden of all—I mean silence.
 
@@ -154,7 +154,7 @@ Perhaps that is easy to say but very difficult to do, because human situations a
 
 For that reason some deserve pardon—but not all.
 
-## Book 8 Chapter 8a
+## Book 8 Chapter 8a: Demetrius Killed at Messene
 
 Demetrius, after rashly and recklessly attempting, with Philip’s approval, to seize the city of the Messenians, was killed in the very crisis of the action. We shall explain the details of this matter when we come to the proper point in the narrative.
 
@@ -284,7 +284,7 @@ Philip, having thus in a wholly unexpected way made himself master of these posi
 
 For after such fortresses had been taken by force, no stronghold or security any longer seemed sufficient against Philip’s power.
 
-## Book 8 Chapter 14b
+## Book 8 Chapter 14b: Dassaretae and Hyscana in Illyria
 
 The Dassaretae are a people of Illyria.
 
@@ -762,7 +762,7 @@ And the Romans took courage because they held the high ground around Epipolae.
 
 He ordered the infantry to take the pack-mules from the rear, baggage and all, and place them in front of themselves. Once this was done, the screen proved safer than any palisade.
 
-## Book 8 Chapter 38b
+## Book 8 Chapter 38b: Angara and a Man Resolved to Endure
 
 Angara is a city of Italy; its ethnic name is Angarates.
 

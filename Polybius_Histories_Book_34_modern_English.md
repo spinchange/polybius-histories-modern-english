@@ -2,7 +2,7 @@
 
 Modern English translation of the Greek text.
 
-## Book 34 Chapter 1
+## Book 34 Chapter 1: Polybius on Life beneath the Equator
 
 Those historians who, in the course of a general history, set out separately the geography of the continents did as Ephorus and Polybius did.
 
@@ -36,7 +36,7 @@ Posidonius objects to Polybius on the ground that he says the equatorial region 
 
 And after him there was great disagreement about the number of the zones. Some made them six, as Polybius and Posidonius did, by dividing the torrid zone into two.
 
-## Book 34 Chapter 2
+## Book 34 Chapter 2: Polybius Interprets the Wanderings of Odysseus
 
 To build an empty tale of marvels on no basis of truth at all is not Homer’s way.
 
@@ -62,7 +62,7 @@ For tuna, swimming in schools along the coast of Italy, whenever they are driven
 
 The same thing happens during the flooding of the Nile and of other waters, just as it does in a fire when woodland is burning: the animals gather together in flight from fire or flood and become prey for the stronger creatures.
 
-## Book 34 Chapter 3
+## Book 34 Chapter 3: Swordfish Hunting at Scyllaeum
 
 After saying this, he describes the hunting of the galeotes, which takes place around Scyllaeum.
 
@@ -86,7 +86,7 @@ But the line “for three times she spews it up” instead of “twice” is eit
 
 And Meninx too agrees with what is said about the Lotus-Eaters.
 
-## Book 34 Chapter 4
+## Book 34 Chapter 4: Homer’s Poetry and the Voyage of Odysseus
 
 If some point does not agree with reality, one should explain it by changes over time, by ignorance, or by poetic license, which is composed of history, vivid presentation, and myth.
 
@@ -104,7 +104,7 @@ Who, then, has ever recorded that someone sailed from Lycia or Rhodes to Alexand
 
 And to those who ask how Odysseus could have come to Sicily three times and yet never once sailed through the strait, he replies that later sailors also all avoided that passage. Such is his argument.
 
-## Book 34 Chapter 5
+## Book 34 Chapter 5: Polybius Attacks Pytheas’ Tales
 
 III. Polybius argues against earlier geographical writers When Polybius describes Europe, he says that he will pass over the ancient writers and instead examine those who criticize them: Dicaearchus, Eratosthenes, the most recent author to write on geography, and Pytheas, by whom, he says, many have been misled, since he claimed to have gone over the whole of Britain on foot and gave the island a perimeter of more than forty thousand stades, and also told stories about Thule and those regions where there was no longer land by itself, nor sea, nor air, but some compound made from all of them, like a sea-lung, in which, he says, earth and sea and everything together are suspended, and that this serves as a sort of bond holding the whole together, being neither passable on foot nor navigable by ship.
 
@@ -126,7 +126,7 @@ But Eratosthenes and Dicaearchus may be excused, since they had not seen those r
 
 And yet Polybius is precisely the man who calls such pronouncements mere popular guesswork, the sort people make about distances in these regions and in many others, but not even in...
 
-## Book 34 Chapter 6
+## Book 34 Chapter 6: Polybius Corrects Dicaearchus on Distances
 
 With arguments of this kind he refutes those earlier writers while claiming precision. For example, Dicaearchus said that from the Peloponnese to the Pillars there were ten thousand stades, and that the distance from the Peloponnese to the head of the Adriatic was greater than this; and since he gave the distance from the Peloponnese to the strait as three thousand, the remainder from the strait to the Pillars came to seven thousand, Polybius says that he will let the three thousand stand, whether it is correctly reckoned or not, but that the seven thousand works in neither way, neither for someone measuring along the coast nor for someone measuring straight through the open sea.
 
@@ -150,7 +150,7 @@ For most authorities agree in saying that the distance across the open sea is tw
 
 How could one not reasonably think that Antiphanes of Berge had been surpassed in extravagance and sheer madness, and that he had left no excess of folly at all for later generations?
 
-## Book 34 Chapter 7
+## Book 34 Chapter 7: Polybius Corrects Eratosthenes on Europe
 
 Next he corrects Eratosthenes, speaking rightly in some matters, but in others worse than Eratosthenes himself.
 
@@ -176,7 +176,7 @@ For Eratosthenes said there were three peninsulas: one reaching to the Pillars, 
 
 Polybius likewise sets out the first two, but makes a third at Malea and Sunium, on which lie all Greece, Illyria, and part of Thrace, a fourth at the Thracian Chersonese, where the narrows at Sestus and Abydus are—this peninsula is occupied by Thracians—and a fifth at the Cimmerian Bosporus and the mouth of Lake Maeotis.
 
-## Book 34 Chapter 8
+## Book 34 Chapter 8: Lusitania’s Acorn-Fed Tunny and Cheap Prices
 
 IV. On Lusitania Polybius of Megalopolis, in the thirty-fourth book of his Histories, while discussing the land of Lusitania in Iberia, says that acorn-bearing trees are rooted deep in the sea there, and that tunny grow fat by feeding on their fruit.
 
@@ -194,7 +194,7 @@ A metretes of wine costs a drachma, and an average kid or a hare costs an obol. 
 
 The meat of wild animals was considered hardly worth setting a price on at all; instead, people exchanged it freely as a favor and a courtesy.
 
-## Book 34 Chapter 9
+## Book 34 Chapter 9: Spain: Springs, Silver Mines, and Iberian Peoples
 
 V. Spain The inhabitants are called the Turdetani and the Turduli; some think these are the same people, others that they are different.
 
@@ -226,7 +226,7 @@ In its design and splendor it resembles the palace of a certain Iberian king men
 
 He says that this king rivaled the luxury of the Phaeacians, except that the mixing bowls standing in the middle of the house, though made of silver and gold, were full of barley wine.
 
-## Book 34 Chapter 10
+## Book 34 Chapter 10: Gaul and the Alps: Fish, Gold, and Lakes
 
 VI. Gaul Polybius, in the thirty-fourth book of his Histories, says that from the Pyrenees to the river Narbo there is a plain, through which flow the rivers Illeberis and Rhoscynus, passing by cities of the same names inhabited by Celts.
 
@@ -270,7 +270,7 @@ The next, Larius, is four hundred stades long and narrower than the first, and i
 
 The third, Verbanus, is nearly three hundred stades long and thirty wide, and it sends out the great river Ticinus. All these rivers flow into the Po.
 
-## Book 34 Chapter 11
+## Book 34 Chapter 11: Italy: Coasts, Campania, and the Lipari Volcanoes
 
 VII. Italy Polybius says that at Capua a remarkable wine is produced, called Anadendrites, with which no other can be compared.
 
@@ -312,7 +312,7 @@ He says that when ships were weather-bound in the Lipari Islands, some men there
 
 So it appears that what seems most mythical in the poet was not spoken in vain, but that he expressed the truth in a riddle when he called Aeolus the keeper of the winds.
 
-## Book 34 Chapter 12
+## Book 34 Chapter 12: Roads and Distances from Apollonia to Byzantium
 
 VIII. Thrace, Macedonia, Greece He also says other things that are not trustworthy: that the seas are connected by channels because Chian and Thasian pottery is found in the Naro; that both seas can be seen from a certain mountain; that among the Liburnian islands is Titheis, with a circuit of five hundred stades; and that the Danube pours one of its mouths into the Adriatic.
 
@@ -338,11 +338,11 @@ The circumference of the Peloponnese, if one does not follow every inlet, is fou
 
 When Polybius said that the distance from Malea northward to the Danube was about ten thousand stades, Artemidorus corrects this, and not unreasonably. According to him, the distance from the Danube to Malea is six thousand five hundred. The reason is that Polybius did not measure the direct route, but some incidental one that one of the generals had taken.
 
-## Book 34 Chapter 13
+## Book 34 Chapter 13: Eratosthenes as the Authority on Asia
 
 IX. Asia As for the regions lying directly beyond these as far as India, Artemidorus gives the same account as Eratosthenes. Polybius too says that, on matters concerning those lands, Eratosthenes is the authority one should trust most.
 
-## Book 34 Chapter 14
+## Book 34 Chapter 14: Polybius Disgusted by Alexandria’s Three Peoples
 
 X. Alexandria, City of Egypt Polybius, who had himself been in the city, says that he was disgusted by its condition at that time.
 

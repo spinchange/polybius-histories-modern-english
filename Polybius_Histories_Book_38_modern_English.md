@@ -2,7 +2,7 @@
 
 Modern English translation of the Greek text.
 
-## Book 38 Chapter 1: Character of Hasdrubal
+## Book 38 Chapter 1: The Greeks’ Misfortune Surpasses Carthage’s
 
 This book contains the culmination of the Greeks’ misfortune.
 
@@ -46,7 +46,7 @@ Some time later the Thebans saw their own city utterly laid waste, when Alexande
 
 But at that time everyone pitied the Thebans as men who had suffered unjust and terrible treatment, and no one defended this act as just.
 
-## Book 38 Chapter 3: Consummation of the Misfortunes of Greece
+## Book 38 Chapter 3: The Shameful Collapse of Peloponnesians and Boeotians
 
 After Alexander’s campaign, they therefore, after a short time and with some help received, once again lived in their homeland in safety.
 
@@ -72,7 +72,7 @@ For they were in great fear because of the excess of their own mistakes, if it i
 
 For I would say that the majority were simply ignorant and had gone astray from what was fitting, but that those who caused such widespread ignorance were themselves guilty.
 
-## Book 38 Chapter 4: Previous Disasters
+## Book 38 Chapter 4: Polybius Defends Plain Truth in History
 
 There is no need to be surprised if, by departing from the ordinary style of historical narrative, I seem to make my account of these matters more elaborate and more ambitious.
 
@@ -90,7 +90,7 @@ But in the written record that is passed on to later generations, the account of
 
 So let this be enough on this subject.
 
-## Book 38 Chapter 5: Unjust Misfortune Distinguished from Self-Inflicted Loss
+## Book 38 Chapter 5: Variety as Nature’s Rest for Readers
 
 I am not unaware that some will criticize this work, saying that I have made the exposition of events incomplete and scattered.
 
@@ -109,7 +109,7 @@ The same thing can be seen in sight as well: for it can least of all remain fixe
 
 Most of all one could see this happening in the soul: changes of attention and concentration are, as it were, rests for those who labor hard...
 
-## Book 38 Chapter 6: Rome and the Achaean League
+## Book 38 Chapter 6: Polybius’s Orderly Digressions versus Earlier Historians
 
 For those who are diligent in such matters, the greatest historians of old seem to me to have taken their rest in this manner: some by means of digressions into myth and storytelling, others by means of digressions into actual history, so that they not only make transitions within the places of Greece itself, but also include matters beyond it.
 
@@ -123,7 +123,7 @@ Whereas we, having divided up all the most notable regions of the inhabited worl
 
 And that is enough on this subject.
 
-## Book 38 Chapter 7: New Commissioners Sent to Achaea
+## Book 38 Chapter 7: Hasdrubal Meets Gulussa in Full Armor
 
 Hasdrubal, the Carthaginian general, was vain, boastful, and very far removed from real military judgment and skill.
 
@@ -149,7 +149,7 @@ For that reason he urged the general, for the sake of the gods and of Fortune, t
 
 Then, after saying these and similar things, they parted, having arranged to meet again on the third day.
 
-## Book 38 Chapter 8: The Commissioners Arrive in Achaea
+## Book 38 Chapter 8: Hasdrubal Spurns Terms and Feasts amid Famine
 
 When Gulussa reported what had been said to the general, Publius laughed and said, “So this is what you were preparing to ask for after displaying such outrageous impiety toward our prisoners? And now you place your hopes in the gods, though you have broken the laws of men as well?”
 
@@ -179,7 +179,7 @@ So I think it was rightly said by me that among the Greeks and among the Carthag
 
 That will become clear when we compare them side by side.”
 
-## Book 38 Chapter 9: Foolish Policy In Achaea
+## Book 38 Chapter 9: The Senate Instructs Julius’s Commissioners
 
 When the envoys who had come from the Peloponnese to Aurelius arrived and explained what had happened to them, saying that they had come very close to losing their lives altogether, and telling the story with exaggeration and novelty—for they did not describe the danger as something that had come upon them by chance, but as though the Achaeans had deliberately set out to make an example of them—the Senate was angered by what had taken place, and at once appointed the commissioners around Julius, sending them with instructions of this sort: that they should rebuke and censure what had happened, but in moderation; and that they should above all continue to exhort the Achaeans not to listen to those who urged them toward the worst course, and not to let themselves drift into hostility with Rome, but still now to make some correction for their previous ignorance by laying the blame for the error on those who caused it.
 
@@ -189,7 +189,7 @@ Some people, therefore, assumed that the Romans were acting with hypocrisy becau
 
 The fact is that they had long regarded the nation with favor and considered it the most trustworthy of the Greek states; and although now they thought it necessary to alarm it because it had become overbearing, they by no means wished to make war on the Achaeans or have a full-scale quarrel with them.
 
-## Book 38 Chapter 10: Riotous Scene at Corinth
+## Book 38 Chapter 10: Sextus’s Commissioners Confer with Achaeans at Aegium
 
 When the party around Sextus, coming from Rome into the Peloponnese, met the envoys around Thearidas, who had been sent by the Achaeans to ask pardon and to explain to the Senate the offenses committed against Aurelius, the men just mentioned urged them to turn back to Achaea, saying that they themselves had instructions to discuss all these matters with the Achaeans.
 
@@ -205,7 +205,7 @@ By giving these answers they afterwards led the wretched nation into the folly t
 
 And that, naturally enough, came about through the inexperience and wickedness of the men in power.
 
-## Book 38 Chapter 11: Violent Policy of Critolaus
+## Book 38 Chapter 11: Critolaus Stalls the Commissioners at Tegea
 
 The end of the disaster was brought about in the following way.
 
@@ -221,7 +221,7 @@ At the same time he ordered the magistrates not to proceed against debtors, not 
 
 From this kind of demagoguery everything he said came to be believed, and the masses were ready for whatever was ordered, unable to think ahead about the future and allured by the immediate favor and ease.
 
-## Book 38 Chapter 12
+## Book 38 Chapter 12: Roman Envoys Driven Out of Corinth
 
 Quintus Caecilius, hearing of these things in Macedonia and also of the confusion and turmoil that had arisen in the Peloponnese, sent as envoys Gnaeus Papirius and the younger Popilius Laenas, together with Aulus Gabinius and Gaius Fannius.
 
@@ -241,7 +241,7 @@ With many such remarks, trading and maneuvering in this way, he stirred up and i
 
 He also gave the impression that he was not acting at random in these measures, but that some of the kings and some of the governments shared his policy [...]
 
-## Book 38 Chapter 13
+## Book 38 Chapter 13: Critolaus Wins a Vote for War
 
 When some members of the council wanted to restrain him and prevent such speeches, he had the soldiers drawn aside, stood up, and told anyone who dared to come near, to approach, or even to touch his cloak.
 
@@ -261,13 +261,13 @@ Having arranged all this, he went about stirring things up and laying hands on t
 
 As for the envoys, Gnaeus went off to Athens and from there to Lacedaemon to wait for events, Aulus went to Naupactus, and the other two remained in Athens until the arrival of Caecilius. That is how matters stood in the Peloponnese.
 
-## Book 38 Chapter 14
+## Book 38 Chapter 14: Pytheas’s Early Life
 
 Pytheas was the brother of Acastides the runner and the son of Cleomnastus. He had lived badly and seems to have squandered his youth.
 
 Likewise in public life he was bold and grasping, and had been shaped by Eumenes and Philataerus for the reasons already mentioned.
 
-## Book 38 Chapter 15
+## Book 38 Chapter 15: Diaeus Levies Slaves and Wealth
 
 When Critolaus, the Achaean strategus, had died, and the law provided that if anything happened to the serving strategus the previous one should succeed to the office until the proper assembly of the Achaeans was held, the burden of managing public affairs fell to Diaeus.
 
@@ -289,7 +289,7 @@ They were especially distressed by the uproar and the burden placed on the slave
 
 At the same time the men were forced to contribute against their own wishes whatever property they were thought to possess, while the women stripped themselves and their children of ornaments as though for a deliberate destruction.
 
-## Book 38 Chapter 16
+## Book 38 Chapter 16: Panic and Madness in Greece
 
 They were contributing to their own destruction.
 
@@ -317,7 +317,7 @@ But I think, as the proverb says, that empty men make empty calculations; natura
 
 And he was thinking about returning home, as though someone who was ignorant of swimming and was about to throw himself into the sea would not be thinking first about whether to jump, but after jumping would then consider how to get back to land.
 
-## Book 38 Chapter 17
+## Book 38 Chapter 17: Philon’s Offer Rejected at Corinth
 
 As soon as Diaeus was present in Corinth and had been made strategus by the many, the men around Andronidas arrived from Caecilius.
 
@@ -339,7 +339,7 @@ But how, and from where, was such a spirit to arise in the men already mentioned
 
 What sort of men they were, what each one’s character and way of life and disposition was, has been explained at greater length elsewhere.
 
-## Book 38 Chapter 18
+## Book 38 Chapter 18: Sosicrates Tortured and Fortune Spares Achaea
 
 So when the council was in such a state, the outcome followed what those men had expected.
 
@@ -365,11 +365,11 @@ For what they would naturally have done against their own people, if they had se
 
 And everyone at the time had this saying constantly on their lips: “If we had not been ruined quickly, we would not have been saved.”
 
-## Book 38 Chapter 19
+## Book 38 Chapter 19: Scipio Rejects Caltrops at Carthage
 
 When he had come through the wall and found the sea between them to be not very deep, while the Carthaginians were defending themselves from the citadel, and when Polybius advised him to scatter iron caltrops or drive in sharpened stakes so that the enemy could not cross and fight from the embankments, he said it would be ridiculous, after taking the walls and being inside the city, to proceed in such a way as not to fight the enemy.
 
-## Book 38 Chapter 20
+## Book 38 Chapter 20: Hasdrubal Begs while His Wife Reproaches Him
 
 When Hasdrubal, the Carthaginian general, came as a suppliant and fell at Scipio’s knees, the general looked at those around him and said, “Do you see, gentlemen, how Fortune is good at setting before people an example of the reckless?”
 
@@ -385,7 +385,7 @@ At first she addressed Hasdrubal by name, but when he remained silent and looked
 
 [...] the rest of the passage is badly broken in the witness, but it clearly continues with reproaches about his shameful conduct and the children, and with the crowd’s sympathy for the disaster and for Fortune’s reversal.
 
-## Book 38 Chapter 21
+## Book 38 Chapter 21: Fortune’s Instability and the Great Man
 
 [...] The text here is badly broken in the witness, but the sense is that Polybius is completing Scipio’s remark about the danger of overconfidence and the importance of good judgment.
 
@@ -393,7 +393,7 @@ No clearer or more practical lesson than this is easy to state.
 
 For to take account, in the midst of great achievements and the calamities of one’s enemies, of one’s own affairs and of the opposite condition, and in general to keep the instability of Fortune before one’s eyes amid success, is the mark of a great and complete man, and one worthy of remembrance. —
 
-## Book 38 Chapter 22
+## Book 38 Chapter 22: Scipio Weeps over Carthage
 
 When Scipio saw the city [...] then utterly ending in complete destruction, it is said that he burst into tears and was plainly seen weeping over his enemies; and for a long time he stood absorbed in thought, realizing that cities, nations, and all sovereignties must change, just as human beings do. So it happened to Ilium, once a fortunate city; so too to the empire of the Assyrians, Medes, and Persians, and to the Macedonian power that had lately shone so brightly—whether he said this willingly, or whether the verse came to his mind unbidden:
 

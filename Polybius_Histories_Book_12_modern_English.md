@@ -82,7 +82,7 @@ But among the Greeks, in the oak-forests, when the herds get mixed together whil
 
 And sometimes a thief, lying in wait, drives them off, without the herdsman in charge even realizing how he lost them—because the animals stray far from their drivers in their scramble for the mast, just when it is beginning to fall. But enough of this.
 
-## Book 12 Chapter 4a
+## Book 12 Chapter 4a: Timaeus’ Petty Charges against Theopompus and Ephorus
 
 III. On the Other Errors of Timaeus Having torn Timaeus apart on many points, Polybius goes on to say: Who could still grant indulgence for such mistakes, especially to Timaeus, who fastens on others over hangnail-sized trifles like these?
 
@@ -94,13 +94,13 @@ Now no one, surely, would say that this slip belongs to the historian; by common
 
 For either Ephorus must have surpassed even Coroebus and Margites in stupidity, if he was incapable of reckoning that forty-two added to twenty-three makes sixty-five; or, since this could never be believed of Ephorus, it is plain that the error [...] is the copyist’s, while no one would approve of Timaeus’s fondness for fault-finding and accusation.
 
-## Book 12 Chapter 4b
+## Book 12 Chapter 4b: Timaeus on the Roman Horse Sacrifice
 
 Moreover, in his account of Pyrrhus he says again that the Romans, even now, keep up a memorial of the destruction at Ilium: on a certain day they spear to death a warhorse in front of the city, in the place called the Campus, because the capture of Troy came about through the horse known as the Wooden Horse—a thing more childish than anything.
 
 For at that rate one would have to say that all barbarians are descendants of the Trojans; since nearly all of them, or if not all, at least the majority, whenever they are about to begin a war or to stake everything in a decisive battle against some enemy, sacrifice a horse beforehand and slaughter it for omens, reading the future
 
-## Book 12 Chapter 4c
+## Book 12 Chapter 4c: Why Timaeus Fails at Inquiry
 
 from the way the animal falls. As for Timaeus, in this matter of irrationality he seems to me to display not only inexperience but, even more, the great pretentiousness of a late and shallow learner, since, just because they sacrifice a horse, he immediately supposed that they do so because Troy is thought to have been captured by means of a horse.
 
@@ -108,7 +108,7 @@ But that he has given a poor account both of the affairs of Libya and of those o
 
 For since events occur simultaneously in many places, and it is impossible for the same man to be present in several places at the same time, and likewise impossible for one man to be an eyewitness of all the regions of the inhabited world and of their distinctive features, what remains is to make inquiry from as many sources as possible, to trust those who are worthy of credence, and to be a sound judge of the reports that come in.
 
-## Book 12 Chapter 4d
+## Book 12 Chapter 4d: Timaeus and the Spring Arethusa
 
 It is in this very area, where he makes the greatest pretensions, that Timaeus seems to me to fall furthest short of the truth.
 
@@ -152,13 +152,13 @@ While oaths of this sort were being taken, they say that the Locrians put earth 
 
 This, then, is the story told among the Locrians.
 
-## Book 12 Chapter 6a
+## Book 12 Chapter 6a: Freedmen Claim Their Masters’ Kinship
 
 From these considerations one would, on reflection, side with Aristotle rather than with Timaeus; and indeed what follows in Timaeus is utterly absurd.
 
 For to suppose, as he suggests, that it was not likely that the servants of those who had fought as allies of the Spartans should transfer their masters’ goodwill to their masters’ friends—that is naïve; for not only the friendships, but also the ties of hospitality and the kinships of their masters, are what former slaves, when they have unexpectedly prospered and time has gone by, try to claim for themselves and to renew, even more than their own natural connections, since by this very means they are eager to wipe out the diminished standing and the disrepute that formerly attached to them, preferring to appear
 
-## Book 12 Chapter 6b
+## Book 12 Chapter 6b: Locrian Wives and Spartan Customs
 
 descendants of their masters rather than freedmen. And this is most likely to have happened in the case of the Locrians; for, having moved far away from those who knew the facts and having taken time as their accomplice, they were not so foolish as to pursue practices by which they would only renew the memory of their own shortcomings, rather than, on the contrary, the practices by which they would cover them up.
 
@@ -250,11 +250,11 @@ We said, however, that there are two kinds of falsehood: one arising from ignora
 
 These points being agreed between us, I hold that in this very matter of falsehood there is a great difference between what comes about through ignorance and what through deliberate intention—the former admitting of pardon and kindly correction, the latter justly meeting with unforgiving condemnation; and it is to this latter kind, above all, that one would find Timaeus himself liable. That he is indeed such a man, it is now possible to consider.—
 
-## Book 12 Chapter 12a
+## Book 12 Chapter 12a: The Locrians and Their Compacts
 
 Of those who break their agreements we say, by way of this proverb, “the Locrians and their compacts.” Someone has discovered that this is acknowledged both among the historians and among other people, namely that, at the time of the invasion of the Heraclidae, the Locrians had agreed with the Peloponnesians to raise hostile beacon-fires if it should turn out that the Heraclidae were making their crossing not by way of the Isthmus but by way of Rhium, so that the Peloponnesians, getting advance warning, might guard against their attack; but the Locrians did not do so—quite the contrary, they raised friendly beacons when the Heraclidae arrived. As a result, the Heraclidae made their crossing in safety, while the Peloponnesians, caught off their guard, unwittingly admitted the enemy into their own land, having been betrayed by the Locrians’ breach of faith.
 
-## Book 12 Chapter 12b
+## Book 12 Chapter 12b: Timaeus Condemns Callisthenes
 
 [...] to accuse, and to deride the religious raptures of those who dream and rave in their writings; yet as for those who have themselves filled their works with a great deal of such nonsense, one ought to be content if they escape accusation, and not have them running down others as well—which is exactly what has happened in the case of Timaeus.
 
@@ -478,7 +478,7 @@ That Timaeus could have said such a thing no one would believe—no, not even of
 
 For who is so ignorant, I do not say among those who have applied themselves to written records, [...] [the text breaks off]
 
-## Book 12 Chapter 25a
+## Book 12 Chapter 25a: Timaeus’s Invented Speeches
 
 What Polybius of Megalopolis says about Timaeus. Just as the proverb has it that a single drop from the largest vessel is enough to tell us the character of the whole contents, so we must judge in the matter now before us.
 
@@ -490,7 +490,7 @@ For that Timaeus has set these down in his account contrary to the truth, and ha
 
 He has not written what was actually said, nor reported it as it really was said. Instead, having first decided how it ought to have been said, he reels off all the supposed speeches and the circumstances attending the events as a man might do who, in a rhetorical exercise, were attempting to argue a set theme [...] as though he were making a display of his own ability, rather than giving a true account of what was said. —
 
-## Book 12 Chapter 25b
+## Book 12 Chapter 25b: Why History Must Report Real Speeches
 
 It is the special property of history first to learn the words that were actually spoken, whatever they may have been, and second to find out the reason why the action or speech in question either failed or succeeded.
 
@@ -500,7 +500,7 @@ For when we transfer parallels from the past to our own circumstances, we gain s
 
 But the man who passes over in silence both the words that were spoken and the reason for them, and instead gives false arguments and long-winded speeches in their place, destroys the very thing that is proper to history. This is exactly what Timaeus does, and we all know that his books are full of this kind of thing.
 
-## Book 12 Chapter 25c
+## Book 12 Chapter 25c: Why Readers Trusted Timaeus
 
 One might perhaps be puzzled how a man of the character we are describing has won such acceptance and credit with some readers.
 
@@ -512,7 +512,7 @@ And it seems to me that what happens with writers is exactly like what happens i
 
 For here too it is easy to find fault with one’s neighbors, but hard to keep oneself free from error; and one might say, almost as a rule, that those who are quickest to censure their neighbors are the very ones who make the most mistakes in their own lives.
 
-## Book 12 Chapter 25d
+## Book 12 Chapter 25d: History Compared with Medicine
 
 Besides what has already been described, something else applies in the case of Timaeus. Having settled in Athens for nearly fifty years and devoted himself to the writings of earlier authors, he supposed that he possessed the greatest resources for writing history—mistakenly, in my view.
 
@@ -528,7 +528,7 @@ For they are truly like men who navigate from a book. And yet these men, traveli
 
 But the third kind—the man who brings to each profession a genuine, practiced competence—is not only rare, but is also often overshadowed by glibness and audacity, owing to the lack of judgment in the many.
 
-## Book 12 Chapter 25e
+## Book 12 Chapter 25e: The Three Branches of Practical History
 
 In the very same way, practical history too is threefold. One of its parts concerns the diligent study of documents and the comparison of the material drawn from them; another concerns the survey of cities and places, of rivers and harbors, and in general of the distinctive features and distances by land and by sea; and the third concerns political affairs.
 
@@ -544,7 +544,7 @@ For the past fittingly draws our attention toward the future, provided one inqui
 
 But to be persuaded—as Timaeus is—that, starting from this capacity alone, one is equipped to write well the history of later events is utterly foolish, and much as if a man who had looked at the works of the ancient painters should think himself a competent painter and a master of the art.
 
-## Book 12 Chapter 25f
+## Book 12 Chapter 25f: Ephorus Ignorant of Land Battles
 
 What I am saying will become still clearer from what follows—for instance, straightaway from what happens to Ephorus in certain passages of his history. For in military matters he seems to me to have some notion of operations at sea, but to be entirely without experience of land engagements.
 
@@ -558,7 +558,7 @@ The same thing happens with Theopompus too, and most of all with Timaeus, who is
 
 For wherever such writers treat their subject in summary outline, they pass undetected; but wherever they choose to elaborate and demonstrate some point in detail, they show themselves to be exactly such men as Ephorus. —
 
-## Book 12 Chapter 25g
+## Book 12 Chapter 25g: Bookish Writers Lack Experience of War
 
 That it is impossible to write well about events in war for the man who has no experience of military operations, or about affairs in the various states for the man who has had no practical experience of such actions and circumstances.
 
@@ -568,7 +568,7 @@ Furthermore, when men set out to write in detail about cities and places while b
 
  —
 
-## Book 12 Chapter 25h
+## Book 12 Chapter 25h: Timaeus’s Fifty Years in Athens
 
 Timaeus says, in his thirty-fourth book: “Having spent fifty unbroken years living as a foreigner in Athens, I admittedly had no experience of warfare, nor, moreover, of the firsthand inspection of places.”
 
@@ -582,7 +582,7 @@ It is for this reason that our predecessors thought such vivid touches ought to 
 
 This is reasonably to be found only among those writers who have themselves gone through the events and have made this department of history their own. To be, as it were, an active doer and performer of everything is perhaps difficult; but of the greatest and most general matters it is essential.
 
-## Book 12 Chapter 25i
+## Book 12 Chapter 25i: Documents as the Third Part of History
 
 That what I say is not impossible, the poet is sufficient proof to win belief, for in him one may see this vividness present in abundance.
 
@@ -602,7 +602,7 @@ For if writers, having indicated the occasions and the impulses and dispositions
 
 But the trouble is, I think, that to explain causes is hard, while to coin speeches in books is easy; and to say a few words to the point, and to find the rule for this, is within reach of few, whereas to spin out a great deal of empty matter lying ready to hand is common and easy.
 
-## Book 12 Chapter 25k
+## Book 12 Chapter 25k: Timaeus’s Speeches at Gela
 
 In order that we may confirm our verdict on Timaeus in these matters too, just as we have done concerning his ignorance and his deliberate falsification of the record, I will set out briefly a few of his speeches that are acknowledged to be his, citing them by name.
 
@@ -644,7 +644,7 @@ And that in peace the older are buried by the younger, as nature requires, where
 
 I wonder, then, what other words or expressions could have been used by a youth who has only just taken up the schools and the busywork drawn from written notes, and who wishes, by the rules of the art, to frame his composition from the attributes appropriate to the characters; for it seems to me he would use no others than precisely those which Timaeus says Hermocrates used.
 
-## Book 12 Chapter 26a
+## Book 12 Chapter 26a: Timoleon’s Taunt about Libyan Cowardice
 
 Then again, what are we to make of the passage where Timoleon, in the same book, is urging the Greeks on to face the danger of war against the Carthaginians? When they were all but on the very point of coming to grips with an enemy many times their number, he first calls on them not to look at the multitude of their opponents but at their cowardice.
 
@@ -654,7 +654,7 @@ And in general, he says, who could be afraid of men who, though nature has given
 
 But the crowning point, he says, is that under their tunics they actually wear loincloths, so that not even when they fall in battle should they be exposed to the enemy...
 
-## Book 12 Chapter 26b
+## Book 12 Chapter 26b: Gelon’s Offer to the Greeks
 
 When Gelon offered to come to the aid of the Greeks with twenty thousand infantry and two hundred decked warships, on condition that they cede to him the command either on land or at sea, the story goes that the Greek leaders presiding at Corinth gave Gelon’s envoys a most statesmanlike answer.
 
@@ -664,7 +664,7 @@ This is the language not of men taking refuge in the hopes held out by the Syrac
 
 And yet, on each of the points just mentioned, Timaeus spins out speeches of such length and shows such eagerness to make Sicily grander than all of Greece together, the deeds done there more brilliant and finer than those of the rest of the world, its wise men the wisest of all who have excelled in wisdom, and its men of action—those from Syracuse—the most masterful and most godlike, that he leaves no room for further exaggeration even to the schoolboys in the lecture-halls and the philosophers’ walks who go in for paradoxical exercises, whenever they set out to deliver a eulogy of Thersites, or a denunciation of Penelope, or something else of that kind.
 
-## Book 12 Chapter 26c
+## Book 12 Chapter 26c: Love of Paradox Brings Ridicule
 
 The upshot is that, through his excessive love of paradox, he ends up bringing the very men and deeds he wants to champion not into favorable comparison but into ridicule; and he falls into almost the same plight as those students in the Academy who have trained themselves in the most facile kind of argument.
 
@@ -674,7 +674,7 @@ As a result, through their excessive love of paradox, they have brought the whol
 
 And quite apart from their own misjudgment, they have bred in the young such a passion for this sort of thing that it comes about that they give not even a passing thought to ethical and practical arguments—the very ones from which philosophers derive real benefit—but instead waste their lives chasing empty glory in useless and paradoxical feats of argumentation.
 
-## Book 12 Chapter 26d
+## Book 12 Chapter 26d: Timaeus on Colonies and Kinships
 
 The same thing has happened to Timaeus too in the field of history, and to his admirers. Being a lover of paradox and combative about whatever thesis he sets up, he has overawed the general public with his arguments and forced them to pay attention to him through the appearance of telling the truth; some he has even drawn over to his side and seems to win round with apparent proof.
 
@@ -706,7 +706,7 @@ And even more vividly than these writers the poet (Homer) has spoken about this 
 
 “Tell me, Muse, of the man of many turns, who wandered very far,” and then continuing, “and of many men he saw the cities and learned their mind, and many sorrows he suffered in his heart upon the sea,” and again, “passing through the wars of men and the grievous waves.”
 
-## Book 12 Chapter 27a
+## Book 12 Chapter 27a: The Cause of Timaeus’s Errors
 
 It remains, then, that the factual part of his history is built up out of every kind of error, most of which we have already gone through.
 
@@ -728,7 +728,7 @@ For in the preface to his sixth book he says that some people suppose that the g
 
 But Timaeus, so as not to seem to be following Ephorus, on top of misrepresenting him has at the same time condemned the rest as well: for, expounding at length, obscurely, and in every way worse the matters that had been properly handled by others, [he leaves none of them...] [...] [the text breaks off]
 
-## Book 12 Chapter 28a
+## Book 12 Chapter 28a: Timaeus on the Dignity of History
 
 ...of living men he supposed he would be able to observe this. All the same, in his eagerness to exalt the writing of history, he says first that the difference between history and rhetorical display-pieces is as great as the difference between buildings really constructed and furnished and the scenes and settings that merely appear in stage-paintings.
 

@@ -872,7 +872,7 @@ And so that nothing they did might escape him, he sent messages to Peparethus an
 
 This is a mountain in Thessaly, well situated for viewing the regions just mentioned.
 
-## Book 10 Chapter 43: Fire signals
+## Book 10 Chapter 43: Fire Signals
 
 Since the use of beacon-signals is of the greatest service in war, and since the subject had previously remained undeveloped, I think it useful not to pass it by but to make suitable mention of it.
 

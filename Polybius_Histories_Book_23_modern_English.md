@@ -154,7 +154,7 @@ What weighed on him most was his fear for the succession, lest, despite being th
 
 Therefore he began to corrupt the friends of Demetrius ***.
 
-## Book 23 Chapter 8: Death of Demetrius
+## Book 23 Chapter 8: Philip Campaigns in Thrace
 
 When Quintus Marcius and his colleagues came on embassy to Macedonia, Philip withdrew entirely from the Greek cities in Thrace and removed his garrisons, though he did so in bitterness and with many groans.
 
@@ -298,7 +298,7 @@ As a result, not only were all the others struck silent with amazement, but even
 
 Let this be said by us both for the sake of the glory of these departed men and to stir later generations toward noble actions. —
 
-## Book 23 Chapter 15: Submission of the Messenians
+## Book 23 Chapter 15: Polybius Condemns Ravaging Crops and Trees
 
 It is not right to destroy the crops of those opposed to you. For Polybius says, “For my part I never agree with those who carry their anger against their own people so far that they not only strip their enemies of the year’s produce, but even destroy the trees and the built works, leaving no room for repentance.
 

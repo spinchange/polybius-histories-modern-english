@@ -8,7 +8,7 @@ Olympiad 147, year 1. Greek Affairs.
 
 And again from Polybius: they appointed thirty of the Apocleti to sit in council together with the king. And again: he convened the Apocleti and laid before them a deliberation concerning the present situation.
 
-## Book 20 Chapter 2: The Boeotians Answer Antiochus
+## Book 20 Chapter 2: The Boeotians Answer Philip’s Envoys
 
 When Philip sent an embassy to the Boeotians, the Boeotians replied to the envoys that, once the king came to them in person, they would then deliberate about the proposals being urged upon them.
 
@@ -104,7 +104,7 @@ The majority put forward, as the pretext for their estrangement from the Romans,
 
 For when the king drew near, the leading men of the Boeotians went out to meet him; and after joining him and conversing in a friendly manner, they conducted him into Thebes. —
 
-## Book 20 Chapter 8: Submission of the Aetolian Officers
+## Book 20 Chapter 8: Antiochus Marries at Chalcis
 
 Antiochus, the one called the Great, whom the Romans brought down—as Polybius records in his twentieth book—came to Chalcis in Euboea and celebrated his marriage there. He was fifty years old and had taken upon himself the two greatest of undertakings: the liberation of the Greeks, as he himself proclaimed it, and the war against the Romans.
 

@@ -24,7 +24,7 @@ The arrival of Quintus Caecilius and his censure of the arrangements made at Spa
 
 How Areus and Alcibiades, two of the earlier exiles from Sparta, went as envoys to Rome and brought accusations against Philopoemen and the Achaeans.
 
-## Book 22 Chapter 2
+## Book 22 Chapter 2: Roman Envoys Meet the Achaeans at Cleitor
 
 In the 148th Olympiad Roman envoys arrived at Cleitor, and a synod of the Achaeans was held.
 
@@ -108,7 +108,7 @@ Since the two sides understood the situation in entirely different ways, for som
 
 But when the Lycian envoys entered the assembly and began speaking about an alliance, and after them Pothion the Rhodian prytanis stood up and made clear the intention of each side and sternly rebuked the Lycians, they declared that they would endure anything rather than do what the Rhodians ordered.
 
-## Book 22 Chapter 6: Egypt Under Ptolemy Epiphanes After the Death of Aristomenes (18, 53, 54)
+## Book 22 Chapter 6: Envoys Accuse Philip Before the Senate
 
 At the same time envoys came to Rome from King Eumenes to explain Philip’s encroachments on the cities in Thrace.
 
@@ -124,7 +124,7 @@ So Quintus Caecilius, Marcus Baebius, and Tiberius Claudius were appointed.
 
 And it happened that the people of Aenus had long been torn by civil strife, and had lately divided, some inclining toward Eumenes and others toward Macedonia.
 
-## Book 22 Chapter 7: Seeds of the Third Macedonian War
+## Book 22 Chapter 7: Embassies Gather at the Achaean Assembly
 
 In the Peloponnese, says Polybius, we have already explained how, while Philopoemen was still general, the Achaean nation sent envoys both to Rome on behalf of the city of the Spartans and to King Ptolemy to renew the alliance that already existed with him.
 
@@ -144,7 +144,7 @@ After them the envoys from Eumenes entered, renewed the ancestral alliance, and 
 
 After speaking further on these subjects and making the king’s goodwill and generosity toward the nation plain, they ended their address.
 
-## Book 22 Chapter 8: Origin of the Last Macedonian War
+## Book 22 Chapter 8: The Achaeans Refuse Eumenes’s Gift
 
 After they had ended, Apollonidas of Sicyon stood up and said that, in view of the amount of the money being offered, the gift was worthy of the Achaeans; but in view of the giver’s purpose and of the use for which it was intended, it was the most disgraceful and illegal of all gifts.
 
@@ -168,7 +168,7 @@ And he urged the Achaeans not to accept such gifts, by which they would show the
 
 When such speeches had been made, the crowd was so moved that no one dared speak in support of the king; instead everyone shouted together and drove away the proposed gift, although the amount offered made it hard to look away from.
 
-## Book 22 Chapter 9: The Senate Investigates Philip
+## Book 22 Chapter 9: Aristaenus Questions the Ptolemaic Alliance
 
 After the matters already mentioned, the assembly took up the question of Ptolemy.
 
@@ -230,7 +230,7 @@ The Achaeans laid the blame both for the earlier visit together with Marcus Fulv
 
 And many in the crowd felt suspicion toward those men. Such, then, was the condition of affairs in the Peloponnese.
 
-## Book 22 Chapter 11: Apollonidas and Cassander Urge Rejection of Eumenes’ Gifts
+## Book 22 Chapter 11: The Senate Hears Envoys on Macedonia and Sparta
 
 Olympiad 148, year 2. Affairs in Italy.
 
@@ -246,7 +246,7 @@ And from Sparta Areus and Alcibiades had come as envoys; these were among the ol
 
 This above all stirred the Achaeans to anger, because it seemed to them a monstrous ingratitude that men who had so recently received such a great benefit should proceed immediately to an embassy of accusation against the very rulers who had unexpectedly saved them and brought them home again.
 
-## Book 22 Chapter 12: Offers of Eumenes and Seleucus Declined
+## Book 22 Chapter 12: Achaeans and Spartans Plead Before the Senate
 
 After these men too had made their opposing defenses in agreement with one another, and had instructed the senate—those with Apollonidas of Sicyon trying to show that Spartan affairs could not possibly have been handled better than the Achaeans and Philopoemen had handled them, while those with Areus tried to say the opposite, alleging first that the city’s power had been broken by the forcible removal of the multitude, and second that the constitution left behind among those who remained was insecure and speechless, insecure because they were few and their walls had been torn down, and speechless because they not only had to obey the common decrees of the Achaeans but also had to serve individually whatever magistrates were from time to time set over them— after hearing these men as well, the senate decided to give the same envoys instructions on these matters too, and appointed Appius Claudius and his colleagues as envoys to Macedonia and Greece.
 
@@ -262,7 +262,7 @@ After hearing what was said, the senate gave the Achaeans this answer: on Sparta
 
 And it advised the envoys whom the Achaeans regularly sent from time to time to pay close attention and to show the reception that was fitting, just as the Romans themselves did for envoys who came to them.
 
-## Book 22 Chapter 13: Caecilius In the Achaean Assembly
+## Book 22 Chapter 13: Philip Massacres the Maronites
 
 Affairs in Macedonia.
 
@@ -290,7 +290,7 @@ But Appius and his colleagues replied that they had no need of his defense, sinc
 
 At this Philip was thrown into confusion, and so the first interview ended there.
 
-## Book 22 Chapter 14: Philopoemen on Archon
+## Book 22 Chapter 14: Philip Poisons Cassander and Sends Demetrius
 
 On the following day Appius and his colleagues ordered Philip to send both Onomastus and Cassander at once to Rome, so that the senate might learn the truth of what had happened.
 
@@ -316,7 +316,7 @@ Having formed this plan, he set himself at once to arranging the dispatch of Dem
 
 At the same time he promised help to the Byzantines, not so much because he cared about them as because, under cover of their cause, he wanted to overawe the Thracian dynasts who lived beyond the Propontis and so advance the design he had in mind.
 
-## Book 22 Chapter 15: Caecilius Reports and Ambassadors Respond
+## Book 22 Chapter 15: Appius Settles Disputes in Crete
 
 In Crete, while Cydas son of Antalces was cosmus at Gortyn, the Gortynians, since they were doing everything possible to weaken the Cnossians, cut off parts of their territory, assigning the district called Lycastium to the Rhaucii and Diatonium to the Lyctians.
 
@@ -330,7 +330,7 @@ Those who did not wish might also stand apart.
 
 But in that case they, together with the exiles from Phalasarna, were to keep away from the rest of Crete altogether; and after a gap in the text, we are told that they killed Menoetius and his associates, men of the highest standing among the citizens.
 
-## Book 22 Chapter 16: Another Commission For Greece
+## Book 22 Chapter 16: Philip’s Clemency and Ptolemy’s Cruelty
 
 Calling him king and offspring of gods, they said that if he abused such a name he might perhaps obtain some pity and pardon for what had happened; yet it would have been more kingly not to be the first to break faith, but rather to let others violate agreements before he did so himself.
 
@@ -340,7 +340,7 @@ Yet men imitate such conduct least of all; instead they compete in anger and pun
 
 Ptolemy, by contrast, bound the men naked to carts, dragged them along, and after inflicting punishment killed them.
 
-## Book 22 Chapter 17: Philip and the Massacre At Maroneia
+## Book 22 Chapter 17: Ptolemy Betrays the Egyptian Rebels
 
 When King Ptolemy of Egypt laid siege to the city of Lycopolis, the Egyptian dynasts were terrified by what had happened and surrendered themselves to the king’s good faith.
 
@@ -356,7 +356,7 @@ Then he came with his army to Naucratis; and when Aristonicus presented to him t
 
 He had taken no part in the actual operations of the war because of Polycrates’ misguided policy, though he was already twenty-five years old.
 
-## Book 22 Chapter 18: Philip Hopes to Defer War With Rome
+## Book 22 Chapter 18: Pretexts versus Causes of the Macedonian War
 
 Olympiad 148, year 4. Affairs in Macedonia and Greece.
 
@@ -380,7 +380,7 @@ For just as we say that Philip son of Amyntas conceived and determined upon carr
 
 If this is true, then this too is clear: the causes cannot have arisen later than the death of the man who resolved upon and planned the war. Yet that is what follows from the account of the other historians, since everything they mention took place after Philip’s death.
 
-## Book 22 Chapter 19: Disputes in Crete
+## Book 22 Chapter 19: Philopoemen Praises Archon’s Cunning
 
 Philopoemen had some disagreement in argument with Archon the general. Philopoemen, however, being pleased at the moment by what had been said and changing his mind, praised Archon warmly as a man who had handled the occasion with both skill and cunning.
 
