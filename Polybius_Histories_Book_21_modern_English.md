@@ -184,7 +184,7 @@ After this Seleucus remained in that district, while Antiochus continued his mar
 
 There, having moved into a rich and prosperous region full of resources, he filled his army with every kind of plunder.
 
-## Book 21 Chapter 11: Prusias Refuses To Help Antiochus
+## Book 21 Chapter 11: Prusias Refuses to Help Antiochus
 
 When King Antiochus returned to Sardis from the expedition just mentioned, he kept sending messages to Prusias, urging him to join his alliance.
 
@@ -216,7 +216,7 @@ Antiochus, having failed in this hope, came to Ephesus; and reflecting that only
 
 Polybius says that when the pirates caught sight of the Roman ships sailing toward them, they suddenly turned and made their retreat.
 
-## Book 21 Chapter 13: Antiochus Sends an Envoy To Discuss Peace
+## Book 21 Chapter 13: Antiochus Sends an Envoy to Discuss Peace
 
 After his defeat in the sea battle Antiochus stayed at Sardis, wasting time and delaying in the larger conduct of the war.
 
@@ -244,7 +244,7 @@ This happened to Publius then. Just as the army was about to cross over, that sa
 
 As a result, Scipio was separated from the army and remained in Europe, while the forces that had crossed stayed where they were and could do nothing further, awaiting the arrival of the man just mentioned.
 
-## Book 21 Chapter 14: Antiochus Tries To Negotiate
+## Book 21 Chapter 14: Antiochus Tries to Negotiate
 
 After some days, when Publius had arrived, Heracleides was summoned before the council and spoke on the instructions he carried.
 
@@ -314,7 +314,7 @@ In the end they simply asked what Antiochus must do to obtain peace and friendsh
 
 The men in the council had already sat together and deliberated about these matters, and now instructed Publius to set out the decision.
 
-## Book 21 Chapter 17: The Roman Terms To Antiochus
+## Book 21 Chapter 17: The Roman Terms to Antiochus
 
 Publius said that the Romans never became harsher after victory [...]
 
@@ -364,7 +364,7 @@ It was resolved to invite Eumenes again and encourage him to speak freely about 
 
 After this decision he was called back in, and when one of the elder senators explained the resolution, he was compelled to speak on the matter.
 
-## Book 21 Chapter 19: King Eumenes In the Senate
+## Book 21 Chapter 19: King Eumenes in the Senate
 
 So he was forced to address the question. He said that he would add nothing further on his own concerns, but would remain [...] entirely leaving those matters in Roman hands. One point only troubled him—the question of the Rhodians.
 
@@ -548,7 +548,7 @@ So they decided to send to the Rhodians and the Athenians, asking and urging the
 
 At the same time they sent envoys of their own again to Rome—Alexander, called Isius, Phaeneas, Chalepus, Alypus the Ambraciot, and Lycopus.
 
-## Book 21 Chapter 26: Fulvius Aims to Fight at Ambracia
+## Book 21 Chapter 26: Fulvius Marches on Ambracia; Alexander Refuses Ransom
 
 When envoys from Epirus came to the Roman general, he consulted with them about the campaign against the Aetolians.
 
@@ -862,7 +862,7 @@ When she came to her husband and laid the head before him, he marveled and said,
 
 Polybius says that he himself met and spoke with this woman at Sardis and admired both her spirit and her intelligence.
 
-## Book 21 Chapter 39: Attempted Treachery By the Galatians
+## Book 21 Chapter 39: Attempted Treachery by the Galatians
 
 After the Romans had won their victory over the Galatians and were encamped near the city of Ancyra, with Gnaeus the commander preparing to advance farther, envoys came from the Tectosages asking Gnaeus to leave his forces where they were, but on the following day to come himself to the space between the camps. Their kings, they said, would also come and discuss terms of settlement.
 
@@ -890,11 +890,11 @@ The same thing happened on this occasion too, and since many had gone out, the m
 
 By this chance, what was needed for the danger at hand came to pass of itself.
 
-## Book 21 Chapter 40: A Proverb from the Ariarathes Affair
+## Book 21 Chapter 40: A Fragment on the Ariarathes Affair
 
 [...] of the affair concerning Ariarathes [...] into the proverb: for having [...] they became [...] to their enemies.
 
-## Book 21 Chapter 41: Embassies Crown Manlius at Ephesus
+## Book 21 Chapter 41: Embassies Bring Crowns and Seek Terms at Ephesus
 
 Olympiad 147, year 4. Affairs in Asia.
 

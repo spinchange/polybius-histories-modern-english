@@ -174,7 +174,7 @@ For they had the audacity to say absolutely anything on any subject, paying no r
 
 So, with falsehood winning the day almost without a struggle, they thought the affair was proceeding exactly as they wished.
 
-## Book 32 Chapter 11: Orophernes’ Ruin and the Oropus Affair
+## Book 32 Chapter 11: Orophernes’ Ruin and Prelude to Oropus
 
 Many men, through their craving for ever more and their overbearing spirit, have been ensnared by wealth; Orophernes, king of Cappadocia, was caught in this trap, ruined, and driven from his kingdom.
 

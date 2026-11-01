@@ -268,17 +268,17 @@ Affairs in Greece.
 
 Polybius says that he rose and went on ahead, weighed down partly by sickness and partly by age, for he was in his seventieth year.
 
-But mastering his weakness by force of his old habit, he came from Argos to Megalopolis in a single day. —
+But mastering his weakness by force of his old habit, he came from Argos to Megalopolis in a single day.
 
 Philopoemen, general of the Achaeans, was captured by the Messenians and killed with poison, a man inferior to none of his predecessors in virtue, though weaker than Fortune, even though throughout his earlier life she had seemed to work with him.
 
 It seems to me that the common proverb is right: a human being may meet with success, but to be successful to the very end is impossible.
 
-Therefore we should call the men of old fortunate, not as though any of them enjoyed unbroken good fortune—for why should we vainly flatter Fortune with a false phrase?— but rather those who have had her favorable for the longest part of life, and who, when she does change her mind, encounter only moderate disasters. —
+Therefore we should call the men of old fortunate, not as though any of them enjoyed unbroken good fortune—for why should we vainly flatter Fortune with a false phrase?— but rather those who have had her favorable for the longest part of life, and who, when she does change her mind, encounter only moderate disasters.
 
-[...] Lycortas, who was in no way inferior to him. —
+[...] Lycortas, who was in no way inferior to him.
 
-Philopoemen, after seeking distinction continuously for forty years in a democratic and many-sided political system, completely escaped the envy of the masses in every respect, though for the most part he conducted public affairs not by courting favor, but with frankness. And that is something one would rarely find. —
+Philopoemen, after seeking distinction continuously for forty years in a democratic and many-sided political system, completely escaped the envy of the masses in every respect, though for the most part he conducted public affairs not by courting favor, but with frankness. And that is something one would rarely find.
 
 ## Book 23 Chapter 13: Character of Hannibal
 
@@ -288,7 +288,7 @@ It is remarkable, and the strongest possible sign that this man was born to comm
 
 Publius, after pursuing distinction in an aristocratic constitution, won such goodwill from the masses and such trust from the Senate that, when someone undertook to prosecute him before the people according to Roman custom and made many harsh and bitter accusations, he came forward and said only that it was not fitting for the Roman people to listen to anyone accusing Publius Cornelius Scipio, the man through whom the accusers themselves possessed the freedom to speak.
 
-On hearing this, the crowd at once broke up and all left the assembly, leaving the accuser there alone. —
+On hearing this, the crowd at once broke up and all left the assembly, leaving the accuser there alone.
 
 On another occasion, when in the Senate there was a need for money for an urgent public purpose, and the quaestor said that because of a certain law he would not open the treasury on that day, Scipio said that he himself would take the keys and open it, for he himself had been the cause of the treasury’s being shut at all.
 
@@ -298,13 +298,13 @@ When the man kept pressing him and told him to produce it, Scipio ordered his br
 
 As a result, not only were all the others struck silent with amazement, but even the man who had demanded the account said no more.
 
-Let this be said by us both for the sake of the glory of these departed men and to stir later generations toward noble actions. —
+Let this be said by us both for the sake of the glory of these departed men and to stir later generations toward noble actions.
 
 ## Book 23 Chapter 15: Polybius Condemns Ravaging Crops and Trees
 
 It is not right to destroy the crops of those opposed to you. For *Polybius says,* “For my part I never agree with those who carry their anger against their own people so far that they not only strip their enemies of the year’s produce, but even destroy the trees and the built works, leaving no room for repentance.
 
-Those who do such things seem to me gravely mistaken. For to the same degree that they think they are terrifying their enemies by ravaging the land and taking away not only present means of life but future hopes as well, to that same degree they make men savage and turn the anger of those who have once gone astray into something unchangeable.” —
+Those who do such things seem to me gravely mistaken. For to the same degree that they think they are terrifying their enemies by ravaging the land and taking away not only present means of life but future hopes as well, to that same degree they make men savage and turn the anger of those who have once gone astray into something unchangeable.”
 
 ## Book 23 Chapter 16: Lycortas Defeats Messene
 
@@ -324,7 +324,7 @@ The general therefore immediately took possession of the citadel and led the pel
 
 After that he took selected men from the camp, entered the city, gathered the populace together, and addressed them in language suitable to the crisis, promising that they would never regret the confidence they were placing in him.
 
-The final decision on the whole issue he referred to the nation—for by what was almost a coincidence the Achaeans were again assembling at Megalopolis for the second synod— but as for those charged with responsibility, all who had taken part in the immediate killing of Philopoemen he ordered to remove themselves from life at once [...] —
+The final decision on the whole issue he referred to the nation—for by what was almost a coincidence the Achaeans were again assembling at Megalopolis for the second synod— but as for those charged with responsibility, all who had taken part in the immediate killing of Philopoemen he ordered to remove themselves from life at once [...]
 
 ## Book 23 Chapter 17: Arguments For and Against Admitting Sparta
 

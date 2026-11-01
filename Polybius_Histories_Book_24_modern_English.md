@@ -2,7 +2,7 @@
 
 Modern English translation of the Greek text.
 
-## Book 24 Chapter 1: The Spartan Exiles Refused
+## Book 24 Chapter 1: The Senate Hears the Spartans and the Kings
 
 Olympiad 149, year 3. Affairs in Italy.
 
@@ -202,7 +202,7 @@ But if we ourselves condemn our own rights from the outset and immediately, like
 
 Therefore, he said, one must either concede this: that no justice has any force with the Romans; or, if one does not dare say that, one must make use of what is just and not abandon one’s own cause, especially when we possess the greatest and noblest advantages in dealing with Rome.
 
-For he said that he knew clearly this time would one day come for the Greeks, when they would be forced to do everything commanded.
+For he said that he knew clearly that this time would one day come for the Greeks, when they would be forced to do everything commanded.
 
 “But would one wish to see that time come as quickly as possible, or as slowly as possible? Surely,” he said, “as slowly as possible.”
 

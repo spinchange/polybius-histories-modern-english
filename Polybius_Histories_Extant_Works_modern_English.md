@@ -17983,7 +17983,7 @@ Being defeated in the battle, they were so crushed in spirit that, from that cam
 
 Instead, having given themselves over to feasting and drunkenness, they grew slack not only in their bodies but in their souls as well.
 
-## Book 20 Chapter 5: Continued Decline of Boeotia
+## Book 20 Chapter 5: Neon Spares the Stranded Antigonus
 
 The main stages of the Boeotians’ gradual decline into folly came about among them in the following way.
 
@@ -18039,11 +18039,11 @@ But when a panic fell upon them, together with a rumor that Philopoemen had arri
 
 With their politics in such a condition, the Boeotians somehow slipped through, by good luck, even the crises of the times of Philip and of Antiochus.
 
-In the period that followed, however, they did not escape; rather, as if Fortune were deliberately exacting requital, she seemed to come down heavily upon them—matters of which we shall make mention in what follows. —
+In the period that followed, however, they did not escape; rather, as if Fortune were deliberately exacting requital, she seemed to come down heavily upon them—matters of which we shall make mention in what follows.
 
 The majority put forward, as the pretext for their estrangement from the Romans, the killing of Brachylles and the campaign that Titus made against Coronea on account of the murders of Romans that were taking place on the roads; but in truth they were diseased in their souls because of the causes already described.
 
-For when the king drew near, the leading men of the Boeotians went out to meet him; and after joining him and conversing in a friendly manner, they conducted him into Thebes. —
+For when the king drew near, the leading men of the Boeotians went out to meet him; and after joining him and conversing in a friendly manner, they conducted him into Thebes.
 
 ## Book 20 Chapter 8: Antiochus Marries at Chalcis
 
@@ -18079,7 +18079,7 @@ But Lucius cut their enthusiasm short, saying that this kind of pleading did not
 
 He therefore advised them to give up arguing the rights of their case and to turn instead to the language of entreaty, begging the general to grant them pardon for their offenses.
 
-After discussing their predicament at still greater length, the Aetolians decided to entrust the whole matter to Manius, committing themselves to the good faith of the Romans— not knowing what force this carried, but misled by the word “faith,” as though through it a more complete mercy would be extended to them.
+After discussing their predicament at still greater length, the Aetolians decided to entrust the whole matter to Manius, committing themselves to the good faith of the Romans—not knowing what force this carried, but misled by the word “faith,” as though through it a more complete mercy would be extended to them.
 
 But among the Romans, to put oneself into another’s “faith” carries exactly the same force as to hand over to the victor full discretion over oneself.
 
@@ -18342,7 +18342,7 @@ After this Seleucus remained in that district, while Antiochus continued his mar
 
 There, having moved into a rich and prosperous region full of resources, he filled his army with every kind of plunder.
 
-## Book 21 Chapter 11: Prusias Refuses To Help Antiochus
+## Book 21 Chapter 11: Prusias Refuses to Help Antiochus
 
 When King Antiochus returned to Sardis from the expedition just mentioned, he kept sending messages to Prusias, urging him to join his alliance.
 
@@ -18374,7 +18374,7 @@ Antiochus, having failed in this hope, came to Ephesus; and reflecting that only
 
 Polybius says that when the pirates caught sight of the Roman ships sailing toward them, they suddenly turned and made their retreat.
 
-## Book 21 Chapter 13: Antiochus Sends an Envoy To Discuss Peace
+## Book 21 Chapter 13: Antiochus Sends an Envoy to Discuss Peace
 
 After his defeat in the sea battle Antiochus stayed at Sardis, wasting time and delaying in the larger conduct of the war.
 
@@ -18402,7 +18402,7 @@ This happened to Publius then. Just as the army was about to cross over, that sa
 
 As a result, Scipio was separated from the army and remained in Europe, while the forces that had crossed stayed where they were and could do nothing further, awaiting the arrival of the man just mentioned.
 
-## Book 21 Chapter 14: Antiochus Tries To Negotiate
+## Book 21 Chapter 14: Antiochus Tries to Negotiate
 
 After some days, when Publius had arrived, Heracleides was summoned before the council and spoke on the instructions he carried.
 
@@ -18472,7 +18472,7 @@ In the end they simply asked what Antiochus must do to obtain peace and friendsh
 
 The men in the council had already sat together and deliberated about these matters, and now instructed Publius to set out the decision.
 
-## Book 21 Chapter 17: The Roman Terms To Antiochus
+## Book 21 Chapter 17: The Roman Terms to Antiochus
 
 Publius said that the Romans never became harsher after victory [...]
 
@@ -18522,7 +18522,7 @@ It was resolved to invite Eumenes again and encourage him to speak freely about 
 
 After this decision he was called back in, and when one of the elder senators explained the resolution, he was compelled to speak on the matter.
 
-## Book 21 Chapter 19: King Eumenes In the Senate
+## Book 21 Chapter 19: King Eumenes in the Senate
 
 So he was forced to address the question. He said that he would add nothing further on his own concerns, but would remain [...] entirely leaving those matters in Roman hands. One point only troubled him—the question of the Rhodians.
 
@@ -18706,7 +18706,7 @@ So they decided to send to the Rhodians and the Athenians, asking and urging the
 
 At the same time they sent envoys of their own again to Rome—Alexander, called Isius, Phaeneas, Chalepus, Alypus the Ambraciot, and Lycopus.
 
-## Book 21 Chapter 26: Fulvius Aims to Fight at Ambracia
+## Book 21 Chapter 26: Fulvius Marches on Ambracia; Alexander Refuses Ransom
 
 When envoys from Epirus came to the Roman general, he consulted with them about the campaign against the Aetolians.
 
@@ -19020,7 +19020,7 @@ When she came to her husband and laid the head before him, he marveled and said,
 
 Polybius says that he himself met and spoke with this woman at Sardis and admired both her spirit and her intelligence.
 
-## Book 21 Chapter 39: Attempted Treachery By the Galatians
+## Book 21 Chapter 39: Attempted Treachery by the Galatians
 
 After the Romans had won their victory over the Galatians and were encamped near the city of Ancyra, with Gnaeus the commander preparing to advance farther, envoys came from the Tectosages asking Gnaeus to leave his forces where they were, but on the following day to come himself to the space between the camps. Their kings, they said, would also come and discuss terms of settlement.
 
@@ -19048,11 +19048,11 @@ The same thing happened on this occasion too, and since many had gone out, the m
 
 By this chance, what was needed for the danger at hand came to pass of itself.
 
-## Book 21 Chapter 40: A Proverb from the Ariarathes Affair
+## Book 21 Chapter 40: A Fragment on the Ariarathes Affair
 
 [...] of the affair concerning Ariarathes [...] into the proverb: for having [...] they became [...] to their enemies.
 
-## Book 21 Chapter 41: Embassies Crown Manlius at Ephesus
+## Book 21 Chapter 41: Embassies Bring Crowns and Seek Terms at Ephesus
 
 Olympiad 147, year 4. Affairs in Asia.
 
@@ -19231,11 +19231,13 @@ How Areus and Alcibiades, two of the earlier exiles from Sparta, went as envoys 
 
 ## Book 22 Chapter 2: Roman Envoys Meet the Achaeans at Cleitor
 
+Olympiad 148, year 1. Affairs in Greece.
+
 In the 148th Olympiad Roman envoys arrived at Cleitor, and a synod of the Achaeans was held.
 
 Their speeches on both sides about Spartan affairs, and the decisions taken by the Achaeans, are given here in summary.
 
-## Book 22 Chapter 3: Sparta and the League
+## Book 22 Chapter 3: Spartans Complain at Rome; Ptolemy Renews the Alliance
 
 After the execution of the men at Compasium, some Spartans were offended by what had happened and thought that Philopoemen had destroyed both the power and the leadership of Sparta. So they went to Rome and brought charges against Philopoemen and his measures.
 
@@ -19255,7 +19257,7 @@ During the gathering, when mention was made of the king, the envoy launched into
 
 At the end he gave as proof of what he had said that once, while hunting, the king had struck a bull from horseback squarely with a javelin.
 
-## Book 22 Chapter 4: The Murderers of Brachylles
+## Book 22 Chapter 4: Boeotia Defies Rome over Zeuxippus
 
 In Boeotia, after the Romans had completed their treaty with Antiochus and the hopes of all those bent on revolution had been cut away, the governments of the cities began to take on a different spirit and direction.
 
@@ -19595,7 +19597,7 @@ For it seems to me that there is a very great difference in moral choice between
 
 But because of the lack of judgment now common among men, the things just mentioned, though they have very little in common, receive the same approval and the same eager admiration.
 
-## Book 22 Chapter 20: Apollonias, Widow of Attalus
+## Book 22 Chapter 20: Apollonis, Widow of Attalus
 
 Affairs in Asia.
 
@@ -19912,17 +19914,17 @@ Affairs in Greece.
 
 Polybius says that he rose and went on ahead, weighed down partly by sickness and partly by age, for he was in his seventieth year.
 
-But mastering his weakness by force of his old habit, he came from Argos to Megalopolis in a single day. —
+But mastering his weakness by force of his old habit, he came from Argos to Megalopolis in a single day.
 
 Philopoemen, general of the Achaeans, was captured by the Messenians and killed with poison, a man inferior to none of his predecessors in virtue, though weaker than Fortune, even though throughout his earlier life she had seemed to work with him.
 
 It seems to me that the common proverb is right: a human being may meet with success, but to be successful to the very end is impossible.
 
-Therefore we should call the men of old fortunate, not as though any of them enjoyed unbroken good fortune—for why should we vainly flatter Fortune with a false phrase?— but rather those who have had her favorable for the longest part of life, and who, when she does change her mind, encounter only moderate disasters. —
+Therefore we should call the men of old fortunate, not as though any of them enjoyed unbroken good fortune—for why should we vainly flatter Fortune with a false phrase?— but rather those who have had her favorable for the longest part of life, and who, when she does change her mind, encounter only moderate disasters.
 
-[...] Lycortas, who was in no way inferior to him. —
+[...] Lycortas, who was in no way inferior to him.
 
-Philopoemen, after seeking distinction continuously for forty years in a democratic and many-sided political system, completely escaped the envy of the masses in every respect, though for the most part he conducted public affairs not by courting favor, but with frankness. And that is something one would rarely find. —
+Philopoemen, after seeking distinction continuously for forty years in a democratic and many-sided political system, completely escaped the envy of the masses in every respect, though for the most part he conducted public affairs not by courting favor, but with frankness. And that is something one would rarely find.
 
 ## Book 23 Chapter 13: Character of Hannibal
 
@@ -19932,7 +19934,7 @@ It is remarkable, and the strongest possible sign that this man was born to comm
 
 Publius, after pursuing distinction in an aristocratic constitution, won such goodwill from the masses and such trust from the Senate that, when someone undertook to prosecute him before the people according to Roman custom and made many harsh and bitter accusations, he came forward and said only that it was not fitting for the Roman people to listen to anyone accusing Publius Cornelius Scipio, the man through whom the accusers themselves possessed the freedom to speak.
 
-On hearing this, the crowd at once broke up and all left the assembly, leaving the accuser there alone. —
+On hearing this, the crowd at once broke up and all left the assembly, leaving the accuser there alone.
 
 On another occasion, when in the Senate there was a need for money for an urgent public purpose, and the quaestor said that because of a certain law he would not open the treasury on that day, Scipio said that he himself would take the keys and open it, for he himself had been the cause of the treasury’s being shut at all.
 
@@ -19942,13 +19944,13 @@ When the man kept pressing him and told him to produce it, Scipio ordered his br
 
 As a result, not only were all the others struck silent with amazement, but even the man who had demanded the account said no more.
 
-Let this be said by us both for the sake of the glory of these departed men and to stir later generations toward noble actions. —
+Let this be said by us both for the sake of the glory of these departed men and to stir later generations toward noble actions.
 
 ## Book 23 Chapter 15: Polybius Condemns Ravaging Crops and Trees
 
 It is not right to destroy the crops of those opposed to you. For *Polybius says,* “For my part I never agree with those who carry their anger against their own people so far that they not only strip their enemies of the year’s produce, but even destroy the trees and the built works, leaving no room for repentance.
 
-Those who do such things seem to me gravely mistaken. For to the same degree that they think they are terrifying their enemies by ravaging the land and taking away not only present means of life but future hopes as well, to that same degree they make men savage and turn the anger of those who have once gone astray into something unchangeable.” —
+Those who do such things seem to me gravely mistaken. For to the same degree that they think they are terrifying their enemies by ravaging the land and taking away not only present means of life but future hopes as well, to that same degree they make men savage and turn the anger of those who have once gone astray into something unchangeable.”
 
 ## Book 23 Chapter 16: Lycortas Defeats Messene
 
@@ -19968,7 +19970,7 @@ The general therefore immediately took possession of the citadel and led the pel
 
 After that he took selected men from the camp, entered the city, gathered the populace together, and addressed them in language suitable to the crisis, promising that they would never regret the confidence they were placing in him.
 
-The final decision on the whole issue he referred to the nation—for by what was almost a coincidence the Achaeans were again assembling at Megalopolis for the second synod— but as for those charged with responsibility, all who had taken part in the immediate killing of Philopoemen he ordered to remove themselves from life at once [...] —
+The final decision on the whole issue he referred to the nation—for by what was almost a coincidence the Achaeans were again assembling at Megalopolis for the second synod— but as for those charged with responsibility, all who had taken part in the immediate killing of Philopoemen he ordered to remove themselves from life at once [...]
 
 ## Book 23 Chapter 17: Arguments For and Against Admitting Sparta
 
@@ -20009,7 +20011,7 @@ And the exiles sent Cletis and Diactorius to appear in the Senate in opposition 
 
 Modern English translation of the Greek text.
 
-## Book 24 Chapter 1: The Spartan Exiles Refused
+## Book 24 Chapter 1: The Senate Hears the Spartans and the Kings
 
 Olympiad 149, year 3. Affairs in Italy.
 
@@ -20209,7 +20211,7 @@ But if we ourselves condemn our own rights from the outset and immediately, like
 
 Therefore, he said, one must either concede this: that no justice has any force with the Romans; or, if one does not dare say that, one must make use of what is just and not abandon one’s own cause, especially when we possess the greatest and noblest advantages in dealing with Rome.
 
-For he said that he knew clearly this time would one day come for the Greeks, when they would be forced to do everything commanded.
+For he said that he knew clearly that this time would one day come for the Greeks, when they would be forced to do everything commanded.
 
 “But would one wish to see that time come as quickly as possible, or as slowly as possible? Surely,” he said, “as slowly as possible.”
 
@@ -20432,7 +20434,7 @@ And if, he says, he became aware that some young men were feasting together anyw
 
 Modern English translation of the Greek text.
 
-## Book 27 Chapter 1: Affairs In Boeotia: The War with Perseus
+## Book 27 Chapter 1: Boeotian Envoys Offer Their Cities to Rome
 
 Olympiad 152, year 1. The war with Perseus.
 
@@ -20801,7 +20803,7 @@ They did not dare to do this, however, because they had no reasonable pretext ag
 
 So when the council was assembled for them at Aegium, they addressed the Achaeans in a speech at once cordial and exhortatory, and then sailed away to Aetolia.
 
-## Book 28 Chapter 4: Discussion of the Aetolian Congress
+## Book 28 Chapter 4: Thoas Stoned at the Aetolian Assembly
 
 And again, when an assembly had been convened for them at Thermon, they came before the people and delivered speeches full of exhortation and professions of goodwill.
 
@@ -20925,7 +20927,7 @@ Perseus, after suffering a general failure when the Romans entered Macedonia, la
 
 But it seems to me easy enough to criticize other people and to detect the mistakes of one’s neighbors; the hardest thing of all is to do what one can oneself and to understand one’s own position. That, too, is what happened in the case of Perseus.
 
-## Book 28 Chapter 11: Heracleum Captured by the Testudo
+## Book 28 Chapter 11: Heracleum Taken by the Tiled-Roof Formation
 
 Heracleum was taken in a rather unusual way. On one side of the city the wall was low for a short stretch, and the Romans selected three detachments for the assault.
 
@@ -21031,7 +21033,7 @@ And when Agepolis happened to let slip to some of his friends that he had receiv
 
 So they sent envoys to Alexandria as well, to put an end to the war then being fought between Antiochus and Ptolemy.
 
-## Book 28 Chapter 18: Antiochus IV. Epiphanes
+## Book 28 Chapter 18: A Verdict on Antiochus Epiphanes
 
 King Antiochus was energetic in action, bold in his designs, and worthy of the royal office, except in his operations around Pelusium.
 
@@ -21051,7 +21053,7 @@ King Ptolemy also sent Tlepolemus and Ptolemy the rhetorician as envoys.
 
 These men accordingly sailed up the river to meet him.
 
-## Book 28 Chapter 20: Antiochus Epiphanes In Egypt
+## Book 28 Chapter 20: Antiochus Epiphanes in Egypt
 
 At the time when Antiochus occupied Egypt, those of the envoys from Greece who had been sent to arrange a settlement came to meet him. He received the men graciously and made their first reception notably splendid.
 
@@ -21085,7 +21087,7 @@ For when a man, far removed from danger and at so great a distance from his enem
 
 But since his later actions cleared nature of the charge, showing that Ptolemy was in fact steadfast enough and brave in danger, it is plain that one may reasonably trace the cause of the cowardice he showed at that time, and of his impulse to flee to Samothrace, to the eunuch and to the companionship in which he had been raised.
 
-## Book 28 Chapter 22: Antiochus Leaves Alexandria
+## Book 28 Chapter 22: Antiochus Sends Envoys and Gifts to Rome
 
 After leaving off the siege of Alexandria, Antiochus sent envoys to Rome.
 
@@ -21300,7 +21302,7 @@ Meanwhile Perseus, seeing that Aemilius was staying still and not reckoning with
 
 Polybius says that the Romans fell on them while they were still asleep, but Nasica says there was a sharp fight and real danger on the heights.
 
-## Book 29 Chapter 16: Battle of Pydna
+## Book 29 Chapter 16: Eclipse Rumor Unnerves the Macedonians
 
 *Quoted by Suidas, Lexicon.*
 
@@ -21388,7 +21390,7 @@ For just when he believed that his own rule was now secure and that the coming y
 
 ## Book 29 Chapter 23: The Ptolemies Ask Help From Achaea
 
-In the Peloponnese, during the winter, ambassadors arrived from both kings—Ptolemy and Ptolemy—asking for help, and this led to repeated and highly spirited debates.
+In the Peloponnese, during the winter, ambassadors arrived from both kings, asking for help, and this led to repeated and highly spirited debates.
 
 The party around Callicrates, Diophanes, and Hyperbatus did not like the idea of granting aid.
 
@@ -21533,7 +21535,7 @@ But if he should now fall into faction and quarrel with his brother, it was obvi
 
 By pressing these points and others like them, Stratius persuaded Attalus to remain with the existing arrangement.
 
-## Book 30 Chapter 3: Attalus At Rome
+## Book 30 Chapter 3: Attalus at Rome
 
 Accordingly, when the man already mentioned entered the Senate, he congratulated it on what had happened and defended the goodwill and zeal he had personally shown in the war against Perseus.
 
@@ -21583,7 +21585,7 @@ This kind of defense, however, would never seem fitting for a statesman.
 
 Even in cases where men have acted together in certain secret matters, we do not praise those who, out of fear or for profit, turn informer against their accomplices; rather, we approve those who accept every torture and punishment and do not make any of their fellow-plotters share the same disaster. These are the men we accept; these are the men we consider noble. But the man who, because of some vague fear, lays all other people’s errors before those in power and revives matters that time was carrying off into forgetfulness among the rulers—how could he fail to offend all who hear of it?
 
-## Book 30 Chapter 5: The Rhodians Try To Excuse Themselves
+## Book 30 Chapter 5: Rhodes Seeks an Alliance as Caunus Revolts
 
 After receiving the reply already mentioned, the party with Philocrates set out home at once, while Philophron, Astymedes, and their associates stayed where they were, keeping close watch so that nothing said or done against their country would escape their notice.
 
@@ -21731,7 +21733,7 @@ And not long before, after having tasted one another’s blood in the massacres 
 
 That is why conditions in Aetolia were full of disorder, lawlessness, and murder, and nothing they did was carried out with calculation or settled purpose. Everything was done blindly and in confusion, as if some violent storm had burst upon them.
 
-## Book 30 Chapter 12: Epirus Also In Turmoil
+## Book 30 Chapter 12: Epirus Also in Turmoil
 
 The people of Epirus were acting in much the same way.
 
@@ -22803,7 +22805,7 @@ For they had the audacity to say absolutely anything on any subject, paying no r
 
 So, with falsehood winning the day almost without a struggle, they thought the affair was proceeding exactly as they wished.
 
-## Book 32 Chapter 11: Orophernes’ Ruin and the Oropus Affair
+## Book 32 Chapter 11: Orophernes’ Ruin and Prelude to Oropus
 
 Many men, through their craving for ever more and their overbearing spirit, have been ensnared by wealth; Orophernes, king of Cappadocia, was caught in this trap, ruined, and driven from his kingdom.
 
@@ -22894,7 +22896,7 @@ Modern English translation of the Greek text.
 
 *Chapter 2 of this book is absent from the Greek source and is not translated.*
 
-## Book 33 Chapter 1: War Against Attalus Prevented
+## Book 33 Chapter 1: Prusias Warned; Release of Detainees Blocked
 
 Olympiad 156, year 1. Affairs in Italy.
 
@@ -22912,7 +22914,7 @@ For there were three proposals: one urged that the men be released, another urge
 
 As a result, those who had favored postponement for the present joined those who said the men should not be released, and they became more numerous than the supporters of release. That was the outcome in this matter.
 
-## Book 33 Chapter 3: Release of Achaeans Refused
+## Book 33 Chapter 3: Achaean Hopes Rise After Near Release
 
 When the ambassadors returned from Rome to Achaea and made it clear that matters had come very close to ending in the return of all the detained men, most people became hopeful and elated, and at once sent Telecles and Anaxidamus of Megalopolis again. That was the state of affairs in the Peloponnese.
 
@@ -22930,7 +22932,7 @@ But they were disappointed in their hopes. For when he came to practical action,
 
 [...] to offer him five hundred talents if he would surrender Cyprus, and to make it clear that other profitable and honorable rewards would also follow from Demetrius if he rendered this service.
 
-When Ptolemy received notice that Archias was present—
+When Ptolemy received notice that Archias was present [...]
 
 Archias, wishing to betray Cyprus to Demetrius, was detected and brought up for trial; but he hanged himself with one of the ropes from the palace awnings.
 
@@ -22970,7 +22972,7 @@ They had long been suffering at the hands of the Ligurians, and at that time the
 
 When these envoys appeared before the Senate, the council decided to send legates who would both see the situation for themselves and also try by negotiation to correct the ignorance of the barbarians.
 
-## Book 33 Chapter 9: The Senate Appoints Commissioners to Stop the War
+## Book 33 Chapter 9: Ligurians Attack the Commissioners at Aegitna
 
 When the people of Massalia sent envoys to Rome to report that they were being mistreated by the Ligurians, the Romans immediately appointed Flaminius, Popilius Laenas, and Lucius Popius as commissioners.
 
@@ -23590,7 +23592,7 @@ After they had thus resolved on war, they first decided to send another commande
 
 They then set about their preparations with enthusiasm and on a grand scale, thinking that the fate of Iberia would be decided by this campaign: if the enemy were beaten, they believed that everyone would do what Rome ordered; but if the Arevacae succeeded in escaping the punishment hanging over them, not only would their own spirit revive, but so would that of all the other tribes as well.
 
-## Book 35 Chapter 4: Scipio Volunteers For Spain
+## Book 35 Chapter 4: Scipio Volunteers for Spain
 
 The more eagerly the Senate took up the war, the stranger the events became for them.
 
@@ -23612,7 +23614,7 @@ But, he said, the needs of his own country were more urgent, and they called tho
 
 This offer, unexpected from every point of view because of Scipio’s age and his general caution, immediately won him great approval, and still more in the days that followed; the men who had earlier shrunk from danger, in order to avoid the disgrace of being compared with him, now began volunteering for service, some offering to serve as legates to the commanders and others joining the military register in groups and customary circles.
 
-## Book 35 Chapter 5: Scipio’s Spanish Campaign
+## Book 35 Chapter 5: Scipio and the Single Combat
 
 *Quoted by Suidas, Lexicon.*
 
@@ -23639,7 +23641,7 @@ He smiled and said that Polybius, like another Odysseus, wanted to go back into 
 
 Modern English translation of the Greek text.
 
-## Book 36 Chapter 1: The Third Punic War
+## Book 36 Chapter 1: Why Polybius Does Not Rely on Set Speeches
 
 Some may perhaps ask why I have not made use of dramatic speeches in narrating a subject and events of such importance.
 
@@ -23719,7 +23721,7 @@ When they reached Lilybaeum, the consuls handed them over to Quintus Fabius Maxi
 
 He conveyed them safely to Rome and had them all confined together in the dockyard of the sixteen-banked ship [...]
 
-## Book 36 Chapter 6: The Roman Army In Africa
+## Book 36 Chapter 6: Carthage Surrenders Its Arms to the Consuls
 
 Once the hostages had been disposed of there, the generals brought their fleet to the citadel of Utica.
 
@@ -23745,7 +23747,7 @@ All of them, crying out together, were at once as though paralyzed.
 
 Then, as the report quickly spread through the people, the stupor no longer lasted: some rushed at the envoys, as though they were the guilty cause of the city’s disasters, others turned their anger on the Italians who had been seized in the city, and still others toward the gates of the city [...].
 
-## Book 36 Chapter 8: Character of Hamilcar Phameas
+## Book 36 Chapter 8: Hamilcar Phameas and Scipio’s Prudence
 
 Hamilcar, also called Phameas, the Carthaginian general, was in the prime of life, strong in body, and, most importantly for war, an excellent and daring horseman.
 
@@ -23810,8 +23812,6 @@ But three or four months later, when a report arrived that he had defeated the M
 Not long afterward another report arrived, saying that he was defeating the Macedonians in battle on this side of the Strymon and had control of all Macedonia; and when letters and envoys came from the Thessalians to the Achaeans asking for help because danger threatened them too, the event seemed astonishing and incredible.
 
 For there was no appearance of probability or any reasonable explanation for what had happened. Such, then, were the feelings about these matters.
-
-—
 
 ## Book 36 Chapter 11: Polybius Summoned to Lilybaeum
 
@@ -23987,7 +23987,7 @@ Some time later the Thebans saw their own city utterly laid waste, when Alexande
 
 But at that time everyone pitied the Thebans as men who had suffered unjust and terrible treatment, and no one defended this act of Alexander’s as just.
 
-## Book 38 Chapter 3: The Shameful Collapse of Peloponnesians and Boeotians
+## Book 38 Chapter 3: Pity for Misfortune, Shame for Folly
 
 They therefore, after a short time and with some help received, once again lived in their homeland in safety.
 
@@ -24248,7 +24248,7 @@ Some were even handing one another over to the enemy as if they had become stran
 
 Everything was full of a strange madness: people were throwing themselves into wells and off cliffs, so that, as the proverb says, even an enemy could be moved to pity by the calamity then overtaking Greece.
 
-For in earlier times they had sometimes stumbled and gone wrong in general matters, sometimes through disputes over power and sometimes through betrayal by monarchs; but in the present period they suffered a acknowledged disaster because of the foolishness of those in charge and because of their own ignorance.
+For in earlier times they had sometimes stumbled and gone wrong in general matters, sometimes through disputes over power and sometimes through betrayal by monarchs; but in the present period they suffered an acknowledged disaster because of the foolishness of those in charge and because of their own ignorance.
 
 The Thebans abandoned the city en masse and left it completely deserted; among them Pytheas, after retreating to the Peloponnese with his wife and children, wandered about the country.
 
@@ -24324,15 +24324,15 @@ At that moment, seeing Hasdrubal seated with the general, his wife came forward 
 
 At first she addressed Hasdrubal by name, but when he remained silent and looked down at the ground, she called on the gods and thanked the general greatly, because, as far as it rested with him, not only she herself but also the children were being saved; then, after a short pause, she asked Hasdrubal how, without saying a word to her, he had deserted and privately secured his own safety from the general, and how he could so shamelessly abandon affairs and the citizens who had trusted him and go over to the enemy, and how, after that, he dared now to sit beside these men holding suppliant branches, men to whom he had [...] many times that the day would never come when the sun would see Hasdrubal alive and his fatherland burning at the same time; and yet [...]
 
-[...] the rest of the passage is badly broken in the witness, but it clearly continues with reproaches about his shameful conduct and the children, and with the crowd’s sympathy for the disaster and for Fortune’s reversal.
+*The rest of the passage is badly damaged in the Greek text; the legible words include her charge that he has acted shamefully and disgracefully, a mention of the children, and those present being moved to sympathy by the reversal of Fortune.*
 
 ## Book 38 Chapter 21: Fortune’s Instability and the Great Man
 
 [...] Polybius says [...] that [...] finer than this [...] and this has been said by the poet: [...] And turning at once and grasping my right hand, he said, “Polybius, it is a fine thing; but somehow I fear and foresee that someday someone else will give this same order about our own country.”
 
-No clearer or more practical lesson than this is easy to state.
+No more practical or wiser saying than this is easy to name.
 
-For to take account, in the midst of great achievements and the calamities of one’s enemies, of one’s own affairs and of the opposite condition, and in general to keep the instability of Fortune before one’s eyes amid success, is the mark of a great and complete man, and one worthy of remembrance. —
+For to take account, in the midst of great achievements and the calamities of one’s enemies, of one’s own affairs and of the opposite condition, and in general to keep the instability of Fortune before one’s eyes amid success, is the mark of a great and complete man, and one worthy of remembrance.
 
 ## Book 38 Chapter 22: Scipio Weeps over Carthage
 

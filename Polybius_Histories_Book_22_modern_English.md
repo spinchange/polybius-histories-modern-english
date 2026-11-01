@@ -26,11 +26,13 @@ How Areus and Alcibiades, two of the earlier exiles from Sparta, went as envoys 
 
 ## Book 22 Chapter 2: Roman Envoys Meet the Achaeans at Cleitor
 
+Olympiad 148, year 1. Affairs in Greece.
+
 In the 148th Olympiad Roman envoys arrived at Cleitor, and a synod of the Achaeans was held.
 
 Their speeches on both sides about Spartan affairs, and the decisions taken by the Achaeans, are given here in summary.
 
-## Book 22 Chapter 3: Sparta and the League
+## Book 22 Chapter 3: Spartans Complain at Rome; Ptolemy Renews the Alliance
 
 After the execution of the men at Compasium, some Spartans were offended by what had happened and thought that Philopoemen had destroyed both the power and the leadership of Sparta. So they went to Rome and brought charges against Philopoemen and his measures.
 
@@ -50,7 +52,7 @@ During the gathering, when mention was made of the king, the envoy launched into
 
 At the end he gave as proof of what he had said that once, while hunting, the king had struck a bull from horseback squarely with a javelin.
 
-## Book 22 Chapter 4: The Murderers of Brachylles
+## Book 22 Chapter 4: Boeotia Defies Rome over Zeuxippus
 
 In Boeotia, after the Romans had completed their treaty with Antiochus and the hopes of all those bent on revolution had been cut away, the governments of the cities began to take on a different spirit and direction.
 
@@ -390,7 +392,7 @@ For it seems to me that there is a very great difference in moral choice between
 
 But because of the lack of judgment now common among men, the things just mentioned, though they have very little in common, receive the same approval and the same eager admiration.
 
-## Book 22 Chapter 20: Apollonias, Widow of Attalus
+## Book 22 Chapter 20: Apollonis, Widow of Attalus
 
 Affairs in Asia.
 

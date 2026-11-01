@@ -46,7 +46,7 @@ But if he should now fall into faction and quarrel with his brother, it was obvi
 
 By pressing these points and others like them, Stratius persuaded Attalus to remain with the existing arrangement.
 
-## Book 30 Chapter 3: Attalus At Rome
+## Book 30 Chapter 3: Attalus at Rome
 
 Accordingly, when the man already mentioned entered the Senate, he congratulated it on what had happened and defended the goodwill and zeal he had personally shown in the war against Perseus.
 
@@ -96,7 +96,7 @@ This kind of defense, however, would never seem fitting for a statesman.
 
 Even in cases where men have acted together in certain secret matters, we do not praise those who, out of fear or for profit, turn informer against their accomplices; rather, we approve those who accept every torture and punishment and do not make any of their fellow-plotters share the same disaster. These are the men we accept; these are the men we consider noble. But the man who, because of some vague fear, lays all other people’s errors before those in power and revives matters that time was carrying off into forgetfulness among the rulers—how could he fail to offend all who hear of it?
 
-## Book 30 Chapter 5: The Rhodians Try To Excuse Themselves
+## Book 30 Chapter 5: Rhodes Seeks an Alliance as Caunus Revolts
 
 After receiving the reply already mentioned, the party with Philocrates set out home at once, while Philophron, Astymedes, and their associates stayed where they were, keeping close watch so that nothing said or done against their country would escape their notice.
 
@@ -244,7 +244,7 @@ And not long before, after having tasted one another’s blood in the massacres 
 
 That is why conditions in Aetolia were full of disorder, lawlessness, and murder, and nothing they did was carried out with calculation or settled purpose. Everything was done blindly and in confusion, as if some violent storm had burst upon them.
 
-## Book 30 Chapter 12: Epirus Also In Turmoil
+## Book 30 Chapter 12: Epirus Also in Turmoil
 
 The people of Epirus were acting in much the same way.
 

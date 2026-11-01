@@ -40,7 +40,7 @@ Being defeated in the battle, they were so crushed in spirit that, from that cam
 
 Instead, having given themselves over to feasting and drunkenness, they grew slack not only in their bodies but in their souls as well.
 
-## Book 20 Chapter 5: Continued Decline of Boeotia
+## Book 20 Chapter 5: Neon Spares the Stranded Antigonus
 
 The main stages of the Boeotians’ gradual decline into folly came about among them in the following way.
 
@@ -96,11 +96,11 @@ But when a panic fell upon them, together with a rumor that Philopoemen had arri
 
 With their politics in such a condition, the Boeotians somehow slipped through, by good luck, even the crises of the times of Philip and of Antiochus.
 
-In the period that followed, however, they did not escape; rather, as if Fortune were deliberately exacting requital, she seemed to come down heavily upon them—matters of which we shall make mention in what follows. —
+In the period that followed, however, they did not escape; rather, as if Fortune were deliberately exacting requital, she seemed to come down heavily upon them—matters of which we shall make mention in what follows.
 
 The majority put forward, as the pretext for their estrangement from the Romans, the killing of Brachylles and the campaign that Titus made against Coronea on account of the murders of Romans that were taking place on the roads; but in truth they were diseased in their souls because of the causes already described.
 
-For when the king drew near, the leading men of the Boeotians went out to meet him; and after joining him and conversing in a friendly manner, they conducted him into Thebes. —
+For when the king drew near, the leading men of the Boeotians went out to meet him; and after joining him and conversing in a friendly manner, they conducted him into Thebes.
 
 ## Book 20 Chapter 8: Antiochus Marries at Chalcis
 
@@ -136,7 +136,7 @@ But Lucius cut their enthusiasm short, saying that this kind of pleading did not
 
 He therefore advised them to give up arguing the rights of their case and to turn instead to the language of entreaty, begging the general to grant them pardon for their offenses.
 
-After discussing their predicament at still greater length, the Aetolians decided to entrust the whole matter to Manius, committing themselves to the good faith of the Romans— not knowing what force this carried, but misled by the word “faith,” as though through it a more complete mercy would be extended to them.
+After discussing their predicament at still greater length, the Aetolians decided to entrust the whole matter to Manius, committing themselves to the good faith of the Romans—not knowing what force this carried, but misled by the word “faith,” as though through it a more complete mercy would be extended to them.
 
 But among the Romans, to put oneself into another’s “faith” carries exactly the same force as to hand over to the victor full discretion over oneself.
 

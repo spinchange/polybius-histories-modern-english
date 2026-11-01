@@ -4,7 +4,7 @@ Modern English translation of the Greek text.
 
 *Chapter 2 of this book is absent from the Greek source and is not translated.*
 
-## Book 33 Chapter 1: War Against Attalus Prevented
+## Book 33 Chapter 1: Prusias Warned; Release of Detainees Blocked
 
 Olympiad 156, year 1. Affairs in Italy.
 
@@ -22,7 +22,7 @@ For there were three proposals: one urged that the men be released, another urge
 
 As a result, those who had favored postponement for the present joined those who said the men should not be released, and they became more numerous than the supporters of release. That was the outcome in this matter.
 
-## Book 33 Chapter 3: Release of Achaeans Refused
+## Book 33 Chapter 3: Achaean Hopes Rise After Near Release
 
 When the ambassadors returned from Rome to Achaea and made it clear that matters had come very close to ending in the return of all the detained men, most people became hopeful and elated, and at once sent Telecles and Anaxidamus of Megalopolis again. That was the state of affairs in the Peloponnese.
 
@@ -40,7 +40,7 @@ But they were disappointed in their hopes. For when he came to practical action,
 
 [...] to offer him five hundred talents if he would surrender Cyprus, and to make it clear that other profitable and honorable rewards would also follow from Demetrius if he rendered this service.
 
-When Ptolemy received notice that Archias was present—
+When Ptolemy received notice that Archias was present [...]
 
 Archias, wishing to betray Cyprus to Demetrius, was detected and brought up for trial; but he hanged himself with one of the ropes from the palace awnings.
 
@@ -80,7 +80,7 @@ They had long been suffering at the hands of the Ligurians, and at that time the
 
 When these envoys appeared before the Senate, the council decided to send legates who would both see the situation for themselves and also try by negotiation to correct the ignorance of the barbarians.
 
-## Book 33 Chapter 9: The Senate Appoints Commissioners to Stop the War
+## Book 33 Chapter 9: Ligurians Attack the Commissioners at Aegitna
 
 When the people of Massalia sent envoys to Rome to report that they were being mistreated by the Ligurians, the Romans immediately appointed Flaminius, Popilius Laenas, and Lucius Popius as commissioners.
 

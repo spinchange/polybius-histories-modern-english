@@ -2,7 +2,7 @@
 
 Modern English translation of the Greek text.
 
-## Book 27 Chapter 1: Affairs In Boeotia: The War with Perseus
+## Book 27 Chapter 1: Boeotian Envoys Offer Their Cities to Rome
 
 Olympiad 152, year 1. The war with Perseus.
 

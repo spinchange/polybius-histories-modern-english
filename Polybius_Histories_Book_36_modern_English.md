@@ -2,7 +2,7 @@
 
 Modern English translation of the Greek text.
 
-## Book 36 Chapter 1: The Third Punic War
+## Book 36 Chapter 1: Why Polybius Does Not Rely on Set Speeches
 
 Some may perhaps ask why I have not made use of dramatic speeches in narrating a subject and events of such importance.
 
@@ -82,7 +82,7 @@ When they reached Lilybaeum, the consuls handed them over to Quintus Fabius Maxi
 
 He conveyed them safely to Rome and had them all confined together in the dockyard of the sixteen-banked ship [...]
 
-## Book 36 Chapter 6: The Roman Army In Africa
+## Book 36 Chapter 6: Carthage Surrenders Its Arms to the Consuls
 
 Once the hostages had been disposed of there, the generals brought their fleet to the citadel of Utica.
 
@@ -108,7 +108,7 @@ All of them, crying out together, were at once as though paralyzed.
 
 Then, as the report quickly spread through the people, the stupor no longer lasted: some rushed at the envoys, as though they were the guilty cause of the city’s disasters, others turned their anger on the Italians who had been seized in the city, and still others toward the gates of the city [...].
 
-## Book 36 Chapter 8: Character of Hamilcar Phameas
+## Book 36 Chapter 8: Hamilcar Phameas and Scipio’s Prudence
 
 Hamilcar, also called Phameas, the Carthaginian general, was in the prime of life, strong in body, and, most importantly for war, an excellent and daring horseman.
 
@@ -173,8 +173,6 @@ But three or four months later, when a report arrived that he had defeated the M
 Not long afterward another report arrived, saying that he was defeating the Macedonians in battle on this side of the Strymon and had control of all Macedonia; and when letters and envoys came from the Thessalians to the Achaeans asking for help because danger threatened them too, the event seemed astonishing and incredible.
 
 For there was no appearance of probability or any reasonable explanation for what had happened. Such, then, were the feelings about these matters.
-
-—
 
 ## Book 36 Chapter 11: Polybius Summoned to Lilybaeum
 

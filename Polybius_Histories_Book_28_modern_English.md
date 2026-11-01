@@ -60,7 +60,7 @@ They did not dare to do this, however, because they had no reasonable pretext ag
 
 So when the council was assembled for them at Aegium, they addressed the Achaeans in a speech at once cordial and exhortatory, and then sailed away to Aetolia.
 
-## Book 28 Chapter 4: Discussion of the Aetolian Congress
+## Book 28 Chapter 4: Thoas Stoned at the Aetolian Assembly
 
 And again, when an assembly had been convened for them at Thermon, they came before the people and delivered speeches full of exhortation and professions of goodwill.
 
@@ -184,7 +184,7 @@ Perseus, after suffering a general failure when the Romans entered Macedonia, la
 
 But it seems to me easy enough to criticize other people and to detect the mistakes of one’s neighbors; the hardest thing of all is to do what one can oneself and to understand one’s own position. That, too, is what happened in the case of Perseus.
 
-## Book 28 Chapter 11: Heracleum Captured by the Testudo
+## Book 28 Chapter 11: Heracleum Taken by the Tiled-Roof Formation
 
 Heracleum was taken in a rather unusual way. On one side of the city the wall was low for a short stretch, and the Romans selected three detachments for the assault.
 
@@ -290,7 +290,7 @@ And when Agepolis happened to let slip to some of his friends that he had receiv
 
 So they sent envoys to Alexandria as well, to put an end to the war then being fought between Antiochus and Ptolemy.
 
-## Book 28 Chapter 18: Antiochus IV. Epiphanes
+## Book 28 Chapter 18: A Verdict on Antiochus Epiphanes
 
 King Antiochus was energetic in action, bold in his designs, and worthy of the royal office, except in his operations around Pelusium.
 
@@ -310,7 +310,7 @@ King Ptolemy also sent Tlepolemus and Ptolemy the rhetorician as envoys.
 
 These men accordingly sailed up the river to meet him.
 
-## Book 28 Chapter 20: Antiochus Epiphanes In Egypt
+## Book 28 Chapter 20: Antiochus Epiphanes in Egypt
 
 At the time when Antiochus occupied Egypt, those of the envoys from Greece who had been sent to arrange a settlement came to meet him. He received the men graciously and made their first reception notably splendid.
 
@@ -344,7 +344,7 @@ For when a man, far removed from danger and at so great a distance from his enem
 
 But since his later actions cleared nature of the charge, showing that Ptolemy was in fact steadfast enough and brave in danger, it is plain that one may reasonably trace the cause of the cowardice he showed at that time, and of his impulse to flee to Samothrace, to the eunuch and to the companionship in which he had been raised.
 
-## Book 28 Chapter 22: Antiochus Leaves Alexandria
+## Book 28 Chapter 22: Antiochus Sends Envoys and Gifts to Rome
 
 After leaving off the siege of Alexandria, Antiochus sent envoys to Rome.
 

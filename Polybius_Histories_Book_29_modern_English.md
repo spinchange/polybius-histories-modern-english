@@ -190,7 +190,7 @@ Meanwhile Perseus, seeing that Aemilius was staying still and not reckoning with
 
 Polybius says that the Romans fell on them while they were still asleep, but Nasica says there was a sharp fight and real danger on the heights.
 
-## Book 29 Chapter 16: Battle of Pydna
+## Book 29 Chapter 16: Eclipse Rumor Unnerves the Macedonians
 
 *Quoted by Suidas, Lexicon.*
 
@@ -278,7 +278,7 @@ For just when he believed that his own rule was now secure and that the coming y
 
 ## Book 29 Chapter 23: The Ptolemies Ask Help From Achaea
 
-In the Peloponnese, during the winter, ambassadors arrived from both kings—Ptolemy and Ptolemy—asking for help, and this led to repeated and highly spirited debates.
+In the Peloponnese, during the winter, ambassadors arrived from both kings, asking for help, and this led to repeated and highly spirited debates.
 
 The party around Callicrates, Diophanes, and Hyperbatus did not like the idea of granting aid.
 

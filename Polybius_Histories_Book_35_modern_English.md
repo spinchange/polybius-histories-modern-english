@@ -54,7 +54,7 @@ After they had thus resolved on war, they first decided to send another commande
 
 They then set about their preparations with enthusiasm and on a grand scale, thinking that the fate of Iberia would be decided by this campaign: if the enemy were beaten, they believed that everyone would do what Rome ordered; but if the Arevacae succeeded in escaping the punishment hanging over them, not only would their own spirit revive, but so would that of all the other tribes as well.
 
-## Book 35 Chapter 4: Scipio Volunteers For Spain
+## Book 35 Chapter 4: Scipio Volunteers for Spain
 
 The more eagerly the Senate took up the war, the stranger the events became for them.
 
@@ -76,7 +76,7 @@ But, he said, the needs of his own country were more urgent, and they called tho
 
 This offer, unexpected from every point of view because of Scipio’s age and his general caution, immediately won him great approval, and still more in the days that followed; the men who had earlier shrunk from danger, in order to avoid the disgrace of being compared with him, now began volunteering for service, some offering to serve as legates to the commanders and others joining the military register in groups and customary circles.
 
-## Book 35 Chapter 5: Scipio’s Spanish Campaign
+## Book 35 Chapter 5: Scipio and the Single Combat
 
 *Quoted by Suidas, Lexicon.*
 

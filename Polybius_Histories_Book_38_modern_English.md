@@ -46,7 +46,7 @@ Some time later the Thebans saw their own city utterly laid waste, when Alexande
 
 But at that time everyone pitied the Thebans as men who had suffered unjust and terrible treatment, and no one defended this act of Alexander’s as just.
 
-## Book 38 Chapter 3: The Shameful Collapse of Peloponnesians and Boeotians
+## Book 38 Chapter 3: Pity for Misfortune, Shame for Folly
 
 They therefore, after a short time and with some help received, once again lived in their homeland in safety.
 
@@ -307,7 +307,7 @@ Some were even handing one another over to the enemy as if they had become stran
 
 Everything was full of a strange madness: people were throwing themselves into wells and off cliffs, so that, as the proverb says, even an enemy could be moved to pity by the calamity then overtaking Greece.
 
-For in earlier times they had sometimes stumbled and gone wrong in general matters, sometimes through disputes over power and sometimes through betrayal by monarchs; but in the present period they suffered a acknowledged disaster because of the foolishness of those in charge and because of their own ignorance.
+For in earlier times they had sometimes stumbled and gone wrong in general matters, sometimes through disputes over power and sometimes through betrayal by monarchs; but in the present period they suffered an acknowledged disaster because of the foolishness of those in charge and because of their own ignorance.
 
 The Thebans abandoned the city en masse and left it completely deserted; among them Pytheas, after retreating to the Peloponnese with his wife and children, wandered about the country.
 
@@ -383,15 +383,15 @@ At that moment, seeing Hasdrubal seated with the general, his wife came forward 
 
 At first she addressed Hasdrubal by name, but when he remained silent and looked down at the ground, she called on the gods and thanked the general greatly, because, as far as it rested with him, not only she herself but also the children were being saved; then, after a short pause, she asked Hasdrubal how, without saying a word to her, he had deserted and privately secured his own safety from the general, and how he could so shamelessly abandon affairs and the citizens who had trusted him and go over to the enemy, and how, after that, he dared now to sit beside these men holding suppliant branches, men to whom he had [...] many times that the day would never come when the sun would see Hasdrubal alive and his fatherland burning at the same time; and yet [...]
 
-[...] the rest of the passage is badly broken in the witness, but it clearly continues with reproaches about his shameful conduct and the children, and with the crowd’s sympathy for the disaster and for Fortune’s reversal.
+*The rest of the passage is badly damaged in the Greek text; the legible words include her charge that he has acted shamefully and disgracefully, a mention of the children, and those present being moved to sympathy by the reversal of Fortune.*
 
 ## Book 38 Chapter 21: Fortune’s Instability and the Great Man
 
 [...] Polybius says [...] that [...] finer than this [...] and this has been said by the poet: [...] And turning at once and grasping my right hand, he said, “Polybius, it is a fine thing; but somehow I fear and foresee that someday someone else will give this same order about our own country.”
 
-No clearer or more practical lesson than this is easy to state.
+No more practical or wiser saying than this is easy to name.
 
-For to take account, in the midst of great achievements and the calamities of one’s enemies, of one’s own affairs and of the opposite condition, and in general to keep the instability of Fortune before one’s eyes amid success, is the mark of a great and complete man, and one worthy of remembrance. —
+For to take account, in the midst of great achievements and the calamities of one’s enemies, of one’s own affairs and of the opposite condition, and in general to keep the instability of Fortune before one’s eyes amid success, is the mark of a great and complete man, and one worthy of remembrance.
 
 ## Book 38 Chapter 22: Scipio Weeps over Carthage
 
