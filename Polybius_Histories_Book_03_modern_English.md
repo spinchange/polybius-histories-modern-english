@@ -170,17 +170,15 @@ For that man’s spirit had not been broken by the war over Sicily, since he bel
 
 Now, had the upheaval over the mercenaries not broken out among the Carthaginians, he would at once have made a fresh beginning and begun preparations for action, so far as it lay in his power.
 
-## Book 3 Chapter 10: Second Cause of the War
+## Book 3 Chapter 10: Second and Third Causes of the War
 
-But he was forestalled by the civil disturbances, and in these he was occupied, taken up with those events. When the Romans, after the Carthaginians had put down the aforementioned disturbance, declared war on them, the Carthaginians at first were ready to face any extremity, supposing they would prevail on the justice of their cause, as we have explained concerning these matters in the earlier books— without which it would be impossible to follow properly either what is now being said or what we shall say hereafter.
+But he was forestalled by the civil disturbances, and his time was taken up with them. When the Romans, after the Carthaginians had put down the aforementioned disturbance, declared war on them, the Carthaginians at first were ready to face any extremity, supposing they would prevail on the justice of their cause, as we have explained concerning these matters in the earlier books—without which it would be impossible to follow properly either what is now being said or what we shall say hereafter.
 
 But since the Romans would not give way, the Carthaginians yielded to the circumstances, and though deeply aggrieved, being unable to do anything, they withdrew from Sardinia and agreed to pay another twelve hundred talents on top of the earlier sum, on condition of not having to take on the war at that time.
 
 This, then, must be reckoned the second—and the most important—cause of the war that later broke out.
 
-For Hamilcar, adding to his own private resentment the anger of his fellow citizens over these matters, as soon as he had subdued the rebellious mercenaries and secured his country’s safety, immediately set his energies on affairs in Iberia, eager to use it as a base of preparation for the war against the Romans. This too must be counted a cause—the third—
-
-I mean the prosperous course of Carthaginian affairs in Iberia. For it was by relying on the strength gained there that they confidently entered upon the aforementioned war.
+For Hamilcar, adding to his own private resentment the anger of his fellow citizens over these matters, as soon as he had subdued the rebellious mercenaries and secured his country’s safety, immediately set his energies on affairs in Iberia, eager to use it as a base of preparation for the war against the Romans. This too must be counted a cause—the third: I mean the prosperous course of Carthaginian affairs in Iberia. For it was by relying on the strength gained there that they confidently entered upon the aforementioned war.
 
 ## Book 3 Chapter 11: Hannibal’s Oath
 
@@ -2134,7 +2132,7 @@ At the same time Hannibal sent his Balearic slingers and javelin-men across the 
 
 Right at the river, on his left, he placed the Iberian and Gallic cavalry facing the Roman cavalry; next to them, half of the Libyan infantry armed in the heavy fashion; next to these, the Iberians and Gauls; beside them he placed the remaining portion of the Libyans; and on the right wing he posted the Numidian cavalry.
 
-Once he had extended everything along a single line, he then took the central units of the Iberians and Gauls and pushed them forward, arranging the other units next to them in proportionate gradation, so that the line formed a crescent-shaped bulge and grew thin in its own formation, his intention being that the Libyans should hold the position of a reserve in the battle, while the Iberians and Gauls bore the brunt of the first fighting.
+Once he had extended everything along a single line, he then took the central units of the Iberians and Gauls and pushed them forward, arranging the other units next to them in proportionate gradation, making the bulge crescent-shaped and thinning out the formation of these troops, his intention being that the Libyans should hold the position of a reserve in the battle, while the Iberians and Gauls bore the brunt of the first fighting.
 
 ## Book 3 Chapter 114: Arms of the Libyans, Iberians, and Gauls
 

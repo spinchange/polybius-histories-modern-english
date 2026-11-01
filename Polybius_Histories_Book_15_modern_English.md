@@ -302,9 +302,9 @@ As for those who survived and fled, Hannibal did not allow them to mix with his 
 
 So these men were forced to withdraw toward the wings and the open spaces there.
 
-## Book 15 Chapter 14: Victory of Scipio and Flight of Hannibal
+## Book 15 Chapter 14: Final Struggle at Zama and the Roman Victory
 
-But the ground between the armies that still remained in position was full of blood, slaughter, and corpses, and this obstacle created a serious difficulty for the Roman commander during the rout.
+But the ground between the armies that still remained in position was full of blood, slaughter, and corpses, and the obstruction left by the rout created a serious difficulty for the Roman commander.
 
 For the slippery footing caused by the dead, lying in heaps and soaked with blood, and the confusion of weapons scattered everywhere among the bodies were bound to make orderly advance extremely difficult.
 

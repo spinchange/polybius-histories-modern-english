@@ -428,7 +428,7 @@ Even so, from the time of this exchange onward, the young man never separated hi
 
 From this time onward, by continually proving themselves to one another in practical matters, they came to feel toward each other the affection of father and son, and of close kinsmen.
 
-Scipio’s first impulse and zeal for noble conduct was to recover a reputation for self-control and in this respect to surpass the rest of those of his own age.
+Scipio’s first impulse and zeal for noble conduct was to win a reputation for self-control and in this respect to surpass the rest of those of his own age.
 
 And though this prize was great and hard to win, at that time in Rome it was easy to seize, because most men were rushing in the opposite direction.
 

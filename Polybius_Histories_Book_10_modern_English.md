@@ -696,9 +696,9 @@ Then they suddenly let down the portcullis, which they had suspended a little ab
 
 ## Book 10 Chapter 34: The Submission of the Edetani to Scipio
 
-In Iberia, Publius, the Roman commander, wintered at Tarraco, as I explained earlier, and first attached the Iberians to his friendship and loyalty by restoring the hostages to each of them.
+In Iberia, Publius, the Roman commander, wintered at Tarraco, as I explained earlier, and first attached the Iberians to Roman friendship and loyalty by restoring the hostages to each of them.
 
-In this he found an unexpected ally in Edeco, prince of the Edetani. As soon as the capture of Carthage had occurred and Publius had become master of his wife and children, Edeco at once reflected on the coming change among the Iberians and wished to take the lead in the same movement, fully convinced that in this way he would recover his wife and children and would seem to have chosen the Roman side not under compulsion but by deliberate intention. And so it turned out.
+In this he found an unexpected ally in Edeco, prince of the Edetani. As soon as the capture of New Carthage had occurred and Publius had become master of his wife and children, Edeco at once reflected on the coming change among the Iberians and wished to take the lead in the same movement, fully convinced that in this way he would recover his wife and children and would seem to have chosen the Roman side not under compulsion but by deliberate intention. And so it turned out.
 
 For as soon as the armies had been dismissed into winter quarters, he came to Tarraco with his household and friends.
 

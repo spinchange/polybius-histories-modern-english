@@ -1174,7 +1174,7 @@ For who has not read concerning the Athenians that at the time when, together wi
 
 From this, what I have just said about the Peloponnesians will appear not unreasonable.
 
-And at that period, from Megalopolis itself, not even the most extravagant estimate would dare to claim that more than three hundred talents were obtained, seeing that it is agreed that most of the bodies, both free and slave, managed to escape to Messene. And the strongest proof of what has been said is this: the Mantineans, who were second to none of the Arcadians in either power or wealth, as this very writer says, and who were captured through siege and surrender, so that no one could escape and nothing could easily be smuggled away, nevertheless yielded as their entire spoil, captives included, only three hundred talents at this same period.
+And at that period, from Megalopolis itself, not even the most extravagant estimate would dare to claim that more than three hundred talents were obtained, seeing that it is agreed that most of the people, both free and slave, managed to escape to Messene. And the strongest proof of what has been said is this: the Mantineans, who were second to none of the Arcadians in either power or wealth, as this very writer says, and who were captured through siege and surrender, so that no one could escape and nothing could easily be smuggled away, nevertheless yielded as their entire spoil, captives included, only three hundred talents at this same period.
 
 ## Book 2 Chapter 63: Cleomenes Invades Argolis
 

@@ -468,7 +468,7 @@ When Hannibal told him to speak, he said they must teach the army to eat human f
 
 [...] Hannibal could say nothing against the daring and practical force of the proposal, but he could not persuade either himself or his friends to entertain the idea.
 
-Yet it is said that the deeds in Italy that were later attributed to Hannibal as proofs of cruelty were in fact the work of this man, though circumstances were responsible as well.
+Yet it is said that the deeds in Italy that were later attributed to Hannibal as proofs of cruelty were in fact the work of this man, and no less of circumstances.
 
 ## Book 9 Chapter 25: Hannibal’s Greed
 

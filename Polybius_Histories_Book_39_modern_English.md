@@ -108,7 +108,7 @@ Yet in moments of success and achievement he became unstrung in spirit, and a ki
 
 ## Book 39 Chapter 8: Polybius Recapitulates His Whole Plan
 
-Polybius says near the end of his work that after we had brought these matters to a conclusion, we returned from Rome, as though we had already completed the chief points of what went before, and were worthy of the gratitude due to Roman goodwill.
+Near the end of his work Polybius says: “When we had brought these matters to a conclusion, we returned from Rome, as though we had achieved a kind of crown to our earlier political career, a fitting return for the goodwill between us and the Romans.”
 
 Therefore we pray to all the gods that the remaining part of our life may continue in such things and depend upon such things, for we see that Fortune is truly jealous of human beings, and most especially in that part of life in which a man seems most blessed and most successful.
 

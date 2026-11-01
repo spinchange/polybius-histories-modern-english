@@ -186,15 +186,13 @@ When we reached Corcyra and found there letters from the consuls that had arrive
 
 ## Book 36 Chapter 12: Polybius Writing of Himself
 
-One should not be surprised if at times we refer to ourselves by name, and at other times by more general expressions, as when we say, “after I had said this” or again, “when we had agreed.” For since we are so deeply involved in the events that are later to be narrated, it is necessary to use references to ourselves, so that we do not keep repeating our name and become tedious through tautology, nor again say “I” and “for my part” at every turn and fall into an irritating manner.
+One should not be surprised if at times we refer to ourselves by name, and at other times by more general expressions, as when we say, “after I had said this” or again, “when we had agreed.” For since we are so deeply involved in the events that are later to be narrated, it is necessary to vary the ways we refer to ourselves, so that we do not keep repeating our name and become tedious through tautology, nor again say “I” and “for my part” at every turn and fall into an irritating manner.
 
 Rather, by using all such forms and changing among them as the occasion requires, we should avoid, as far as possible, the heavy and burdensome habit of speaking too much about ourselves.
 
 For such speech is naturally unwelcome, though often necessary when there is no other way to make the matter clear.
 
 And indeed, as it happened, we were helped in this respect by a kind of fortunate accident: up to our own time no one, so far as we know, had inherited precisely the same name as ours.
-
-—
 
 ## Book 36 Chapter 13: Fortune Reverses Callicrates and Lycortas
 

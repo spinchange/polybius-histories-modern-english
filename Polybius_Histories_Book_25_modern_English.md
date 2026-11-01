@@ -78,7 +78,7 @@ At last they brought the Senate to the point of sending envoys to Rhodes to make
 
 Yet even when the settlement had been made in these terms, the result did not please many people at all.
 
-For the Romans seemed to be acting as umpires between the Rhodians and the Lycians because they wanted the Rhodians’ accumulated resources and treasuries to be drained away, having heard both of the bridal escort that the Rhodians had recently provided for Perseus and of their review of ships.
+For the Romans seemed to be pitting the Rhodians and the Lycians against each other because they wanted the Rhodians’ accumulated resources and treasuries to be drained away, having heard both of the bridal escort that the Rhodians had recently provided for Perseus and of their review of ships.
 
 For a short time before this the Rhodians had conspicuously displayed, with great magnificence, the full strength of all the vessels they possessed.
 

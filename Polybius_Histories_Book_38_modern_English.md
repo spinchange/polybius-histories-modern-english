@@ -367,7 +367,7 @@ And everyone at the time had this saying constantly on their lips: “If we had 
 
 ## Book 38 Chapter 19: Scipio Rejects Caltrops at Carthage
 
-When he had come through the wall and found the sea between them to be not very deep, while the Carthaginians were defending themselves from the citadel, and when Polybius advised him to scatter iron caltrops or drive in sharpened stakes so that the enemy could not cross and attack the embankments, he said it would be ridiculous, after taking the walls and being inside the city, to proceed in such a way as not to fight the enemy.
+When he had come through the wall and found the sea between them to be not very deep, while the Carthaginians were defending themselves from the citadel, and when Polybius advised him to scatter iron caltrops or throw in spiked planks so that the enemy could not cross and attack the embankments, he said it would be ridiculous, after taking the walls and being inside the city, to proceed in such a way as not to fight the enemy.
 
 ## Book 38 Chapter 20: Hasdrubal Begs while His Wife Reproaches Him
 

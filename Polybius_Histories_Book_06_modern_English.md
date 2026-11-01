@@ -184,7 +184,7 @@ The Romans, on the other hand, have arrived at the same end—the order of their
 
 ## Book 6 Chapter 11: The Roman Constitution
 
-The Roman state, reckoning from the crossing of Xerxes into Greece [...] and thirty years later; from that time on it was continually being refined in its particular features, and it reached its finest and most perfect form in the era of the war with Hannibal—the point from which I made this digression.
+From the crossing of Xerxes into Greece [...] and thirty years later; from that time on it was continually being refined in its particular features, and it reached its finest and most perfect form in the era of the war with Hannibal—the point from which I made this digression.
 
 Therefore, now that I have given the account of how it came to be put together, I will try to make clear what its character was in those years, in which the Romans, defeated at the battle of Cannae, came to grief in their affairs as a whole.
 
@@ -198,13 +198,13 @@ But a good critic ought not to judge writers by what they leave out, but by what
 
 So much, then, let this be said by me against those who criticize historians more out of rivalry than out of fairness.
 
-Every matter, when examined in its proper context, receives sound approval and sound criticism alike; but if that context shifts and the matter is judged against other circumstances, then what historians have often said in the best and truest way may appear not merely undesirable, but not even tolerable.
+Every matter, when examined in its proper context, receives sound approval and sound criticism alike; but if that context shifts and the matter is judged against other circumstances, then what historians have often said in the best and truest way may appear not only unacceptable but not even tolerable.
 
 There were, then, three elements that controlled the constitution, all of which I have mentioned before; and everything was so fairly and fittingly ordered and administered, part by part, through these elements, that no one—not even a native—could ever say with certainty whether the constitution as a whole was aristocratic, democratic, or monarchic.
 
 And this was a natural thing to experience. For whenever we fixed our attention on the power of the consuls, it appeared to be completely monarchic and kingly; whenever on that of the Senate, aristocratic again; and indeed, if one looked at the power of the people, it seemed clearly to be democratic.
 
-As for which of these forms held sway over each of the respective parts of the constitution—that, both then and still now (with a few exceptions), is as follows.
+As for the matters over which each of these parts of the constitution had control, they were then, and with a few exceptions still are, as follows.
 
 ## Book 6 Chapter 11a: Fragments on Pallantium, Ostia, and Demaratus
 

@@ -422,7 +422,7 @@ When, owing to the suddenness of it, a crowd had quickly gathered, Adeimantus, d
 
 But while he was still pressing this argument, the young men who had been suborned fell upon him and stabbed him to death, and with him Sthenelaus, Alcamenes, Thyestes, Bionidas, and a good many other citizens.
 
-## Book 4 Chapter 23: Differences of Opinion Among the Spartans
+## Book 4 Chapter 23: Philip’s Council Divides over Sparta
 
 But Polyphontas and certain men with him, prudently foreseeing what was to come, withdrew to join Philip. Having done this, the ephors now in control of affairs at once sent men to denounce to Philip those who had been killed and to urge him to hold back his approach until the city’s affairs, after the disturbance that had occurred, had returned to their settled state—and meanwhile to be assured that it was their fixed intention to maintain toward the Macedonians everything that was just and friendly.
 
@@ -852,7 +852,7 @@ But the Byzantines would not yield at all on the matter; they were convinced tha
 
 On their return home, they voted for war against the Byzantines for the reasons stated above.
 
-## Book 4 Chapter 48: Achaeus and Prusias I. of Bithynia
+## Book 4 Chapter 48: Achaeus Rises to Power Beyond the Taurus
 
 At once they dispatched envoys to Prusias, urging him too to join the war; for they knew that Prusias was already at odds, on several grounds, with the Byzantines. The Byzantines, for their part, did much the same thing: they sent envoys both to Attalus and to Achaeus, asking them for help.
 
@@ -868,7 +868,7 @@ When Seleucus—the father of the aforementioned Antiochus—died, and Seleucus,
 
 For as soon as Seleucus the younger had succeeded to the kingdom and learned that Attalus had already brought the whole dominion on this side of the Taurus under his own control, he was spurred to defend his interests.
 
-But after crossing the Taurus with a large army, he was treacherously murdered by Apaturius the Gaul and by Nicanor, and so lost his life.
+But after crossing the Taurus with a large army, he was treacherously murdered by Apaturius the Galatian and by Nicanor, and so lost his life.
 
 Achaeus, as his kinship required, immediately avenged the murder by killing Nicanor and Apaturius, and took charge of the army and of affairs as a whole with prudence and magnanimity.
 

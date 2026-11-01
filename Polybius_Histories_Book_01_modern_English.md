@@ -1348,7 +1348,7 @@ Lutatius readily accepted the overtures, since he was well aware that his own si
 
 The Carthaginians shall give back to the Romans all prisoners without ransom. The Carthaginians shall pay to the Romans, over twenty years, two thousand two hundred Euboic talents of silver.”
 
-## Book 1 Chapter 63: The Longest and Harshest War in History
+## Book 1 Chapter 63: The Longest and Greatest War in History
 
 When these terms were referred back to Rome, the people did not accept the treaty, but sent out ten commissioners to investigate the matter.
 

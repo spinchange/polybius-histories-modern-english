@@ -540,7 +540,7 @@ Such being the arrangement of the phalanx, both as a whole and in its parts, we 
 
 The Romans, too, stand with their weapons in a space of three feet.
 
-But since in their style of fighting each man moves individually—covering his body with the long shield, which he shifts constantly to meet the point from which a blow is coming, and fighting with the sword by cutting and thrusting— it is obvious that the men need a loose, open interval of at least three feet from one another, both front to rear and side to side, if they are to be effective for what is needed.
+But since in their style of fighting each man moves individually—covering his body with the long shield, which he shifts constantly to meet the point from which a blow is coming, and fighting with the sword by cutting and thrusting—it is obvious that the men need a loose, open interval of at least three feet from one another, both front to rear and side to side, if they are to be effective for what is needed.
 
 The result is that one Roman stands opposite two of the phalangites in the front rank, so that he faces and fights against ten sarissae.
 
