@@ -2,13 +2,13 @@
 
 Modern English translation of the Greek text.
 
-## Book 5 Chapter 1: The Situation in the Summer of B. C. 218
+## Book 5 Chapter 1: The Situation in the Summer of 218 BC
 
 The year of office held by the younger Aratus had reached its end about the rising of the Pleiades; for that was how the Achaean people reckoned time in those days.
 
 So he laid down his office, and Eperatus took over the leadership of the Achaeans. Dorimachus was general of the Aetolians.
 
-At the same time, as summer was beginning, Hannibal, now openly committed to war against Rome, set out from New Carthage, crossed the Iber River, and began his advance and march into Italy.
+At the same time, as summer was beginning, Hannibal, now openly committed to war against Rome, set out from New Carthage, crossed the Ebro River, and began his advance and march into Italy.
 
 The Romans, meanwhile, were sending Tiberius Sempronius to Libya with a force, and Publius Cornelius to Iberia.
 
@@ -24,7 +24,7 @@ So he persuaded the magistrates to transfer the assembly to Sicyon. Then he took
 
 They readily agreed. Philip then entered the Achaean assembly and, with the help of the men just mentioned, secured every measure needed for his purpose.
 
-It was decreed that the Achaeans should give him fifty talents at once for his first mobilization, provide three months' pay for the army, and add ten thousand measures of grain.
+It was decreed that the Achaeans should give him fifty talents at once for his first mobilization, provide three months’ pay for the army, and add ten thousand measures of grain.
 
 After that, for as long as he remained in the Peloponnese and campaigned as their ally, he was to receive seventeen talents each month from the Achaeans.
 
@@ -32,21 +32,17 @@ After that, for as long as he remained in the Peloponnese and campaigned as thei
 
 After these measures had been approved, the Achaeans dispersed to their cities. The king, after consulting with his friends, decided, once the forces had come together from winter quarters, to wage the war by sea.
 
-He was convinced that only in this way would he be able to appear quickly against the enemy at every point, while his opponents would be least able to come to one another's aid,
-
-since they were separated by their territories and each would be anxious for his own safety because of the uncertainty and speed with which an enemy could arrive by sea. For he was at war with the Aetolians, the Lacedaemonians, and the Eleans as well.
+He was convinced that only in this way would he be able to appear quickly against the enemy at every point, while his opponents would be least able to come to one another’s aid, since they were separated by their territories and each would be anxious for his own safety because of the uncertainty and speed with which an enemy could arrive by sea. For he was at war with the Aetolians, the Lacedaemonians, and the Eleans as well.
 
 Once this decision had been made, he assembled both the Achaean ships and his own at Lechaeum, and by repeatedly putting out to sea he trained the phalanx troops and got them used to the oars, the Macedonians responding eagerly to every order he gave.
 
-For in the dangers of pitched battle on land they are the bravest of men, and for the demands of service at sea when circumstances require it they are the readiest; and in trench-digging, palisade-building, and every hardship of that sort they are exceptionally hardworking,
-
-the kind of men Hesiod depicts in the sons of Aeacus:
+For in the dangers of pitched battle on land they are the bravest of men, and for the demands of service at sea when circumstances require it they are the readiest; and in trench-digging, palisade-building, and every hardship of that sort they are exceptionally hardworking, the kind of men Hesiod depicts in the sons of Aeacus:
 
 *delighting in war as in a feast.*
 
 So the king and the mass of the Macedonians remained at Corinth, occupied with training and preparation for fighting at sea.
 
-But Apelles, unable either to control Philip or to endure being disregarded and reduced in influence, formed a conspiracy with Leontius and Megaleas. The agreement was that those two, by remaining on the spot at the critical moment, should deliberately neglect matters and damage the king's operations, while Apelles himself would withdraw to Chalcis and see to it that no supplies reached him for his campaigns.
+But Apelles, unable either to control Philip or to endure being disregarded and reduced in influence, formed a conspiracy with Leontius and Megaleas. The agreement was that those two, by remaining on the spot at the critical moment, should deliberately neglect matters and damage the king’s operations, while Apelles himself would withdraw to Chalcis and see to it that no supplies reached him for his campaigns.
 
 After making this arrangement and plotting maliciously with the men mentioned above, he left for Chalcis, having found some plausible excuses to offer the king.
 
@@ -66,15 +62,9 @@ But when he saw that the little town there was difficult to besiege and that the
 
 Seeing that this district was rich in grain and capable of feeding an army, he landed his forces and encamped beside the city. He drew the ships together at anchor, enclosed them with a trench and palisade, and sent the Macedonians out to collect provisions.
 
-He himself went around the city, examining how it might be possible to bring siege works and engines against the wall, since he wanted both to wait for the allies and to take the city,
+He himself went around the city, examining how it might be possible to bring siege works and engines against the wall, since he wanted both to wait for the allies and to take the city, first so as to deprive the Aetolians of their most useful support—for it was by using the ships of the Cephallenians that they made crossings into the Peloponnese and ravaged the coasts of Epirus and Acarnania— and second so as to secure for himself and his allies a naturally well-placed base of operations against enemy territory.
 
-first so as to deprive the Aetolians of their most useful support—for it was by using the ships of the Cephallenians that they made crossings into the Peloponnese and ravaged the coasts of Epirus and Acarnania—
-
-and second so as to secure for himself and his allies a naturally well-placed base of operations against enemy territory.
-
-For Cephallenia lies along the Corinthian Gulf, stretching out toward the Sicilian Sea,
-
-and faces the parts of the Peloponnese that slope toward the north and west, especially the territory of Elis, and also the parts of Epirus, Aetolia, and Acarnania that look toward the south and west.
+For Cephallenia lies along the Corinthian Gulf, stretching out toward the Sicilian Sea, and faces the parts of the Peloponnese that slope toward the north and west, especially the territory of Elis, and also the parts of Epirus, Aetolia, and Acarnania that look toward the south and west.
 
 ## Book 5 Chapter 4: Philip Besieges Palus
 
@@ -82,9 +72,7 @@ That is why, since the island was well suited both for gathering his allies and,
 
 Observing that all the other sides of the city were enclosed either by the sea or by cliffs, but that there was one small stretch of level ground on the side facing Zacynthus, he decided to bring up his siege works there and to concentrate the entire siege on that point.
 
-The king was occupied with these matters. At this time fifteen light vessels arrived from Scerdilaidas—for he had been prevented from sending most of them because of plots and disturbances among the local dynasts in Illyria—
-
-and the allied contingents assigned from Epirus, Acarnania, and Messenia arrived as well.
+The king was occupied with these matters. At this time fifteen light vessels arrived from Scerdilaidas—for he had been prevented from sending most of them because of plots and disturbances among the local dynasts in Illyria— and the allied contingents assigned from Epirus, Acarnania, and Messenia arrived as well.
 
 For after the capture of Phigalia, the Messenians no longer had any excuse, and from that point onward they took part in the war.
 
@@ -114,17 +102,15 @@ The envoys from Messenia begged him to come to their aid, explaining that since 
 
 Therefore Gorgus of Messenia and his associates argued that an attack on Lycurgus would be sudden and effective.
 
-Leontius and his party, keeping to their own design, strongly supported Gorgus and his friends, since they believed that Philip's summer campaign would come to nothing.
+Leontius and his party, keeping to their own design, strongly supported Gorgus and his friends, since they believed that Philip’s summer campaign would come to nothing.
 
-For it was easy enough to sail to Messenia,
-
-but impossible to sail back from there while the Etesian winds were blowing.
+For it was easy enough to sail to Messenia, but impossible to sail back from there while the Etesian winds were blowing.
 
 So it was clear that Philip would be shut up in Messenia with his army and forced to remain inactive for the rest of the summer, while the Aetolians would roam through Thessaly and Epirus, sacking and plundering the whole country without danger.
 
 Such were the destructive schemes and counsels these men were offering. But Aratus, who was present, championed the opposite view.
 
-He said Philip ought to sail to Aetolia and make that the focus of operations; for with the Aetolians campaigning abroad under Dorimachus, this was the best possible moment to invade and ravage Aetolia. The king, already distrusting Leontius because of his deliberate slackness during the siege, and recognizing in these discussions about the voyage the same malicious maneuvering, decided to follow Aratus's advice.
+He said Philip ought to sail to Aetolia and make that the focus of operations; for with the Aetolians campaigning abroad under Dorimachus, this was the best possible moment to invade and ravage Aetolia. The king, already distrusting Leontius because of his deliberate slackness during the siege, and recognizing in these discussions about the voyage the same malicious maneuvering, decided to follow Aratus’s advice.
 
 Accordingly he wrote to Eperatus, the Achaean general, ordering him to take the Achaeans and help the Messenians, while he himself sailed from Cephallenia and on the second day reached Leucas by night with the fleet.
 
@@ -142,7 +128,7 @@ At this time Aristophanes the general arrived, bringing the Acarnanians in full 
 
 So they gladly seized this chance of Macedonian support and came under arms, not only those whom the law required to serve, but even some older men as well.
 
-The Epirotes were no less eager for similar reasons; but because of the size of their country and the suddenness of Philip's arrival, they were too late to gather in time.
+The Epirotes were no less eager for similar reasons; but because of the size of their country and the suddenness of Philip’s arrival, they were too late to gather in time.
 
 Of the Aetolians, as I said, Dorimachus had marched out with half their force, while he had left the other half behind, thinking this reserve sufficient to meet any unexpected attack on their cities and countryside.
 
@@ -152,9 +138,7 @@ After supper and a short rest for the army, he set out again, and marching conti
 
 ## Book 5 Chapter 7: A Rapid March To Thermus
 
-Leontius and his party saw, in two ways, that Philip was likely to achieve his purpose and that the Aetolians would be unable to deal with the situation: first, because the arrival of the Macedonians had been swift and unexpected;
-
-and second, because the Aetolians would never suppose that Philip would dare so readily to expose himself by moving against Thermus, given the strength of the country there. So they were bound to be caught off guard and wholly unprepared for what was happening.
+Leontius and his party saw, in two ways, that Philip was likely to achieve his purpose and that the Aetolians would be unable to deal with the situation: first, because the arrival of the Macedonians had been swift and unexpected; and second, because the Aetolians would never suppose that Philip would dare so readily to expose himself by moving against Thermus, given the strength of the country there. So they were bound to be caught off guard and wholly unprepared for what was happening.
 
 With this in mind, and still keeping to their own purpose, Leontius and his friends thought Philip ought to encamp by the Achelous and let the army recover from the night march, since they were eager to allow the Aetolians even a brief chance to rally to the defense.
 
@@ -166,9 +150,7 @@ After crossing the river Achelous, he pressed on hard toward Thermus; and as he 
 
 On his left he passed by Stratus, Agrinium, and the land of the Thestians; on his right, Conope, Lysimachia, Trichonium, and Phytaeum.
 
-When he came to the town called Metapa, which lies on Lake Trichonis itself and beside the narrow pass along it, about sixty stades from the place called Thermus,
-
-he found that the Aetolians had abandoned it; so he brought in five hundred soldiers and occupied it, intending to use it as a reserve post to secure both the entrance to and the exit from the pass.
+When he came to the town called Metapa, which lies on Lake Trichonis itself and beside the narrow pass along it, about sixty stades from the place called Thermus, he found that the Aetolians had abandoned it; so he brought in five hundred soldiers and occupied it, intending to use it as a reserve post to secure both the entrance to and the exit from the pass.
 
 For the whole stretch beside the lake is mountainous and rough, thickly covered with woods, and therefore the passage there is extremely narrow and hard to traverse.
 
@@ -178,9 +160,7 @@ For on the left the lake itself secured the line of march for nearly thirty stad
 
 ## Book 5 Chapter 8: Thermus
 
-After traversing the places just mentioned and reaching the village called Pamphia, he likewise secured this place with a garrison and advanced toward Thermus by a road that was not only steep and exceptionally rough, but also hemmed in on both sides by deep precipices,
-
-so that in some places the path was very dangerous and narrow, the whole ascent being nearly thirty stades.
+After traversing the places just mentioned and reaching the village called Pamphia, he likewise secured this place with a garrison and advanced toward Thermus by a road that was not only steep and exceptionally rough, but also hemmed in on both sides by deep precipices, so that in some places the path was very dangerous and narrow, the whole ascent being nearly thirty stades.
 
 Yet he covered this stretch too in a short time, because the Macedonians made the march with great energy.
 
@@ -204,19 +184,17 @@ For when they remembered what the Aetolians had done at Dium and Dodona, they se
 
 And they did not stop with damaging the roofs by fire, but pulled the buildings down to the ground. They also threw down the statues, no fewer than two thousand of them, and many they smashed to pieces, except for those that bore inscriptions or images of the gods; these they spared.
 
-They also wrote on the walls the famous verse then in circulation, a sign that the cleverness of Samus was already beginning to show — Samus being the son of Chrysogonus and the king's foster-brother.
+They also wrote on the walls the famous verse then in circulation, a sign that the cleverness of Samus was already beginning to show—Samus being the son of Chrysogonus and the king’s foster-brother.
 
 The verse was:
 
-"Do you see where the god's bolt flew?"
+“Do you see where the god’s bolt flew?”
 
 At this the king and his friends were greatly pleased with themselves, thinking that they were acting justly and as they should, paying back the Aetolians in kind for their impious conduct at Dium. But I think the exact opposite.
 
 If my argument is right, anyone may judge the matter from examples taken not from elsewhere, but from the history of this very royal house.
 
-When Antigonus won a pitched battle against Cleomenes, king of the Lacedaemonians, and gained possession of Sparta,
-
-though he had full power to do whatever he wished with the city and its inhabitants, he was so far from mistreating those who had fallen into his hands that, on the contrary, he restored their ancestral constitution and their freedom, and, after becoming the cause of the greatest benefits both publicly and privately to the Spartans, went back home.
+When Antigonus won a pitched battle against Cleomenes, king of the Lacedaemonians, and gained possession of Sparta, though he had full power to do whatever he wished with the city and its inhabitants, he was so far from mistreating those who had fallen into his hands that, on the contrary, he restored their ancestral constitution and their freedom, and, after becoming the cause of the greatest benefits both publicly and privately to the Spartans, went back home.
 
 Therefore he was judged not only at the time to be a benefactor, but after his death a savior, and he won immortal honor and glory not only among the Spartans but among all Greeks.
 
@@ -244,21 +222,21 @@ Yet while throughout his life he was very eager to appear a kinsman of Alexander
 
 So by pursuing the very opposite course from those men, he came to have the opposite reputation among all as he grew older.
 
-## Book 5 Chapter 11: Philip's Crime and Blunder
+## Book 5 Chapter 11: Philip’s Crime and Blunder
 
-What happened then was one example of this. In his anger he joined in the Aetolians' acts of impiety, and, trying to cure evil with evil, he thought he was doing nothing out of place.
+What happened then was one example of this. In his anger he joined in the Aetolians’ acts of impiety, and, trying to cure evil with evil, he thought he was doing nothing out of place.
 
 He used to denounce Scopas and Dorimachus at every turn for their lawlessness and outrage, citing their impiety toward the gods at Dodona and Dium; yet when he himself did much the same, he did not think that those who heard of it would judge him in the same way as them.
 
-For stripping the enemy and destroying forts, harbors, cities, men, ships, crops, and the like — things by which one may weaken the opposition and strengthen one's own position and enterprises — these acts the laws and usages of war do indeed compel us to do.
+For stripping the enemy and destroying forts, harbors, cities, men, ships, crops, and the like—things by which one may weaken the opposition and strengthen one’s own position and enterprises—these acts the laws and usages of war do indeed compel us to do.
 
-But to ravage temples, and with them statues and every such adornment, when one is about to gain no help for one's own cause and bring no reduction upon the enemy in the present war — how could anyone fail to call that the act of a frenzied temper and a maddened spirit?
+But to ravage temples, and with them statues and every such adornment, when one is about to gain no help for one’s own cause and bring no reduction upon the enemy in the present war—how could anyone fail to call that the act of a frenzied temper and a maddened spirit?
 
 Good men ought not to wage war for the destruction and annihilation of those who have done wrong, but for the correction and reform of what has been done amiss. Nor should they destroy the innocent together with the guilty, but rather preserve the innocent and thereby save even those who seem to have done wrong.
 
 It is the part of a tyrant to do harm and hold unwilling subjects in obedience through fear, while he hates them and is hated by those he rules; but it is the part of a king, by doing good to all, to lead and govern willing subjects, loved because of his beneficence and humanity.
 
-One may best grasp Philip's mistake on that occasion by considering what impression the Aetolians would likely have had if he had done the opposite of what I have described, and had destroyed neither the porticoes nor the statues nor mistreated any of the offerings.
+One may best grasp Philip’s mistake on that occasion by considering what impression the Aetolians would likely have had if he had done the opposite of what I have described, and had destroyed neither the porticoes nor the statues nor mistreated any of the offerings.
 
 For my own part, I think their reaction would have been the best and most humane possible: conscious of what they themselves had done at Dium and Dodona, and clearly seeing that Philip at that moment had complete power to do whatever he wished, and that if he had inflicted the harshest measures he would have seemed justified, at least as far as they were concerned—
 
@@ -268,23 +246,23 @@ For my own part, I think their reaction would have been the best and most humane
 
 From this it is clear that they would probably have condemned themselves, while approving and admiring Philip for acting in a kingly and magnanimous way, showing both reverence toward the gods and anger against the Aetolians.
 
-And indeed, overcoming one's enemies by nobility and justice brings no less advantage — rather more — than successes won by force of arms.
+And indeed, overcoming one’s enemies by nobility and justice brings no less advantage—rather more—than successes won by force of arms.
 
 In the one case the defeated yield from necessity; in the other they submit by deliberate choice. The former kind of victory corrects wrongdoing only through heavy losses, whereas the latter turns those who have gone astray to the better course without harm.
 
-And most important of all, in the one case most of the achievement belongs to the troops under command, whereas in the other the victory is wholly the leaders' own.
+And most important of all, in the one case most of the achievement belongs to the troops under command, whereas in the other the victory is wholly the leaders’ own.
 
 Still, perhaps one should not lay all the blame for what happened then on Philip himself, because of his youth, but mostly on the friends who were with him and assisted in the business, among whom were Aratus and Demetrius of Pharos.
 
 And about these men it is not difficult to say, even without having been present at the time, from which of the two such advice was likely to have come.
 
-For apart from the settled character each showed throughout life — where in Aratus one would find nothing rash or ill-considered, but in Demetrius the opposite — we also have a generally acknowledged example revealing the disposition of each in the similar advice they gave Philip.
+For apart from the settled character each showed throughout life—where in Aratus one would find nothing rash or ill-considered, but in Demetrius the opposite—we also have a generally acknowledged example revealing the disposition of each in the similar advice they gave Philip.
 
 When the proper occasion comes, I will make the appropriate mention of this.
 
 ## Book 5 Chapter 13: The Return From Thermus
 
-Philip — for I had digressed from this point — took from Thermus as much plunder as could be carried away, whether driven or borne, and advanced by the same route on which he had come, placing the booty and the heavily armed troops in front, and leaving the Acarnanians and the mercenaries in the rear.
+Philip—for I had digressed from this point—took from Thermus as much plunder as could be carried away, whether driven or borne, and advanced by the same route on which he had come, placing the booty and the heavily armed troops in front, and leaving the Acarnanians and the mercenaries in the rear.
 
 He was eager to get through the difficult ground as quickly as possible, because he expected that the Aetolians, trusting in the strength of the terrain, would attack his rear.
 
@@ -314,9 +292,9 @@ But as soon as the rear had passed the city, at first a few of the Aetolian hors
 
 Then, when the whole body of the Cretans came out from the city and some Aetolian troops joined their cavalry, the engagement became more serious, and the men in the rear were forced to turn and fight for their lives.
 
-At first the danger was evenly balanced for both sides. But when the Illyrians came up in support of Philip's mercenaries, the Aetolian cavalry and mercenaries gave way and fled in scattered disorder.
+At first the danger was evenly balanced for both sides. But when the Illyrians came up in support of Philip’s mercenaries, the Aetolian cavalry and mercenaries gave way and fled in scattered disorder.
 
-The king's troops pursued most of them as far as the gates and the walls, and killed about a hundred.
+The king’s troops pursued most of them as far as the gates and the walls, and killed about a hundred.
 
 After this action, the troops from the city kept quiet from then on, and the men from the rear reached the camp and the ships safely.
 
@@ -326,7 +304,7 @@ For he thought that he had committed himself to hazardous country of a kind into
 
 Yet he had not only entered it with his force, but, after accomplishing everything he had intended, had also made his return in safety. For these reasons he was in high spirits as he prepared to receive the commanders.
 
-But Megaleas and Leontius took the king's success badly, since they had joined with Apelles in trying to obstruct all his operations, yet had been unable to do so.
+But Megaleas and Leontius took the king’s success badly, since they had joined with Apelles in trying to obstruct all his operations, yet had been unable to do so.
 
 Instead, events were turning out exactly the opposite of what they wanted, and they were plainly being proved wrong. Nevertheless, they came to the dinner.
 
@@ -354,7 +332,7 @@ The king, angered by this language, immediately required them to post security f
 
 On the next day he sent again for Aratus and told him to take heart, because he would settle the matter as far as circumstances allowed.
 
-Leontius, when he learned what had happened to Megaleas, came to the king's tent with some peltasts, convinced that by overawing the king because of his youth he would quickly make him change his mind.
+Leontius, when he learned what had happened to Megaleas, came to the king’s tent with some peltasts, convinced that by overawing the king because of his youth he would quickly make him change his mind.
 
 When he met him, he demanded to know who had dared to lay hands on Megaleas and who had dared to lead him off to prison.
 
@@ -364,9 +342,9 @@ The king then put to sea with the whole fleet, crossed the gulf, and came to anc
 
 Aratus, in his speech for the prosecution, set out from the beginning the conduct of Leontius and his circle, going through the massacre they had committed at Argos after the departure of Antigonus, their agreements with Apelles, and also the obstruction they had caused in the affair of the people of Palairos.
 
-As he presented all this with proof and witnesses, Megaleas and his associates were unable to answer a single point, and were unanimously condemned by the king's friends.
+As he presented all this with proof and witnesses, Megaleas and his associates were unable to answer a single point, and were unanimously condemned by the king’s friends.
 
-Crinon remained in custody, while Leontius went surety for Megaleas' money penalty.
+Crinon remained in custody, while Leontius went surety for Megaleas’ money penalty.
 
 So this was the outcome of the scheme of Apelles and Leontius, its course now turning back in the opposite direction from what they had hoped at first.
 
@@ -402,9 +380,9 @@ After going around through the deserted country, on the fourth day he came upon 
 
 The Lacedaemonians, watching from the city as the army moved along, were struck with panic and fear, marveling at what was happening.
 
-For their minds were still unsettled by the reports that had come in about Philip's destruction of Thermus and, in general, about his actions in Aetolia; and there was even a rumor among them that Lycurgus would be sent out to aid the Aetolians.
+For their minds were still unsettled by the reports that had come in about Philip’s destruction of Thermus and, in general, about his actions in Aetolia; and there was even a rumor among them that Lycurgus would be sent out to aid the Aetolians.
 
-But that the danger would come upon them so quickly from so great a distance had never entered any of their minds at all, especially since the king's youth made him seem in some measure easy to despise. So, because events were turning out contrary to all expectation, they were naturally dumbfounded.
+But that the danger would come upon them so quickly from so great a distance had never entered any of their minds at all, especially since the king’s youth made him seem in some measure easy to despise. So, because events were turning out contrary to all expectation, they were naturally dumbfounded.
 
 For Philip, handling his enterprises with more daring and more practical skill than one would expect from his age, reduced all his enemies to helplessness and confusion.
 
@@ -434,9 +412,9 @@ Leaving this on his right as he marched, he encamped near Helos, which, viewed a
 
 From there he sent out raiding parties and burned and devastated the whole region and destroyed the crops in it; and his foragers reached as far as Acriae and Leucae, and also the territory of Boeae.
 
-## Book 5 Chapter 20: Philip's Return Opposed
+## Book 5 Chapter 20: Philip’s Return Opposed
 
-When the Messenians received Philip's letters concerning the campaign, they were no less eager than the other allies in their initial zeal, but set out promptly and sent their men in the prime of life: two thousand infantry and two hundred cavalry.
+When the Messenians received Philip’s letters concerning the campaign, they were no less eager than the other allies in their initial zeal, but set out promptly and sent their men in the prime of life: two thousand infantry and two hundred cavalry.
 
 But because of the length of the journey they were delayed and missed Philip at Tegea, and at first they were at a loss what they should do.
 
@@ -468,15 +446,9 @@ He arranged with those in the city to keep watch, so that whenever he raised the
 
 Such were the measures of Lycurgus and the Lacedaemonians.
 
-But lest unfamiliarity with the ground make what I say obscure and hard to follow, I should also explain the nature and arrangement of the place,
+But lest unfamiliarity with the ground make what I say obscure and hard to follow, I should also explain the nature and arrangement of the place, which indeed is what I try to do throughout this work, always connecting places that are unknown and making them familiar by comparison with places already known and described.
 
-which indeed is what I try to do throughout this work, always connecting places that are unknown and making them familiar by comparison with places already known and described.
-
-For since in war, both on land and at sea, differences of terrain are what cause most successes and failures, and since we all want to know not merely what happened but how it happened,
-
-one must not neglect topographical description in any kind of narrative, least of all in military affairs, nor hesitate to use as points of reference at one time harbors, seas, and islands, and at another sanctuaries, mountains,
-
-named regions, and finally even the differences presented by the surrounding sky, since these are the most universal things shared by all human beings.
+For since in war, both on land and at sea, differences of terrain are what cause most successes and failures, and since we all want to know not merely what happened but how it happened, one must not neglect topographical description in any kind of narrative, least of all in military affairs, nor hesitate to use as points of reference at one time harbors, seas, and islands, and at another sanctuaries, mountains, named regions, and finally even the differences presented by the surrounding sky, since these are the most universal things shared by all human beings.
 
 For only in this way, as I have said before, is it possible to bring listeners to an understanding of places they do not know.
 
@@ -492,7 +464,7 @@ So it happens that the hills on which the Menelaeum stands lie beyond the river,
 
 Through this strip the river just mentioned flows along the very foot of the hill, and the whole width there is no more than a stade and a half.
 
-Through this Philip was necessarily obliged to make his return march, with the city and the Lacedaemonians, ready and drawn up for battle, on his left, and on his right the river and Lycurgus's men standing on the hills.
+Through this Philip was necessarily obliged to make his return march, with the city and the Lacedaemonians, ready and drawn up for battle, on his left, and on his right the river and Lycurgus’s men standing on the hills.
 
 The Lacedaemonians had also devised the following in addition to these advantages: by damming the river upstream they diverted it into the ground between the city and the hills, and once that area had been soaked through, it was impossible for not only horses but even infantry to enter it.
 
@@ -502,19 +474,17 @@ Seeing this, Philip took counsel with his friends and decided that the most urge
 
 So he took the mercenaries and the peltasts, and with them the Illyrians as well, crossed the river, and advanced toward the hills.
 
-Lycurgus, perceiving Philip's intention, prepared the troops with him and encouraged them for the coming danger, and he also gave the signal to those in the city.
+Lycurgus, perceiving Philip’s intention, prepared the troops with him and encouraged them for the coming danger, and he also gave the signal to those in the city.
 
 When this was done, the magistrates responsible immediately led out the citizen troops according to the arrangement and drew them up in front of the wall, placing the cavalry on the right wing.
 
 ## Book 5 Chapter 23: Defeat of Lycurgus Near Sparta
 
-When Philip came near Lycurgus's men, he first sent the mercenaries against them.
+When Philip came near Lycurgus’s men, he first sent the mercenaries against them.
 
 As a result, the Lacedaemonians had the advantage at the outset and fought with greater confidence, since both their equipment and the ground contributed greatly in their favor.
 
-But when Philip brought up the peltasts to support those engaged, keeping them in reserve formation, and launched the Illyrians in a flank attack,
-
-the mercenaries under Philip, encouraged by the support of the Illyrians and peltasts, were much more strongly emboldened for the fight, while Lycurgus's men, alarmed by the attack of the heavy-armed troops, gave way and fled.
+But when Philip brought up the peltasts to support those engaged, keeping them in reserve formation, and launched the Illyrians in a flank attack, the mercenaries under Philip, encouraged by the support of the Illyrians and peltasts, were much more strongly emboldened for the fight, while Lycurgus’s men, alarmed by the attack of the heavy-armed troops, gave way and fled.
 
 About a hundred of them fell, and a little more than that number were taken prisoner; the rest escaped into the city. Lycurgus himself struck off by trackless routes and during the night made his way into the city with a few companions.
 
@@ -530,9 +500,7 @@ And about this time Philip gained an acknowledged advantage, and after joining i
 
 ## Book 5 Chapter 24: Philip Proceeds to Tegea
 
-As the day was already drawing on, he was forced to encamp where he was, so he made camp near the exit from the pass,
-
-his officers having by chance chosen such a place as no one could have found a better for making an invasion into Laconia right by the city itself.
+As the day was already drawing on, he was forced to encamp where he was, so he made camp near the exit from the pass, his officers having by chance chosen such a place as no one could have found a better for making an invasion into Laconia right by the city itself.
 
 For at the beginning of the pass just mentioned, when one approaches Sparta from Tegea or generally from the inland country, there is a place at most two stades from the city and situated directly on the river.
 
@@ -550,9 +518,7 @@ On the following day, after inspecting the ground and sacrificing to the gods on
 
 When he arrived at Tegea, he sold off all the booty, and after that marched through Argos and came with the army to Corinth.
 
-While ambassadors from Rhodes and Chios were present there to discuss ending the war, he gave them audience and, pretending agreement, said that he was ready now as before to make peace with the Aetolians; then he sent them away, instructing them also to speak with the Aetolians about a settlement,
-
-while he himself went down to Lechaeum and made preparations for a voyage, since he had some more substantial operations to carry out in the region of Phocis.
+While ambassadors from Rhodes and Chios were present there to discuss ending the war, he gave them audience and, pretending agreement, said that he was ready now as before to make peace with the Aetolians; then he sent them away, instructing them also to speak with the Aetolians about a settlement, while he himself went down to Lechaeum and made preparations for a voyage, since he had some more substantial operations to carry out in the region of Phocis.
 
 ## Book 5 Chapter 25: Leontius, Megaleas, and Ptolemy Rouse the Guard
 
@@ -560,7 +526,7 @@ At this time Leontius, Megaleas, and Ptolemy, still convinced that they could ov
 
 They said that these men were risking everything, yet received none of what was justly theirs, nor did they get the full share of the advantages that custom assigned to them.
 
-By this they stirred up the younger soldiers to gather together and try to plunder the quarters of the king's most prominent friends, to smash in the doors, and to hack away the roof tiles of the royal residence.
+By this they stirred up the younger soldiers to gather together and try to plunder the quarters of the king’s most prominent friends, to smash in the doors, and to hack away the roof tiles of the royal residence.
 
 As this was happening, and the whole city had fallen into uproar and confusion, Philip heard of it and came running with all haste from Lechaeum into the city.
 
@@ -584,7 +550,7 @@ Accordingly, the overseers and administrators from Macedonia and Thessaly made t
 
 Philip had long been hearing of this and had been indignant and offended by it, especially since Aratus was at his side and was actively working on the matter. Even so, he held himself in check and gave no one any clear sign of what direction he intended to take or what his mind was.
 
-But Apelles, ignorant of his real position and convinced that if he only came into Philip's presence he would manage everything according to his own will, set out from Chalcis to support Leontius and his party.
+But Apelles, ignorant of his real position and convinced that if he only came into Philip’s presence he would manage everything according to his own will, set out from Chalcis to support Leontius and his party.
 
 When he arrived in Corinth, Leontius, Ptolemy, and Megaleas, who were commanders of the peltasts and of the other most distinguished divisions, made great efforts and urged the young men to go out to meet him.
 
@@ -596,11 +562,11 @@ Astonished and perplexed for a long while by this unexpected treatment, Apelles 
 
 For brief turns of fortune, more than anything else, generally raise all men up and then cast them down again, but they do so most of all in the case of those who live at royal courts.
 
-Such people really are like counters on an abacus: those counters, according to the will of the man reckoning with them, are at one moment worth a mere copper and the next a talent; and so those about a court, at a king's nod, are blessed one moment and pitiable the next.
+Such people really are like counters on an abacus: those counters, according to the will of the man reckoning with them, are at one moment worth a mere copper and the next a talent; and so those about a court, at a king’s nod, are blessed one moment and pitiable the next.
 
 Megaleas, seeing that the support he had expected through Apelles had turned out contrary to his hopes, was filled with fear and began thinking of flight.
 
-Apelles, however, was still admitted to banquets and honors of that sort, but he took no part in deliberations or in the king's daily companionship.
+Apelles, however, was still admitted to banquets and honors of that sort, but he took no part in deliberations or in the king’s daily companionship.
 
 In the following days the king again set sail from Lechaeum for operations in Phocis and took Apelles with him.
 
@@ -614,23 +580,17 @@ The king put to sea from the region of Cirrha and sailed with the hypaspists to 
 
 When reports about Megaleas reached him, he sent the peltasts, whose commander was Leontius, off to Triphylia with Taurion, on the pretext that some urgent business required it; and once they had departed, he gave orders to take Leontius into custody over the surety.
 
-But when the peltasts realized what had happened, Leontius having sent someone to them, they dispatched envoys to the king, begging him that if Leontius had been arrested on some other charge, he should not conduct the trial on the accusations against him without them being present,
-
-otherwise they would all think that they themselves were being grossly slighted and implicitly condemned as well—for the Macedonians had always enjoyed this kind of frank speech with their kings—
-
-but if it was because of Megaleas's surety, then they themselves would raise the money by a common contribution and pay it.
+But when the peltasts realized what had happened, Leontius having sent someone to them, they dispatched envoys to the king, begging him that if Leontius had been arrested on some other charge, he should not conduct the trial on the accusations against him without them being present, otherwise they would all think that they themselves were being grossly slighted and implicitly condemned as well—for the Macedonians had always enjoyed this kind of frank speech with their kings— but if it was because of Megaleas’s surety, then they themselves would raise the money by a common contribution and pay it.
 
 The king, however, angered by the zeal shown by the peltasts, put Leontius to death more quickly than he had originally intended.
 
 ## Book 5 Chapter 28: Death of Megaleas
 
-The ambassadors from Rhodes and Chios returned from Aetolia, having arranged a truce of thirty days and reporting that the Aetolians were ready for a settlement,
-
-and having fixed a definite day on which they asked Philip to meet them at Rhium, promising that they would bring the Aetolians to agree to whatever was necessary for making peace.
+The ambassadors from Rhodes and Chios returned from Aetolia, having arranged a truce of thirty days and reporting that the Aetolians were ready for a settlement, and having fixed a definite day on which they asked Philip to meet them at Rhium, promising that they would bring the Aetolians to agree to whatever was necessary for making peace.
 
 Philip accepted the truce and wrote to the allies, instructing them to send to Patrae the men who were to sit in council and deliberate on a settlement with the Aetolians; he himself sailed from Lechaeum and reached Patrae on the second day.
 
-About this time some letters were forwarded to him from the region of Phocis, letters that Megaleas had been sending to the Aetolians, in which he urged them to take heart and remain in the war because Philip's situation was utterly desperate for lack of supplies. Besides this, the letters contained accusations against the king and bitterly hostile abuse.
+About this time some letters were forwarded to him from the region of Phocis, letters that Megaleas had been sending to the Aetolians, in which he urged them to take heart and remain in the war because Philip’s situation was utterly desperate for lack of supplies. Besides this, the letters contained accusations against the king and bitterly hostile abuse.
 
 When Philip read these and concluded that Apelles was the instigator of all the mischief, he at once placed him under guard and sent him off in haste to Corinth, together with his son and his favorite.
 
@@ -642,7 +602,7 @@ And about the same days Apelles too lost his life, along with his son and his fa
 
 So these men met the ruin they deserved and passed from life, especially because of the outrageous treatment they had shown toward Aratus.
 
-## Book 5 Chapter 29: Disturbed State of Achaia
+## Book 5 Chapter 29: Disturbed State of Achaea
 
 The Aetolians, who had been hoping to exploit the situation in their own favor, were now eager to conclude peace because the war was weighing them down and events had gone in a way they had not expected.
 
@@ -654,7 +614,7 @@ Philip, however, gladly took advantage of this excuse, since he was confident of
 
 He dismissed the Macedonian troops by way of Thessaly to spend the winter at home, while he himself sailed from Cenchreae, coasted along Attica, passed through the Euripus, and reached Demetrias. There he held Ptolemy, who was still the last surviving member of the conspiracy around Leontius, to account before a tribunal of Macedonians and had him executed.
 
-At this same time Hannibal, having invaded Italy, was encamped opposite the Roman forces near the river called the Padus. Antiochus, after subduing most of Coele-Syria, had once again dismissed his army into winter quarters, and Lycurgus, king of the Lacedaemonians, fled to Aetolia in alarm at the ephors.
+At this same time Hannibal, having invaded Italy, was encamped opposite the Roman forces near the river called the Po. Antiochus, after subduing most of Coele-Syria, had once again dismissed his army into winter quarters, and Lycurgus, king of the Lacedaemonians, fled to Aetolia in alarm at the ephors.
 
 For the ephors, acting on a false report that he was planning revolutionary action, gathered the young men and came by night to his house. But Lycurgus, having caught wind of what was happening, withdrew with his own household servants.
 
@@ -706,7 +666,7 @@ For this reason, when we say that beginnings extend not merely to the middle but
 
 That, too, is what we shall now try to do.
 
-## Book 5 Chapter 33: Previous "Universal" Histories Not Really Universal
+## Book 5 Chapter 33: Previous “Universal” Histories Not Really Universal
 
 I am not unaware that many other historians too make the same claim as I do, saying that they write universal history and have taken up the greatest subject among past events.
 
@@ -726,15 +686,9 @@ I have been led to say this because of the boastfulness of men who glorify thems
 
 ## Book 5 Chapter 34: Weakness of Ptolemy Philopator
 
-As soon as Ptolemy, called Philopator, after his father's death had removed his brother Magas and those who were working with him, took over the kingdom of Egypt,
+As soon as Ptolemy, called Philopator, after his father’s death had removed his brother Magas and those who were working with him, took over the kingdom of Egypt, he supposed that by his own action and by the deed just mentioned he had freed himself from dangers at home, and that fortune had delivered him from dangers abroad, since Antigonus and Seleucus were dead, while Antiochus and Philip, who had inherited their realms, were extremely young, scarcely more than boys.
 
-he supposed that by his own action and by the deed just mentioned he had freed himself from dangers at home, and that fortune had delivered him from dangers abroad, since Antigonus and Seleucus were dead, while Antiochus and Philip, who had inherited their realms, were extremely young, scarcely more than boys.
-
-Trusting therefore in the circumstances of the moment, he conducted the business of his rule in an increasingly festive spirit,
-
-making himself inaccessible and hard to approach for the people at court and for the other officials who managed affairs in Egypt, while showing himself negligent and idle toward those appointed over matters abroad,
-
-though his predecessors had paid no less attention to these matters, but rather more, than to the rule of Egypt itself.
+Trusting therefore in the circumstances of the moment, he conducted the business of his rule in an increasingly festive spirit, making himself inaccessible and hard to approach for the people at court and for the other officials who managed affairs in Egypt, while showing himself negligent and idle toward those appointed over matters abroad, though his predecessors had paid no less attention to these matters, but rather more, than to the rule of Egypt itself.
 
 Accordingly they kept pressure on the kings of Syria both by land and by sea, because they controlled Coele-Syria and Cyprus.
 
@@ -744,31 +698,23 @@ They also kept watch over affairs in Thrace and Macedonia, since they controlled
 
 Having thus stretched out their hands far afield and pushed the reach of their power well forward before them, they never felt anxiety about their rule in Egypt. Naturally, then, they took great pains over foreign affairs.
 
-But this king, neglecting each of these matters because of shameful lusts and senseless, constant drunkenness, naturally in a very short time found more than one man plotting against both his life and his throne,
-
-the first of whom was Cleomenes the Spartan.
+But this king, neglecting each of these matters because of shameful lusts and senseless, constant drunkenness, naturally in a very short time found more than one man plotting against both his life and his throne, the first of whom was Cleomenes the Spartan.
 
 ## Book 5 Chapter 35: Cleomenes Asks for Help from Egypt
 
 As long as the king called Euergetes was alive—the man with whom he had entered into partnership and solemn agreement—Cleomenes remained quiet, convinced that through him he would always obtain the support needed to recover his ancestral kingdom.
 
-But when that king died, and time kept passing, while the situation in Greece all but called for Cleomenes by name—since Antigonus was dead, the Achaeans were at war, and the Spartans, in accordance with Cleomenes' original purpose and policy, were joining the Aetolians in their hostility to the Achaeans and Macedonians—
-
-then indeed he was compelled all the more to hurry and exert himself to secure departure from Alexandria.
+But when that king died, and time kept passing, while the situation in Greece all but called for Cleomenes by name—since Antigonus was dead, the Achaeans were at war, and the Spartans, in accordance with Cleomenes’ original purpose and policy, were joining the Aetolians in their hostility to the Achaeans and Macedonians— then indeed he was compelled all the more to hurry and exert himself to secure departure from Alexandria.
 
 So at first he sought interviews and urged the king to send him out with the necessary funds and force.
 
-After that, when he was ignored, he begged at least to be released with only his own attendants; for, he said, the circumstances were showing him opportunities enough to regain his ancestral rule. But the king,
-
-taking no notice of any such matters and making no provision for the future because of the reasons already given, kept on senselessly and foolishly refusing Cleomenes.
+After that, when he was ignored, he begged at least to be released with only his own attendants; for, he said, the circumstances were showing him opportunities enough to regain his ancestral rule. But the king, taking no notice of any such matters and making no provision for the future because of the reasons already given, kept on senselessly and foolishly refusing Cleomenes.
 
 But Sosibius and his circle—for he was at that time the leading man in affairs—met together and held discussions about what should be done concerning him.
 
 They decided not to send him out with a fleet and funds, because, despising foreign affairs after the death of Antigonus, they thought that any expense spent on such matters would be wasted.
 
-Besides this, they were afraid that, with Antigonus dead and no rival left, Cleomenes might quickly bring Greece under his own control without a struggle and become for them a serious and formidable opponent,
-
-since he had seen their position at close quarters, had come to despise the king, and could observe that many parts of the kingdom were only loosely attached and far removed from the royal center, and offered many opportunities for decisive action.
+Besides this, they were afraid that, with Antigonus dead and no rival left, Cleomenes might quickly bring Greece under his own control without a struggle and become for them a serious and formidable opponent, since he had seen their position at close quarters, had come to despise the king, and could observe that many parts of the kingdom were only loosely attached and far removed from the royal center, and offered many opportunities for decisive action.
 
 For there were no small number of ships in the region of Samos and a considerable body of troops in the region of Ephesus.
 
@@ -778,21 +724,21 @@ The course left was to keep him there against his will. This too they all reject
 
 ## Book 5 Chapter 36: Cleomenes In Alexandria
 
-At the time when they were arranging the murder of Magas and Berenice, they were anxious that their attempt might fail, especially because of Berenice's boldness, and so they were forced to flatter everyone at court and to hold out hopes to all if events turned out according to their plan.
+At the time when they were arranging the murder of Magas and Berenice, they were anxious that their attempt might fail, especially because of Berenice’s boldness, and so they were forced to flatter everyone at court and to hold out hopes to all if events turned out according to their plan.
 
 At that moment Sosibius, seeing that Cleomenes needed help from the king but possessed judgment and a real understanding of affairs, held out great hopes to him and at the same time let him into the plot.
 
 And Cleomenes, seeing that he was alarmed and especially afraid of the foreign troops and mercenaries, urged him to be confident; for he promised that the mercenaries would do him no harm, but would actually help him.
 
-When Sosibius showed even greater amazement at this promise, he said, "Do you not see that there are nearly three thousand foreign troops here from the Peloponnese and about a thousand Cretans, and that if we merely give the signal, they will all readily serve us?
+When Sosibius showed even greater amazement at this promise, he said, “Do you not see that there are nearly three thousand foreign troops here from the Peloponnese and about a thousand Cretans, and that if we merely give the signal, they will all readily serve us?
 
 Once these men are assembled, whom are you afraid of?
 
-Surely not the soldiers from Syria and Caria?"
+Surely not the soldiers from Syria and Caria?”
 
 At the time, then, Sosibius was pleased to hear this and was doubly encouraged in his action against Berenice.
 
-But afterward, as he observed the king's slackness, he kept renewing the thought in his mind, and kept before his eyes both the boldness of Cleomenes and the goodwill that the foreign troops felt toward him. Therefore it was especially then that he urged the king and his friends to act first and shut Cleomenes up.
+But afterward, as he observed the king’s slackness, he kept renewing the thought in his mind, and kept before his eyes both the boldness of Cleomenes and the goodwill that the foreign troops felt toward him. Therefore it was especially then that he urged the king and his friends to act first and shut Cleomenes up.
 
 To carry out this plan...
 
@@ -808,7 +754,7 @@ When these terms had been ratified, Archidamus went back down to Sparta, trustin
 
 But Cleomenes, when he met him, killed Archidamus, though he spared Nicagoras and the others who were with him.
 
-So Nicagoras outwardly pretended that he owed Cleomenes gratitude for saving his own life, but inwardly he took the affair very hard, believing that he himself had become responsible for the king's destruction.
+So Nicagoras outwardly pretended that he owed Cleomenes gratitude for saving his own life, but inwardly he took the affair very hard, believing that he himself had become responsible for the king’s destruction.
 
 This same Nicagoras had sailed to Alexandria a short time earlier, bringing horses.
 
@@ -816,23 +762,15 @@ As he was disembarking from the ship, he came upon Cleomenes, Panteus, and Hippi
 
 When Cleomenes saw him and came up to him, he greeted him warmly and asked what had brought him there.
 
-When Nicagoras said that he had arrived with horses, Cleomenes said, "I wish you had brought male prostitutes and harp-girls instead of horses; that is what the present king is eager for."
+When Nicagoras said that he had arrived with horses, Cleomenes said, “I wish you had brought male prostitutes and harp-girls instead of horses; that is what the present king is eager for.”
 
-At that moment Nicagoras merely laughed and said nothing. But a few days later, after he had become more closely acquainted with Sosibius through the horse business, he repeated to him the remark just quoted against Cleomenes,
-
-and, seeing that Sosibius listened with pleasure, laid out for him the whole grievance he had long felt against Cleomenes.
+At that moment Nicagoras merely laughed and said nothing. But a few days later, after he had become more closely acquainted with Sosibius through the horse business, he repeated to him the remark just quoted against Cleomenes, and, seeing that Sosibius listened with pleasure, laid out for him the whole grievance he had long felt against Cleomenes.
 
 ## Book 5 Chapter 38: Cleomenes Is Arrested
 
-Sosibius, seeing that Nicagoras was hostile in his attitude toward Cleomenes, partly by giving him money on the spot and partly by promising more for the future, persuaded him to leave behind a sealed letter accusing Cleomenes,
+Sosibius, seeing that Nicagoras was hostile in his attitude toward Cleomenes, partly by giving him money on the spot and partly by promising more for the future, persuaded him to leave behind a sealed letter accusing Cleomenes, so that, when Nicagoras sailed away a few days later, his servant could bring the letter to Sosibius as though Nicagoras had sent it.
 
-so that, when Nicagoras sailed away a few days later, his servant could bring the letter to Sosibius as though Nicagoras had sent it.
-
-When Nicagoras had played his part in the scheme, and after his departure the letter had been brought by the servant to Sosibius,
-
-Sosibius immediately went to the king, taking both the servant and the letter with him. The servant said that Nicagoras had left the letter behind and instructed him to deliver it to Sosibius,
-
-and the letter explained that Cleomenes intended, unless they arranged to send him off with the fitting equipment and financial support, to rise against the king's interests.
+When Nicagoras had played his part in the scheme, and after his departure the letter had been brought by the servant to Sosibius, Sosibius immediately went to the king, taking both the servant and the letter with him. The servant said that Nicagoras had left the letter behind and instructed him to deliver it to Sosibius, and the letter explained that Cleomenes intended, unless they arranged to send him off with the fitting equipment and financial support, to rise against the king’s interests.
 
 Sosibius at once seized on this opening and urged the king and the other royal friends not to delay, but to keep Cleomenes under watch and shut him up.
 
@@ -844,13 +782,11 @@ He did so not because he was convinced he could carry out his plan successfully�
 
 At the same time, as it seems to me, he was turning over in his mind and setting before himself the thought that often comes to high-spirited men:
 
-"No, let me not die without effort and without glory,
-but only after doing some great deed
-that men yet to come may hear of."
+“No, let me not die without effort and without glory, but only after doing some great deed that men yet to come may hear of.”
 
 ## Book 5 Chapter 39: Death of Cleomenes
 
-So, after watching for the king's departure to Canopus, he spread a report among those guarding him that the king was about to release him. On that pretext he gave a feast to his own attendants, and sent sacrificial meat, garlands, and wine to the guards as well.
+So, after watching for the king’s departure to Canopus, he spread a report among those guarding him that the king was about to release him. On that pretext he gave a feast to his own attendants, and sent sacrificial meat, garlands, and wine to the guards as well.
 
 They made use of these things without suspicion and became thoroughly drunk. Then Cleomenes took with him the friends who were with him and the young attendants around his person, and about midday slipped out past the guards carrying daggers.
 
@@ -864,25 +800,19 @@ So Cleomenes ended his life in this way, a man who was engaging in company, natu
 
 ## Book 5 Chapter 40: Origin of War in Coele-Syria
 
-Not long after this, Theodotus, the man appointed over Coele-Syria, an Aetolian by birth, partly because he despised the king on account of the licentiousness of his life and his whole character,
+Not long after this, Theodotus, the man appointed over Coele-Syria, an Aetolian by birth, partly because he despised the king on account of the licentiousness of his life and his whole character, and partly because he had lost confidence in the men at court, since only a short time before he had rendered the king notable services in other matters and especially in Antiochus’s first move against Coele-Syria, yet had received no gratitude for this, but on the contrary had been recalled to Alexandria and had narrowly escaped with his life, for these reasons now resolved to open communication with Antiochus and hand over to him the cities of Coele-Syria. Antiochus gladly welcomed the prospect, and the affair quickly began to move forward.
 
-and partly because he had lost confidence in the men at court, since only a short time before he had rendered the king notable services in other matters and especially in Antiochus's first move against Coele-Syria, yet had received no gratitude for this, but on the contrary had been recalled to Alexandria and had narrowly escaped with his life,
-
-for these reasons now resolved to open communication with Antiochus and hand over to him the cities of Coele-Syria. Antiochus gladly welcomed the prospect, and the affair quickly began to move forward.
-
-But so that we may do the same for this royal house as we did for that of Egypt, let us go back to Antiochus's accession to power and from that point give a summary survey down to the beginning of the war that is now to be described.
+But so that we may do the same for this royal house as we did for that of Egypt, let us go back to Antiochus’s accession to power and from that point give a summary survey down to the beginning of the war that is now to be described.
 
 For Antiochus was the younger son of Seleucus, surnamed Callinicus. When his father died and his brother Seleucus succeeded to the kingship by right of age, Antiochus at first withdrew to the upper regions and made his residence there.
 
-But when Seleucus, after crossing Taurus with an army, was assassinated, as we have said before, Antiochus in turn took over the government and became king himself,
-
-entrusting the rule on this side of Taurus to Achaeus, and placing the upper parts of the kingdom in the hands of Molon and Molon's brother Alexander, Molon being satrap of Media and his brother of Persia.
+But when Seleucus, after crossing Taurus with an army, was assassinated, as we have said before, Antiochus in turn took over the government and became king himself, entrusting the rule on this side of Taurus to Achaeus, and placing the upper parts of the kingdom in the hands of Molon and Molon’s brother Alexander, Molon being satrap of Media and his brother of Persia.
 
 ## Book 5 Chapter 41: The Royal Family of Syria
 
 These men, despising him because of his youth, hoping that Achaeus would become their partner in the attempt, and above all fearing the brutality and malicious interference of Hermeias, who at that time was in control of the whole administration, set about revolting and drawing the upper satrapies away with them.
 
-Hermeias was a Carian, and he had come to preside over affairs because Seleucus, the king's brother, had entrusted him with this confidence when he undertook his campaign against Attalus.
+Hermeias was a Carian, and he had come to preside over affairs because Seleucus, the king’s brother, had entrusted him with this confidence when he undertook his campaign against Attalus.
 
 Once he had gained this authority, he envied everyone at court who held a prominent position; and, being cruel by nature, he punished some by putting the worst construction on mere mistakes, while against others he brought fabricated and false accusations, acting as an unforgiving and bitter judge.
 
@@ -890,37 +820,31 @@ Most of all he was eager, and made it his business in every way, to destroy Epig
 
 With this purpose in mind, he kept waiting for some opportunity and pretext to use against the man I have mentioned.
 
-When the council was assembled to consider Molon's revolt, and the king ordered each member to state his view on how they ought to deal with the rebels,
+When the council was assembled to consider Molon’s revolt, and the king ordered each member to state his view on how they ought to deal with the rebels, Epigenes spoke first and advised that there should be no delay, but that they should take the matter in hand at once, and above all that the king should proceed to the region himself and be present on the spot at the critical moments.
 
-Epigenes spoke first and advised that there should be no delay, but that they should take the matter in hand at once, and above all that the king should proceed to the region himself and be present on the spot at the critical moments.
-
-For in that way either Molon's party would not dare at all to engage in revolutionary action, with the king present and visible to the masses with a force of proper size,
-
-or, if they did venture it and persisted in their plan, they would quickly be swept up by the crowds and handed over into the king's power.
+For in that way either Molon’s party would not dare at all to engage in revolutionary action, with the king present and visible to the masses with a force of proper size, or, if they did venture it and persisted in their plan, they would quickly be swept up by the crowds and handed over into the king’s power.
 
 ## Book 5 Chapter 42: Antiochus Encouraged to Attack Coele-Syria
 
 While the man just mentioned was still speaking, Hermeias, in a burst of anger, declared that for a long time he had escaped notice despite being a plotter and traitor against the kingdom.
 
-But now, he said, he had done well to reveal himself by the advice he had given, since he was eager to deliver the king's person to the rebels with only a few attendants.
+But now, he said, he had done well to reveal himself by the advice he had given, since he was eager to deliver the king’s person to the rebels with only a few attendants.
 
 For the moment, however, after as it were merely breathing life into the slander, he let Epigenes pass, making it look more like an ill-timed outburst of bitterness than settled hostility.
 
-As for his own opinion, terrified by the danger and inexperienced in war, he shrank from the expedition against Molon, but urged an expedition against Ptolemy, convinced that this war was safe because of that king's indolence.
+As for his own opinion, terrified by the danger and inexperienced in war, he shrank from the expedition against Molon, but urged an expedition against Ptolemy, convinced that this war was safe because of that king’s indolence.
 
 So for the time being, after overawing everyone in the council, he sent Xenon and Theodotus the Hemiolius with a force as generals against Molon, while he kept continually urging Antiochus on, thinking that he ought to lay hands on affairs in Coele-Syria.
 
-He thought that only in this way, if war hemmed the young king in on every side, would he neither pay the penalty for his former wrongdoing nor be deprived of his present power, because of the king's needs and the contests and dangers that would always surround him.
+He thought that only in this way, if war hemmed the young king in on every side, would he neither pay the penalty for his former wrongdoing nor be deprived of his present power, because of the king’s needs and the contests and dangers that would always surround him.
 
-And so at last he forged a letter as though it had been sent by Achaeus and presented it to the king, setting out that Ptolemy was inviting Achaeus to assert his claim to power and saying that he would furnish ships and money for every undertaking, if only he would take up the diadem and openly make himself known to all as a claimant to the throne,
-
-which, the letter said, he already possessed in fact even now, but by begrudging himself the title he was pushing aside the crown that fortune offered him.
+And so at last he forged a letter as though it had been sent by Achaeus and presented it to the king, setting out that Ptolemy was inviting Achaeus to assert his claim to power and saying that he would furnish ships and money for every undertaking, if only he would take up the diadem and openly make himself known to all as a claimant to the throne, which, the letter said, he already possessed in fact even now, but by begrudging himself the title he was pushing aside the crown that fortune offered him.
 
 The king believed what was written and stood ready and eager to campaign against Coele-Syria.
 
 ## Book 5 Chapter 43: Revolt of Molon In Media
 
-While he was at Seleuceia-on-the-Zeugma at this time, Diognetus the admiral arrived from Cappadocia on the Euxine, bringing Laodice, the daughter of King Mithridates, still a maiden, who had been designated as the king's wife.
+While he was at Seleuceia-on-the-Zeugma at this time, Diognetus the admiral arrived from Cappadocia on the Euxine, bringing Laodice, the daughter of King Mithridates, still a maiden, who had been designated as the king’s wife.
 
 Mithridates claimed to be descended from one of the seven Persians who overthrew the Magus, and he had preserved the dynasty that had been handed down to his ancestors from the beginning by Darius along the Euxine Sea.
 
@@ -928,9 +852,7 @@ Antiochus received the girl with the fitting welcome and protection, and at once
 
 After the wedding had been completed, he went down to Antioch, proclaimed Laodice queen, and thereafter busied himself with preparations for the war.
 
-Meanwhile Molon, having made the populations of his own satrapy ready for anything, partly through hopes of profit and partly through the fears he instilled in their leaders by circulating threatening forged letters supposedly from the king,
-
-and having his brother Alexander as a ready ally, while also securing the neighboring satrapies through the goodwill and bribery of their governors, took the field with a large force against the king's generals.
+Meanwhile Molon, having made the populations of his own satrapy ready for anything, partly through hopes of profit and partly through the fears he instilled in their leaders by circulating threatening forged letters supposedly from the king, and having his brother Alexander as a ready ally, while also securing the neighboring satrapies through the goodwill and bribery of their governors, took the field with a large force against the king’s generals.
 
 Xenon and Theodotus, alarmed by his advance, withdrew into the cities.
 
@@ -948,15 +870,11 @@ It also borders on some of the greatest and most warlike peoples. Along its east
 
 It also commands the so-called Caspian Gates and joins the mountains of the Tapyri, which are not far from the Hyrcanian Sea.
 
-On the southern side it slopes down toward Mesopotamia and the territory of Apolloniatis, and it lies beside Persia, screened by the projecting barrier of Mount Zagros,
-
-which has an ascent of about a hundred stades, and, having many separate ridges and converging passes within it, is broken up by valleys and in some places by ravines, inhabited by Cossaei, Corbrenae, Carchi, and many other barbarian peoples who are thought to be exceptionally suited for war.
+On the southern side it slopes down toward Mesopotamia and the territory of Apolloniatis, and it lies beside Persia, screened by the projecting barrier of Mount Zagros, which has an ascent of about a hundred stades, and, having many separate ridges and converging passes within it, is broken up by valleys and in some places by ravines, inhabited by Cossaei, Corbrenae, Carchi, and many other barbarian peoples who are thought to be exceptionally suited for war.
 
 On the western side it joins the people called the Satrapeioi, who are not far distant from the tribes that extend down to the Euxine Sea.
 
-Its northern parts are enclosed by the Elymaeans and the Aniaracae,
-
-and also by the Cadusians and the Matiani, and they lie above the parts of Pontus that join the Maeotis.
+Its northern parts are enclosed by the Elymaeans and the Aniaracae, and also by the Cadusians and the Matiani, and they lie above the parts of Pontus that join the Maeotis.
 
 Media itself is divided by several mountain ranges running from east to west, and between them lie plains crowded with cities and villages.
 
@@ -964,21 +882,19 @@ Media itself is divided by several mountain ranges running from east to west, an
 
 Now that he was master of this region, which had all the resources of a kingdom, Molon had long been formidable, as I said before, because of the scale of his power.
 
-But at this point, since the king's generals seemed to have yielded the open country to him, and since his own forces were emboldened because their first hopes were advancing exactly as they had expected, he came to seem utterly terrifying and impossible to withstand to everyone living in Asia.
+But at this point, since the king’s generals seemed to have yielded the open country to him, and since his own forces were emboldened because their first hopes were advancing exactly as they had expected, he came to seem utterly terrifying and impossible to withstand to everyone living in Asia.
 
 Accordingly, his first plan was to cross the Tigris and lay siege to Seleucia.
 
 But when Zeuxis blocked the crossing by seizing the river boats, Molon withdrew and went back to the place called the camp at Ctesiphon, where he prepared winter quarters for his forces.
 
-When the king heard of Molon's advance and of the retreat of his own generals, he himself was ready once more to campaign against Molon, abandoning his move against Ptolemy and refusing to let the right moment slip away.
+When the king heard of Molon’s advance and of the retreat of his own generals, he himself was ready once more to campaign against Molon, abandoning his move against Ptolemy and refusing to let the right moment slip away.
 
 But Hermeias, sticking to his original plan, sent Xenoetas the Achaean with an army against Molon as commander with full powers, saying that rebels should be fought by generals, while the king ought himself to make war on kings and undertake struggles that concerned the whole realm.
 
 Meanwhile Hermeias, keeping the young king under his control because of his age, pressed matters forward and assembled the forces at Apamea; then, breaking camp from there, he came to Laodicea.
 
-From that place the king set out with his whole army, crossed the desert, and entered the valley called Marsyas,
-
-which lies between the foothills of Lebanon and Anti-Lebanon and is squeezed into a narrow pass by the mountains just mentioned.
+From that place the king set out with his whole army, crossed the desert, and entered the valley called Marsyas, which lies between the foothills of Lebanon and Anti-Lebanon and is squeezed into a narrow pass by the mountains just mentioned.
 
 At its narrowest point this place is broken up by marshland.
 
@@ -998,13 +914,13 @@ For Xenoetas, the general sent out with full powers, as I said above, had gained
 
 Nevertheless, after marching down to Seleucia and summoning Diogenes, the governor of Susiana, and Pythiades, the governor of the Persian Gulf region, he led out his forces and encamped opposite the enemy with the river Tigris as his protection.
 
-Then many men swam across to him from Molon's camp and told him that if he crossed the river, Molon's whole army would come over to his side; for they said the troops envied Molon, but were strongly loyal to the king. Elated by these reports, Xenoetas resolved to cross the Tigris.
+Then many men swam across to him from Molon’s camp and told him that if he crossed the river, Molon’s whole army would come over to his side; for they said the troops envied Molon, but were strongly loyal to the king. Elated by these reports, Xenoetas resolved to cross the Tigris.
 
 He gave the impression that he intended to bridge the river at a place where there was a sort of island, but made no preparations suitable for that part of the river.
 
-As a result, Molon's men came to despise this announced move.
+As a result, Molon’s men came to despise this announced move.
 
-Meanwhile Xenoetas gathered boats, fitted them out, and took great care over these preparations. Then, choosing from the whole army the strongest cavalry and infantry, and leaving Zeuxis and Pythiades at the camp, he marched by night to a point about eighty stades below Molon's camp.
+Meanwhile Xenoetas gathered boats, fitted them out, and took great care over these preparations. Then, choosing from the whole army the strongest cavalry and infantry, and leaving Zeuxis and Pythiades at the camp, he marched by night to a point about eighty stades below Molon’s camp.
 
 After transporting his force safely in the boats, he encamped while it was still night in a naturally strong position, which was for the most part enclosed by the river and on the rest secured by marshes and bogs.
 
@@ -1012,13 +928,13 @@ After transporting his force safely in the boats, he encamped while it was still
 
 When Molon realized what had happened, he sent out his cavalry, thinking they would easily stop those who were still crossing and crush those who had already crossed.
 
-But when they came near Xenoetas's men, their ignorance of the terrain made them useless even without enemy action: sinking and being swallowed up in the bogs under their own weight, they were all rendered ineffective, and many of them perished.
+But when they came near Xenoetas’s men, their ignorance of the terrain made them useless even without enemy action: sinking and being swallowed up in the bogs under their own weight, they were all rendered ineffective, and many of them perished.
 
-Xenoetas, convinced that if he drew near, Molon's forces would change sides and join him, advanced along the river and encamped close to the opposing army.
+Xenoetas, convinced that if he drew near, Molon’s forces would change sides and join him, advanced along the river and encamped close to the opposing army.
 
 At this moment Molon, either as a stratagem or because he distrusted his troops and feared that something of what Xenoetas expected might actually happen, left his baggage in the camp, broke up by night, and pushed on with a rapid march toward Media.
 
-Xenoetas, supposing that Molon had fled in panic at his advance and because he distrusted his own forces, first occupied the enemy camp, and then ferried over to himself from Zeuxis's camp his own cavalry and their baggage.
+Xenoetas, supposing that Molon had fled in panic at his advance and because he distrusted his own forces, first occupied the enemy camp, and then ferried over to himself from Zeuxis’s camp his own cavalry and their baggage.
 
 After this he assembled the men and urged the mass of the soldiers to be confident and to hold fine hopes for the whole situation, now that Molon had fled.
 
@@ -1038,17 +954,15 @@ In general there was a chaotic and indiscriminate confusion throughout the camps
 
 And because the camp on the opposite bank was visible and only a very short distance away, their desire to save themselves made them forget the force and difficulty of the river.
 
-So in their desperation and their rush for safety they threw themselves into the river, and they even drove the pack animals in along with the baggage,
-
-as though the river, by some providential care, would cooperate with them and carry them safely across to the camp on the far side.
+So in their desperation and their rush for safety they threw themselves into the river, and they even drove the pack animals in along with the baggage, as though the river, by some providential care, would cooperate with them and carry them safely across to the camp on the far side.
 
 The result was that the stream presented a tragic and extraordinary spectacle, with horses, pack animals, weapons, corpses, and baggage of every kind all being swept along together with the swimmers.
 
-After seizing Xenoetas's camp, Molon then crossed the river safely, since no one hindered him because Zeuxis and his men had fled at his onset; and so he became master of Zeuxis's camp as well.
+After seizing Xenoetas’s camp, Molon then crossed the river safely, since no one hindered him because Zeuxis and his men had fled at his onset; and so he became master of Zeuxis’s camp as well.
 
 Having accomplished this, he advanced with his army to Seleucia.
 
-He took that city too at the first assault, because Zeuxis's men had fled, and with it he also seized Diomedon, the commandant of Seleucia. After that he advanced and brought the upper satrapies under his control without striking a blow.
+He took that city too at the first assault, because Zeuxis’s men had fled, and with it he also seized Diomedon, the commandant of Seleucia. After that he advanced and brought the upper satrapies under his control without striking a blow.
 
 Once he had made himself master of Babylonia and of the region along the Persian Gulf, he came to Susa.
 
@@ -1084,21 +998,21 @@ Seeing that the king was alarmed and frightened by the outbreak at so critical a
 
 For, he said, no orderly conduct of the expedition was possible when so much anger and faction had been stirred up among the men.
 
-The king heard this with displeasure and was extremely eager, because of Epigenes' experience in warfare, to have him accompany the campaign.
+The king heard this with displeasure and was extremely eager, because of Epigenes’ experience in warfare, to have him accompany the campaign.
 
-But he was so hemmed in and already so dominated by Hermeias' scheming, watchfulness, and ingratiating service that he was no longer master of himself; so, yielding to the pressure of the moment, he granted what was demanded.
+But he was so hemmed in and already so dominated by Hermeias’ scheming, watchfulness, and ingratiating service that he was no longer master of himself; so, yielding to the pressure of the moment, he granted what was demanded.
 
 When Epigenes withdrew, as ordered, to his quarters, the men in the council were appalled at the spite behind it.
 
 The troops, on the other hand, once they had received what they asked for, swung around and became well disposed toward the man responsible for setting their pay right, except for the Cyrrhestians.
 
-These mutinied, and being nearly six thousand in number, went over to open revolt and caused a great deal of trouble for a considerable time. But in the end they were defeated in battle by one of the king's generals; most were killed, and the survivors surrendered themselves to the king's mercy.
+These mutinied, and being nearly six thousand in number, went over to open revolt and caused a great deal of trouble for a considerable time. But in the end they were defeated in battle by one of the king’s generals; most were killed, and the survivors surrendered themselves to the king’s mercy.
 
-Hermeias, having thus made the king's friends dependent on him through fear and the troops through the services he had rendered them, broke camp and marched on with the king.
+Hermeias, having thus made the king’s friends dependent on him through fear and the troops through the services he had rendered them, broke camp and marched on with the king.
 
 As for Epigenes, he devised the following plot against him, taking as his accomplice Alexis, the commander of the citadel of Apamea.
 
-He wrote a letter as though it had been sent from Molon to Epigenes, and by dazzling one of Epigenes' servants with great promises persuaded him to slip the letter into Epigenes' papers.
+He wrote a letter as though it had been sent from Molon to Epigenes, and by dazzling one of Epigenes’ servants with great promises persuaded him to slip the letter into Epigenes’ papers.
 
 Once this had been done, Alexis immediately appeared and asked Epigenes whether he had received any letters from Molon.
 
@@ -1116,9 +1030,9 @@ There a council was held on the question of how they should advance against Molo
 
 Hermeias thought they should march along the Tigris, keeping that river, as well as the Lycus and the Caprus, in front of them.
 
-But Zeuxis, with the fate of Epigenes before his eyes, hesitated to say what he really thought; still, because Hermeias' ignorance was so obvious, he at last found the courage to advise that they should cross the Tigris.
+But Zeuxis, with the fate of Epigenes before his eyes, hesitated to say what he really thought; still, because Hermeias’ ignorance was so obvious, he at last found the courage to advise that they should cross the Tigris.
 
-He pointed out both the general difficulty of marching along the river and the further fact that, after traversing a considerable distance and then passing through six days of desert, they would reach what was called the King's Canal.
+He pointed out both the general difficulty of marching along the river and the further fact that, after traversing a considerable distance and then passing through six days of desert, they would reach what was called the King’s Canal.
 
 If the enemy occupied that in advance, crossing would be impossible, while a retreat back through the desert would plainly be dangerous, especially because of the shortage of supplies they would then face.
 
@@ -1132,13 +1046,13 @@ As a result, Molon would be forced either to risk a battle, or, if he refused to
 
 ## Book 5 Chapter 52: Antiochus Advances Against Molon
 
-When Zeuxis' advice was adopted, they immediately divided the army into three parts and ferried the men and baggage across the river at three separate places.
+When Zeuxis’ advice was adopted, they immediately divided the army into three parts and ferried the men and baggage across the river at three separate places.
 
-After this they marched in the direction of Dura and relieved that city from the siege by a sudden attack, for one of Molon's commanders happened to be besieging it.
+After this they marched in the direction of Dura and relieved that city from the siege by a sudden attack, for one of Molon’s commanders happened to be besieging it.
 
 Then, by continuing their marches without interruption, on the eighth day they crossed the pass called Oreicum and came down into Apollonia.
 
-At the same time Molon learned of the king's arrival. Since he distrusted the populations of Susiana and Babylonia, because he had only recently gained control of them and that in an unexpected way, and since he also feared being cut off from a return to Media, he decided to bridge the Tigris and move his forces across.
+At the same time Molon learned of the king’s arrival. Since he distrusted the populations of Susiana and Babylonia, because he had only recently gained control of them and that in an unexpected way, and since he also feared being cut off from a return to Media, he decided to bridge the Tigris and move his forces across.
 
 He was eager, if possible, to seize the rough country of Apolloniatis first, because he had confidence in the large number of slingers known as Cyrtii.
 
@@ -1174,11 +1088,9 @@ Dividing the reserve bodies of infantry and cavalry between the two wings, he or
 
 After this he rode along the line and addressed the troops in a few words suited to the moment. He entrusted the left wing to Hermeias and Zeuxis, while he himself held the right.
 
-Molon, by contrast, found it hard to lead his army out,
+Molon, by contrast, found it hard to lead his army out, and their deployment too was confused and disordered because of the senseless panic of the previous night.
 
-and their deployment too was confused and disordered because of the senseless panic of the previous night.
-
-Still, he divided his cavalry between the two wings, judging from the enemy's formation what arrangement they would probably use, and in the space between the cavalry bodies he stationed the shield-bearing infantry, the Gauls, and in general all his heavy troops.
+Still, he divided his cavalry between the two wings, judging from the enemy’s formation what arrangement they would probably use, and in the space between the cavalry bodies he stationed the shield-bearing infantry, the Gauls, and in general all his heavy troops.
 
 His archers, slingers, and that whole class of troops he posted outside the cavalry on either flank.
 
@@ -1186,17 +1098,17 @@ And he drew up his scythed chariots in front of the army at intervals. He gave t
 
 ## Book 5 Chapter 54: Defeat and Death of Molon
 
-When the armies advanced to engage, Molon's right wing remained loyal and attacked Zeuxis' division with vigor, but his left wing no sooner came within sight of the king than it went over to the enemy.
+When the armies advanced to engage, Molon’s right wing remained loyal and attacked Zeuxis’ division with vigor, but his left wing no sooner came within sight of the king than it went over to the enemy.
 
-As a result, Molon's men lost heart, while the king's troops were strengthened twofold in confidence.
+As a result, Molon’s men lost heart, while the king’s troops were strengthened twofold in confidence.
 
-Molon understood what had happened and, now being surrounded on every side, thought of the outrages that would be inflicted on him if he were taken alive and fell into the enemy's hands. So he laid violent hands on himself.
+Molon understood what had happened and, now being surrounded on every side, thought of the outrages that would be inflicted on him if he were taken alive and fell into the enemy’s hands. So he laid violent hands on himself.
 
 In much the same way all who had shared in the revolt fled each to his own place and ended their lives by the same kind of death.
 
-Neolaus escaped from the battle and reached Persis, where Alexander, Molon's brother, was staying. There he slaughtered their mother and Molon's children; and after their deaths he killed himself as well, having persuaded Alexander to do the same.
+Neolaus escaped from the battle and reached Persis, where Alexander, Molon’s brother, was staying. There he slaughtered their mother and Molon’s children; and after their deaths he killed himself as well, having persuaded Alexander to do the same.
 
-The king, after plundering the enemy camp, ordered Molon's body to be impaled in the most conspicuous place in Media.
+The king, after plundering the enemy camp, ordered Molon’s body to be impaled in the most conspicuous place in Media.
 
 Those appointed for the task carried this out at once, transporting the body to Callonitis and impaling it close to the ascent toward the Zagros.
 
@@ -1224,27 +1136,25 @@ Yet when news came that a son had been born to the king, he reasoned that Antioc
 
 He was convinced that, if Antiochus were removed, he himself, as guardian of the child, would hold power over the kingdom.
 
-Once this had been decided, they crossed the Zagros and invaded the territory of Artabazanes,
-
-which borders on Media, being separated from it by the mountain chain that lies between; while farther north some parts of it look toward the Pontus in the region above the Phasis, and it stretches to the Hyrcanian Sea.
+Once this had been decided, they crossed the Zagros and invaded the territory of Artabazanes, which borders on Media, being separated from it by the mountain chain that lies between; while farther north some parts of it look toward the Pontus in the region above the Phasis, and it stretches to the Hyrcanian Sea.
 
 It contains a large population of brave men, especially cavalry, and it is self-sufficient in the other equipment needed for war as well.
 
 This rulership, it so happens, had survived from Persian times, because it had been overlooked in the age of Alexander.
 
-But Artabazanes, alarmed by the king's advance and especially by reason of his age, for he was by then extremely old, yielded to the circumstances and made terms acceptable to Antiochus.
+But Artabazanes, alarmed by the king’s advance and especially by reason of his age, for he was by then extremely old, yielded to the circumstances and made terms acceptable to Antiochus.
 
 ## Book 5 Chapter 56: Death of Hermeias
 
-After this settlement had been ratified, Apollophanes the physician, who enjoyed the king's special affection, saw that Hermeias was no longer bearing his power within any proper limits. He was anxious for the king, but even more suspicious and fearful for himself.
+After this settlement had been ratified, Apollophanes the physician, who enjoyed the king’s special affection, saw that Hermeias was no longer bearing his power within any proper limits. He was anxious for the king, but even more suspicious and fearful for himself.
 
-So when he found an opportunity he addressed the king, urging him not to be careless or unsuspecting of Hermeias' audacity, and not to wait until he had to struggle with misfortunes like those that had overtaken his brother.
+So when he found an opportunity he addressed the king, urging him not to be careless or unsuspecting of Hermeias’ audacity, and not to wait until he had to struggle with misfortunes like those that had overtaken his brother.
 
 He said the danger was not far off, and begged the king to be alert and to come quickly to the aid of himself and his friends.
 
 Antiochus answered that he too disliked and feared Hermeias, and said that he was deeply grateful to Apollophanes for daring to speak to him about the matter with such loyal concern.
 
-This made Apollophanes confident, since he saw that he had not been mistaken in judging the king's feelings and attitude.
+This made Apollophanes confident, since he saw that he had not been mistaken in judging the king’s feelings and attitude.
 
 Antiochus then asked Apollophanes to help secure the safety of himself and his friends, not only with words but with action.
 
@@ -1254,9 +1164,9 @@ At the same time they gave themselves the freedom, under cover of the medical vi
 
 In that period they prepared the men suited to the undertaking, and because everyone readily cooperated out of hatred for Hermeias, they moved toward carrying out the plot.
 
-Since the physicians declared that Antiochus ought to take walks at daybreak in the cool air, Hermeias came at the appointed time, and with him came the king's friends who knew of the plan.
+Since the physicians declared that Antiochus ought to take walks at daybreak in the cool air, Hermeias came at the appointed time, and with him came the king’s friends who knew of the plan.
 
-The others were late, because the king's departure was taking place at a very different hour from his usual one.
+The others were late, because the king’s departure was taking place at a very different hour from his usual one.
 
 So they drew Hermeias away from the camp to a lonely place, and when the king turned aside a little, as though for a necessary purpose, they stabbed Hermeias to death.
 
@@ -1264,17 +1174,13 @@ Hermeias, then, ended his life in this way, suffering no punishment equal to the
 
 The king, freed from great fear and embarrassment, continued his march homeward, and all the people of the country approved both his actions and his designs; above all, as he passed, they celebrated the removal of Hermeias.
 
-At the same time in Apamea the women stoned Hermeias' wife to death, and the boys did the same to his sons.
+At the same time in Apamea the women stoned Hermeias’ wife to death, and the boys did the same to his sons.
 
 ## Book 5 Chapter 57: Achaeus Attempts Treason
 
-When Antiochus had returned home and distributed his troops into winter quarters, he kept sending messages to Achaeus,
+When Antiochus had returned home and distributed his troops into winter quarters, he kept sending messages to Achaeus, reproaching him first for having dared to put on the diadem and act as king, and second for warning him that his dealings with Ptolemy and, in general, his excessive agitation had not escaped notice.
 
-reproaching him first for having dared to put on the diadem and act as king, and second for warning him that his dealings with Ptolemy and, in general, his excessive agitation had not escaped notice.
-
-For while the king was campaigning against Artabazanes, Achaeus had convinced himself that Antiochus might suffer some disaster; and even if he did not, Achaeus hoped that, because of the great distance,
-
-he would be able to forestall him by invading Syria and, using the Cyrrhestians who had revolted from the king as his allies, quickly gain control of the kingdom's affairs. With this in mind he set out from Lydia with his whole army.
+For while the king was campaigning against Artabazanes, Achaeus had convinced himself that Antiochus might suffer some disaster; and even if he did not, Achaeus hoped that, because of the great distance, he would be able to forestall him by invading Syria and, using the Cyrrhestians who had revolted from the king as his allies, quickly gain control of the kingdom’s affairs. With this in mind he set out from Lydia with his whole army.
 
 When he reached Laodicea in Phrygia, he put on the diadem and for the first time dared to conduct himself and write to the cities as king, being urged on above all in this direction by the exile Garsyeris.
 
@@ -1292,7 +1198,7 @@ Therefore, when spring approached and he had gathered his forces at Apamea, he i
 
 Many things were said on this question, about the terrain, the necessary preparations, and the cooperation to be expected from the naval force; but Apollophanes, whom I mentioned before, a native of Seleucia, cut short all the proposals just described.
 
-He said it was foolish to desire Coele-Syria and march against it while allowing Seleucia to remain in Ptolemy's hands, when that city was the founding center and, so to speak, the hearth of their own dominion.
+He said it was foolish to desire Coele-Syria and march against it while allowing Seleucia to remain in Ptolemy’s hands, when that city was the founding center and, so to speak, the hearth of their own dominion.
 
 Quite apart from the disgrace involved in seeing it garrisoned by the kings of Egypt, it also offered, in practical terms, the greatest and finest bases for action.
 
@@ -1300,13 +1206,11 @@ So long as it was held by the enemy, it was the greatest hindrance to all their 
 
 For wherever they might decide to advance, they would need to exercise no less care and guarding over their own territory, because of the danger that enemy operations launched from that city posed.
 
-But if they took it, he said, they would not only secure their own country firmly, but would also gain powerful support for their other undertakings and designs, both by land and by sea, because of the site's strategic advantages.
+But if they took it, he said, they would not only secure their own country firmly, but would also gain powerful support for their other undertakings and designs, both by land and by sea, because of the site’s strategic advantages.
 
 Everyone was persuaded by what he said, and it was decided to make the capture of this city their first step.
 
-For Seleucia was still at that time held by garrisons of the Egyptian kings, dating from the time of Ptolemy called Euergetes,
-
-when, because of what had happened to Berenice and in anger on her behalf, he campaigned in Syria and gained possession of this city.
+For Seleucia was still at that time held by garrisons of the Egyptian kings, dating from the time of Ptolemy called Euergetes, when, because of what had happened to Berenice and in anger on her behalf, he campaigned in Syria and gained possession of this city.
 
 ## Book 5 Chapter 59: Description of Seleucia
 
@@ -1348,7 +1252,7 @@ When the signal was given, all of them together and from every side pressed the 
 
 For at the other points the ground did not really admit an assault by scaling ladders at all, unless men somehow clung and scrambled upward on all fours; but the dockyards and the suburb did allow ladders to be brought up, planted, and leaned securely against them.
 
-So, while the men from the fleet fixed their ladders against the dockyards and Ardys' men against the suburb and pressed the attack hard, and while those inside the city could not bring help to these places because danger surrounded them everywhere at once, the suburb quickly fell into the hands of Ardys and his men.
+So, while the men from the fleet fixed their ladders against the dockyards and Ardys’ men against the suburb and pressed the attack hard, and while those inside the city could not bring help to these places because danger surrounded them everywhere at once, the suburb quickly fell into the hands of Ardys and his men.
 
 As soon as it was taken, the corrupted subordinate officers ran to Leontius, the chief commander, and urged him to send envoys and come to terms with Antiochus before the city was stormed outright.
 
@@ -1360,9 +1264,7 @@ The king accepted the proposal and agreed to grant safety to all the free inhabi
 
 When he had taken over the city, he not only spared the free population but also brought back those of the Seleucians who had been exiled, restoring to them both their citizenship and their property; and he secured the harbor and the citadel with garrisons.
 
-While he was still occupied with these matters,
-
-a letter arrived from Theodotus, in which he urgently summoned the king and offered to put the affairs of Coele-Syria into his hands. This threw Antiochus into great perplexity and uncertainty as to what he should do and how he ought to handle the news brought to him.
+While he was still occupied with these matters, a letter arrived from Theodotus, in which he urgently summoned the king and offered to put the affairs of Coele-Syria into his hands. This threw Antiochus into great perplexity and uncertainty as to what he should do and how he ought to handle the news brought to him.
 
 This Theodotus was an Aetolian by birth who, as I have related above, had rendered great services to the kingdom of Ptolemy. Yet for these he was not only judged unworthy of any gratitude, but had even been put in danger of his life, around the very time when Antiochus was conducting his campaign against Molon.
 
@@ -1372,9 +1274,9 @@ The king set aside his designs against Achaeus and treated everything else as of
 
 After passing through the valley called Marsyas, he encamped near the narrows at Gerrha, by the lake that lies between the mountains.
 
-Learning that Nicolaus, Ptolemy's general, was encamped before Ptolemais besieging Theodotus, he left his heavy-armed troops behind, ordering their commanders to besiege Brochi—the place situated on the lake and commanding the pass—while he himself took the light-armed troops and advanced, intending to raise the siege.
+Learning that Nicolaus, Ptolemy’s general, was encamped before Ptolemais besieging Theodotus, he left his heavy-armed troops behind, ordering their commanders to besiege Brochi—the place situated on the lake and commanding the pass—while he himself took the light-armed troops and advanced, intending to raise the siege.
 
-But Nicolaus, having already learned beforehand of the king's approach, withdrew himself, and sent out Lagoras the Cretan and Dorymenes the Aetolian to seize in advance the narrows near Berytus.
+But Nicolaus, having already learned beforehand of the king’s approach, withdrew himself, and sent out Lagoras the Cretan and Dorymenes the Aetolian to seize in advance the narrows near Berytus.
 
 The king attacked these men in his first assault and
 
@@ -1386,15 +1288,11 @@ When Theodotus and Panaetolus came out to meet him, together with their friends,
 
 Of these, twenty were decked vessels of superior construction, none smaller than a quadrireme, while the rest were triremes, biremes, and cutters. These he handed over to Diognetus the admiral.
 
-When word reached him that Ptolemy had marched out to Memphis, that all his forces had been gathered at Pelusium, and that they were opening the sluices of the canals and stopping up the supplies of drinking water,
-
-he gave up his plan of attacking Pelusium, and instead moved against the cities, trying to bring them over to his side, some by force and others by persuasion.
+When word reached him that Ptolemy had marched out to Memphis, that all his forces had been gathered at Pelusium, and that they were opening the sluices of the canals and stopping up the supplies of drinking water, he gave up his plan of attacking Pelusium, and instead moved against the cities, trying to bring them over to his side, some by force and others by persuasion.
 
 Of the cities, the weaker ones, terrified at his approach, went over to him, while those that trusted in their resources and the strength of their positions held out; these he was compelled to besiege by encampment, wearing away the time.
 
-As for Ptolemy and his people, although they had been so openly betrayed, they had not even the intention of lending immediate aid to their own affairs—as duty required—because of their incapacity:
-
-for to such a degree had everything connected with the affairs of war been neglected by them.
+As for Ptolemy and his people, although they had been so openly betrayed, they had not even the intention of lending immediate aid to their own affairs—as duty required—because of their incapacity: for to such a degree had everything connected with the affairs of war been neglected by them.
 
 ## Book 5 Chapter 63: Preparations In Egypt
 
@@ -1418,9 +1316,7 @@ They sent out recruiting officers as well, and made provision of supplies for th
 
 In the same way they attended to the rest of the preparations, taking turns and traveling continually to Alexandria, so that nothing should be lacking in the resources needed for the undertakings before them.
 
-The manufacture of arms and the selection and division of the men they entrusted to Echecrates the Thessalian and Phoxidas of Melitaea,
-
-and along with these to Eurylochus the Magnesian and Socrates the Boeotian; with them too was Cnopias of Allaria.
+The manufacture of arms and the selection and division of the men they entrusted to Echecrates the Thessalian and Phoxidas of Melitaea, and along with these to Eurylochus the Magnesian and Socrates the Boeotian; with them too was Cnopias of Allaria.
 
 It was a most fortunate stroke that they secured these men, who, having served on campaign with Demetrius and Antigonus, had some understanding of true warfare and of military service in the field generally.
 
@@ -1434,9 +1330,7 @@ After this they organized them to suit the present need, breaking up the old uni
 
 Next they drilled them, making each man familiar not only with the words of command but also with the movements proper to his particular equipment.
 
-They also held assemblies under arms and gave exhortations, in which the most useful were Andromachus of Aspendus and Polycrates of Argos,
-
-who had recently crossed over from Greece and were still thoroughly versed in the Greek martial spirit and in the particular ideas of the various peoples, and who were besides men of distinction in their native lands and in their own lives—
+They also held assemblies under arms and gave exhortations, in which the most useful were Andromachus of Aspendus and Polycrates of Argos, who had recently crossed over from Greece and were still thoroughly versed in the Greek martial spirit and in the particular ideas of the various peoples, and who were besides men of distinction in their native lands and in their own lives—
 
 Polycrates all the more so, both because of the antiquity of his house and because of the fame his father Mnasiades had won as an athlete.
 
@@ -1454,7 +1348,7 @@ Andromachus and Ptolemy commanded the phalanx and Phoxidas the mercenaries; the 
 
 As for the cavalry, Polycrates was preparing the household horse, some seven hundred strong, together with those drawn from Libya and the native-born troops as well; he himself commanded all of these, who numbered about three thousand.
 
-The cavalry from Greece, however, and the entire body of mercenary horse — about two thousand men — were trained with exceptional skill by Echecrates the Thessalian, who rendered the greatest service in the battle itself.
+The cavalry from Greece, however, and the entire body of mercenary horse—about two thousand men—were trained with exceptional skill by Echecrates the Thessalian, who rendered the greatest service in the battle itself.
 
 No one took more pains over the men placed under his command than Cnopias of Allaria, who had Cretans numbering three thousand in all, and among these a thousand Neo-Cretans, over whom he had set Philo of Cnossus.
 
@@ -1470,93 +1364,71 @@ Such, then, in its numbers and in the variety of its components, was the force b
 
 such was its character. Antiochus, meanwhile, having undertaken the siege of the city called Dura, was unable to make any progress, both because of the strength of the place and because of the relief brought up by Nicolaus and his men.
 
-As winter was now setting in, he agreed to the proposals of Ptolemy's envoys: to make a four-month truce and to come to terms on every point in a friendly spirit regarding the whole dispute.
+As winter was now setting in, he agreed to the proposals of Ptolemy’s envoys: to make a four-month truce and to come to terms on every point in a friendly spirit regarding the whole dispute.
 
 In doing this he was very far indeed from sincere; his real aim was not to be kept away from his own territory for any long time, but to quarter his forces for the winter at Seleucia, because Achaeus was plainly plotting against his interests and was, by common knowledge, working together with Ptolemy.
 
-Once these terms had been agreed, Antiochus sent off the envoys, instructing them to inform him as quickly as possible of Ptolemy's decision and to join him at Seleucia.
+Once these terms had been agreed, Antiochus sent off the envoys, instructing them to inform him as quickly as possible of Ptolemy’s decision and to join him at Seleucia.
 
 Then, leaving suitable garrisons in the various places and entrusting Theodotus with overall command of them, he returned home; and on reaching Seleucia he dispersed his forces into winter quarters.
 
-From then on he neglected to keep the troops in training, being convinced that affairs would call for no further fighting, since he was already master of certain parts of Coele-Syria and Phoenicia and expected to take over the rest by their owners' consent and through negotiation,
+From then on he neglected to keep the troops in training, being convinced that affairs would call for no further fighting, since he was already master of certain parts of Coele-Syria and Phoenicia and expected to take over the rest by their owners’ consent and through negotiation, as Ptolemy’s people would not dare in any way to descend to a decisive engagement over the whole issue.
 
-as Ptolemy's people would not dare in any way to descend to a decisive engagement over the whole issue.
-
-The envoys too came to hold this same view, because Sosibius, presiding over their meetings at Memphis, dealt with them in a friendly manner,
-
-while he never allowed those going back and forth to Antiochus to become eyewitnesses of the preparations being made at Alexandria.
+The envoys too came to hold this same view, because Sosibius, presiding over their meetings at Memphis, dealt with them in a friendly manner, while he never allowed those going back and forth to Antiochus to become eyewitnesses of the preparations being made at Alexandria.
 
 ## Book 5 Chapter 67: Claims of Antiochus and Ptolemy
 
-Even so, when the envoys arrived this time, Sosibius and his men were ready for anything,
+Even so, when the envoys arrived this time, Sosibius and his men were ready for anything, while Antiochus was making the greatest effort to gain a complete advantage over the Alexandrians, both in arms and in the justice of his case, throughout the negotiations.
 
-while Antiochus was making the greatest effort to gain a complete advantage over the Alexandrians, both in arms and in the justice of his case, throughout the negotiations.
+And so, when the envoys reached Seleucia and, in accordance with the instructions given by Sosibius, entered into detailed discussions about a settlement, the king, in the pleadings on the question of the present occupation of the territory around Coele-Syria, did not regard the recent misfortune and the manifest wrong as anything serious; indeed, for the most part he reckoned the action as no wrong at all, on the ground that he had simply laid claim to what already belonged to him by right.
 
-And so, when the envoys reached Seleucia and, in accordance with the instructions given by Sosibius, entered into detailed discussions about a settlement,
-
-the king, in the pleadings on the question of the present occupation of the territory around Coele-Syria, did not regard the recent misfortune and the manifest wrong as anything serious;
-
-indeed, for the most part he reckoned the action as no wrong at all, on the ground that he had simply laid claim to what already belonged to him by right.
-
-He said that the original occupation of these regions by Antigonus the One-Eyed and the dominion exercised over them by Seleucus constituted the most valid and most just titles of possession, by virtue of which Coele-Syria belonged of right to themselves and not to Ptolemy;
-
-for Ptolemy had fought the war against Antigonus not on his own behalf, but in order to help establish Seleucus's rule over these regions.
+He said that the original occupation of these regions by Antigonus the One-Eyed and the dominion exercised over them by Seleucus constituted the most valid and most just titles of possession, by virtue of which Coele-Syria belonged of right to themselves and not to Ptolemy; for Ptolemy had fought the war against Antigonus not on his own behalf, but in order to help establish Seleucus’s rule over these regions.
 
 Above all he pressed the common agreement of all the kings: the one made at the time when, having defeated Antigonus, Cassander, Lysimachus, and Seleucus all deliberated together in accordance with their joint policy and decided that the whole of Syria should belong to Seleucus.
 
-Ptolemy's representatives tried to establish the opposite. They magnified the present wrong and made much of what had happened, treating the treachery of Theodotus and the invasion of Antiochus as a breach of the treaty;
-
-and they also brought forward the possessions held in the reign of Ptolemy son of Lagus, asserting that Ptolemy had joined Seleucus in the war on this condition: that the rule over the whole of Asia should be conferred on Seleucus, while he himself would acquire Coele-Syria and Phoenicia.
+Ptolemy’s representatives tried to establish the opposite. They magnified the present wrong and made much of what had happened, treating the treachery of Theodotus and the invasion of Antiochus as a breach of the treaty; and they also brought forward the possessions held in the reign of Ptolemy son of Lagus, asserting that Ptolemy had joined Seleucus in the war on this condition: that the rule over the whole of Asia should be conferred on Seleucus, while he himself would acquire Coele-Syria and Phoenicia.
 
 These arguments, then, and others like them, were repeatedly made by both sides in the course of the embassies and conferences, but nothing whatever was accomplished, since the pleading of the case was conducted through friends common to both parties, and there was no one standing between them with the power to restrain and check the impulse of whichever side seemed to be in the wrong.
 
-What caused the greatest difficulty for both was the matter of Achaeus. For Ptolemy was eager to include him in the agreement,
-
-whereas Antiochus would not tolerate so much as a word about this, considering it intolerable that Ptolemy should even dare to shelter rebels and to make any mention of such a thing.
+What caused the greatest difficulty for both was the matter of Achaeus. For Ptolemy was eager to include him in the agreement, whereas Antiochus would not tolerate so much as a word about this, considering it intolerable that Ptolemy should even dare to shelter rebels and to make any mention of such a thing.
 
 ## Book 5 Chapter 68: Antiochus Attempts to Complete his Conquest
 
 Therefore, since both sides had had their fill of negotiating, no conclusion had been reached about the terms, and the spring season was now at hand, Antiochus began assembling his forces, intending to invade both by land and by sea and to subdue the remaining parts of Coele-Syria still left to him.
 
-Ptolemy's people, having more fully entrusted the conduct of affairs to Nicolaus, supplied lavish provisions to the region around Gaza and sent out land and naval forces.
+Ptolemy’s people, having more fully entrusted the conduct of affairs to Nicolaus, supplied lavish provisions to the region around Gaza and sent out land and naval forces.
 
 With these reinforcements at hand, Nicolaus entered upon the war with confidence, since Perigenes the admiral readily cooperated with him in everything that was ordered.
 
-Ptolemy's people had dispatched this man in command of the naval forces, with thirty fully decked warships and more than four hundred transport vessels.
+Ptolemy’s people had dispatched this man in command of the naval forces, with thirty fully decked warships and more than four hundred transport vessels.
 
 Nicolaus was an Aetolian by birth, and in experience and daring in matters of war he was second to none of those serving under Ptolemy.
 
-Having seized in advance, with one part of his force, the narrows at Platanus, and with the rest of his army, which he commanded in person, the area around the city of Porphyrion, he guarded the king's line of approach there, with the naval force riding at anchor alongside him.
+Having seized in advance, with one part of his force, the narrows at Platanus, and with the rest of his army, which he commanded in person, the area around the city of Porphyrion, he guarded the king’s line of approach there, with the naval force riding at anchor alongside him.
 
 Antiochus, advancing to Marathus, received a deputation of Aradians seeking an alliance; he not only accepted the alliance but also put an end to the existing quarrel among them, reconciling the Aradians on the island with those dwelling on the mainland.
 
-After this he made his invasion by way of the place called Theoprosopon ("the Face of God") and came to Berytus, having taken Botrys on the way and burned Trieres and Calamus.
+After this he made his invasion by way of the place called Theoprosopon (“the Face of God”) and came to Berytus, having taken Botrys on the way and burned Trieres and Calamus.
 
 From there he sent Nicarchus and Theodotus ahead, ordering them to seize beforehand the difficult passes around the river called the Lycus; he himself took up his force, advanced, and encamped near the river Damuras, with Diognetus the admiral sailing along the coast beside him.
 
-Taking up again from there Theodotus and Nicarchus with the light-armed troops of the army, he set out to reconnoitre the difficult ground already held by Nicolaus's men.
+Taking up again from there Theodotus and Nicarchus with the light-armed troops of the army, he set out to reconnoitre the difficult ground already held by Nicolaus’s men.
 
 After thoroughly surveying the peculiarities of the terrain, he withdrew for that day to his camp; but on the following day, leaving his heavy arms there and Nicarchus in charge of them, he advanced with the rest of his force
 
 ## Book 5 Chapter 69: Antiochus Forces the Pass of Porphyrion
 
-At this point the lower slopes of Mount Lebanon press the coastline into a small and narrow strip, and this strip is itself cut across by a rugged ridge that is hard to traverse, leaving only a cramped and difficult passage right along the sea's edge.
+At this point the lower slopes of Mount Lebanon press the coastline into a small and narrow strip, and this strip is itself cut across by a rugged ridge that is hard to traverse, leaving only a cramped and difficult passage right along the sea’s edge.
 
 Here Nicolaus had taken up his position. Having seized some of the points beforehand with the sheer number of his men and secured others with artificial fortifications, he was confident that he could easily bar Antiochus from getting through.
 
-The king, however, divided his army into three parts. One he handed over to Theodotus, ordering him to close with the enemy and force his way along the very foot of Lebanon;
-
-the second he gave to Menedemus, charging him at length to make his attempt against the middle of the ridge;
-
-and the third he assigned to the seaward side, placing Diocles, the military governor of Parapotamia, in command of it.
+The king, however, divided his army into three parts. One he handed over to Theodotus, ordering him to close with the enemy and force his way along the very foot of Lebanon; the second he gave to Menedemus, charging him at length to make his attempt against the middle of the ridge; and the third he assigned to the seaward side, placing Diocles, the military governor of Parapotamia, in command of it.
 
 He himself, with his guard, held the central position, wishing to oversee the whole action and bring help wherever it was needed.
 
 At the same time the squadrons of Diognetus and Perigenes, fully equipped, drew up for a sea-battle, keeping as close to the shore as they could and trying to make the engagement on land and the engagement at sea look like a single unbroken front.
 
-When everyone launched their assault at one signal and a single word of command, the sea-fight was an evenly matched struggle, since the two fleets were nearly equal in both numbers and equipment;
-
-but on land Nicolaus's men at first had the upper hand, exploiting the strength of their positions. Soon, however, Theodotus's troops forced back those stationed on the mountain slopes, and then attacked from the higher ground, so that Nicolaus's men all broke and fled headlong.
+When everyone launched their assault at one signal and a single word of command, the sea-fight was an evenly matched struggle, since the two fleets were nearly equal in both numbers and equipment; but on land Nicolaus’s men at first had the upper hand, exploiting the strength of their positions. Soon, however, Theodotus’s troops forced back those stationed on the mountain slopes, and then attacked from the higher ground, so that Nicolaus’s men all broke and fled headlong.
 
 In the rout about two thousand of them fell, and no fewer than that were taken alive; the rest all withdrew toward Sidon.
 
@@ -1574,17 +1446,13 @@ Philoteria lies right on the shore of the lake into which the river called the J
 
 Having gained control of both of these cities by negotiated surrender, he felt confident about his coming undertakings, since the territory subject to these cities could easily supply his whole army and furnish in abundance whatever the campaign urgently required.
 
-After securing them with garrisons, he crossed the mountain country and arrived at Atabyrium, which sits on a hill shaped like a woman's breast and has an ascent of more than fifteen stades.
+After securing them with garrisons, he crossed the mountain country and arrived at Atabyrium, which sits on a hill shaped like a woman’s breast and has an ascent of more than fifteen stades.
 
 On this occasion he took the city by means of an ambush and a stratagem.
 
-He drew the men of the town out into a skirmish and lured their front-line fighters a long way down; then, by suddenly reversing his feigned flight and bringing up the men he had set in ambush, he engaged them and killed many,
+He drew the men of the town out into a skirmish and lured their front-line fighters a long way down; then, by suddenly reversing his feigned flight and bringing up the men he had set in ambush, he engaged them and killed many, and finally, pursuing them and throwing them into a panic, he took this city too in the rush of his assault.
 
-and finally, pursuing them and throwing them into a panic, he took this city too in the rush of his assault.
-
-About this same time Ceraeas, one of the officers serving under Ptolemy, deserted to Antiochus. By receiving him with great honor, Antiochus stirred the hopes of many other commanders on the enemy's side;
-
-indeed, not long afterward Hippolochus the Thessalian came over to him with four hundred cavalry from Ptolemy's forces.
+About this same time Ceraeas, one of the officers serving under Ptolemy, deserted to Antiochus. By receiving him with great honor, Antiochus stirred the hopes of many other commanders on the enemy’s side; indeed, not long afterward Hippolochus the Thessalian came over to him with four hundred cavalry from Ptolemy’s forces.
 
 Having secured Atabyrium as well, he broke camp and, advancing, took over Pella and
 
@@ -1592,7 +1460,7 @@ Having secured Atabyrium as well, he broke camp and, advancing, took over Pella 
 
 Camus and Gephrus. With his fortunes running so smoothly, the people inhabiting the neighboring part of Arabia urged one another on and all with one accord went over to him.
 
-Strengthened by the hopes and the supplies they offered, he pushed on, and gaining control … into Galatis … he reached … Abila and of those who had come to its relief, who were led by Nicias, a close associate and kinsman of Menneas.
+Strengthened by the hopes and the supplies they offered, he pushed on, and gaining control [...] into Galatis [...] he reached [...] Abila and of those who had come to its relief, who were led by Nicias, a close associate and kinsman of Menneas.
 
 Gadara alone was now left, a town reckoned the strongest in those parts; but by encamping against it and setting up siege-works he quickly frightened it into surrender and took the city.
 
@@ -1602,7 +1470,7 @@ Going around the site and observing that the hill could be approached at only tw
 
 Assigning the supervision of the works in one place to Nicarchus and in the other to Theodotus, he himself from then on made himself available to both, overseeing and inspecting the eager efforts of each.
 
-So great was the zeal of Theodotus's and Nicarchus's men, and so constant their rivalry over which of them would be first to bring down the wall facing his own works, that quickly and beyond expectation both sections of wall fell.
+So great was the zeal of Theodotus’s and Nicarchus’s men, and so constant their rivalry over which of them would be first to bring down the wall facing his own works, that quickly and beyond expectation both sections of wall fell.
 
 Once this had happened, they kept up assaults by night and by day and brought every kind of force to bear, letting no opportunity slip.
 
@@ -1610,31 +1478,21 @@ Yet for all their continual attempts on the city, they made no headway with thei
 
 Then, giving in for lack of water, the people in the city surrendered.
 
-Once this had happened and he had taken possession of Rabbatamana, Antiochus left Nicarchus there with a suitable garrison. He sent Hippolochus and Ceraeas, the two deserters, with five thousand infantry to the region of Samaria, with orders to take up a forward position and provide security for all those placed under his command;
-
-and he himself broke camp with his army and marched toward Ptolemais, having decided to make his winter quarters there.
+Once this had happened and he had taken possession of Rabbatamana, Antiochus left Nicarchus there with a suitable garrison. He sent Hippolochus and Ceraeas, the two deserters, with five thousand infantry to the region of Samaria, with orders to take up a forward position and provide security for all those placed under his command; and he himself broke camp with his army and marched toward Ptolemais, having decided to make his winter quarters there.
 
 ## Book 5 Chapter 72: Achaeus Sends Aid to Pednelissus
 
 During this same summer the people of Pednelissus, besieged and hard pressed by the Selgians, sent to Achaeus to ask for help.
 
-When he readily agreed, they went on enduring the siege with good courage, buoyed by their hopes of relief;
-
-and Achaeus, appointing Garsyeris with six thousand infantry and five hundred cavalry, dispatched him in haste to relieve the Pednelissians.
+When he readily agreed, they went on enduring the siege with good courage, buoyed by their hopes of relief; and Achaeus, appointing Garsyeris with six thousand infantry and five hundred cavalry, dispatched him in haste to relieve the Pednelissians.
 
 The Selgians, perceiving that the relief force was at hand, seized in advance, with the greater part of their army, the narrow pass around the place called the Ladder; they held the entrance toward Saperda and tore up all the byways and approaches.
 
 Garsyeris pushed into Milyas and encamped near the city called Cretopolis, but when he realized that the positions had been occupied beforehand and that any further advance was impossible, he devised the following ruse.
 
-He broke camp and led his march back the way he had come, as though he had abandoned the relief because the positions were held against him. The Selgians readily believed it,
+He broke camp and led his march back the way he had come, as though he had abandoned the relief because the positions were held against him. The Selgians readily believed it, and supposing that Garsyeris had given up coming to the rescue, some withdrew to their camp and others to the city, since the gathering of the grain harvest was now pressing.
 
-and supposing that Garsyeris had given up coming to the rescue, some withdrew to their camp and others to the city, since the gathering of the grain harvest was now pressing.
-
-But Garsyeris, wheeling about and marching at speed, came up to the passes. Finding them deserted, he secured them with garrisons, putting Phayllus in overall command,
-
-while he himself with his army went down to Perga, and from there conducted negotiations both with the other peoples inhabiting Pisidia and with Pamphylia,
-
-pointing out the menace posed by the Selgians and urging all of them to join in alliance with Achaeus and in bringing aid to the [Pednelissians].
+But Garsyeris, wheeling about and marching at speed, came up to the passes. Finding them deserted, he secured them with garrisons, putting Phayllus in overall command, while he himself with his army went down to Perga, and from there conducted negotiations both with the other peoples inhabiting Pisidia and with Pamphylia, pointing out the menace posed by the Selgians and urging all of them to join in alliance with Achaeus and in bringing aid to the [Pednelissians].
 
 ## Book 5 Chapter 73: Defeat of the Selgians
 
@@ -1642,7 +1500,7 @@ against the Pednelissians. The Selgians, meanwhile, sent out a general with an a
 
 But they failed to achieve their aim; instead they lost many of their soldiers in the assaults, and so they gave up this hope—yet they pressed on with the siege and the siegeworks no less than before, indeed with greater determination.
 
-To Garsyeris's side the Etenneis—the people of Pisidia who inhabit the highlands above Side—sent eight thousand hoplites, and the Aspendians sent half that number.
+To Garsyeris’s side the Etenneis—the people of Pisidia who inhabit the highlands above Side—sent eight thousand hoplites, and the Aspendians sent half that number.
 
 The people of Side, however, took no part in the relief effort, partly with an eye to gaining favor with Antiochus, but more out of their hatred of the Aspendians.
 
@@ -1652,9 +1510,9 @@ As the Pednelissians were being hard pressed by want of supplies, Garsyeris, eag
 
 But the Selgians, learning what was happening and coming out to intercept them, succeeded in cutting down most of the men carrying the supplies and in seizing all the grain.
 
-Elated by this, they undertook to besiege not only the city but Garsyeris's force as well; for the Selgians always have a certain boldness and recklessness in the face of an enemy.
+Elated by this, they undertook to besiege not only the city but Garsyeris’s force as well; for the Selgians always have a certain boldness and recklessness in the face of an enemy.
 
-For these reasons, on this occasion too, they left only the necessary guard for their own stockade, and with the rest surrounded the enemy's camp at several points and boldly attacked it all at once.
+For these reasons, on this occasion too, they left only the necessary guard for their own stockade, and with the rest surrounded the enemy’s camp at several points and boldly attacked it all at once.
 
 With danger pressing unexpectedly from every side, and the palisade already being torn apart in some places, Garsyeris, seeing what was happening and holding out little hope for the whole situation, sent his cavalry out through a spot that was left unguarded.
 
@@ -1662,7 +1520,7 @@ The Selgians, supposing that these men were dismayed and were withdrawing in fea
 
 But the horsemen rode around, got to the rear of the enemy, fell upon them, and laid into them with vigor.
 
-When this happened, Garsyeris's infantry took heart, and although they had already been put to flight, they turned about once more and beat back those who were rushing in on them.
+When this happened, Garsyeris’s infantry took heart, and although they had already been put to flight, they turned about once more and beat back those who were rushing in on them.
 
 As a result the Selgians, now surrounded on all sides, finally broke into flight.
 
@@ -1678,17 +1536,13 @@ And so he came with his army up to the city.
 
 The Selgians, despairing now of their allies because of the disaster they had all suffered together, and shaken in spirit by the misfortune that had occurred, were utterly terrified both for themselves and for their country.
 
-For this reason they came together in assembly and resolved to send as their envoy one of their citizens, Logbasis, who had long been an intimate friend and guest-friend of the Antiochus who lost his life in Thrace;
-
-and since Laodice, who later became the wife of Achaeus, had been entrusted to his keeping, he had reared her as his own daughter and had shown the girl extraordinary affection.
+For this reason they came together in assembly and resolved to send as their envoy one of their citizens, Logbasis, who had long been an intimate friend and guest-friend of the Antiochus who lost his life in Thrace; and since Laodice, who later became the wife of Achaeus, had been entrusted to his keeping, he had reared her as his own daughter and had shown the girl extraordinary affection.
 
 For these reasons the Selgians, thinking they had in him a man supremely suited to serve as envoy given the circumstances, sent him out.
 
 But he, having obtained a private interview with Garsyeris, was so far from helping his country as he ought, in line with his commission, that on the contrary he urged Garsyeris to send in all haste for Achaeus, undertaking to deliver the city into their hands.
 
-Garsyeris, then, eagerly seizing on this prospect, sent men to Achaeus to bring him and to inform him of the present state of affairs;
-
-and toward the Selgians he made a truce and dragged out the time of the negotiations, continually raising disputes and pretexts over matters of detail, so as to wait for Achaeus to arrive and to give Logbasis room to carry on his dealings.
+Garsyeris, then, eagerly seizing on this prospect, sent men to Achaeus to bring him and to inform him of the present state of affairs; and toward the Selgians he made a truce and dragged out the time of the negotiations, continually raising disputes and pretexts over matters of detail, so as to wait for Achaeus to arrive and to give Logbasis room to carry on his dealings.
 
 ## Book 5 Chapter 75: Achaeus At Selge
 
@@ -1700,15 +1554,11 @@ For how many camps and garrisons, how many and how great cities, have been betra
 
 And although such things have happened to so many people so often and so plainly, somehow we are always, every one of us, fresh and new to deceptions of this kind.
 
-The cause of this is that we do not keep ready at hand the disasters of those who have stumbled before us in each kind of case; rather, we lay up—with much toil and expense—abundance of grain and money, and provision of walls and weapons, against the unexpected turns of events,
-
-while the one thing that is easiest of all to acquire and that renders the greatest service in perilous moments, this we all neglect—and that too when we could, amid dignified relaxation and pleasant pastime, gain such experience from history and inquiry.
+The cause of this is that we do not keep ready at hand the disasters of those who have stumbled before us in each kind of case; rather, we lay up—with much toil and expense—abundance of grain and money, and provision of walls and weapons, against the unexpected turns of events, while the one thing that is easiest of all to acquire and that renders the greatest service in perilous moments, this we all neglect—and that too when we could, amid dignified relaxation and pleasant pastime, gain such experience from history and inquiry.
 
 In any case, Achaeus arrived in good time, and the Selgians, on meeting with him, conceived great hopes of obtaining some thoroughgoing show of goodwill.
 
-But Logbasis, during this same period, had little by little gathered into his own house some of the soldiers slipping in from the camp, and he advised his fellow citizens not to let the opportunity pass,
-
-but to act with their eyes on the goodwill being displayed by Achaeus, and to put the finishing touch to the agreement after deliberating about the situation with the whole people present.
+But Logbasis, during this same period, had little by little gathered into his own house some of the soldiers slipping in from the camp, and he advised his fellow citizens not to let the opportunity pass, but to act with their eyes on the goodwill being displayed by Achaeus, and to put the finishing touch to the agreement after deliberating about the situation with the whole people present.
 
 The assembly was quickly convened, and they began to deliberate, having summoned in as well all the men from the guard posts, so as to bring matters to completion
 
@@ -1716,7 +1566,7 @@ The assembly was quickly convened, and they began to deliberate, having summoned
 
 on the business before them. But Logbasis, having given the enemy the signal for the moment, was making ready the men gathered in his house, and was himself, together with his sons, arming and equipping himself for the fight.
 
-On the enemy's side, Achaeus, with half the force, advanced toward the city itself, while Garsyeris took the remainder and led them on toward the place called the Cesbedium. This is a sanctuary of Zeus, and it lies conveniently above the city, for it takes the form of a citadel.
+On the enemy’s side, Achaeus, with half the force, advanced toward the city itself, while Garsyeris took the remainder and led them on toward the place called the Cesbedium. This is a sanctuary of Zeus, and it lies conveniently above the city, for it takes the form of a citadel.
 
 But when a goatherd happened to observe what was happening and reported it to the assembly, some rushed in haste to the Cesbedium, others to the guard posts, while the mass of the people, in their anger, made for the house of Logbasis.
 
@@ -1724,15 +1574,9 @@ When the plot became plain, some of them climbed up onto the roof, others forced
 
 After this they proclaimed freedom to the slaves, divided themselves into groups, and rushed to defend the strategic points.
 
-Garsyeris, then, seeing that the Cesbedium was already occupied ahead of him, gave up his attempt;
+Garsyeris, then, seeing that the Cesbedium was already occupied ahead of him, gave up his attempt; and as Achaeus was forcing his way right up to the gates, the Selgians sallied out, struck down seven hundred of the Mysians, and beat back the rest from their assault.
 
-and as Achaeus was forcing his way right up to the gates, the Selgians sallied out, struck down seven hundred of the Mysians, and beat back the rest from their assault.
-
-After this action Achaeus and Garsyeris withdrew to their own camp,
-
-while the Selgians, fearing both the factional strife among themselves and the enemy's encampment against them, sent out their elders with suppliant branches, made a truce, and brought the war to an end on these terms:
-
-that they pay four hundred talents at once, along with the Pednelissian prisoners, and after some time add a further three hundred.
+After this action Achaeus and Garsyeris withdrew to their own camp, while the Selgians, fearing both the factional strife among themselves and the enemy’s encampment against them, sent out their elders with suppliant branches, made a truce, and brought the war to an end on these terms: that they pay four hundred talents at once, along with the Pednelissian prisoners, and after some time add a further three hundred.
 
 So the Selgians, having endangered their country through the impiety of Logbasis, by their own daring both preserved their country and did not disgrace their freedom, nor the standing they possessed as kinsmen of the Lacedaemonians.
 
@@ -1758,9 +1602,7 @@ Setting out from there and ravaging the plain of Apia, he crossed the mountain c
 
 ## Book 5 Chapter 78: Attalus Conciliates the Gauls
 
-While he was here, an eclipse of the moon occurred. The Gauls, who had long been chafing at the hardships of the marches—since they were conducting the campaign together with their wives and children, who followed them in the wagons—
-
-now took the event as an omen and declared they would advance no farther.
+While he was here, an eclipse of the moon occurred. The Gauls, who had long been chafing at the hardships of the marches—since they were conducting the campaign together with their wives and children, who followed them in the wagons— now took the event as an omen and declared they would advance no farther.
 
 King Attalus, who got no real service of any consequence out of them and saw that they straggled apart during the marches, encamped on their own, and in general refused obedience and were full of arrogance, fell into no ordinary perplexity.
 
@@ -1768,15 +1610,13 @@ For on the one hand he was anxious that they might defect to Achaeus and join in
 
 Therefore, seizing on the aforementioned pretext, he promised that for the present he would restore them to the crossing and would give them a well-suited place for settlement, and that afterward he would lend them his aid in whatever they might ask of him that lay within his power and was honorable.
 
-So Attalus,
-
-having restored the Aegosagae to the Hellespont and dealt kindly with the people of Lampsacus, Alexandria, and Ilium because they had kept faith with him, returned [with his army to Pergamum].
+So Attalus, having restored the Aegosagae to the Hellespont and dealt kindly with the people of Lampsacus, Alexandria, and Ilium because they had kept faith with him, returned [with his army to Pergamum].
 
 ## Book 5 Chapter 79: Forces Available to Antiochus and Ptolemy
 
 [He withdrew] with his army to Pergamum. Antiochus and Ptolemy, as the spring season was setting in and their preparations were ready, set about deciding the conflict by battle.
 
-Ptolemy's forces, then, set out from Alexandria with some seventy thousand infantry, five thousand cavalry, and seventy-three elephants.
+Ptolemy’s forces, then, set out from Alexandria with some seventy thousand infantry, five thousand cavalry, and seventy-three elephants.
 
 Antiochus, learning of their advance, gathered his own forces together. These were: Daae, Carmanians, and Cilicians, equipped in light-armed fashion, about five thousand in number; over these Byttacus the Macedonian held both charge and command.
 
@@ -1792,13 +1632,11 @@ The Arabs and some of their neighbors numbered about ten thousand, and were unde
 
 The mercenaries from Greece were led by Hippolochus the Thessalian, and numbered about five thousand.
 
-He had fifteen hundred Cretans with Eurylochus, and a thousand Neo-Cretans under the command of Zelys of Gortyna;
+He had fifteen hundred Cretans with Eurylochus, and a thousand Neo-Cretans under the command of Zelys of Gortyna; along with them were five hundred Lydian javelin-men and a thousand Cardaces under Lysimachus the Gaul.
 
-along with them were five hundred Lydian javelin-men and a thousand Cardaces under Lysimachus the Gaul.
+The whole body of cavalry came to some six thousand; of these, Antipater, the king’s nephew, held command of four thousand, while Themison was set over the rest.
 
-The whole body of cavalry came to some six thousand; of these, Antipater, the king's nephew, held command of four thousand, while Themison was set over the rest.
-
-The total strength of Antiochus's army was sixty-two thousand infantry, together with six thousand cavalry, and a hundred and two beasts.
+The total strength of Antiochus’s army was sixty-two thousand infantry, together with six thousand cavalry, and a hundred and two beasts.
 
 ## Book 5 Chapter 80: Antiochus Advances To Raphia
 
@@ -1812,7 +1650,7 @@ At the same time Antiochus arrived with his army; having reached Gaza and taken 
 
 At first, then, set at this distance, they remained encamped opposite each other.
 
-But after some days Antiochus, wishing both to take up more favorable ground and to instill confidence in his forces, moved his camp up against Ptolemy's, so that the palisades were no more than five stades apart.
+But after some days Antiochus, wishing both to take up more favorable ground and to instill confidence in his forces, moved his camp up against Ptolemy’s, so that the palisades were no more than five stades apart.
 
 During this time there were frequent clashes over the watering-places and the foraging, and likewise skirmishes broke out between the camps, sometimes of cavalry, sometimes of infantry as well.
 
@@ -1820,15 +1658,15 @@ During this time there were frequent clashes over the watering-places and the fo
 
 At about this same time Theodotus undertook a bold and resourceful stroke—one thoroughly Aetolian in character, yet by no means lacking in courage.
 
-Since from having formerly lived at the king's court he knew well what Ptolemy's tastes and daily habits were, he made his way, with two companions, into the enemy's camp just before dawn.
+Since from having formerly lived at the king’s court he knew well what Ptolemy’s tastes and daily habits were, he made his way, with two companions, into the enemy’s camp just before dawn.
 
 By his face he could not be recognized, because of the darkness; and by his dress and the rest of his equipment he attracted no notice, because among the enemy themselves the costume of the army was of every variety.
 
-Having marked out the position of the king's tent during the preceding days—for the skirmishing took place right up close to it—he made boldly for it, and passed undetected through the whole front rank of attendants.
+Having marked out the position of the king’s tent during the preceding days—for the skirmishing took place right up close to it—he made boldly for it, and passed undetected through the whole front rank of attendants.
 
 But when he came upon the tent in which the king was accustomed to conduct business and to dine, and had searched every part of it, he failed to find the king; for Ptolemy took his rest apart, outside the official tent used for audiences.
 
-He did, however, wound two of the men sleeping there, and killed Andreas, the king's physician; then he withdrew safely to his own lines, meeting with only a brief alarm as he was already crossing back over the rampart.
+He did, however, wound two of the men sleeping there, and killed Andreas, the king’s physician; then he withdrew safely to his own lines, meeting with only a brief alarm as he was already crossing back over the rampart.
 
 So far as daring went, he had carried out his design; but in foresight he had failed, because he had not properly ascertained where Ptolemy was in the habit of taking his rest.
 
@@ -1836,27 +1674,21 @@ So far as daring went, he had carried out his design; but in foresight he had fa
 
 The two kings, after lying encamped opposite each other for five days, both resolved to decide the issue by battle.
 
-As soon as Ptolemy's forces began to move out of their camp, Antiochus at once led his own out to meet them. Both kings drew up their phalanxes and their picked troops, who were armed in the Macedonian fashion, directly facing each other.
+As soon as Ptolemy’s forces began to move out of their camp, Antiochus at once led his own out to meet them. Both kings drew up their phalanxes and their picked troops, who were armed in the Macedonian fashion, directly facing each other.
 
-Ptolemy's two wings were arranged in the following manner. Polycrates, with the cavalry under his command, held the left wing;
+Ptolemy’s two wings were arranged in the following manner. Polycrates, with the cavalry under his command, held the left wing; between him and the phalanx, and right beside the cavalry, stood the Cretans; next to these was the royal guard; and after them the peltasts under Socrates, adjoining the Libyans who were armed in the Macedonian fashion.
 
-between him and the phalanx, and right beside the cavalry, stood the Cretans; next to these was the royal guard; and after them the peltasts under Socrates, adjoining the Libyans who were armed in the Macedonian fashion.
+On the right wing was Echecrates the Thessalian, with the cavalry under his command; and beside him, on his left, were stationed the Gauls and Thracians; next to these Phoxidas held the mercenaries from Greece, who linked up with the Egyptian phalangites.
 
-On the right wing was Echecrates the Thessalian, with the cavalry under his command; and beside him, on his left,
+Of the elephants, forty were posted on the left, where Ptolemy himself intended to take part in the fighting, while thirty-three had been drawn up in front of the right wing, facing the enemy’s mercenary cavalry.
 
-were stationed the Gauls and Thracians; next to these Phoxidas held the mercenaries from Greece, who linked up with the Egyptian phalangites.
-
-Of the elephants, forty were posted on the left, where Ptolemy himself intended to take part in the fighting, while thirty-three had been drawn up in front of the right wing, facing the enemy's mercenary cavalry.
-
-Antiochus, for his part, posted sixty of his elephants, under his foster-brother Philip, in front of his right wing, where he himself intended to engage against Ptolemy's troops.
+Antiochus, for his part, posted sixty of his elephants, under his foster-brother Philip, in front of his right wing, where he himself intended to engage against Ptolemy’s troops.
 
 Behind these he stationed the two thousand cavalry commanded by Antipater, and drew up another two thousand at an angle to them.
 
 In line with the cavalry, at the front, he placed the Cretans; next to these he posted the mercenaries from Greece; and beside these, alongside the troops armed in the Macedonian fashion, he stationed the five thousand men under Byttacus the Macedonian.
 
-On the left wing, at its very tip, he placed two thousand cavalry under the command of Themison; beside them the Cardaces and the Lydian javelin-men; next to these the light-armed troops under Menedemus, about three thousand in number;
-
-after these the Cissians, Medes, and Carmanians; and beside them the Arabs together with the neighboring peoples, who linked up with the phalanx.
+On the left wing, at its very tip, he placed two thousand cavalry under the command of Themison; beside them the Cardaces and the Lydian javelin-men; next to these the light-armed troops under Menedemus, about three thousand in number; after these the Cissians, Medes, and Carmanians; and beside them the Arabs together with the neighboring peoples, who linked up with the phalanx.
 
 The remaining elephants he posted in front of his left wing, putting them under the command of Myiscus, one of the former royal pages.
 
@@ -1864,13 +1696,9 @@ The remaining elephants he posted in front of his left wing, putting them under 
 
 With their forces drawn up in this manner, both kings rode along the front of their own lines, accompanied by their officers and friends, exhorting the men.
 
-Since each placed his highest hopes in his phalangites, both devoted the greatest effort and encouragement to these ranks in particular—
+Since each placed his highest hopes in his phalangites, both devoted the greatest effort and encouragement to these ranks in particular— on Ptolemy’s side with Andromachus, Sosibius, and the king’s sister Arsinoe joining in the exhortation, and on Antiochus’s side with Theodotus and Nicarchus doing the same, since in each army these were the men who held the command of the phalangites.
 
-on Ptolemy's side with Andromachus, Sosibius, and the king's sister Arsinoe joining in the exhortation, and on Antiochus's side with Theodotus and Nicarchus doing the same, since in each army these were the men who held the command of the phalangites.
-
-The substance of what each king urged was much the same. Neither of them could put before the men any distinguished or honored exploit of his own, since both had only recently come to power;
-
-so instead, by recalling the glory of their ancestors and the deeds those ancestors had performed, they tried to instill spirit and confidence in their phalangites.
+The substance of what each king urged was much the same. Neither of them could put before the men any distinguished or honored exploit of his own, since both had only recently come to power; so instead, by recalling the glory of their ancestors and the deeds those ancestors had performed, they tried to instill spirit and confidence in their phalangites.
 
 Above all, they set before them the hopes of advancement they might expect in time to come, and—addressing the leaders individually and all those about to fight collectively—they called upon and exhorted them to face the coming danger like men, with courage and nobility.
 
@@ -1880,41 +1708,31 @@ Speaking these words and others like them, partly in their own person and partly
 
 When Ptolemy, accompanied by his sister, had ridden along and reached the left wing of his whole array, and Antiochus with the royal squadron had reached the right, they sounded the signal for battle and opened the fight first with the elephants.
 
-Only a few of Ptolemy's elephants came to close quarters with those of the enemy. Mounted on these, the men in the towers put up a fine fight, thrusting and striking at one another at close range with their pikes; and finer still was the struggle of the beasts themselves, which fought with brute force, meeting head to head.
+Only a few of Ptolemy’s elephants came to close quarters with those of the enemy. Mounted on these, the men in the towers put up a fine fight, thrusting and striking at one another at close range with their pikes; and finer still was the struggle of the beasts themselves, which fought with brute force, meeting head to head.
 
-For the manner in which these animals fight is as follows. Locking together and interlacing their tusks, they shove with all their might, each straining to hold its ground, until one of them, prevailing in strength, forces aside the other's trunk;
+For the manner in which these animals fight is as follows. Locking together and interlacing their tusks, they shove with all their might, each straining to hold its ground, until one of them, prevailing in strength, forces aside the other’s trunk; and once it has thrown its opponent off balance and caught it sideways, it gores it with its tusks, just as bulls do with their horns.
 
-and once it has thrown its opponent off balance and caught it sideways, it gores it with its tusks, just as bulls do with their horns.
-
-But most of Ptolemy's elephants shrank from the fight, as is the way with Libyan elephants.
+But most of Ptolemy’s elephants shrank from the fight, as is the way with Libyan elephants.
 
 For they cannot endure the smell and the trumpeting of the Indian elephants, but—terrified, I suppose, by their size and strength—they flee from them at once while still some distance off; and that is exactly what happened on this occasion.
 
-As these beasts were thrown into disorder and pushed back against their own ranks, Ptolemy's guard, pressed by the elephants, began to give way;
+As these beasts were thrown into disorder and pushed back against their own ranks, Ptolemy’s guard, pressed by the elephants, began to give way; while Antiochus’s men, wheeling around past the elephants and bearing down on them, charged into Polycrates and the cavalry drawn up under his command.
 
-while Antiochus's men, wheeling around past the elephants and bearing down on them, charged into Polycrates and the cavalry drawn up under his command.
+At the same time, on the inner side of the elephants, the Greek mercenaries stationed by the phalanx fell upon Ptolemy’s peltasts and drove them out, the beasts having by now thrown their ranks too into confusion.
 
-At the same time, on the inner side of the elephants, the Greek mercenaries stationed by the phalanx fell upon Ptolemy's peltasts and drove them out, the beasts having by now thrown their ranks too into confusion.
-
-Thus Ptolemy's left wing was, in this way, worsted.
+Thus Ptolemy’s left wing was, in this way, worsted.
 
 ## Book 5 Chapter 85: Victory of Ptolemy
 
-Under this pressure the whole wing gave way. Echecrates, who commanded the right wing, at first waited to see how the clash of the two wings already mentioned would turn out. But when he saw the dust being carried in the direction of his own troops, and that the elephants on his side would not even venture to approach the enemy's elephants at all,
-
-he ordered Phoxidas, who had the mercenaries from Greece, to engage the troops drawn up directly opposite him,
-
-while he himself, leading the cavalry and the men stationed behind the elephants out around the flank, got clear of the elephants' charge; and falling upon the enemy's cavalry—in some places riding past them, in others charging them on the flank—he quickly put them to flight.
+Under this pressure the whole wing gave way. Echecrates, who commanded the right wing, at first waited to see how the clash of the two wings already mentioned would turn out. But when he saw the dust being carried in the direction of his own troops, and that the elephants on his side would not even venture to approach the enemy’s elephants at all, he ordered Phoxidas, who had the mercenaries from Greece, to engage the troops drawn up directly opposite him, while he himself, leading the cavalry and the men stationed behind the elephants out around the flank, got clear of the elephants’ charge; and falling upon the enemy’s cavalry—in some places riding past them, in others charging them on the flank—he quickly put them to flight.
 
 Phoxidas and his men did much the same: charging the Arabs and the Medes, they forced them to turn and flee headlong.
 
-So the right wing of Antiochus's army was victorious, while its left was being defeated in the manner already described.
+So the right wing of Antiochus’s army was victorious, while its left was being defeated in the manner already described.
 
 The phalanxes, now stripped of both their wings, remained intact in the middle of the plain, their hopes for the outcome hanging in the balance.
 
-At this moment Antiochus was caught up in pressing home his advantage on the right wing,
-
-while Ptolemy, who had withdrawn behind the shelter of his phalanx, now came forward into the center and, showing himself to the armies, struck terror into the enemy and inspired great drive and eagerness in his own men.
+At this moment Antiochus was caught up in pressing home his advantage on the right wing, while Ptolemy, who had withdrawn behind the shelter of his phalanx, now came forward into the center and, showing himself to the armies, struck terror into the enemy and inspired great drive and eagerness in his own men.
 
 So Andromachus and Sosibius and their men at once lowered their sarissas and advanced.
 
@@ -1936,9 +1754,9 @@ Antiochus, after his flight, wished at once to make camp outside the city and to
 
 Then, near daybreak, he led out the surviving portion of his army and pushed on to Gaza. Pitching camp there and sending envoys about recovering the dead, he buried the fallen under a truce.
 
-Of Antiochus's men the dead numbered not much short of ten thousand infantry and more than three hundred cavalry, while over four thousand were taken alive.
+Of Antiochus’s men the dead numbered not much short of ten thousand infantry and more than three hundred cavalry, while over four thousand were taken alive.
 
-Of his elephants, three died on the spot and two from their wounds. On Ptolemy's side about fifteen hundred infantry were killed and about seven hundred cavalry; sixteen of his elephants died, but most of them were recaptured.
+Of his elephants, three died on the spot and two from their wounds. On Ptolemy’s side about fifteen hundred infantry were killed and about seven hundred cavalry; sixteen of his elephants died, but most of them were recaptured.
 
 Such, then, was the outcome of the battle fought at Raphia between the kings over Coele-Syria.
 
@@ -1950,21 +1768,15 @@ And at that time, since their goodwill toward the kings from Alexandria already 
 
 And so they left no extreme of flattery untried, honoring Ptolemy with crowns, sacrifices, altars, and every device of that kind.
 
-## Book 5 Chapter 87: A Year's Truce Between Antiochus and Ptolemy
+## Book 5 Chapter 87: A Year’s Truce Between Antiochus and Ptolemy
 
-Antiochus, on arriving at the city that bears his own name, at once sent Antipater his nephew and Theodotus Hemiolius as envoys to Ptolemy to treat for peace and a settlement, being anxious about an advance by the enemy:
-
-for he distrusted his own people because of the defeat he had suffered, and he feared that Achaeus might seize the moment to join in the attack on him.
+Antiochus, on arriving at the city that bears his own name, at once sent Antipater his nephew and Theodotus Hemiolius as envoys to Ptolemy to treat for peace and a settlement, being anxious about an advance by the enemy: for he distrusted his own people because of the defeat he had suffered, and he feared that Achaeus might seize the moment to join in the attack on him.
 
 But Ptolemy reasoned out none of this. Delighted with the success he had won—on account of its unexpectedness—and, in a word, at having unexpectedly gained possession of Coele-Syria, he was not averse to peace; rather he was more inclined to it than he should have been, drawn that way by the indolence and dissoluteness habitual to his way of life.
 
 So when Antipater and his colleague arrived, after a little blustering and reproaching Antiochus for what had been done, he agreed to a truce of one year.
 
-He sent Sosibius along with the envoys to ratify the settlement,
-
-and he himself, after spending three months in the regions of Syria and Phoenicia and putting the cities in order, then left Andromachus of Aspendus as governor over all the aforesaid territories and set out with his sister and his friends for Alexandria,
-
-having brought the war to a conclusion in a way that, to those in his kingdom, seemed at odds with the way he conducted the rest of his life.
+He sent Sosibius along with the envoys to ratify the settlement, and he himself, after spending three months in the regions of Syria and Phoenicia and putting the cities in order, then left Andromachus of Aspendus as governor over all the aforesaid territories and set out with his sister and his friends for Alexandria, having brought the war to a conclusion in a way that, to those in his kingdom, seemed at odds with the way he conducted the rest of his life.
 
 Antiochus, having secured the terms of the truce with Sosibius, proceeded—according to his original purpose—with his preparations against Achaeus.
 
@@ -1980,9 +1792,7 @@ So great, among men, is the difference that ignorance and idleness make as again
 
 At any rate, the Rhodians then, in their management of the matter, made the disaster out to be great and terrible, while they themselves bore themselves with dignity and authority in their embassies—both in their formal audiences and in conversation case by case—and so brought the cities, and especially the kings, to such a point that they not only received extravagant gifts but actually left the givers owing them gratitude.
 
-Hiero and Gelo, for instance, not only gave seventy-five talents of silver toward the supply of oil for those in the gymnasium—part at once, the rest within a very short time entirely—but also dedicated silver cauldrons with their stands and some water vessels,
-
-and on top of this ten talents for sacrifices and another ten to help increase the citizen body, so that the whole gift might come to a hundred talents.
+Hiero and Gelo, for instance, not only gave seventy-five talents of silver toward the supply of oil for those in the gymnasium—part at once, the rest within a very short time entirely—but also dedicated silver cauldrons with their stands and some water vessels, and on top of this ten talents for sacrifices and another ten to help increase the citizen body, so that the whole gift might come to a hundred talents.
 
 Moreover, they granted exemption from duties to those sailing to their ports, and gave fifty catapults three cubits long.
 
@@ -1990,13 +1800,7 @@ And finally, after giving so much, as though they still owed gratitude, they set
 
 ## Book 5 Chapter 89: Royal Gifts
 
-…of the Syracusans. Ptolemy too promised them three hundred talents of silver and a million artabae of grain; ship timber for ten quinqueremes and ten triremes, amounting to forty thousand cubits, by measure, of squared pine planking;
-
-a thousand talents of bronze coinage, three thousand talents of tow, three thousand bolts of sailcloth;
-
-for the rebuilding of the Colossus, three thousand talents, a hundred master builders and three hundred and fifty laborers, and for these, each year, fourteen talents toward their wages;
-
-and besides this, for the games and the sacrifices, twelve thousand artabae of grain, and moreover, for the provisioning of ten triremes, twenty thousand artabae.
+…of the Syracusans. Ptolemy too promised them three hundred talents of silver and a million artabae of grain; ship timber for ten quinqueremes and ten triremes, amounting to forty thousand cubits, by measure, of squared pine planking; a thousand talents of bronze coinage, three thousand talents of tow, three thousand bolts of sailcloth; for the rebuilding of the Colossus, three thousand talents, a hundred master builders and three hundred and fifty laborers, and for these, each year, fourteen talents toward their wages; and besides this, for the games and the sacrifices, twelve thousand artabae of grain, and moreover, for the provisioning of ten triremes, twenty thousand artabae.
 
 Of all this he gave the greater part at once, and a third of the entire sum of silver.
 
@@ -2004,27 +1808,15 @@ In much the same spirit Antigonus promised ten thousand timbers, ranging from si
 
 His wife Chryseis gave a hundred thousand measures of grain and three thousand talents of lead.
 
-Seleucus, the father of Antiochus, granted, for his part, exemption from tolls to those of them who sailed into his kingdom, and separately ten fully fitted-out quinqueremes and two hundred thousand measures of grain;
-
-and moreover tens of thousands of cubits of timber and thousands of talents of resin and hair.
+Seleucus, the father of Antiochus, granted, for his part, exemption from tolls to those of them who sailed into his kingdom, and separately ten fully fitted-out quinqueremes and two hundred thousand measures of grain; and moreover tens of thousands of cubits of timber and thousands of talents of resin and hair.
 
 ## Book 5 Chapter 90: Generosity of Other Princes
 
 Prusias and Mithridates acted in much the same way, and so too did the rulers who held power in Asia at that time—I mean Lysanias, Olympichus, and Limnaeus.
 
-As for the cities that helped them to the best of their ability, no one could easily even count their number;
+As for the cities that helped them to the best of their ability, no one could easily even count their number; so that whenever one considers the time, and the starting point from which their city came to be settled, one cannot but greatly marvel at how, in so short a span, it had won so great an advance both in the private fortunes of its citizens and in the public affairs of the city; yet whenever one looks instead at the favorable situation of the site, and the contributions from outside that brought its prosperity to fullness, one no longer marvels, but rather feels that the advance fell a little short of what might have been expected.
 
-so that whenever one considers the time, and the starting point from which their city came to be settled, one cannot but greatly marvel at how, in so short a span, it had won so great an advance both in the private fortunes of its citizens and in the public affairs of the city;
-
-yet whenever one looks instead at the favorable situation of the site, and the contributions from outside that brought its prosperity to fullness, one no longer marvels, but rather feels that the advance fell a little short of what might have been expected.
-
-Let this, then, be said by me with a twofold purpose: first, for the sake of the Rhodians' management of public affairs—for they deserve both praise and emulation—and second, to show the small giving of the kings of our own day and the small receiving of the nations and cities,
-
-so that the kings may not, by laying out four or five talents, suppose they are doing something great and expect to enjoy the same goodwill and honor from the Greeks that the kings of earlier times possessed,
-
-and so that the cities, keeping before their eyes the magnitude of the gifts bestowed in former times, may not now, for small and trivial benefactions, unwittingly award the greatest and finest honors,
-
-but may rather try to keep for each man what his desert deserves—the very thing in which the Greeks most excel the rest of mankind.
+Let this, then, be said by me with a twofold purpose: first, for the sake of the Rhodians’ management of public affairs—for they deserve both praise and emulation—and second, to show the small giving of the kings of our own day and the small receiving of the nations and cities, so that the kings may not, by laying out four or five talents, suppose they are doing something great and expect to enjoy the same goodwill and honor from the Greeks that the kings of earlier times possessed, and so that the cities, keeping before their eyes the magnitude of the gifts bestowed in former times, may not now, for small and trivial benefactions, unwittingly award the greatest and finest honors, but may rather try to keep for each man what his desert deserves—the very thing in which the Greeks most excel the rest of mankind.
 
 ## Book 5 Chapter 91: Lycurgus Returns to Sparta
 
@@ -2034,21 +1826,17 @@ For the ephors, having found false the slander on account of which he had fled, 
 
 He, then, was assigned to act together with Pyrrhias the Aetolian—who happened at the time to be general among the Eleans—regarding the invasion of Messenia.
 
-Aratus, for his part, had taken over the Achaeans' mercenary force in a ruined state, and the cities slackly disposed toward the contributions for this purpose, because the general before him, Eperatus, as I said above, had managed the common affairs badly and listlessly.
+Aratus, for his part, had taken over the Achaeans’ mercenary force in a ruined state, and the cities slackly disposed toward the contributions for this purpose, because the general before him, Eperatus, as I said above, had managed the common affairs badly and listlessly.
 
 Nevertheless, after exhorting the Achaeans and obtaining a decree on these matters, he set energetically to work on the preparations for the war.
 
-This is what the Achaeans resolved: to maintain eight thousand mercenary infantry and five hundred cavalry, and, of the Achaean picked troops, three thousand infantry and three hundred cavalry;
-
-and of these, the Megalopolitans were to furnish bronze-shielded men—five hundred infantry and fifty cavalry—and the Argives an equal number.
+This is what the Achaeans resolved: to maintain eight thousand mercenary infantry and five hundred cavalry, and, of the Achaean picked troops, three thousand infantry and three hundred cavalry; and of these, the Megalopolitans were to furnish bronze-shielded men—five hundred infantry and fifty cavalry—and the Argives an equal number.
 
 It was also resolved that ships should put to sea: three around Acte and the Argolic gulf, and three off Patrae and Dyme and the sea in that quarter.
 
 ## Book 5 Chapter 92: Lycurgus Cannot Take Messenia
 
-So Aratus was occupied with these affairs and was completing these preparations;
-
-while Lycurgus and Pyrrhias, after an exchange of messages to ensure that they made their expedition on the same days, advanced into Messenia.
+So Aratus was occupied with these affairs and was completing these preparations; while Lycurgus and Pyrrhias, after an exchange of messages to ensure that they made their expedition on the same days, advanced into Messenia.
 
 The general of the Achaeans, perceiving their design, came with the mercenaries and some of the picked troops to Megalopolis to support the Messenians.
 
@@ -2056,15 +1844,9 @@ Lycurgus, setting out, took Calamae, a stronghold of the Messenians, by treacher
 
 But Pyrrhias, who had marched out of Elis entirely lightly equipped and was at once stopped at the pass into Messenia by the Cyparissians, turned back.
 
-Therefore Lycurgus, being unable to join up with Pyrrhias' force and not being strong enough on his own, after making brief assaults on Andania, withdrew again to Sparta without having accomplished anything.
+Therefore Lycurgus, being unable to join up with Pyrrhias’ force and not being strong enough on his own, after making brief assaults on Andania, withdrew again to Sparta without having accomplished anything.
 
-Aratus, now that the enemy's plan had collapsed, acting sensibly and taking thought for the future, arranged with Taurion to provide fifty cavalry and five hundred infantry, and with the Messenians that they should send out an equal number of cavalry and infantry,
-
-intending to use these men to guard the territory of the Messenians, the Megalopolitans, the Tegeans, and also the Argives—
-
-for these lands, bordering on Laconia, lie exposed, ahead of the rest of the Peloponnesians, to the war waged by the Lacedaemonians—
-
-while with the Achaean picked troops and the mercenaries he would guard the parts of Achaea facing toward Elis and Aetolia.
+Aratus, now that the enemy’s plan had collapsed, acting sensibly and taking thought for the future, arranged with Taurion to provide fifty cavalry and five hundred infantry, and with the Messenians that they should send out an equal number of cavalry and infantry, intending to use these men to guard the territory of the Messenians, the Megalopolitans, the Tegeans, and also the Argives— for these lands, bordering on Laconia, lie exposed, ahead of the rest of the Peloponnesians, to the war waged by the Lacedaemonians— while with the Achaean picked troops and the mercenaries he would guard the parts of Achaea facing toward Elis and Aetolia.
 
 ## Book 5 Chapter 93: Condition of Megalopolis
 
@@ -2074,9 +1856,9 @@ For it happened that these people, having recently been ruined by Cleomenes and�
 
 In their spirit they held firm, but in their resources, both public and private, they were unable to meet any demand.
 
-For this reason everything was full of quarreling, rivalry, and mutual anger; for this is exactly what tends to happen, both in public affairs and in private lives, whenever resources fall short of each person's ambitions.
+For this reason everything was full of quarreling, rivalry, and mutual anger; for this is exactly what tends to happen, both in public affairs and in private lives, whenever resources fall short of each person’s ambitions.
 
-First, then, they disputed over the walling of the city. One party argued that it ought to be contracted and made only as large as they could realistically manage to wall and could defend when a crisis arose; for in the recent disaster, they said, it was precisely the city's size and its emptiness that had brought about their ruin.
+First, then, they disputed over the walling of the city. One party argued that it ought to be contracted and made only as large as they could realistically manage to wall and could defend when a crisis arose; for in the recent disaster, they said, it was precisely the city’s size and its emptiness that had brought about their ruin.
 
 In addition to this, they thought the landowners ought to contribute a third of their land toward settling the new inhabitants who were to be enrolled.
 
@@ -2098,9 +1880,7 @@ He, watching for the time of the Achaean assembly, took sixty cavalry and two th
 
 After rounding up a considerable amount of plunder, he began his withdrawal in the direction of Leontium.
 
-But Lycus and his men, on learning what had happened, came to the rescue in haste; engaging the enemy and joining battle on the spur of the moment, they cut down about four hundred of them and took about two hundred alive,
-
-among whom were the notable men Physsias, Antanor, Clearchus, Androlochus, Euanoridas, Aristogeiton, Nicasippus, and Aspasius; and they captured all their arms and baggage.
+But Lycus and his men, on learning what had happened, came to the rescue in haste; engaging the enemy and joining battle on the spur of the moment, they cut down about four hundred of them and took about two hundred alive, among whom were the notable men Physsias, Antanor, Clearchus, Androlochus, Euanoridas, Aristogeiton, Nicasippus, and Aspasius; and they captured all their arms and baggage.
 
 At about the same time the Achaean admiral, having made an expedition to Molycria, returned with little short of a hundred captives.
 
@@ -2114,17 +1894,13 @@ At the same time as the events just described, Scerdilaidas, believing himself w
 
 These sailed to Leucas, where everyone received them as friends on account of the joint operations they had previously carried out together.
 
-Now, they had no time to do any other harm, nor were they able to; but against Agathinus and Cassander, the Corinthians who were sailing in Taurion's ships and had anchored alongside them as friends with four vessels, they treacherously launched an attack, and seizing the men together with their ships, they sent them off to Scerdilaidas.
+Now, they had no time to do any other harm, nor were they able to; but against Agathinus and Cassander, the Corinthians who were sailing in Taurion’s ships and had anchored alongside them as friends with four vessels, they treacherously launched an attack, and seizing the men together with their ships, they sent them off to Scerdilaidas.
 
 After this they put out from Leucas and, sailing toward Malea, plundered and carried off the merchants they met.
 
-As harvest time was now approaching,
+As harvest time was now approaching, and as Taurion and his men were neglecting the protection of the cities just mentioned, Aratus, with his picked troops, kept watch over the gathering of the grain around the territory of Argos, while Euripidas, with his Aetolians, set out, intending to ravage the territory of the Tritaeans.
 
-and as Taurion and his men were neglecting the protection of the cities just mentioned, Aratus, with his picked troops, kept watch over the gathering of the grain around the territory of Argos,
-
-while Euripidas, with his Aetolians, set out, intending to ravage the territory of the Tritaeans.
-
-But Lycus and Demodocus, the Achaean cavalry commander, on learning of the Aetolians' expedition out of Elis, gathered the men of Dymae, Patrae, and Pharae, and together with these and the mercenaries, invaded Elean territory.
+But Lycus and Demodocus, the Achaean cavalry commander, on learning of the Aetolians’ expedition out of Elis, gathered the men of Dymae, Patrae, and Pharae, and together with these and the mercenaries, invaded Elean territory.
 
 Arriving at the place called Phyxium, they sent forward their light-armed troops and cavalry to raid the countryside, but concealed their heavy infantry around the aforesaid place.
 
@@ -2160,9 +1936,7 @@ At about this same time King Philip seized Bylazora, the largest city of Paeonia
 
 For it was no longer easy for them to invade Macedonia while Philip controlled the approaches through the city just mentioned.
 
-Having secured this place, he sent Chrysogonus off in haste to muster the upper Macedonians,
-
-while he himself, taking up the men of Bottia and Amphaxitis, came to Edessa. There he waited until the Macedonians under Chrysogonus joined him, then set out with his whole army and arrived at Larisa on the sixth day.
+Having secured this place, he sent Chrysogonus off in haste to muster the upper Macedonians, while he himself, taking up the men of Bottia and Amphaxitis, came to Edessa. There he waited until the Macedonians under Chrysogonus joined him, then set out with his whole army and arrived at Larisa on the sixth day.
 
 Pressing straight on with a hard night march, he reached Meliteia at dawn, and, setting scaling ladders against the walls, he tried to storm the town.
 
@@ -2176,15 +1950,11 @@ For if certain men, taking no forethought and never measuring out the walls, cli
 
 And again, if men who have measured their own side of the matter then hand over the construction of the ladders, and of such devices generally—things that take little labor to make but are put to the proof in a great undertaking—carelessly and to any chance persons, how can it not deserve reproach?
 
-For in operations of this kind it is not possible either to do what is needed or else to suffer nothing serious;
-
-rather, harm follows upon failure in many ways: at the very moment of the action, danger to the bravest of the men, and still greater danger during the withdrawal, once the troops have been treated with contempt.
+For in operations of this kind it is not possible either to do what is needed or else to suffer nothing serious; rather, harm follows upon failure in many ways: at the very moment of the action, danger to the bravest of the men, and still greater danger during the withdrawal, once the troops have been treated with contempt.
 
 There are many—indeed very many—examples of such things: one would find that, of those who fail in attempts of this kind, more have perished or been brought to the utmost peril than have come off unharmed.
 
-As for the future, moreover, they unquestionably breed distrust and hatred against themselves, and besides they put everyone on his guard;
-
-for not only those who have suffered, but also those who merely learn of what happened, are thereby in a sense warned to take heed and be on their watch.
+As for the future, moreover, they unquestionably breed distrust and hatred against themselves, and besides they put everyone on his guard; for not only those who have suffered, but also those who merely learn of what happened, are thereby in a sense warned to take heed and be on their watch.
 
 For this reason men placed in positions of responsibility should never undertake such schemes lightly.
 
@@ -2194,23 +1964,15 @@ For the present, then, I must resume the thread of my narrative; but on this kin
 
 ## Book 5 Chapter 99: Capture of Thebes In Phthiotis
 
-Philip, cheated of that attempt, encamped beside the river Enipeus and gathered up the siege equipment from Larisa and the other cities, which he had had prepared during the winter for the siege;
-
-for the whole purpose of his campaign was to capture the city called Phthiotic Thebes.
+Philip, cheated of that attempt, encamped beside the river Enipeus and gathered up the siege equipment from Larisa and the other cities, which he had had prepared during the winter for the siege; for the whole purpose of his campaign was to capture the city called Phthiotic Thebes.
 
 This city lies not far from the sea, about three hundred stades distant from Larisa, and is conveniently placed in relation to both Magnesia and Thessaly—commanding in particular, in Magnesia, the territory of the Demetrians, and in Thessaly, that of the Pharsalians and the Pheraeans.
 
-From it, at that very time, while the Aetolians held it and made continual raids, great harm was being done to the Demetrians, the Pharsalians, and the Larisaeans as well;
-
-for they often pushed their forays as far as the plain called Amyric.
+From it, at that very time, while the Aetolians held it and made continual raids, great harm was being done to the Demetrians, the Pharsalians, and the Larisaeans as well; for they often pushed their forays as far as the plain called Amyric.
 
 For this reason Philip, regarding it as no small matter, made great efforts to take the place by storm.
 
-When a hundred and fifty catapults and twenty-five stone-throwing engines had been assembled, he advanced upon Thebes, and dividing his army into three parts he took up the ground around the city:
-
-with one division he encamped near Scopium, with another near the place called Heliotropium, and the third he posted by the mountain overlooking the city;
-
-the spaces between the camps he fortified, sectioning them off with a trench and a double palisade, and he further secured them with wooden towers, stationing these at intervals of a plethron with a sufficient guard.
+When a hundred and fifty catapults and twenty-five stone-throwing engines had been assembled, he advanced upon Thebes, and dividing his army into three parts he took up the ground around the city: with one division he encamped near Scopium, with another near the place called Heliotropium, and the third he posted by the mountain overlooking the city; the spaces between the camps he fortified, sectioning them off with a trench and a double palisade, and he further secured them with wooden towers, stationing these at intervals of a plethron with a sufficient guard.
 
 Next, after these works, he brought all his equipment together and began to move the engines up against the citadel.
 
@@ -2240,9 +2002,7 @@ He himself, however, cared little for a settlement, and held firmly to pursuing 
 
 ## Book 5 Chapter 101: Philip Hears of Thrasymene
 
-And so, hearing that the light galleys of Scerdilaidas were raiding the waters off Malea and treating every merchant as an enemy, and that he had even broken the treaty by seizing some of Philip's own ships that lay at anchor with them at Leucas,
-
-Philip fitted out twelve decked warships, eight undecked vessels, and thirty light craft known as hemioliae, and sailed through the Euripus, eager to catch the Illyrians and, in general, full of high hopes for his plans regarding the war against the Aetolians—since he still knew nothing of what had taken place in Italy.
+And so, hearing that the light galleys of Scerdilaidas were raiding the waters off Malea and treating every merchant as an enemy, and that he had even broken the treaty by seizing some of Philip’s own ships that lay at anchor with them at Leucas, Philip fitted out twelve decked warships, eight undecked vessels, and thirty light craft known as hemioliae, and sailed through the Euripus, eager to catch the Illyrians and, in general, full of high hopes for his plans regarding the war against the Aetolians—since he still knew nothing of what had taken place in Italy.
 
 For it happened that, at the very time Philip was besieging Thebes, the Romans were being defeated by Hannibal in the battle in Etruria, though the report of these events had not yet reached the Greeks.
 
@@ -2256,27 +2016,19 @@ For the moment he showed the dispatch to Demetrius of Pharos alone, charging him
 
 Demetrius seized this opening and urged that Philip ought to throw off the war against the Aetolians as quickly as possible and instead hold fast to affairs in Illyria and to a crossing into Italy.
 
-For all of Greece, he said, was already doing Philip's bidding and would continue to do so afterward—the Achaeans out of genuine goodwill, the Aetolians cowed by what had befallen them in the present war—
-
-while Italy and the crossing there, he said, were the beginning of the design for universal dominion, to which no one had a better claim than Philip;
+For all of Greece, he said, was already doing Philip’s bidding and would continue to do so afterward—the Achaeans out of genuine goodwill, the Aetolians cowed by what had befallen them in the present war— while Italy and the crossing there, he said, were the beginning of the design for universal dominion, to which no one had a better claim than Philip;
 
 ## Book 5 Chapter 102: Philip and the Aetolians Discuss Peace
 
-and now, he said, was the very moment, with the Romans having stumbled. By using such arguments he quickly fired Philip's ambition—naturally enough, I think, given that Philip was a young king who had been successful in his enterprises and was reckoned bold in general, and who, on top of this, sprang from a house that has always, more than any other, somehow aspired to dominion over the whole world.
+and now, he said, was the very moment, with the Romans having stumbled. By using such arguments he quickly fired Philip’s ambition—naturally enough, I think, given that Philip was a young king who had been successful in his enterprises and was reckoned bold in general, and who, on top of this, sprang from a house that has always, more than any other, somehow aspired to dominion over the whole world.
 
 In any case, Philip, as I have said, at that time disclosed the news brought by the letter to Demetrius alone. Afterward he gathered his friends and opened a debate about coming to terms with the Aetolians.
 
-And since Aratus and his party were not opposed to such a settlement—on the view that they would be making peace as the stronger party in the war—
-
-the king, without even waiting any longer for the ambassadors who were jointly handling the negotiations, at once sent Cleonicus of Naupactus to the Aetolians—
-
-for he found him still lingering, after his release from captivity, awaiting the meeting of the Achaean assembly—while he himself took the ships and the land force from Corinth and came with them to Aegium.
+And since Aratus and his party were not opposed to such a settlement—on the view that they would be making peace as the stronger party in the war— the king, without even waiting any longer for the ambassadors who were jointly handling the negotiations, at once sent Cleonicus of Naupactus to the Aetolians— for he found him still lingering, after his release from captivity, awaiting the meeting of the Achaean assembly—while he himself took the ships and the land force from Corinth and came with them to Aegium.
 
 Advancing to Lasion and taking the tower in the Perippia, he pretended he was going to invade Elis, so as not to seem too ready to bring the war to an end.
 
-After this, when Cleonicus had gone back and forth two or three times, and the Aetolians begged that he meet them in conference, Philip consented;
-
-and laying aside all the operations of war, he sent couriers to the allied cities, calling on them to send delegates who would sit in council and take part in the joint discussion about the settlement.
+After this, when Cleonicus had gone back and forth two or three times, and the Aetolians begged that he meet them in conference, Philip consented; and laying aside all the operations of war, he sent couriers to the allied cities, calling on them to send delegates who would sit in council and take part in the joint discussion about the settlement.
 
 He himself crossed over with his force and encamped near Panormus—a harbor of the Peloponnese lying directly opposite the city of Naupactus—and waited for the delegates of the allies.
 
@@ -2294,13 +2046,11 @@ Moved by these appeals, the king sailed across with his force to the place calle
 
 There he encamped, enclosed both his ships and his camp with a palisade, and waited for the time of the meeting.
 
-The Aetolians came in full numbers but without their arms, and keeping about two stades away from Philip's camp, sent messages and held discussions about the matters at hand.
+The Aetolians came in full numbers but without their arms, and keeping about two stades away from Philip’s camp, sent messages and held discussions about the matters at hand.
 
 At first the king sent out all the delegates who had come from the allies, instructing them to propose peace to the Aetolians on these terms: that both sides keep what they now held.
 
-The Aetolians readily accepted this, and from then on there was a continuous exchange of messages between them about the particulars. Most of these I shall pass over, since they contain nothing worth recording,
-
-but I shall make mention of the exhortation of Agelaus of Naupactus, which he delivered at the first meeting before both
+The Aetolians readily accepted this, and from then on there was a continuous exchange of messages between them about the particulars. Most of these I shall pass over, since they contain nothing worth recording, but I shall make mention of the exhortation of Agelaus of Naupactus, which he delivered at the first meeting before both
 
 ## Book 5 Chapter 104: The Cloud in the West
 
@@ -2308,9 +2058,7 @@ the king and the allies present. He said that the best thing of all would be for
 
 But if that was altogether impossible, then at least for the present he asked them to be of one mind and on their guard, foreseeing the weight of the armaments and the magnitude of the war now massing in the west.
 
-For it was plain, he said, to anyone who paid even moderate attention to public affairs that, whether the Carthaginians defeated the Romans or the Romans the Carthaginians in the war, it was in no way likely that the victors would rest content with dominion over the Italians and the Sicilians; rather, they would come and extend their designs and their forces farther than they ought. He therefore asked them all to be on guard against the crisis,
-
-and above all Philip.
+For it was plain, he said, to anyone who paid even moderate attention to public affairs that, whether the Carthaginians defeated the Romans or the Romans the Carthaginians in the war, it was in no way likely that the victors would rest content with dominion over the Italians and the Sicilians; rather, they would come and extend their designs and their forces farther than they ought. He therefore asked them all to be on guard against the crisis, and above all Philip.
 
 And the way to guard against it, he said, was for Philip to abandon the aim of crushing the Greeks and making them easy prey for those who attacked them, and instead to take thought for them as he would for his own person, and in general to look after all parts of Greece as belonging and akin to himself.
 
@@ -2320,11 +2068,7 @@ And if he longed for action, he urged him to look to the west and to fix his att
 
 And the present moment, he said, was not unsuited to such a hope.
 
-He urged Philip to put off his quarrels and wars with the Greeks to times of peace, and to make this his chief concern: to keep the power, whenever he wished, both to make peace and to make war with them—
-
-because, if he once allowed the clouds now appearing from the west to settle upon the regions of Greece, he greatly feared that the truces and wars and, in a word, all the games we now play against one another would be so utterly struck from the hands of us all
-
-that we should pray to the gods to grant us this very power: to make war and to make peace with one another whenever we wished, and in general to be masters of the disputes among ourselves.
+He urged Philip to put off his quarrels and wars with the Greeks to times of peace, and to make this his chief concern: to keep the power, whenever he wished, both to make peace and to make war with them— because, if he once allowed the clouds now appearing from the west to settle upon the regions of Greece, he greatly feared that the truces and wars and, in a word, all the games we now play against one another would be so utterly struck from the hands of us all that we should pray to the gods to grant us this very power: to make war and to make peace with one another whenever we wished, and in general to be masters of the disputes among ourselves.
 
 ## Book 5 Chapter 105: The Peace is Ratified
 
@@ -2332,7 +2076,7 @@ By speaking in this way, Agelaus spurred all the allies toward a settlement, and
 
 And so, having reached a mutual understanding among themselves on the particular terms and having ratified the settlement, they parted, each carrying back to his own homeland peace in place of war.
 
-All these things happened in the third year of the 140th Olympiad — I mean the battle of the Romans in Etruria, that of Antiochus over Coele-Syria, and besides these the settlement between the Achaeans and Philip on the one side and the Aetolians on the other.
+All these things happened in the third year of the 140th Olympiad—I mean the battle of the Romans in Etruria, that of Antiochus over Coele-Syria, and besides these the settlement between the Achaeans and Philip on the one side and the Aetolians on the other.
 
 This moment in time, and this single deliberation, were the first to weave together the Greek and the Italian affairs, and the Libyan ones as well.
 
@@ -2342,11 +2086,9 @@ Before long the same thing happened to the islanders and the inhabitants of Asia
 
 For those who were dissatisfied with Philip, and some of those who were at odds with Attalus, no longer leaned toward Antiochus and Ptolemy, nor toward the south and the east, but from this time on looked toward the west; and some sent embassies to the Carthaginians, others to the Romans.
 
-In the same way the Romans too sent embassies to the Greeks, fearing Philip's audacity and taking care that he should not join in attacking them amid the crisis that then surrounded them.
+In the same way the Romans too sent embassies to the Greeks, fearing Philip’s audacity and taking care that he should not join in attacking them amid the crisis that then surrounded them.
 
-Now that I have, I think, shown clearly — in keeping with my promise at the outset — when, how, and for what reasons the affairs of Greece became interwoven with those of Italy and Libya,
-
-it remains for me to carry the narrative of Greek affairs forward continuously, down to the time when the Romans were defeated at the battle of Cannae, the point at which I brought the account of Italian affairs to its climax; and there I will close this book as well, bringing it level with the events already described.
+Now that I have, I think, shown clearly—in keeping with my promise at the outset—when, how, and for what reasons the affairs of Greece became interwoven with those of Italy and Libya, it remains for me to carry the narrative of Greek affairs forward continuously, down to the time when the Romans were defeated at the battle of Cannae, the point at which I brought the account of Italian affairs to its climax; and there I will close this book as well, bringing it level with the events already described.
 
 ## Book 5 Chapter 106: Greece At the End of the Social War
 
@@ -2356,7 +2098,7 @@ Together with the Achaeans, the other cities throughout the Peloponnese likewise
 
 For these things had all but fallen into oblivion among most of them, owing to the unbroken succession of the wars that had gone before.
 
-Indeed I do not know how it has always somehow come about that the Peloponnesians, who of all men are by nature the most suited to a gentle and civilized life, have in earlier times enjoyed it least of all; rather, as Euripides puts it, they were always "men sold to toil and never at rest from the spear."
+Indeed I do not know how it has always somehow come about that the Peloponnesians, who of all men are by nature the most suited to a gentle and civilized life, have in earlier times enjoyed it least of all; rather, as Euripides puts it, they were always “men sold to toil and never at rest from the spear.”
 
 This, it seems to me, they suffer with good reason: for being all of them by nature fond of leadership and of freedom, they fight one another continually, never willing to yield the first place.
 
@@ -2376,25 +2118,19 @@ Emboldened by their success at Raphia, they were no longer willing to submit to 
 
 Antiochus, after making great preparations during the winter, then crossed the Taurus when the following summer came, and, having made a compact of joint action with King Attalus, set about the war against Achaeus.
 
-The Aetolians at first were pleased with the settlement that had been reached with the Achaeans, since the war had not gone according to their expectations — which is also why they chose as their general Agelaus of Naupactus, who was thought to have contributed most to the settlement —
-
-but after no time at all they grew dissatisfied and reproached Agelaus, on the grounds that he had cut off all their opportunities for profit from abroad and their hopes for the future, since the peace had been made not with certain particular states but with all the Greeks.
+The Aetolians at first were pleased with the settlement that had been reached with the Achaeans, since the war had not gone according to their expectations—which is also why they chose as their general Agelaus of Naupactus, who was thought to have contributed most to the settlement—but after no time at all they grew dissatisfied and reproached Agelaus, on the grounds that he had cut off all their opportunities for profit from abroad and their hopes for the future, since the peace had been made not with certain particular states but with all the Greeks.
 
 The aforesaid man, however, bearing up under this unreasonable resentment and blame, held their impulses in check; and so they were forced to restrain themselves, against their nature.
 
-## Book 5 Chapter 108: Philip's Preparations
+## Book 5 Chapter 108: Philip’s Preparations
 
-King Philip, after the settlement, was conveyed back by sea to Macedonia, where he found that Scerdilaïdas — on the pretext of money still owed to him, the same pretext on which he had broken the treaty by seizing the vessels near Leucas — had now plundered a town of Pelagonia called Pissaeum,
+King Philip, after the settlement, was conveyed back by sea to Macedonia, where he found that Scerdilaïdas—on the pretext of money still owed to him, the same pretext on which he had broken the treaty by seizing the vessels near Leucas—had now plundered a town of Pelagonia called Pissaeum, had brought over cities of Dassaretis, some by fear and some by promises—Antipatria, Chrysondyon, and Gertous—and had overrun much of the part of Macedonia bordering on these places as well.
 
-had brought over cities of Dassaretis, some by fear and some by promises — Antipatria, Chrysondyon, and Gertous — and had overrun much of the part of Macedonia bordering on these places as well.
-
-He at once set out with his army, eager to recover the cities that had revolted,
-
-and in general resolved to make war on Scerdilaïdas, considering it absolutely essential to put the situation in Illyria in order with a view both to his other designs and, above all, to his crossing into Italy.
+He at once set out with his army, eager to recover the cities that had revolted, and in general resolved to make war on Scerdilaïdas, considering it absolutely essential to put the situation in Illyria in order with a view both to his other designs and, above all, to his crossing into Italy.
 
 For Demetrius kept fanning this hope and this design in the king so constantly that Philip even dreamed of these things in his sleep and was wholly absorbed in such projects.
 
-Demetrius did this not for Philip's sake — to him he assigned perhaps only a third share in the matter — but rather out of his own hostility toward the Romans, and most of all for his own sake and his private hopes.
+Demetrius did this not for Philip’s sake—to him he assigned perhaps only a third share in the matter—but rather out of his own hostility toward the Romans, and most of all for his own sake and his private hopes.
 
 For he was convinced that only in this way could he recover his dominion in Pharos.
 
@@ -2422,9 +2158,7 @@ Learning that it lay at anchor off Lilybaeum, he took heart and put to sea, adva
 
 As he was already drawing near the area of the river Aous, which flows past the city of the Apolloniates, a panic broke out among his crews much like those that occur in armies on land.
 
-Some of the galleys sailing at the rear of the fleet, which had put in at the island called Sason—lying at the entrance to the Ionian channel—came to Philip by night reporting that certain ships sailing from the Strait had anchored there alongside them,
-
-and that these men reported leaving behind at Rhegium some Roman quinqueremes bound for Apollonia and for Scerdilaidas.
+Some of the galleys sailing at the rear of the fleet, which had put in at the island called Sason—lying at the entrance to the Ionian channel—came to Philip by night reporting that certain ships sailing from the Strait had anchored there alongside them, and that these men reported leaving behind at Rhegium some Roman quinqueremes bound for Apollonia and for Scerdilaidas.
 
 Philip, supposing that the fleet was all but upon him, was seized with fear; he hastily weighed anchor and gave the order to sail back the way he had come.
 
@@ -2434,9 +2168,7 @@ Recovering a little of his confidence, he stayed there, creating the impression 
 
 As it happened, the whole alarm about him proved to be false.
 
-For Scerdilaidas, hearing that during the winter Philip was building a considerable number of galleys, and expecting him to come by sea, had sent messages to the Romans explaining this and asking for help;
-
-and the Romans had dispatched a squadron of ten ships from their fleet off Lilybaeum—this being the very squadron that had been sighted near Rhegium.
+For Scerdilaidas, hearing that during the winter Philip was building a considerable number of galleys, and expecting him to come by sea, had sent messages to the Romans explaining this and asking for help; and the Romans had dispatched a squadron of ten ships from their fleet off Lilybaeum—this being the very squadron that had been sighted near Rhegium.
 
 Had Philip not fled from it in such groundless terror, that would have been the very moment when he could best have accomplished his aims in Illyria, since the Romans were occupied with all their plans and preparations against Hannibal and the battle at Cannae; and in all likelihood he would also have captured the ships.
 

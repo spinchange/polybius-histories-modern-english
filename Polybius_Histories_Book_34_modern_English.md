@@ -26,9 +26,7 @@ But from the equatorial circle its departure is rapid. It is therefore reasonabl
 
 For all who live between the tropic circles stand in the same relation to the sun’s passage overhead; but it remains longer over those who live near the tropics.
 
-For that reason, the regions beneath the equator, though they lie in the middle of the torrid zone, are in fact more temperate than the settlements near the outer edges of that zone, which lie under the tropic circles. Polybius makes six zones in all,
-
-two beneath the arctic circles, two between those and the tropics, and two between those and the equator.
+For that reason, the regions beneath the equator, though they lie in the middle of the torrid zone, are in fact more temperate than the settlements near the outer edges of that zone, which lie under the tropic circles. Polybius makes six zones in all, two beneath the arctic circles, two between those and the tropics, and two between those and the equator.
 
 But Polybius is not right in this, when he marks out zones by the arctic circles, making two under them and two between them and the tropics.
 
@@ -48,29 +46,19 @@ That is what Polybius also says when he undertakes to explain the wanderings of 
 
 And Polybius is right in the way he interprets those wanderings.
 
-He says that Aeolus, because he indicated the routes for sailing out through the regions of the strait—where the currents run in both directions and departure is difficult because of the tides—came to be called the keeper of the winds and was thought of as a king,
-
-just as Danaus, who pointed out the reservoirs in Argos, and Atreus, who recognized the sun’s course as opposite to that of the heavens, came to be represented as seers and priest-kings.
+He says that Aeolus, because he indicated the routes for sailing out through the regions of the strait—where the currents run in both directions and departure is difficult because of the tides—came to be called the keeper of the winds and was thought of as a king, just as Danaus, who pointed out the reservoirs in Argos, and Atreus, who recognized the sun’s course as opposite to that of the heavens, came to be represented as seers and priest-kings.
 
 So too the priests of the Egyptians, the Chaldaeans, and the Magi, because they surpassed other men in wisdom, received authority and honor among earlier generations.
 
 In the same way each of the gods is honored as the discoverer of some useful thing.
 
-Starting from this principle, Polybius does not allow Aeolus to be treated as a merely mythical figure, nor Odysseus’ entire wandering as pure fiction. Rather, he says that a small amount of myth has been added, just as it has been added to the story of the Trojan War,
-
-but that the main setting of the whole story is Sicily, both in the poet and in the other writers who describe the local features of Italy and Sicily.
+Starting from this principle, Polybius does not allow Aeolus to be treated as a merely mythical figure, nor Odysseus’ entire wandering as pure fiction. Rather, he says that a small amount of myth has been added, just as it has been added to the story of the Trojan War, but that the main setting of the whole story is Sicily, both in the poet and in the other writers who describe the local features of Italy and Sicily.
 
 Nor does he approve Eratosthenes’ remark that one will discover where Odysseus wandered when one finds the cobbler who stitched up the bag of the winds.
 
-He also says that Homer’s words fit what happens at Scyllaeum and the hunting of the great fish there, where Scylla herself is described as
+He also says that Homer’s words fit what happens at Scyllaeum and the hunting of the great fish there, where Scylla herself is described as raging around the rock, fishing for dolphins and sea-dogs and whatever larger creature she may catch.
 
-raging around the rock,
-
-fishing for dolphins and sea-dogs and whatever larger creature she may catch.
-
-For tuna, swimming in schools along the coast of Italy, whenever they are driven off course and prevented from reaching Sicily, fall in with larger animals such as dolphins, sharks, and other sea-creatures,
-
-and from feeding on these the hunters called galeotes grow fat—fish which, he says, are also called swordfish or sea-dogs.
+For tuna, swimming in schools along the coast of Italy, whenever they are driven off course and prevented from reaching Sicily, fall in with larger animals such as dolphins, sharks, and other sea-creatures, and from feeding on these the hunters called galeotes grow fat—fish which, he says, are also called swordfish or sea-dogs.
 
 The same thing happens during the flooding of the Nile and of other waters, just as it does in a fire when woodland is burning: the animals gather together in flight from fire or flood and become prey for the stronger creatures.
 
@@ -92,9 +80,7 @@ And even if the shaft falls into the sea, it is not lost. It is made from oak an
 
 Sometimes it even happens that the rower is wounded straight through the little boat because of the great size of the fish’s sword and the boar-like violence of the creature in the hunt.
 
-From such facts, he says, one may infer that Homer placed Odysseus’ wandering around Sicily, because he connected Scylla with this kind of fishing, which is especially characteristic of Scyllaeum,
-
-and because what is said about Charybdis resembles the actual behavior of the strait.
+From such facts, he says, one may infer that Homer placed Odysseus’ wandering around Sicily, because he connected Scylla with this kind of fishing, which is especially characteristic of Scyllaeum, and because what is said about Charybdis resembles the actual behavior of the strait.
 
 But the line “for three times she spews it up” instead of “twice” is either a copyist’s error or a geographical mistake.
 
@@ -120,19 +106,9 @@ And to those who ask how Odysseus could have come to Sicily three times and yet 
 
 ## Book 34 Chapter 5
 
-III. Polybius argues against earlier geographical writers
+III. Polybius argues against earlier geographical writers When Polybius describes Europe, he says that he will pass over the ancient writers and instead examine those who criticize them: Dicaearchus, Eratosthenes, the most recent author to write on geography, and Pytheas, by whom, he says, many have been misled, since he claimed to have gone over the whole of Britain on foot and gave the island a perimeter of more than forty thousand stades, and also told stories about Thule and those regions where there was no longer land by itself, nor sea, nor air, but some compound made from all of them, like a sea-lung, in which, he says, earth and sea and everything together are suspended, and that this serves as a sort of bond holding the whole together, being neither passable on foot nor navigable by ship.
 
-When Polybius describes Europe, he says that he will pass over the ancient writers and instead examine those who criticize them: Dicaearchus, Eratosthenes, the most recent author to write on geography, and Pytheas,
-
-by whom, he says, many have been misled, since he claimed to have gone over the whole of Britain on foot and gave the island a perimeter of more than forty thousand stades,
-
-and also told stories about Thule and those regions where there was no longer land by itself, nor sea, nor air, but some compound made from all of them, like a sea-lung,
-
-in which, he says, earth and sea and everything together are suspended, and that this serves as a sort of bond holding the whole together, being neither passable on foot nor navigable by ship.
-
-He says that he saw for himself the thing that resembled a sea-lung, but that he reports the rest from hearsay. Such, then, are the tales of Pytheas,
-
-including his further claim that after returning from there he traveled all along the ocean-facing coast of Europe from Gades to the Tanais.
+He says that he saw for himself the thing that resembled a sea-lung, but that he reports the rest from hearsay. Such, then, are the tales of Pytheas, including his further claim that after returning from there he traveled all along the ocean-facing coast of Europe from Gades to the Tanais.
 
 Polybius says that even this is incredible: how could a private man, and a poor man besides, have crossed such vast distances by sea and by land?
 
@@ -142,7 +118,7 @@ He says it would be far better to believe the Messenian than this man. Euhemerus
 
 Yet Eratosthenes calls Euhemerus a Bergaean, and still believes Pytheas, although Dicaearchus did not believe him either.
 
-As for the phrase, "although Dicaearchus did not believe him," that is ridiculous, as though Dicaearchus ought to be used as the standard, though Polybius himself brings forward so many refutations against him.
+As for the phrase, “although Dicaearchus did not believe him,” that is ridiculous, as though Dicaearchus ought to be used as the standard, though Polybius himself brings forward so many refutations against him.
 
 The ignorance of Eratosthenes about the western and northern parts of Europe has already been mentioned.
 
@@ -152,13 +128,9 @@ And yet Polybius is precisely the man who calls such pronouncements mere popular
 
 ## Book 34 Chapter 6
 
-With arguments of this kind he refutes those earlier writers while claiming precision. For example, Dicaearchus said that from the Peloponnese to the Pillars there were ten thousand stades, and that the distance from the Peloponnese to the head of the Adriatic was greater than this; and since he gave the distance from the Peloponnese to the strait as three thousand, the remainder from the strait to the Pillars came to seven thousand,
+With arguments of this kind he refutes those earlier writers while claiming precision. For example, Dicaearchus said that from the Peloponnese to the Pillars there were ten thousand stades, and that the distance from the Peloponnese to the head of the Adriatic was greater than this; and since he gave the distance from the Peloponnese to the strait as three thousand, the remainder from the strait to the Pillars came to seven thousand, Polybius says that he will let the three thousand stand, whether it is correctly reckoned or not, but that the seven thousand works in neither way, neither for someone measuring along the coast nor for someone measuring straight through the open sea.
 
-Polybius says that he will let the three thousand stand, whether it is correctly reckoned or not, but that the seven thousand works in neither way, neither for someone measuring along the coast nor for someone measuring straight through the open sea.
-
-For the coastline, he says, most closely resembles an obtuse angle whose two ends rest on the strait and on the Pillars,
-
-with Narbo as its apex, so that a triangle is formed, having as its base the straight course through the open sea, and as its sides the two lines that form the angle just mentioned.
+For the coastline, he says, most closely resembles an obtuse angle whose two ends rest on the strait and on the Pillars, with Narbo as its apex, so that a triangle is formed, having as its base the straight course through the open sea, and as its sides the two lines that form the angle just mentioned.
 
 One of these, from the strait to Narbo, is ten thousand two hundred stades and more; the other, the remaining side, is a little less than eight thousand.
 
@@ -170,13 +142,9 @@ It is therefore clear, he says, from schoolboy geometry that the entire coastal 
 
 And when the three thousand stades from the Peloponnese to the strait are added, the total number of stades, even by the straight route itself, will be more than double what Dicaearchus said.
 
-And, he says, the distance to the recess at the head of the Adriatic will have to be set still greater than this, according to Dicaearchus' own account.
+And, he says, the distance to the recess at the head of the Adriatic will have to be set still greater than this, according to Dicaearchus’ own account.
 
-But, dear Polybius, one might say, just as experience makes the refutation of that falsehood plain enough from the very things you yourself have said,
-
-namely, seven hundred stades from the Peloponnese to Leucas, then the same distance from there to Corcyra, and again the same distance from there to the Ceraunian Mountains, and then to the right from the Ceraunians to Iapydia along the Illyrian coast, six thousand one hundred and fifty stades,
-
-so too these two claims are both false: Dicaearchus' statement that the distance from the strait to the Pillars is seven thousand stades, and the result that you think you have proved.
+But, dear Polybius, one might say, just as experience makes the refutation of that falsehood plain enough from the very things you yourself have said, namely, seven hundred stades from the Peloponnese to Leucas, then the same distance from there to Corcyra, and again the same distance from there to the Ceraunian Mountains, and then to the right from the Ceraunians to Iapydia along the Illyrian coast, six thousand one hundred and fifty stades, so too these two claims are both false: Dicaearchus’ statement that the distance from the strait to the Pillars is seven thousand stades, and the result that you think you have proved.
 
 For most authorities agree in saying that the distance across the open sea is twelve thousand stades.
 
@@ -192,11 +160,9 @@ But when Eratosthenes says there are seven thousand stades from Massalia to the 
 
 For the authorities now agree that, if one cuts short the irregular windings of the roads, the whole length of Iberia from the Pyrenees to its western side is no more than six thousand stades.
 
-Yet Polybius places the length of the Tagus River itself at eight thousand stades from its source to its mouth, surely not including all its bends—for that is not the geographer's method—but speaking in a straight line; and yet the sources of the Tagus are more than a thousand stades away from the Pyrenees.
+Yet Polybius places the length of the Tagus River itself at eight thousand stades from its source to its mouth, surely not including all its bends—for that is not the geographer’s method—but speaking in a straight line; and yet the sources of the Tagus are more than a thousand stades away from the Pyrenees.
 
-Again, he is right in declaring that Eratosthenes is ignorant of Iberian geography and that in some places he makes contradictory statements about it,
-
-since, after saying that its outer parts as far as Gades are inhabited by Gauls—if indeed they occupy the western regions of Europe as far as Gades—he then forgets this and, in his survey of Iberia, nowhere mentions the Gauls at all.
+Again, he is right in declaring that Eratosthenes is ignorant of Iberian geography and that in some places he makes contradictory statements about it, since, after saying that its outer parts as far as Gades are inhabited by Gauls—if indeed they occupy the western regions of Europe as far as Gades—he then forgets this and, in his survey of Iberia, nowhere mentions the Gauls at all.
 
 But when he lays down that the length of Europe is less than that of Libya and Asia together, he is not making the comparison correctly.
 
@@ -204,21 +170,15 @@ For he says that the mouth at the Pillars lies at due west, while the Tanais flo
 
 So Europe is made shorter than the combined length by the interval between the summer sunrise and the equinoctial sunrise; for Asia gets that much start, toward due east, within the northern semicircle.
 
-Europe, however, projects in several headlands,
-
-and on this point Polybius has spoken better than Eratosthenes, though still not adequately.
+Europe, however, projects in several headlands, and on this point Polybius has spoken better than Eratosthenes, though still not adequately.
 
 For Eratosthenes said there were three peninsulas: one reaching to the Pillars, on which Iberia lies; one reaching to the strait, on which Italy lies; and a third at Malea, on which lie all the peoples between the Adriatic and the Euxine and the Tanais.
 
-Polybius likewise sets out the first two, but makes a third at Malea and Sunium, on which lie all Greece, Illyria, and part of Thrace,
-
-a fourth at the Thracian Chersonese, where the narrows at Sestus and Abydus are—this peninsula is occupied by Thracians—and a fifth at the Cimmerian Bosporus and the mouth of Lake Maeotis.
+Polybius likewise sets out the first two, but makes a third at Malea and Sunium, on which lie all Greece, Illyria, and part of Thrace, a fourth at the Thracian Chersonese, where the narrows at Sestus and Abydus are—this peninsula is occupied by Thracians—and a fifth at the Cimmerian Bosporus and the mouth of Lake Maeotis.
 
 ## Book 34 Chapter 8
 
-IV. On Lusitania
-
-Polybius of Megalopolis, in the thirty-fourth book of his Histories, while discussing the land of Lusitania in Iberia, says that acorn-bearing trees are rooted deep in the sea there, and that tunny grow fat by feeding on their fruit.
+IV. On Lusitania Polybius of Megalopolis, in the thirty-fourth book of his Histories, while discussing the land of Lusitania in Iberia, says that acorn-bearing trees are rooted deep in the sea there, and that tunny grow fat by feeding on their fruit.
 
 For that reason, one would not be wrong to call the tunny sea-pigs.
 
@@ -226,23 +186,17 @@ Polybius also says that these acorns drift as far as Latium, unless perhaps Sard
 
 When describing the prosperity of Lusitania—this is a region of Iberia, which the Romans now call Spain—Polybius of Megalopolis says in the thirty-fourth book of his Histories that, because of the mildness of the climate there, both animals and human beings are highly fertile, and the produce of the land never fails.
 
-For roses, white violets, asparagus, and similar plants are absent there for no more than three months,
-
-while the seafood there is greatly superior to what is found in our sea in abundance, quality, and beauty.
+For roses, white violets, asparagus, and similar plants are absent there for no more than three months, while the seafood there is greatly superior to what is found in our sea in abundance, quality, and beauty.
 
 There a Sicilian medimnus of barley costs one drachma, and a medimnus of wheat nine Alexandrian obols.
 
-A metretes of wine costs a drachma, and an average kid or a hare costs an obol. Lambs are priced at three or four obols. A fat pig weighing one hundred minas costs five drachmas, and a sheep two. A talent of figs costs three obols,
-
-a calf five drachmas, and a yoke-ox ten.
+A metretes of wine costs a drachma, and an average kid or a hare costs an obol. Lambs are priced at three or four obols. A fat pig weighing one hundred minas costs five drachmas, and a sheep two. A talent of figs costs three obols, a calf five drachmas, and a yoke-ox ten.
 
 The meat of wild animals was considered hardly worth setting a price on at all; instead, people exchanged it freely as a favor and a courtesy.
 
 ## Book 34 Chapter 9
 
-V. Spain
-
-The inhabitants are called the Turdetani and the Turduli; some think these are the same people, others that they are different.
+V. Spain The inhabitants are called the Turdetani and the Turduli; some think these are the same people, others that they are different.
 
 Polybius is among those who say that the Turduli live to the north of the Turdetani as their neighbors.
 
@@ -274,9 +228,7 @@ He says that this king rivaled the luxury of the Phaeacians, except that the mix
 
 ## Book 34 Chapter 10
 
-VI. Gaul
-
-Polybius, in the thirty-fourth book of his Histories, says that from the Pyrenees to the river Narbo there is a plain, through which flow the rivers Illeberis and Rhoscynus, passing by cities of the same names inhabited by Celts.
+VI. Gaul Polybius, in the thirty-fourth book of his Histories, says that from the Pyrenees to the river Narbo there is a plain, through which flow the rivers Illeberis and Rhoscynus, passing by cities of the same names inhabited by Celts.
 
 In this plain are found what are called underground fish.
 
@@ -316,13 +268,11 @@ He says that there are several lakes in the mountains, but three are large. The 
 
 The next, Larius, is four hundred stades long and narrower than the first, and it sends out the river Addua.
 
-The third, Verbanus, is nearly three hundred stades long and thirty wide, and it sends out the great river Ticinus. All these rivers flow into the Padus.
+The third, Verbanus, is nearly three hundred stades long and thirty wide, and it sends out the great river Ticinus. All these rivers flow into the Po.
 
 ## Book 34 Chapter 11
 
-VII. Italy
-
-Polybius says that at Capua a remarkable wine is produced, called Anadendrites, with which no other can be compared.
+VII. Italy Polybius says that at Capua a remarkable wine is produced, called Anadendrites, with which no other can be compared.
 
 He says that the coast from Iapygia to the strait is three thousand stades by land, washed by the Sicilian Sea, but by sea voyage it is less than five hundred.
 
@@ -340,17 +290,11 @@ Antiochus says that this land was inhabited by the Opici, who were also called A
 
 Polybius, however, indicates that he regards these as two peoples; for he says that both the Opici and the Ausones inhabit this land around the Crater.
 
-Polybius says that the distances from Iapygia have been measured in miles,
+Polybius says that the distances from Iapygia have been measured in miles, and that there are five hundred and sixty-two miles to the city of Sila, and from there to Aquileia one hundred and seventy-eight.
 
-and that there are five hundred and sixty-two miles to the city of Sila, and from there to Aquileia one hundred and seventy-eight.
+Then comes Lacinium, a sanctuary of Hera, once wealthy and full of many offerings.
 
-Then comes Lacinium,
-
-a sanctuary of Hera, once wealthy and full of many offerings.
-
-The lengths are not stated clearly; but for the most part Polybius gives the distance from the strait to Lacinium as one thousand three hundred stades,
-
-and from there across to the Iapygian promontory as seven hundred.
+The lengths are not stated clearly; but for the most part Polybius gives the distance from the strait to Lacinium as one thousand three hundred stades, and from there across to the Iapygian promontory as seven hundred.
 
 Polybius says that of the three craters one has partly collapsed, while the other two remain intact.
 
@@ -358,9 +302,7 @@ The largest has a circular rim with a circumference of five stades, but it gradu
 
 From there the depth to the sea is one stade, so that in calm weather the sea can be seen. If this is trustworthy, then perhaps the stories told about Empedocles should not be dismissed either.
 
-He says that when a south wind is about to blow, a misty haze spreads all around the little island, so that even Sicily cannot be seen from it at a distance; but when a north wind is coming,
-
-bright flames leap up from the crater mentioned above to a great height, and louder rumblings are sent out; the west wind produces something between the two.
+He says that when a south wind is about to blow, a misty haze spreads all around the little island, so that even Sicily cannot be seen from it at a distance; but when a north wind is coming, bright flames leap up from the crater mentioned above to a great height, and louder rumblings are sent out; the west wind produces something between the two.
 
 The other craters are of similar shape, but weaker in the force of their eruptions.
 
@@ -372,9 +314,7 @@ So it appears that what seems most mythical in the poet was not spoken in vain, 
 
 ## Book 34 Chapter 12
 
-VIII. Thrace, Macedonia, Greece
-
-He also says other things that are not trustworthy: that the seas are connected by channels because Chian and Thasian pottery is found in the Naro; that both seas can be seen from a certain mountain; that among the Liburnian islands is Titheis, with a circuit of five hundred stades; and that the Ister pours one of its mouths into the Adriatic.
+VIII. Thrace, Macedonia, Greece He also says other things that are not trustworthy: that the seas are connected by channels because Chian and Thasian pottery is found in the Naro; that both seas can be seen from a certain mountain; that among the Liburnian islands is Titheis, with a circuit of five hundred stades; and that the Danube pours one of its mouths into the Adriatic.
 
 Some statements of Eratosthenes too are misunderstandings shaped by popular talk, as Polybius says when discussing him and other historians.
 
@@ -392,38 +332,24 @@ From there it goes past Barnous, through Heracleia and the regions of the Lynces
 
 Polybius says this section is two hundred and sixty-seven miles.
 
-Since the distance from Perinthus to Byzantium is six hundred and thirty stades, and from the Hebrus and Cypsela to Byzantium as far as the Cyanean Rocks is three thousand one hundred, as Artemidorus says, the total length from the Ionian Gulf at Apollonia to Byzantium is seven thousand three hundred and twenty stades; Polybius adds another one hundred and eighty,
-
-counting the extra third of a stade on top of the eight stades in each mile.
+Since the distance from Perinthus to Byzantium is six hundred and thirty stades, and from the Hebrus and Cypsela to Byzantium as far as the Cyanean Rocks is three thousand one hundred, as Artemidorus says, the total length from the Ionian Gulf at Apollonia to Byzantium is seven thousand three hundred and twenty stades; Polybius adds another one hundred and eighty, counting the extra third of a stade on top of the eight stades in each mile.
 
 The circumference of the Peloponnese, if one does not follow every inlet, is four thousand stades, according to Polybius.
 
-When Polybius said that the distance from Malea northward to the Ister was about ten thousand stades, Artemidorus corrects this, and not unreasonably. According to him, the distance from the Ister to Malea is six thousand five hundred. The reason is that Polybius did not measure the direct route, but some incidental one that one of the generals had taken.
+When Polybius said that the distance from Malea northward to the Danube was about ten thousand stades, Artemidorus corrects this, and not unreasonably. According to him, the distance from the Danube to Malea is six thousand five hundred. The reason is that Polybius did not measure the direct route, but some incidental one that one of the generals had taken.
 
 ## Book 34 Chapter 13
 
-IX. Asia
-
-As for the regions lying directly beyond these as far as India, Artemidorus gives the same account as Eratosthenes. Polybius too says that, on matters concerning those lands, Eratosthenes is the authority one should trust most.
+IX. Asia As for the regions lying directly beyond these as far as India, Artemidorus gives the same account as Eratosthenes. Polybius too says that, on matters concerning those lands, Eratosthenes is the authority one should trust most.
 
 ## Book 34 Chapter 14
 
-X. Alexandria, City of Egypt
+X. Alexandria, City of Egypt Polybius, who had himself been in the city, says that he was disgusted by its condition at that time.
 
-Polybius, who had himself been in the city, says that he was disgusted by its condition at that time.
-
-He says that three groups lived in the city: first, the Egyptian and native population, sharp-witted and fit for civic life;
-
-a second, the mercenary class, a heavy, numerous, and unruly body. For from ancient custom they maintained foreign men under arms, men trained to rule rather than obey because of the weakness of the kings.
+He says that three groups lived in the city: first, the Egyptian and native population, sharp-witted and fit for civic life; a second, the mercenary class, a heavy, numerous, and unruly body. For from ancient custom they maintained foreign men under arms, men trained to rule rather than obey because of the weakness of the kings.
 
 A third group was that of the Alexandrians themselves, not clearly suited for civic life either, for the same reasons, yet still better than the others.
 
-For even if they were of mixed descent, they had nevertheless originally been Greeks and still remembered the common customs of the Greek people. But when even this element had been wiped out,
-
-chiefly under Euergetes Physcon, in whose reign Polybius came to Alexandria—
-
-for Physcon, whenever he was caught up in civil strife, repeatedly let the soldiers loose upon the crowds and destroyed them—
-
-with things in the city being in such a state, he says, the poet's words were literally true:
+For even if they were of mixed descent, they had nevertheless originally been Greeks and still remembered the common customs of the Greek people. But when even this element had been wiped out, chiefly under Euergetes Physcon, in whose reign Polybius came to Alexandria— for Physcon, whenever he was caught up in civil strife, repeatedly let the soldiers loose upon the crowds and destroyed them— with things in the city being in such a state, he says, the poet’s words were literally true:
 
 “To go to Egypt is a long and painful road.”

@@ -18,9 +18,7 @@ Why I rejected the other parts of history and chose instead to write only about 
 
 ## Book 9 Chapter 2: Why Focus on Actions
 
-Since many writers, and in many different ways, have already treated genealogies, myths, colonies,
-
-and also kinships and city-foundations, any man who now takes up those subjects must either present what belongs to others as if it were his own—which is the most disgraceful course of all—or else, if he refuses to do that, plainly waste his labor by working over matters that earlier writers have already explained well enough and handed down to posterity.
+Since many writers, and in many different ways, have already treated genealogies, myths, colonies, and also kinships and city-foundations, any man who now takes up those subjects must either present what belongs to others as if it were his own—which is the most disgraceful course of all—or else, if he refuses to do that, plainly waste his labor by working over matters that earlier writers have already explained well enough and handed down to posterity.
 
 For these reasons, and for many others besides, I left such themes aside.
 
@@ -34,7 +32,7 @@ Those who read my work with care from beginning to end will be the surest witnes
 
 ## Book 9 Chapter 3: The Hannibalian War
 
-Hannibal surrounded Appius's camp on every side and at first confined himself to skirmishing and testing the Romans, wanting to draw them out into battle.
+Hannibal surrounded Appius’s camp on every side and at first confined himself to skirmishing and testing the Romans, wanting to draw them out into battle.
 
 But since no one responded, what followed came to resemble a siege. The cavalry charged in squadrons and, with loud shouting, hurled their javelins into the camp, while the infantry advanced in companies and tried to tear down the palisade.
 
@@ -50,7 +48,7 @@ Up to this time they had merely shadowed Hannibal, always keeping to the foothil
 
 Meanwhile the Carthaginians, though they were winning battles without interruption, at some moments were in difficulties no less than the defeated side.
 
-It seems to me that the cause lay partly in the deliberate policy of both sides, since both had recognized that Hannibal's cavalry formation was the reason why the Carthaginians won and the Romans were beaten.
+It seems to me that the cause lay partly in the deliberate policy of both sides, since both had recognized that Hannibal’s cavalry formation was the reason why the Carthaginians won and the Romans were beaten.
 
 That is why, after the battles, the defeated Roman camps naturally followed at a distance: they moved through terrain where the enemy cavalry could do them no harm.
 
@@ -58,9 +56,7 @@ And for the same reason, what happened around Capua at that time followed natura
 
 ## Book 9 Chapter 4: The Siege of Capua
 
-For the Roman army did not dare to come out and fight because it feared the enemy cavalry,
-
-but it remained boldly inside its camp, clearly understanding that the cavalry by which it had been beaten in battle would there be powerless to hurt it.
+For the Roman army did not dare to come out and fight because it feared the enemy cavalry, but it remained boldly inside its camp, clearly understanding that the cavalry by which it had been beaten in battle would there be powerless to hurt it.
 
 The Carthaginians, on the other hand, quite naturally could not remain encamped for long with their cavalry, because the Romans had destroyed all the fodder in the neighboring country for this very purpose, and it was impossible for so many horsemen and so many pack animals to bring hay and barley on their backs from a great distance.
 
@@ -108,7 +104,7 @@ But just when Hannibal had encamped and was planning on the following day to tes
 
 Gnaeus and Publius had already completed the enrollment for one army, and the soldiers had sworn to appear in arms at Rome on that very day; and for the other army the enrollment and examination were then in progress.
 
-As a result, a large number of men happened to be assembled at Rome at exactly the right moment. The commanders boldly led them out, encamped in front of the city, and checked Hannibal's advance.
+As a result, a large number of men happened to be assembled at Rome at exactly the right moment. The commanders boldly led them out, encamped in front of the city, and checked Hannibal’s advance.
 
 At first the Carthaginians pushed forward, not altogether despairing of taking Rome itself by storm. But when they saw the opposing force drawn up in battle order and quickly learned from a prisoner what had happened, they abandoned the attack on the city and instead marched through the countryside, ravaging the land and burning the houses.
 
@@ -116,7 +112,7 @@ At the beginning they gathered into their camp an immense quantity of plunder, a
 
 ## Book 9 Chapter 7: Hannibal In Sight of Rome
 
-But afterward, when the consuls boldly ventured to encamp only ten stades away, Hannibal—having now amassed a great quantity of booty, having lost hope of any success against the city, and above all calculating that by this time Appius ought, according to the original plan, to have learned of Rome's danger and either to have raised the siege altogether and come to help, or at least to have left part of his force behind and hurried off with the greater part—broke camp at dawn.
+But afterward, when the consuls boldly ventured to encamp only ten stades away, Hannibal—having now amassed a great quantity of booty, having lost hope of any success against the city, and above all calculating that by this time Appius ought, according to the original plan, to have learned of Rome’s danger and either to have raised the siege altogether and come to help, or at least to have left part of his force behind and hurried off with the greater part—broke camp at dawn.
 
 He believed that whichever of these things happened would serve his purpose well, and so set his army in motion before daybreak.
 
@@ -124,7 +120,7 @@ Publius and his men, however, broke down the bridges over the river just mention
 
 As the Carthaginians were making the crossing they pressed hard upon them and caused them great trouble.
 
-They could not accomplish anything decisive because of the number of Hannibal's cavalry and the readiness of the Numidians on every kind of ground; but after stripping away a fair part of the booty and killing about three hundred of the enemy, they then withdrew to their camp.
+They could not accomplish anything decisive because of the number of Hannibal’s cavalry and the readiness of the Numidians on every kind of ground; but after stripping away a fair part of the booty and killing about three hundred of the enemy, they then withdrew to their camp.
 
 After that, thinking that the Carthaginians were retreating in haste out of fear, they followed in their rear along the foothills.
 
@@ -140,19 +136,7 @@ Instead he marched through Daunia and Bruttium and suddenly appeared in the regi
 
 At this point, I think, one may fairly pause to note the courage and ambition both of the Carthaginians and of the Romans in war.
 
-For just as everyone admires the Theban Epaminondas because, after coming to Tegea with the allies and observing that the Lacedaemonians themselves had all assembled at Mantinea, together with their allies, in order to fight the Thebans,
-
-he ordered his own men to take supper early and led out the army as night was just coming on, pretending that he was hurrying to seize certain advantageous positions for the coming battle,
-
-but after creating that impression among the rank and file actually marched straight toward Sparta itself,
-
-and, arriving unexpectedly at about the third hour, found Sparta empty of defenders, forced his way as far as the marketplace, and occupied the parts of the city that slope toward the river,
-
-yet then suffered a reversal because some deserter got through during the night to Mantinea and informed King Agesilaus what was happening, and help arrived just at the critical moment when the city was on the point of being taken,
-
-so that he failed in that hope; but afterward, having had breakfast by the Eurotas and allowed his troops to recover from their exertions, he again set out by the same road in the opposite direction,
-
-calculating that since the Lacedaemonians and their allies had gone off to help Sparta, Mantinea would in turn be left undefended—which is exactly what happened.
+For just as everyone admires the Theban Epaminondas because, after coming to Tegea with the allies and observing that the Lacedaemonians themselves had all assembled at Mantinea, together with their allies, in order to fight the Thebans, he ordered his own men to take supper early and led out the army as night was just coming on, pretending that he was hurrying to seize certain advantageous positions for the coming battle, but after creating that impression among the rank and file actually marched straight toward Sparta itself, and, arriving unexpectedly at about the third hour, found Sparta empty of defenders, forced his way as far as the marketplace, and occupied the parts of the city that slope toward the river, yet then suffered a reversal because some deserter got through during the night to Mantinea and informed King Agesilaus what was happening, and help arrived just at the critical moment when the city was on the point of being taken, so that he failed in that hope; but afterward, having had breakfast by the Eurotas and allowed his troops to recover from their exertions, he again set out by the same road in the opposite direction, calculating that since the Lacedaemonians and their allies had gone off to help Sparta, Mantinea would in turn be left undefended—which is exactly what happened.
 
 So he encouraged the Thebans, pushed on with a vigorous night march, and came up to Mantinea about midday, when it was completely abandoned by those who might have defended it.
 
@@ -186,7 +170,7 @@ I do not say this so much for the sake of praising either Romans or Carthaginian
 
 By remembering such actions, or by having them set before their eyes, they may become eager to imitate them. For what seems rash and dangerous often turns out, on the contrary, to be real safety; and boldness of conception, if only it is guided by reason, remains admirable, noble, and worthy of remembrance whether it succeeds or fails.
 
-Atella is a city of the Opici in Italy, lying between Capua and Neapolis. The ethnic name is Atellanus, as Polybius says in the ninth book: "The Atellani surrendered themselves."
+Atella is a city of the Opici in Italy, lying between Capua and Neapolis. The ethnic name is Atellanus, as Polybius says in the ninth book: “The Atellani surrendered themselves.”
 
 When the Romans were besieging Tarentum, Bomilcar the Carthaginian admiral came to help with a very large force. But since he could do nothing to assist those inside, because the Romans had secured their camp and blockade so well, he consumed his supplies without accomplishing anything. Though he had first been compelled to come by urgent appeals and great promises, he was later forced by the entreaties of the people within the city to sail away.
 
@@ -212,17 +196,17 @@ For then the spectators no longer pity their neighbors, but themselves, as the s
 
 From this there springs not only envy, but a kind of anger against the prosperous, because the memory of their private misfortunes acts like a spur driving men to hatred of those who caused them.
 
-There may perhaps be some reasonable argument for bringing gold and silver together into one's own possession; for no one can aspire to universal power without at once weakening the resources of others and preparing that kind of strength for himself.
+There may perhaps be some reasonable argument for bringing gold and silver together into one’s own possession; for no one can aspire to universal power without at once weakening the resources of others and preparing that kind of strength for himself.
 
 But the things that lie outside this kind of power ought to have been left in their original places. In that way they would both have avoided stirring up envy and would have made their own country more glorious, adorning it not with paintings and statues, but with dignity and greatness of soul.
 
-Let me say this for the sake of those who continually inherit positions of power, so that when they plunder cities they may not suppose that other people's disasters are an ornament to their own fatherlands. The Romans, however, after transferring these objects, used them to decorate private life in individual households and to embellish the public spaces of the city.
+Let me say this for the sake of those who continually inherit positions of power, so that when they plunder cities they may not suppose that other people’s disasters are an ornament to their own fatherlands. The Romans, however, after transferring these objects, used them to decorate private life in individual households and to embellish the public spaces of the city.
 
 ## Book 9 Chapter 11: Spain
 
 The Carthaginian commanders, though they had mastered their enemies, could not master themselves.
 
-Thinking that they had already brought the war with Rome to an end, they fell into internal quarrels, continually led into conflict by the Phoenicians' inborn greed and love of power.
+Thinking that they had already brought the war with Rome to an end, they fell into internal quarrels, continually led into conflict by the Phoenicians’ inborn greed and love of power.
 
 Among them Hasdrubal son of Gesco, abusing the authority he possessed, went so far in wickedness that he demanded a large sum of money from Andobales, the most loyal of their Iberian friends—a man who had once lost his rule because of the Carthaginians and had only recently recovered it because of his goodwill toward them.
 
@@ -264,9 +248,7 @@ So much has nature made even one small detail enough to bring an intended plan t
 
 Success demands that everything be adequately provided for; for that reason commanders must neglect nothing in undertakings of this kind.
 
-The first principle of all is silence: a man must not, whether from delight at some unexpected hope, or from fear, or from familiarity, or from affection, share the plan with anyone outside the circle,
-
-but only with those without whom the design cannot be brought to completion—and not even with them before the moment when the need for each person's part compels disclosure.
+The first principle of all is silence: a man must not, whether from delight at some unexpected hope, or from fear, or from familiarity, or from affection, share the plan with anyone outside the circle, but only with those without whom the design cannot be brought to completion—and not even with them before the moment when the need for each person’s part compels disclosure.
 
 And one must keep silence not only with the tongue, but even more with the mind.
 
@@ -318,13 +300,13 @@ He must also know the divisions of time both by day and by night, so as to under
 
 For no one can attain the end if he has failed to get the beginning right.
 
-The times of day can be observed without difficulty from the shadow, from the sun's course, and from the distances it traverses across the sky.
+The times of day can be observed without difficulty from the shadow, from the sun’s course, and from the distances it traverses across the sky.
 
 Those of night are harder to judge unless one can follow, from what is visible, the arrangement and order of the twelve signs of the zodiac; yet even this is easy for those who have carefully studied the heavens.
 
 For although nights are unequal in length, it nevertheless happens that in every night six of the twelve signs rise above the horizon. It is therefore clear that in corresponding parts of every night equal portions of the zodiac must rise.
 
-And since the sun's position is known each day, it is clear that the sign lying opposite it must be the one rising.
+And since the sun’s position is known each day, it is clear that the sign lying opposite it must be the one rising.
 
 What remains is that whatever part of the zodiac appears to have risen after that point indicates how much of the night has elapsed.
 
@@ -332,9 +314,7 @@ And once the signs of the zodiac are known both in number and in size, the parti
 
 On cloudy nights one must pay attention to the moon, because by reason of its size its light is almost always visible wherever in the sky it may be.
 
-Sometimes one must estimate from the times and places of its rising,
-
-and sometimes again from those of its setting, provided one has enough understanding in this matter to keep pace with the daily changes in those risings.
+Sometimes one must estimate from the times and places of its rising, and sometimes again from those of its setting, provided one has enough understanding in this matter to keep pace with the daily changes in those risings.
 
 There is an easy way to observe this as well, for one month marks out a single evident cycle, perceptible to the senses...
 
@@ -342,9 +322,7 @@ There is an easy way to observe this as well, for one month marks out a single e
 
 For this reason one may praise the poet for representing Odysseus, that most capable of leaders, as drawing inferences from the stars not only for navigation, but also for operations on land.
 
-For unexpected events, which cannot be fully anticipated by exact foresight, are enough by themselves to produce great and repeated difficulties,
-
-such as heavy rains, floods of rivers, severe frosts and snowfalls, thick and cloudy air, and all other things of that sort.
+For unexpected events, which cannot be fully anticipated by exact foresight, are enough by themselves to produce great and repeated difficulties, such as heavy rains, floods of rivers, severe frosts and snowfalls, thick and cloudy air, and all other things of that sort.
 
 So if we also neglect matters that can in fact be foreseen, how can it fail to be our own fault when we miss success in most cases?
 
@@ -398,15 +376,15 @@ Again Nicias, the Athenian general, was in a position to save the army at Syracu
 
 Because of this, when he set the army in motion on the following night, the enemy had already sensed what was happening, and both the camp and the commanders fell into the hands of the Syracusans.
 
-And yet, if he had only asked those who had experience in such matters, he could not only have avoided missing his proper opportunity for so foolish a reason, but could even have used the phenomenon to his own advantage because of the enemy's ignorance.
+And yet, if he had only asked those who had experience in such matters, he could not only have avoided missing his proper opportunity for so foolish a reason, but could even have used the phenomenon to his own advantage because of the enemy’s ignorance.
 
-For the ignorance of one's opponents is a great advantage to those who understand.
+For the ignorance of one’s opponents is a great advantage to those who understand.
 
 So much, then, for the need to study astronomy up to the point already described. As for the proper proportion of ladders, the method of calculating it is as follows.
 
-If the height of the wall is supplied by one of the collaborators inside, the proper size of the ladders is obvious: if the wall's height is, say, ten units, the ladders ought to be twelve of the same units, with some room to spare.
+If the height of the wall is supplied by one of the collaborators inside, the proper size of the ladders is obvious: if the wall’s height is, say, ten units, the ladders ought to be twelve of the same units, with some room to spare.
 
-And the distance of the foot of the ladder from the wall should be half the ladder's length, so that the ladders may neither stand too far off and break easily under the weight of those climbing, nor lean too upright and become dangerously insecure for the men mounting them.
+And the distance of the foot of the ladder from the wall should be half the ladder’s length, so that the ladders may neither stand too far off and break easily under the weight of those climbing, nor lean too upright and become dangerously insecure for the men mounting them.
 
 But if it is impossible either to measure the wall or even to get near it, then one must estimate from a distance the height of any object that stands upright at right angles to a level surface.
 
@@ -416,9 +394,7 @@ The method of making this estimate is both practicable and easy for those willin
 
 Therefore it is again clear that those who wish to succeed in military enterprises and operations must have studied geometry—not with full professional mastery, but enough to understand proportion and the theory of similarity.
 
-For this knowledge is necessary not only in the cases already mentioned, but also in rearranging the shapes of camps, so that one may sometimes alter the whole form while preserving the same proportions among all the enclosed parts,
-
-and at other times keep the same shapes while increasing or reducing the ground occupied by the camp, always in proportion to the numbers added to or removed from it.
+For this knowledge is necessary not only in the cases already mentioned, but also in rearranging the shapes of camps, so that one may sometimes alter the whole form while preserving the same proportions among all the enclosed parts, and at other times keep the same shapes while increasing or reducing the ground occupied by the camp, always in proportion to the numbers added to or removed from it.
 
 I have explained these matters more exactly in my notes on tactical formations.
 
@@ -426,11 +402,7 @@ And I do not think anyone can reasonably blame me for adding many requirements t
 
 For while I strongly reject what is superfluous in such disciplines—what is dragged in merely for display and empty talk—and likewise reject carrying them further than practical usefulness demands, I am very earnest and serious about what is necessary.
 
-It would be absurd if those who aspire to dancing or flute-playing willingly accept preliminary training in rhythm and music,
-
-and likewise the corresponding preparation required for athletics, because the final achievement in each field seems to need the help of such studies,
-
-while those who claim to pursue generalship should feel annoyed if they must take up outside disciplines to some limited extent. That would mean that practitioners of vulgar crafts are more diligent and more ambitious than men who choose to distinguish themselves in the noblest and most dignified of pursuits.
+It would be absurd if those who aspire to dancing or flute-playing willingly accept preliminary training in rhythm and music, and likewise the corresponding preparation required for athletics, because the final achievement in each field seems to need the help of such studies, while those who claim to pursue generalship should feel annoyed if they must take up outside disciplines to some limited extent. That would mean that practitioners of vulgar crafts are more diligent and more ambitious than men who choose to distinguish themselves in the noblest and most dignified of pursuits.
 
 No sensible person would admit such a thing. Let this be enough on these matters.
 
@@ -452,11 +424,11 @@ Likewise in Greece and Illyria: by magnifying the fear arising from those region
 
 So great and marvelous a force does one man become, and one soul properly fitted from the beginning to whatever human undertaking it turns itself.
 
-But since the course of events has brought us to consider Hannibal's nature, the occasion seems to require that I should explain the qualities in him that have been most disputed.
+But since the course of events has brought us to consider Hannibal’s nature, the occasion seems to require that I should explain the qualities in him that have been most disputed.
 
 For some think him excessively cruel, while others think him greedy for money. Yet to tell the truth about him—or about any man actively engaged in public affairs—is not easy.
 
-Some say that men's natures are exposed by circumstances, and that some become manifest while holding power, even if they were previously reserved, while others are revealed in adversity.
+Some say that men’s natures are exposed by circumstances, and that some become manifest while holding power, even if they were previously reserved, while others are revealed in adversity.
 
 I, however, do not think this saying sound. It seems to me that men are often—indeed for the most part—forced, sometimes by the influence of friends and sometimes by the complexity of events, to speak and act against their real intention.
 
@@ -482,7 +454,7 @@ King Philip too, when Taurion or Demetrius were advising him, was most impious, 
 
 ## Book 9 Chapter 24: Estimate of Hannibal
 
-Something similar, it seems to me, happened in Hannibal's case as well.
+Something similar, it seems to me, happened in Hannibal’s case as well.
 
 For he found himself in extraordinary and shifting circumstances, and his closest friends differed from one another greatly; so that from his conduct in Italy it is very hard to discern his true character.
 
@@ -498,7 +470,7 @@ Hannibal could say nothing against the daring and practical force of the proposa
 
 Yet it is said that the deeds in Italy that were later attributed to Hannibal as proofs of cruelty were in fact the work of this man, though circumstances were responsible as well.
 
-## Book 9 Chapter 25: Hannibal's Greed
+## Book 9 Chapter 25: Hannibal’s Greed
 
 He does seem, however, to have been markedly fond of money, and to have employed a money-loving associate, Mago, the man in charge of operations in Bruttium.
 
@@ -514,15 +486,13 @@ Instead, they were always scheming more against each other than against the enem
 
 ## Book 9 Chapter 26: Hannibal Treats Different Cities in Different Ways
 
-That Hannibal's nature was often constrained and altered not only by the influence of his friends, but still more by the force of circumstances, is clear both from what has already been said and from what is about to be told.
+That Hannibal’s nature was often constrained and altered not only by the influence of his friends, but still more by the force of circumstances, is clear both from what has already been said and from what is about to be told.
 
 For as soon as Capua came into Roman hands, the cities at once, and quite naturally, became unsettled and began looking for opportunities and pretexts to change sides back to Rome.
 
 It was then, it seems, that Hannibal, under the greatest pressure, fell into deep perplexity about the situation before him.
 
-For he could neither remain in one place and keep watch over all the cities, since they lay so far apart and the enemy were moving against him with several armies,
-
-nor could he divide his own force into many parts, because he would thereby become easy prey for the enemy both from inferiority in numbers and from his inability to be personally present everywhere.
+For he could neither remain in one place and keep watch over all the cities, since they lay so far apart and the enemy were moving against him with several armies, nor could he divide his own force into many parts, because he would thereby become easy prey for the enemy both from inferiority in numbers and from his inability to be personally present everywhere.
 
 Accordingly he was compelled to abandon some cities openly and to withdraw garrisons from others, fearing that in the shifting course of events he might lose his own soldiers along with them.
 
@@ -532,7 +502,7 @@ Because of this, some men condemned him for impiety and others for cruelty.
 
 For together with these measures there came robberies of money, murders, and acts of violence, on one pretext or another, committed both by soldiers going out of cities and by those entering them, since each side assumed that the inhabitants left behind were on the very point of going over to the enemy.
 
-For these reasons it is extremely difficult to pronounce on Hannibal's true character, because of both the influence of his friends and the pressure of events.
+For these reasons it is extremely difficult to pronounce on Hannibal’s true character, because of both the influence of his friends and the pressure of events.
 
 The common report, however, was that among the Carthaginians he had the reputation of being greedy for money, and among the Romans of being cruel.
 
@@ -546,9 +516,7 @@ And if, wanting to increase their perplexity, someone adds that a city or a camp
 
 The reason for this is that we do not remember the lessons taught us in childhood through geometry.
 
-I have been led to speak about these matters because not only ordinary people, but also some of those engaged in public life and in positions of command, are bewildered, sometimes wondering whether the city of the Lacedaemonians can really be larger—indeed much larger—than that of the Megalopolitans, though it has the smaller circuit,
-
-and sometimes trying to estimate the number of men in camps by guessing from the perimeter alone.
+I have been led to speak about these matters because not only ordinary people, but also some of those engaged in public life and in positions of command, are bewildered, sometimes wondering whether the city of the Lacedaemonians can really be larger—indeed much larger—than that of the Megalopolitans, though it has the smaller circuit, and sometimes trying to estimate the number of men in camps by guessing from the perimeter alone.
 
 A similar mistake also happens in judging the appearance of cities. Most people suppose that cities full of bends and hills contain more houses than level cities.
 
@@ -630,13 +598,11 @@ Therefore you ought not so much to feel gratitude to the Macedonians because, af
 
 ## Book 9 Chapter 30: Impiety of Philip
 
-And as for Philip's lawless conduct, what need is there to say more?
+And as for Philip’s lawless conduct, what need is there to say more?
 
 Of his impiety toward the gods, the outrages committed against the temples at Thermus are enough; and of his cruelty toward men, his bad faith and treaty-breaking toward the Messenians.
 
-For the Aetolians alone among the Greeks stood face to face with Antipater for the safety of those unjustly deprived of security; they alone resisted Brennus and the barbarians with him; and they alone, when called upon, fought beside you,
-
-wishing to help restore to you your ancestral leadership of the Greeks.
+For the Aetolians alone among the Greeks stood face to face with Antipater for the safety of those unjustly deprived of security; they alone resisted Brennus and the barbarians with him; and they alone, when called upon, fought beside you, wishing to help restore to you your ancestral leadership of the Greeks.
 
 Let that be enough on these matters. As for the present proposal before you, it is in one sense necessary to write and vote as though you were deliberating about war; yet in truth you must not think of this as a war at all.
 
@@ -670,7 +636,7 @@ After this Lyciscus, envoy of the Acarnanians, came forward. At first he paused,
 
 But when at last they fell silent, he began to speak more or less as follows:
 
-"We, men of Lacedaemon, have come to you sent by the Acarnanian league; and since we have almost always shared the same hopes as the Macedonians, we regard this embassy as common to us and to them.
+“We, men of Lacedaemon, have come to you sent by the Acarnanian league; and since we have almost always shared the same hopes as the Macedonians, we regard this embassy as common to us and to them.
 
 For just as in danger, because of the superiority and greatness of Macedonian power, our safety is included in their strength, so also in diplomatic contests the interest of the Acarnanians is included in the justice of the Macedonians.
 
@@ -688,7 +654,7 @@ But if the situation has taken exactly the opposite turn, as I shall clearly sho
 
 For we have come persuaded that we ought to make our argument precisely on this point: to show why it is both fitting and advantageous for you, if possible, after hearing of the danger now threatening Greece, to resolve upon some noble and worthy course by sharing our hopes.
 
-And if not..."
+And if not...”
 
 ## Book 9 Chapter 33: Defence of Macedonian Policy
 
@@ -698,7 +664,7 @@ Chlaeneas said, then, that Philip son of Amyntas became master of Thessaly throu
 
 I, however, believe that through Philip not only the Thessalians, but the rest of the Greeks as well, were saved.
 
-For when Onomarchus and Philomelus seized Delphi in impious and lawless fashion and made themselves masters of the god's treasures, who among you does not know that they assembled so great a force that no Greek any longer dared face them?
+For when Onomarchus and Philomelus seized Delphi in impious and lawless fashion and made themselves masters of the god’s treasures, who among you does not know that they assembled so great a force that no Greek any longer dared face them?
 
 Indeed, together with their impiety toward the divine, they were on the point of becoming masters of all Greece as well.
 
@@ -710,9 +676,7 @@ Yes, by Zeus, but he came into Laconia with an army.
 
 Not by his own choice, as you know, but because the friends and allies in the Peloponnese repeatedly invited and summoned him, until at last he consented.
 
-And once he came, Chlaeneas, look at how he handled the situation. Though he could have made use of the eagerness of the neighboring cities to destroy this people's land and humble their city, and could have done so with the greatest gratitude from others,
-
-he did not at all give himself over to such a course. Instead, after overawing both sides, he compelled them by argument, in the common interest, to bring their disputes before an assembly.
+And once he came, Chlaeneas, look at how he handled the situation. Though he could have made use of the eagerness of the neighboring cities to destroy this people’s land and humble their city, and could have done so with the greatest gratitude from others, he did not at all give himself over to such a course. Instead, after overawing both sides, he compelled them by argument, in the common interest, to bring their disputes before an assembly.
 
 And he did not appoint himself judge over the matters in dispute, but set up a common court selected from all the Greeks. Is that something worthy of reproach and denunciation?
 
@@ -720,9 +684,7 @@ And he did not appoint himself judge over the matters in dispute, but set up a c
 
 Again, you bitterly reproached Alexander because, believing himself to have been wronged, he punished the city of Thebes.
 
-But you made no mention of the fact that he exacted vengeance from the Persians for the insults done to all the Greeks,
-
-or that he delivered all of us together from great evils by subduing the barbarians and taking away from them the resources with which they had ruined the Greeks—sometimes by setting the Athenians and their ancestors against others, sometimes the Thebans—and in the end made Asia subject to the Greeks.
+But you made no mention of the fact that he exacted vengeance from the Persians for the insults done to all the Greeks, or that he delivered all of us together from great evils by subduing the barbarians and taking away from them the resources with which they had ruined the Greeks—sometimes by setting the Athenians and their ancestors against others, sometimes the Thebans—and in the end made Asia subject to the Greeks.
 
 And as for his successors, how do you dare even mention them? In the circumstances of their times they often became the cause of good to some and of harm to others.
 
@@ -752,11 +714,9 @@ And the clearest proof of this is that, as soon as the Gauls learned to despise 
 
 Still, though I could say much about past events, I think this is enough.
 
-Yet of all Philip's acts, these men chose to reproach him with the destruction of a temple as evidence of impiety, without adding a word about their own outrage and lawlessness in what they did to the temples and sacred precincts at Dium and Dodona.
+Yet of all Philip’s acts, these men chose to reproach him with the destruction of a temple as evidence of impiety, without adding a word about their own outrage and lawlessness in what they did to the temples and sacred precincts at Dium and Dodona.
 
-That was the first thing that ought to have been said. But the wrongs you yourselves suffered you recount to these men at length, exaggerating what happened, while the many times greater wrongs that you committed first you pass over in silence,
-
-well knowing that everyone always lays the blame for acts of violence and damage upon those who first set their hands to unjust deeds.
+That was the first thing that ought to have been said. But the wrongs you yourselves suffered you recount to these men at length, exaggerating what happened, while the many times greater wrongs that you committed first you pass over in silence, well knowing that everyone always lays the blame for acts of violence and damage upon those who first set their hands to unjust deeds.
 
 ## Book 9 Chapter 36: Sparta Should Have Allied Herself with the Macedonians
 
@@ -784,7 +744,7 @@ Or do you think it necessary to do what is just toward friends?
 
 Yet it is not so holy a thing to keep written pledges secure as it is unholy to make war on those who saved you—and that is exactly what the Aetolians have now come here to urge you to do.
 
-## Book 9 Chapter 37: A Mightly Cloud is Coming From the West
+## Book 9 Chapter 37: A Mighty Cloud is Coming From the West
 
 Let what I have said be granted for the moment, even if stricter judges decide it lies outside the immediate issue. I will return to the central point, as these men define it.
 
@@ -834,9 +794,7 @@ Already they have stripped the Acarnanians of Oeniadae and Nesus; and quite rece
 
 The Romans carry off the children and women, who will plainly suffer the usual fate of those who fall under the power of foreigners; while the Aetolians inherit the lands of the unfortunate victims.
 
-A fine alliance indeed this is to join by deliberate choice—especially for Lacedaemonians,
-
-who once decreed that the Thebans, because alone among the Greeks they had resolved to remain quiet during the Persian invasion, should pay a tithe to the gods after the barbarians had been defeated in war.
+A fine alliance indeed this is to join by deliberate choice—especially for Lacedaemonians, who once decreed that the Thebans, because alone among the Greeks they had resolved to remain quiet during the Persian invasion, should pay a tithe to the gods after the barbarians had been defeated in war.
 
 The honorable and fitting course for you, men of Lacedaemon, is to remember your ancestors, to beware the Roman advance, to suspect the wicked enterprise of the Aetolians, and above all to remember what Antigonus did for you; then even now show your hatred of baseness, turn away from friendship with the Aetolians, and share the same hopes as the Achaeans and Macedonians.
 
@@ -872,7 +830,7 @@ On the third stood a large number of men posted to fight those who tried to dama
 
 From the gallery between the towers double trenches were carried forward toward the space between the city towers.
 
-And there were three artillery positions for stone-throwers, one of which discharged stones of a talent's weight, while the other two threw stones of thirty minas.
+And there were three artillery positions for stone-throwers, one of which discharged stones of a talent’s weight, while the other two threw stones of thirty minas.
 
 From the camp to the earthwork-tortoises roofed tunnels had been made, so that neither those coming from the camp to the works nor those returning from the works would suffer any harm from missiles shot from the city.
 

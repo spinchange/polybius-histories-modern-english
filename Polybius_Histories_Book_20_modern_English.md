@@ -18,15 +18,11 @@ While Antiochus was staying at Chalcis and winter was beginning, envoys came to 
 
 The Epirotes urged him not to drag them prematurely into the war against the Romans, since he could see that they lay directly in the path facing Italy ahead of all the rest of Greece.
 
-If, however, he could himself take up a forward position to defend Epirus and secure their safety, they said they would receive him into both their cities and their harbors;
-
-but if he judged it best not to do this for the present, they asked him to pardon them for being afraid of a war with the Romans.
+If, however, he could himself take up a forward position to defend Epirus and secure their safety, they said they would receive him into both their cities and their harbors; but if he judged it best not to do this for the present, they asked him to pardon them for being afraid of a war with the Romans.
 
 The Eleans, for their part, urged him to send help to their city, since, now that the Achaeans had voted for war, they were wary of an attack from them.
 
-The king answered the Epirotes that he would send envoys to discuss with them what was in their common interest,
-
-while to the Eleans he dispatched a thousand foot soldiers, putting Euphanes the Cretan in command.
+The king answered the Epirotes that he would send envoys to discuss with them what was in their common interest, while to the Eleans he dispatched a thousand foot soldiers, putting Euphanes the Cretan in command.
 
 ## Book 20 Chapter 4: The Decline of Boeotia
 
@@ -46,7 +42,7 @@ Instead, having given themselves over to feasting and drunkenness, they grew sla
 
 ## Book 20 Chapter 5: Continued Decline of Boeotia
 
-The main stages of the Boeotians' gradual decline into folly came about among them in the following way.
+The main stages of the Boeotians’ gradual decline into folly came about among them in the following way.
 
 Immediately after the defeat mentioned above, they abandoned the Achaeans and attached their nation to the Aetolians.
 
@@ -58,7 +54,7 @@ For this reason there came to be strong political opposition between these men a
 
 In the end, however, the party of Ascondas gained the upper hand, owing to a turn of events of the following kind.
 
-After the death of Demetrius, Antigonus, who was acting as Philip's guardian, was sailing on some business toward the outermost parts of Boeotia, in the direction of Larymna, when an unexpected ebb of the tide left his ships stranded on dry land.
+After the death of Demetrius, Antigonus, who was acting as Philip’s guardian, was sailing on some business toward the outermost parts of Boeotia, in the direction of Larymna, when an unexpected ebb of the tide left his ships stranded on dry land.
 
 Just at this moment a report had reached the Boeotians that Antigonus intended to overrun their territory. Neon, who was then commander of the cavalry and was leading all the Boeotian horse about with him to guard the country, came upon Antigonus and his men while they were at a loss and helpless because of what had happened.
 
@@ -80,9 +76,7 @@ Such, then, was the beginning that the affairs of the house of Neon took, and of
 
 Instead, some of the magistrates would order the dispatch of garrisons and others would proclaim national levies, and in this way they continually obstructed the course of justice; and some of the generals even made payments out of the public funds to the poor among the people.
 
-From this the masses were taught to attach themselves to such men and to secure offices for them—men through whom they could expect to pay no penalty for their crimes and debts, and from time to time to gain some share of public property through the favor of those in office. The man who contributed most to this state of things was
-
-Opheltas, who was forever devising some new scheme that seemed for the moment to benefit the many, but was bound in the end, by general admission, to ruin them all.
+From this the masses were taught to attach themselves to such men and to secure offices for them—men through whom they could expect to pay no penalty for their crimes and debts, and from time to time to gain some share of public property through the favor of those in office. The man who contributed most to this state of things was Opheltas, who was forever devising some new scheme that seemed for the moment to benefit the many, but was bound in the end, by general admission, to ruin them all.
 
 Along with these things followed another unfortunate fashion. Those who died childless no longer left their property to their relatives, as had earlier been the custom among them, but assigned it to feasting and drinking and made it common property for their friends.
 
@@ -106,9 +100,7 @@ With their politics in such a condition, the Boeotians somehow slipped through, 
 
 In the period that followed, however, they did not escape; rather, as if Fortune were deliberately exacting requital, she seemed to come down heavily upon them—matters of which we shall make mention in what follows. —
 
-The majority put forward, as the pretext for their estrangement from the Romans, the killing of Brachylles and the campaign that Titus made against Coronea on account of the murders of Romans that were taking place on the roads;
-
-but in truth they were diseased in their souls because of the causes already described.
+The majority put forward, as the pretext for their estrangement from the Romans, the killing of Brachylles and the campaign that Titus made against Coronea on account of the murders of Romans that were taking place on the roads; but in truth they were diseased in their souls because of the causes already described.
 
 For when the king drew near, the leading men of the Boeotians went out to meet him; and after joining him and conversing in a friendly manner, they conducted him into Thebes. —
 
@@ -124,7 +116,7 @@ And while celebrating his marriage there in Chalcis, he spent the whole winter o
 
 So when he was defeated in the war, he fled to Ephesus with his new bride.
 
-And out of his whole army, except for the five hundred or so who were around the king, scarcely anyone escaped; and even of the ten thousand soldiers whom—on Polybius' authority—we have recorded that the king brought across with him into Greece, only a tiny number survived.
+And out of his whole army, except for the five hundred or so who were around the king, scarcely anyone escaped; and even of the ten thousand soldiers whom—on Polybius’ authority—we have recorded that the king brought across with him into Greece, only a tiny number survived.
 
 ## Book 20 Chapter 9: The Aetolians Seek a Truce
 
@@ -146,11 +138,9 @@ But Lucius cut their enthusiasm short, saying that this kind of pleading did not
 
 He therefore advised them to give up arguing the rights of their case and to turn instead to the language of entreaty, begging the general to grant them pardon for their offenses.
 
-After discussing their predicament at still greater length, the Aetolians decided to entrust the whole matter to Manius, committing themselves to the good faith of the Romans—
+After discussing their predicament at still greater length, the Aetolians decided to entrust the whole matter to Manius, committing themselves to the good faith of the Romans— not knowing what force this carried, but misled by the word “faith,” as though through it a more complete mercy would be extended to them.
 
-not knowing what force this carried, but misled by the word "faith," as though through it a more complete mercy would be extended to them.
-
-But among the Romans, to put oneself into another's "faith" carries exactly the same force as to hand over to the victor full discretion over oneself.
+But among the Romans, to put oneself into another’s “faith” carries exactly the same force as to hand over to the victor full discretion over oneself.
 
 ## Book 20 Chapter 10: The Aetolians Do Not Confirm the Terms
 
@@ -158,23 +148,17 @@ Having decided on this, they sent Phaeneas and his colleagues off in haste toget
 
 When these men met with the general and once again pleaded their case in the same way on their own behalf, they concluded by declaring that the Aetolians had decided to commit themselves to the good faith of the Romans.
 
-Manius took up their words and said: "So this is how matters stand,
+Manius took up their words and said: “So this is how matters stand, men of Aetolia?” When they nodded assent, he went on: “Then, first of all, none of you must cross over into Asia, neither on your own account nor by any public decree; second, you must hand over Dicaearchus and Menestratus the Epirote”—who happened at that time to have come to the aid of Naupactus—“and along with them King Amynander and those of the Athamanians who withdrew to your side together with him.”
 
-men of Aetolia?" When they nodded assent, he went on: "Then, first of all, none of you must cross over into Asia, neither on your own account nor by any public decree;
+At this Phaeneas broke in and said: “But what you demand, general, is neither just nor in keeping with Greek ways.”
 
-second, you must hand over Dicaearchus and Menestratus the Epirote"—who happened at that time to have come to the aid of Naupactus—"and along with them King Amynander and those of the Athamanians who withdrew to your side together with him."
+Manius, not so much out of anger as from a wish to bring them to a sense of their situation and to thoroughly alarm them, replied: “Do you still play the Greek with me and talk about what is fitting and proper, after you have put yourselves into our good faith? I could bind every one of you in chains and march you off, if I saw fit.”
 
-At this Phaeneas broke in and said: "But what you demand, general, is neither just nor in keeping with Greek ways."
-
-Manius, not so much out of anger as from a wish to bring them to a sense of their situation and to thoroughly alarm them, replied: "Do you still play the Greek with me and talk about what is fitting and proper, after you have put yourselves into our good faith? I could bind every one of you in chains and march you off, if I saw fit."
-
-As he said this, he ordered a chain to be brought and an iron collar to be fastened around each man's neck.
+As he said this, he ordered a chain to be brought and an iron collar to be fastened around each man’s neck.
 
 Phaeneas and his companions were struck dumb with shock and stood there speechless, as if paralyzed in body and soul at the unexpected turn of events.
 
-But Lucius and some of the other military tribunes present begged Manius to take no harsh measures against the men before him, since they were in fact envoys. When he agreed, Phaeneas began to speak:
-
-he said that he and the Apocleti would carry out the orders, but that the assent of the people too was needed if the demands were to be ratified.
+But Lucius and some of the other military tribunes present begged Manius to take no harsh measures against the men before him, since they were in fact envoys. When he agreed, Phaeneas began to speak: he said that he and the Apocleti would carry out the orders, but that the assent of the people too was needed if the demands were to be ratified.
 
 Manius said he was right, and Phaeneas then asked that another ten-day truce be granted to them. When this too was conceded, they parted on these terms for the time being.
 
@@ -184,7 +168,7 @@ It was therefore decided to write to the cities and call the Aetolians together 
 
 But when the report of what had befallen Phaeneas and his party was spread abroad, the people became so enraged that no one was even willing to attend the meeting for deliberation.
 
-Since this impossibility prevented any deliberation about the demands, and since at this very moment Nicander had sailed back from Asia into Phalara on the Malian gulf—the very place from which he had set out—and was reporting the king's eagerness toward him and his promises for the future, they grew even more dismissive, so that no conclusion at all was reached about peace.
+Since this impossibility prevented any deliberation about the demands, and since at this very moment Nicander had sailed back from Asia into Phalara on the Malian gulf—the very place from which he had set out—and was reporting the king’s eagerness toward him and his promises for the future, they grew even more dismissive, so that no conclusion at all was reached about peace.
 
 And so, as soon as the days of the truce had passed, the war was once again firmly upon the Aetolians.
 
@@ -198,11 +182,11 @@ He found the Romans still occupied around Heracleia, and the Macedonians, having
 
 He got his money safely through into Lamia, against all expectation, and then attempted that night to slip across the ground between the two camps and into Hypata.
 
-But he fell among the Macedonian pickets and was brought up to Philip while the king's banquet was still in full swing, expecting that he would suffer something terrible, falling under Philip's anger, or else be handed over to the Romans.
+But he fell among the Macedonian pickets and was brought up to Philip while the king’s banquet was still in full swing, expecting that he would suffer something terrible, falling under Philip’s anger, or else be handed over to the Romans.
 
 When the matter was reported to the king, however, Philip quickly ordered the officers in charge to look after Nicander and to treat him with every kindness.
 
-After a while the king himself rose from the table and met with Nicander, and after roundly reproaching the general folly of the Aetolians—first for having brought the Romans against the Greeks, and after that Antiochus as well—he nevertheless urged them even now to forget the past, to hold fast to their goodwill toward him, and not to wish to press their advantage against one another in each other's hours of crisis.
+After a while the king himself rose from the table and met with Nicander, and after roundly reproaching the general folly of the Aetolians—first for having brought the Romans against the Greeks, and after that Antiochus as well—he nevertheless urged them even now to forget the past, to hold fast to their goodwill toward him, and not to wish to press their advantage against one another in each other’s hours of crisis.
 
 He instructed Nicander to report this to the leaders of the Aetolians; and after urging Nicander himself to remember the kindness that had been shown him, he sent him off with a sufficient escort, ordering those assigned to the task to bring him safely back to Hypata.
 
@@ -214,21 +198,15 @@ Corax: a mountain between Callipolis and Naupactus. Polybius, Book 20.
 
 Aperanteia: a city of Thessaly. Polybius, Book 20.
 
-## Book 20 Chapter 12: Philopoemen's Disinterestedness
+## Book 20 Chapter 12: Philopoemen’s Disinterestedness
 
-...one of their own number to speak to him about these matters; but whereas, in the case of most men who undertake public work for profit, there are many ready to offer such favors and to make this the beginning of friendship and alliance, in the case of Philopoemen no one at all could be found willing to convey this favor to him,
+...one of their own number to speak to him about these matters; but whereas, in the case of most men who undertake public work for profit, there are many ready to offer such favors and to make this the beginning of friendship and alliance, in the case of Philopoemen no one at all could be found willing to convey this favor to him, until at last, being wholly at a loss, they chose by vote Timolaus. He, being both a hereditary guest-friend and long on familiar terms with Philopoemen, traveled twice to Megalopolis for this very purpose, yet did not dare to utter a word about the matter—until, spurring himself on and coming a third time, he found the courage to mention the gift.
 
-until at last, being wholly at a loss, they chose by vote Timolaus. He, being both a hereditary guest-friend and long on familiar terms with Philopoemen, traveled twice to Megalopolis for this very purpose, yet did not dare to utter a word about the matter—until, spurring himself on and coming a third time, he found the courage to mention the gift.
-
-Philopoemen, against all expectation, received him on this point graciously and kindly, and Timolaus was overjoyed,
-
-supposing that he had achieved his aim. But Philopoemen said that he would come to Sparta himself within a few days, since he wished to thank all the magistrates for this honor.
+Philopoemen, against all expectation, received him on this point graciously and kindly, and Timolaus was overjoyed, supposing that he had achieved his aim. But Philopoemen said that he would come to Sparta himself within a few days, since he wished to thank all the magistrates for this honor.
 
 He came afterward, and being invited into the council, he said that he had long known the goodwill of the Lacedaemonians toward him, but knew it best of all from the crown now being offered to him and from such an honor.
 
-He said, then, that he accepted their intention, but was uneasy at the manner of it. For such honors and crowns, he said, ought not to be given to one's friends—since the man who puts on such a crown can never wash off its poison—but much rather to one's enemies,
-
-so that friends, keeping their freedom of speech, may be trusted among the Achaeans whenever they propose to come to the city's aid, while enemies, having swallowed the bait, may be forced either to plead the Spartans' cause or, by keeping silent, be unable to do them any harm.
+He said, then, that he accepted their intention, but was uneasy at the manner of it. For such honors and crowns, he said, ought not to be given to one’s friends—since the man who puts on such a crown can never wash off its poison—but much rather to one’s enemies, so that friends, keeping their freedom of speech, may be trusted among the Achaeans whenever they propose to come to the city’s aid, while enemies, having swallowed the bait, may be forced either to plead the Spartans’ cause or, by keeping silent, be unable to do them any harm.
 
 ## II. Fragment of Uncertain Place
 

@@ -24,9 +24,9 @@ At that time Brundisium had not yet been founded.
 
 That is why Fabius, attaching great importance to the enterprise, set all other matters aside and concentrated his planning on this one region.
 
-## Book 10 Chapter 2: Publius Cornelius Scipio Africanus in Spain, B.C. 210-206. His Character
+## Book 10 Chapter 2: Publius Cornelius Scipio Africanus in Spain, 210–206 BC. His Character
 
-Since I am about to relate the deeds performed by Publius in Iberia, and indeed the whole series of actions he accomplished in his life, I think it necessary first to prepare my readers by explaining the man's character and natural bent.
+Since I am about to relate the deeds performed by Publius in Iberia, and indeed the whole series of actions he accomplished in his life, I think it necessary first to prepare my readers by explaining the man’s character and natural bent.
 
 For because he became almost the most illustrious man of all his predecessors, everyone wants to know what sort of man he was and what kind of nature or training enabled him to carry through so many and such great achievements.
 
@@ -52,13 +52,13 @@ Publius acted in much the same way, always creating among the common people the 
 
 But that he did everything with calculation and foresight, and that the outcomes of his enterprises always came about according to reason, will be clear from what follows.
 
-## Book 10 Chapter 3: Scipio's First Brilliant Success
+## Book 10 Chapter 3: Scipio’s First Brilliant Success
 
 That he was generous and high-minded is generally admitted; but that he was keen in intelligence, self-possessed, and wholly intent in mind upon the object before him, no one would readily grant except those who lived with him and saw his character in full daylight, so to speak.
 
-One of these was Gaius Laelius, who from youth to the end of his life shared in all his actions and conversations. It was he who gave me this view of Publius, because what he said seemed both likely in itself and consistent with the man's actual deeds.
+One of these was Gaius Laelius, who from youth to the end of his life shared in all his actions and conversations. It was he who gave me this view of Publius, because what he said seemed both likely in itself and consistent with the man’s actual deeds.
 
-He said that Publius' first notable exploit came when his father fought the cavalry engagement against Hannibal near the river called the Padus.
+He said that Publius’ first notable exploit came when his father fought the cavalry engagement against Hannibal near the river called the Po.
 
 At that time, apparently, he was in his eighteenth year and was serving his first campaign in the field. His father had assigned him a troop of picked horsemen for protection; but when in the crisis of the battle he saw his father surrounded by the enemy with only two or three cavalrymen beside him and dangerously wounded, he first tried to urge those with him to go help his father.
 
@@ -70,29 +70,23 @@ After winning an acknowledged reputation for courage through this exploit, he he
 
 ## Book 10 Chapter 4: His Election To the Aedileship
 
-After this, when he had an elder brother, Lucius, and Lucius was standing for the aedileship—which among the Romans is considered almost the most distinguished office open to a young man—
-
-and when it was customary for two patricians to be chosen, while on this occasion several candidates were seeking the office, Publius for a long time did not dare to stand for the same magistracy as his brother.
+After this, when he had an elder brother, Lucius, and Lucius was standing for the aedileship—which among the Romans is considered almost the most distinguished office open to a young man— and when it was customary for two patricians to be chosen, while on this occasion several candidates were seeking the office, Publius for a long time did not dare to stand for the same magistracy as his brother.
 
 But as the election drew near, judging from the temper of the crowd that his brother would not easily gain the office, and seeing that the people felt great goodwill toward himself, he concluded that Lucius could achieve his aim only if the two of them made their bid together in full agreement. So he devised the following plan.
 
-He saw his mother going about the temples and sacrificing to the gods for his brother, full of expectation about the outcome; and she was the only parent whose feelings mattered to him at the time—
-
-for his father had by then sailed to Iberia after being appointed general for the operations already described. So he told his mother that he had now seen the same dream twice.
+He saw his mother going about the temples and sacrificing to the gods for his brother, full of expectation about the outcome; and she was the only parent whose feelings mattered to him at the time— for his father had by then sailed to Iberia after being appointed general for the operations already described. So he told his mother that he had now seen the same dream twice.
 
 In the dream, he said, he and his brother had both been elected aediles and were coming up from the Forum toward their house, when she met them at the doorway and embraced and kissed them.
 
-She at once reacted as women often do and cried out, "If only I might live to see that day!"
+She at once reacted as women often do and cried out, “If only I might live to see that day!”
 
-"Mother," he said, "shall we put it to the test?" When she agreed, supposing that he would never really dare but was only joking in the moment—for he was still very young—he asked her at once to prepare for him a splendid toga, since that is the customary dress for candidates seeking office.
+“Mother,” he said, “shall we put it to the test?” When she agreed, supposing that he would never really dare but was only joking in the moment—for he was still very young—he asked her at once to prepare for him a splendid toga, since that is the customary dress for candidates seeking office.
 
 ## Book 10 Chapter 5: Publius and Lucius Become Aediles
 
-His mother gave no further thought to what he had said, but Publius, after getting the splendid candidate's dress first, went to the Forum while she was still asleep.
+His mother gave no further thought to what he had said, but Publius, after getting the splendid candidate’s dress first, went to the Forum while she was still asleep.
 
-The crowd, astonished both by the unexpectedness of it and by the goodwill they already felt toward him, welcomed him enthusiastically; and when he stepped forward to the appointed place and stood beside his brother,
-
-the people not only invested Publius with the office, but because of him gave it to his brother as well, and so both of them came back to the house as elected aediles.
+The crowd, astonished both by the unexpectedness of it and by the goodwill they already felt toward him, welcomed him enthusiastically; and when he stepped forward to the appointed place and stood beside his brother, the people not only invested Publius with the office, but because of him gave it to his brother as well, and so both of them came back to the house as elected aediles.
 
 When the news suddenly reached their mother, she ran in delight to meet them at the doorway and embraced the young men with overflowing joy.
 
@@ -100,7 +94,7 @@ So to everyone who had previously heard of the dream, Publius seemed to have spo
 
 In fact there had been no dream at all. He was simply kind, generous, and winning in his manner, and he had calculated from this the goodwill the crowd felt toward him.
 
-Then, by fitting his move shrewdly both to the mood of the people and to his mother's expectations, he not only achieved his purpose but also appeared to be acting under some divine prompting.
+Then, by fitting his move shrewdly both to the mood of the people and to his mother’s expectations, he not only achieved his purpose but also appeared to be acting under some divine prompting.
 
 For those who cannot accurately observe occasions, causes, and the disposition of each situation—whether through dullness of nature, or through inexperience and laziness—attribute to the gods and to fortune things that are actually accomplished by intelligence, calculation, and foresight.
 
@@ -134,7 +128,7 @@ Second, once he had undertaken it, he passed over the obvious and commonplace me
 
 None of this was done apart from the most exact calculation.
 
-## Book 10 Chapter 7: He Determines To Attack Carthagena
+## Book 10 Chapter 7: He Determines To Attack New Carthage
 
 From the very beginning, while still at Rome, he investigated carefully and learned about the treachery of the Celtiberians and the separation of the Roman camps, and from this he reasoned that the disaster that had overtaken his father had happened because of exactly those causes.
 
@@ -144,7 +138,7 @@ Later, when he heard that the allies north of the Ebro remained loyal to Rome, w
 
 And when he arrived in Iberia, stirring everyone up and asking each person what he knew about the enemy, he discovered that the Carthaginian forces had been divided into three parts.
 
-He learned that Mago was staying this side of the Pillars of Heracles among the people called the Conii, that Hasdrubal son of Gisco was near the mouth of the Tagus in Lusitania, and that the other Hasdrubal was besieging a certain city among the Carpetani; and none of them, he found, was less than a ten days' march from New Carthage.
+He learned that Mago was staying this side of the Pillars of Heracles among the people called the Conii, that Hasdrubal son of Gisco was near the mouth of the Tagus in Lusitania, and that the other Hasdrubal was besieging a certain city among the Carpetani; and none of them, he found, was less than a ten days’ march from New Carthage.
 
 He therefore judged that, if he decided to engage the enemy in open battle, it would be altogether too dangerous to risk fighting all three at once, both because his predecessors had been defeated and because the enemy greatly outnumbered him.
 
@@ -190,7 +184,7 @@ Arriving on the seventh day, he encamped on the northern side of the city and fo
 
 Since I am about to describe both the siege and the capture of the city, I think it necessary to indicate for my readers, at least in outline, the surrounding country and the position of the place itself.
 
-## Book 10 Chapter 10: Topography of Carthagena
+## Book 10 Chapter 10: Topography of New Carthage
 
 It lies about halfway along the coast of Iberia in a gulf that opens toward the southwest. The gulf extends about twenty stades inland and is about ten stades wide at its entrance; and the whole gulf takes on the character of a harbor for the following reason.
 
@@ -220,11 +214,9 @@ And over the opening cut through the bank between them a bridge has been built, 
 
 ## Book 10 Chapter 11: Scipio Briefs His Troops
 
-Given this arrangement of the terrain, the Romans' camp on its inner side was secured without any artificial work by the lagoon and the sea beyond it.
+Given this arrangement of the terrain, the Romans’ camp on its inner side was secured without any artificial work by the lagoon and the sea beyond it.
 
-He left unfenced the strip of ground between them that joined the city to the mainland and lay opposite the middle of his camp,
-
-either to overawe the enemy or because the arrangement suited his plan, so that he might have unimpeded movement both when sending troops out and when drawing them back into camp.
+He left unfenced the strip of ground between them that joined the city to the mainland and lay opposite the middle of his camp, either to overawe the enemy or because the arrangement suited his plan, so that he might have unimpeded movement both when sending troops out and when drawing them back into camp.
 
 The city wall had formerly had a circuit of not more than twenty stades—though I know many have said forty; that is false, and I speak not from hearsay but from personal inspection—and in our own day it has been reduced still further.
 
@@ -236,7 +228,7 @@ Finally he said that Poseidon had appeared to him in a dream at the very beginni
 
 This appeal, blending exact reasoning with promises of golden crowns and, beyond all, the providence of a god, aroused great eagerness and zeal among the young soldiers.
 
-## Book 10 Chapter 12: The Attack On Carthagena Begun
+## Book 10 Chapter 12: The Attack On New Carthage Begun
 
 On the next day he stationed ships fitted with every kind of missile along the places accessible from the sea, giving the command to Gaius; on land he assigned about two thousand of the strongest men to accompany the ladder-carriers and began the siege at the third hour.
 
@@ -250,7 +242,7 @@ When they charged boldly against the Romans drawn up along the isthmus in front 
 
 But the help brought up by reserves was not equal, since for the Carthaginians reinforcement had to come out through a single gate and from nearly two stades away, whereas the Romans had their support close at hand and across a broad front. For this reason the battle was uneven.
 
-Publius had deliberately stationed his men close to the camp in order to draw the enemy as far out as possible, clearly knowing that if he destroyed these men, who were like the cutting edge of the city's population, the whole body would lose heart and no one inside would dare to come out of the gate again.
+Publius had deliberately stationed his men close to the camp in order to draw the enemy as far out as possible, clearly knowing that if he destroyed these men, who were like the cutting edge of the city’s population, the whole body would lose heart and no one inside would dare to come out of the gate again.
 
 For a while the fighting remained evenly matched, since picked men on both sides had been chosen for the struggle. But at last the Carthaginians were forced back by sheer weight because fresh troops kept coming in from the Roman camp, and they turned to flight.
 
@@ -308,7 +300,7 @@ For he was naturally gifted, if in anything, in the power to inspire boldness an
 
 So when they obeyed and raced one another through the marsh, the whole camp supposed that what was happening came from some divine providence.
 
-Remembering what had been said about Poseidon and Publius' promise in his address, they were so fired in spirit that, locking shields together and forcing their way up to the gate from outside, they tried to chop through the doors with axes and hatchets.
+Remembering what had been said about Poseidon and Publius’ promise in his address, they were so fired in spirit that, locking shields together and forcing their way up to the gate from outside, they tried to chop through the doors with axes and hatchets.
 
 Meanwhile those who had come through the marsh reached the wall, found the battlements deserted, not only set up the ladders safely, but climbed up and took possession of the wall without a fight.
 
@@ -316,7 +308,7 @@ For the defenders inside were distracted by the attacks elsewhere, especially th
 
 Most of all, the confused shouting and the mixed tumult of the crowd prevented them from either hearing or seeing anything they needed to do.
 
-## Book 10 Chapter 15: Carthagena Captured and Looted
+## Book 10 Chapter 15: New Carthage Captured and Looted
 
 Once the Romans had gained control of the wall, they first moved along the circuit, pushing off the enemy as they went, their equipment being especially useful for that kind of work.
 
@@ -352,15 +344,13 @@ Since their force is for the most part divided into two Roman camps and two alli
 
 Then, after the booty is sold, the tribunes distribute the proceeds equally to all, not only to those who stayed behind in reserve, but also to those guarding the tents, to the sick, and to those sent away on some service.
 
-As for the rule that no one is to embezzle anything from the plunder, but must keep faith according to the oath
-
-which all swear when they first assemble in camp and are about to march into enemy territory, I have spoken of that more fully before in the discussion of the constitution.
+As for the rule that no one is to embezzle anything from the plunder, but must keep faith according to the oath which all swear when they first assemble in camp and are about to march into enemy territory, I have spoken of that more fully before in the discussion of the constitution.
 
 So when half the army turns to plunder while the other half preserves the ranks and serves as reserve, the Romans never put the whole operation at risk through greed.
 
 For since the hope of profit is not a matter of distrust between them, but stands equally open both to those remaining in reserve and to those doing the plundering, no one abandons his rank.
 
-## Book 10 Chapter 17: Scipio's Treatment of the Prisoners
+## Book 10 Chapter 17: Scipio’s Treatment of the Prisoners
 
 This is the thing that most often harms other armies. Since most men endure hardship and face danger for the sake of gain, it is obvious that when such an opportunity appears, those left in reserve or in camp can scarcely be expected to hold back, because among most peoples the common belief is that whatever a man seizes belongs to the one who took it.
 
@@ -394,15 +384,13 @@ By handling the prisoners in this way he inspired the citizens with strong goodw
 
 And by increasing his naval strength by half at just the right moment through his foresight—
 
-## Book 10 Chapter 18: Scipio's Treatment of Women
+## Book 10 Chapter 18: Scipio’s Treatment of Women
 
 After this he separated Mago and the Carthaginians who were with him. Of these, two belonged to the council of elders and fifteen to the senate.
 
 He entrusted them to Gaius Laelius, ordering him to take proper care of the men.
 
-Next he summoned the hostages, who were more than three hundred in number. He brought the children forward one by one,
-
-stroked them with his hand, and told them to take courage, because in a few days they would see their parents.
+Next he summoned the hostages, who were more than three hundred in number. He brought the children forward one by one, stroked them with his hand, and told them to take courage, because in a few days they would see their parents.
 
 He urged all the rest together to be cheerful and to write letters to their own cities and relatives, first saying that they were safe and well treated, and second that the Romans wished to restore them all safely to their homes if their kinsmen chose alliance with Rome.
 
@@ -418,9 +406,9 @@ When they came and explained that all necessary provisions were being supplied t
 
 He himself, he said, would appoint others to look after them, so that they should lack nothing necessary.
 
-After pausing a little, she said, "General, you do not understand what we are asking if you think it is food we now beg from you."
+After pausing a little, she said, “General, you do not understand what we are asking if you think it is food we now beg from you.”
 
-Then at last Publius grasped the woman's meaning, and as he saw before his eyes the youthful bloom of Andobales' daughters and of many other noble maidens, he was compelled to weep, while the woman in a few words made clear the danger of their situation.
+Then at last Publius grasped the woman’s meaning, and as he saw before his eyes the youthful bloom of Andobales’ daughters and of many other noble maidens, he was compelled to weep, while the woman in a few words made clear the danger of their situation.
 
 So he showed plainly at once that he understood what had been said, and taking her by the right hand told both her and the others to be of good courage.
 
@@ -438,7 +426,7 @@ He was struck and amazed by her beauty, and said that if he had been a private m
 
 By this answer, as it seems to me, he meant to suggest that while in times of rest and leisure such pleasures and pastimes may be among the sweetest delights for young men, in times of action they become very great hindrances both to body and mind.
 
-So he thanked the young men, but called the girl's father and, giving her back into his hands, told him to marry her to whichever of her fellow citizens he chose.
+So he thanked the young men, but called the girl’s father and, giving her back into his hands, told him to marry her to whichever of her fellow citizens he chose.
 
 Thus, by displaying both self-command and moderation, he won great admiration from those under his authority.
 
@@ -446,7 +434,7 @@ After settling these matters and handing over the rest of the prisoners to the t
 
 For since most people there had already given up hope of success in Iberia, he knew clearly that once this news was announced they would take heart again and support the enterprise with much greater vigor.
 
-## Book 10 Chapter 20: Scipio's Training Regimen
+## Book 10 Chapter 20: Scipio’s Training Regimen
 
 He himself stayed for some time at Carthage and continually trained the naval forces, while he also laid down for the tribunes something like the following method for exercising the infantry camps.
 
@@ -458,9 +446,7 @@ And so that there should be no lack either of weapons for practice or of those n
 
 He had assigned careful men over this work in divisions, as I said before; but he himself also made the rounds every day and personally saw to the supplies furnished to each group.
 
-So while the infantry around the city were busy with drills and exercises, the naval forces with practice cruises and rowing at sea, and the people in the city sharpening, forging, carpentry work, and in general every sort of effort in the making of arms,
-
-no one who saw that city then, to use Xenophon's phrase, would have hesitated to call it a workshop of war.
+So while the infantry around the city were busy with drills and exercises, the naval forces with practice cruises and rowing at sea, and the people in the city sharpening, forging, carpentry work, and in general every sort of effort in the making of arms, no one who saw that city then, to use Xenophon’s phrase, would have hesitated to call it a workshop of war.
 
 And when he thought that everything had been well prepared and adequately exercised for the tasks ahead, he secured the city by garrisons and repairs to the walls, then broke camp with both army and fleet and advanced on the march toward Tarraco, taking the hostages with him.
 
@@ -468,7 +454,7 @@ And when he thought that everything had been well prepared and adequately exerci
 
 Euryleon, the Achaean general, was timid and unsuited to military action.
 
-And now that the course of my narrative has brought me to the beginning of Philopoemen's deeds, I think it proper, just as I have tried to indicate the training and character of other notable men, to do something similar for him as well.
+And now that the course of my narrative has brought me to the beginning of Philopoemen’s deeds, I think it proper, just as I have tried to indicate the training and character of other notable men, to do something similar for him as well.
 
 For it is absurd that historians should describe the foundations of cities—when, how, and by whom they were founded—and even set out their circumstances and difficulties in detail, yet keep silence about the upbringing and ambitions of the men who managed whole states, though this subject is of far greater importance.
 
@@ -476,45 +462,29 @@ For in proportion as one can be stirred more readily to emulation and imitation 
 
 If I had not already composed a separate work about him, in which I explained who he was, what family he came from, and what principles guided him in youth, it would now be necessary to discuss each of those points.
 
-But since I have already treated him in three books outside the present history, setting forth both his early education and his most distinguished deeds,
-
-it is plain that in the present narrative it is fitting to omit a detailed account of his youthful upbringing and ambitions, and instead to add in detail the achievements of his prime, which there were given only in summary, so that I may preserve the proper character of each work.
+But since I have already treated him in three books outside the present history, setting forth both his early education and his most distinguished deeds, it is plain that in the present narrative it is fitting to omit a detailed account of his youthful upbringing and ambitions, and instead to add in detail the achievements of his prime, which there were given only in summary, so that I may preserve the proper character of each work.
 
 For just as that earlier composition, being encomiastic, required a condensed account of his actions with deliberate heightening, so history, which shares in both praise and blame, demands what is true, demonstrated, and accompanied by the reasoning that belongs to each action.
 
 ## Book 10 Chapter 22: His Birth and Education
 
-Philopoemen, then, was well born to begin with, for he came from one of the most distinguished families in Arcadia. He was brought up and educated by Cleander of Mantinea, who had been his father's guest-friend and was at that time living in exile, but was one of the foremost men of the Mantineans.
+Philopoemen, then, was well born to begin with, for he came from one of the most distinguished families in Arcadia. He was brought up and educated by Cleander of Mantinea, who had been his father’s guest-friend and was at that time living in exile, but was one of the foremost men of the Mantineans.
 
-When he came of age, he became a devoted follower of Ecdemus and Demophanes, men of Megalopolis by birth who, after fleeing from tyrants and spending their exile with the philosopher Arcesilaus, not only freed their own fatherland by plotting against Aristodemus the tyrant,
-
-but also helped to overthrow Nicocles, tyrant of Sicyon, by sharing in Aratus' enterprise; and later, when invited by the Cyrenaeans, they came forward in a brilliant way and preserved liberty for them as well.
+When he came of age, he became a devoted follower of Ecdemus and Demophanes, men of Megalopolis by birth who, after fleeing from tyrants and spending their exile with the philosopher Arcesilaus, not only freed their own fatherland by plotting against Aristodemus the tyrant, but also helped to overthrow Nicocles, tyrant of Sicyon, by sharing in Aratus’ enterprise; and later, when invited by the Cyrenaeans, they came forward in a brilliant way and preserved liberty for them as well.
 
 Living for a long time in early youth with such men, Philopoemen immediately distinguished himself from his contemporaries both in endurance and daring on the hunt and in military exercises.
 
 He was also careful and frugal in his way of life, having learned from those men the conviction that no one can lead public affairs well if he neglects his own private life, nor can anyone keep his hands off public property if he lives more extravagantly than his own means allow.
 
-Later, when the Achaeans appointed him hipparch at the time in question, and he took over the cavalry squadrons in a state of complete ruin and the men utterly discouraged,
+Later, when the Achaeans appointed him hipparch at the time in question, and he took over the cavalry squadrons in a state of complete ruin and the men utterly discouraged, he not only made them better than they had been themselves, but in a short time stronger than their enemies, by bringing them all into a regime of real training and purposeful ambition.
 
-he not only made them better than they had been themselves, but in a short time stronger than their enemies, by bringing them all into a regime of real training and purposeful ambition.
-
-For most of those appointed to this office either, because of their own incompetence in cavalry matters, do not dare to command even what is necessary to those under them,
-
-or else, because they are aiming at the generalship, court the young men through this office and try to secure them as friendly supporters for the future, not rebuking where rebuke is needed—the very thing by which public interests are preserved—but covering over faults and, for the sake of a petty favor, greatly harming those who trust them.
+For most of those appointed to this office either, because of their own incompetence in cavalry matters, do not dare to command even what is necessary to those under them, or else, because they are aiming at the generalship, court the young men through this office and try to secure them as friendly supporters for the future, not rebuking where rebuke is needed—the very thing by which public interests are preserved—but covering over faults and, for the sake of a petty favor, greatly harming those who trust them.
 
 And if ever some magistrates are both physically capable and eager to keep their hands off public wealth, even these often do more harm by misguided zeal to negligent infantrymen, and still more to cavalrymen.
 
-## Book 10 Chapter 23: Philopoemen's Reforms
+## Book 10 Chapter 23: Philopoemen’s Reforms
 
-The maneuvers which he thought cavalry ought to become accustomed to, as suitable for every occasion, were these:
-
-for the individual horseman, wheeling to the rein and then back toward the spear side, and besides this turning right round and changing front;
-
-for the squadron, wheeling about, turning, and also making a wider turning movement;
-
-besides these, rapid deployments by troop and by double troop from either wing, and sometimes from the center, and then rallying again with a check into troops, squadrons, and whole cavalry commands;
-
-and further, extension of the line on either wing, either by filling intervals or by carrying the rear ranks outward.
+The maneuvers which he thought cavalry ought to become accustomed to, as suitable for every occasion, were these: for the individual horseman, wheeling to the rein and then back toward the spear side, and besides this turning right round and changing front; for the squadron, wheeling about, turning, and also making a wider turning movement; besides these, rapid deployments by troop and by double troop from either wing, and sometimes from the center, and then rallying again with a check into troops, squadrons, and whole cavalry commands; and further, extension of the line on either wing, either by filling intervals or by carrying the rear ranks outward.
 
 As for oblique movements, he said they needed no special drill, since they are almost the same as ordinary marching order.
 
@@ -542,7 +512,7 @@ Such mistakes, however, were very few and infrequent because of the earlier care
 
 Demetrius of Phalerum has expressed the same principle in words, saying that just as in building, if each brick is laid individually and each course receives proper attention, so in an army, precision in each man and each company makes the whole force strong.
 
-## Book 10 Chapter 25: Philip's Increasing Deterioration
+## Book 10 Chapter 25: Philip’s Increasing Deterioration
 
 For the present situation, he said, is very like the arrangement and handling of troops in battle.
 
@@ -564,7 +534,7 @@ But the more democratic the dress he put on, the greater and more monarchical wa
 
 For he was no longer merely trying widows, nor content with seducing married women; any woman who pleased him he now summoned by direct order, and those who did not readily obey he insulted by leading drunken revels to their houses.
 
-He would summon some women's sons and others' husbands on absurd pretexts and bully them, displaying great licentiousness and lawlessness.
+He would summon some women’s sons and others’ husbands on absurd pretexts and bully them, displaying great licentiousness and lawlessness.
 
 And so, by abusing the freedom he enjoyed while staying among them, he deeply offended many of the Achaeans, and especially the respectable men among them.
 
@@ -574,9 +544,7 @@ No previous ruler, I think, possessed greater natural advantages for kingship th
 
 And it seems to me that his good qualities belonged to him by nature, while his bad ones came upon him as he advanced in age, just as some horses acquire faults as they grow old.
 
-Though I do not, like other historians, put such judgments in prefaces,
-
-but rather fit the appropriate remarks to the events themselves whenever occasion calls and pronounce on kings and notable men there, because I think that is the more suitable method both for writer and reader.
+Though I do not, like other historians, put such judgments in prefaces, but rather fit the appropriate remarks to the events themselves whenever occasion calls and pronounce on kings and notable men there, because I think that is the more suitable method both for writer and reader.
 
 ## Book 10 Chapter 27: Medea and the Palace at Ecbatana
 
@@ -584,7 +552,7 @@ Media, then, is among the most important of the Asiatic kingdoms both in the siz
 
 For this country supplies almost all Asia with these animals, and the royal breeding establishments for horses are entrusted to the Medes because of the natural excellence of the land.
 
-It is surrounded by Greek cities founded at Alexander's direction, to guard it against the neighboring barbarians, with the exception of Ecbatana.
+It is surrounded by Greek cities founded at Alexander’s direction, to guard it against the neighboring barbarians, with the exception of Ecbatana.
 
 This city is built in the northern parts of Media, opposite those regions of Asia that face the Maeotis and the Euxine.
 
@@ -600,7 +568,7 @@ Still, the palace is in size almost seven stades in circuit, and in the costly s
 
 For since all the timber was cedar and cypress, none of it was left bare: the beams, the ceiling-panels, and the columns in the porticoes and peristyles were sheathed, some with silver plates and others with gold, and all the roof-tiles were of silver.
 
-Most of these had been stripped off during Alexander's invasion with the Macedonians, and the rest under the rule of Antigonus and Seleucus Nicator.
+Most of these had been stripped off during Alexander’s invasion with the Macedonians, and the rest under the rule of Antigonus and Seleucus Nicator.
 
 Yet even when Antiochus arrived, the temple itself, called that of Aene, still had the surrounding columns gilded, and a number of silver tiles were piled up within it; a few gold bricks remained, and more of silver.
 
@@ -628,9 +596,7 @@ After giving his army a rest there, Antiochus reasoned that if Arsaces had been 
 
 But since he was retreating, it was clear to anyone judging correctly that he had some other plan in mind. Antiochus therefore decided to advance into Hyrcania.
 
-When he reached Tagae and learned from the natives how difficult the country was that he had to traverse until he should come to the ridges of Mount Labus descending into Hyrcania, and how many barbarians were posted at the difficult points,
-
-he resolved to array the light-armed troops and divide their officers according to the routes each section would need to take. He did the same with the workmen, who as they marched along were to make the ground seized by the light troops passable for the phalanx and the baggage animals.
+When he reached Tagae and learned from the natives how difficult the country was that he had to traverse until he should come to the ridges of Mount Labus descending into Hyrcania, and how many barbarians were posted at the difficult points, he resolved to array the light-armed troops and divide their officers according to the routes each section would need to take. He did the same with the workmen, who as they marched along were to make the ground seized by the light troops passable for the phalanx and the baggage animals.
 
 Having formed this plan, he gave the first division to Diogenes, assigning him archers, slingers, and such mountain men as could throw javelins and stones—men who kept no fixed order, but were always engaging man by man as occasion and terrain required, and rendered the most practical service in rough country.
 
@@ -650,7 +616,7 @@ What they did not consider was that, while the phalanx and baggage indeed could 
 
 So as soon as Diogenes and his men came up to the first outpost and made their ascent outside the ravine, the whole situation took on a different shape.
 
-For the action itself immediately showed what had to be done: Diogenes' men, climbing above and working round on the flanks of the positions, got higher than the enemy and badly harassed the barbarians with showers of javelins and hand-thrown stones, while the slings did the greatest damage by striking from a distance.
+For the action itself immediately showed what had to be done: Diogenes’ men, climbing above and working round on the flanks of the positions, got higher than the enemy and badly harassed the barbarians with showers of javelins and hand-thrown stones, while the slings did the greatest damage by striking from a distance.
 
 And when they had forced back the first group and occupied their position, the workmen had an opportunity to clear away and smooth everything underfoot in safety. This was done quickly because of the number of hands.
 
@@ -668,15 +634,13 @@ The king, however, with great urgency checked any prolonged pursuit by sounding 
 
 Having arranged the march as he wished and coming to Tambrax, an unwalled city that nevertheless possessed a royal palace and considerable size, he encamped there.
 
-Most of the people, having withdrawn from the battle and from the surrounding countryside into the city called Syrinx—which lay not far from Tambrax and served as something like the capital of Hyrcania because of its strength and general convenience—
-
-he determined to take this place by force. So he gathered the army, advanced, and after encamping around it began the siege.
+Most of the people, having withdrawn from the battle and from the surrounding countryside into the city called Syrinx—which lay not far from Tambrax and served as something like the capital of Hyrcania because of its strength and general convenience— he determined to take this place by force. So he gathered the army, advanced, and after encamping around it began the siege.
 
 The main part of the attack lay in the use of covered sheds for filling operations. There were three ditches, each no less than thirty cubits broad and fifteen deep; on the edge of each stood double palisades, and finally a strong outer wall in front.
 
 So there were continual clashes around the works, in which neither side could carry off its dead and wounded, because the fighting took place not only above ground but also underground in the mines, hand to hand.
 
-Yet through the sheer numbers employed and the king's own energy, it soon came about that the ditches were filled and the wall collapsed through the mining.
+Yet through the sheer numbers employed and the king’s own energy, it soon came about that the ditches were filled and the wall collapsed through the mining.
 
 When this happened, the barbarians, completely disheartened, slaughtered the Greeks inside the city, plundered the most valuable possessions, and withdrew by night.
 
@@ -694,9 +658,7 @@ Polybius, book ten.
 
 ## Book 10 Chapter 32: Fall of M. Claudius Marcellus
 
-The consuls, wishing to reconnoiter clearly the parts of the hill sloping toward the enemy camp, ordered the men within the palisade to remain at their posts,
-
-while they themselves took two troops of cavalry and about thirty light-armed men with the lictors and advanced to inspect the terrain.
+The consuls, wishing to reconnoiter clearly the parts of the hill sloping toward the enemy camp, ordered the men within the palisade to remain at their posts, while they themselves took two troops of cavalry and about thirty light-armed men with the lictors and advanced to inspect the terrain.
 
 Now some Numidians, accustomed to lie in ambush for skirmishers and in general for those moving out from the enemy camp, had by chance concealed themselves under the hill.
 
@@ -704,7 +666,7 @@ When their scout signaled that some men were coming over the crest above them, t
 
 They struck down Claudius at the first clash, together with some others, and after wounding the rest forced them to flee in different directions down the rough ground.
 
-The men in camp saw what was happening but were in no way able to come to the rescue of those in danger. While they were still shouting out and reeling from the shock of what had happened—some bridling their horses, others putting on armor—the affair was already over. Claudius' son, though wounded, only barely and unexpectedly escaped the danger.
+The men in camp saw what was happening but were in no way able to come to the rescue of those in danger. While they were still shouting out and reeling from the shock of what had happened—some bridling their horses, others putting on armor—the affair was already over. Claudius’ son, though wounded, only barely and unexpectedly escaped the danger.
 
 Thus Marcus fell because he had behaved in a way more innocent than general-like in the circumstances I have described.
 
@@ -716,23 +678,19 @@ And what use is one who does not know that, even when circumstances compel him t
 
 For, as the proverb says, the experiment ought to be made on a Carian, not on the general.
 
-To say, "I would never have thought it," or, "Who could have expected this to happen?" seems to me the clearest sign of inexperience and slowness in generalship.
+To say, “I would never have thought it,” or, “Who could have expected this to happen?” seems to me the clearest sign of inexperience and slowness in generalship.
 
-## Book 10 Chapter 33: Hannibal's Greatness
+## Book 10 Chapter 33: Hannibal’s Greatness
 
-So although I judge Hannibal to have been a great commander in many ways,
-
-one might especially note this point: after spending many years in enemy territory and passing through many varied situations, he repeatedly brought disaster on his opponents in minor operations by his own quick intelligence, yet he himself was never ruined despite directing so many and such great struggles.
+So although I judge Hannibal to have been a great commander in many ways, one might especially note this point: after spending many years in enemy territory and passing through many varied situations, he repeatedly brought disaster on his opponents in minor operations by his own quick intelligence, yet he himself was never ruined despite directing so many and such great struggles.
 
 It seems that he took such care over his own safety, and rightly so.
 
 For if the man in command remains unharmed and alive, even if the whole undertaking suffers a reverse, fortune still offers many opportunities to recover from the loss caused by disaster.
 
-But if he falls, like the helmsman of a ship, then even if fortune grants the mass of men victory over the enemy, no real advantage results, because all men's hopes hang upon their leaders.
+But if he falls, like the helmsman of a ship, then even if fortune grants the mass of men victory over the enemy, no real advantage results, because all men’s hopes hang upon their leaders.
 
-Let this be said for those who, from vanity, boyish display,
-
-or from inexperience or contempt, fall into such irrational errors.
+Let this be said for those who, from vanity, boyish display, or from inexperience or contempt, fall into such irrational errors.
 
 For one or another of these causes always produces such disasters.
 
@@ -742,17 +700,13 @@ Then they suddenly let down the portcullis, which they had suspended a little ab
 
 In Iberia, Publius, the Roman commander, wintered at Tarraco, as I explained earlier, and first attached the Iberians to his friendship and loyalty by restoring the hostages to each of them.
 
-In this he found an unexpected ally in Edeco, prince of the Edetani. As soon as the capture of Carthage had occurred and Publius had become master of his wife and children, Edeco at once reflected on the coming change among the Iberians and wished to take the lead in the same movement,
-
-fully convinced that in this way he would recover his wife and children and would seem to have chosen the Roman side not under compulsion but by deliberate intention. And so it turned out.
+In this he found an unexpected ally in Edeco, prince of the Edetani. As soon as the capture of Carthage had occurred and Publius had become master of his wife and children, Edeco at once reflected on the coming change among the Iberians and wished to take the lead in the same movement, fully convinced that in this way he would recover his wife and children and would seem to have chosen the Roman side not under compulsion but by deliberate intention. And so it turned out.
 
 For as soon as the armies had been dismissed into winter quarters, he came to Tarraco with his household and friends.
 
 When he came into conference with Publius, he said that for this above all he gave the gods the greatest thanks: that he was the first of the rulers in the country to come to him.
 
-The others, he said, were still sending envoys and looking toward the Carthaginians, while at the same time stretching out their hands to the Romans. He, however, had come to place not only himself but also his friends and kinsmen under Roman protection. Therefore, if he were judged worthy to be a friend and ally,
-
-he would be of great use to him both immediately and in the future.
+The others, he said, were still sending envoys and looking toward the Carthaginians, while at the same time stretching out their hands to the Romans. He, however, had come to place not only himself but also his friends and kinsmen under Roman protection. Therefore, if he were judged worthy to be a friend and ally, he would be of great use to him both immediately and in the future.
 
 For as soon as the Iberians saw that he had been admitted to friendship and had obtained what he asked, all would come in the same way, eager to recover their relatives and gain the alliance of Rome.
 
@@ -760,7 +714,7 @@ And in the time to come, once won over by such honor and humane treatment, they 
 
 Therefore he asked to recover his wife and children and, once recognized as a friend, to return home, so that with a reasonable occasion in hand he might show, to the full extent of his power, the goodwill of himself and his friends both toward Publius personally and toward the Roman cause.
 
-Such, then, were Edeco's words.
+Such, then, were Edeco’s words.
 
 ## Book 10 Chapter 35: General Defection to the Romans
 
@@ -770,13 +724,11 @@ Besides this, by his varied charm in conversation he won over the Iberian and he
 
 When this affair quickly became famous, it happened that all those dwelling north of the Ebro who had not already been friends of Rome chose the Roman side as if by a single impulse.
 
-So far, then, everything was proceeding well according to Publius' wishes.
+So far, then, everything was proceeding well according to Publius’ wishes.
 
 After these men had gone, he dismissed the naval forces, seeing that nothing opposed him at sea, and selecting the most suitable men from the sailors, distributed them among the maniples. In this way he increased his infantry strength.
 
-Andobales and Mandonius,
-
-who were at that time the greatest dynasts in Iberia and were thought to be the truest friends of the Carthaginians, had long been secretly hostile and were watching for an opportunity ever since Hasdrubal and his party, pretending to distrust them, had demanded a large sum of money and their wives and daughters as hostages, as I described earlier.
+Andobales and Mandonius, who were at that time the greatest dynasts in Iberia and were thought to be the truest friends of the Carthaginians, had long been secretly hostile and were watching for an opportunity ever since Hasdrubal and his party, pretending to distrust them, had demanded a large sum of money and their wives and daughters as hostages, as I described earlier.
 
 Now, thinking that the moment was favorable, they gathered their own forces and in the night withdrew from the Carthaginian camp to certain strong positions capable of securing their safety.
 
@@ -784,7 +736,7 @@ When this happened, most of the other Iberians likewise abandoned Hasdrubal, hav
 
 ## Book 10 Chapter 36: Difficulty of Making Good Use of a Victory
 
-This, indeed, has often happened before. For though, as I have frequently said, it is a great thing in action to succeed and gain the upper hand over one's enemies in an enterprise, it requires far greater experience and caution to make good use of successes.
+This, indeed, has often happened before. For though, as I have frequently said, it is a great thing in action to succeed and gain the upper hand over one’s enemies in an enterprise, it requires far greater experience and caution to make good use of successes.
 
 So one would find many times more men who have won advantages than men who have used those advantages well. That is exactly what happened then with the Carthaginians.
 
@@ -794,9 +746,7 @@ Accordingly, instead of allies and friends they made enemies of their subjects.
 
 And they suffered this quite deservedly. For while they thought one sort of conduct necessary for gaining empire and another for preserving it, they failed to learn that those preserve superiority best who remain most faithful to the same principles by which they first won power.
 
-Yet it is obvious and has already been seen in many cases that men gain advantages by doing good and by holding out fair hope to their neighbors,
-
-but whenever, after getting what they wanted, they begin to do wrong and rule despotically over those under them, it naturally follows that as the rulers change, the dispositions of the subjects change with them. That is what happened then to the Carthaginians.
+Yet it is obvious and has already been seen in many cases that men gain advantages by doing good and by holding out fair hope to their neighbors, but whenever, after getting what they wanted, they begin to do wrong and rule despotically over those under them, it naturally follows that as the rulers change, the dispositions of the subjects change with them. That is what happened then to the Carthaginians.
 
 ## Book 10 Chapter 37: Hasdrubal Comes to a Decision
 
@@ -810,7 +760,7 @@ He decided that he must prepare as strong a force as possible and fight the enem
 
 But if the battle turned out against him, he would withdraw with those saved from it into Gaul, and there take up as many barbarians as possible and go to Italy, sharing the same hopes as his brother Hannibal.
 
-While Hasdrubal was engaged in these plans, Publius, after receiving Gaius Laelius and hearing the Senate's instructions he brought, led out the forces from winter quarters, the Iberians meeting him on the road and eagerly joining the expedition.
+While Hasdrubal was engaged in these plans, Publius, after receiving Gaius Laelius and hearing the Senate’s instructions he brought, led out the forces from winter quarters, the Iberians meeting him on the road and eagerly joining the expedition.
 
 Andobales and his followers had long been sending messages to Publius, and now when he came near their region they left their camp and came to him with their friends. In conference they defended themselves concerning their former friendship with the Carthaginians, and likewise set forth the services and loyalty they had shown them.
 
@@ -836,9 +786,9 @@ Once this was settled, they withdrew to their own camps, took up their forces, c
 
 The Carthaginian general happened to be staying in the region around Castulo near the town of Baecula, not far from the silver mines.
 
-When he learned of the Romans' arrival, he shifted camp and chose a position with a river secure in his rear, and in front of the camp a level place with a projecting brow, with depth enough for safety and breadth enough for deployment. There he stayed on the lower ground, always posting reserves along the brow.
+When he learned of the Romans’ arrival, he shifted camp and chose a position with a river secure in his rear, and in front of the camp a level place with a projecting brow, with depth enough for safety and breadth enough for deployment. There he stayed on the lower ground, always posting reserves along the brow.
 
-When Publius came near, he was eager to risk battle, but was at a loss because he saw how favorable the ground was for the enemy's security.
+When Publius came near, he was eager to risk battle, but was at a loss because he saw how favorable the ground was for the enemy’s security.
 
 Even so, after waiting two days and fearing that if Mago and Hasdrubal son of Gisco should also arrive the enemy might surround him from every side, he decided to hazard the attempt and test the enemy.
 
@@ -846,11 +796,9 @@ Even so, after waiting two days and fearing that if Mago and Hasdrubal son of Gi
 
 He made the rest of his army ready for battle and kept it inside the camp, but sent out the light-armed troops and picked infantry with orders to attack the brow of the hill and test the enemy reserves.
 
-When they carried out the command boldly, at first the Carthaginian general merely watched what was happening; but when he saw that, because of the Romans' audacity, his own men were under pressure and suffering badly, he brought out his force and stationed it along the brow, trusting in the ground.
+When they carried out the command boldly, at first the Carthaginian general merely watched what was happening; but when he saw that, because of the Romans’ audacity, his own men were under pressure and suffering badly, he brought out his force and stationed it along the brow, trusting in the ground.
 
-At that moment Publius sent all the light-armed troops to support those already engaged, while holding the rest in readiness. Taking half himself, he went round the brow to the enemy's left and attacked the Carthaginians,
-
-while the other half he gave to Laelius with similar orders to fall upon the enemy's right.
+At that moment Publius sent all the light-armed troops to support those already engaged, while holding the rest in readiness. Taking half himself, he went round the brow to the enemy’s left and attacked the Carthaginians, while the other half he gave to Laelius with similar orders to fall upon the enemy’s right.
 
 As this was happening, Hasdrubal was still in the act of leading his troops out from the camp. Up to that time he had been waiting because he trusted the position and was convinced the enemy would never dare attempt an assault; so, because the attack came unexpectedly, he was late in making his deployment.
 
@@ -862,7 +810,7 @@ Taking the money and the elephants, and drawing together as many fugitives as he
 
 Publius did not think it advantageous to pursue Hasdrubal at once, because he feared an attack by the other commanders; instead, he let his soldiers plunder the enemy camp.
 
-## Book 10 Chapter 40: Scipio Refuses the Title "King"
+## Book 10 Chapter 40: Scipio Refuses the Title “King”
 
 On the next day he gathered together the prisoners, of whom there were about ten thousand infantry and more than two thousand cavalry, and busied himself with arranging their disposition.
 
@@ -870,13 +818,13 @@ And all those Iberians who in the districts just mentioned had been fighting the
 
 The first to do this and to bow before him had been Edeco, and after him those with Andobales. At that time, however, the word had passed him by without special notice.
 
-But after the battle, when all alike kept calling him king, the repeated title forced the matter upon Publius' attention.
+But after the battle, when all alike kept calling him king, the repeated title forced the matter upon Publius’ attention.
 
 So he gathered the Iberians and said that he did indeed wish to be and to be called kingly by all men in character and in truth, but that he neither wished to be a king nor to be called one by anyone. Having said this, he ordered them to address him as general.
 
-Even at that moment one might perhaps justly have marked the greatness of the man's spirit: though he was very young and fortune had run so strongly with him that all those coming under his rule were led by themselves to this judgment and this title, nevertheless he kept his self-command and pushed away such an impulse and such outward show.
+Even at that moment one might perhaps justly have marked the greatness of the man’s spirit: though he was very young and fortune had run so strongly with him that all those coming under his rule were led by themselves to this judgment and this title, nevertheless he kept his self-command and pushed away such an impulse and such outward show.
 
-But one would admire the extraordinary greatness of soul in this man much more if one considered the closing period of his life, when in addition to his deeds in Iberia he overthrew the Carthaginians, brought under his country's control the greatest and finest regions of Libya from the Altars of Philaenus to the Pillars of Heracles, subdued Asia and the kings of Syria, and made the best and greatest part of the inhabited world subject to Rome, while at the same time he had opportunities to acquire royal dominion in whatever regions of the world he might choose.
+But one would admire the extraordinary greatness of soul in this man much more if one considered the closing period of his life, when in addition to his deeds in Iberia he overthrew the Carthaginians, brought under his country’s control the greatest and finest regions of Libya from the Altars of Philaenus to the Pillars of Heracles, subdued Asia and the kings of Syria, and made the best and greatest part of the inhabited world subject to Rome, while at the same time he had opportunities to acquire royal dominion in whatever regions of the world he might choose.
 
 For such achievements would have made not only a human being but, if one may say so, something more divine grow proud.
 
@@ -900,7 +848,7 @@ There was also an embassy from the Epirotes. At the same time it was reported th
 
 The Aetolians were also preoccupying the narrows around Thermopylae with ditches, palisades, and heavy guards, convinced that they would shut Philip in and altogether prevent him from coming to the aid of the allies inside the pass.
 
-It seems to me quite reasonable to call attention to such situations and fix the reader's notice upon them, since in them a true test and proof is made of the emotional resolve and bodily powers of commanders.
+It seems to me quite reasonable to call attention to such situations and fix the reader’s notice upon them, since in them a true test and proof is made of the emotional resolve and bodily powers of commanders.
 
 For just as in hunting the strength and courage of animals become most visible when danger closes round them from every side, so too with leaders. And what Philip did on this occasion made this especially clear.
 
@@ -918,7 +866,7 @@ When he learned that Attalus and his men had sailed into Nicaea, and that the Ae
 
 He arrived too late for the gathering, but after destroying and carrying off the grain of the inhabitants around the Maliac Gulf, he returned.
 
-He left the main army again in Scotussa, but himself, taking the light-armed troops and the royal squadron, went to Demetrias and stayed there, watching the enemy's designs.
+He left the main army again in Scotussa, but himself, taking the light-armed troops and the royal squadron, went to Demetrias and stayed there, watching the enemy’s designs.
 
 And so that nothing they did might escape him, he sent messages to Peparethus and to those in Phocis, and likewise to those in Euboea, ordering them to report all events to him by beacon-fires directed toward Mount Tisaeum.
 
@@ -930,7 +878,7 @@ Since the use of beacon-signals is of the greatest service in war, and since the
 
 That timely action plays a great part in all undertakings, and the greatest in war, is clear to everyone. Among all the devices that contribute to this, beacon-fires have the greatest power.
 
-For by them one may learn of events that have just happened or are actually taking place, if one takes heed, at a distance of three or four days' journey, and sometimes even more.
+For by them one may learn of events that have just happened or are actually taking place, if one takes heed, at a distance of three or four days’ journey, and sometimes even more.
 
 So it often happens that help arrives unexpectedly where it is needed because the news has been conveyed by fire-signals.
 
@@ -940,11 +888,7 @@ For the system had to operate by fixed conventions, while most events are indefi
 
 That a fleet had arrived at Oreus or Peparethus or Chalcis could indeed be made clear to those who had agreed on such a signal.
 
-But if certain citizens are changing sides, or betraying the city, or a massacre has occurred,
-
-or any other such thing—events which often happen, but for which it is impossible to make prior provision, though such unexpected developments especially demand prompt deliberation and aid—
-
-all such matters escaped the use of fire-signals. For where no prior foresight is possible, no agreed sign for the event can be devised either.
+But if certain citizens are changing sides, or betraying the city, or a massacre has occurred, or any other such thing—events which often happen, but for which it is impossible to make prior provision, though such unexpected developments especially demand prompt deliberation and aid— all such matters escaped the use of fire-signals. For where no prior foresight is possible, no agreed sign for the event can be devised either.
 
 ## Book 10 Chapter 44: Methods of Signalling
 
@@ -952,13 +896,9 @@ Aeneas, then, the man who composed the manuals on tactics, wishing to correct th
 
 One may see this from the following. He says that those who wish to communicate urgent information to one another by beacon-fires should prepare earthenware vessels exactly equal in width and depth, the depth being best at three cubits and the width at one.
 
-Then they should prepare corks a little narrower than the mouths of the vessels, and in the middle of these should fix rods divided into equal sections of three fingers' breadth, with each section clearly marked.
+Then they should prepare corks a little narrower than the mouths of the vessels, and in the middle of these should fix rods divided into equal sections of three fingers’ breadth, with each section clearly marked.
 
-On each section should be written one of the most obvious and general events that occur in war, for example, immediately on the first,
-
-"cavalry have entered the country," on the second "heavy infantry," on the third "light troops," and after these,
-
-"infantry with cavalry," then "ships," after that "grain," and so on continuously, until in all the spaces there are written those events which according to reasonable foresight are most likely to occur in the war then on hand.
+On each section should be written one of the most obvious and general events that occur in war, for example, immediately on the first, “cavalry have entered the country,” on the second “heavy infantry,” on the third “light troops,” and after these, “infantry with cavalry,” then “ships,” after that “grain,” and so on continuously, until in all the spaces there are written those events which according to reasonable foresight are most likely to occur in the war then on hand.
 
 When this has been done, he directs that both vessels be pierced accurately so that the outlets are equal and discharge equally; then, after filling them with water, the corks with the rods are to be placed upon them, and the outlets are to be opened at the same moment.
 
@@ -1008,9 +948,7 @@ Next to the sighting device the tablets should be fixed upright in order.
 
 And both the right and left positions should be screened off for ten feet, with a depth about the height of a man, so that when torches are raised beside them the appearance is exact, and when lowered they are hidden from view.
 
-When these preparations have been made on both sides, if one wishes, for example, to indicate that "about a hundred soldiers have deserted to the enemy," one must first choose words that express the same thing in the fewest letters,
-
-for instance, instead of the phrase just given, "A hundred Cretans have deserted from us." In this way the letters are fewer by more than half, while the same message is made clear.
+When these preparations have been made on both sides, if one wishes, for example, to indicate that “about a hundred soldiers have deserted to the enemy,” one must first choose words that express the same thing in the fewest letters, for instance, instead of the phrase just given, “A hundred Cretans have deserted from us.” In this way the letters are fewer by more than half, while the same message is made clear.
 
 Once this has been written on a tablet, it will be conveyed by the torches as follows. The first letter is kappa.
 
@@ -1036,9 +974,7 @@ For many things that at first seem not only difficult but impossible are later, 
 
 There are many examples that could confirm this point, but the clearest is what happens in reading.
 
-If one were to place beside each other a clever man who knew no letters and had no practice in reading, and a child who had acquired the habit, and then give the child a book and tell him to read what is written,
-
-it is clear that the untrained man would scarcely believe that the reader must first fix his eyes upon the appearance of each letter, second upon its sound-value, and third upon the combinations of letters with one another, each of which takes a certain amount of time.
+If one were to place beside each other a clever man who knew no letters and had no practice in reading, and a child who had acquired the habit, and then give the child a book and tell him to read what is written, it is clear that the untrained man would scarcely believe that the reader must first fix his eyes upon the appearance of each letter, second upon its sound-value, and third upon the combinations of letters with one another, each of which takes a certain amount of time.
 
 So when he sees the child, without pause, stringing together five or seven lines in a breath, he will not readily believe that the child has not read the book before.
 
@@ -1062,7 +998,7 @@ The Oxus has its sources in the Caucasus and, after being greatly swollen in Bac
 
 When it reaches the desert, it drives its current violently against certain projecting rocks, and because of the mass of water and the descent from the higher ground, it leaps so far from the rock below that its fall is more than a stade away at the lower level.
 
-It is through this place, they say, that the Apasiacae pass on foot with their horses into Hyrcania, keeping close to the rock beneath the river's fall.
+It is through this place, they say, that the Apasiacae pass on foot with their horses into Hyrcania, keeping close to the rock beneath the river’s fall.
 
 The other account offers a more plausible explanation. Since the ground below contains broad hollows into which the river plunges, they say that the force of the current scoops out and breaks through them downward and then carries the stream for a short distance underground, after which it appears again.
 
@@ -1072,34 +1008,28 @@ And the barbarians, because they know the place, cross the dry interval on horse
 
 When news came that Euthydemus and his army were in Tapuria, and that ten thousand cavalry were posted in advance guarding the crossings of the river Arius, Antiochus decided to abandon the siege and attack these forces.
 
-Since the river was three days' march away, he made a moderate march for two days; on the third, after the others had dined, he ordered them to break camp at daybreak, while he himself took the cavalry and light-armed troops,
-
-together with ten thousand peltasts, and advanced by night at a vigorous pace.
+Since the river was three days’ march away, he made a moderate march for two days; on the third, after the others had dined, he ordered them to break camp at daybreak, while he himself took the cavalry and light-armed troops, together with ten thousand peltasts, and advanced by night at a vigorous pace.
 
 For he had learned that the enemy cavalry kept guard by day along the riverbank, but at night withdrew to a city not less than twenty stades away.
 
-Having covered the remaining distance by night,
-
-and since the plains were suitable for cavalry movement, he succeeded in getting most of the force with him across the river by daybreak.
+Having covered the remaining distance by night, and since the plains were suitable for cavalry movement, he succeeded in getting most of the force with him across the river by daybreak.
 
 The cavalry of the Bactrians, once their scouts had signaled what had happened, came out to help and met their opponents while still on the march.
 
-The king, seeing that he must receive the enemy's first onset, summoned the two thousand cavalrymen around him who were accustomed to face danger with him, and ordered all the rest to form by standards and squadrons and take up their usual positions.
+The king, seeing that he must receive the enemy’s first onset, summoned the two thousand cavalrymen around him who were accustomed to face danger with him, and ordered all the rest to form by standards and squadrons and take up their usual positions.
 
 Then he himself, with the cavalry just mentioned, rode out to meet and engage the first Bactrian charge.
 
 Antiochus seems on this occasion to have fought with the most distinguished gallantry of anyone with him.
 
-Many on both sides were killed. The king's men overcame the first squadron, but when the second and third came on, they were hard pressed and suffered badly.
+Many on both sides were killed. The king’s men overcame the first squadron, but when the second and third came on, they were hard pressed and suffered badly.
 
 At that moment, when most of the cavalry had by then drawn up, Panaetolus ordered a forward movement, received the king and those fighting with him, and forced the Bactrians, who were charging on in disorder, to turn and flee in confusion.
 
 Pressed by Panaetolus and his men, they did not stop until they rejoined Euthydemus, having lost most of their number.
 
-The king's cavalry,
+The king’s cavalry, after killing many and taking many alive, withdrew and bivouacked that night by the river.
 
-after killing many and taking many alive, withdrew and bivouacked that night by the river.
-
-In this engagement the king's horse was killed after being wounded, while Antiochus himself was struck in the mouth and lost some teeth, and above all won a high reputation for courage on that day.
+In this engagement the king’s horse was killed after being wounded, while Antiochus himself was struck in the mouth and lost some teeth, and above all won a high reputation for courage on that day.
 
 After this battle Euthydemus, in alarm, withdrew with his army to the city of Zariaspa in Bactria.

@@ -46,7 +46,7 @@ The Achaeans assembled in public meeting, ratified the alliance, and sent out yo
 
 ## Book 21 Chapter 4: The Athenians Intercede for the Aetolians
 
-While Manius, the Roman general, was besieging the Amphissians, the Athenian people learned both of the distress of Amphissa and of Publius's presence, and at this moment sent envoys headed by Echedemus.
+While Manius, the Roman general, was besieging the Amphissians, the Athenian people learned both of the distress of Amphissa and of Publius’s presence, and at this moment sent envoys headed by Echedemus.
 
 Their instructions were, first, to greet Lucius and Publius, and at the same time to test whether a settlement with the Aetolians might be arranged.
 
@@ -94,7 +94,7 @@ If they obtained what they requested, well and good; if not, they must wait on c
 
 For their position could hardly become worse than it already was, while for many reasons it might yet become better.
 
-Since Echedemus's advice seemed sound, the Aetolians decided to send an embassy to ask for a truce.
+Since Echedemus’s advice seemed sound, the Aetolians decided to send an embassy to ask for a truce.
 
 When they reached Lucius, they begged that for the present a six-month truce be granted, so that they might send envoys to the senate.
 
@@ -124,7 +124,7 @@ Then two Galli came out carrying their sacred emblems and breast-images and begg
 
 The fire-throwing device used by Pausistratus, the Rhodian admiral, was a brazier.
 
-On each side of the prow two hooked fittings were placed along the inner faces of the ship's sides, and into these were set poles projecting outward over the sea.
+On each side of the prow two hooked fittings were placed along the inner faces of the ship’s sides, and into these were set poles projecting outward over the sea.
 
 From the end of these the brazier, full of fire, was suspended by an iron chain.
 
@@ -138,9 +138,7 @@ So although they had only just chosen Pausistratus for command precisely because
 
 ## Book 21 Chapter 8: The Aetolian Truce Announced
 
-At this time letters reached Samos for Lucius and for Eumenes, both from Lucius the consul and from Publius Scipio,
-
-announcing the arrangements made with the Aetolians about the truce and the march of the land army toward the Hellespont.
+At this time letters reached Samos for Lucius and for Eumenes, both from Lucius the consul and from Publius Scipio, announcing the arrangements made with the Aetolians about the truce and the march of the land army toward the Hellespont.
 
 The same facts were likewise made known to Antiochus and Seleucus by the Aetolians.
 
@@ -174,9 +172,9 @@ We would then have nothing left but to winter here waiting for their decision, d
 
 Then, if the senate should refuse the settlement, we would have to begin the war afresh from the beginning, after letting the present opportunity pass—an opportunity in which, if the gods are willing, we may bring the whole matter to an end.”
 
-Such was Eumenes' view. Lucius approved the advice and answered Antiochus's envoys that no settlement could be made before the proconsul arrived.
+Such was Eumenes’ view. Lucius approved the advice and answered Antiochus’s envoys that no settlement could be made before the proconsul arrived.
 
-When Antiochus's people heard this, they at once began to ravage the territory of Elaea.
+When Antiochus’s people heard this, they at once began to ravage the territory of Elaea.
 
 After this Seleucus remained in that district, while Antiochus continued his march and entered the plain called Thebe.
 
@@ -192,11 +190,9 @@ But a letter reached him from the brothers Lucius and Publius. When he received 
 
 For the men around Publius had written with great clarity, and had added many proofs to make their case convincing.
 
-They did not merely defend their own policy,
+They did not merely defend their own policy, but that of the Roman people as a whole, showing that they had not taken kingdoms away from the kings who originally held them; rather, in some cases they had themselves established rulers, and in others had enlarged their power and made their dominions many times greater.
 
-but that of the Roman people as a whole, showing that they had not taken kingdoms away from the kings who originally held them; rather, in some cases they had themselves established rulers, and in others had enlarged their power and made their dominions many times greater.
-
-They cited Indibilis and Colichas in Spain, Massanissa in Libya, and Pleuratus in Illyria.
+They cited Indibilis and Colichas in Spain, Masinissa in Libya, and Pleuratus in Illyria.
 
 All of these, they said, had been raised by Rome from small and insignificant dynasts into acknowledged kings.
 
@@ -228,11 +224,9 @@ In addition, he would pay half the expense they had incurred in the war against 
 
 These were the instructions Heracleides had for the public audience; but for Publius in private he had other proposals, which I shall explain in due course.
 
-When this envoy reached the Hellespont and found the Romans still waiting in the camp where they had first encamped after crossing,
+When this envoy reached the Hellespont and found the Romans still waiting in the camp where they had first encamped after crossing, he was at first delighted, thinking that their remaining where they were and not yet moving on would help his negotiations.
 
-he was at first delighted, thinking that their remaining where they were and not yet moving on would help his negotiations.
-
-But when he learned that Publius was still on the other side, he was troubled, because the greatest weight in the matter rested on Publius's judgment.
+But when he learned that Publius was still on the other side, he was troubled, because the greatest weight in the matter rested on Publius’s judgment.
 
 The reason why the army remained in its first camp and why Publius was apart from the forces was that he was one of the Salii.
 
@@ -264,13 +258,13 @@ As for the cities, he must not free only those in Aeolis and Ionia, but give up 
 
 When the envoy heard this answer from the council, and saw that the demands went far beyond his instructions, he made no further attempt in the public meeting but instead devoted himself to courting Publius privately.
 
-## Book 21 Chapter 15: Scipio Scorns Antiochus's Secret Proposal
+## Book 21 Chapter 15: Scipio Scorns Antiochus’s Secret Proposal
 
 When he found a suitable opportunity, he spoke of the proposals entrusted to him.
 
-First, the king would restore Publius's son without ransom.
+First, the king would restore Publius’s son without ransom.
 
-For at the beginning of the war Scipio's son had fallen into the hands of Antiochus's people.
+For at the beginning of the war Scipio’s son had fallen into the hands of Antiochus’s people.
 
 Second, the king was ready even now to give whatever sum of money Publius might name, and after that to make the resources of his kingdom common with him, if only he would support the peace terms proposed by the king.
 
@@ -286,7 +280,7 @@ But now, after allowing our forces to set foot in Asia and accepting not only th
 
 Therefore Publius advised him to take better counsel about the present and to look truly at the situation.
 
-In return for the king's promise about his son, he said he would give advice worth the favor offered: the king should yield on every point, but under no circumstances fight the Romans.
+In return for the king’s promise about his son, he said he would give advice worth the favor offered: the king should yield on every point, but under no circumstances fight the Romans.
 
 After hearing this, Heracleides returned and reported the details to the king.
 
@@ -308,7 +302,7 @@ But contrary to expectation they found him moderate and mild, and so at once mov
 
 Summoned into the council, they said much else besides, urging the Romans to use their success with gentleness and magnanimity.
 
-They declared that this was not so much to Antiochus's advantage as to that of the Romans themselves, since fortune had now handed them mastery and dominion over the inhabited world.
+They declared that this was not so much to Antiochus’s advantage as to that of the Romans themselves, since fortune had now handed them mastery and dominion over the inhabited world.
 
 In the end they simply asked what Antiochus must do to obtain peace and friendship with Rome.
 
@@ -326,7 +320,7 @@ In addition, he must pay the Romans fifteen thousand Euboic talents as compensat
 
 Of this, five hundred were to be paid immediately, another twenty-five hundred when the people ratified the settlement, and the rest over twelve years, one thousand talents each year.
 
-He must also pay Eumenes the four hundred talents still owed to him and the grain still lacking under the treaty made with Eumenes' father.
+He must also pay Eumenes the four hundred talents still owed to him and the grain still lacking under the treaty made with Eumenes’ father.
 
 Along with this he must surrender Hannibal the Carthaginian, Thoas the Aetolian, Mnasilochus the Acarnanian, and the Chalcidians Philo and Eubulidas.
 
@@ -344,7 +338,7 @@ In the same way envoys also went to Rome from the Rhodians, the Smyrnaeans, and 
 
 Olympiad 147, year 3. Affairs in Italy.
 
-At the opening of summer, after the Roman victory over Antiochus, King Eumenes was in Rome, together with Antiochus's envoys and those from Rhodes and many others.
+At the opening of summer, after the Roman victory over Antiochus, King Eumenes was in Rome, together with Antiochus’s envoys and those from Rhodes and many others.
 
 Nearly everyone in Asia had sent ambassadors to Rome immediately after the battle, because at that time all hopes for the future rested for all alike with the senate.
 
@@ -386,9 +380,7 @@ The very name of freedom and autonomy would draw away from him not only those ci
 
 That is the natural course of events. Men who think they have been liberated through Rhodian action will be their allies in name, but in reality they will readily do whatever the Rhodians order, being bound to them by the greatest obligation.
 
-Therefore, gentlemen, he urged them to watch this point carefully, lest they unknowingly strengthen one ally beyond measure while unreasonably weakening another,
-
-and at the same time end up rewarding former enemies while overlooking and slighting true friends.
+Therefore, gentlemen, he urged them to watch this point carefully, lest they unknowingly strengthen one ally beyond measure while unreasonably weakening another, and at the same time end up rewarding former enemies while overlooking and slighting true friends.
 
 ## Book 21 Chapter 20: Eumenes Has Always Been a Friend to Rome
 
@@ -402,7 +394,7 @@ He joined you in all your wars in Greece, provided greater land and naval forces
 
 In short, he ended his life in the very midst of action during the war with Philip, while urging the Boeotians into friendship and alliance with you.
 
-And I, when I succeeded to the throne, preserved my father's policy—for that I could not abandon—but in deeds I have gone even further.
+And I, when I succeeded to the throne, preserved my father’s policy—for that I could not abandon—but in deeds I have gone even further.
 
 For the times brought me to a fiercer test than they did him.
 
@@ -412,15 +404,11 @@ Yet I was so far from accepting any of this that, more than any other of your al
 
 In the end I even endured being shut up in Pergamum itself, besieged and in danger alike for my life and for my kingdom, because of my loyalty to the Roman people.
 
-## Book 21 Chapter 21: Conclusion of Eumenes' Speech
+## Book 21 Chapter 21: Conclusion of Eumenes’ Speech
 
 Therefore, men of Rome, since many of you have seen these things with your own eyes and all of you know that what I say is true, it is only just that you should show proper concern for us.
 
-It would be a most shocking thing if you made Massanissa—who was not only once your enemy, but came over to you at the last with only a few horsemen—king over the greater part of Libya because he proved faithful in a single war against Carthage,
-
-and if you raised Pleuratus, who had done nothing beyond keeping faith, to be the greatest ruler in Illyria,
-
-but then treated as nothing us who, through our forefathers, have worked with you in the greatest and finest of your achievements.
+It would be a most shocking thing if you made Masinissa—who was not only once your enemy, but came over to you at the last with only a few horsemen—king over the greater part of Libya because he proved faithful in a single war against Carthage, and if you raised Pleuratus, who had done nothing beyond keeping faith, to be the greatest ruler in Illyria, but then treated as nothing us who, through our forefathers, have worked with you in the greatest and finest of your achievements.
 
 What, then, is it that I ask, and what do I say we ought to receive from you?
 
@@ -450,17 +438,13 @@ After them the Rhodians came in. After briefly mentioning what they themselves h
 
 They said that the greatest difficulty of this embassy was that circumstances had set them in opposition to a king to whom both publicly and privately they were closely attached.
 
-Their own city, they said, believed that the finest course, and the one most fitting for the Romans, was that the Greeks in Asia should be set free and enjoy autonomy, the possession dearest to all men; but for Eumenes and his brothers this was the least advantageous outcome. For every monarchy naturally hates equality
-
-and seeks to have all men—or at least as many as possible—subject and obedient.
+Their own city, they said, believed that the finest course, and the one most fitting for the Romans, was that the Greeks in Asia should be set free and enjoy autonomy, the possession dearest to all men; but for Eumenes and his brothers this was the least advantageous outcome. For every monarchy naturally hates equality and seeks to have all men—or at least as many as possible—subject and obedient.
 
 Yet, though this was the state of things, they said they were convinced they would prevail, not because Eumenes had less influence with the Romans, but because their advice was more just and clearly more beneficial for all.
 
 If there were no other way for the Romans to repay Eumenes except by handing over to him the autonomous cities, then there might well be a real difficulty in the present case.
 
-They would have to choose either to neglect a true friend,
-
-or to disregard what was noble and fitting for themselves and so dim and tarnish the final glory of their own achievements.
+They would have to choose either to neglect a true friend, or to disregard what was noble and fitting for themselves and so dim and tarnish the final glory of their own achievements.
 
 But if both ends can be adequately provided for, who could still feel uncertainty on this point?
 
@@ -470,7 +454,7 @@ Lycaonia, Hellespontine Phrygia, Pisidia, and besides these the Chersonese and t
 
 Added to the kingdom of Eumenes, these could make it ten times what it now is; and if all or most of them were assigned to him, his power would be inferior to no other monarchy.
 
-## Book 21 Chapter 23: Conclusion of the Rhodians' Speech
+## Book 21 Chapter 23: Conclusion of the Rhodians’ Speech
 
 So, men of Rome, it is possible both to strengthen your friends on a generous scale and not to lower the splendor of your own policy.
 
@@ -500,15 +484,13 @@ When the Rhodians had spoken in this way, they seemed to everyone to have spoken
 
 ## Book 21 Chapter 24: The Decision of the Senate
 
-After this the senate introduced Antiochus's envoys, Antipater and Zeuxis.
+After this the senate introduced Antiochus’s envoys, Antipater and Zeuxis.
 
 They spoke with dignity and earnest appeal, and the senate approved the agreements already made with Scipio in Asia.
 
 A few days later the people ratified them as well, and oaths were sworn on these terms with Antipater and his colleagues.
 
-After that they also introduced the rest of the envoys who were present from Asia; they listened only briefly,
-
-but gave them all the same answer: that they were sending ten commissioners to decide all disputed questions among the cities.
+After that they also introduced the rest of the envoys who were present from Asia; they listened only briefly, but gave them all the same answer: that they were sending ten commissioners to decide all disputed questions among the cities.
 
 Having given this answer, they then appointed the ten commissioners, entrusting them with the details.
 
@@ -524,9 +506,9 @@ For the people of Soli, like the Rhodians, were colonists from Argos, and on tha
 
 Therefore they said it was just that the people of Soli should receive freedom from the Romans through Rhodian good offices.
 
-When the senate heard this, it summoned Antiochus's envoys and at first ordered that Antiochus should give up all Cilicia. But when Antipater and his party refused, on the ground that this went beyond the treaty, the senate turned again to the case of Soli by itself.
+When the senate heard this, it summoned Antiochus’s envoys and at first ordered that Antiochus should give up all Cilicia. But when Antipater and his party refused, on the ground that this went beyond the treaty, the senate turned again to the case of Soli by itself.
 
-Since the king's envoys pressed their opposition strongly, the senate dismissed them, called in the Rhodians, explained the objections raised by Antipater's party, and added that it would endure anything if the Rhodians had firmly resolved on this point.
+Since the king’s envoys pressed their opposition strongly, the senate dismissed them, called in the Rhodians, explained the objections raised by Antipater’s party, and added that it would endure anything if the Rhodians had firmly resolved on this point.
 
 But the Rhodian envoys, pleased by the zeal of the senate, said they would ask for nothing further; so the matter remained where it stood.
 
@@ -548,7 +530,7 @@ Nicander the general gathered the levy of the whole nation and invaded Amphiloch
 
 Since most of the inhabitants willingly came over to them, they moved on into Aperantia. When that region also joined them voluntarily, they campaigned next in Dolopia.
 
-The people there at first made some show of resistance out of loyalty to Philip, but when they considered what had happened to the Athamanians and Philip's weakness there, they quickly changed their minds and went over to the Aetolians.
+The people there at first made some show of resistance out of loyalty to Philip, but when they considered what had happened to the Athamanians and Philip’s weakness there, they quickly changed their minds and went over to the Aetolians.
 
 Since events had gone so well, Nicander led the army home, thinking Aetolia now secured by the peoples and places just mentioned, so that no one could any longer harm their territory.
 
@@ -566,9 +548,7 @@ When envoys from Epirus came to the Roman general, he consulted with them about 
 
 They advised him to march on Ambracia—since the Ambraciots at that time belonged politically with the Aetolians.
 
-They argued that if the Aetolians chose to accept battle, the country around that city offered the best possible ground for the armies to fight on, and that if they lost heart,
-
-the city itself was well situated for a siege. The region had abundant supplies for building siege works, and the river Aratthus, flowing past the city, would help both the needs of the camp in summer and the safety of the siege operations.
+They argued that if the Aetolians chose to accept battle, the country around that city offered the best possible ground for the armies to fight on, and that if they lost heart, the city itself was well situated for a siege. The region had abundant supplies for building siege works, and the river Aratthus, flowing past the city, would help both the needs of the camp in summer and the safety of the siege operations.
 
 Since the envoys seemed to be advising well, the general broke camp and led the army through Epirus against Ambracia.
 
@@ -594,7 +574,7 @@ So strong in some men is the drive and eagerness to grasp more.
 
 Yet on this occasion chance itself aided his greed, so that because of the turn events took, his irrationality won praise and approval from everyone.
 
-For a few days later letters arrived from Rome ordering the men's release, and so he alone was freed without ransom.
+For a few days later letters arrived from Rome ordering the men’s release, and so he alone was freed without ransom.
 
 When the Aetolians heard how his affair had turned out, they appointed Damoteles once again as envoy to Rome.
 
@@ -634,17 +614,13 @@ From this they began to dig continuously, night and day in relays.
 
 For several days they escaped the notice of those inside while carrying the earth out through the shaft.
 
-But when the pile of excavated soil became large and visible from the city, the leaders of the besieged vigorously dug a trench inside, parallel to the wall and to the gallery opposite the towers. When it had reached a sufficient depth,
-
-they set a continuous row of thin bronze vessels along the side nearest the wall, and walking by them in the trench listened for the sound of digging from outside.
+But when the pile of excavated soil became large and visible from the city, the leaders of the besieged vigorously dug a trench inside, parallel to the wall and to the gallery opposite the towers. When it had reached a sufficient depth, they set a continuous row of thin bronze vessels along the side nearest the wall, and walking by them in the trench listened for the sound of digging from outside.
 
 Once they had marked the spot where one of the vessels signaled by sympathetic vibration, they dug an underground cross-passage from within toward the existing trench under the wall, aiming to meet the enemy head-on.
 
 This was quickly achieved, because the Romans had not only reached the wall underground but had already propped up a considerable stretch of wall on both sides of the mine, and so the two sides encountered one another.
 
-At first they fought underground with pikes; but because neither side could do much, since both protected themselves with shields and wicker screens,
-
-someone then suggested to the defenders that they place at the width of the tunnel a large jar, bore a hole through its bottom, insert an iron tube as long as the vessel, fill the whole jar with fine feathers, and put a very small fire under it near the rim.
+At first they fought underground with pikes; but because neither side could do much, since both protected themselves with shields and wicker screens, someone then suggested to the defenders that they place at the width of the tunnel a large jar, bore a hole through its bottom, insert an iron tube as long as the vessel, fill the whole jar with fine feathers, and put a very small fire under it near the rim.
 
 Then they were to fit over the mouth an iron lid full of holes and carefully push it into the mine with its opening facing the enemy.
 
@@ -718,9 +694,7 @@ When he reached the place called Amphilochian Argos, one hundred and eighty stad
 
 There Damoteles and his companions met him and explained that the Aetolians had resolved to ratify the agreement made through them. So they separated, the Aetolians going home and Marcus returning to Ambracia.
 
-Once there, he began preparations to transport the army across to Cephallenia,
-
-while the Aetolians appointed Phaeneas and Nicander as envoys and sent them to Rome about the peace.
+Once there, he began preparations to transport the army across to Cephallenia, while the Aetolians appointed Phaeneas and Nicander as envoys and sent them to Rome about the peace.
 
 For none of the terms already mentioned had any force at all unless the Roman people also approved them.
 
@@ -740,9 +714,7 @@ In particular Leon son of Hicesias seemed to have spoken well in other respects 
 
 He said that Roman anger against the Aetolians was understandable, because although the Aetolians had received many benefits from Rome, instead of repaying them with gratitude they had brought Roman supremacy into great danger by igniting the war with Antiochus.
 
-Yet the senate was mistaken in one respect,
-
-in directing its anger against the mass of the people. In states, he said, what happens to the multitude is very like what happens at sea.
+Yet the senate was mistaken in one respect, in directing its anger against the mass of the people. In states, he said, what happens to the multitude is very like what happens at sea.
 
 The sea by its own nature is always calm and settled, and in general such that it would never disturb those who approach and use it.
 
@@ -750,9 +722,7 @@ But when violent winds fall upon it and force it into unnatural motion, then not
 
 “As long as they remained undisturbed, they were the most loyal of all Greeks to you and the surest partners in action.
 
-But when Thoas and Dicaearchus blew in from Asia, and Menestas and Damocritus from Europe, and threw the masses into confusion, forcing them against their nature in all they said and did,
-
-then, in their bad judgment, they wished to harm you but instead became the cause of disaster to themselves.
+But when Thoas and Dicaearchus blew in from Asia, and Menestas and Damocritus from Europe, and threw the masses into confusion, forcing them against their nature in all they said and did, then, in their bad judgment, they wished to harm you but instead became the cause of disaster to themselves.
 
 Therefore you should be implacable toward those men, but pity the many and make peace with them, knowing that once they have become themselves again—and now, beyond all else, have been saved by you—they will once more prove the most loyal of all Greeks.”
 
@@ -768,17 +738,13 @@ They shall not allow enemies to pass through their land or cities against the Ro
 
 And whenever the Romans are at war with anyone, the people of the Aetolians shall also be at war with them.
 
-The Aetolians shall restore all Roman and allied deserters, runaway slaves, and prisoners,
-
-except those who, after being captured in war, returned to their own country and were later captured again, and except those who became enemies of Rome at the time when the Aetolians were fighting on Rome's side; these are to be handed over within one hundred days from the swearing of the oaths to the Roman official in Corcyra.
+The Aetolians shall restore all Roman and allied deserters, runaway slaves, and prisoners, except those who, after being captured in war, returned to their own country and were later captured again, and except those who became enemies of Rome at the time when the Aetolians were fighting on Rome’s side; these are to be handed over within one hundred days from the swearing of the oaths to the Roman official in Corcyra.
 
 If some are not discovered within that time, then whenever they are found they shall be handed over without deceit; and after the oaths they are not to be allowed to return to Aetolia.
 
 The Aetolians shall pay at once to the commander in Greece two hundred Euboic talents of silver, of no worse quality than Attic silver, though if they wish they may pay one third of the amount in gold, reckoning one mina of gold for ten minae of silver.
 
-And from the day on which the oaths are sworn, for the first six years they shall pay fifty talents each year, depositing the money in Rome. The Aetolians shall also give forty hostages to the commander,
-
-not younger than twelve and not older than forty years, for a term of six years, chosen by the Romans, excepting the general, the cavalry commander, the public secretary, and anyone who has already served as a hostage in Rome. These hostages are to be delivered in Rome.
+And from the day on which the oaths are sworn, for the first six years they shall pay fifty talents each year, depositing the money in Rome. The Aetolians shall also give forty hostages to the commander, not younger than twelve and not older than forty years, for a term of six years, chosen by the Romans, excepting the general, the cavalry commander, the public secretary, and anyone who has already served as a hostage in Rome. These hostages are to be delivered in Rome.
 
 If any of the hostages die, they shall replace him with another.
 
@@ -812,11 +778,9 @@ At the very time when the embassies in Rome were dealing with the treaty with An
 
 And when he had approved of the young man at their meeting, he immediately sent him away to Pergamum.
 
-## Book 21 Chapter 34: MoagĕTes of Cibyra
+## Book 21 Chapter 34: Moagetes of Cibyra
 
-Moagetes was tyrant of Cibyra, a cruel and treacherous man,
-
-and he deserves remembrance not in passing, but with deliberate notice worthy of his character.
+Moagetes was tyrant of Cibyra, a cruel and treacherous man, and he deserves remembrance not in passing, but with deliberate notice worthy of his character.
 
 When the Roman consul Gnaeus approached Cibyra and Helvius had been sent ahead to discover what attitude he meant to take, Moagetes sent envoys begging that the countryside not be ravaged, since he was a friend of the Romans and would do whatever was ordered.
 
@@ -824,9 +788,7 @@ At the same time he also offered a crown worth fifteen talents.
 
 On hearing this, Helvius said he would refrain from ravaging the territory, but told him to negotiate with the commander himself about the whole matter, since he was following close behind with the army.
 
-After this Moagetes sent not only envoys but also his own brother along with them. When Gnaeus met them on the march, he spoke to the envoys in a strained and bitter tone,
-
-saying that Moagetes was not only the least friendly to Rome of all the dynasts in Asia, but that in his whole strength and conduct he deserved to be stripped of power and punished.
+After this Moagetes sent not only envoys but also his own brother along with them. When Gnaeus met them on the march, he spoke to the envoys in a strained and bitter tone, saying that Moagetes was not only the least friendly to Rome of all the dynasts in Asia, but that in his whole strength and conduct he deserved to be stripped of power and punished.
 
 Terrified by this display of anger, the envoys gave up the rest of their instructions and merely asked him to grant an interview.
 
@@ -838,9 +800,7 @@ For he ruled Cibyra, Syleium, and the city in the Marsh.
 
 Gnaeus, astonished at his shamelessness, said nothing else to him except that if he did not gladly pay five hundred talents, he would not merely ravage the countryside, but would besiege and plunder the city itself.
 
-Then Moagetes, terrified at what was coming, begged him not to do anything of the kind. Little by little he kept increasing the money offered,
-
-and in the end persuaded Gnaeus, after taking one hundred talents and ten thousand medimni of wheat, to admit him to friendship.
+Then Moagetes, terrified at what was coming, begged him not to do anything of the kind. Little by little he kept increasing the money offered, and in the end persuaded Gnaeus, after taking one hundred talents and ten thousand medimni of wheat, to admit him to friendship.
 
 ## Book 21 Chapter 35: Pacification of Pamphylia
 
@@ -868,27 +828,21 @@ When envoys came to him, he received them and, after taking a crown worth fifty 
 
 Gnaeus, the Roman commander, sent envoys to the Galatian Eposognatus, asking him to negotiate with the Galatian kings.
 
-Eposognatus in turn sent envoys to Gnaeus and urged the Roman commander not to strike first or lay hands on the Tolistobogian Galatians,
-
-since Eposognatus himself would go to their kings and speak with them about friendship and was confident that he could persuade them to take a proper course in every respect.
+Eposognatus in turn sent envoys to Gnaeus and urged the Roman commander not to strike first or lay hands on the Tolistobogian Galatians, since Eposognatus himself would go to their kings and speak with them about friendship and was confident that he could persuade them to take a proper course in every respect.
 
 As the Roman consul Gnaeus advanced, he bridged the river Sangarius, which was deep and difficult to cross.
 
-While he was encamped by the river, Galli came from Attis and Battacus, priests at Pessinus of the Mother of the Gods,
-
-wearing breast-images and sacred emblems, and declaring that the goddess announced victory and power to him.
+While he was encamped by the river, Galli came from Attis and Battacus, priests at Pessinus of the Mother of the Gods, wearing breast-images and sacred emblems, and declaring that the goddess announced victory and power to him.
 
 Gnaeus received them kindly.
 
-Later, when Gnaeus was near the little town called Gordium, envoys came from Eposognatus announcing that he had gone and spoken with the Galatian kings,
-
-but that they would not agree to any friendly arrangement at all. Instead, they had gathered their children, women, and all their possessions on the mountain called Olympus and stood ready for battle.
+Later, when Gnaeus was near the little town called Gordium, envoys came from Eposognatus announcing that he had gone and spoken with the Galatian kings, but that they would not agree to any friendly arrangement at all. Instead, they had gathered their children, women, and all their possessions on the mountain called Olympus and stood ready for battle.
 
 ## Book 21 Chapter 38: A Gallic Woman Takes Vengeance
 
 Chiomara, the wife of Ortiagon, was among the prisoners taken together with the other women when Gnaeus and the Romans defeated the Galatians in Asia.
 
-The centurion who took her used his opportunity in a soldier's fashion and violated her.
+The centurion who took her used his opportunity in a soldier’s fashion and violated her.
 
 He was a man enslaved alike to pleasure and to money; yet greed finally got the better of him, and when a large amount of gold was agreed upon as ransom for the woman, he led her away to release her, with a river lying between the two sides.
 
@@ -902,9 +856,7 @@ Polybius says that he himself met and spoke with this woman at Sardis and admire
 
 ## Book 21 Chapter 39: Attempted Treachery By the Gauls
 
-After the Romans had won their victory over the Galatians and were encamped near the city of Ancyra, with Gnaeus the commander preparing to advance farther,
-
-envoys came from the Tectosages asking Gnaeus to leave his forces where they were, but on the following day to come himself to the space between the camps. Their kings, they said, would also come and discuss terms of settlement.
+After the Romans had won their victory over the Galatians and were encamped near the city of Ancyra, with Gnaeus the commander preparing to advance farther, envoys came from the Tectosages asking Gnaeus to leave his forces where they were, but on the following day to come himself to the space between the camps. Their kings, they said, would also come and discuss terms of settlement.
 
 Gnaeus agreed and came at the appointed time with five hundred cavalry, but the kings did not appear.
 
@@ -922,7 +874,7 @@ But the Galatians were using these delays and maneuvering against the Romans bec
 
 With that plan fixed, they watched the next day for the Romans to appear, having a thousand cavalry ready.
 
-Gnaeus heard Attalus's report and, persuaded that the kings would come, rode out as usual with five hundred cavalry.
+Gnaeus heard Attalus’s report and, persuaded that the kings would come, rode out as usual with five hundred cavalry.
 
 It happened that on the previous days the Roman parties sent out for wood and fodder had gone in this same direction, taking advantage of the cavalry escort that accompanied those going to the conference.
 
@@ -940,23 +892,23 @@ Olympiad 147, year 4. Affairs in Asia.
 
 At this time, while Gnaeus the Roman commander was wintering at Ephesus in the last year of the Olympiad in question, embassies came both from the Greek cities in Asia and from many others, bringing crowns to Gnaeus because he had defeated the Galatians.
 
-For all who lived on this side of Taurus rejoiced at Antiochus's defeat not so much because some thought they were released from tribute, others from garrisons, and everyone generally from royal commands, as because the fear inspired by the barbarians had been taken away and they seemed delivered from the barbarians' violence and lawlessness.
+For all who lived on this side of Taurus rejoiced at Antiochus’s defeat not so much because some thought they were released from tribute, others from garrisons, and everyone generally from royal commands, as because the fear inspired by the barbarians had been taken away and they seemed delivered from the barbarians’ violence and lawlessness.
 
 Musaeus also came from Antiochus, and envoys from the Galatians, wanting to learn on what terms they might make friendship.
 
-So too envoys came from Ariarathes, king of Cappadocia. For he also, having shared Antiochus's hopes and taken part in the battle against the Romans, was fearful and perplexed about his own fate.
+So too envoys came from Ariarathes, king of Cappadocia. For he also, having shared Antiochus’s hopes and taken part in the battle against the Romans, was fearful and perplexed about his own fate.
 
 Therefore he repeatedly sent embassies, wishing to learn what payment or what action might obtain pardon for his mistake.
 
 The commander praised all the embassies from the cities and received them kindly before dismissing them.
 
-To the Galatians he replied that once he had welcomed King Eumenes, he would then conclude arrangements with them. To Ariarathes' envoys he said that if they paid six hundred talents, they might have peace.
+To the Galatians he replied that once he had welcomed King Eumenes, he would then conclude arrangements with them. To Ariarathes’ envoys he said that if they paid six hundred talents, they might have peace.
 
-To Antiochus's envoy he arranged that he would come with the army to the borders of Pamphylia to receive the two thousand five hundred talents and the grain the king owed his soldiers under the agreements previously made with Lucius.
+To Antiochus’s envoy he arranged that he would come with the army to the borders of Pamphylia to receive the two thousand five hundred talents and the grain the king owed his soldiers under the agreements previously made with Lucius.
 
 After this he purified the army, and since the season now allowed it, he broke camp with Attalus, reached Apamea on the eighth day, stayed there three days, and on the fourth marched on again with forced marches.
 
-On the third day after that he came to the place appointed for meeting Antiochus's people and encamped there.
+On the third day after that he came to the place appointed for meeting Antiochus’s people and encamped there.
 
 When Musaeus and his companions met him and begged him to stay because the wagons and pack animals bringing the grain and money were delayed, he agreed and remained three days.
 
@@ -982,7 +934,7 @@ He himself broke camp with the rest of the army and hurried on, eager to join Eu
 
 When he reached Apamea and found both the king and the ten, he sat in council with them about affairs.
 
-They decided first to ratify the oaths and treaty with Antiochus, concerning which there is no need to say more at length, since one can form one's judgment from the written terms themselves.
+They decided first to ratify the oaths and treaty with Antiochus, concerning which there is no need to say more at length, since one can form one’s judgment from the written terms themselves.
 
 ## Book 21 Chapter 43: Settlement of Asia
 
@@ -1000,9 +952,9 @@ His soldiers were to take nothing out except the weapons they were carrying; if 
 
 They were not to receive from the realm of King Eumenes either soldiers or anyone else.
 
-If any of Antiochus's troops were in the cities being taken over by the Romans, they were to be returned to Apamea.
+If any of Antiochus’s troops were in the cities being taken over by the Romans, they were to be returned to Apamea.
 
-But any persons from Antiochus's kingdom who were with the Romans and their allies were to be free either to remain where they were, if they wished, or to run away.
+But any persons from Antiochus’s kingdom who were with the Romans and their allies were to be free either to remain where they were, if they wished, or to run away.
 
 Antiochus and those under him were to restore the slaves of the Romans and their allies, as well as prisoners and deserters, and any captives they might have received from any source.
 
@@ -1024,9 +976,7 @@ If Antiochus had given to others any of the cities he was now bound to restore, 
 
 Antiochus was to pay the Romans twelve thousand talents of the best Attic silver over twelve years, one thousand each year, each talent weighing not less than eighty Roman pounds, and also five hundred and forty thousand modii of grain.
 
-He was also to pay King Eumenes three hundred and fifty talents over the first five years, seventy each year at the season when he also paid the Romans,
-
-and, in place of the grain as valued by Antiochus himself, one hundred and twenty-seven talents and one thousand two hundred and eight drachmas, which Eumenes agreed to accept in satisfaction.
+He was also to pay King Eumenes three hundred and fifty talents over the first five years, seventy each year at the season when he also paid the Romans, and, in place of the grain as valued by Antiochus himself, one hundred and twenty-seven talents and one thousand two hundred and eight drachmas, which Eumenes agreed to accept in satisfaction.
 
 Antiochus was to give twenty hostages, replacing them every three years with others, none younger than eighteen and none older than forty-five.
 
@@ -1044,7 +994,7 @@ If both parties by common agreement wished to add anything to the treaty or remo
 
 When the oaths on these terms had been sworn, the commander at once sent Quintus Minucius Thermus and his brother Lucius—who had only just brought back the money from the Oroandians—into Syria.
 
-They were instructed to receive the king's oaths and confirm the particular clauses of the treaty.
+They were instructed to receive the king’s oaths and confirm the particular clauses of the treaty.
 
 He also sent dispatches to Quintus Fabius, commander of the fleet, ordering him to sail once more to Patara, take over the ships lying there, and burn them.
 
@@ -1052,13 +1002,13 @@ He also sent dispatches to Quintus Fabius, commander of the fleet, ordering him 
 
 Manlius the proconsul, after exacting three hundred talents from Ariarathes, made him a friend of the Romans.
 
-## Book 21 Chapter 46: The Romans Burn Antiochus's Ships at Patara
+## Book 21 Chapter 46: The Romans Burn Antiochus’s Ships at Patara
 
 At Apamea the ten commissioners and Gnaeus, the Roman commander, heard everyone who had come before them. In cases where men disputed about territory, money, or some other matter, they assigned to them cities acknowledged by both sides as places in which the disputed claims were to be judged. Their general settlement, however, was as follows.
 
 All autonomous cities that had formerly paid tribute to Antiochus but had remained loyal to Rome were released from tribute; while those that had paid assessed contributions to Attalus were ordered to pay the same tribute to Eumenes.
 
-If any cities had revolted from friendship with Rome and fought on Antiochus's side, they were ordered to pay to Eumenes the tribute formerly assigned to Antiochus.
+If any cities had revolted from friendship with Rome and fought on Antiochus’s side, they were ordered to pay to Eumenes the tribute formerly assigned to Antiochus.
 
 The Colophonians living at Notium, the Cymaeans, and the people of Mylasa were left tax-free.
 
@@ -1074,12 +1024,12 @@ As for King Eumenes and his brothers, they had already made as much provision fo
 
 In Asia they gave him Hellespontine Phrygia, Greater Phrygia, the Mysians whom Prusias had previously detached from him, Lycaonia, Milyas, Lydia, Tralles, Ephesus, and Telmessus.
 
-These were the gifts they assigned to Eumenes. But regarding Pamphylia, since Eumenes claimed it lay on this side of Taurus while Antiochus's envoys claimed the opposite, they referred the matter to the senate.
+These were the gifts they assigned to Eumenes. But regarding Pamphylia, since Eumenes claimed it lay on this side of Taurus while Antiochus’s envoys claimed the opposite, they referred the matter to the senate.
 
 When most of the necessary and important arrangements had thus been completed, they broke camp and marched toward the Hellespont, wishing on the way to secure matters still further in regard to the Galatians.
 
 ## Book 21 Chapter 47: Ariarathes Declared a Friend of Rome
 
-On the Romans' return journey they suffered many terrible things at the hands of the Thracians...
+On the Romans’ return journey they suffered many terrible things at the hands of the Thracians...
 
 The surviving Greek here is badly mutilated; only the opening sense can be translated with confidence.

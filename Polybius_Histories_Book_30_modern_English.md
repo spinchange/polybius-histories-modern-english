@@ -18,7 +18,7 @@ So he came close to ruining his own position and the whole kingdom.
 
 For most Romans had become estranged from King Eumenes and his goodwill, and were convinced that during the war he had played a crooked game, talking with Perseus and watching for opportunities against them.
 
-Therefore some of the prominent men took Attalus in hand and urged him to put aside the embassy on his brother's behalf and speak instead about his own interests.
+Therefore some of the prominent men took Attalus in hand and urged him to put aside the embassy on his brother’s behalf and speak instead about his own interests.
 
 For, they said, the Senate wished to establish for him a separate power and kingship because of its estrangement from his brother.
 
@@ -28,9 +28,7 @@ At last he even came to an understanding with certain men of standing that he wo
 
 ## Book 30 Chapter 2: Stratius Sent to Attalus
 
-With opinion at Rome standing this way about Attalus, the king, foreseeing what was coming, sent Stratius the physician to Rome, a man in whom he had the greatest confidence,
-
-showing him some things and instructing him in others to use every device to keep Attalus from following those who wanted to destroy their kingdom.
+With opinion at Rome standing this way about Attalus, the king, foreseeing what was coming, sent Stratius the physician to Rome, a man in whom he had the greatest confidence, showing him some things and instructing him in others to use every device to keep Attalus from following those who wanted to destroy their kingdom.
 
 When Stratius arrived in Rome and got Attalus into his hands, he used many different arguments, for he was a man of good sense and persuasive power.
 
@@ -52,7 +50,7 @@ By pressing these points and others like them, Stratius persuaded Attalus to rem
 
 Accordingly, when the man already mentioned entered the Senate, he congratulated it on what had happened and defended the goodwill and zeal he had personally shown in the war against Perseus.
 
-In the same way he also urged at length that envoys should be sent to check the Galatians' recklessness and restore them to their former disposition.
+In the same way he also urged at length that envoys should be sent to check the Galatians’ recklessness and restore them to their former disposition.
 
 He also spoke about Aenus and the city of Maronea, asking that these should be granted to him as a gift.
 
@@ -72,19 +70,15 @@ This will become clear from their actions.
 
 Envoys also came from Rhodes, first the party led by Philocrates, and after them those led by Philophron and Astymedes.
 
-For when the Rhodians received the answer that Agesipolis and his colleagues had obtained immediately after the battle, and saw from it the Senate's anger and threatening posture toward them, they at once sent the embassies just mentioned.
+For when the Rhodians received the answer that Agesipolis and his colleagues had obtained immediately after the battle, and saw from it the Senate’s anger and threatening posture toward them, they at once sent the embassies just mentioned.
 
 But Astymedes and Philophron, perceiving from their interviews, both public and private, the suspicion and estrangement people felt toward them, fell into complete discouragement and helpless distress.
 
-And when one of the praetors mounted the Rostra and called on the crowd to make war on Rhodes,
-
-then indeed, utterly losing their composure because of the danger threatening their country, they went so far as to put on dark clothing and in their appeals no longer tried to persuade or make demands of their friends, but begged them with tears not to decide on any irreparable measure against them.
+And when one of the praetors mounted the Rostra and called on the crowd to make war on Rhodes, then indeed, utterly losing their composure because of the danger threatening their country, they went so far as to put on dark clothing and in their appeals no longer tried to persuade or make demands of their friends, but begged them with tears not to decide on any irreparable measure against them.
 
 Some days later Antony the tribune introduced them, the same man who had dragged down from the Rostra the praetor who was urging war; and Philophron spoke first, followed by Astymedes.
 
-Then, after uttering what the proverb calls a swan-song, they received such an answer that they seemed released from their total fear of war,
-
-but regarding the specific charges against them the Senate rebuked them harshly and bitterly.
+Then, after uttering what the proverb calls a swan-song, they received such an answer that they seemed released from their total fear of war, but regarding the specific charges against them the Senate rebuked them harshly and bitterly.
 
 The sense of the reply was this: if it were not for a few men who were their own friends, and especially for these envoys themselves, the Senate well knew how it ought, justly, to deal with them.
 
@@ -100,9 +94,7 @@ And conversely, the faults of others he reproached bitterly and maliciously, whi
 
 This kind of defense, however, would never seem fitting for a statesman.
 
-Even in cases where men have acted together in certain secret matters, we do not praise those who, out of fear or for profit, turn informer against their accomplices; rather,
-
-we approve those who accept every torture and punishment and do not make any of their fellow-plotters share the same disaster. These are the men we accept; these are the men we consider noble. But the man who, because of some vague fear, lays all other people's errors before those in power and revives matters that time was carrying off into forgetfulness among the rulers—how could he fail to offend all who hear of it?
+Even in cases where men have acted together in certain secret matters, we do not praise those who, out of fear or for profit, turn informer against their accomplices; rather, we approve those who accept every torture and punishment and do not make any of their fellow-plotters share the same disaster. These are the men we accept; these are the men we consider noble. But the man who, because of some vague fear, lays all other people’s errors before those in power and revives matters that time was carrying off into forgetfulness among the rulers—how could he fail to offend all who hear of it?
 
 ## Book 30 Chapter 5: The Rhodians Try To Excuse Themselves
 
@@ -114,7 +106,7 @@ So it always happens: when men expect greater disasters, lesser troubles are for
 
 Accordingly they immediately voted a crown for Rome worth ten thousand gold pieces, and appointed Theaetetus to serve both as envoy and admiral. At the beginning of summer they sent him with the crown, together with Rhodophon and the rest of the embassy, to try by every possible means to conclude an alliance with the Romans.
 
-They acted this way because they did not want a formal decree and embassy to suffer a public rebuff if the Romans decided otherwise. Instead, they preferred to make the attempt under the admiral's own authority, since the laws gave an admiral that power.
+They acted this way because they did not want a formal decree and embassy to suffer a public rebuff if the Romans decided otherwise. Instead, they preferred to make the attempt under the admiral’s own authority, since the laws gave an admiral that power.
 
 For the Rhodian constitution was so practical in its workings that, although the people had for almost a hundred and forty years shared with Rome in some of the most distinguished and admirable enterprises, they had never entered into a formal alliance with them.
 
@@ -122,31 +114,23 @@ It is worth explaining why the Rhodians managed their affairs in this way.
 
 They did not want any ruler or dominant power to despair of receiving help and alliance from them, and so they refused to bind or commit themselves in advance by oaths and treaties. Instead, by remaining uncommitted, they aimed to profit from the hopes each party placed in them.
 
-On this occasion, however, they were especially eager to obtain this mark of honor from the Romans. It was not that they were desperate for an alliance, nor that they were afraid of anyone at that moment except the Romans themselves,
-
-but that by giving special weight and dignity to the move they hoped to strip away the suspicions of those who were entertaining hostile thoughts about their city. But just after Theaetetus and his party had sailed,
-
-the Caunians revolted, and the people of Mylasa occupied the cities in the district of Euromus.
+On this occasion, however, they were especially eager to obtain this mark of honor from the Romans. It was not that they were desperate for an alliance, nor that they were afraid of anyone at that moment except the Romans themselves, but that by giving special weight and dignity to the move they hoped to strip away the suspicions of those who were entertaining hostile thoughts about their city. But just after Theaetetus and his party had sailed, the Caunians revolted, and the people of Mylasa occupied the cities in the district of Euromus.
 
 At the same time the Senate issued a decree that all the Carians and Lycians who had been assigned to the Rhodians after the war with Antiochus were to be free.
 
 The Rhodians quickly set matters right in the case of the Caunians and the people of Euromus.
 
-They sent Lycon with troops and forced the Caunians to submit to them again,
-
-although the people of Cibyra came to their aid; and when they campaigned against the cities in the district of Euromus, they defeated the men of Mylasa and Alabanda in battle, both peoples having marched with their armies against Orthosia.
+They sent Lycon with troops and forced the Caunians to submit to them again, although the people of Cibyra came to their aid; and when they campaigned against the cities in the district of Euromus, they defeated the men of Mylasa and Alabanda in battle, both peoples having marched with their armies against Orthosia.
 
 But when the decree about the Lycians and Carians reached them, they again became deeply alarmed, fearing that their gift of the crown had been wasted, and that their hopes of an alliance had been vain as well.
 
 ## Book 30 Chapter 6: Greek States and the War With Perseus
 
-Polybius says: I have already called my readers' attention to the conduct of Deinon and Polyaratus.
+Polybius says: I have already called my readers’ attention to the conduct of Deinon and Polyaratus.
 
 For the crisis and the reversal were serious not only at Rhodes, but in almost every Greek state.
 
-So it would be useful to examine the intentions of the politicians in each place and determine which of them acted rationally and which failed in their duty,
-
-so that those who come after us, with these cases set before them like models, may in similar emergencies truly pursue what is worth choosing and avoid what is to be shunned, and may not, by failing to see what is fitting at the final moment of life, suffer the same fate in their last hour as in the actions of their earlier career.
+So it would be useful to examine the intentions of the politicians in each place and determine which of them acted rationally and which failed in their duty, so that those who come after us, with these cases set before them like models, may in similar emergencies truly pursue what is worth choosing and avoid what is to be shunned, and may not, by failing to see what is fitting at the final moment of life, suffer the same fate in their last hour as in the actions of their earlier career.
 
 Now it turned out that there were three distinct classes among those who came under accusation because of the war with Perseus.
 
@@ -178,9 +162,7 @@ The most prominent of these were Hippocrates and his brother Diomedon among the 
 
 ## Book 30 Chapter 8: Shameless Conduct of the Supporters of Perseus
 
-Who could fail to condemn the policy of such men? Their fellow citizens knew everything they had done and said; the letters sent from Perseus to them and from them to Perseus had been intercepted and brought to light;
-
-even the couriers going back and forth on both sides had fallen into their enemies' hands. Yet they still could not bring themselves to yield or remove themselves from the scene, but kept on contesting the case.
+Who could fail to condemn the policy of such men? Their fellow citizens knew everything they had done and said; the letters sent from Perseus to them and from them to Perseus had been intercepted and brought to light; even the couriers going back and forth on both sides had fallen into their enemies’ hands. Yet they still could not bring themselves to yield or remove themselves from the scene, but kept on contesting the case.
 
 By persisting in this way and clinging to life when all hope was gone, they destroyed whatever appearance of courage and daring had attached to them, and left later generations no room even for pity or indulgence.
 
@@ -208,17 +190,13 @@ If anyone had asked him what he actually wanted, I am persuaded that he could no
 
 And if he wanted to go to Rome, then whether he wished it or not, that was bound to happen. What other possibility was left? There was no other place that could receive him safely.
 
-Even so, when the people of Phaselis sent to Rhodes and asked them to come fetch Polyaratus and take charge of him, the Rhodians wisely decided to send an unarmed escort vessel,
-
-but they forbade its commander to take Polyaratus aboard, because the men from Alexandria had been ordered to convey him on to Rome.
+Even so, when the people of Phaselis sent to Rhodes and asked them to come fetch Polyaratus and take charge of him, the Rhodians wisely decided to send an unarmed escort vessel, but they forbade its commander to take Polyaratus aboard, because the men from Alexandria had been ordered to convey him on to Rome.
 
 When the ship arrived at Phaselis, Epichares, who was in command of it, refused to receive the man on board.
 
 But Demetrius, who had been appointed by the king to conduct his transfer, ordered him to get up and sail on, and the people of Phaselis backed him, because they were afraid that otherwise some blame from the Romans would fall on them.
 
-So Polyaratus, overwhelmed by the situation, went back aboard the boat with Demetrius. But during the departure, seizing a favorable moment,
-
-he ran off and took refuge again, this time in Caunus, and there likewise begged the Caunians to help him.
+So Polyaratus, overwhelmed by the situation, went back aboard the boat with Demetrius. But during the departure, seizing a favorable moment, he ran off and took refuge again, this time in Caunus, and there likewise begged the Caunians to help him.
 
 When they too pushed him away because they were aligned with Rhodes, he sent messages to the people of Cibyra, begging them to receive him into their city and send him an escort.
 
@@ -230,9 +208,7 @@ For they neither dared to keep him with them, because they feared danger from Ro
 
 In the end they were forced to send envoys to Rhodes and to the Roman commander in Macedonia, asking them to take charge of the man.
 
-And when Lucius wrote to the Cibyratae to keep Polyaratus under careful guard and send him to Rhodes, and to the Rhodians to arrange transport by sea so that he might be conveyed safely into Roman hands, and both parties obeyed these written instructions,
-
-in this way Polyaratus finally came to Rome, after making as public a spectacle as he could of his own folly and cowardice, and after being handed over, through his own stupidity, not only by King Ptolemy but also by the people of Phaselis, the Cibyratae, and the Rhodians.
+And when Lucius wrote to the Cibyratae to keep Polyaratus under careful guard and send him to Rhodes, and to the Rhodians to arrange transport by sea so that he might be conveyed safely into Roman hands, and both parties obeyed these written instructions, in this way Polyaratus finally came to Rome, after making as public a spectacle as he could of his own folly and cowardice, and after being handed over, through his own stupidity, not only by King Ptolemy but also by the people of Phaselis, the Cibyratae, and the Rhodians.
 
 Why, then, have I gone on at such length about Polyaratus and Deinon?
 
@@ -264,7 +240,7 @@ But afterward, when the Romans took control of affairs and they were cut off fro
 
 Even before this, in their civil war, there was no sort of outrage they did not commit.
 
-And not long before, after having tasted one another's blood in the massacres at Arsinoe, they were ready for anything, their minds so brutalized that they would not even allow their leaders to offer advice.
+And not long before, after having tasted one another’s blood in the massacres at Arsinoe, they were ready for anything, their minds so brutalized that they would not even allow their leaders to offer advice.
 
 That is why conditions in Aetolia were full of disorder, lawlessness, and murder, and nothing they did was carried out with calculation or settled purpose. Everything was done blindly and in confusion, as if some violent storm had burst upon them.
 
@@ -282,9 +258,7 @@ After the fall of Perseus, as soon as the whole issue had everywhere been decide
 
 Since affairs had swung completely over to the Romans, those in every state who were thought to be friends of Rome came to the surface because of the times, and these men were appointed both to embassies and to other public business.
 
-So there came to Macedonia from Achaea Callicrates, Aristodamus, Agesias, and Philip;
-
-from Boeotia the party of Mnasippus, from Acarnania the party of Chremas, from the Epirotes the party of Charops and Nicias, and from the Aetolians the party of Lyciscus and Tisippus.
+So there came to Macedonia from Achaea Callicrates, Aristodamus, Agesias, and Philip; from Boeotia the party of Mnasippus, from Acarnania the party of Chremas, from the Epirotes the party of Charops and Nicias, and from the Aetolians the party of Lyciscus and Tisippus.
 
 When all these men had gathered together and were eagerly competing for the same purpose, and when no one opposed them because all their political adversaries had given way to circumstances and withdrawn completely, the men already mentioned carried their scheme through without a struggle.
 
@@ -292,17 +266,13 @@ As for the other cities and the federal leagues, the ten commissioners issued th
 
 For the most part, these were the very men whom the persons already mentioned had drawn up against their own political rivals, except for a very few who had plainly done something compromising.
 
-But to the Achaean League they sent as envoys two of the most distinguished men among the ten, Gaius Claudius and Gnaeus Domitius,
-
-for two reasons. First, they were afraid that the Achaeans might refuse to obey the written order, and that Callicrates and his associates might even be put in danger, since they were thought to have engineered the accusations against all the Greeks,
-
-which was in fact true; and second, because nothing definite had been found in the captured documents against any of the Achaeans.
+But to the Achaean League they sent as envoys two of the most distinguished men among the ten, Gaius Claudius and Gnaeus Domitius, for two reasons. First, they were afraid that the Achaeans might refuse to obey the written order, and that Callicrates and his associates might even be put in danger, since they were thought to have engineered the accusations against all the Greeks, which was in fact true; and second, because nothing definite had been found in the captured documents against any of the Achaeans.
 
 So after some time the commander sent the letters and the envoys concerning these men, although in his own judgment he did not approve of the slanders made by Lyciscus and Callicrates, as later events themselves made clear.
 
 ## Book 30 Chapter 14: Noisy Scene In A Roman Theatre
 
-It takes the same kind of spirit to stage contests well, to manage lavish preparations and a magnificent drinking party properly, and to draw up a battle line against the enemy with a general's skill.
+It takes the same kind of spirit to stage contests well, to manage lavish preparations and a magnificent drinking party properly, and to draw up a battle line against the enemy with a general’s skill.
 
 ## Book 30 Chapter 15: How to Hold Good Games
 
@@ -318,11 +288,7 @@ They also released Menalcidas the Spartan, who had made energetic use of the cri
 
 At this time Cotys, king of the Odrysians, sent envoys to Rome, asking that his son be restored to him and offering a defense of his cooperation with Perseus.
 
-The Romans, thinking that they had already achieved their purpose, since the war against Perseus had ended as they wished, and that their dispute with Cotys no longer mattered,
-
-allowed him to recover his son, who had been given as a hostage to Macedonia and had been captured along with the children of Perseus,
-
-wishing to display their own clemency and greatness of spirit, and at the same time to bind Cotys to them by such a favor.
+The Romans, thinking that they had already achieved their purpose, since the war against Perseus had ended as they wished, and that their dispute with Cotys no longer mattered, allowed him to recover his son, who had been given as a hostage to Macedonia and had been captured along with the children of Perseus, wishing to display their own clemency and greatness of spirit, and at the same time to bind Cotys to them by such a favor.
 
 ## Book 30 Chapter 18: Cotys, King of the Odrysae
 
@@ -332,9 +298,9 @@ This Prusias was in no way worthy of the title of king. One may judge this from 
 
 When Roman envoys first came to him, he met them with his head shaved, wearing a white felt cap, a toga, and shoes—in short, dressed exactly like those who have only recently been freed among the Romans, whom they call liberti.
 
-And after greeting the envoys he said, "You see before you your freedman, eager in every way to gratify you and imitate your customs." It would not be easy to find a baser remark.
+And after greeting the envoys he said, “You see before you your freedman, eager in every way to gratify you and imitate your customs.” It would not be easy to find a baser remark.
 
-Then, when he made his entrance into the senate, he stood facing the assembly at the doorway and, lowering both hands, bowed in reverence to the threshold and to the men seated there, crying out, "Hail, saving gods!" He left no possible excess of cowardice, effeminacy, and flattery for those who might come after him.
+Then, when he made his entrance into the senate, he stood facing the assembly at the doorway and, lowering both hands, bowed in reverence to the threshold and to the men seated there, crying out, “Hail, saving gods!” He left no possible excess of cowardice, effeminacy, and flattery for those who might come after him.
 
 And in the audience itself he carried on in a manner consistent with this, about which even to write would have been indecent.
 
@@ -346,33 +312,25 @@ Now just when he had received his answers, it happened that Eumenes arrived.
 
 This put the senate in considerable difficulty; for they were prejudiced against him and firmly fixed in their opinions about him, yet did not wish in any way to make their feelings obvious.
 
-For since they had previously proclaimed this king to all the world as their foremost and greatest friend, if they now admitted him to an audience and allowed him to make his defense, then, if they answered in accordance with their real opinions,
-
-they would expose themselves for having valued such a man so highly in earlier times; but if, out of deference to appearances, they gave him a gracious reply, they would be overlooking the truth and the interests of their country.
+For since they had previously proclaimed this king to all the world as their foremost and greatest friend, if they now admitted him to an audience and allowed him to make his defense, then, if they answered in accordance with their real opinions, they would expose themselves for having valued such a man so highly in earlier times; but if, out of deference to appearances, they gave him a gracious reply, they would be overlooking the truth and the interests of their country.
 
 So, since something unwelcome was likely to follow from either course, they found this solution to the dilemma.
 
 Because they were generally displeased by visits from kings, they issued a decree that no king should come to them.
 
-Afterwards, learning that Eumenes had landed in Italy at Brundisium, they sent the quaestor with the decree and instructed him to ask whether he had any business with the senate;
+Afterwards, learning that Eumenes had landed in Italy at Brundisium, they sent the quaestor with the decree and instructed him to ask whether he had any business with the senate; and if he needed nothing, to tell him to leave Italy as quickly as possible.
 
-and if he needed nothing, to tell him to leave Italy as quickly as possible.
-
-When the quaestor met him, the king, recognizing the senate's intention, in the end said nothing more than that he had no need of anything.
+When the quaestor met him, the king, recognizing the senate’s intention, in the end said nothing more than that he had no need of anything.
 
 And so Eumenes was prevented from going up to Rome.
 
 This policy also had another practical consequence.
 
-For as a great danger from the Gauls hung over his kingdom, it was obvious that because of this humiliation all the king's allies would be disheartened, while the Gauls would be doubly encouraged for the war.
+For as a great danger from the Gauls hung over his kingdom, it was obvious that because of this humiliation all the king’s allies would be disheartened, while the Gauls would be doubly encouraged for the war.
 
 And so, being absolutely determined to humble him by every means, they adopted this course.
 
-While these events were still taking place at the beginning of winter, the senate dealt with all who had arrived on embassies—
-
-for there was neither city nor dynast nor king that had not sent an embassy at that time to offer congratulations on what had happened—
-
-and answered them all in a fitting and gracious manner, except the Rhodians.
+While these events were still taking place at the beginning of winter, the senate dealt with all who had arrived on embassies— for there was neither city nor dynast nor king that had not sent an embassy at that time to offer congratulations on what had happened— and answered them all in a fitting and gracious manner, except the Rhodians.
 
 These it dismissed while giving various hints about what was to come. It was still postponing a decision about the Athenians.
 
@@ -384,17 +342,13 @@ But when they were refused a hearing on that point, they changed their approach 
 
 As for Delos and Lemnos, no one could blame them, since they had long laid claim to these islands; but regarding the territory of the Haliartians, one might justly censure them.
 
-For not to do everything possible to restore a city that was among the most ancient in Boeotia after its fall, but instead to blot it out altogether by taking away even the future hopes of its former inhabitants,
-
-would plainly seem fitting to no Greek people, and least of all to the Athenians.
+For not to do everything possible to restore a city that was among the most ancient in Boeotia after its fall, but instead to blot it out altogether by taking away even the future hopes of its former inhabitants, would plainly seem fitting to no Greek people, and least of all to the Athenians.
 
 For to make their own city open to all, while destroying the cities of others, would seem in no way consistent with the character of their state.
 
 Nevertheless, the senate gave them Delos and Lemnos and the territory of the Haliartians. This, then, was how matters concerning the Athenians were settled.
 
-As for Lemnos and Delos, according to the proverb they had taken a wolf by the ears;
-
-for they endured many hardships in their disputes with the Delians, while from the territory of the Haliartians they gained not so much profit as reproach.
+As for Lemnos and Delos, according to the proverb they had taken a wolf by the ears; for they endured many hardships in their disputes with the Delians, while from the territory of the Haliartians they gained not so much profit as reproach.
 
 ## Book 30 Chapter 21: The Athenians and Rhodians
 
@@ -404,9 +358,7 @@ But the senate postponed consideration of the matter, and meanwhile he died a na
 
 Then exiles from both Caunus and Stratoniceia came to Rome and were admitted before the senate, and a decree was passed ordering the Rhodians to withdraw their garrisons from both Caunus and Stratoniceia.
 
-Philophron, Astymedes, and their colleagues, after receiving this reply, sailed home in haste,
-
-fearing that if the Rhodians failed to comply with the order to remove the garrisons, they would create fresh grounds for accusation.
+Philophron, Astymedes, and their colleagues, after receiving this reply, sailed home in haste, fearing that if the Rhodians failed to comply with the order to remove the garrisons, they would create fresh grounds for accusation.
 
 ## Book 30 Chapter 22: Death of Theaetetus of Rhodes
 
@@ -440,15 +392,11 @@ At this time the Cnossians, together with the Gortynians, made war on the Raucia
 
 Meanwhile the Rhodians, when they received the news about the Caunians and saw that Roman anger was still not subsiding, even though they had obeyed every instruction in accordance with the replies they had been given, immediately appointed Aristotle and his colleagues as ambassadors and sent them to Rome, instructing them to make another attempt concerning the alliance.
 
-When they arrived in Rome, at the height of summer, they entered the senate and at once explained how the people had obeyed the commands laid upon them, and they pleaded for the alliance, speaking at length in many different ways. The senate gave them a reply
-
-in which it passed over friendship in silence, and regarding the alliance said that it was not proper for it to grant that request to the Rhodians at present.
+When they arrived in Rome, at the height of summer, they entered the senate and at once explained how the people had obeyed the commands laid upon them, and they pleaded for the alliance, speaking at length in many different ways. The senate gave them a reply in which it passed over friendship in silence, and regarding the alliance said that it was not proper for it to grant that request to the Rhodians at present.
 
 ## Book 30 Chapter 24: Delight at Peraea
 
-For the inhabitants of the Peraea were like slaves unexpectedly released from their chains,
-
-who, unable to believe the good fortune before them, go beyond normal behavior, because they think that those they meet do not recognize or clearly see that they have truly been set free, unless they do something strange and out of the ordinary.
+For the inhabitants of the Peraea were like slaves unexpectedly released from their chains, who, unable to believe the good fortune before them, go beyond normal behavior, because they think that those they meet do not recognize or clearly see that they have truly been set free, unless they do something strange and out of the ordinary.
 
 ## Book 30 Chapter 25
 
@@ -464,11 +412,7 @@ After these came three thousand Thracians and five thousand Gauls. Next marched 
 
 Behind these were the cavalry: one thousand Nisaean horsemen and three thousand of the regular cavalry. Most of them had harness plated with gold and wore golden crowns, while the rest had silver-plated harness.
 
-After them came the cavalry known as the Companions, about one thousand strong, all with gold-plated harness. Next to them was the regiment of the Friends,
-
-equal to them both in numbers and in splendor. After these came one thousand picked horsemen, followed by the corps called the Agema, thought to be the finest body of cavalry,
-
-about one thousand strong. Last came the cataphract cavalry, aptly named because both horses and riders were covered with armor. They too numbered one thousand five hundred.
+After them came the cavalry known as the Companions, about one thousand strong, all with gold-plated harness. Next to them was the regiment of the Friends, equal to them both in numbers and in splendor. After these came one thousand picked horsemen, followed by the corps called the Agema, thought to be the finest body of cavalry, about one thousand strong. Last came the cataphract cavalry, aptly named because both horses and riders were covered with armor. They too numbered one thousand five hundred.
 
 All those mentioned above had purple caparisons, and many had trappings embroidered with gold and figured designs.
 
@@ -482,7 +426,7 @@ Alongside all these were displayed the stories proper to each of them, presented
 
 There also followed images of Night and Day, of Earth and Sky, and of Dawn and Midday.
 
-One may judge the quantity of gold and silver plate from this: for one of the king's friends, Dionysius the secretary, had one thousand boys in the procession carrying silver vessels, and none of them weighed less than one thousand drachmas.
+One may judge the quantity of gold and silver plate from this: for one of the king’s friends, Dionysius the secretary, had one thousand boys in the procession carrying silver vessels, and none of them weighed less than one thousand drachmas.
 
 Six hundred royal pages also passed by carrying gold vessels. Then two hundred women sprinkled perfumes from golden jars.
 
@@ -502,9 +446,7 @@ After the games had been brought to an end, just when they were over, the envoys
 
 Antiochus received them with such tact and friendliness that not only did Tiberius and his colleagues suspect nothing serious or obstructive in his conduct regarding the affairs of Alexandria, but they even condemned those who said anything of the kind, because his welcome was so extraordinarily gracious.
 
-Indeed, besides all his other courtesies, he even yielded the palace itself to the envoys, and in outward appearance almost his diadem as well, though this was not his real disposition,
-
-but rather the exact opposite, since he was very unfriendly toward the Romans.
+Indeed, besides all his other courtesies, he even yielded the palace itself to the envoys, and in outward appearance almost his diadem as well, though this was not his real disposition, but rather the exact opposite, since he was very unfriendly toward the Romans.
 
 ## Book 30 Chapter 28
 
@@ -532,13 +474,13 @@ When many embassies from different places had arrived in Rome, the most notable 
 
 The envoys from Prusias accused King Eumenes, saying that he was taking away some of their territory and not withdrawing from Galatia at all, nor obeying the decrees of the senate.
 
-Instead, they said, he was drawing into his own camp those who favored his interests, while in every possible way diminishing those who preferred the Roman side and wished to conduct their public life in accordance with the senate's decisions.
+Instead, they said, he was drawing into his own camp those who favored his interests, while in every possible way diminishing those who preferred the Roman side and wished to conduct their public life in accordance with the senate’s decisions.
 
 There were also envoys from the cities of Asia who accused the king, hinting at collusion with Antiochus.
 
 After hearing the accusers, the senate neither dismissed the charges nor revealed its own opinion, but kept its judgment to itself, being generally suspicious of both Eumenes and Antiochus.
 
-At the same time it was always adding something to the Galatians' cause and strengthening them in the matter of their freedom.
+At the same time it was always adding something to the Galatians’ cause and strengthening them in the matter of their freedom.
 
 The commissioners with Tiberius, when they returned from their embassy, were unable either to learn anything more precise themselves or to make anything clearer to the senate about the affairs of Eumenes and Antiochus than what they had already thought while still in Rome.
 
@@ -552,21 +494,17 @@ Astymedes came in and spoke with restraint, and much better than on the previous
 
 For he gave up accusing others and instead turned to pleading for pardon, like men under the lash begging to be spared the blows, saying that his country had already suffered penalties enough, greater than its offense deserved.
 
-He then went on to explain its losses,
+He then went on to explain its losses, summarizing them point by point. First, he said, they had lost Lycia and Caria, regions on which they had spent a great deal of money from the beginning, having been compelled to wage three wars over them, and from which they had once received considerable revenues.
 
-summarizing them point by point. First, he said, they had lost Lycia and Caria, regions on which they had spent a great deal of money from the beginning, having been compelled to wage three wars over them, and from which they had once received considerable revenues.
-
-"But perhaps," he said, "that can still be justified. You yourselves gave those districts to our people as a favor because of our goodwill, and when suspicion and estrangement arose between us, you could plausibly think it reasonable to take them away again.
+“But perhaps,” he said, “that can still be justified. You yourselves gave those districts to our people as a favor because of our goodwill, and when suspicion and estrangement arose between us, you could plausibly think it reasonable to take them away again.
 
 But Caunus, surely, we bought for two hundred talents from the generals of Ptolemy, and Stratoniceia we received as a great favor from Antiochus, the son of Seleucus.
 
-From these two cities together a yearly revenue of one hundred and twenty talents came to our people. Of all this income we have been deprived,
-
-because we wished to obey your commands.
+From these two cities together a yearly revenue of one hundred and twenty talents came to our people. Of all this income we have been deprived, because we wished to obey your commands.
 
 By doing this you have laid a heavier burden on the Rhodians for a single mistake than on the Macedonians, who were your enemies at all times.
 
-And the greatest blow of all to our city is this: your making Delos a free port has ruined our harbor revenues, and you have taken away the people's political voice, by which both the business of the harbor and every other concern of the city had previously enjoyed the protection suited to them.
+And the greatest blow of all to our city is this: your making Delos a free port has ruined our harbor revenues, and you have taken away the people’s political voice, by which both the business of the harbor and every other concern of the city had previously enjoyed the protection suited to them.
 
 That this is true is not hard to learn.
 
@@ -574,17 +512,11 @@ In earlier times the harbor dues produced a million drachmas, but now you have t
 
 If the offense and estrangement had really been shared by the whole people, then perhaps even you might reasonably seem justified in maintaining an unrelenting anger that was hard to appease.
 
-But if you know clearly that only a few men were responsible for this folly, and that all of them have perished at the hands of the people itself, why do you remain irreconcilable toward those who bear no blame,
+But if you know clearly that only a few men were responsible for this folly, and that all of them have perished at the hands of the people itself, why do you remain irreconcilable toward those who bear no blame, when to everyone else you seem the gentlest and most magnanimous of all men?
 
-when to everyone else you seem the gentlest and most magnanimous of all men?
+Therefore, gentlemen, the people, having lost its revenues, its political voice, and its equal standing, the very things for which in earlier times it had been ready to endure every risk, asks and entreats all of you, now that it has suffered blows enough, to let your anger cease and to restore the alliance, so that this may become plain to everyone: that you have laid aside your anger toward the Rhodians and returned to your original policy and friendship.
 
-Therefore, gentlemen, the people, having lost its revenues, its political voice, and its equal standing, the very things for which in earlier times it had been ready to endure every risk,
-
-asks and entreats all of you, now that it has suffered blows enough, to let your anger cease and to restore the alliance, so that this may become plain to everyone: that you have laid aside your anger toward the Rhodians and returned to your original policy and friendship.
-
-For that is what the people needs now,
-
-not an alliance of arms and soldiers."
+For that is what the people needs now, not an alliance of arms and soldiers.”
 
 After speaking in this way, and to much the same effect besides, Astymedes was thought to have adapted his speech well to the circumstances.
 
@@ -600,20 +532,16 @@ These instructions were to say that they were astonished that, in a matter on wh
 
 So Euryas and his colleagues appeared and once again made it clear that the nation had neither heard the defense of the accused nor delivered any judgment upon them.
 
-They asked the senate to take thought for these men, so that they might obtain a trial and not be destroyed without judgment,
-
-and above all that the senate itself should investigate the case and identify those truly liable to the charges. But if, because of its many distractions, it could not do this, then it should entrust the matter to the Achaeans, who would deal with the guilty in a spirit that hated wrongdoing.
+They asked the senate to take thought for these men, so that they might obtain a trial and not be destroyed without judgment, and above all that the senate itself should investigate the case and identify those truly liable to the charges. But if, because of its many distractions, it could not do this, then it should entrust the matter to the Achaeans, who would deal with the guilty in a spirit that hated wrongdoing.
 
 The senate heard the envoys, who spoke in accordance with their instructions, but it was embarrassed because it was exposed on every side.
 
-For it did not think that it belonged to it to conduct the trial, and yet to release the men without a trial seemed plainly likely to bring ruin upon those in Greece who were Rome's friends.
+For it did not think that it belonged to it to conduct the trial, and yet to release the men without a trial seemed plainly likely to bring ruin upon those in Greece who were Rome’s friends.
 
-So, being compelled by the situation and wishing altogether to take away the hope that many still had for the safety of the detained men, in order that the masses, shutting their eyes, might submit in Achaea to Callicrates and in the other states to those thought to be the Romans' men, it sent back this reply:
+So, being compelled by the situation and wishing altogether to take away the hope that many still had for the safety of the detained men, in order that the masses, shutting their eyes, might submit in Achaea to Callicrates and in the other states to those thought to be the Romans’ men, it sent back this reply:
 
-"We do not think it advantageous either for the Romans or for your own states that these men should return home."
+“We do not think it advantageous either for the Romans or for your own states that these men should return home.”
 
 When this answer was issued, it produced not only complete dejection and paralysis of spirit among the detained men, but among the Greeks as well something like a common mourning, since the reply seemed altogether to take away hope of safety from those under accusation.
 
-And when the answer given to the Achaeans concerning the accused men was published throughout Greece, the masses were crushed in spirit, and a kind of despair spread among men,
-
-whereas Charops, Callicrates, and all the leaders of the same policy once more lifted their heads high.
+And when the answer given to the Achaeans concerning the accused men was published throughout Greece, the masses were crushed in spirit, and a kind of despair spread among men, whereas Charops, Callicrates, and all the leaders of the same policy once more lifted their heads high.

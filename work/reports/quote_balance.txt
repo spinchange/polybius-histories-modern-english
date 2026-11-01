@@ -1,0 +1,129 @@
+## Polybius_Histories_Book_01_modern_English.md: 2 paragraphs with unbalanced “/”
+  L1361 open=1 close=0  “On these conditions there shall be friendship between the Carthaginia
+  L1363 open=0 close=1  The Carthaginians shall give back to the Romans all prisoners without 
+## Polybius_Histories_Book_02_modern_English.md: 2 paragraphs with unbalanced “/”
+  L159 open=1 close=0  “Romans, Teuta, have a most excellent custom of using the state to pun
+  L161 open=0 close=1  We shall therefore endeavor, God willing, to compel you—and that soon 
+## Polybius_Histories_Book_03_modern_English.md: 15 paragraphs with unbalanced “/”
+  L419 open=1 close=0  The terms of the treaty run roughly as follows: “On these conditions t
+  L423 open=0 close=1  If any Roman comes to the part of Sicily that the Carthaginians govern
+  L445 open=1 close=0  Its terms run roughly as follows: “On these conditions there shall be 
+  L449 open=0 close=1  A Carthaginian shall do likewise. If one does otherwise, he shall not 
+  L461 open=1 close=0  “If they make a written alliance with Pyrrhus, both parties shall make
+  L465 open=0 close=1  The Carthaginians shall also aid the Romans by sea, if there is need; 
+  L491 open=1 close=0  “The Carthaginians shall withdraw from the whole of Sicily and from al
+  L497 open=0 close=1  The Carthaginians shall return all their prisoners to the Romans witho
+  L1187 open=1 close=0  “And when, quite apart from all this, we have already had some experie
+  L2067 open=1 close=0  “For the men who were beaten at the Trebia River had arrived from Sici
+  L2071 open=0 close=1  Now, at any rate, everything is the opposite of what has just been des
+  L2075 open=1 close=0  “For in the first place, both of us consuls are here, not only to shar
+  L2095 open=0 close=1  She has staked all her eagerness and strength upon you, and she holds 
+  L2125 open=1 close=0  When they all signaled their agreement at what he said, because its tr
+  L2137 open=0 close=1  Therefore there is no longer any need for words, but for deeds; for, i
+## Polybius_Histories_Book_04_modern_English.md: 0 paragraphs with unbalanced “/”
+## Polybius_Histories_Book_05_modern_English.md: 2 paragraphs with unbalanced “/”
+  L733 open=1 close=0  When Sosibius showed even greater amazement at this promise, he said, 
+  L737 open=0 close=1  Surely not the soldiers from Syria and Caria?”
+## Polybius_Histories_Book_06_modern_English.md: 0 paragraphs with unbalanced “/”
+## Polybius_Histories_Book_07_modern_English.md: 4 paragraphs with unbalanced “/”
+  L203 open=1 close=0  Demetrius at once broke in from where he stood and said, “If you have 
+  L205 open=0 close=1  For in this way, by holding both horns, you alone would keep the ox un
+  L209 open=1 close=0  After some uncertainty Aratus said, “If you can hold this place withou
+  L211 open=0 close=1  But if by occupying this place with a garrison you mean to destroy eve
+## Polybius_Histories_Book_08_modern_English.md: 2 paragraphs with unbalanced “/”
+  L169 open=1 close=0  “If there was among Greeks or barbarians any man who was debauched or 
+  L183 open=0 close=1  In short, to stop my long-windedness, especially when so many matters 
+## Polybius_Histories_Book_09_modern_English.md: 2 paragraphs with unbalanced “/”
+  L639 open=1 close=0  “We, men of Lacedaemon, have come to you sent by the Acarnanian league
+  L657 open=0 close=1  And if not...”
+## Polybius_Histories_Book_10_modern_English.md: 0 paragraphs with unbalanced “/”
+## Polybius_Histories_Book_11_modern_English.md: 10 paragraphs with unbalanced “/”
+  L85 open=1 close=0  “I think the facts themselves have made it clear, men of Aetolia, that
+  L99 open=0 close=1  For it is far better to be reproved at the right moment and be saved t
+  L103 open=1 close=0  “Set your own blindness before your eyes. You claim to be making war o
+  L117 open=0 close=1  Such are the origins of the war and such the things already happening.
+  L121 open=1 close=0  “For anyone can see that if the Romans put an end to the war in Italy—
+  L131 open=0 close=1  We ask and urge you not to begrudge either yourselves or the rest of t
+  L515 open=1 close=0  “Now I ask which of these applies to you. Plainly, I suppose, you are 
+  L529 open=0 close=1  What then is the grievance for which you are dissatisfied with us and 
+  L533 open=1 close=0  “No, not one of you. Nor can it be that you are troubled by the state 
+  L555 open=0 close=1  But toward those who were responsible we remain utterly unreconciled a
+## Polybius_Histories_Book_12_modern_English.md: 0 paragraphs with unbalanced “/”
+## Polybius_Histories_Book_13_modern_English.md: 0 paragraphs with unbalanced “/”
+## Polybius_Histories_Book_14_modern_English.md: 0 paragraphs with unbalanced “/”
+## Polybius_Histories_Book_15_modern_English.md: 4 paragraphs with unbalanced “/”
+  L563 open=2 close=1  But after repeatedly wiping his face with his cloak and mastering the 
+  L569 open=1 close=2  Do not trust me about this,” he said, “but men who know the truth and 
+  L651 open=1 close=0  She cried out in a loud voice, “Do not come near me, you beasts! I kno
+  L653 open=0 close=1  But I still trust that, if the gods will it, you shall taste your own 
+## Polybius_Histories_Book_16_modern_English.md: 6 paragraphs with unbalanced “/”
+  L441 open=1 close=0  “It seems to me both just and fitting to give the people of Gaza the t
+  L451 open=0 close=1  Therefore, just as we single out good men for honorable mention in our
+  L677 open=1 close=0  The first letters addressed to the chief magistrates contained these i
+  L679 open=0 close=1  When those present have assembled, take them and lead them to the next
+  L717 open=1 close=0  And in the same book Polybius says that “when Scopas was defeated by A
+  L721 open=0 close=1  We have more to say about this place, and especially about the renowne
+## Polybius_Histories_Book_17_modern_English.md: 0 paragraphs with unbalanced “/”
+## Polybius_Histories_Book_18_modern_English.md: 10 paragraphs with unbalanced “/”
+  L79 open=1 close=0  Then he turned back again to Alexander and said, “You ask me, Alexande
+  L85 open=0 close=1  For many times both I and the other Greeks sent embassies to you, aski
+  L91 open=2 close=1  “On what grounds, then,” he asked, “are they entitled to bring charges
+  L97 open=0 close=1  Or do you grant me leave to keep those?”
+  L101 open=1 close=0  When Titus laughed, Philip said, “Well, let that be enough on my part 
+  L107 open=0 close=1  As for the destruction of the Nicephorium and the precinct of Aphrodit
+  L415 open=1 close=0  “Are these not the very Macedonians, men, whom you—when they held the 
+  L421 open=0 close=1  Therefore, men, urge one another on and charge into the fight with all
+  L679 open=1 close=0  “Or is it obviously because we have won? But that is the most senseles
+  L683 open=0 close=1  Moreover, it is in the Greeks’ own interest that the power of Macedon 
+## Polybius_Histories_Book_19_modern_English.md: 0 paragraphs with unbalanced “/”
+## Polybius_Histories_Book_20_modern_English.md: 0 paragraphs with unbalanced “/”
+## Polybius_Histories_Book_21_modern_English.md: 6 paragraphs with unbalanced “/”
+  L165 open=2 close=1  “How,” he said, “could the outcome be honorable if we make peace while
+  L173 open=0 close=1  Then, if the senate should refuse the settlement, we would have to beg
+  L723 open=1 close=0  “As long as they remained undisturbed, they were the most loyal of all
+  L727 open=0 close=1  Therefore you should be implacable toward those men, but pity the many
+  L735 open=1 close=0  “The people of the Aetolians shall maintain the rule and supremacy of 
+  L755 open=0 close=1  The city and territory of Oeniadae shall belong to the Acarnanians.”
+## Polybius_Histories_Book_22_modern_English.md: 0 paragraphs with unbalanced “/”
+## Polybius_Histories_Book_23_modern_English.md: 4 paragraphs with unbalanced “/”
+  L249 open=1 close=0  “One must not merely read tragedies, myths, and histories, but also un
+  L261 open=0 close=1  Yet, though you heard all this, you did not take it to heart; on the c
+  L303 open=1 close=0  It is not right to destroy the crops of those opposed to you. For Poly
+  L305 open=0 close=1  Those who do such things seem to me gravely mistaken. For to the same 
+## Polybius_Histories_Book_24_modern_English.md: 1 paragraphs with unbalanced “/”
+  L189 open=0 close=1  Therefore we must either show that we are capable of refusing obedienc
+## Polybius_Histories_Book_25_modern_English.md: 0 paragraphs with unbalanced “/”
+## Polybius_Histories_Book_26_modern_English.md: 0 paragraphs with unbalanced “/”
+## Polybius_Histories_Book_27_modern_English.md: 0 paragraphs with unbalanced “/”
+## Polybius_Histories_Book_28_modern_English.md: 0 paragraphs with unbalanced “/”
+## Polybius_Histories_Book_29_modern_English.md: 3 paragraphs with unbalanced “/”
+  L247 open=1 close=0  “If you were to keep in mind not an endless time or many generations, 
+  L253 open=1 close=0  “And that is what has now happened in the case of Perseus. So Demetriu
+  L257 open=0 close=1  For it seems to me that he made a statement more divine than merely hu
+## Polybius_Histories_Book_30_modern_English.md: 2 paragraphs with unbalanced “/”
+  L499 open=2 close=1  “But perhaps,” he said, “that can still be justified. You yourselves g
+  L519 open=0 close=1  For that is what the people needs now, not an alliance of arms and sol
+## Polybius_Histories_Book_31_modern_English.md: 6 paragraphs with unbalanced “/”
+  L401 open=1 close=0  As they walked on, Publius, speaking quietly and gently, and blushing 
+  L407 open=0 close=1  And they say that the family I come from wants not such a protector, b
+  L413 open=2 close=1  “For heaven’s sake, Scipio,” he said, “do not say such things, and do 
+  L425 open=0 close=1  But in the matter that troubles you now most of all, as you say, I thi
+  L427 open=2 close=1  While Polybius was still speaking, Scipio took his right hand in both 
+  L429 open=0 close=1  For from that moment I would think myself at once worthy of my house a
+## Polybius_Histories_Book_32_modern_English.md: 0 paragraphs with unbalanced “/”
+## Polybius_Histories_Book_33_modern_English.md: 2 paragraphs with unbalanced “/”
+  L255 open=1 close=0  “Alexander and Laodice, children of a king who was our friend and ally
+  L257 open=0 close=1  The senate granted them permission to proceed to their ancestral kingd
+## Polybius_Histories_Book_34_modern_English.md: 0 paragraphs with unbalanced “/”
+## Polybius_Histories_Book_35_modern_English.md: 2 paragraphs with unbalanced “/”
+  L89 open=1 close=0  Then Cato stood up and said: “As though we had nothing else to do, we 
+  L93 open=0 close=1  He smiled and said that Polybius, like another Odysseus, wanted to go 
+## Polybius_Histories_Book_36_modern_English.md: 0 paragraphs with unbalanced “/”
+## Polybius_Histories_Book_37_modern_English.md: 0 paragraphs with unbalanced “/”
+## Polybius_Histories_Book_38_modern_English.md: 5 paragraphs with unbalanced “/”
+  L140 open=1 close=0  Gulussa replied, “You seem to me, my good sir, to be asking for a chil
+  L142 open=0 close=1  For when you were acting as ambassadors from an intact position and th
+  L180 open=0 close=1  That will become clear when we compare them side by side.”
+  L376 open=1 close=0  “This is Hasdrubal, the same man who only recently rejected many human
+  L378 open=0 close=1  Who would not, seeing this before his eyes, take it to heart that an o
+## Polybius_Histories_Book_39_modern_English.md: 0 paragraphs with unbalanced “/”

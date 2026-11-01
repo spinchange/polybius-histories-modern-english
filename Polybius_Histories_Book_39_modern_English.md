@@ -24,15 +24,13 @@ Obviously such a man would deservedly be laughed at and get what was coming to h
 
 He was likewise eager in the rest of his life for the worst Greek habits: for he was pleasure-loving and work-shy.
 
-This will be clear from the facts themselves: for he was the first man to be present in Greece at the time when the battle in Phocis took place, but he excused himself on grounds of ill health and withdrew to Thebes in order not to share the danger;
-
-yet after the battle was over he was the first to write to the Senate about the victory, adding detailed explanations as though he himself had taken part in the fighting.
+This will be clear from the facts themselves: for he was the first man to be present in Greece at the time when the battle in Phocis took place, but he excused himself on grounds of ill health and withdrew to Thebes in order not to share the danger; yet after the battle was over he was the first to write to the Senate about the victory, adding detailed explanations as though he himself had taken part in the fighting.
 
 ## Book 39 Chapter 2: Digressions in History
 
-Accordingly, I think that the most learned of the ancient historians have taken their periods of rest in this way: some by digressions into myth and legend, others by digressions into historical fact — not limiting themselves to Greek history, but bringing in discussions of foreign history as well.
+Accordingly, I think that the most learned of the ancient historians have taken their periods of rest in this way: some by digressions into myth and legend, others by digressions into historical fact—not limiting themselves to Greek history, but bringing in discussions of foreign history as well.
 
-For example, in the course of a history of Thessaly and of Alexander of Pherae's campaigns, they introduce an account of Spartan activity in the Peloponnese, or of Athenian deeds, or of events in Macedonia or Illyria; then they break off to recount Iphicrates' expedition to Egypt and Clearchus' crimes in the Pontus.
+For example, in the course of a history of Thessaly and of Alexander of Pherae’s campaigns, they introduce an account of Spartan activity in the Peloponnese, or of Athenian deeds, or of events in Macedonia or Illyria; then they break off to recount Iphicrates’ expedition to Egypt and Clearchus’ crimes in the Pontus.
 
 That shows that all these historians use this method; but they use it without system, whereas I use it systematically.
 
@@ -44,9 +42,7 @@ As a result, I have made the transitions back and forth between the continuous n
 
 ## Book 39 Chapter 3: Scipio Intends to Fight
 
-Because the Carthaginians still held out on the citadel, Scipio found that the stretch of water between them was not very deep; and when Polybius advised him to block it with iron spikes or drive sharp wooden stakes into it, so that the enemy could not cross and attack the mole,
-
-he replied that, since he had already taken the walls and got inside the city, it would be absurd to take precautions in order to avoid fighting the enemy.
+Because the Carthaginians still held out on the citadel, Scipio found that the stretch of water between them was not very deep; and when Polybius advised him to block it with iron spikes or drive sharp wooden stakes into it, so that the enemy could not cross and attack the mole, he replied that, since he had already taken the walls and got inside the city, it would be absurd to take precautions in order to avoid fighting the enemy.
 
 Although there were many statues of him and great honors decreed by the cities, a Roman man in the disasters around Corinth attempted to destroy them all and drive him into exile, as though he had still been alive and had become an enemy and hostile to Rome.
 
@@ -56,21 +52,17 @@ Thereupon he undertook to explain more fully and in continuity what he had alrea
 
 The point was that he often disputed with the Romans about what they ordered, and disagreed with them to the extent of teaching and persuading them in disputed matters, and never did so at random.
 
-He said that the true proof of his disposition was also supplied, as they say, by fire in the Philippic and Antiochian periods:
+He said that the true proof of his disposition was also supplied, as they say, by fire in the Philippic and Antiochian periods: for at the time when he had the greatest influence among the Greeks, both by his own power and by that of the Achaeans, he had most truly preserved friendship with the Romans; and when the Achaeans shared in the decision four months before the Romans crossed over, they brought war against Antiochus and the Aetolians from the country, while almost all the other Greeks were alienated from Roman friendship.
 
-for at the time when he had the greatest influence among the Greeks, both by his own power and by that of the Achaeans, he had most truly preserved friendship with the Romans;
+The ten commissioners, hearing these things and approving the speaker’s purpose, granted that the honors should be left to him alone in all the cities.
 
-and when the Achaeans shared in the decision four months before the Romans crossed over, they brought war against Antiochus and the Aetolians from the country, while almost all the other Greeks were alienated from Roman friendship.
-
-The ten commissioners, hearing these things and approving the speaker's purpose, granted that the honors should be left to him alone in all the cities.
-
-Polybius then took the opportunity to ask the commander for the statues, though they had already been moved from the Peloponnese to Acarnania — I mean the statues of Achaeus, Aratus, and Philopoemen.
+Polybius then took the opportunity to ask the commander for the statues, though they had already been moved from the Peloponnese to Acarnania—I mean the statues of Achaeus, Aratus, and Philopoemen.
 
 The people, admiring this conduct, set up a stone statue of him.
 
 ## Book 39 Chapter 4: Fall of Carthage
 
-After the arrangement that the ten commissioners had made in Achaia, those same commissioners instructed the treasurer who was to sell Diaeus' property that whatever Polybius chose from among the possessions should be taken out and given to him as a gift, and that the rest should be sold to the buyers.
+After the arrangement that the ten commissioners had made in Achaea, those same commissioners instructed the treasurer who was to sell Diaeus’ property that whatever Polybius chose from among the possessions should be taken out and given to him as a gift, and that the rest should be sold to the buyers.
 
 But the man mentioned above kept himself so far from accepting any such thing that he even urged his friends not to desire anything at all from what the treasurer was selling.
 
@@ -90,11 +82,11 @@ For this reason the cities in general, from the outset accepting and honoring th
 
 Everyone judged that this was the right thing to do; for if he had not carried out and written down the laws concerning public jurisdiction, everything would have been left without order and full of confusion.
 
-For this reason we must regard this among all the things mentioned above as Polybius' finest achievement.
+For this reason we must regard this among all the things mentioned above as Polybius’ finest achievement.
 
 ## Book 39 Chapter 6
 
-After the Roman general had separated from the assembly in Achaia, he repaired the place at the Isthmus and adorned the temples at Olympia and Delphi, and on the following days he went from city to city, receiving honor in each and obtaining the respect appropriate to him.
+After the Roman general had separated from the assembly in Achaea, he repaired the place at the Isthmus and adorned the temples at Olympia and Delphi, and on the following days he went from city to city, receiving honor in each and obtaining the respect appropriate to him.
 
 And it was natural that he should be honored both publicly and privately.
 
@@ -110,9 +102,7 @@ When the king of Syria, Ptolemy, was struck in the course of the war, he died; a
 
 For he was gentle and kind, perhaps more than any of the kings who had gone before him.
 
-The greatest proof of this was the following: first, he never prosecuted any of his own friends for any charge,
-
-and I think that not even any of the other Alexandrians died because of him.
+The greatest proof of this was the following: first, he never prosecuted any of his own friends for any charge, and I think that not even any of the other Alexandrians died because of him.
 
 Later, when he seemed to have been driven from power by his brother, he first, at a favorable moment in Alexandria itself, treated the wrong done him as a matter for forgetting and returned no injury for injury.
 
@@ -132,12 +122,10 @@ Now that we have reached the end of the entire work, we wish, by recalling its b
 
 Accordingly, at the beginning we said that we would make our starting point from where Timaeus left off.
 
-Then, running briefly through the events in Italy, Sicily, and Libya — since he too had written history only about those regions — we came to the times when Hannibal took command of the Carthaginian forces, Philip son of Demetrius took the Macedonian kingdom, and Cleomenes the Spartan fled from Greece;
-
-and along with these came Antiochus' succession to the Syrian kingdom and Ptolemy, called Philopator, to the Egyptian.
+Then, running briefly through the events in Italy, Sicily, and Libya—since he too had written history only about those regions—we came to the times when Hannibal took command of the Carthaginian forces, Philip son of Demetrius took the Macedonian kingdom, and Cleomenes the Spartan fled from Greece; and along with these came Antiochus’ succession to the Syrian kingdom and Ptolemy, called Philopator, to the Egyptian.
 
 We further promised that, starting again from that point, when the 139th Olympiad was in progress, we would treat the common affairs of the inhabited world, setting them out by Olympiads, dividing them by year, and comparing the corresponding events until the capture of Carthage and the battle between the Achaeans and the Romans at the Isthmus, and then the restoration that followed for the Greeks.
 
-From all this we said that the finest and most useful result for students would be to learn how, and under what kind of constitution, almost the entire inhabited world came under a single power, that of the Romans — something that had never happened before.
+From all this we said that the finest and most useful result for students would be to learn how, and under what kind of constitution, almost the entire inhabited world came under a single power, that of the Romans—something that had never happened before.
 
 Now that all this has been completed for us, what remains is to make clear the times covered by the history, the number of books, and the extent of the whole work.

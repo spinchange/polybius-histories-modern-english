@@ -4,9 +4,7 @@ Modern English translation of the Greek text.
 
 ## Book 16 Chapter 1: Philip V. Wages War with Attalus, King of Pergamum, and the Rhodians.
 
-I. Affairs in Macedonia
-
-When King Philip reached Pergamum and thought he had, as good as with his own hands, finished off Attalus, he gave free rein to every kind of outrage.
+I. Affairs in Macedonia When King Philip reached Pergamum and thought he had, as good as with his own hands, finished off Attalus, he gave free rein to every kind of outrage.
 
 In indulging a temper almost like madness, he directed most of his anger not against men but against the gods.
 
@@ -16,19 +14,17 @@ So he turned his rage against the seats and sanctuaries of the gods, insulting, 
 
 He did not merely burn and pull down temples and altars. He even smashed the stones so that nothing he had destroyed could ever be rebuilt.
 
-After he had laid waste the Nicephorium, cutting down its grove, throwing down its enclosing wall, and digging up from the foundations many large and costly shrines,
-
-he first moved against Thyatira, and from there marched into the plain of Thebe, thinking that this district would provide him with especially rich plunder.
+After he had laid waste the Nicephorium, cutting down its grove, throwing down its enclosing wall, and digging up from the foundations many large and costly shrines, he first moved against Thyatira, and from there marched into the plain of Thebe, thinking that this district would provide him with especially rich plunder.
 
 But when this hope also failed, he came to the place called the Holy Village and kept sending to Zeuxis, asking him to provide grain and the other support required by their treaty.
 
 Zeuxis pretended that he was carrying out the treaty, but in reality he had no wish to give Philip any real and substantial help.
 
-## Book 16 Chapter 2: Great Sea-fight Off Chios Between Philip and the Allied Fleets of Attalus and Rhodes, B. C. 201
+## Book 16 Chapter 2: Great Sea-fight Off Chios Between Philip and the Allied Fleets of Attalus and Rhodes, 201 BC
 
 Since the siege was going badly for him, and the enemy were pressing him hard with a growing number of decked ships, Philip was at a loss and deeply uneasy about what was to come.
 
-As the situation allowed no real choice, he put to sea unexpectedly, contrary to the enemy's expectation.
+As the situation allowed no real choice, he put to sea unexpectedly, contrary to the enemy’s expectation.
 
 For Attalus and his side still thought he would remain where he was and continue the mining works.
 
@@ -38,11 +34,11 @@ But he was badly mistaken in his calculations. As soon as Attalus and Theophilis
 
 Their own departure was somewhat disordered, because, as I said, they had been convinced that Philip was staying where he was.
 
-Even so, by rowing with great energy they attacked, Attalus striking the enemy's right wing and van, while Theophiliscus attacked the left.
+Even so, by rowing with great energy they attacked, Attalus striking the enemy’s right wing and van, while Theophiliscus attacked the left.
 
 Philip, caught in these dangerous circumstances, gave the signal to the ships on his right, ordered them to turn their prows toward the enemy and fight hard at close quarters, while he himself withdrew under the little islands that lay in the channel, taking some light craft with him and watching how the battle would turn out.
 
-The ships engaged on Philip's side were fifty-three decked vessels, besides undecked ships, and a hundred and fifty light boats and cutters, since he had not been able to equip all the ships at Samos.
+The ships engaged on Philip’s side were fifty-three decked vessels, besides undecked ships, and a hundred and fifty light boats and cutters, since he had not been able to equip all the ships at Samos.
 
 The enemy had sixty-five decked ships, including those from Byzantium, together with nine triemioliai and three triremes.
 
@@ -52,13 +48,11 @@ The fighting began from the ship on which Attalus sailed, and at once all the ne
 
 Attalus ran into an enemy eight-banked ship and struck it a well-placed blow below the waterline. After a long struggle among the men on deck, he finally sank it.
 
-Philip's ten-banked flagship, however, fell into the enemy's hands in a most unexpected way.
+Philip’s ten-banked flagship, however, fell into the enemy’s hands in a most unexpected way.
 
 A triemiolia slipped in beneath it and crashed violently into its hull amidships, below the upper bank of oars, where it became jammed fast. The helmsman could no longer recover control of the larger ship.
 
-Because that smaller craft hung attached to it, the flagship became unwieldy and slow in every movement. At that moment two quinqueremes came up,
-
-struck it on both sides, and destroyed both the vessel and the marines on board, among them Democrates, Philip's admiral.
+Because that smaller craft hung attached to it, the flagship became unwieldy and slow in every movement. At that moment two quinqueremes came up, struck it on both sides, and destroyed both the vessel and the marines on board, among them Democrates, Philip’s admiral.
 
 At the same time Dionysodorus and Deinocrates, brothers who served as admirals under Attalus, charged enemy ships, the one a seven-banker and the other an eight-banker, and fought with remarkable daring.
 
@@ -66,9 +60,7 @@ Deinocrates, colliding with an eight-banked ship, received a blow above the wate
 
 So, while the Macedonians fought bravely from the enemy ship, he was brought into extreme danger.
 
-But Attalus came to his aid and, by driving into the enemy vessel, broke the two ships apart. Deinocrates was unexpectedly freed,
-
-while all the marines on the enemy ship, after a gallant resistance, were killed, and their now-empty vessel fell into Attalus' hands.
+But Attalus came to his aid and, by driving into the enemy vessel, broke the two ships apart. Deinocrates was unexpectedly freed, while all the marines on the enemy ship, after a gallant resistance, were killed, and their now-empty vessel fell into Attalus’ hands.
 
 Dionysodorus, on the other hand, made his attack with great force but missed the ramming blow. As he passed close by the enemy, he lost the whole right-side bank of oars, and the timbers that carried his towers were smashed together.
 
@@ -82,15 +74,13 @@ The fight among the rest of the ships was evenly matched.
 
 Philip had the advantage in the number of his light craft, but Attalus had the advantage in the number of decked ships.
 
-So on Philip's right wing matters stood in such a way that the final outcome was still uncertain, though Attalus had the better hopes.
+So on Philip’s right wing matters stood in such a way that the final outcome was still uncertain, though Attalus had the better hopes.
 
 As for the Rhodians, at first, just as I said before, they became separated from the enemy during the putting out to sea; but because they were far superior in speed, they caught up with the Macedonian ships in the rear.
 
 At first they bore down on the withdrawing vessels from astern and crippled their oars.
 
-But when Philip's ships began turning back to support those in danger, and the Rhodian ships that had started later joined Theophiliscus,
-
-then both sides formed line abreast, prow to prow, and charged gallantly, encouraging one another with trumpets and shouts.
+But when Philip’s ships began turning back to support those in danger, and the Rhodian ships that had started later joined Theophiliscus, then both sides formed line abreast, prow to prow, and charged gallantly, encouraging one another with trumpets and shouts.
 
 If the Macedonians had not stationed their light boats among the decked ships, the sea-fight would quickly and easily have been decided. As it was, these became obstacles to the Rhodians in many ways.
 
@@ -100,7 +90,7 @@ As a result the Rhodians could neither break through the enemy line easily nor t
 
 Yet in direct prow-to-prow encounters they used a skilled maneuver.
 
-By lowering their own prows they took the enemy's blows above the waterline, while they themselves struck the enemy below the waterline and made their damage hard to repair.
+By lowering their own prows they took the enemy’s blows above the waterline, while they themselves struck the enemy below the waterline and made their damage hard to repair.
 
 Still, they did this only rarely, because in general they avoided close entanglements, since the Macedonians fought bravely from the decks whenever the struggle came hand to hand.
 
@@ -112,7 +102,7 @@ By this method of fighting they destroyed a great number of the enemy ships.
 
 The most brilliant and dangerous fighting was done by three Rhodian quinqueremes: the flagship on which Theophiliscus sailed, the ship commanded by Philostratus, and a third steered by Autolycus with Nicostratus aboard.
 
-This last ship rammed an enemy vessel and left its own ram fixed in the hull. The enemy ship sank with all hands, but because sea water was pouring into Autolycus' ship through the prow, he and his men were surrounded by the enemy.
+This last ship rammed an enemy vessel and left its own ram fixed in the hull. The enemy ship sank with all hands, but because sea water was pouring into Autolycus’ ship through the prow, he and his men were surrounded by the enemy.
 
 At first they fought bravely, but in the end Autolycus, wounded, fell overboard in his armor, and the rest of the marines died fighting stoutly.
 
@@ -124,13 +114,11 @@ He himself received three wounds and, after exposing himself to the utmost dange
 
 Once he had rejoined his own squadron, he attacked the enemy again from a fresh angle. Though his bodily strength was failing from his wounds, the courage in his spirit made him more brilliant and more formidable than before.
 
-So there were really two sea-battles taking place far apart. Philip's right wing, in keeping with the original plan, kept edging toward land and was not far from Asia,
-
-while the left wing, having turned back to support the ships in the rear, was fighting the Rhodians not far from Chios.
+So there were really two sea-battles taking place far apart. Philip’s right wing, in keeping with the original plan, kept edging toward land and was not far from Asia, while the left wing, having turned back to support the ships in the rear, was fighting the Rhodians not far from Chios.
 
 ## Book 16 Chapter 6: Attalus Abandons his Ship but Escapes
 
-Even so, Attalus' side was decisively overpowering Philip's right wing and was already drawing near the little islands under which Philip had anchored to watch the battle.
+Even so, Attalus’ side was decisively overpowering Philip’s right wing and was already drawing near the little islands under which Philip had anchored to watch the battle.
 
 Attalus then noticed one of his own quinqueremes disabled and sinking under attack from an enemy ship, and he rushed to help it with two quadriremes.
 
@@ -140,7 +128,7 @@ Philip saw that Attalus had become separated by a wide distance from his own fle
 
 Once that happened, the king himself escaped with his crews to Erythrae, but Philip captured the ships and the royal equipment on board.
 
-Yet Attalus' people showed ingenuity even in this crisis. They spread the finest pieces of the royal equipment out on the deck.
+Yet Attalus’ people showed ingenuity even in this crisis. They spread the finest pieces of the royal equipment out on the deck.
 
 So when the first Macedonians came up in their light craft and saw quantities of cups, purple robes, and the like, they gave up the pursuit and turned aside to plunder these things.
 
@@ -148,7 +136,7 @@ That is how Attalus managed to make his retreat safely to Erythrae.
 
 Philip, though badly worsted in the battle as a whole, was elated by what had happened to Attalus. He put to sea again, busily gathering his ships and encouraging his men, saying that they had won the battle.
 
-People found this plausible because Philip's men were towing away the royal ship, and so many assumed that King Attalus himself had perished.
+People found this plausible because Philip’s men were towing away the royal ship, and so many assumed that King Attalus himself had perished.
 
 But Dionysodorus guessed what had happened to his king, raised the signal, gathered his own ships around him, and then sailed off safely to the harbors on the Asiatic coast.
 
@@ -162,13 +150,13 @@ Philip lost, in the battle against Attalus, a ten-banked ship, a nine-banked shi
 
 In the battle against the Rhodians he lost ten decked ships and about forty light boats, while two quadriremes and seven light boats with their crews were captured.
 
-On Attalus' side one triemiolia and two quinqueremes were sunk, while two quadriremes and the king's own ship were captured.
+On Attalus’ side one triemiolia and two quinqueremes were sunk, while two quadriremes and the king’s own ship were captured.
 
 Of the Rhodian fleet, two quinqueremes and one trireme were destroyed, but none were taken.
 
 Of the men, the Rhodians lost about sixty, Attalus about seventy, while Philip lost about three thousand Macedonians and six thousand sailors and marines.
 
-About two thousand of Philip's Macedonians and allies were taken alive, while of their opponents about seven hundred were captured.
+About two thousand of Philip’s Macedonians and allies were taken alive, while of their opponents about seven hundred were captured.
 
 ## Book 16 Chapter 8: Philip Vainly Claims the Victory At Chios
 
@@ -198,7 +186,7 @@ Theophiliscus survived for one day. After writing home to his city about the sea
 
 He was a brave man in battle and, in the purpose that guided him, worthy of remembrance.
 
-If he had not dared to be the first to lay hands on Philip, everyone else would have let the opportunity slip, intimidated by Philip's boldness.
+If he had not dared to be the first to lay hands on Philip, everyone else would have let the opportunity slip, intimidated by Philip’s boldness.
 
 But by beginning the war himself he forced his own country to rise with the occasion, and he compelled Attalus not to delay and merely make preparations, but to fight in earnest and face the danger.
 
@@ -206,17 +194,15 @@ So the Rhodians were right to honor him after his death with distinctions that e
 
 ## Book 16 Chapter 10: The Indecisive Battle of Chios Was Followed by Another Off Lade, in Which Philip Was Partly Successful1 1 “Jam cum Rhodiis et Attalo navalibus certaminibus, neutro feliciter, vires expertus.” Livy, 31, 14.
 
-After the battle off Lade had been fought, with the Rhodians out of his way and Attalus not yet involved, it is plain that Philip could have completed his voyage to Alexandria. Nothing makes Philip's madness in this matter clearer than that.
+After the battle off Lade had been fought, with the Rhodians out of his way and Attalus not yet involved, it is plain that Philip could have completed his voyage to Alexandria. Nothing makes Philip’s madness in this matter clearer than that.
 
 What then checked the rush of his purpose?
 
 Nothing but the natural course of events.
 
-For people often pursue impossible aims when they view them from far off, because the greatness of their hopes overpowers their reason;
+For people often pursue impossible aims when they view them from far off, because the greatness of their hopes overpowers their reason; but when they come close to the actual business, they abandon their plans just as irrationally, since their calculations are thrown into confusion by the difficulty and awkwardness of the obstacles they meet.
 
-but when they come close to the actual business, they abandon their plans just as irrationally, since their calculations are thrown into confusion by the difficulty and awkwardness of the obstacles they meet.
-
-## Book 16 Chapter 11: Philip's Operations in Caria, B.C. 201
+## Book 16 Chapter 11: Philip’s Operations in Caria, 201 BC
 
 After this Philip made some attacks that came to nothing because the town was so strong, and then withdrew again, plundering the forts and settlements in the countryside.
 
@@ -226,9 +212,7 @@ When this attempt also proved useless, because the ground was rocky, he devised 
 
 By day he had noises made underground, as if the miners were at work, and by night he had earth brought from outside and piled beside the mouths of the tunnels, so that the people in the city, judging from the amount of earth heaped up, might be frightened.
 
-At first the people of Prinassus held out bravely. But then Philip sent and told them that he had already propped up a stretch of their wall two plethra long, and asked whether they preferred to withdraw safely or all perish together with their city
-
-when the props were set on fire. Believing what he said, they then surrendered the city.
+At first the people of Prinassus held out bravely. But then Philip sent and told them that he had already propped up a stretch of their wall two plethra long, and asked whether they preferred to withdraw safely or all perish together with their city when the props were set on fire. Believing what he said, they then surrendered the city.
 
 ## Book 16 Chapter 12: Description of Iassus
 
@@ -236,9 +220,7 @@ The city of Iassus lies in Asia, on the gulf between the Poseidium of the Milesi
 
 The Iassians claim that they were originally colonists from Argos, and later from Miletus, because after they had suffered losses in the Carian war their ancestors brought in a son of Neleus, founder of Miletus. The city is ten stades in circuit.
 
-At Bargylia there is a famous and widely believed story that the image of Artemis Cindyas, though it stands in the open air, is never touched by snow or rain,
-
-and among the people of Iassus there is a similar story about Artemis Astias. Some historians have repeated such tales.
+At Bargylia there is a famous and widely believed story that the image of Artemis Cindyas, though it stands in the open air, is never touched by snow or rain, and among the people of Iassus there is a similar story about Artemis Astias. Some historians have repeated such tales.
 
 But I, for my part, never know how to stop opposing and resenting such declarations by historians throughout my whole work.
 
@@ -250,15 +232,11 @@ That is very much like the story told here.
 
 When such tales help preserve the reverence of the common people toward the gods, one may grant some indulgence to historians who indulge in marvels and story-making about them.
 
-But excess must not be permitted. It may be difficult to mark the exact measure in every case,
-
-but it is not impossible. So if such ignorance and false opinion stay within narrow bounds, let them be excused; but anything excessive should, in my judgment, be rejected.
+But excess must not be permitted. It may be difficult to mark the exact measure in every case, but it is not impossible. So if such ignorance and false opinion stay within narrow bounds, let them be excused; but anything excessive should, in my judgment, be rejected.
 
 ## Book 16 Chapter 13: Affairs in Greece
 
-II. Affairs in Greece
-
-I have already explained what policy Nabis, tyrant of the Lacedaemonians, adopted from the beginning, and how, after driving out the citizens, he freed the slaves and married them to their masters' wives and daughters.
+II. Affairs in Greece I have already explained what policy Nabis, tyrant of the Lacedaemonians, adopted from the beginning, and how, after driving out the citizens, he freed the slaves and married them to their masters’ wives and daughters.
 
 I have also shown how he built up his power by making Sparta a kind of inviolable refuge for those who fled their own countries because of impiety or wickedness, and so gathered there a crowd of lawless men.
 
@@ -304,7 +282,7 @@ So after relating facts that are obviously the marks of defeat, they still decla
 
 And this although the actual dispatch sent at that time by the admiral to the council and prytaneis still remains in their own prytaneum, and it agrees not with the judgments of Antisthenes and Zeno but with mine.
 
-## Book 16 Chapter 16: Zeno's Account of the Attack on Messene
+## Book 16 Chapter 16: Zeno’s Account of the Attack on Messene
 
 Next after this they write about the treacherous breach of treaty against the Messenians.
 
@@ -324,7 +302,7 @@ The Eurotas and the region of Sellasia lie to the northeast of Sparta, while Tha
 
 So a man intending to go into Messenia by way of Thalamae ought not to go toward Sellasia, indeed ought not even to cross the Eurotas at all.
 
-## Book 16 Chapter 17: Some of Zeno's Mistakes Due to Ignorance
+## Book 16 Chapter 17: Some of Zeno’s Mistakes Due to Ignorance
 
 Besides this, he says that Nabis began his return from Messene by the gate leading to Tegea.
 
@@ -348,7 +326,7 @@ I say that one should indeed take care and work hard to report events properly; 
 
 But sensible men should not treat this as the chief and primary matter. Other parts of history are far finer, and on those a statesman ought rather to pride himself.
 
-## Book 16 Chapter 18: Zeno's Account of the Battle of Panium
+## Book 16 Chapter 18: Zeno’s Account of the Battle of Panium
 
 What I mean may be made especially clear in the following way.
 
@@ -356,21 +334,19 @@ When this same writer describes the siege of Gaza and the battle line drawn up b
 
 But for the facts he shows such contempt that his ease and inexperience as a historian are once more beyond all measure.
 
-For when he sets out first to explain Scopas' line of battle, he says that the phalanx, together with a few cavalry, rested with its right wing on the slope of the hills, while its left wing, along with all the cavalry stationed there, stood on the level ground.
+For when he sets out first to explain Scopas’ line of battle, he says that the phalanx, together with a few cavalry, rested with its right wing on the slope of the hills, while its left wing, along with all the cavalry stationed there, stood on the level ground.
 
-He then says that before dawn Antiochus sent his elder son Antiochus with part of the army to seize the higher ground above the enemy,
-
-and that at daybreak he himself led the rest of his forces across the river between the two camps and drew them up on the plain, placing the phalangites in a single straight line opposite the middle of the enemy formation, and the cavalry on the left and right of the phalanx, including the armored horse under the command of the younger Antiochus, one of the king's sons.
+He then says that before dawn Antiochus sent his elder son Antiochus with part of the army to seize the higher ground above the enemy, and that at daybreak he himself led the rest of his forces across the river between the two camps and drew them up on the plain, placing the phalangites in a single straight line opposite the middle of the enemy formation, and the cavalry on the left and right of the phalanx, including the armored horse under the command of the younger Antiochus, one of the king’s sons.
 
 After this, he says, Antiochus stationed the elephants in front of the phalanx at intervals, along with the Tarentines under Antipater, filled the spaces between the elephants with archers and slingers, and himself took position behind the elephants with the household cavalry and the hypaspists.
 
-Yet after laying out the battle in this way, he says that this younger Antiochus, whom he had placed on the level ground on the enemy's left with the armored cavalry, charged down from the hills, routed the cavalry under Ptolemy son of Aeropus, and pursued them. This Ptolemy had command of the Aetolians stationed on the plain on the left wing.
+Yet after laying out the battle in this way, he says that this younger Antiochus, whom he had placed on the level ground on the enemy’s left with the armored cavalry, charged down from the hills, routed the cavalry under Ptolemy son of Aeropus, and pursued them. This Ptolemy had command of the Aetolians stationed on the plain on the left wing.
 
 Meanwhile, he says, the phalanxes, once they joined battle, fought stubbornly.
 
 But he does not even see that they could not possibly have joined battle at all with elephants, cavalry, and light troops drawn up in front of them.
 
-## Book 16 Chapter 19: Zeno's Description Implausible
+## Book 16 Chapter 19: Zeno’s Description Implausible
 
 After this he says that the phalanx, being outmatched in agility and pressed by the Aetolians, fell back step by step, while the elephants received those who gave way and, crashing into the enemy, rendered great service.
 
@@ -388,7 +364,7 @@ And where was the king, or what service did he render in the battle, when he had
 
 And where was the elder son Antiochus, who with part of the army had seized the high ground on the right?
 
-For this man does not even return to camp in Zeno's account after the battle. Naturally enough, because Zeno assumed that the king had two sons named Antiochus, when in fact there was only one serving on that campaign.
+For this man does not even return to camp in Zeno’s account after the battle. Naturally enough, because Zeno assumed that the king had two sons named Antiochus, when in fact there was only one serving on that campaign.
 
 Again, how is it that Scopas both withdrew first from the battle and also last? Zeno says that when Scopas saw the younger Antiochus appearing from the pursuit in the rear of the phalanx, he gave up hope of victory and began to retreat.
 
@@ -400,25 +376,19 @@ Such things, and in general blunders of this kind, seem to me to bring great sha
 
 Therefore one ought above all to try to master every part of history, for that is the finest course. But if this is not possible, then one should take the greatest care with the most necessary and important parts.
 
-I have been led to say this because I now observe, just as in other arts and pursuits, that what is true and useful in each field gets neglected,
+I have been led to say this because I now observe, just as in other arts and pursuits, that what is true and useful in each field gets neglected, while what is designed for display and appearance is praised and imitated as something great and marvelous, because it is easier to produce and wins approval more cheaply, just as in other forms of writing.
 
-while what is designed for display and appearance is praised and imitated as something great and marvelous, because it is easier to produce and wins approval more cheaply, just as in other forms of writing.
+As for Zeno’s ignorance of places in Laconia, since the error was a serious one, I did not hesitate to write to him personally.
 
-As for Zeno's ignorance of places in Laconia, since the error was a serious one, I did not hesitate to write to him personally.
-
-I judged it honorable not to treat other people's mistakes as personal advantages, as some are accustomed to do, but to take thought, so far as I could, for correcting not only my own writings but those of others as well, for the common good.
+I judged it honorable not to treat other people’s mistakes as personal advantages, as some are accustomed to do, but to take thought, so far as I could, for correcting not only my own writings but those of others as well, for the common good.
 
 When he received the letter and saw that it was impossible to revise the passage because his books had already been published, he was deeply distressed, though he could do nothing; still, he accepted my action graciously.
 
-And in the same spirit I would ask my readers now and in time to come: if ever I am found knowingly falsifying matters in this work and overlooking the truth, let them censure me without pardon,
-
-but if I err through ignorance, let them grant me indulgence, especially because of the size of my history and the vast compass of the events it covers.
+And in the same spirit I would ask my readers now and in time to come: if ever I am found knowingly falsifying matters in this work and overlooking the truth, let them censure me without pardon, but if I err through ignorance, let them grant me indulgence, especially because of the size of my history and the vast compass of the events it covers.
 
 ## Book 16 Chapter 21: Egypt — Character of Tlepolemus
 
-III. Affairs in Egypt
-
-Tlepolemus, who had charge of the royal government in Egypt, was young in years and had spent his life continuously in military service, with a certain distinction.
+III. Affairs in Egypt Tlepolemus, who had charge of the royal government in Egypt, was young in years and had spent his life continuously in military service, with a certain distinction.
 
 By nature he was high-strung and ambitious, and in general he brought many qualities useful for action, but many harmful ones as well.
 
@@ -446,7 +416,7 @@ And when he heard the universal praise lavished on him, the toasts drunk to him 
 
 These foreign and military favors irritated the people at court, and they watched everything closely, resented his arrogance, and increasingly contrasted him with Sosibius.
 
-For Sosibius was thought to be more prudent in his management of the king than his years would suggest, and to conduct dealings with outsiders in a manner worthy of the trust committed to him, namely the royal seal and the king's person.
+For Sosibius was thought to be more prudent in his management of the king than his years would suggest, and to conduct dealings with outsiders in a manner worthy of the trust committed to him, namely the royal seal and the king’s person.
 
 At this time Ptolemy son of Sosibius returned from Philip.
 
@@ -460,59 +430,47 @@ Since all the courtiers agreed with him, because Tlepolemus was handling the kin
 
 At first Tlepolemus, as hostile talk reached him through the spying and meddling of the courtiers, ignored it and treated their words with contempt.
 
-But when they actually dared to sit together and openly criticize him in the middle of the court, though he was absent, for mismanaging the kingdom,
-
-he was angered. He summoned the council and came forward saying that they made their slanders against him secretly and in private, whereas he thought it right to make his accusation against them openly and face to face.
+But when they actually dared to sit together and openly criticize him in the middle of the court, though he was absent, for mismanaging the kingdom, he was angered. He summoned the council and came forward saying that they made their slanders against him secretly and in private, whereas he thought it right to make his accusation against them openly and face to face.
 
 After this public speech he also took the seal away from Sosibius, and once he had that in his possession, he managed everything henceforth according to his own will.
 
 ## Book 16 Chapter 22a
 
-IV. Affairs in Syria
+IV. Affairs in Syria When King Antiochus sacked the city of the Gazans, Polybius says:
 
-When King Antiochus sacked the city of the Gazans, Polybius says:
-
-"It seems to me both just and fitting to give the people of Gaza the testimony they deserve.
+“It seems to me both just and fitting to give the people of Gaza the testimony they deserve.
 
 For though they are no different from the other people of Coele-Syria in courage for war, they surpass them greatly in loyalty to a common cause and in keeping faith, and taken altogether they possess a courage that cannot be shaken.
 
 For when the Persians invaded, while all the others were terrified by the greatness of that empire and surrendered themselves and their cities to the Medes, the Gazans alone all stood firm and endured the danger by accepting a siege.
 
-And when Alexander came, while not only the others had surrendered, but even the Tyrians had been violently enslaved, and there was hardly any hope of safety left for those who opposed Alexander's onset and force, they alone among the peoples of Syria held out and proved stronger than every expectation.
+And when Alexander came, while not only the others had surrendered, but even the Tyrians had been violently enslaved, and there was hardly any hope of safety left for those who opposed Alexander’s onset and force, they alone among the peoples of Syria held out and proved stronger than every expectation.
 
 They acted in much the same way in the present crisis as well, leaving nothing undone in their eagerness to preserve their loyalty to Ptolemy.
 
-Therefore, just as we single out good men for honorable mention in our histories, so too we ought in the same way to preserve a public memory of those cities that, by inherited character and deliberate choice, are accustomed to act nobly."
+Therefore, just as we single out good men for honorable mention in our histories, so too we ought in the same way to preserve a public memory of those cities that, by inherited character and deliberate choice, are accustomed to act nobly.”
 
-## Book 16 Chapter 23: Scipio's Triumph
+## Book 16 Chapter 23: Scipio’s Triumph
 
-V. Affairs in Italy
-
-Publius Scipio returned from Libya not long after the events just described.
+V. Affairs in Italy Publius Scipio returned from Libya not long after the events just described.
 
 Since the expectation of the multitude matched the greatness of his achievements, the splendor surrounding the man and the goodwill of the people toward him were correspondingly great.
 
 And this happened reasonably and as it should.
 
-For men who had never expected to drive Hannibal out of Italy or rid themselves and their families of the danger hanging over them now thought themselves securely beyond all fear and all peril, and not merely safe but masters of their enemies. So their joy knew no bounds. And when Scipio entered in triumph,
-
-then, as the spectacle of the procession vividly reminded them of the dangers they had passed through, they became even more deeply moved both in their thankfulness to the gods and in their affection for the man responsible for such a great reversal.
+For men who had never expected to drive Hannibal out of Italy or rid themselves and their families of the danger hanging over them now thought themselves securely beyond all fear and all peril, and not merely safe but masters of their enemies. So their joy knew no bounds. And when Scipio entered in triumph, then, as the spectacle of the procession vividly reminded them of the dangers they had passed through, they became even more deeply moved both in their thankfulness to the gods and in their affection for the man responsible for such a great reversal.
 
 For Syphax, king of the Masaesylii, was led through the city at that time in the triumph among the prisoners, and some time later he died in custody.
 
-After all this was over, the people in Rome kept celebrating splendid games and festivals for many days, with Scipio's own generosity providing the means.
+After all this was over, the people in Rome kept celebrating splendid games and festivals for many days, with Scipio’s own generosity providing the means.
 
 ## Book 16 Chapter 24: War Between Rome and Philip V
 
-VI. Affairs in Macedonia and Greece
-
-At the beginning of winter, in the year when Publius Sulpicius became consul at Rome, King Philip was staying at Bargylia. Seeing that the Rhodians and Attalus were not disbanding their fleet, but actually filling up their crews and watching the coast with even greater energy, he was in a very troubled state and had many and varied thoughts about the future.
+VI. Affairs in Macedonia and Greece At the beginning of winter, in the year when Publius Sulpicius became consul at Rome, King Philip was staying at Bargylia. Seeing that the Rhodians and Attalus were not disbanding their fleet, but actually filling up their crews and watching the coast with even greater energy, he was in a very troubled state and had many and varied thoughts about the future.
 
 He was anxious at once about getting out from Bargylia and foresaw danger by sea, and at the same time he distrusted the situation in Macedonia and by no means wanted to winter in Asia, being afraid of both the Aetolians and the Romans.
 
-For he was well aware of the embassies being sent to Rome against him,
-
-now that affairs in Libya had come to an end. So he was in extreme distress, yet for the moment he was forced to stay where he was and, as the saying goes, live the life of a wolf.
+For he was well aware of the embassies being sent to Rome against him, now that affairs in Libya had come to an end. So he was in extreme distress, yet for the moment he was forced to stay where he was and, as the saying goes, live the life of a wolf.
 
 For because his army was starving, he fed it now by plundering and stealing from some, now by using force against others, and at times even by fawning in a way unnatural to him; sometimes they got meat, sometimes figs, and sometimes only a very scanty amount of grain.
 
@@ -522,7 +480,7 @@ In the end he tried, through Philocles, to bring about operations against the ci
 
 As for the territory of the Alabandians, he ravaged it like enemy land, saying that he had to secure provisions for his army.
 
-Polybius of Megalopolis also says in the sixteenth book of his Histories: "Philip, the father of Perseus, when he was overrunning Asia and was in want of provisions for his soldiers, received figs from the Magnesians because they had no grain. For that reason, when he got possession of Myus, he granted the place to the Magnesians in return for the figs."
+Polybius of Megalopolis also says in the sixteenth book of his Histories: “Philip, the father of Perseus, when he was overrunning Asia and was in want of provisions for his soldiers, received figs from the Magnesians because they had no grain. For that reason, when he got possession of Myus, he granted the place to the Magnesians in return for the figs.”
 
 ## Book 16 Chapter 25: King Attalus At Athens
 
@@ -554,9 +512,7 @@ So they gave up asking him to appear, but requested him to write down what he th
 
 He agreed and wrote it, and the presiding magistrates then introduced the letter.
 
-Its main points were a reminder of the earlier benefactions he had shown the people, an account of what he had done against Philip in the present crisis,
-
-and finally an appeal to join the war against Philip, together with a solemn warning that if they did not now choose to share nobly in the hostility together with the Rhodians, the Romans, and himself, but later, after letting the occasion pass, wanted to share in the peace once others had won it, they would miss what was truly best for their country.
+Its main points were a reminder of the earlier benefactions he had shown the people, an account of what he had done against Philip in the present crisis, and finally an appeal to join the war against Philip, together with a solemn warning that if they did not now choose to share nobly in the hostility together with the Rhodians, the Romans, and himself, but later, after letting the occasion pass, wanted to share in the peace once others had won it, they would miss what was truly best for their country.
 
 When this letter was read, the people were ready to vote for war, both because of what was said and because of their goodwill toward Attalus.
 
@@ -580,9 +536,7 @@ Having thus made these terms known to Philip through Nicanor, they themselves sa
 
 ## Book 16 Chapter 28: Activity and Energy of Philip
 
-It seems to me that many men have managed to make a good beginning and to keep their enthusiasm strong enough for the growth of their enterprises,
-
-but to carry their purpose through to the end, and even when fortune stands against them to make reason supply what impulse lacks, belongs to only a few.
+It seems to me that many men have managed to make a good beginning and to keep their enthusiasm strong enough for the growth of their enterprises, but to carry their purpose through to the end, and even when fortune stands against them to make reason supply what impulse lacks, belongs to only a few.
 
 So in this case one might rightly blame Attalus and the Rhodians for lack of effort, while admiring in Philip what was kingly and high-spirited and his persistence in his purpose—not praising his whole character, but noting the force of his energy at that moment.
 
@@ -590,9 +544,7 @@ I make this distinction so that no one may think I am contradicting myself, sinc
 
 For this is exactly why I said at the beginning of my work that it is necessary sometimes to praise and sometimes to blame the same men.
 
-Circumstances often change men's purposes for the worse, and often for the better,
-
-and sometimes, by their own natural character, men are at one time moved toward what is right and at another toward the opposite. One of these things, I think, happened in Philip's case here.
+Circumstances often change men’s purposes for the worse, and often for the better, and sometimes, by their own natural character, men are at one time moved toward what is right and at another toward the opposite. One of these things, I think, happened in Philip’s case here.
 
 For stung by his losses, and acting largely out of anger and passion, he adapted himself to the needs of the moment with a kind of fierce, almost inspired energy. In this way he rose up against the Rhodians and King Attalus and carried through the next series of actions.
 
@@ -610,9 +562,7 @@ Still, to remind my readers of the main points is not useless for the present di
 
 One can best understand the situation of these cities not simply by looking at the places themselves, but by setting beside them and comparing the places that I am about to mention.
 
-Just as no one can sail from what some call Ocean and others the Atlantic Sea into our sea without passing through the mouth by the Pillars of Heracles,
-
-so no one can sail from our sea into the Propontis and the Pontus without making the passage through the channel between Sestos and Abydos.
+Just as no one can sail from what some call Ocean and others the Atlantic Sea into our sea without passing through the mouth by the Pillars of Heracles, so no one can sail from our sea into the Propontis and the Pontus without making the passage through the channel between Sestos and Abydos.
 
 And as if Fortune had deliberately shaped the two straits in answer to one another, the passage by the Pillars of Heracles turns out to be many times wider than the Hellespont.
 
@@ -636,13 +586,11 @@ This siege was not remarkable for the scale of the preparations or for the varie
 
 But in respect to the courage of the defenders and the extraordinary greatness of their spirit, it was, if any siege ever was, worthy of memory and record.
 
-At first the inhabitants of Abydos, trusting in themselves, stoutly withstood Philip's preparations. Of the machines brought against them by sea, they shook some apart by striking them with stone-throwers and destroyed others with fire, so that the enemy could scarcely drag their ships back out of danger.
+At first the inhabitants of Abydos, trusting in themselves, stoutly withstood Philip’s preparations. Of the machines brought against them by sea, they shook some apart by striking them with stone-throwers and destroyed others with fire, so that the enemy could scarcely drag their ships back out of danger.
 
 Against the works on land they also held out bravely for a time, not despairing of mastering the enemy.
 
-But when the outer wall fell because of the mines, and then the Macedonians by further tunneling reached the inner wall that had been built behind the breach,
-
-they then sent ambassadors, Iphiades and Pantagnotus, instructing Philip to take over the city on condition that he let the soldiers from Rhodes and Attalus depart under truce, and that he allow all free persons to save themselves, each wherever he chose, with the clothing on his body.
+But when the outer wall fell because of the mines, and then the Macedonians by further tunneling reached the inner wall that had been built behind the breach, they then sent ambassadors, Iphiades and Pantagnotus, instructing Philip to take over the city on condition that he let the soldiers from Rhodes and Attalus depart under truce, and that he allow all free persons to save themselves, each wherever he chose, with the clothing on his body.
 
 But Philip ordered them to leave everything to his decision or else fight bravely.
 
@@ -668,15 +616,13 @@ Once they had ratified these decisions, they gave up countermining the enemy and
 
 From this one might say that the courage of the Abydenians surpassed both the proverbial recklessness of the Phocians and the bravery of the Acarnanians.
 
-For the Phocians are thought to have taken similar counsel about their families, but they had not utterly given up hope of victory, because they were going to fight the Thessalians in open country in a pitched battle. The same was true of the Acarnanians,
-
-when, foreseeing an Aetolian invasion, they resolved on similar measures for the emergency, as I have explained earlier in detail.
+For the Phocians are thought to have taken similar counsel about their families, but they had not utterly given up hope of victory, because they were going to fight the Thessalians in open country in a pitched battle. The same was true of the Acarnanians, when, foreseeing an Aetolian invasion, they resolved on similar measures for the emergency, as I have explained earlier in detail.
 
 But the Abydenians, shut in and almost despairing of salvation, chose as a whole people rather to meet their fate along with their children and wives than to go on living with the foreknowledge that their children and wives would fall under enemy power.
 
 So one might especially blame Fortune in the case of the Abydenians, because in the earlier disasters she seemed to pity the sufferers and at once set matters right by giving victory together with safety to those who had despaired, whereas in the case of the Abydenians she reached the opposite decision.
 
-For the men died, the city was taken, and the children along with their mothers fell into the enemy's hands.
+For the men died, the city was taken, and the children along with their mothers fell into the enemy’s hands.
 
 ## Book 16 Chapter 33: The Fall of Abydos
 
@@ -686,7 +632,7 @@ For the Abydenians who had stepped forward first did not merely stand on the bod
 
 When any of those weapons became useless or were violently knocked from their hands, they grappled with the Macedonians, threw some down with all their armor, and shattered the sarissas of others, then with the broken splinters stabbed their faces and exposed parts, throwing them into total confusion.
 
-But when night came on and the fighting ceased, with most of the citizens dead at the breach and the rest exhausted by toil and wounds, Glaucides and Theognetus gathered a few of the older men together and, for the sake of their own hopes, cast down the noble and astonishing greatness of their fellow citizens' resolve.
+But when night came on and the fighting ceased, with most of the citizens dead at the breach and the rest exhausted by toil and wounds, Glaucides and Theognetus gathered a few of the older men together and, for the sake of their own hopes, cast down the noble and astonishing greatness of their fellow citizens’ resolve.
 
 For they decided to spare the children and women alive, and at daybreak to send the priests and priestesses out with garlands to Philip to beg mercy and surrender the city to him.
 
@@ -696,23 +642,21 @@ While this was happening, King Attalus, hearing that the Abydenians were under s
 
 For when the Romans heard clearly at Rhodes about the siege of Abydos and wished to speak directly to Philip in accordance with their instructions, they put off their journey to the kings and sent this man ahead.
 
-When he met Philip near Abydos, he told the king that the Senate had resolved to call on him neither to make war on any Greek state nor to lay hands on Ptolemy's dominions, but to submit the wrongs done to Attalus and the Rhodians to judgment.
+When he met Philip near Abydos, he told the king that the Senate had resolved to call on him neither to make war on any Greek state nor to lay hands on Ptolemy’s dominions, but to submit the wrongs done to Attalus and the Rhodians to judgment.
 
 If he acted in this way, he could remain at peace; if he refused to obey, war with Rome would at once be upon him.
 
-When Philip tried to argue that the Rhodians had laid hands on him first, Marcus broke in and asked, "And what about the Athenians? What about the Cians? What about the Abydenians now? Which of them laid hands on you first?"
+When Philip tried to argue that the Rhodians had laid hands on him first, Marcus broke in and asked, “And what about the Athenians? What about the Cians? What about the Abydenians now? Which of them laid hands on you first?”
 
 The king, at a loss on every side, said that he excused his arrogant speech for three reasons: first, because Marcus was young and inexperienced in affairs; second, because he was the handsomest man of his time—which was in fact true; and above all, because he was a Roman.
 
-"But I," he said, "above all demand of the Romans that they not break the treaties and make war on me. If they do that, I shall defend myself bravely, calling on the gods."
+“But I,” he said, “above all demand of the Romans that they not break the treaties and make war on me. If they do that, I shall defend myself bravely, calling on the gods.”
 
 So after saying these things they parted from one another.
 
 Philip then got possession of the city and, because the whole property of the Abydenians had been gathered together, he took it over ready to hand.
 
-But when he saw the multitude and fury of those killing themselves and their children and wives—stabbing, burning, hanging, throwing themselves into wells,
-
-and hurling themselves from roofs—he was astonished. Distressed at what was happening, he gave notice that he allowed three days for anyone who wished to hang himself or cut his own throat.
+But when he saw the multitude and fury of those killing themselves and their children and wives—stabbing, burning, hanging, throwing themselves into wells, and hurling themselves from roofs—he was astonished. Distressed at what was happening, he gave notice that he allowed three days for anyone who wished to hang himself or cut his own throat.
 
 But the Abydenians had already made up their minds from the beginning, and they thought that to go on living would be to become traitors to those who had fought and died for their country. So none of them could endure life, except those who had already been restrained by chains or some similar compulsion.
 
@@ -730,9 +674,9 @@ Philopoemen calculated the distances of all the Achaean cities and determined wh
 
 He then wrote letters to all the cities and sent them to the farthest ones, arranging it so that each distant city held not only its own letter but also those for all the other cities lying on the same route.
 
-The first letters addressed to the chief magistrates contained these instructions: "When you receive this letter, immediately cause all men of military age to assemble in the marketplace at once with their arms, supplies for five days, and five days' money.
+The first letters addressed to the chief magistrates contained these instructions: “When you receive this letter, immediately cause all men of military age to assemble in the marketplace at once with their arms, supplies for five days, and five days’ money.
 
-When those present have assembled, take them and lead them to the next city. And when you arrive there, deliver the letter addressed to the magistrate there and obey its instructions."
+When those present have assembled, take them and lead them to the next city. And when you arrive there, deliver the letter addressed to the magistrate there and obey its instructions.”
 
 The next letter contained the same directions as the first, except that the name of the next city to which they were to march was different.
 
@@ -746,7 +690,7 @@ As a result, neither the Tegeans nor the arriving contingents knew what was goin
 
 ## Book 16 Chapter 37: A Raid Upon Laconia
 
-This was the plan Philopoemen devised and turned over in his mind because of the great number of the tyrant's eavesdroppers and spies.
+This was the plan Philopoemen devised and turned over in his mind because of the great number of the tyrant’s eavesdroppers and spies.
 
 On the day when the mass of the Achaeans was to gather at Tegea, he sent out picked men, arranging matters so that after spending the night near Sellasia they would at daybreak on the following day raid Laconia.
 
@@ -766,31 +710,25 @@ Philip saw that the Achaeans were acting cautiously about the war with Rome, and
 
 ## Book 16 Chapter 39: Coele-Syria
 
-VII. Affairs in Asia
-
-Polybius of Megalopolis gives witness to what we have said. For in the sixteenth book of his Histories he says as follows: "Scopas, the general of Ptolemy, marched into the upper country and during the winter subdued the nation of the Jews."
+VII. Affairs in Asia Polybius of Megalopolis gives witness to what we have said. For in the sixteenth book of his Histories he says as follows: “Scopas, the general of Ptolemy, marched into the upper country and during the winter subdued the nation of the Jews.”
 
 But since the siege had been conducted in a wandering and ineffective way, Scopas came under disrepute and was attacked with youthful recklessness.
 
-And in the same book Polybius says that "when Scopas was defeated by Antiochus, Antiochus took Batanaea, Samaria, Abila, and Gadara.
+And in the same book Polybius says that “when Scopas was defeated by Antiochus, Antiochus took Batanaea, Samaria, Abila, and Gadara.
 
 A little later the Jews living around the sanctuary of the place called Jerusalem also went over to him.
 
-We have more to say about this place, and especially about the renowned manifestation connected with the sanctuary there, but we shall postpone that account to another time."
+We have more to say about this place, and especially about the renowned manifestation connected with the sanctuary there, but we shall postpone that account to another time.”
 
 ## Book 16 Chapter 40
 
-VIII. Fragments of Uncertain Place
-
-Babrantion, a place near Chios. Polybius, book sixteen.
+VIII. Fragments of Uncertain Place Babrantion, a place near Chios. Polybius, book sixteen.
 
 Gitta, a city of Palestine.
 
 Polybius, book sixteen.
 
-Hella,
-
-a place in Asia, a trading station of King Attalus. Polybius, book sixteen.
+Hella, a place in Asia, a trading station of King Attalus. Polybius, book sixteen.
 
 Insubri, an Italian people.
 
@@ -798,11 +736,11 @@ Polybius, book sixteen.
 
 Candasa.
 
-... a fortress in Caria. Polybius, book sixteen.
+[...] a fortress in Caria. Polybius, book sixteen.
 
 Carthaea, one of the four cities on Ceos.
 
-... the inhabitants are called Carthaeans. Polybius, book sixteen.
+[...] the inhabitants are called Carthaeans. Polybius, book sixteen.
 
 Mantya, a city of the Romans.
 
