@@ -190,7 +190,7 @@ Dionysius' dig.
 | A4 Constantine + Frederick (our translations) | done, verified | b8e7b9c |
 | A3 parallels (10 showpieces, Livy/Plutarch/Appian) | done, all verified | 8dcc4c5 |
 | A5 survival layer + 7.1 headnote | **not started**; blocked on WORK_PLAN Phase 6 ESCALATE attributions in `work/status.csv` | |
-| A6 QA | **not started** | |
+| A6 QA (validator, Haiku sweep, Opus read of 10 showpieces; fixes applied) | done 2026-11-01; open: 38.22 "From Appian" source line (Phase 6) | 29b393f |
 
 How to resume:
 - Check: `cd work/scripts && python ann_validate.py` (expect 22 verified, 0 errors;
