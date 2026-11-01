@@ -27,4 +27,4 @@ The text, the illustrations and the apparatus are dedicated to the public domain
 ## Illustrations
 The covers, website banners, social cards, chapter headpieces and the thirty-nine book frontispieces were generated with Google's Gemini models in the manner of a nineteenth-century archaeological folio: copperplate linework with restrained watercolor on parchment. Compositions were directed and checked against third- and second-century BC material culture (Hellenistic Greek, Republican Roman, Carthaginian, Numidian and Gallic dress, arms and ships).
 
-*Translated from the Greek by Claude, Anthropic's family of AI models. Directed and edited by spinchange.*
+*Translated from the Greek by Claude, Anthropic's family of AI models. Directed and edited by Christopher Duffy, Sr..*

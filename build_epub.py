@@ -246,7 +246,7 @@ def write_frontmatter(
     <h1>Polybius</h1>
     <p class="subtitle">The Histories</p>
     <p class="edition">A Modern English Translation</p>
-    <p class="edition">Translated from the Greek by Claude, Anthropic's family of AI models.<br/>Directed and edited by spinchange.</p>
+    <p class="edition">Translated from the Greek by Claude, Anthropic's family of AI models.<br/>Directed and edited by Christopher Duffy, Sr..</p>
   </section>"""
     (text_dir / "titlepage.xhtml").write_text(xhtml_doc("Titlepage", title_body), encoding="utf-8")
     (text_dir / "editorial-note.xhtml").write_text(xhtml_doc("Translator's Preface", editorial_note_body()), encoding="utf-8")
@@ -543,7 +543,7 @@ def write_opf(
     <dc:subject>History, Ancient</dc:subject>
     <dc:contributor id="trl">Claude (Anthropic)</dc:contributor>
     <meta refines="#trl" property="role" scheme="marc:relators">trl</meta>
-    <dc:contributor id="edt">spinchange</dc:contributor>
+    <dc:contributor id="edt">Christopher Duffy, Sr.</dc:contributor>
     <meta refines="#edt" property="role" scheme="marc:relators">edt</meta>
     <dc:description>A modern English translation of Polybius, The Histories (Books 1-39), from the Greek text of Büttner-Wobst.</dc:description>
     <dc:publisher>Pragmatike Historia (pragmatikehistoria.org)</dc:publisher>

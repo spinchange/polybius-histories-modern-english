@@ -350,7 +350,7 @@ def build() -> dict[str, object]:
         "  <h1>POLYBIUS</h1>",
         '  <p class="subtitle">The Histories</p>',
         '  <p class="edition">A Modern English Translation &mdash; Books I&ndash;XXXIX</p>',
-        '  <p class="edition">Translated from the Greek by Claude, Anthropic&rsquo;s family of AI models. Directed and edited by spinchange.</p>',
+        '  <p class="edition">Translated from the Greek by Claude, Anthropic&rsquo;s family of AI models. Directed and edited by Christopher Duffy, Sr..</p>',
     ]
     hero = hero_banner_html(manifest)
     if hero:
@@ -382,7 +382,7 @@ def build() -> dict[str, object]:
         "<main>",
         "\n".join(book_html(book, manifest_books=manifest_books) for book in books),
         "</main>",
-        "<footer>Polybius, <i>The Histories</i> &mdash; modern English translation by Claude (Anthropic), edited by spinchange. <a href='https://creativecommons.org/publicdomain/zero/1.0/'>CC0 1.0</a> &middot; <i>Pragmatike Historia</i>.</footer>",
+        "<footer>Polybius, <i>The Histories</i> &mdash; modern English translation by Claude (Anthropic), edited by Christopher Duffy, Sr.. <a href='https://creativecommons.org/publicdomain/zero/1.0/'>CC0 1.0</a> &middot; <i>Pragmatike Historia</i>.</footer>",
         "</body>",
         "</html>",
     ]
