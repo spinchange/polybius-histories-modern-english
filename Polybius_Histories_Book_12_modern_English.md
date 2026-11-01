@@ -168,7 +168,7 @@ For the Spartans were not going to forbid the Locrians, while doing the same thi
 
 For among the Spartans it was both an ancestral and a customary thing for one woman to have three husbands, or four, and sometimes even more, when they were brothers, and for their children to be held in common; and it was considered honorable and customary, once a man had begotten enough children, to give his wife in marriage to one of his friends.
 
-Therefore the Locrians, being bound neither by the curses nor by the oaths which the Spartans had sworn—not to return home before they had taken Messene by storm—reasonably had no share in the collective expedition, but, making their returns home individually and only rarely, they gave their women the chance to associate more familiarly with the slaves than with their original husbands, and the unmarried girls still more so—which became the cause of the migration. —
+Therefore the Locrians, being bound neither by the curses nor by the oaths which the Spartans had sworn—not to return home before they had taken Messene by storm—reasonably had no share in the collective expedition, but, making their returns home individually and only rarely, they gave their women the chance to associate more familiarly with the slaves than with their original husbands, and the unmarried girls still more so—which became the cause of the migration.
 
 ## Book 12 Chapter 7: Timaeus and the Character of a Historian
 
@@ -252,7 +252,7 @@ Of those who break their agreements we say, by way of this proverb, “the Locri
 
 [...] to accuse, and to deride the religious raptures of those who dream and rave in their writings; yet as for those who have themselves filled their works with a great deal of such nonsense, one ought to be content if they escape accusation, and not have them running down others as well—which is exactly what has happened in the case of Timaeus.
 
-For he says that Callisthenes was a flatterer for writing such things, and that he was very far from philosophy, attending instead to vulgar dances and to women in Corybantic frenzy; and that he justly met with punishment at Alexander’s hands for having corrupted that man’s soul as far as he was able; and he praises Demosthenes and the other orators who flourished in that period and says they were worthy of Greece, because they opposed the godlike honors paid to Alexander, whereas the philosopher, by investing a mortal nature with the aegis and the thunderbolt, justly met at the hands of the divine power with the very fate that he met. —
+For he says that Callisthenes was a flatterer for writing such things, and that he was very far from philosophy, attending instead to vulgar dances and to women in Corybantic frenzy; and that he justly met with punishment at Alexander’s hands for having corrupted that man’s soul as far as he was able; and he praises Demosthenes and the other orators who flourished in that period and says they were worthy of Greece, because they opposed the godlike honors paid to Alexander, whereas the philosopher, by investing a mortal nature with the aegis and the thunderbolt, justly met at the hands of the divine power with the very fate that he met.
 
 ## Book 12 Chapter 13: Timaeus On Demochares and Agathocles
 
@@ -300,7 +300,7 @@ Concerning these things the historian ought to relate to posterity not only what
 
 But Timaeus, blinded by his own bitterness, has reported his faults to us spitefully and with exaggeration, while he has omitted his successes altogether, not realizing that falsehood is no less present among those who [...] what actually happened [...] writing in their histories.
 
-As for me, I have refrained from adding further measure for the sake of dwelling on his hatefulness, but I have not left out what was germane to my own purpose. —
+As for me, I have refrained from adding further measure for the sake of dwelling on his hatefulness, but I have not left out what was germane to my own purpose.
 
 ## Book 12 Chapter 16: The Laws of Zaleucus
 
@@ -480,7 +480,7 @@ But in order to convince even those who are more inclined to take his part, I mu
 
 For that Timaeus has set these down in his account contrary to the truth, and has done so on purpose, what reader can fail to notice?
 
-He has not written what was actually said, nor reported it as it really was said. Instead, having first decided how it ought to have been said, he reels off all the supposed speeches and the circumstances attending the events as a man might do who, in a rhetorical exercise, were attempting to argue a set theme [...] as though he were making a display of his own ability, rather than giving a true account of what was said. —
+He has not written what was actually said, nor reported it as it really was said. Instead, having first decided how it ought to have been said, he reels off all the supposed speeches and the circumstances attending the events as a man might do who, in a rhetorical exercise, were attempting to argue a set theme [...] as though he were making a display of his own ability, rather than giving a true account of what was said.
 
 ## Book 12 Chapter 25b: Why History Must Report Real Speeches
 
@@ -548,7 +548,7 @@ Now the engagement at Leuctra, which was straightforward and involved only one p
 
 The same thing happens with Theopompus too, and most of all with Timaeus, who is our present subject.
 
-For wherever such writers treat their subject in summary outline, they pass undetected; but wherever they choose to elaborate and demonstrate some point in detail, they show themselves to be exactly such men as Ephorus. —
+For wherever such writers treat their subject in summary outline, they pass undetected; but wherever they choose to elaborate and demonstrate some point in detail, they show themselves to be exactly such men as Ephorus.
 
 ## Book 12 Chapter 25g: Bookish Writers Lack Experience of War
 
@@ -557,8 +557,6 @@ That it is impossible to write well about events in war for the man who has no e
 It follows that, when nothing is written either with experience or vividly by these bookish authors, the work proves to be of no practical use to its readers. For if one takes out of history the element that can benefit us, what is left of it becomes utterly worthless and useless.
 
 Furthermore, when men set out to write in detail about cities and places while being untrained in such experience, it clearly must follow that the like result occurs: they leave out many things worthy of mention, and make much of many things not worth it. This happens most of all to Timaeus, owing to his want of direct observation.
-
- —
 
 ## Book 12 Chapter 25h: Timaeus’s Fifty Years in Athens
 

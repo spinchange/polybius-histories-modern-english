@@ -288,7 +288,7 @@ From which one might reasonably say that the human race, reputed the most cunnin
 
 For the other animals, slaves to their bodily appetites alone, come to grief through these alone; but the human race, for all its endowment of reason, errs no less through its failure to reason than through its nature.
 
-But let this much suffice on the subject. —
+But let this much suffice on the subject.
 
 ## Book 18 Chapter 16: Attalus in Sicyon
 
@@ -296,7 +296,7 @@ King Attalus had even before this been held in exceptional honor by the city of 
 
 On this occasion, when he again gave them ten talents and ten thousand medimni of wheat, their goodwill was intensified many times over, and they voted him a golden statue and enacted a law to offer sacrifice in his honor each year.
 
-And so Attalus, having received these honors, set sail for Cenchreae. —
+And so Attalus, having received these honors, set sail for Cenchreae.
 
 ## Book 18 Chapter 17: Nabis’s Wife Plunders the Women of Argos
 
@@ -304,9 +304,9 @@ The tyrant Nabis left Timocrates of Pellene in charge of the city of the Argives
 
 On her arrival she far outdid Nabis himself in brutality.
 
-For she summoned the women, some individually, some by families, and inflicted on them every kind of torment and violence, until she had stripped from nearly all of them not only their gold jewelry but also their most costly clothing. —
+For she summoned the women, some individually, some by families, and inflicted on them every kind of torment and violence, until she had stripped from nearly all of them not only their gold jewelry but also their most costly clothing.
 
-At greater length Attalus, in his speech, reminded them of the valor their ancestors had shown of old. —
+At greater length Attalus, in his speech, reminded them of the valor their ancestors had shown of old.
 
 ## Book 18 Chapter 18: Roman and Greek Palisading
 
@@ -608,7 +608,7 @@ It has perhaps already happened to others, too, that they could not bear their p
 
 For just as I clearly set out his early impulses toward what was right, and again his change for the worse—when, why, and how it came about—and gave a documented account of his actions during that period, in the same way I must now make plain his change of heart and the good judgment with which he adapted to the setbacks dealt him by fortune and seems to have made the most prudent use of the circumstances that confronted him.
 
-As for Titus, after the battle he made the appropriate arrangements regarding the prisoners and the rest of the spoils, and then proceeded toward Larisa. —
+As for Titus, after the battle he made the appropriate arrangements regarding the prisoners and the rest of the spoils, and then proceeded toward Larisa.
 
 ## Book 18 Chapter 34: Flamininus and the Aetolians At Odds
 
@@ -886,7 +886,7 @@ And such was the outcome of the war against Philip.
 
 ## Book 18 Chapter 49: Asia: Roman Envoys To Antiochus
 
-If, as the saying goes, they are driven to the very last extremity, they will take refuge with the Romans and put themselves and their city into Roman hands. —
+If, as the saying goes, they are driven to the very last extremity, they will take refuge with the Romans and put themselves and their city into Roman hands.
 
 While Antiochus’ undertaking was advancing just as he wished, and Antiochus himself was present in Thrace, Lucius Cornelius and his colleagues put in by sea at Selymbria.
 
