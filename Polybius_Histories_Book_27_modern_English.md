@@ -28,7 +28,7 @@ Once these men had withdrawn, the Thebans immediately assembled, voted honors an
 
 Finally they appointed envoys to hand over the city to the Romans and to bring back their own exiles.
 
-## Book 27 Chapter 2: Romans and Perseus Try to Secure Greece
+## Book 27 Chapter 2: The Boeotian League Is Dissolved
 
 While these things were being carried through at Thebes, the exiles at Chalcis put forward Pompides and brought charges against Ismenias, Neon, and Dicetas.
 
@@ -78,7 +78,7 @@ But because the Rhodians were already committed to goodwill toward Rome, and bec
 
 Antenor and his colleagues did not accept that answer; but, satisfied with the rest of the Rhodians’ courtesy, they sailed back to Macedonia.
 
-## Book 27 Chapter 5: Perseus Sends Alexander to Boeotia
+## Book 27 Chapter 5: Perseus Sends Antigonus to Boeotia
 
 Perseus learned that some of the cities in Boeotia were still holding fast to their goodwill toward him, and he sent Antigonus, the son of Alexander, as envoy.
 
@@ -90,7 +90,7 @@ A little later the envoys also arrived and asked him to send help to the cities 
 
 When Perseus heard this, he said that because of the truce he could not send military help to anyone at all, but he urged them generally to defend themselves against the Thebans as best they could, while not making war on the Romans, but remaining quiet.
 
-## Book 27 Chapter 6: The Boeotians and Rhodians
+## Book 27 Chapter 6: Perseus’s Envoys Expelled from Rome
 
 When the Romans had heard the envoys who had come from Asia speak about Rhodes and the other cities, they summoned the envoys sent by Perseus.
 
@@ -100,7 +100,7 @@ When they had finished their defense, the senate, having long since resolved on 
 
 After this they called in the consuls and urged them to seize the moment and not delay.
 
-## Book 27 Chapter 7: War With Perseus Begun
+## Book 27 Chapter 7: Rhodes Debates Sending Ships to Rome
 
 While Gaius was still lying at anchor off Cephallenia, he sent the Rhodians a letter about dispatching ships, entrusting the letter to a certain athletic trainer named Socrates.
 
@@ -220,7 +220,7 @@ Cotys was a man impressive in appearance and outstanding in military matters; an
 
 For he was temperate, and he showed a gentleness and depth of spirit worthy of a freeborn man.
 
-## Book 27 Chapter 13: Indecisive Result of the First Campaign
+## Book 27 Chapter 13: Ptolemy’s Frugal Rule in Cyprus
 
 II. Affairs in Egypt.
 

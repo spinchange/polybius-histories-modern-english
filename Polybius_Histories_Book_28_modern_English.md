@@ -84,7 +84,7 @@ Reminding him partly of what had happened in the time of Antiochus, and partly r
 
 After this had happened, Gaius briefly reproached the Aetolians for stoning Thoas, and at once departed with his fellow-envoy for Acarnania, saying no more about the hostages. Meanwhile affairs in Aetolia were full of mutual suspicion and complete disorder.
 
-## Book 28 Chapter 5: Lycortas Advises Neutrality
+## Book 28 Chapter 5: Acarnanians Refuse a Roman Garrison
 
 When an assembly of the Acarnanians was convened at Thyrrheion, Aeschrion, Glaucus, and Chremas, who were on the Roman side, urged Gaius and his colleagues to place a garrison in Acarnania.
 
@@ -192,7 +192,7 @@ Heracleum was taken in a rather unusual way. On one side of the city the wall wa
 
 The first locked their shields together above their heads, so that by the close-set mass of the arms they looked like a sloping tiled roof. After this came two other detachments in succession [...] This “tiled-roof” formation was a tactical arrangement, which the Romans even practiced as part of their mock exercises.
 
-## Book 28 Chapter 12: Achaean Aid To Rome Declined
+## Book 28 Chapter 12: Achaeans Resolve to Fight Beside Rome
 
 III. Greek Affairs Because Perseus intended to come into Thessaly with an army and decide the whole issue by force of arms, Archon and his colleagues thought it best to answer the suspicions and slanders against them once again by their actions themselves.
 
@@ -254,7 +254,7 @@ The king selected Leon and sent him off in haste with three hundred soldiers.
 
 When they arrived, the Cydonians handed over the keys of the gates to Leon and entrusted the city as a whole to him.
 
-## Book 28 Chapter 16: Dissensions In Crete and Rhodes
+## Book 28 Chapter 16: Rhodes Sends Embassies to Rome and Marcius
 
 At Rhodes the strife between rival parties kept growing more and more intense.
 
@@ -270,7 +270,7 @@ But on this point it is useful to remind the reader repeatedly, as I also try to
 
 For since in each year, while writing the events that properly belong to it, I try to bring together in one place a summary of the actions of each people, it is clear that this must necessarily happen in the course of the narrative.
 
-## Book 28 Chapter 17: Antiochus Invades Egypt
+## Book 28 Chapter 17: Marcius Hints at Rhodian Mediation
 
 Agepolis and his colleagues came to Quintus and found him encamped in Macedonia near Heracleum, where they delivered the instructions they had been given.
 

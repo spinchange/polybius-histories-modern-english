@@ -578,7 +578,7 @@ Meanwhile many people were sailing down from the upper camps, and some urged the
 
 What especially stirred the masses to punish those in power was the knowledge that the coming struggle lay in their own hands, because they controlled all the supplies being brought into Alexandria.
 
-## Book 15 Chapter 26a
+## Book 15 Chapter 26a: Agathocles Kills Deinon
 
 Agathocles also killed Deinon son of Deinon, and this deed, as the proverb says, was the most just of all his injustices.
 

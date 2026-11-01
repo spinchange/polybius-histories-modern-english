@@ -30,7 +30,7 @@ As a result, most of the Iberians were cut down where they stood in the very cri
 
 Six of the elephants fell together with their riders, and the other four, after breaking through the ranks, were later captured by themselves, stripped of their Indian drivers.
 
-## Book 11 Chapter 1a
+## Book 11 Chapter 1a: Why Polybius Prefaces Each Olympiad
 
 Some may perhaps ask why in this book I have not prefaced the narrative with summaries, as earlier writers did, but have instead set out an introduction to the events for each Olympiad.
 
@@ -332,7 +332,7 @@ After being unable for many years to drive their enemies out of their own land, 
 
 They had lost only a small number of their own men in the battle, but had killed not fewer than four thousand Spartans, captured even more than that alive, and taken possession of all the baggage and arms.
 
-## Book 11 Chapter 18a
+## Book 11 Chapter 18a: The Value of Analyzing Causes
 
 As Polybius says, what use is it for readers to go through wars and battles, the enslavement of cities, and sieges, if they do not understand the causes by which in each case some succeeded and others failed?
 
@@ -446,7 +446,7 @@ But an extraordinary storm gathered in the sky, and when a violent and unbroken 
 
 Many Romans lost their lives in the fire while trying to recover the silver and gold that had melted and run together.
 
-## Book 11 Chapter 24a
+## Book 11 Chapter 24a: A Saying of Scipio
 
 When everyone was congratulating Publius after he had driven the Carthaginians out of Iberia, and was urging him to rest and take his ease on the ground that he had brought the war to an end, he said that he counted them fortunate for having such hopes, but that he himself was now more than ever considering how he should begin the war against the Carthaginians.
 

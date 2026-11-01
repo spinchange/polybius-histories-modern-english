@@ -20,7 +20,7 @@ But when this hope also failed, he came to the place called the Holy Village and
 
 Zeuxis pretended that he was carrying out the treaty, but in reality he had no wish to give Philip any real and substantial help.
 
-## Book 16 Chapter 2: Great Sea-fight Off Chios Between Philip and the Allied Fleets of Attalus and Rhodes, 201 BC
+## Book 16 Chapter 2: The Sea Battle off Chios
 
 Since the siege was going badly for him, and the enemy were pressing him hard with a growing number of decked ships, Philip was at a loss and deeply uneasy about what was to come.
 
@@ -192,7 +192,7 @@ But by beginning the war himself he forced his own country to rise with the occa
 
 So the Rhodians were right to honor him after his death with distinctions that encouraged not only those then alive but also future generations to meet the critical needs of their country.
 
-## Book 16 Chapter 10: The Indecisive Battle of Chios Was Followed by Another Off Lade, in Which Philip Was Partly Successful1 1 “Jam cum Rhodiis et Attalo navalibus certaminibus, neutro feliciter, vires expertus.” Livy, 31, 14.
+## Book 16 Chapter 10: Philip’s Abandoned Voyage to Alexandria
 
 After the battle off Lade had been fought, with the Rhodians out of his way and Attalus not yet involved, it is plain that Philip could have completed his voyage to Alexandria. Nothing makes Philip’s madness in this matter clearer than that.
 
@@ -434,7 +434,7 @@ But when they actually dared to sit together and openly criticize him in the mid
 
 After this public speech he also took the seal away from Sosibius, and once he had that in his possession, he managed everything henceforth according to his own will.
 
-## Book 16 Chapter 22a
+## Book 16 Chapter 22a: Polybius Praises the Loyalty of Gaza
 
 IV. Affairs in Syria When King Antiochus sacked the city of the Gazans, Polybius says:
 
@@ -720,7 +720,7 @@ A little later the Jews living around the sanctuary of the place called Jerusale
 
 We have more to say about this place, and especially about the renowned manifestation connected with the sanctuary there, but we shall postpone that account to another time.”
 
-## Book 16 Chapter 40
+## Book 16 Chapter 40: Geographical Fragments of Uncertain Place
 
 VIII. Fragments of Uncertain Place Babrantion, a place near Chios. Polybius, book sixteen.
 

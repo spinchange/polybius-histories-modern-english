@@ -23,11 +23,11 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 01,22,The Victory of Mylae,,## Book 1 Chapter 22: The Victory of Mylae,no,no
 01,23,Operations in Sicily,,## Book 1 Chapter 23: Operations in Sicily,no,no
 01,24,Further Operations in Sicily,,## Book 1 Chapter 24: Further Operations in Sicily,no,no
-01,25,The Battle of Ecnomus,duplicate-title,## Book 1 Chapter 25: The Battle of Ecnomus,no,no
+01,25,Skirmish off Tyndaris,case:off,## Book 1 Chapter 25: Skirmish off Tyndaris,no,no
 01,26,Preparations for Battle,,## Book 1 Chapter 26: Preparations for Battle,no,no
-01,27,The Battle of Ecnomus,duplicate-title,## Book 1 Chapter 27: The Battle of Ecnomus,no,no
-01,28,The Siege of Aspis,duplicate-title,## Book 1 Chapter 28: The Siege of Aspis,no,no
-01,29,The Siege of Aspis,duplicate-title,## Book 1 Chapter 29: The Siege of Aspis,no,no
+01,27,The Carthaginian Center Feigns Flight,,## Book 1 Chapter 27: The Carthaginian Center Feigns Flight,no,no
+01,28,The Battle Splits into Three Fights,,## Book 1 Chapter 28: The Battle Splits into Three Fights,no,no
+01,29,The Romans Land in Africa,,## Book 1 Chapter 29: The Romans Land in Africa,no,no
 01,30,Regulus in Africa,,## Book 1 Chapter 30: Regulus in Africa,no,no
 01,31,Distress at Carthage,,## Book 1 Chapter 31: Distress at Carthage,no,no
 01,32,Xanthippus of Sparta,,## Book 1 Chapter 32: Xanthippus of Sparta,no,no
@@ -179,11 +179,11 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 03,19,Illyrian War Successfully Finished,,## Book 3 Chapter 19: Illyrian War Successfully Finished,no,no
 03,20,Rome’s Reaction to the Fall of Saguntum,,## Book 3 Chapter 20: Rome’s Reaction to the Fall of Saguntum,no,no
 03,21,Romans Demand Surrender of Hannibal,,## Book 3 Chapter 21: Romans Demand Surrender of Hannibal,no,no
-03,22,Treaties between Rome and Carthage,duplicate-title,## Book 3 Chapter 22: Treaties between Rome and Carthage,no,no
+03,22,The First Treaty,,## Book 3 Chapter 22: The First Treaty,no,no
 03,23,Division of Territory,,## Book 3 Chapter 23: Division of Territory,no,no
-03,24,Treaties Between Rome and Carthage,duplicate-title,## Book 3 Chapter 24: Treaties Between Rome and Carthage,no,no
+03,24,The Second Treaty,,## Book 3 Chapter 24: The Second Treaty,no,no
 03,25,The Third Treaty,,## Book 3 Chapter 25: The Third Treaty,no,no
-03,26,Treaties Between Rome and Carthage,duplicate-title,## Book 3 Chapter 26: Treaties Between Rome and Carthage,no,no
+03,26,Philinus and the Treaties,,## Book 3 Chapter 26: Philinus and the Treaties,no,no
 03,27,The Fourth Treaty,,## Book 3 Chapter 27: The Fourth Treaty,no,no
 03,28,No Reasonable Pretext for Rome to Claim Sardinia,,## Book 3 Chapter 28: No Reasonable Pretext for Rome to Claim Sardinia,no,no
 03,29,The Roman Case For War,,## Book 3 Chapter 29: The Roman Case For War,no,no
@@ -204,7 +204,7 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 03,44,Hannibal Addresses His Men,,## Book 3 Chapter 44: Hannibal Addresses His Men,no,no
 03,45,Skirmish between Reconnoitring Parties,,## Book 3 Chapter 45: Skirmish between Reconnoitring Parties,no,no
 03,46,The Crossing of the Elephants,,## Book 3 Chapter 46: The Crossing of the Elephants,no,no
-03,47,Previous Histories of this March either False or Inconsistent,case:this/either,## Book 3 Chapter 47: Previous Histories of this March either False or Inconsistent,no,no
+03,47,Earlier Accounts of the March False or Inconsistent,,## Book 3 Chapter 47: Earlier Accounts of the March False or Inconsistent,no,no
 03,48,Absurd Premises of Other Historians,,## Book 3 Chapter 48: Absurd Premises of Other Historians,no,no
 03,49,Scipio Is Too Late To Stop Hannibal,,## Book 3 Chapter 49: Scipio Is Too Late To Stop Hannibal,no,no
 03,50,Hannibal Harassed By the Natives,,## Book 3 Chapter 50: Hannibal Harassed By the Natives,no,no
@@ -329,7 +329,7 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 04,51,"Byzantium, Rhodes, and Prusias Treaties",,"## Book 4 Chapter 51: Byzantium, Rhodes, and Prusias Treaties",no,no
 04,52,"Cavarus, Gallic King, Negotiates Peace",,"## Book 4 Chapter 52: Cavarus, Gallic King, Negotiates Peace",no,no
 04,53,War In Crete,,## Book 4 Chapter 53: War In Crete,no,no
-04,54,,format;no-title,## Book 4 Chapter 54,no,no
+04,54,The Fall of Lyttos,,## Book 4 Chapter 54: The Fall of Lyttos,no,no
 04,55,Polyrrhen and Lappa Join the Alliance,,## Book 4 Chapter 55: Polyrrhen and Lappa Join the Alliance,no,no
 04,56,Raid of Aetolians In the Peloponnese,,## Book 4 Chapter 56: Raid of Aetolians In the Peloponnese,no,no
 04,57,Philip Starts for Aetolia,,## Book 4 Chapter 57: Philip Starts for Aetolia,no,no
@@ -475,7 +475,7 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 05,110,Philip Withdraws to Cephallenia,,## Book 5 Chapter 110: Philip Withdraws to Cephallenia,no,no
 05,111,The Gauls In Asia,,## Book 5 Chapter 111: The Gauls In Asia,yes,yes
 06,1,Preface: Political Constitutions,,## Book 6 Chapter 1: Preface: Political Constitutions,no,yes
-06,2,,format;no-title,## Book 6 Chapter 2,no,no
+06,2,Why the Constitution Is Examined Now,,## Book 6 Chapter 2: Why the Constitution Is Examined Now,no,no
 06,3,Classification of Constitutions,,## Book 6 Chapter 3: Classification of Constitutions,no,no
 06,4,The Rotation of Polities,,## Book 6 Chapter 4: The Rotation of Polities,no,no
 06,5,The Origin of Constitutions,,## Book 6 Chapter 5: The Origin of Constitutions,no,no
@@ -485,8 +485,8 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 06,9,How Democracy Arises and Degenerates,,## Book 6 Chapter 9: How Democracy Arises and Degenerates,no,no
 06,10,Lycurgus,,## Book 6 Chapter 10: Lycurgus,no,no
 06,11,The Roman Constitution,,## Book 6 Chapter 11: The Roman Constitution,no,no
-06,11a,,format;no-title,## Book 6 Chapter 11a,no,yes
-06,11b,,format;no-title,## Book 6 Chapter 11b,no,no
+06,11a,"Fragments on Pallantium, Ostia, and Demaratus",,"## Book 6 Chapter 11a: Fragments on Pallantium, Ostia, and Demaratus",no,yes
+06,11b,Fragments on Courage and Olcium,,## Book 6 Chapter 11b: Fragments on Courage and Olcium,no,no
 06,12,The Consuls,,## Book 6 Chapter 12: The Consuls,no,no
 06,13,The Senate,,## Book 6 Chapter 13: The Senate,no,no
 06,14,The People,,## Book 6 Chapter 14: The People,no,no
@@ -511,7 +511,7 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 06,33,Guard Duty and Other Assignments,,## Book 6 Chapter 33: Guard Duty and Other Assignments,no,no
 06,34,Daily Orders and Watchwords,,## Book 6 Chapter 34: Daily Orders and Watchwords,no,no
 06,35,Night Watches,,## Book 6 Chapter 35: Night Watches,no,no
-06,36,,format;no-title,## Book 6 Chapter 36,no,no
+06,36,The Night Rounds of the Watch,,## Book 6 Chapter 36: The Night Rounds of the Watch,no,no
 06,37,The Tribunes’ Court,,## Book 6 Chapter 37: The Tribunes’ Court,no,no
 06,38,Military Punishments and Rewards,,## Book 6 Chapter 38: Military Punishments and Rewards,no,no
 06,39,Military Decorations,,## Book 6 Chapter 39: Military Decorations,no,no
@@ -534,10 +534,10 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 06,56,Religion Keeps the Roman Commonwealth Together,,## Book 6 Chapter 56: Religion Keeps the Roman Commonwealth Together,no,no
 06,57,Conclusion: Dangers Ahead for Rome,,## Book 6 Chapter 57: Conclusion: Dangers Ahead for Rome,no,no
 06,58,Even Hannibal Acknowledges the Spirit of the Romans,,## Book 6 Chapter 58: Even Hannibal Acknowledges the Spirit of the Romans,no,no
-06,59,,format;no-title,## Book 6 Chapter 59,no,no
+06,59,Rhynchos near Stratus,case:near,## Book 6 Chapter 59: Rhynchos near Stratus,no,no
 07,1,Capua and Petelia,,## Book 7 Chapter 1: Capua and Petelia,no,no
-07,2,Hieronymus of Syracuse,duplicate-title,## Book 7 Chapter 2: Hieronymus of Syracuse,no,no
-07,3,Hieronymus of Syracuse,duplicate-title,## Book 7 Chapter 3: Hieronymus of Syracuse,no,no
+07,2,Hieronymus Sends Envoys to Hannibal,,## Book 7 Chapter 2: Hieronymus Sends Envoys to Hannibal,no,no
+07,3,Hieronymus Rebuffs the Roman Envoys,,## Book 7 Chapter 3: Hieronymus Rebuffs the Roman Envoys,no,no
 07,4,The Treaty with Carthage,,## Book 7 Chapter 4: The Treaty with Carthage,no,no
 07,5,Hieronymus Decides For War,,## Book 7 Chapter 5: Hieronymus Decides For War,no,no
 07,6,Description of Leontini,,## Book 7 Chapter 6: Description of Leontini,no,no
@@ -549,9 +549,9 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 07,12,Philip’s Loss of Popularity,,## Book 7 Chapter 12: Philip’s Loss of Popularity,no,no
 07,13,Philip Begins to Become a Tyrant,,## Book 7 Chapter 13: Philip Begins to Become a Tyrant,no,no
 07,14,Aratus a Moderating Influence on Philip,,## Book 7 Chapter 14: Aratus a Moderating Influence on Philip,no,no
-07,14b,,format;no-title,## Book 7 Chapter 14b,no,no
-07,14c,,format;no-title,## Book 7 Chapter 14c,no,no
-07,14d,,format;no-title,## Book 7 Chapter 14d,no,no
+07,14b,A Forged Letter and the Cretans,,## Book 7 Chapter 14b: A Forged Letter and the Cretans,no,no
+07,14c,The Massylians of Libya,,## Book 7 Chapter 14c: The Massylians of Libya,no,no
+07,14d,Oricus on the Adriatic,,## Book 7 Chapter 14d: Oricus on the Adriatic,no,no
 07,15,The War of Antiochus with Achaeus,,## Book 7 Chapter 15: The War of Antiochus with Achaeus,no,no
 07,16,Antiochus Takes Sardis,,## Book 7 Chapter 16: Antiochus Takes Sardis,no,no
 07,17,The Sack of Sardis,,## Book 7 Chapter 17: The Sack of Sardis,no,no
@@ -559,20 +559,20 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 08,1,The Necessity of Caution in Dealing with an Enemy,,## Book 8 Chapter 1: The Necessity of Caution in Dealing with an Enemy,no,no
 08,2,Immense Exertions of Rome,,## Book 8 Chapter 2: Immense Exertions of Rome,no,no
 08,3,Rome and Carthage Continue to Covet Sardinia and Sicily,,## Book 8 Chapter 3: Rome and Carthage Continue to Covet Sardinia and Sicily,no,no
-08,3a,,format;no-title,## Book 8 Chapter 3a,no,no
+08,3a,A Saying on Silence,,## Book 8 Chapter 3a: A Saying on Silence,no,no
 08,4,History of Universal Supremacy Must Be a Universal History,,## Book 8 Chapter 4: History of Universal Supremacy Must Be a Universal History,no,no
 08,5,Syracuse’s Defenses,,## Book 8 Chapter 5: Syracuse’s Defenses,no,no
 08,6,Siege of Syracuse,,## Book 8 Chapter 6: Siege of Syracuse,no,no
 08,7,Archimedes,,## Book 8 Chapter 7: Archimedes,no,no
 08,8,Other Inventions of Archimedes,,## Book 8 Chapter 8: Other Inventions of Archimedes,no,no
-08,8a,,format;no-title,## Book 8 Chapter 8a,no,no
+08,8a,Demetrius Killed at Messene,,## Book 8 Chapter 8a: Demetrius Killed at Messene,no,no
 08,9,The Assault By Land Repulsed,,## Book 8 Chapter 9: The Assault By Land Repulsed,no,no
 08,10,Philip Devastates Messene,,## Book 8 Chapter 10: Philip Devastates Messene,no,no
 08,11,Criticism Of Theopompus,,## Book 8 Chapter 11: Criticism Of Theopompus,no,no
 08,12,"Philip, Alexander, And the Diadochi",,"## Book 8 Chapter 12: Philip, Alexander, And the Diadochi",no,no
 08,13,Flawed Structure of Theopompus’s History,,## Book 8 Chapter 13: Flawed Structure of Theopompus’s History,no,no
 08,14,Aratus Poisoned,,## Book 8 Chapter 14: Aratus Poisoned,no,no
-08,14b,,format;no-title,## Book 8 Chapter 14b,no,no
+08,14b,Dassaretae and Hyscana in Illyria,,## Book 8 Chapter 14b: Dassaretae and Hyscana in Illyria,no,no
 08,15,"Philip Takes Lissus in Illyria, 213 BC",,"## Book 8 Chapter 15: Philip Takes Lissus in Illyria, 213 BC",no,no
 08,16,Philip V. In Illyria,,## Book 8 Chapter 16: Philip V. In Illyria,no,no
 08,17,Bolis the Cretan Agrees to Rescue Achaeus,,## Book 8 Chapter 17: Bolis the Cretan Agrees to Rescue Achaeus,no,no
@@ -597,7 +597,7 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 08,36,The Tarentines Blockade the Romans,,## Book 8 Chapter 36: The Tarentines Blockade the Romans,no,no
 08,37,"Fall of Syracuse, 212 BC",,"## Book 8 Chapter 37: Fall of Syracuse, 212 BC",no,no
 08,38,Beasts of Burden Used as a Defensive Wall,,## Book 8 Chapter 38: Beasts of Burden Used as a Defensive Wall,no,no
-08,38b,,format;no-title,## Book 8 Chapter 38b,no,no
+08,38b,Angara and a Man Resolved to Endure,,## Book 8 Chapter 38b: Angara and a Man Resolved to Endure,no,no
 09,1,Extract from the Preface,,## Book 9 Chapter 1: Extract from the Preface,yes,yes
 09,2,Why Focus on Actions,,## Book 9 Chapter 2: Why Focus on Actions,no,no
 09,3,The Hannibalian War,,## Book 9 Chapter 3: The Hannibalian War,no,no
@@ -609,7 +609,7 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 09,9,When Audacity is the Truest Safety,,## Book 9 Chapter 9: When Audacity is the Truest Safety,no,no
 09,10,The Spoils of Syracuse: Works of Art Taken To Rome,,## Book 9 Chapter 10: The Spoils of Syracuse: Works of Art Taken To Rome,no,no
 09,11,Spain,,## Book 9 Chapter 11: Spain,no,no
-09,11a,,format;no-title,## Book 9 Chapter 11a,no,no
+09,11a,Rome Seeks Grain from Egypt,,## Book 9 Chapter 11a: Rome Seeks Grain from Egypt,no,no
 09,12,On the Art of Commanding Armies,,## Book 9 Chapter 12: On the Art of Commanding Armies,no,no
 09,13,Scientific Strategy,,## Book 9 Chapter 13: Scientific Strategy,no,no
 09,14,Generals Also Need to Know Science,,## Book 9 Chapter 14: Generals Also Need to Know Science,no,no
@@ -620,12 +620,12 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 09,19,Example: Why Nicias Failed at Syracuse,,## Book 9 Chapter 19: Example: Why Nicias Failed at Syracuse,no,no
 09,20,Need of Some Knowledge of Mathematics,,## Book 9 Chapter 20: Need of Some Knowledge of Mathematics,no,no
 09,21,The Computation of the Size of Cities,,## Book 9 Chapter 21: The Computation of the Size of Cities,no,no
-09,22,Estimate of Hannibal,duplicate-title,## Book 9 Chapter 22: Estimate of Hannibal,no,no
+09,22,Hannibal as the One Directing Mind,,## Book 9 Chapter 22: Hannibal as the One Directing Mind,no,no
 09,23,Examples of Actions Contrary to Principles,,## Book 9 Chapter 23: Examples of Actions Contrary to Principles,no,no
-09,24,Estimate of Hannibal,duplicate-title,## Book 9 Chapter 24: Estimate of Hannibal,no,no
+09,24,Monomachus Proposes Eating Human Flesh,,## Book 9 Chapter 24: Monomachus Proposes Eating Human Flesh,no,no
 09,25,Hannibal’s Greed,,## Book 9 Chapter 25: Hannibal’s Greed,no,no
 09,26,Hannibal Treats Different Cities in Different Ways,,## Book 9 Chapter 26: Hannibal Treats Different Cities in Different Ways,no,no
-09,26a,,format;no-title,## Book 9 Chapter 26a,no,no
+09,26a,Why Perimeter Does Not Measure Size,,## Book 9 Chapter 26a: Why Perimeter Does Not Measure Size,no,no
 09,27,Agrigentum,,## Book 9 Chapter 27: Agrigentum,no,no
 09,28,Greece: Philip Reduces Thessaly,,## Book 9 Chapter 28: Greece: Philip Reduces Thessaly,no,no
 09,29,Speech of Chlaeneas,,## Book 9 Chapter 29: Speech of Chlaeneas,no,no
@@ -643,8 +643,8 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 09,41,Investment of Echinus by Philip,,## Book 9 Chapter 41: Investment of Echinus by Philip,no,no
 09,42,Asia and Egypt,,## Book 9 Chapter 42: Asia and Egypt,no,no
 09,43,Nature of the Euphrates River,,## Book 9 Chapter 43: Nature of the Euphrates River,no,no
-09,44,Embassy from Rome to Ptolemy,,## Book 9 Chapter 44: Embassy from Rome to Ptolemy,no,no
-09,45,,format;no-title,## Book 9 Chapter 45,no,no
+09,44,Goodwill in Allies and Universal History,,## Book 9 Chapter 44: Goodwill in Allies and Universal History,no,no
+09,45,"Cyathus, Arsinoe, Xynia, and Phorunna",,"## Book 9 Chapter 45: Cyathus, Arsinoe, Xynia, and Phorunna",no,no
 10,1,The Hannibalian War — The Recovery of Tarentum,,## Book 10 Chapter 1: The Hannibalian War — The Recovery of Tarentum,no,no
 10,2,"Publius Cornelius Scipio Africanus in Spain, 210–206 BC. His Character",,"## Book 10 Chapter 2: Publius Cornelius Scipio Africanus in Spain, 210–206 BC. His Character",no,no
 10,3,Scipio’s First Brilliant Success,,## Book 10 Chapter 3: Scipio’s First Brilliant Success,no,no
@@ -687,7 +687,7 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 10,40,Scipio Refuses the Title “King”,,## Book 10 Chapter 40: Scipio Refuses the Title “King”,no,no
 10,41,Affairs in Greece: Philip V. Called In Against the Aetolians,,## Book 10 Chapter 41: Affairs in Greece: Philip V. Called In Against the Aetolians,no,no
 10,42,Reinforcements Sent to Various Cities,,## Book 10 Chapter 42: Reinforcements Sent to Various Cities,no,no
-10,43,Fire signals,case:signals,## Book 10 Chapter 43: Fire signals,no,no
+10,43,Fire Signals,,## Book 10 Chapter 43: Fire Signals,no,no
 10,44,Methods of Signalling,,## Book 10 Chapter 44: Methods of Signalling,no,no
 10,45,An Improved Method,,## Book 10 Chapter 45: An Improved Method,no,no
 10,46,Improvements In Signalling,,## Book 10 Chapter 46: Improvements In Signalling,no,no
@@ -695,7 +695,7 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 10,48,Antiochus Crosses the Arius,,## Book 10 Chapter 48: Antiochus Crosses the Arius,no,no
 10,49,Antiochus Engages the Bactrians,,## Book 10 Chapter 49: Antiochus Engages the Bactrians,no,no
 11,1,Death of Hasdrubal,olympiad-rubric-missing,## Book 11 Chapter 1: Death of Hasdrubal,yes,no
-11,1a,,format;no-title,## Book 11 Chapter 1a,yes,yes
+11,1a,Why Polybius Prefaces Each Olympiad,,## Book 11 Chapter 1a: Why Polybius Prefaces Each Olympiad,yes,yes
 11,2,Hasdrubal’s Conduct in His Last Battle,,## Book 11 Chapter 2: Hasdrubal’s Conduct in His Last Battle,no,no
 11,3,The Romans Celebrate a Victory,,## Book 11 Chapter 3: The Romans Celebrate a Victory,no,no
 11,4,A Plea For Union In Greece,,## Book 11 Chapter 4: A Plea For Union In Greece,no,no
@@ -713,14 +713,14 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 11,16,Philopoemen Seizes an Opportunity,,## Book 11 Chapter 16: Philopoemen Seizes an Opportunity,no,no
 11,17,Army of Machanidas Put to Flight,,## Book 11 Chapter 17: Army of Machanidas Put to Flight,no,no
 11,18,Fall of Machanidas,,## Book 11 Chapter 18: Fall of Machanidas,no,no
-11,18a,,format;no-title,## Book 11 Chapter 18a,no,no
+11,18a,The Value of Analyzing Causes,,## Book 11 Chapter 18a: The Value of Analyzing Causes,no,no
 11,19,The Hannibalian War Continued,,## Book 11 Chapter 19: The Hannibalian War Continued,no,no
 11,20,"Scipio in Spain, After the Battle of the Metaurus",,"## Book 11 Chapter 20: Scipio in Spain, After the Battle of the Metaurus",no,no
 11,21,Futile Attack by Mago,,## Book 11 Chapter 21: Futile Attack by Mago,no,no
 11,22,Defeat of Hasdrubal Son of Gesco,,## Book 11 Chapter 22: Defeat of Hasdrubal Son of Gesco,no,no
 11,23,Scipio Outflanks the Enemy,,## Book 11 Chapter 23: Scipio Outflanks the Enemy,no,no
 11,24,Carthaginians Driven From Spain,,## Book 11 Chapter 24: Carthaginians Driven From Spain,no,no
-11,24a,,format;no-title,## Book 11 Chapter 24a,no,no
+11,24a,A Saying of Scipio,,## Book 11 Chapter 24a: A Saying of Scipio,no,no
 11,25,Scipio Suppresses A Mutiny in Spain,,## Book 11 Chapter 25: Scipio Suppresses A Mutiny in Spain,no,no
 11,26,Scipio’s Plan to Punish the Rebels,,## Book 11 Chapter 26: Scipio’s Plan to Punish the Rebels,no,no
 11,27,Suppression of the Mutiny,,## Book 11 Chapter 27: Suppression of the Mutiny,no,no
@@ -735,22 +735,22 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 12,2,The Lotus,,## Book 12 Chapter 2: The Lotus,no,no
 12,3,Timaeus Wrong about Libya,,## Book 12 Chapter 3: Timaeus Wrong about Libya,no,no
 12,4,The Errors of Timaeus,,## Book 12 Chapter 4: The Errors of Timaeus,no,no
-12,4a,,format;no-title,## Book 12 Chapter 4a,no,no
-12,4b,,format;no-title,## Book 12 Chapter 4b,no,no
-12,4c,,format;no-title,## Book 12 Chapter 4c,no,no
-12,4d,,format;no-title,## Book 12 Chapter 4d,no,no
+12,4a,Timaeus' Petty Charges against Theopompus and Ephorus,,## Book 12 Chapter 4a: Timaeus' Petty Charges against Theopompus and Ephorus,no,no
+12,4b,Timaeus on the Roman Horse Sacrifice,,## Book 12 Chapter 4b: Timaeus on the Roman Horse Sacrifice,no,no
+12,4c,Why Timaeus Fails at Inquiry,,## Book 12 Chapter 4c: Why Timaeus Fails at Inquiry,no,no
+12,4d,Timaeus and the Spring Arethusa,,## Book 12 Chapter 4d: Timaeus and the Spring Arethusa,no,no
 12,5,Aristotle’s Account of Locri is Correct,,## Book 12 Chapter 5: Aristotle’s Account of Locri is Correct,no,no
 12,6,The Epizephyrian Locrians,,## Book 12 Chapter 6: The Epizephyrian Locrians,no,no
-12,6a,,format;no-title,## Book 12 Chapter 6a,no,no
-12,6b,,format;no-title,## Book 12 Chapter 6b,no,no
+12,6a,Freedmen Claim Their Masters' Kinship,,## Book 12 Chapter 6a: Freedmen Claim Their Masters' Kinship,no,no
+12,6b,Locrian Wives and Spartan Customs,,## Book 12 Chapter 6b: Locrian Wives and Spartan Customs,no,no
 12,7,Timaeus and the Character of a Historian,,## Book 12 Chapter 7: Timaeus and the Character of a Historian,no,no
 12,8,Timaeus Criticises Aristotle,,## Book 12 Chapter 8: Timaeus Criticises Aristotle,no,no
 12,9,Timaeus’s Statement of Method,,## Book 12 Chapter 9: Timaeus’s Statement of Method,no,no
 12,10,The Investigations of Timaeus,,## Book 12 Chapter 10: The Investigations of Timaeus,no,no
 12,11,Timaeus’s Use of Chronological Records,,## Book 12 Chapter 11: Timaeus’s Use of Chronological Records,no,no
 12,12,Timaeus On Divination,,## Book 12 Chapter 12: Timaeus On Divination,no,no
-12,12a,,format;no-title,## Book 12 Chapter 12a,no,no
-12,12b,,format;no-title,## Book 12 Chapter 12b,no,no
+12,12a,The Locrians and Their Compacts,,## Book 12 Chapter 12a: The Locrians and Their Compacts,no,no
+12,12b,Timaeus Condemns Callisthenes,,## Book 12 Chapter 12b: Timaeus Condemns Callisthenes,no,no
 12,13,Timaeus On Demochares and Agathocles,,## Book 12 Chapter 13: Timaeus On Demochares and Agathocles,no,no
 12,14,No Place in History for Abusive Language,,## Book 12 Chapter 14: No Place in History for Abusive Language,no,no
 12,15,Timaeus Blinded by Personal Malignity,,## Book 12 Chapter 15: Timaeus Blinded by Personal Malignity,no,no
@@ -764,27 +764,27 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 12,23,Timaeus Exalts Timoleon To Excess,,## Book 12 Chapter 23: Timaeus Exalts Timoleon To Excess,no,no
 12,24,Timoleon. Phalaris,,## Book 12 Chapter 24: Timoleon. Phalaris,no,no
 12,25,General Remarks on Timaeus as an Historian,,## Book 12 Chapter 25: General Remarks on Timaeus as an Historian,no,no
-12,25a,,format;no-title,## Book 12 Chapter 25a,no,no
-12,25b,,format;no-title,## Book 12 Chapter 25b,no,no
-12,25c,,format;no-title,## Book 12 Chapter 25c,no,no
-12,25d,,format;no-title,## Book 12 Chapter 25d,no,no
-12,25e,,format;no-title,## Book 12 Chapter 25e,no,no
-12,25f,,format;no-title,## Book 12 Chapter 25f,no,no
-12,25g,,format;no-title,## Book 12 Chapter 25g,no,no
-12,25h,,format;no-title,## Book 12 Chapter 25h,no,no
-12,25i,,format;no-title,## Book 12 Chapter 25i,no,no
-12,25k,,format;no-title,## Book 12 Chapter 25k,no,no
+12,25a,Timaeus’s Invented Speeches,,## Book 12 Chapter 25a: Timaeus’s Invented Speeches,no,no
+12,25b,Why History Must Report Real Speeches,,## Book 12 Chapter 25b: Why History Must Report Real Speeches,no,no
+12,25c,Why Readers Trusted Timaeus,,## Book 12 Chapter 25c: Why Readers Trusted Timaeus,no,no
+12,25d,History Compared with Medicine,,## Book 12 Chapter 25d: History Compared with Medicine,no,no
+12,25e,The Three Branches of Practical History,,## Book 12 Chapter 25e: The Three Branches of Practical History,no,no
+12,25f,Ephorus Ignorant of Land Battles,,## Book 12 Chapter 25f: Ephorus Ignorant of Land Battles,no,no
+12,25g,Bookish Writers Lack Experience of War,,## Book 12 Chapter 25g: Bookish Writers Lack Experience of War,no,no
+12,25h,Timaeus’s Fifty Years in Athens,,## Book 12 Chapter 25h: Timaeus’s Fifty Years in Athens,no,no
+12,25i,Documents as the Third Part of History,,## Book 12 Chapter 25i: Documents as the Third Part of History,no,no
+12,25k,Timaeus’s Speeches at Gela,,## Book 12 Chapter 25k: Timaeus’s Speeches at Gela,no,no
 12,26,Sophistical Commonplaces,,## Book 12 Chapter 26: Sophistical Commonplaces,no,no
-12,26a,,format;no-title,## Book 12 Chapter 26a,no,no
-12,26b,,format;no-title,## Book 12 Chapter 26b,no,no
-12,26c,,format;no-title,## Book 12 Chapter 26c,no,no
-12,26d,,format;no-title,## Book 12 Chapter 26d,no,no
+12,26a,Timoleon’s Taunt about Libyan Cowardice,,## Book 12 Chapter 26a: Timoleon’s Taunt about Libyan Cowardice,no,no
+12,26b,Gelon’s Offer to the Greeks,,## Book 12 Chapter 26b: Gelon’s Offer to the Greeks,no,no
+12,26c,Love of Paradox Brings Ridicule,,## Book 12 Chapter 26c: Love of Paradox Brings Ridicule,no,no
+12,26d,Timaeus on Colonies and Kinships,,## Book 12 Chapter 26d: Timaeus on Colonies and Kinships,no,no
 12,27,An Historian Needs Practical Experience,,## Book 12 Chapter 27: An Historian Needs Practical Experience,no,no
-12,27a,,format;no-title,## Book 12 Chapter 27a,no,no
+12,27a,The Cause of Timaeus’s Errors,,## Book 12 Chapter 27a: The Cause of Timaeus’s Errors,no,no
 12,28,Mere Inquiry Is Insufficient,,## Book 12 Chapter 28: Mere Inquiry Is Insufficient,no,no
-12,28a,,format;no-title,## Book 12 Chapter 28a,no,no
+12,28a,Timaeus on the Dignity of History,,## Book 12 Chapter 28a: Timaeus on the Dignity of History,no,no
 13,1,The Aetolians,,## Book 13 Chapter 1: The Aetolians,no,no
-13,1a,,format;no-title,## Book 13 Chapter 1a,no,no
+13,1a,Alexander the Aetolian Opposes the Proposed Law,,## Book 13 Chapter 1a: Alexander the Aetolian Opposes the Proposed Law,no,no
 13,2,Scopas Goes to Egypt,,## Book 13 Chapter 2: Scopas Goes to Egypt,no,no
 13,3,"Philip’s Treacherous Conduct, 204 BC",,"## Book 13 Chapter 3: Philip’s Treacherous Conduct, 204 BC",no,no
 13,4,Philip Intrigues Against Rhodes,,## Book 13 Chapter 4: Philip Intrigues Against Rhodes,no,no
@@ -793,7 +793,7 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 13,7,Nabis’s Wife,,## Book 13 Chapter 7: Nabis’s Wife,no,no
 13,8,Nabis Finds a Pretext for War,,## Book 13 Chapter 8: Nabis Finds a Pretext for War,no,no
 13,9,"Antiochus in Arabia, 205–204 BC",,"## Book 13 Chapter 9: Antiochus in Arabia, 205–204 BC",no,no
-13,10,,format;no-title,## Book 13 Chapter 10,no,no
+13,10,Geographical Fragments from Italy and Greece,,## Book 13 Chapter 10: Geographical Fragments from Italy and Greece,no,no
 14,1,Scipio Plans To Attack the Punic Camp,,## Book 14 Chapter 1: Scipio Plans To Attack the Punic Camp,no,no
 14,1a,Preface,,## Book 14 Chapter 1a: Preface,no,yes
 14,2,Scipio Prepares to Attack Utica by Sea,,## Book 14 Chapter 2: Scipio Prepares to Attack Utica by Sea,no,no
@@ -834,7 +834,7 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 15,24a,Egypt,,## Book 15 Chapter 24a: Egypt,no,no
 15,25,Ptolemy Epiphanes Succeeds To the Crown,,## Book 15 Chapter 25: Ptolemy Epiphanes Succeeds To the Crown,no,no
 15,26,Another Murder Committed by Agathocles,,## Book 15 Chapter 26: Another Murder Committed by Agathocles,no,no
-15,26a,,format;no-title,## Book 15 Chapter 26a,no,no
+15,26a,Agathocles Kills Deinon,,## Book 15 Chapter 26a: Agathocles Kills Deinon,no,no
 15,27,Growing Hatred of Agathocles,,## Book 15 Chapter 27: Growing Hatred of Agathocles,no,no
 15,28,Moeragenes Escapes,,## Book 15 Chapter 28: Moeragenes Escapes,no,no
 15,29,A Revolt Decided Upon By the Army,,## Book 15 Chapter 29: A Revolt Decided Upon By the Army,no,no
@@ -847,7 +847,7 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 15,36,Agathocles Was Not An Important Person,,## Book 15 Chapter 36: Agathocles Was Not An Important Person,no,no
 15,37,Antiochus,,## Book 15 Chapter 37: Antiochus,no,no
 16,1,"Philip V. Wages War with Attalus, King of Pergamum, and the Rhodians.",,"## Book 16 Chapter 1: Philip V. Wages War with Attalus, King of Pergamum, and the Rhodians.",no,no
-16,2,"Great Sea-fight Off Chios Between Philip and the Allied Fleets of Attalus and Rhodes, 201 BC",long-title,"## Book 16 Chapter 2: Great Sea-fight Off Chios Between Philip and the Allied Fleets of Attalus and Rhodes, 201 BC",no,no
+16,2,The Sea Battle off Chios,case:off,## Book 16 Chapter 2: The Sea Battle off Chios,no,no
 16,3,Incidents of the Sea-Fight,,## Book 16 Chapter 3: Incidents of the Sea-Fight,no,no
 16,4,The Sea-Battle Undecided,,## Book 16 Chapter 4: The Sea-Battle Undecided,no,no
 16,5,Attalus Barely Escapes Capture,,## Book 16 Chapter 5: Attalus Barely Escapes Capture,no,no
@@ -855,7 +855,7 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 16,7,Losses in the Battle,,## Book 16 Chapter 7: Losses in the Battle,no,no
 16,8,Philip Vainly Claims the Victory At Chios,,## Book 16 Chapter 8: Philip Vainly Claims the Victory At Chios,no,no
 16,9,Death of Theophiliscus,,## Book 16 Chapter 9: Death of Theophiliscus,no,no
-16,10,"The Indecisive Battle of Chios Was Followed by Another Off Lade, in Which Philip Was Partly Successful1 1 “Jam cum Rhodiis et Attalo navalibus certaminibus, neutro feliciter, vires expertus.” Livy, 31, 14.",case:cum/et/navalibus/certaminibus/neutro/feliciter/vires/expertus;long-title,"## Book 16 Chapter 10: The Indecisive Battle of Chios Was Followed by Another Off Lade, in Which Philip Was Partly Successful1 1 “Jam cum Rhodiis et Attalo navalibus certaminibus, neutro feliciter, vires expertus.” Livy, 31, 14.",no,no
+16,10,Philip's Abandoned Voyage to Alexandria,,## Book 16 Chapter 10: Philip's Abandoned Voyage to Alexandria,no,no
 16,11,"Philip’s Operations in Caria, 201 BC",,"## Book 16 Chapter 11: Philip’s Operations in Caria, 201 BC",no,no
 16,12,Description of Iassus,,## Book 16 Chapter 12: Description of Iassus,no,no
 16,13,Affairs in Greece,,## Book 16 Chapter 13: Affairs in Greece,no,no
@@ -868,7 +868,7 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 16,20,Zeno Acknowledges His Error,,## Book 16 Chapter 20: Zeno Acknowledges His Error,no,no
 16,21,Egypt — Character of Tlepolemus,,## Book 16 Chapter 21: Egypt — Character of Tlepolemus,no,no
 16,22,Intrigues At Alexandria,,## Book 16 Chapter 22: Intrigues At Alexandria,no,no
-16,22a,,format;no-title,## Book 16 Chapter 22a,no,no
+16,22a,Polybius Praises the Loyalty of Gaza,,## Book 16 Chapter 22a: Polybius Praises the Loyalty of Gaza,no,no
 16,23,Scipio’s Triumph,,## Book 16 Chapter 23: Scipio’s Triumph,no,no
 16,24,War Between Rome and Philip V,,## Book 16 Chapter 24: War Between Rome and Philip V,no,no
 16,25,King Attalus At Athens,,## Book 16 Chapter 25: King Attalus At Athens,no,no
@@ -886,7 +886,7 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 16,37,A Raid Upon Laconia,,## Book 16 Chapter 37: A Raid Upon Laconia,no,no
 16,38,Philip Tries to Rouse the Achaeans Against Rome,,## Book 16 Chapter 38: Philip Tries to Rouse the Achaeans Against Rome,no,no
 16,39,Coele-Syria,,## Book 16 Chapter 39: Coele-Syria,no,no
-16,40,,format;no-title,## Book 16 Chapter 40,no,no
+16,40,Geographical Fragments of Uncertain Place,,## Book 16 Chapter 40: Geographical Fragments of Uncertain Place,no,no
 18,1,The War with Philip,,## Book 18 Chapter 1: The War with Philip,no,no
 18,2,Congress of Nicaea,,## Book 18 Chapter 2: Congress of Nicaea,no,no
 18,3,Speech of Alexander Isius,,## Book 18 Chapter 3: Speech of Alexander Isius,no,no
@@ -928,7 +928,7 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 18,39,Peace Terms Agreed On,,## Book 18 Chapter 39: Peace Terms Agreed On,no,no
 18,40,Foolish Credulity,,## Book 18 Chapter 40: Foolish Credulity,no,no
 18,41,Asia: King Attalus I,,## Book 18 Chapter 41: Asia: King Attalus I,no,no
-18,41a,,format;no-title,## Book 18 Chapter 41a,no,no
+18,41a,Antiochus Covets Ephesus,,## Book 18 Chapter 41a: Antiochus Covets Ephesus,no,no
 18,42,Italy: Treaty with Philip Confirmed,,## Book 18 Chapter 42: Italy: Treaty with Philip Confirmed,no,no
 18,43,Greece: Murder of Brachylles,,## Book 18 Chapter 43: Greece: Murder of Brachylles,no,no
 18,44,Decree of the Senate on the Peace with Philip,,## Book 18 Chapter 44: Decree of the Senate on the Peace with Philip,no,no
@@ -944,30 +944,30 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 18,54,Scopas and Dicaearchus Punished,,## Book 18 Chapter 54: Scopas and Dicaearchus Punished,no,no
 18,55,Anacleteria of Ptolemy Epiphanes,,## Book 18 Chapter 55: Anacleteria of Ptolemy Epiphanes,no,no
 19,1,Summary Based on Livy,,## Book 19 Chapter 1: Summary Based on Livy,no,no
-19,2,,format;no-title,## Book 19 Chapter 2,no,no
+19,2,Hannibal Sells His Prisoners,,## Book 19 Chapter 2: Hannibal Sells His Prisoners,no,no
 20,1,Greece: Antiochus and the Aetolians Meet,,## Book 20 Chapter 1: Greece: Antiochus and the Aetolians Meet,no,yes
-20,2,The Boeotians Answer Antiochus,,## Book 20 Chapter 2: The Boeotians Answer Antiochus,no,no
+20,2,The Boeotians Answer Philip's Envoys,,## Book 20 Chapter 2: The Boeotians Answer Philip's Envoys,no,no
 20,3,Epirus and Elis Ask Antiochus for Help,,## Book 20 Chapter 3: Epirus and Elis Ask Antiochus for Help,no,no
 20,4,The Decline of Boeotia,,## Book 20 Chapter 4: The Decline of Boeotia,no,no
 20,5,Continued Decline of Boeotia,,## Book 20 Chapter 5: Continued Decline of Boeotia,no,no
 20,6,Disorganised State of Boeotia,,## Book 20 Chapter 6: Disorganised State of Boeotia,no,no
 20,7,Fortune and Degeneracy of the Boeotians,,## Book 20 Chapter 7: Fortune and Degeneracy of the Boeotians,no,no
-20,8,Submission of the Aetolian Officers,,## Book 20 Chapter 8: Submission of the Aetolian Officers,no,no
+20,8,Antiochus Marries at Chalcis,,## Book 20 Chapter 8: Antiochus Marries at Chalcis,no,no
 20,9,The Aetolians Seek a Truce,,## Book 20 Chapter 9: The Aetolians Seek a Truce,no,no
 20,10,The Aetolians Do Not Confirm the Terms,,## Book 20 Chapter 10: The Aetolians Do Not Confirm the Terms,no,no
 20,11,The Fate of Nicander,,## Book 20 Chapter 11: The Fate of Nicander,no,no
 20,12,Philopoemen’s Disinterestedness,,## Book 20 Chapter 12: Philopoemen’s Disinterestedness,no,no
 20,?,,unparsed-heading,## II. Fragment of Uncertain Place,,
 21,1,Embassy from Sparta,,## Book 21 Chapter 1: Embassy from Sparta,no,yes
-21,2,Embassy from Philip,,## Book 21 Chapter 2: Embassy from Philip,no,no
-21,3,The Scipios In Greece,,## Book 21 Chapter 3: The Scipios In Greece,no,no
-21,3b,,format;no-title,## Book 21 Chapter 3b,no,no
+21,2,The Senate Offers the Aetolians Two Terms,,## Book 21 Chapter 2: The Senate Offers the Aetolians Two Terms,no,no
+21,3,Philip's Envoys Win Demetrius's Release,,## Book 21 Chapter 3: Philip's Envoys Win Demetrius's Release,no,no
+21,3b,Achaea Allies with Eumenes,,## Book 21 Chapter 3b: Achaea Allies with Eumenes,no,no
 21,4,The Athenians Intercede for the Aetolians,,## Book 21 Chapter 4: The Athenians Intercede for the Aetolians,no,no
 21,5,Truce With the Aetolians,,## Book 21 Chapter 5: Truce With the Aetolians,no,no
 21,6,Asia: Factions at Phocaea,,## Book 21 Chapter 6: Asia: Factions at Phocaea,no,no
 21,7,The Rhodian Firing Apparatus,,## Book 21 Chapter 7: The Rhodian Firing Apparatus,no,no
 21,8,The Aetolian Truce Announced,,## Book 21 Chapter 8: The Aetolian Truce Announced,no,no
-21,9,Antiochus At Pergamum,,## Book 21 Chapter 9: Antiochus At Pergamum,no,no
+21,9,Diophanes of Megalopolis as Commander,,## Book 21 Chapter 9: Diophanes of Megalopolis as Commander,no,no
 21,10,Antiochus Proposes Peace,,## Book 21 Chapter 10: Antiochus Proposes Peace,no,no
 21,11,Prusias Refuses To Help Antiochus,,## Book 21 Chapter 11: Prusias Refuses To Help Antiochus,no,no
 21,12,Pirates,,## Book 21 Chapter 12: Pirates,no,no
@@ -989,10 +989,10 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 21,28,Smoking Out the Enemy,,## Book 21 Chapter 28: Smoking Out the Enemy,no,no
 21,29,"Athens, Rhodes, and Athamania Intercede",,"## Book 21 Chapter 29: Athens, Rhodes, and Athamania Intercede",no,no
 21,30,End of the Aetolian War,,## Book 21 Chapter 30: End of the Aetolian War,no,no
-21,31,The Treaty With the Aetolians,,## Book 21 Chapter 31: The Treaty With the Aetolians,no,no
+21,31,Leon’s Simile of the Sea Wins Peace,,## Book 21 Chapter 31: Leon’s Simile of the Sea Wins Peace,no,no
 21,32,Terms of the Treaty,,## Book 21 Chapter 32: Terms of the Treaty,no,no
-21,32b,,format;no-title,## Book 21 Chapter 32b,no,no
-21,32c,,format;no-title,## Book 21 Chapter 32c,no,no
+21,32b,Fulvius Seizes the Citadel by Night,,## Book 21 Chapter 32b: Fulvius Seizes the Citadel by Night,no,no
+21,32c,Philopoemen Unites the Noble and the Advantageous,,## Book 21 Chapter 32c: Philopoemen Unites the Noble and the Advantageous,no,no
 21,33,The War with the Gauls of Asia,,## Book 21 Chapter 33: The War with the Gauls of Asia,no,no
 21,34,Moagetes of Cibyra,,## Book 21 Chapter 34: Moagetes of Cibyra,no,no
 21,35,Pacification of Pamphylia,,## Book 21 Chapter 35: Pacification of Pamphylia,no,no
@@ -1000,33 +1000,33 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 21,37,The Gauls of Asia,,## Book 21 Chapter 37: The Gauls of Asia,no,no
 21,38,A Gallic Woman Takes Vengeance,,## Book 21 Chapter 38: A Gallic Woman Takes Vengeance,no,no
 21,39,Attempted Treachery By the Gauls,,## Book 21 Chapter 39: Attempted Treachery By the Gauls,no,no
-21,40,Cephallenia,,## Book 21 Chapter 40: Cephallenia,no,no
-21,41,Philopoemen Combines What is Right and What is Expedient,,## Book 21 Chapter 41: Philopoemen Combines What is Right and What is Expedient,no,yes
-21,42,,format;no-title,## Book 21 Chapter 42,no,no
+21,40,A Proverb from the Ariarathes Affair,,## Book 21 Chapter 40: A Proverb from the Ariarathes Affair,no,no
+21,41,Embassies Crown Manlius at Ephesus,,## Book 21 Chapter 41: Embassies Crown Manlius at Ephesus,no,yes
+21,42,Perga Surrenders; Commissioners Meet at Apamea,,## Book 21 Chapter 42: Perga Surrenders; Commissioners Meet at Apamea,no,no
 21,43,Settlement of Asia,olympiad-rubric-missing,## Book 21 Chapter 43: Settlement of Asia,yes,no
-21,44,The Roman Commissioners Arrive at Ephesus,,## Book 21 Chapter 44: The Roman Commissioners Arrive at Ephesus,no,no
-21,45,Treaty With Antiochus,,## Book 21 Chapter 45: Treaty With Antiochus,no,no
-21,46,The Romans Burn Antiochus’s Ships at Patara,,## Book 21 Chapter 46: The Romans Burn Antiochus’s Ships at Patara,no,no
-21,47,Ariarathes Declared a Friend of Rome,,## Book 21 Chapter 47: Ariarathes Declared a Friend of Rome,no,no
+21,44,"Thermus Sent to Syria, Fleet Ordered to Patara",,"## Book 21 Chapter 44: Thermus Sent to Syria, Fleet Ordered to Patara",no,no
+21,45,Ariarathes Buys Roman Friendship,,## Book 21 Chapter 45: Ariarathes Buys Roman Friendship,no,no
+21,46,The Settlement of Asia at Apamea,,## Book 21 Chapter 46: The Settlement of Asia at Apamea,no,no
+21,47,Thracians Attack the Returning Romans,,## Book 21 Chapter 47: Thracians Attack the Returning Romans,no,no
 22,1,Contents,,## Book 22 Chapter 1: Contents,yes,yes
-22,2,,format;no-title,## Book 22 Chapter 2,no,yes
+22,2,Roman Envoys Meet the Achaeans at Cleitor,,## Book 22 Chapter 2: Roman Envoys Meet the Achaeans at Cleitor,no,yes
 22,3,Sparta and the League,,## Book 22 Chapter 3: Sparta and the League,no,no
 22,4,The Murderers of Brachylles,,## Book 22 Chapter 4: The Murderers of Brachylles,no,no
 22,5,Quarrel Between Lycians and Rhodians,,## Book 22 Chapter 5: Quarrel Between Lycians and Rhodians,no,no
-22,6,"Egypt Under Ptolemy Epiphanes After the Death of Aristomenes (18, 53, 54)",,"## Book 22 Chapter 6: Egypt Under Ptolemy Epiphanes After the Death of Aristomenes (18, 53, 54)",no,no
-22,7,Seeds of the Third Macedonian War,,## Book 22 Chapter 7: Seeds of the Third Macedonian War,no,no
-22,8,Origin of the Last Macedonian War,,## Book 22 Chapter 8: Origin of the Last Macedonian War,no,no
-22,9,The Senate Investigates Philip,,## Book 22 Chapter 9: The Senate Investigates Philip,no,no
+22,6,Envoys Accuse Philip Before the Senate,,## Book 22 Chapter 6: Envoys Accuse Philip Before the Senate,no,no
+22,7,Embassies Gather at the Achaean Assembly,,## Book 22 Chapter 7: Embassies Gather at the Achaean Assembly,no,no
+22,8,The Achaeans Refuse Eumenes's Gift,,## Book 22 Chapter 8: The Achaeans Refuse Eumenes's Gift,no,no
+22,9,Aristaenus Questions the Ptolemaic Alliance,,## Book 22 Chapter 9: Aristaenus Questions the Ptolemaic Alliance,no,no
 22,10,A Meeting of the Achaean League Parliament,,## Book 22 Chapter 10: A Meeting of the Achaean League Parliament,no,no
-22,11,Apollonidas and Cassander Urge Rejection of Eumenes’ Gifts,,## Book 22 Chapter 11: Apollonidas and Cassander Urge Rejection of Eumenes’ Gifts,no,yes
-22,12,Offers of Eumenes and Seleucus Declined,,## Book 22 Chapter 12: Offers of Eumenes and Seleucus Declined,no,no
-22,13,Caecilius In the Achaean Assembly,,## Book 22 Chapter 13: Caecilius In the Achaean Assembly,no,no
-22,14,Philopoemen on Archon,,## Book 22 Chapter 14: Philopoemen on Archon,no,no
-22,15,Caecilius Reports and Ambassadors Respond,,## Book 22 Chapter 15: Caecilius Reports and Ambassadors Respond,no,no
-22,16,Another Commission For Greece,,## Book 22 Chapter 16: Another Commission For Greece,no,no
-22,17,Philip and the Massacre At Maroneia,,## Book 22 Chapter 17: Philip and the Massacre At Maroneia,no,no
-22,18,Philip Hopes to Defer War With Rome,,## Book 22 Chapter 18: Philip Hopes to Defer War With Rome,no,yes
-22,19,Disputes in Crete,,## Book 22 Chapter 19: Disputes in Crete,no,no
+22,11,The Senate Hears Envoys on Macedonia and Sparta,,## Book 22 Chapter 11: The Senate Hears Envoys on Macedonia and Sparta,no,yes
+22,12,Achaeans and Spartans Plead Before the Senate,,## Book 22 Chapter 12: Achaeans and Spartans Plead Before the Senate,no,no
+22,13,Philip Massacres the Maronites,,## Book 22 Chapter 13: Philip Massacres the Maronites,no,no
+22,14,Philip Poisons Cassander and Sends Demetrius,,## Book 22 Chapter 14: Philip Poisons Cassander and Sends Demetrius,no,no
+22,15,Appius Settles Disputes in Crete,,## Book 22 Chapter 15: Appius Settles Disputes in Crete,no,no
+22,16,Philip’s Clemency and Ptolemy’s Cruelty,,## Book 22 Chapter 16: Philip’s Clemency and Ptolemy’s Cruelty,no,no
+22,17,Ptolemy Betrays the Egyptian Rebels,,## Book 22 Chapter 17: Ptolemy Betrays the Egyptian Rebels,no,no
+22,18,Pretexts Versus Causes of the Macedonian War,,## Book 22 Chapter 18: Pretexts Versus Causes of the Macedonian War,no,yes
+22,19,Philopoemen Praises Archon’s Cunning,,## Book 22 Chapter 19: Philopoemen Praises Archon’s Cunning,no,no
 22,20,"Apollonias, Widow of Attalus",,"## Book 22 Chapter 20: Apollonias, Widow of Attalus",no,no
 22,21,Ostiagon Tries to Become King of All the Gauls,,## Book 22 Chapter 21: Ostiagon Tries to Become King of All the Gauls,no,no
 22,22,Aristonicus,,## Book 22 Chapter 22: Aristonicus,no,no
@@ -1037,53 +1037,53 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 23,5,Deinocrates of Messene,,## Book 23 Chapter 5: Deinocrates of Messene,no,no
 23,6,Ambassadors from the Spartan Exiles,,## Book 23 Chapter 6: Ambassadors from the Spartan Exiles,no,no
 23,7,Philip and Perseus are Jealous of Demetrius,,## Book 23 Chapter 7: Philip and Perseus are Jealous of Demetrius,no,no
-23,8,Death of Demetrius,,## Book 23 Chapter 8: Death of Demetrius,no,no
+23,8,Philip Campaigns in Thrace,,## Book 23 Chapter 8: Philip Campaigns in Thrace,no,no
 23,9,The Senate Refuses to Help Either Messene or Achaea,,## Book 23 Chapter 9: The Senate Refuses to Help Either Messene or Achaea,yes,yes
 23,10,Philip’s Desperate Measures,,## Book 23 Chapter 10: Philip’s Desperate Measures,no,no
 23,11,Philip Addresses his Sons,,## Book 23 Chapter 11: Philip Addresses his Sons,no,no
 23,12,The Fall of Philopoemen,,## Book 23 Chapter 12: The Fall of Philopoemen,no,no
 23,13,Character of Hannibal,,## Book 23 Chapter 13: Character of Hannibal,no,no
 23,14,Character of P. Cornelius Scipio Africanus,,## Book 23 Chapter 14: Character of P. Cornelius Scipio Africanus,no,no
-23,15,Submission of the Messenians,,## Book 23 Chapter 15: Submission of the Messenians,no,no
+23,15,Polybius Condemns Ravaging Crops and Trees,,## Book 23 Chapter 15: Polybius Condemns Ravaging Crops and Trees,no,no
 23,16,Lycortas Defeats Messene,,## Book 23 Chapter 16: Lycortas Defeats Messene,no,no
 23,17,Arguments For and Against Admitting Sparta,,## Book 23 Chapter 17: Arguments For and Against Admitting Sparta,no,no
 23,18,Sparta Included In the League,,## Book 23 Chapter 18: Sparta Included In the League,no,no
 24,1,The Spartan Exiles Refused,,## Book 24 Chapter 1: The Spartan Exiles Refused,no,yes
 24,2,Treaty Between the Achaeans and the Messenians,,## Book 24 Chapter 2: Treaty Between the Achaeans and the Messenians,no,no
-24,3,Mount Haemus in Thrace,,## Book 24 Chapter 3: Mount Haemus in Thrace,no,no
-24,4,Troubles in Crete,,## Book 24 Chapter 4: Troubles in Crete,no,no
+24,3,Troubles in Crete,,## Book 24 Chapter 3: Troubles in Crete,no,no
+24,4,Mount Haemus in Thrace,,## Book 24 Chapter 4: Mount Haemus in Thrace,no,no
 24,5,Attalus Goes to Rome,,## Book 24 Chapter 5: Attalus Goes to Rome,no,yes
-24,6,Murder of Apollonides At Sparta,,## Book 24 Chapter 6: Murder of Apollonides At Sparta,no,no
+24,6,Ptolemy Offers Ships to the Achaeans,,## Book 24 Chapter 6: Ptolemy Offers Ships to the Achaeans,no,no
 24,7,Chaeron the Spartan Demagogue,,## Book 24 Chapter 7: Chaeron the Spartan Demagogue,no,no
-24,8,Pharnaces Invades Cappadocia,,## Book 24 Chapter 8: Pharnaces Invades Cappadocia,no,no
-24,9,Eumenes and Pharnaces,,## Book 24 Chapter 9: Eumenes and Pharnaces,no,no
-24,10,Callicrates Sent to Rome,,## Book 24 Chapter 10: Callicrates Sent to Rome,no,no
-24,11,Callicrates Turns Traitor,,## Book 24 Chapter 11: Callicrates Turns Traitor,no,no
-24,12,Rome and the Achaean League,,## Book 24 Chapter 12: Rome and the Achaean League,no,no
-24,13,Comparison Between Philopoemen and Aristaenus,,## Book 24 Chapter 13: Comparison Between Philopoemen and Aristaenus,no,no
-24,14,Aristaenus’s Attitude to Rome,,## Book 24 Chapter 14: Aristaenus’s Attitude to Rome,no,no
-24,15,Philopoemen’s Policy,,## Book 24 Chapter 15: Philopoemen’s Policy,no,no
+24,8,The Achaeans Debate the Roman Letters,,## Book 24 Chapter 8: The Achaeans Debate the Roman Letters,no,no
+24,9,Callicrates Lectures the Roman Senate,,## Book 24 Chapter 9: Callicrates Lectures the Roman Senate,no,no
+24,10,The Senate Rewards Callicrates,,## Book 24 Chapter 10: The Senate Rewards Callicrates,no,no
+24,11,Philopoemen and Aristaenus Contrasted,,## Book 24 Chapter 11: Philopoemen and Aristaenus Contrasted,no,no
+24,12,Aristaenus Defends Obedience to Rome,,## Book 24 Chapter 12: Aristaenus Defends Obedience to Rome,no,no
+24,13,Philopoemen Resists the Inevitable,,## Book 24 Chapter 13: Philopoemen Resists the Inevitable,no,no
+24,14,Eumenes and Attalus March on Pharnaces,,## Book 24 Chapter 14: Eumenes and Attalus March on Pharnaces,no,no
+24,15,Peace Talks with Pharnaces Fail,,## Book 24 Chapter 15: Peace Talks with Pharnaces Fail,no,no
 25,1,Destruction of Celtiberian Cities,,## Book 25 Chapter 1: Destruction of Celtiberian Cities,no,yes
-25,2,The Accession of Perseus,,## Book 25 Chapter 2: The Accession of Perseus,no,no
+25,2,Pharnaces Makes Peace with Eumenes and Ariarathes,,## Book 25 Chapter 2: Pharnaces Makes Peace with Eumenes and Ariarathes,no,no
 25,3,First Acts of Perseus as King,,## Book 25 Chapter 3: First Acts of Perseus as King,no,yes
-25,4,Character and First Measures of Perseus,,## Book 25 Chapter 4: Character and First Measures of Perseus,no,yes
+25,4,The Senate Hears the Lycian Envoys,,## Book 25 Chapter 4: The Senate Hears the Lycian Envoys,no,yes
 25,5,Lycians Revolt Again,,## Book 25 Chapter 5: Lycians Revolt Again,no,no
 25,6,The Dardanian Envoys Complain about Perseus,,## Book 25 Chapter 6: The Dardanian Envoys Complain about Perseus,no,yes
 26,1,Antiochus Epiphanes,,## Book 26 Chapter 1: Antiochus Epiphanes,no,no
-26,1a,,format;no-title,## Book 26 Chapter 1a,no,yes
+26,1a,Why Polybius Calls Antiochus Epimanes,,## Book 26 Chapter 1a: Why Polybius Calls Antiochus Epimanes,no,yes
 27,1,Affairs In Boeotia: The War with Perseus,,## Book 27 Chapter 1: Affairs In Boeotia: The War with Perseus,no,yes
-27,2,Romans and Perseus Try to Secure Greece,,## Book 27 Chapter 2: Romans and Perseus Try to Secure Greece,no,no
+27,2,The Boeotian League Is Dissolved,,## Book 27 Chapter 2: The Boeotian League Is Dissolved,no,no
 27,3,Rhodes Prepares to Assist Rome,,## Book 27 Chapter 3: Rhodes Prepares to Assist Rome,no,no
 27,4,Perseus Sends a Statement to the Greeks,,## Book 27 Chapter 4: Perseus Sends a Statement to the Greeks,no,no
-27,5,Perseus Sends Alexander to Boeotia,,## Book 27 Chapter 5: Perseus Sends Alexander to Boeotia,no,no
-27,6,The Boeotians and Rhodians,,## Book 27 Chapter 6: The Boeotians and Rhodians,no,no
-27,7,War With Perseus Begun,,## Book 27 Chapter 7: War With Perseus Begun,no,no
+27,5,Perseus Sends Antigonus to Boeotia,,## Book 27 Chapter 5: Perseus Sends Antigonus to Boeotia,no,no
+27,6,Perseus’s Envoys Expelled from Rome,,## Book 27 Chapter 6: Perseus’s Envoys Expelled from Rome,no,no
+27,7,Rhodes Debates Sending Ships to Rome,,## Book 27 Chapter 7: Rhodes Debates Sending Ships to Rome,no,no
 27,8,Perseus Summons a Council,,## Book 27 Chapter 8: Perseus Summons a Council,no,no
 27,9,Moral Effect of Perseus’s Successes,,## Book 27 Chapter 9: Moral Effect of Perseus’s Successes,no,no
 27,10,The Unthinking Multitude,,## Book 27 Chapter 10: The Unthinking Multitude,no,no
 27,11,Invention of the Cestros,,## Book 27 Chapter 11: Invention of the Cestros,no,no
 27,12,Character of Cotys,,## Book 27 Chapter 12: Character of Cotys,no,no
-27,13,Indecisive Result of the First Campaign,,## Book 27 Chapter 13: Indecisive Result of the First Campaign,no,no
+27,13,Ptolemy’s Frugal Rule in Cyprus,,## Book 27 Chapter 13: Ptolemy’s Frugal Rule in Cyprus,no,no
 27,14,Dispute at Rhodes,,## Book 27 Chapter 14: Dispute at Rhodes,no,yes
 27,15,Charops of Epirus,,## Book 27 Chapter 15: Charops of Epirus,no,no
 27,16,Plot to Kidnap a Roman Consul,,## Book 27 Chapter 16: Plot to Kidnap a Roman Consul,no,no
@@ -1095,19 +1095,19 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 28,2,Embassy from Rhodes,,## Book 28 Chapter 2: Embassy from Rhodes,no,no
 28,3,Pressure Put On Achaea and Aetolia,,## Book 28 Chapter 3: Pressure Put On Achaea and Aetolia,no,no
 28,4,Discussion of the Aetolian Congress,,## Book 28 Chapter 4: Discussion of the Aetolian Congress,no,no
-28,5,Lycortas Advises Neutrality,,## Book 28 Chapter 5: Lycortas Advises Neutrality,no,no
+28,5,Acarnanians Refuse a Roman Garrison,,## Book 28 Chapter 5: Acarnanians Refuse a Roman Garrison,no,no
 28,6,Council of the Achaeans,,## Book 28 Chapter 6: Council of the Achaeans,no,no
 28,7,A Speech of Polybius,,## Book 28 Chapter 7: A Speech of Polybius,no,no
 28,8,Perseus Sends Pleuratus to Gentius,,## Book 28 Chapter 8: Perseus Sends Pleuratus to Gentius,no,no
 28,9,Unwise Parsimony of Perseus,,## Book 28 Chapter 9: Unwise Parsimony of Perseus,no,no
 28,10,Perseus Blames Hippias for the Failure,,## Book 28 Chapter 10: Perseus Blames Hippias for the Failure,no,no
 28,11,Heracleum Captured by the Testudo,,## Book 28 Chapter 11: Heracleum Captured by the Testudo,no,no
-28,12,Achaean Aid To Rome Declined,,## Book 28 Chapter 12: Achaean Aid To Rome Declined,no,no
+28,12,Achaeans Resolve to Fight Beside Rome,,## Book 28 Chapter 12: Achaeans Resolve to Fight Beside Rome,no,no
 28,13,Marcius Declines Assistance from the Achaeans,,## Book 28 Chapter 13: Marcius Declines Assistance from the Achaeans,no,no
 28,14,Treachery of the Cydonians,,## Book 28 Chapter 14: Treachery of the Cydonians,no,no
 28,15,The Cydonians Ask Help from Eumenes,,## Book 28 Chapter 15: The Cydonians Ask Help from Eumenes,no,no
-28,16,Dissensions In Crete and Rhodes,,## Book 28 Chapter 16: Dissensions In Crete and Rhodes,no,no
-28,17,Antiochus Invades Egypt,,## Book 28 Chapter 17: Antiochus Invades Egypt,no,no
+28,16,Rhodes Sends Embassies to Rome and Marcius,,## Book 28 Chapter 16: Rhodes Sends Embassies to Rome and Marcius,no,no
+28,17,Marcius Hints at Rhodian Mediation,,## Book 28 Chapter 17: Marcius Hints at Rhodian Mediation,no,no
 28,18,Antiochus IV. Epiphanes,,## Book 28 Chapter 18: Antiochus IV. Epiphanes,no,no
 28,19,Envoys Sent to Antiochus,,## Book 28 Chapter 19: Envoys Sent to Antiochus,no,no
 28,20,Antiochus Epiphanes In Egypt,,## Book 28 Chapter 20: Antiochus Epiphanes In Egypt,no,no
@@ -1131,14 +1131,14 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 29,15,A Cretan Deserter Brings Intelligence to Perseus,,## Book 29 Chapter 15: A Cretan Deserter Brings Intelligence to Perseus,no,no
 29,16,Battle of Pydna,,## Book 29 Chapter 16: Battle of Pydna,no,no
 29,17,Perseus Loses His Resolve,,## Book 29 Chapter 17: Perseus Loses His Resolve,no,no
-29,18,Ambitious Youth,,## Book 29 Chapter 18: Ambitious Youth,no,no
+29,18,Perseus Flees the Battle to “Sacrifice”,,## Book 29 Chapter 18: Perseus Flees the Battle to “Sacrifice”,no,no
 29,19,The Senate Makes an Example of the Rhodian Ambassadors,,## Book 29 Chapter 19: The Senate Makes an Example of the Rhodian Ambassadors,no,no
 29,20,Perseus an Example of the Impermanence of Fortune,,## Book 29 Chapter 20: Perseus an Example of the Impermanence of Fortune,no,no
 29,21,Uncertainties of Fortune,,## Book 29 Chapter 21: Uncertainties of Fortune,no,no
 29,22,Further Problems for Eumenes,,## Book 29 Chapter 22: Further Problems for Eumenes,no,no
 29,23,The Ptolemies Ask Help From Achaea,,## Book 29 Chapter 23: The Ptolemies Ask Help From Achaea,no,no
 29,24,The Achaeans Agree to Help the Ptolemies,,## Book 29 Chapter 24: The Achaeans Agree to Help the Ptolemies,no,no
-29,25,Antiochus Forced To Leave Egypt,,## Book 29 Chapter 25: Antiochus Forced To Leave Egypt,no,no
+29,25,The Achaeans Choose Mediation over Aid,,## Book 29 Chapter 25: The Achaeans Choose Mediation over Aid,no,no
 29,26,Antiochus Renews the War,,## Book 29 Chapter 26: Antiochus Renews the War,no,no
 29,27,Popilius Makes Antiochus Stop the War,,## Book 29 Chapter 27: Popilius Makes Antiochus Stop the War,no,no
 30,1,Attalus Comes to Rome,,## Book 30 Chapter 1: Attalus Comes to Rome,no,yes
@@ -1151,87 +1151,87 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 30,8,Shameless Conduct of the Supporters of Perseus,,## Book 30 Chapter 8: Shameless Conduct of the Supporters of Perseus,no,no
 30,9,Polyaratus of Rhodes,,## Book 30 Chapter 9: Polyaratus of Rhodes,no,no
 30,10,Statue-bases for Perseus Used by Aemilius,,## Book 30 Chapter 10: Statue-bases for Perseus Used by Aemilius,no,no
-30,11,The Greek Prisoners In Italy,,## Book 30 Chapter 11: The Greek Prisoners In Italy,no,no
+30,11,Aetolia Sinks into Lawless Violence,,## Book 30 Chapter 11: Aetolia Sinks into Lawless Violence,no,no
 30,12,Epirus Also In Turmoil,,## Book 30 Chapter 12: Epirus Also In Turmoil,no,no
 30,13,The Romanising Party Takes Command Throughout Greece,,## Book 30 Chapter 13: The Romanising Party Takes Command Throughout Greece,no,no
-30,14,Noisy Scene In A Roman Theatre,,## Book 30 Chapter 14: Noisy Scene In A Roman Theatre,no,no
-30,15,How to Hold Good Games,,## Book 30 Chapter 15: How to Hold Good Games,no,no
-30,16,Aemilius in Epirus,,## Book 30 Chapter 16: Aemilius in Epirus,no,no
-30,17,Reaction of the Egyptian Kings,,## Book 30 Chapter 17: Reaction of the Egyptian Kings,no,no
-30,18,"Cotys, King of the Odrysae",,"## Book 30 Chapter 18: Cotys, King of the Odrysae",no,no
-30,19,Prusias and Eumenes,,## Book 30 Chapter 19: Prusias and Eumenes,no,no
-30,20,Eumenes Prevented from Visiting Rome,,## Book 30 Chapter 20: Eumenes Prevented from Visiting Rome,no,no
-30,21,The Athenians and Rhodians,,## Book 30 Chapter 21: The Athenians and Rhodians,no,no
-30,22,Death of Theaetetus of Rhodes,,## Book 30 Chapter 22: Death of Theaetetus of Rhodes,no,no
-30,23,Public Hatred of Callicrates and His Faction,,## Book 30 Chapter 23: Public Hatred of Callicrates and His Faction,no,no
+30,14,Staging Games and Commanding Armies,,## Book 30 Chapter 14: Staging Games and Commanding Armies,no,no
+30,15,Paulus Destroys Seventy Cities of Epirus,,## Book 30 Chapter 15: Paulus Destroys Seventy Cities of Epirus,no,no
+30,16,The Egyptian Kings Thank Rome,,## Book 30 Chapter 16: The Egyptian Kings Thank Rome,no,no
+30,17,Rome Restores the Son of Cotys,,## Book 30 Chapter 17: Rome Restores the Son of Cotys,no,no
+30,18,Prusias Grovels before the Senate,,## Book 30 Chapter 18: Prusias Grovels before the Senate,no,no
+30,19,The Senate Turns Eumenes Away,,## Book 30 Chapter 19: The Senate Turns Eumenes Away,no,no
+30,20,The Athenians Receive Delos and Lemnos,,## Book 30 Chapter 20: The Athenians Receive Delos and Lemnos,no,no
+30,21,Theaetetus Dies and Garrisons Are Ordered Out,,## Book 30 Chapter 21: Theaetetus Dies and Garrisons Are Ordered Out,no,no
+30,22,Anicius’s Ridiculous Victory Games,,## Book 30 Chapter 22: Anicius’s Ridiculous Victory Games,no,no
+30,23,The Rhodians Again Seek an Alliance,,## Book 30 Chapter 23: The Rhodians Again Seek an Alliance,no,no
 30,24,Delight at Peraea,,## Book 30 Chapter 24: Delight at Peraea,no,no
-30,25,,format;no-title,## Book 30 Chapter 25,no,no
-30,26,,format;no-title,## Book 30 Chapter 26,no,no
-30,27,,format;no-title,## Book 30 Chapter 27,no,no
-30,28,,format;no-title,## Book 30 Chapter 28,no,no
-30,29,,format;no-title,## Book 30 Chapter 29,no,no
-30,30,,format;no-title,## Book 30 Chapter 30,no,no
-30,31,,format;no-title,## Book 30 Chapter 31,no,no
-30,32,,format;no-title,## Book 30 Chapter 32,no,no
-31,1,War in Crete,,## Book 31 Chapter 1: War in Crete,no,yes
-31,2,Gauls in Asia Granted Autonomy,,## Book 31 Chapter 2: Gauls in Asia Granted Autonomy,no,no
-31,3,Grand Festival At Daphne,,## Book 31 Chapter 3: Grand Festival At Daphne,no,no
-31,4,The King’s Behavior at the Festival,,## Book 31 Chapter 4: The King’s Behavior at the Festival,no,no
-31,5,Roman Envoys Come to Antioch,,## Book 31 Chapter 5: Roman Envoys Come to Antioch,no,no
+30,25,Antiochus Stages the Procession at Daphne,,## Book 30 Chapter 25: Antiochus Stages the Procession at Daphne,no,no
+30,26,Perfumes and Banquets at the Games,,## Book 30 Chapter 26: Perfumes and Banquets at the Games,no,no
+30,27,Antiochus Charms the Roman Envoys,,## Book 30 Chapter 27: Antiochus Charms the Roman Envoys,no,no
+30,28,Autonomy Granted to the Asian Galatians,,## Book 30 Chapter 28: Autonomy Granted to the Asian Galatians,no,no
+30,29,Achaeans Shun Callicrates and Andronidas,,## Book 30 Chapter 29: Achaeans Shun Callicrates and Andronidas,no,no
+30,30,Eumenes Accused Before the Senate,,## Book 30 Chapter 30: Eumenes Accused Before the Senate,no,no
+30,31,Astymedes Pleads for Rhodes,,## Book 30 Chapter 31: Astymedes Pleads for Rhodes,no,no
+30,32,The Senate Bars the Detainees’ Return,,## Book 30 Chapter 32: The Senate Bars the Detainees’ Return,no,no
+31,1,The Senate Clears Eumenes’ Brothers,,## Book 31 Chapter 1: The Senate Clears Eumenes’ Brothers,no,yes
+31,2,Demetrius Pleads for His Kingdom,,## Book 31 Chapter 2: Demetrius Pleads for His Kingdom,no,no
+31,3,Cappadocian Envoys Renew the Alliance,,## Book 31 Chapter 3: Cappadocian Envoys Renew the Alliance,no,no
+31,4,Rhodes Seeks Calynda and Votes a Colossus,,## Book 31 Chapter 4: Rhodes Seeks Calynda and Votes a Colossus,no,no
+31,5,Calynda Passes under Rhodian Protection,,## Book 31 Chapter 5: Calynda Passes under Rhodian Protection,no,no
 31,6,Complaints Against Eumenes,,## Book 31 Chapter 6: Complaints Against Eumenes,no,no
-31,7,The Achaean Prisoners Detained,,## Book 31 Chapter 7: The Achaean Prisoners Detained,no,no
-31,8,Envoys from Achaea in the Senate,,## Book 31 Chapter 8: Envoys from Achaea in the Senate,no,no
-31,9,The Senate Suspicious of Eumenes and Antiochus,,## Book 31 Chapter 9: The Senate Suspicious of Eumenes and Antiochus,no,no
-31,10,Sulpicius Gallus Investigates Eumenes,,## Book 31 Chapter 10: Sulpicius Gallus Investigates Eumenes,no,yes
-31,11,Death of Antiochus Epiphanes,,## Book 31 Chapter 11: Death of Antiochus Epiphanes,no,no
-31,12,Demetrius son of Seleucus,case:son,## Book 31 Chapter 12: Demetrius son of Seleucus,no,no
-31,13,Ariarathes of Cappadocia,,## Book 31 Chapter 13: Ariarathes of Cappadocia,no,no
-31,14,Ambassadors from Ariarathes to Rome,,## Book 31 Chapter 14: Ambassadors from Ariarathes to Rome,no,no
-31,15,Rhodes Asks Rome for Calynda,,## Book 31 Chapter 15: Rhodes Asks Rome for Calynda,no,no
-31,16,Rhodes Assists Calynda,,## Book 31 Chapter 16: Rhodes Assists Calynda,no,no
-31,17,The Two Ptolemies,duplicate-title,## Book 31 Chapter 17: The Two Ptolemies,no,no
-31,18,The Murder of Octavius,,## Book 31 Chapter 18: The Murder of Octavius,no,no
-31,19,Demetrius Appeals Again to the Senate,,## Book 31 Chapter 19: Demetrius Appeals Again to the Senate,no,no
-31,20,Demetrius Plans To Leave Rome,,## Book 31 Chapter 20: Demetrius Plans To Leave Rome,no,yes
-31,21,Demetrius Plans His Escape,,## Book 31 Chapter 21: Demetrius Plans His Escape,no,no
-31,22,Demetrius Escapes,,## Book 31 Chapter 22: Demetrius Escapes,no,no
-31,23,No One Notices Demetrius’s Absence,,## Book 31 Chapter 23: No One Notices Demetrius’s Absence,no,no
-31,24,Decadence at Rome,,## Book 31 Chapter 24: Decadence at Rome,no,no
-31,25,The Rhodians Lapse in Dignity,,## Book 31 Chapter 25: The Rhodians Lapse in Dignity,no,no
-31,26,The Two Ptolemies,duplicate-title,## Book 31 Chapter 26: The Two Ptolemies,no,no
-31,27,Ptolemy Physcon Invades Cyrene,,## Book 31 Chapter 27: Ptolemy Physcon Invades Cyrene,no,no
-31,28,Gnaeus Merula Comes to Rome,,## Book 31 Chapter 28: Gnaeus Merula Comes to Rome,no,no
-31,29,,format;no-title,## Book 31 Chapter 29,no,no
-31,30,,format;no-title,## Book 31 Chapter 30,no,no
-31,31,,format;no-title,## Book 31 Chapter 31,no,no
-31,32,,format;no-title,## Book 31 Chapter 32,no,no
-31,33,,format;no-title,## Book 31 Chapter 33,no,no
-32,1,The Senate Breaks its Alliance with Ptolemy Philometor,,## Book 32 Chapter 1: The Senate Breaks its Alliance with Ptolemy Philometor,no,yes
-32,2,Masinissa Harasses the Carthaginians,,## Book 32 Chapter 2: Masinissa Harasses the Carthaginians,no,no
-32,3,Prusias Accuses Eumenes,,## Book 32 Chapter 3: Prusias Accuses Eumenes,no,no
-32,4,Demetrius and Ariarathes,,## Book 32 Chapter 4: Demetrius and Ariarathes,no,no
-32,5,Ambassadors from Ariarathes,,## Book 32 Chapter 5: Ambassadors from Ariarathes,no,no
-32,6,Isocrates Comes to Rome as Ambassador,,## Book 32 Chapter 6: Isocrates Comes to Rome as Ambassador,no,no
-32,7,Isocrates the Grammarian,,## Book 32 Chapter 7: Isocrates the Grammarian,no,yes
-32,8,Legacy of L. Aemilius Paulus,,## Book 32 Chapter 8: Legacy of L. Aemilius Paulus,no,no
-32,9,Scipio the Younger and Polybius,,## Book 32 Chapter 9: Scipio the Younger and Polybius,no,yes
-32,10,Polybius Responds to Scipio’s Speech,,## Book 32 Chapter 10: Polybius Responds to Scipio’s Speech,no,no
-32,11,Character of the Younger Scipio,,## Book 32 Chapter 11: Character of the Younger Scipio,no,no
-32,12,Scipio’s Generosity to his Mother,,## Book 32 Chapter 12: Scipio’s Generosity to his Mother,no,no
-32,13,Scipio’s Liberality,,## Book 32 Chapter 13: Scipio’s Liberality,no,yes
-32,14,Scipio’s Manliness,,## Book 32 Chapter 14: Scipio’s Manliness,no,no
-32,15,Scipio’s Courage,,## Book 32 Chapter 15: Scipio’s Courage,no,no
-32,16,Scipio’s Success Due to his Character,,## Book 32 Chapter 16: Scipio’s Success Due to his Character,no,no
+31,7,Ariarathes Recovers the Bones of His Kin,,## Book 31 Chapter 7: Ariarathes Recovers the Bones of His Kin,no,no
+31,8,Ariarathes Receives the Roman Envoys,,## Book 31 Chapter 8: Ariarathes Receives the Roman Envoys,no,no
+31,9,Antiochus Dies after the Elymais Raid,,## Book 31 Chapter 9: Antiochus Dies after the Elymais Raid,no,no
+31,10,Younger Ptolemy Asks Rome for Cyprus,,## Book 31 Chapter 10: Younger Ptolemy Asks Rome for Cyprus,no,yes
+31,11,Demetrius Appeals to the Senate Again,,## Book 31 Chapter 11: Demetrius Appeals to the Senate Again,no,no
+31,12,Diodorus Urges Demetrius to Flee Rome,,## Book 31 Chapter 12: Diodorus Urges Demetrius to Flee Rome,no,no
+31,13,Polybius Warns Demetrius in a Note,,## Book 31 Chapter 13: Polybius Warns Demetrius in a Note,no,no
+31,14,Demetrius Slips Away from Rome,,## Book 31 Chapter 14: Demetrius Slips Away from Rome,no,no
+31,15,Demetrius’s Flight Is Discovered,,## Book 31 Chapter 15: Demetrius’s Flight Is Discovered,no,no
+31,16,Artaxias Spared at Ariarathes’ Urging,,## Book 31 Chapter 16: Artaxias Spared at Ariarathes’ Urging,no,no
+31,17,Ptolemy Disbands His Mercenaries,,## Book 31 Chapter 17: Ptolemy Disbands His Mercenaries,no,no
+31,18,Ptolemy Marches on Cyrene and Is Defeated,,## Book 31 Chapter 18: Ptolemy Marches on Cyrene and Is Defeated,no,no
+31,19,Ptolemy Sends Envoys to Rome,,## Book 31 Chapter 19: Ptolemy Sends Envoys to Rome,no,no
+31,20,The Senate Backs the Younger Ptolemy,,## Book 31 Chapter 20: The Senate Backs the Younger Ptolemy,no,yes
+31,21,Masinissa Seizes the Emporia from Carthage,,## Book 31 Chapter 21: Masinissa Seizes the Emporia from Carthage,no,no
+31,22,Aemilius Paullus Proved Honest in Death,,## Book 31 Chapter 22: Aemilius Paullus Proved Honest in Death,no,no
+31,23,Scipio Confides His Worry to Polybius,,## Book 31 Chapter 23: Scipio Confides His Worry to Polybius,no,no
+31,24,Polybius Pledges Friendship to Scipio,,## Book 31 Chapter 24: Polybius Pledges Friendship to Scipio,no,no
+31,25,Scipio Chooses Self-Control amid Roman Decadence,case:amid,## Book 31 Chapter 25: Scipio Chooses Self-Control amid Roman Decadence,no,no
+31,26,Scipio Gives Aemilia’s Equipage to His Mother,,## Book 31 Chapter 26: Scipio Gives Aemilia’s Equipage to His Mother,no,no
+31,27,Scipio Pays His Aunts’ Dowries Early,,## Book 31 Chapter 27: Scipio Pays His Aunts’ Dowries Early,no,no
+31,28,Scipio Yields His Inheritance to Fabius,,## Book 31 Chapter 28: Scipio Yields His Inheritance to Fabius,no,no
+31,29,Scipio Takes Up Hunting in Macedonia,,## Book 31 Chapter 29: Scipio Takes Up Hunting in Macedonia,no,no
+31,30,A Digression on Scipio’s Youth,,## Book 31 Chapter 30: A Digression on Scipio’s Youth,no,no
+31,31,The Rhodians Accept Grain from Eumenes,,## Book 31 Chapter 31: The Rhodians Accept Grain from Eumenes,no,no
+31,32,Embassies to Rome Against Eumenes,,## Book 31 Chapter 32: Embassies to Rome Against Eumenes,no,no
+31,33,Demetrius Courts Tiberius and Wins Recognition,,## Book 31 Chapter 33: Demetrius Courts Tiberius and Wins Recognition,no,no
+32,1,Ariarathes’ Crown and Attalus Cleared,,## Book 32 Chapter 1: Ariarathes’ Crown and Attalus Cleared,no,yes
+32,2,Demetrius Sends Gnaeus’s Murderer to Rome,,## Book 32 Chapter 2: Demetrius Sends Gnaeus’s Murderer to Rome,no,no
+32,3,Leptines and Isocrates Before the Senate,,## Book 32 Chapter 3: Leptines and Isocrates Before the Senate,no,no
+32,4,The Death of Lyciscus Reconciles the Aetolians,,## Book 32 Chapter 4: The Death of Lyciscus Reconciles the Aetolians,no,no
+32,5,Charops Terrorizes Epirus,,## Book 32 Chapter 5: Charops Terrorizes Epirus,no,no
+32,6,Charops Seeks the Senate’s Approval,,## Book 32 Chapter 6: Charops Seeks the Senate’s Approval,no,no
+32,7,The Delian Exiles Appeal to the Achaeans,,## Book 32 Chapter 7: The Delian Exiles Appeal to the Achaeans,no,yes
+32,8,Eulogy of King Eumenes,,## Book 32 Chapter 8: Eulogy of King Eumenes,no,no
+32,9,Fannius Sent to Inspect the Delmatae,,## Book 32 Chapter 9: Fannius Sent to Inspect the Delmatae,no,yes
+32,10,Rival Envoys Slander Ariarathes at Rome,,## Book 32 Chapter 10: Rival Envoys Slander Ariarathes at Rome,no,no
+32,11,Orophernes’ Ruin and the Oropus Affair,,## Book 32 Chapter 11: Orophernes’ Ruin and the Oropus Affair,no,no
+32,12,Attalus Restores Ariarathes to His Kingdom,,## Book 32 Chapter 12: Attalus Restores Ariarathes to His Kingdom,no,no
+32,13,Rome Resolves on War with the Delmatae,,## Book 32 Chapter 13: Rome Resolves on War with the Delmatae,no,yes
+32,14,Epirote Envoys Before the Senate,,## Book 32 Chapter 14: Epirote Envoys Before the Senate,no,no
+32,15,Prusias Plunders Sanctuaries Around Pergamum,,## Book 32 Chapter 15: Prusias Plunders Sanctuaries Around Pergamum,no,no
+32,16,Attalus Sends Athenaeus to the Senate,,## Book 32 Chapter 16: Attalus Sends Athenaeus to the Senate,no,no
 33,1,War Against Attalus Prevented,,## Book 33 Chapter 1: War Against Attalus Prevented,no,yes
 33,3,Release of Achaeans Refused,,## Book 33 Chapter 3: Release of Achaeans Refused,no,no
 33,4,Character of Aristocrates,,## Book 33 Chapter 4: Character of Aristocrates,no,no
 33,5,Suicide of Archias,,## Book 33 Chapter 5: Suicide of Archias,no,no
 33,6,The Prienians Refuse to Give Orophernes’ Funds to Ariarathes,,## Book 33 Chapter 6: The Prienians Refuse to Give Orophernes’ Funds to Ariarathes,no,no
-33,7,Marseilles Complains about the Ligurians,,## Book 33 Chapter 7: Marseilles Complains about the Ligurians,no,no
-33,8,"The Ligurians, Ptolemies, And Prusias",,"## Book 33 Chapter 8: The Ligurians, Ptolemies, And Prusias",no,no
+33,7,The Senate Sends Ten Envoys to Prusias,,## Book 33 Chapter 7: The Senate Sends Ten Envoys to Prusias,no,no
+33,8,Massalia Appeals to Rome for Help,,## Book 33 Chapter 8: Massalia Appeals to Rome for Help,no,no
 33,9,The Senate Appoints Commissioners to Stop the War,,## Book 33 Chapter 9: The Senate Appoints Commissioners to Stop the War,no,no
 33,10,The Ligurians Resist Roman Intervention,,## Book 33 Chapter 10: The Ligurians Resist Roman Intervention,no,no
-33,11,Ligurian War,,## Book 33 Chapter 11: Ligurian War,no,no
+33,11,Ptolemy the Younger Accuses His Brother at Rome,,## Book 33 Chapter 11: Ptolemy the Younger Accuses His Brother at Rome,no,no
 33,12,Roman Commissioners Visit Attalus and Prusias,,## Book 33 Chapter 12: Roman Commissioners Visit Attalus and Prusias,no,no
 33,13,Roman Envoys Make Peace Between Prusias and Attalus,,## Book 33 Chapter 13: Roman Envoys Make Peace Between Prusias and Attalus,no,no
 33,14,Another Embassy from Achaea,,## Book 33 Chapter 14: Another Embassy from Achaea,no,yes
@@ -1241,21 +1241,21 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 33,18,Alexander Balas,,## Book 33 Chapter 18: Alexander Balas,no,yes
 33,19,Demetrius’s Intemperance,,## Book 33 Chapter 19: Demetrius’s Intemperance,no,no
 33,20,The Multitude Will Act on its Feelings,,## Book 33 Chapter 20: The Multitude Will Act on its Feelings,no,no
-33,21,,format;no-title,## Book 33 Chapter 21,no,no
-34,1,,format;no-title,## Book 34 Chapter 1,no,no
-34,2,,format;no-title,## Book 34 Chapter 2,no,no
-34,3,,format;no-title,## Book 34 Chapter 3,no,no
-34,4,,format;no-title,## Book 34 Chapter 4,no,no
-34,5,,format;no-title,## Book 34 Chapter 5,no,no
-34,6,,format;no-title,## Book 34 Chapter 6,no,no
-34,7,,format;no-title,## Book 34 Chapter 7,no,no
-34,8,,format;no-title,## Book 34 Chapter 8,no,no
-34,9,,format;no-title,## Book 34 Chapter 9,no,no
-34,10,,format;no-title,## Book 34 Chapter 10,no,no
-34,11,,format;no-title,## Book 34 Chapter 11,no,no
-34,12,,format;no-title,## Book 34 Chapter 12,no,no
-34,13,,format;no-title,## Book 34 Chapter 13,no,no
-34,14,,format;no-title,## Book 34 Chapter 14,no,no
+33,21,The Goat-Milker and the Sieve,,## Book 33 Chapter 21: The Goat-Milker and the Sieve,no,no
+34,1,Polybius on Life beneath the Equator,case:beneath,## Book 34 Chapter 1: Polybius on Life beneath the Equator,no,no
+34,2,Polybius Interprets the Wanderings of Odysseus,,## Book 34 Chapter 2: Polybius Interprets the Wanderings of Odysseus,no,no
+34,3,Swordfish Hunting at Scyllaeum,,## Book 34 Chapter 3: Swordfish Hunting at Scyllaeum,no,no
+34,4,Homer’s Poetry and the Voyage of Odysseus,,## Book 34 Chapter 4: Homer’s Poetry and the Voyage of Odysseus,no,no
+34,5,Polybius Attacks Pytheas’ Tales,,## Book 34 Chapter 5: Polybius Attacks Pytheas’ Tales,no,no
+34,6,Polybius Corrects Dicaearchus on Distances,,## Book 34 Chapter 6: Polybius Corrects Dicaearchus on Distances,no,no
+34,7,Polybius Corrects Eratosthenes on Europe,,## Book 34 Chapter 7: Polybius Corrects Eratosthenes on Europe,no,no
+34,8,Lusitania’s Acorn-Fed Tunny and Cheap Prices,,## Book 34 Chapter 8: Lusitania’s Acorn-Fed Tunny and Cheap Prices,no,no
+34,9,"Spain: Springs, Silver Mines, and Iberian Peoples",,"## Book 34 Chapter 9: Spain: Springs, Silver Mines, and Iberian Peoples",no,no
+34,10,"Gaul and the Alps: Fish, Gold, and Lakes",,"## Book 34 Chapter 10: Gaul and the Alps: Fish, Gold, and Lakes",no,no
+34,11,"Italy: Coasts, Campania, and the Lipari Volcanoes",,"## Book 34 Chapter 11: Italy: Coasts, Campania, and the Lipari Volcanoes",no,no
+34,12,Roads and Distances from Apollonia to Byzantium,,## Book 34 Chapter 12: Roads and Distances from Apollonia to Byzantium,no,no
+34,13,Eratosthenes as the Authority on Asia,,## Book 34 Chapter 13: Eratosthenes as the Authority on Asia,no,no
+34,14,Polybius Disgusted by Alexandria’s Three Peoples,,## Book 34 Chapter 14: Polybius Disgusted by Alexandria’s Three Peoples,no,no
 35,1,The “Fiery War”,,## Book 35 Chapter 1: The “Fiery War”,no,no
 35,2,The Celtiberian Wars,,## Book 35 Chapter 2: The Celtiberian Wars,no,no
 35,3,The Senate’s Instructions to Marcellus,,## Book 35 Chapter 3: The Senate’s Instructions to Marcellus,no,no
@@ -1270,43 +1270,43 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 36,6,The Roman Army In Africa,,## Book 36 Chapter 6: The Roman Army In Africa,no,no
 36,7,Panic at the Envoys’ Report,,## Book 36 Chapter 7: Panic at the Envoys’ Report,no,no
 36,8,Character of Hamilcar Phameas,,## Book 36 Chapter 8: Character of Hamilcar Phameas,no,no
-36,9,,format;no-title,## Book 36 Chapter 9,no,no
-36,10,,format;no-title,## Book 36 Chapter 10,no,no
-36,11,,format;no-title,## Book 36 Chapter 11,no,no
-36,12,,format;no-title,## Book 36 Chapter 12,no,no
-36,13,,format;no-title,## Book 36 Chapter 13,no,no
-36,14,,format;no-title,## Book 36 Chapter 14,no,no
-36,15,,format;no-title,## Book 36 Chapter 15,no,no
-36,16,,format;no-title,## Book 36 Chapter 16,no,no
-36,17,,format;no-title,## Book 36 Chapter 17,no,no
-37,1,Views in Greece of Roman Policy,,## Book 37 Chapter 1: Views in Greece of Roman Policy,no,yes
-38,1,Character of Hasdrubal,,## Book 38 Chapter 1: Character of Hasdrubal,no,no
-38,2,Misery In Carthage,,## Book 38 Chapter 2: Misery In Carthage,no,no
-38,3,Consummation of the Misfortunes of Greece,,## Book 38 Chapter 3: Consummation of the Misfortunes of Greece,no,no
-38,4,Previous Disasters,,## Book 38 Chapter 4: Previous Disasters,no,no
-38,5,Unjust Misfortune Distinguished from Self-Inflicted Loss,,## Book 38 Chapter 5: Unjust Misfortune Distinguished from Self-Inflicted Loss,no,no
-38,6,Rome and the Achaean League,,## Book 38 Chapter 6: Rome and the Achaean League,no,no
-38,7,New Commissioners Sent to Achaea,,## Book 38 Chapter 7: New Commissioners Sent to Achaea,no,no
-38,8,The Commissioners Arrive in Achaea,,## Book 38 Chapter 8: The Commissioners Arrive in Achaea,no,no
-38,9,Foolish Policy In Achaea,,## Book 38 Chapter 9: Foolish Policy In Achaea,no,no
-38,10,Riotous Scene at Corinth,,## Book 38 Chapter 10: Riotous Scene at Corinth,no,no
-38,11,Violent Policy of Critolaus,,## Book 38 Chapter 11: Violent Policy of Critolaus,no,no
-38,12,,format;no-title,## Book 38 Chapter 12,no,no
-38,13,,format;no-title,## Book 38 Chapter 13,no,no
-38,14,,format;no-title,## Book 38 Chapter 14,no,no
-38,15,,format;no-title,## Book 38 Chapter 15,no,no
-38,16,,format;no-title,## Book 38 Chapter 16,no,no
-38,17,,format;no-title,## Book 38 Chapter 17,no,no
-38,18,,format;no-title,## Book 38 Chapter 18,no,no
-38,19,,format;no-title,## Book 38 Chapter 19,no,no
-38,20,,format;no-title,## Book 38 Chapter 20,no,no
-38,21,,format;no-title,## Book 38 Chapter 21,no,no
-38,22,,format;no-title,## Book 38 Chapter 22,no,no
-39,1,Variety Is Pleasing,,## Book 39 Chapter 1: Variety Is Pleasing,no,no
-39,2,Digressions in History,,## Book 39 Chapter 2: Digressions in History,no,no
-39,3,Scipio Intends to Fight,,## Book 39 Chapter 3: Scipio Intends to Fight,no,no
-39,4,Fall of Carthage,,## Book 39 Chapter 4: Fall of Carthage,no,no
-39,5,Diaeus Succeeds Critolaus,,## Book 39 Chapter 5: Diaeus Succeeds Critolaus,no,no
-39,6,,format;no-title,## Book 39 Chapter 6,no,no
-39,7,Character of Pytheas,,## Book 39 Chapter 7: Character of Pytheas,no,no
-39,8,Diaeus Becomes Strategus,,## Book 39 Chapter 8: Diaeus Becomes Strategus,no,yes
+36,9,Opinions on Rome’s Treatment of Carthage,,## Book 36 Chapter 9: Opinions on Rome’s Treatment of Carthage,no,no
+36,10,Rumors of the Pseudo-Philip,,## Book 36 Chapter 10: Rumors of the Pseudo-Philip,no,no
+36,11,Polybius Summoned to Lilybaeum,,## Book 36 Chapter 11: Polybius Summoned to Lilybaeum,no,no
+36,12,Polybius Writing of Himself,,## Book 36 Chapter 12: Polybius Writing of Himself,no,no
+36,13,Fortune Reverses Callicrates and Lycortas,,## Book 36 Chapter 13: Fortune Reverses Callicrates and Lycortas,no,no
+36,14,The Ill-Chosen Roman Envoys,,## Book 36 Chapter 14: The Ill-Chosen Roman Envoys,no,no
+36,15,The Character of Prusias,,## Book 36 Chapter 15: The Character of Prusias,no,no
+36,16,"Masinissa, Fortunate King of Numidia",,"## Book 36 Chapter 16: Masinissa, Fortunate King of Numidia",no,no
+36,17,"Fortune, Causes, and Greek Depopulation",,"## Book 36 Chapter 17: Fortune, Causes, and Greek Depopulation",no,no
+37,1,"Mouseion, a Place near Olympus",case:near,"## Book 37 Chapter 1: Mouseion, a Place near Olympus",no,yes
+38,1,The Greeks’ Misfortune Surpasses Carthage’s,,## Book 38 Chapter 1: The Greeks’ Misfortune Surpasses Carthage’s,no,no
+38,2,Earlier Greek Reverses Without Disgrace,,## Book 38 Chapter 2: Earlier Greek Reverses Without Disgrace,no,no
+38,3,The Shameful Collapse of Peloponnesians and Boeotians,,## Book 38 Chapter 3: The Shameful Collapse of Peloponnesians and Boeotians,no,no
+38,4,Polybius Defends Plain Truth in History,,## Book 38 Chapter 4: Polybius Defends Plain Truth in History,no,no
+38,5,Variety as Nature’s Rest for Readers,,## Book 38 Chapter 5: Variety as Nature’s Rest for Readers,no,no
+38,6,Polybius’s Orderly Digressions versus Earlier Historians,case:versus,## Book 38 Chapter 6: Polybius’s Orderly Digressions versus Earlier Historians,no,no
+38,7,Hasdrubal Meets Gulussa in Full Armor,,## Book 38 Chapter 7: Hasdrubal Meets Gulussa in Full Armor,no,no
+38,8,Hasdrubal Spurns Terms and Feasts amid Famine,case:amid,## Book 38 Chapter 8: Hasdrubal Spurns Terms and Feasts amid Famine,no,no
+38,9,The Senate Instructs Julius’s Commissioners,,## Book 38 Chapter 9: The Senate Instructs Julius’s Commissioners,no,no
+38,10,Sextus’s Commissioners Confer with Achaeans at Aegium,,## Book 38 Chapter 10: Sextus’s Commissioners Confer with Achaeans at Aegium,no,no
+38,11,Critolaus Stalls the Commissioners at Tegea,,## Book 38 Chapter 11: Critolaus Stalls the Commissioners at Tegea,no,no
+38,12,Roman Envoys Driven Out of Corinth,,## Book 38 Chapter 12: Roman Envoys Driven Out of Corinth,no,no
+38,13,Critolaus Wins a Vote for War,,## Book 38 Chapter 13: Critolaus Wins a Vote for War,no,no
+38,14,Pytheas’s Early Life,,## Book 38 Chapter 14: Pytheas’s Early Life,no,no
+38,15,Diaeus Levies Slaves and Wealth,,## Book 38 Chapter 15: Diaeus Levies Slaves and Wealth,no,no
+38,16,Panic and Madness in Greece,,## Book 38 Chapter 16: Panic and Madness in Greece,no,no
+38,17,Philon’s Offer Rejected at Corinth,,## Book 38 Chapter 17: Philon’s Offer Rejected at Corinth,no,no
+38,18,Sosicrates Tortured and Fortune Spares Achaea,,## Book 38 Chapter 18: Sosicrates Tortured and Fortune Spares Achaea,no,no
+38,19,Scipio Rejects Caltrops at Carthage,,## Book 38 Chapter 19: Scipio Rejects Caltrops at Carthage,no,no
+38,20,Hasdrubal Begs while His Wife Reproaches Him,case:while,## Book 38 Chapter 20: Hasdrubal Begs while His Wife Reproaches Him,no,no
+38,21,Fortune’s Instability and the Great Man,,## Book 38 Chapter 21: Fortune’s Instability and the Great Man,no,no
+38,22,Scipio Weeps over Carthage,,## Book 38 Chapter 22: Scipio Weeps over Carthage,no,no
+39,1,Aulus Postumius and Cato’s Rebuke,,## Book 39 Chapter 1: Aulus Postumius and Cato’s Rebuke,no,no
+39,2,Soldiers’ Contempt for Corinth’s Artworks,,## Book 39 Chapter 2: Soldiers’ Contempt for Corinth’s Artworks,no,no
+39,3,Polybius Saves Philopoemen’s Honors,,## Book 39 Chapter 3: Polybius Saves Philopoemen’s Honors,no,no
+39,4,Polybius Refuses Diaeus’ Confiscated Property,,## Book 39 Chapter 4: Polybius Refuses Diaeus’ Confiscated Property,no,no
+39,5,Polybius Settles the New Constitution,,## Book 39 Chapter 5: Polybius Settles the New Constitution,no,no
+39,6,The Roman General’s Restraint in Greece,,## Book 39 Chapter 6: The Roman General’s Restraint in Greece,no,no
+39,7,Character of King Ptolemy,,## Book 39 Chapter 7: Character of King Ptolemy,no,no
+39,8,Polybius Recapitulates His Whole Plan,,## Book 39 Chapter 8: Polybius Recapitulates His Whole Plan,no,yes

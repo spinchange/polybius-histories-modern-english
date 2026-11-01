@@ -408,7 +408,7 @@ The Romans, however, refused outright to engage in legal argument, declaring tha
 
 But it seems necessary to me not to leave this matter unexamined, so that neither those whose duty and concern it is to know the precise truth of these things may stray from the truth in deliberations of the utmost importance, nor those who study these matters out of love of learning may go astray, misled along with the errors and partisan ambitions of the historians; but rather that there may be some agreed-upon survey of the rights that existed between the Romans and the Carthaginians toward one another, from the beginning down to our own times.
 
-## Book 3 Chapter 22: Treaties between Rome and Carthage
+## Book 3 Chapter 22: The First Treaty
 
 The first treaty between Rome and Carthage was concluded in the consulship of Lucius Junius Brutus and Marcus Horatius, the first consuls appointed after the abolition of the monarchy—the same men under whom the temple of Jupiter on the Capitol was consecrated.
 
@@ -436,7 +436,7 @@ From the terms of this treaty it is clear that they speak of Sardinia and Libya 
 
 Likewise the Romans make the treaty concerning Latium alone, and make no mention of the rest of Italy, because it did not fall under their authority.
 
-## Book 3 Chapter 24: Treaties Between Rome and Carthage
+## Book 3 Chapter 24: The Second Treaty
 
 After these, they made a further treaty, in which the Carthaginians included the Tyrians and the people of Utica as well.
 
@@ -474,7 +474,7 @@ The swearing by Jupiter the Stone went like this: the man taking the oath over t
 
 And having said this, he throws the stone from his hand.
 
-## Book 3 Chapter 26: Treaties Between Rome and Carthage
+## Book 3 Chapter 26: Philinus and the Treaties
 
 Since such treaties exist, and are still preserved even now, engraved on bronze tablets beside the temple of Jupiter Capitolinus in the treasury of the aediles, who would not reasonably feel astonishment at the historian Philinus? Not because he was ignorant of these documents—that is no wonder, since even in our own day the oldest men among both the Romans and the Carthaginians, and those reputed to take the greatest interest in public affairs, were unaware of them— but rather, how or on what grounds did he have the boldness to write the very opposite of these facts: namely, that there existed treaties between the Romans and the Carthaginians by which the Romans were bound to keep away from the whole of Sicily and the Carthaginians from the whole of Italy, and that the Romans violated the treaties and their oaths when they made their first crossing into Sicily—when in fact no such written document was ever drawn up or ever existed at all.
 
@@ -860,7 +860,7 @@ A few, however, in the middle of the crossing flung themselves into the river ou
 
 For thanks to the strength and length of their trunks, they raised them above the water and breathed through them, while at the same time blowing out everything that got in, and so held out, making most of their way upright along the river bottom.
 
-## Book 3 Chapter 47: Previous Histories of this March either False or Inconsistent
+## Book 3 Chapter 47: Earlier Accounts of the March False or Inconsistent
 
 Once the animals had been ferried over, Hannibal took up the elephants and the cavalry and advanced with them as a rearguard along the river, away from the sea and toward the east, making his march as though heading for the interior of Europe.
 

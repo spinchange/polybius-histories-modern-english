@@ -2,7 +2,7 @@
 
 Modern English translation of the Greek text.
 
-## Book 31 Chapter 1: War in Crete
+## Book 31 Chapter 1: The Senate Clears Eumenes’ Brothers
 
 A. Olympiad 154, year 1. Affairs in Italy.
 
@@ -18,7 +18,7 @@ When they appeared before the Senate, they were judged to have made a satisfacto
 
 Even so, the Senate did not let go of its suspicion against Eumenes and Antiochus, but appointed Gaius Sulpicius and Manius Sergius as envoys and sent them out, to inspect conditions among the Greeks, and also to settle for the Megalopolitans and the Lacedaemonians the dispute about the contested territory, but above all to investigate the affairs of Antiochus and Eumenes, lest any preparations and any common enterprise against Rome should be developing between them.
 
-## Book 31 Chapter 2: Gauls in Asia Granted Autonomy
+## Book 31 Chapter 2: Demetrius Pleads for His Kingdom
 
 Demetrius son of Seleucus, who had already long been kept in Rome as a hostage, had for some time been thought to be detained contrary to justice.
 
@@ -44,7 +44,7 @@ Gnaeus and his party were also to inspect the affairs of the Galatians and the c
 
 And after some time a letter was sent on to them from the Senate instructing them, if possible, to reconcile the kings at Alexandria as well.
 
-## Book 31 Chapter 3: Grand Festival At Daphne
+## Book 31 Chapter 3: Cappadocian Envoys Renew the Alliance
 
 At the same time envoys arrived from Ariarathes, who had only recently succeeded to the throne of Cappadocia, to renew the friendship and alliance already existing, and in general to urge the Senate to welcome the king’s goodwill and eagerness, which he showed both publicly and privately toward all Romans.
 
@@ -54,7 +54,7 @@ This happened chiefly because Tiberius and his colleagues, when they had been se
 
 Trusting their report, the senators gave the envoys a gracious reception and likewise approved the king’s overall course.
 
-## Book 31 Chapter 4: The King’s Behavior at the Festival
+## Book 31 Chapter 4: Rhodes Seeks Calynda and Votes a Colossus
 
 II. Affairs in Greece.
 
@@ -62,7 +62,7 @@ The Rhodians, having recovered from the distress that had overtaken them, sent e
 
 They also voted to set up in the sanctuary of Athena a colossal statue of the Roman people, thirty cubits high.
 
-## Book 31 Chapter 5: Roman Envoys Come to Antioch
+## Book 31 Chapter 5: Calynda Passes under Rhodian Protection
 
 When the people of Calynda revolted from the Caunians, and the Caunians afterward undertook to besiege them, the Calyndians at first appealed to the Cnidians.
 
@@ -82,7 +82,7 @@ Then he himself came to Sardis, took his seat in the gymnasium, and for about te
 
 And the more harshly the Romans seemed to deal with Eumenes, the more the Greeks were drawn toward him, since human nature always gives its sympathy to the man under pressure.
 
-## Book 31 Chapter 7: The Achaean Prisoners Detained
+## Book 31 Chapter 7: Ariarathes Recovers the Bones of His Kin
 
 King Ariarathes of Cappadocia received the envoys who had been sent to Rome, and, judging from the answers they brought back that his throne now stood on firm ground because he had gained the goodwill of the Romans, he offered thank-offerings to the gods for what had happened and entertained the leading men.
 
@@ -92,7 +92,7 @@ He decided not to bring any charge of impiety over what had happened, because he
 
 When Lysias and his party consented, and the bones were brought back to him, he received them with great honor on their arrival and buried them beside his father’s tomb with proper care.
 
-## Book 31 Chapter 8: Envoys from Achaea in the Senate
+## Book 31 Chapter 8: Ariarathes Receives the Roman Envoys
 
 At this time envoys arrived from Rome, first those with Marcus Junius, to clarify the king’s disputes with the Galatians.
 
@@ -104,7 +104,7 @@ After this, when envoys arrived with Gnaeus Octavius and Spurius Lucretius and a
 
 The envoys with Gnaeus, approving in every respect the king’s goodwill and eagerness, said that for the present they had no need of an escort, but that in the future, if any need arose, they would let him know without hesitation; for they judged him to be one of Rome’s true friends.
 
-## Book 31 Chapter 9: The Senate Suspicious of Eumenes and Antiochus
+## Book 31 Chapter 9: Antiochus Dies after the Elymais Raid
 
 In Syria King Antiochus, wanting to raise money, resolved to march against the temple of Artemis in Elymais.
 
@@ -114,7 +114,7 @@ So he withdrew, and on his retreat he died at Tabae in Persia.
 
 Some say that he went mad, because certain signs of divine anger appeared in response to the lawless outrage he had attempted against that sanctuary.
 
-## Book 31 Chapter 10: Sulpicius Gallus Investigates Eumenes
+## Book 31 Chapter 10: Younger Ptolemy Asks Rome for Cyprus
 
 B. Olympiad 154, year 2. Affairs in Italy.
 
@@ -136,7 +136,7 @@ So, seeing the scale of Egyptian power and fearing that if it should ever obtain
 
 They sent them off at once, with instructions to reconcile the brothers and secure Cyprus for the younger without war.
 
-## Book 31 Chapter 11: Death of Antiochus Epiphanes
+## Book 31 Chapter 11: Demetrius Appeals to the Senate Again
 
 At this same time, when the disaster involving Gnaeus had taken place, that is, when he had been killed, and when envoys sent by King Antiochus, men dispatched by Lysias, had arrived and spoken at length to show that the king’s friends had had no part in the deed, the Senate dismissed the envoys, not wishing to give any decision on the matter or to reveal its opinion at all.
 
@@ -158,7 +158,7 @@ For even before, it had not resolved to preserve the rule for the boy because De
 
 And since the whole situation remained in the same condition, it was natural that the Senate’s judgment should also remain fixed on the same policy.
 
-## Book 31 Chapter 12: Demetrius son of Seleucus
+## Book 31 Chapter 12: Diodorus Urges Demetrius to Flee Rome
 
 Yet Demetrius, after having wasted his breath in that final appeal and recognizing that Polybius had advised him well not to stumble twice against the same stone, repented of what had happened; and being high-minded by nature and possessing courage equal to the decision he had to make, he immediately called for Diodorus, who had recently arrived from Syria, and confided his situation to him.
 
@@ -182,7 +182,7 @@ These ships are specially selected from Carthage, and the Carthaginians send on 
 
 So he made the monthly provisioning without arousing suspicion, and openly gave orders and spoke with the sailors.
 
-## Book 31 Chapter 13: Ariarathes of Cappadocia
+## Book 31 Chapter 13: Polybius Warns Demetrius in a Note
 
 Once everything was ready on the shipmaster’s side, and Demetrius only had to complete his own arrangements, he sent his foster-father ahead to Syria to gather intelligence and observe what was happening there among the populace.
 
@@ -212,7 +212,7 @@ Dare something, risk it, act, fail, or succeed—anything rather than betray you
 
 Stay sober, and remember to mistrust: these are the sinews of good sense.
 
-## Book 31 Chapter 14: Ambassadors from Ariarathes to Rome
+## Book 31 Chapter 14: Demetrius Slips Away from Rome
 
 After reading this and understanding the situation, and who the men were and who had sent them, Demetrius at once pretended that he was going aboard for the voyage and slipped away, his friends escorting him part of the way.
 
@@ -238,7 +238,7 @@ Menyllus then talked matters over with them, showed them the monthly provisions,
 
 At first light the captain weighed anchor and put to sea, having absolutely no suspicion of what was really going on, but thinking that he was simply carrying some soldiers from Menyllus to Ptolemy.
 
-## Book 31 Chapter 15: Rhodes Asks Rome for Calynda
+## Book 31 Chapter 15: Demetrius’s Flight Is Discovered
 
 On the next day in Rome no one was likely to go looking for Demetrius or for the companions who had left with him.
 
@@ -264,7 +264,7 @@ And this was the state of affairs in Italy.
 
 Demetrius, meanwhile, was intent on the arrival of the man who was to be sent to him.
 
-## Book 31 Chapter 16: Rhodes Assists Calynda
+## Book 31 Chapter 16: Artaxias Spared at Ariarathes’ Urging
 
 II. Affairs in Asia.
 
@@ -272,7 +272,7 @@ Artaxias wanted to recover [text missing]; but at Ariarathes’ urging he did no
 
 The finest quality of any letter is its power to establish goodwill.
 
-## Book 31 Chapter 17: The Two Ptolemies
+## Book 31 Chapter 17: Ptolemy Disbands His Mercenaries
 
 III. Affairs in Africa.
 
@@ -290,7 +290,7 @@ Convinced by these arguments, the younger Ptolemy gave up the Cyprus project and
 
 He himself first sailed to Crete, taking with him Damasippus and one of the envoys, Gnaeus Merula. After recruiting about a thousand soldiers in Crete, he put to sea, crossed over to Libya, and landed at Apis.
 
-## Book 31 Chapter 18: The Murder of Octavius
+## Book 31 Chapter 18: Ptolemy Marches on Cyrene and Is Defeated
 
 The party with Torquatus, after being conveyed to Alexandria, tried to persuade the elder Ptolemy to come to terms with his brother and yield Cyprus to him.
 
@@ -322,7 +322,7 @@ For the Cyrenaeans, having learned Ptolemy’s character from what had happened 
 
 So when he approached, they drew up to meet him in battle; and in the end Ptolemy was defeated.
 
-## Book 31 Chapter 19: Demetrius Appeals Again to the Senate
+## Book 31 Chapter 19: Ptolemy Sends Envoys to Rome
 
 At this time Gnaeus Merula also arrived from Alexandria and informed the king that his brother had accepted none of the demands, but said that they must stand by the terms originally agreed upon.
 
@@ -332,7 +332,7 @@ At the same time the elder Ptolemy dismissed Titus and his companions without ac
 
 That, then, was the situation at Alexandria and Cyrene.
 
-## Book 31 Chapter 20: Demetrius Plans To Leave Rome
+## Book 31 Chapter 20: The Senate Backs the Younger Ptolemy
 
 C. Olympiad 154, year 3. Affairs in Italy.
 
@@ -348,7 +348,7 @@ Ptolemy was immediately elated; he began hiring mercenaries at once and devoted 
 
 And this was the state of affairs in Italy.
 
-## Book 31 Chapter 21: Demetrius Plans His Escape
+## Book 31 Chapter 21: Masinissa Seizes the Emporia from Carthage
 
 In Libya, Masinissa saw the large number of cities founded around the Lesser Syrtis, the beauty of the district called Emporia, and the great revenues long produced there; and for a long time he had had his eye on these advantages.
 
@@ -364,7 +364,7 @@ And yet, not many years earlier, Masinissa himself, while pursuing the rebel Aph
 
 But in the end the Carthaginians were brought, by the decisions now being given, to such a pass that they lost not only the cities and the territory, but also had to add five hundred talents for the revenue of the intervening years, from the time when the dispute first arose.
 
-## Book 31 Chapter 22: Demetrius Escapes
+## Book 31 Chapter 22: Aemilius Paullus Proved Honest in Death
 
 The greatest and finest proof of Lucius Aemilius’s character became plain to everyone after his death.
 
@@ -384,7 +384,7 @@ Therefore no one would willingly expose himself to open disbelief and contempt.
 
 Let this be remembered throughout the whole work whenever I seem to say something surprising about the Romans.
 
-## Book 31 Chapter 23: No One Notices Demetrius’s Absence
+## Book 31 Chapter 23: Scipio Confides His Worry to Polybius
 
 Now that the course of the narrative and the sequence of events have brought me to this household, I want, for the benefit of readers who enjoy such matters, to make good the promise I left unfulfilled in the previous book.
 
@@ -406,7 +406,7 @@ For I seem to everyone, so I am told, to be quiet and sluggish, and far removed 
 
 And they say that the family I come from wants not such a protector, but the very opposite; and that is what pains me most.”
 
-## Book 31 Chapter 24: Decadence at Rome
+## Book 31 Chapter 24: Polybius Pledges Friendship to Scipio
 
 Polybius was surprised at the way the young man had begun the conversation, for he was then not yet more than eighteen years old.
 
@@ -432,7 +432,7 @@ Polybius was pleased as he watched the young man’s zeal and frankness, but he 
 
 Even so, from the time of this exchange onward, the young man never separated himself from Polybius, and everything else became secondary to Polybius’s company.
 
-## Book 31 Chapter 25: The Rhodians Lapse in Dignity
+## Book 31 Chapter 25: Scipio Chooses Self-Control amid Roman Decadence
 
 From this time onward, by continually proving themselves to one another in practical matters, they came to feel toward each other the affection of father and son, and of close kinsmen.
 
@@ -454,7 +454,7 @@ After this he continually aimed to surpass the rest in greatness of spirit and i
 
 For this side of his character he had a fine foundation in his life with his natural father; he himself also had by nature good impulses toward what was right; and much besides came of itself to help forward this purpose.
 
-## Book 31 Chapter 26: The Two Ptolemies
+## Book 31 Chapter 26: Scipio Gives Aemilia’s Equipage to His Mother
 
 The first event was the death of the mother of his adoptive father, who was the sister of his natural father Lucius and the wife of his adoptive grandfather Scipio, the one called the Great.
 
@@ -476,7 +476,7 @@ This would naturally seem admirable anywhere, but at Rome it seemed positively a
 
 This, then, was the first beginning of his reputation for nobility of character, and it advanced him greatly, since the female sex is both talkative and lavish in spreading whatever captures its interest.
 
-## Book 31 Chapter 27: Ptolemy Physcon Invades Cyrene
+## Book 31 Chapter 27: Scipio Pays His Aunts’ Dowries Early
 
 After this, he was obliged to pay the remaining half of the dowries owed to the daughters of Scipio the Great, who were the sisters of his adoptive father.
 
@@ -508,7 +508,7 @@ Therefore he told them to take the whole amount from the banker.
 
 When Tiberius and the others heard this, they went away in silence, overwhelmed by Scipio’s greatness of spirit and condemning their own pettiness, though they were second to none among the Romans.
 
-## Book 31 Chapter 28: Gnaeus Merula Comes to Rome
+## Book 31 Chapter 28: Scipio Yields His Inheritance to Fabius
 
 Two years later his natural father Lucius died, leaving him and his brother Fabius as heirs to the estate; on this occasion Scipio did something noble and worthy of remembrance.
 
@@ -534,7 +534,7 @@ By spending perhaps sixty talents—for he had given up that much of his private
 
 His self-control, however, he acquired at no cost at all; by abstaining from many and various pleasures he gained bodily health and vigor, and this stayed with him throughout his whole life, repaying him with many pleasures and fine rewards in return for the easy pleasures from which he had earlier abstained.
 
-## Book 31 Chapter 29
+## Book 31 Chapter 29: Scipio Takes Up Hunting in Macedonia
 
 There remained the part concerned with courage, which is almost the most important element in every constitution, and especially at Rome; so this too required the most serious training.
 
@@ -558,13 +558,13 @@ But he, without causing pain to anyone at all, won a reputation for courage amon
 
 Accordingly, in a short time he outstripped his contemporaries to a degree no Roman is remembered ever to have done, even though in his pursuit of distinction he had taken a path opposite to that of all the others, so far as Roman custom and practice were concerned.
 
-## Book 31 Chapter 30
+## Book 31 Chapter 30: A Digression on Scipio’s Youth
 
 I have spoken at greater length about the course Scipio chose in his youth because I believe such an account is pleasant for older readers and useful for the young, and especially because I want to win belief for what will be said about him in the following books, so that those who hear it may neither be perplexed when some of the things that happened to him later seem extraordinary, nor, by ignoring the causes from which each event came about, attribute to fortune achievements that were really the result of judgment and character—except for the very few things that ought to be credited only to fortune and chance.
 
 Having carried this digression far enough, I now return again to the main thread of the narrative.
 
-## Book 31 Chapter 31
+## Book 31 Chapter 31: The Rhodians Accept Grain from Eumenes
 
 II. Greek Affairs In other respects the Rhodians preserved the dignity of their constitution, but at this time they slipped a little, in my judgment. For they accepted from Eumenes two hundred and eighty thousand measures of grain, so that the money realized from it might be lent out, and the interest used to pay the salaries of the instructors and teachers of their sons.
 
@@ -572,7 +572,7 @@ If a private household had fallen into real difficulty, one might perhaps accept
 
 And in proportion as a state ought to think on a larger scale than a private person, what is fitting ought to be guarded even more carefully in public matters than in private ones—especially by the Rhodians, given both the abundance of their public resources and their claim to dignity.
 
-## Book 31 Chapter 32
+## Book 31 Chapter 32: Embassies to Rome Against Eumenes
 
 III. Asian Affairs In Asia, Prusias sent envoys to Rome together with Galatians to bring accusations against Eumenes.
 
@@ -580,7 +580,7 @@ Eumenes in turn sent his brother Attalus to answer the charges.
 
 Ariarathes also sent to Rome a golden crown worth ten thousand gold pieces, together with envoys who were to explain to the senate the answer he had given to Tiberius and, more generally, to urge them to state plainly whatever they required, since he was ready to do whatever the Romans commanded.
 
-## Book 31 Chapter 33
+## Book 31 Chapter 33: Demetrius Courts Tiberius and Wins Recognition
 
 When Menochares arrived at Antioch to see Demetrius and gave the king a full account of the meeting he had had with Tiberius and his party in Cappadocia, Demetrius decided that, of all the business before him, the most necessary was to cultivate those men as far as he could.
 

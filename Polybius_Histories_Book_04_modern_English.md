@@ -978,7 +978,7 @@ The Cnossians, since this upheaval among their allies had come upon them unexpec
 
 As soon as this had happened, the older men of the Gortynians seized the citadel and brought in the Cnossians and the Aetolians; and some of the young men they expelled, and others they killed,
 
-## Book 4 Chapter 54
+## Book 4 Chapter 54: The Fall of Lyttos
 
 and they handed the city over to the Cnossians. At about the same time, when the Lyttians had marched out in full force into enemy territory, the Cnossians, perceiving what had happened, seized Lyttos while it was stripped of its defenders.
 

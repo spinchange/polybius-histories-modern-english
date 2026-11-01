@@ -2,7 +2,7 @@
 
 Modern English translation of the Greek text.
 
-## Book 32 Chapter 1: The Senate Breaks its Alliance with Ptolemy Philometor
+## Book 32 Chapter 1: Ariarathes’ Crown and Attalus Cleared
 
 Olympiad 155, year 1. Affairs in Italy.
 
@@ -18,7 +18,7 @@ After hearing them and many others from Asia, the senate not only cleared Attalu
 
 For in proportion as they had become estranged from the king and were at odds with Eumenes, to that same degree they cultivated Attalus and sought to raise him higher.
 
-## Book 32 Chapter 2: Masinissa Harasses the Carthaginians
+## Book 32 Chapter 2: Demetrius Sends Gnaeus’s Murderer to Rome
 
 Envoys also came from King Demetrius, led by Menochares, bringing to Rome a crown worth ten thousand gold pieces and at the same time bringing with them the man who had laid hands on Gnaeus.
 
@@ -36,7 +36,7 @@ He even began to pronounce judgments on affairs of state, declaring that Gnaeus 
 
 By throwing out such reckless talk, he fell into the misfortune already mentioned.
 
-## Book 32 Chapter 3: Prusias Accuses Eumenes
+## Book 32 Chapter 3: Leptines and Isocrates Before the Senate
 
 Something happened in connection with the men just mentioned that deserves to be remembered.
 
@@ -72,7 +72,7 @@ The envoys came with instructions that were generally deferential, so as not to 
 
 But even after they entered and delivered the appropriate speeches, they accomplished nothing. On the contrary, the senate decided to stand by its existing position.
 
-## Book 32 Chapter 4: Demetrius and Ariarathes
+## Book 32 Chapter 4: The Death of Lyciscus Reconciles the Aetolians
 
 Greek Affairs.
 
@@ -80,7 +80,7 @@ Because Lyciscus the Aetolian was a disturber and a noisy agitator, but after he
 
 And so Lyciscus, though he was an utterly evil man, nevertheless ended his life well, with the result that many quite reasonably reproach Fortune because she sometimes bestows upon the worst of men the prize of a good death, which ought to belong to the good.
 
-## Book 32 Chapter 5: Ambassadors from Ariarathes
+## Book 32 Chapter 5: Charops Terrorizes Epirus
 
 Conditions in Aetolia were in good order, since civil strife there had been extinguished after the death of Lyciscus.
 
@@ -104,7 +104,7 @@ By keeping this fear alive, he continually extorted money, dealing with the men 
 
 She too proved highly suited to the role, and was able to assist in acts of violence with more force than one would expect from a woman.
 
-## Book 32 Chapter 6: Isocrates Comes to Rome as Ambassador
+## Book 32 Chapter 6: Charops Seeks the Senate’s Approval
 
 After they had squeezed as much money as possible out of everyone, men and women alike, they nevertheless brought all those who had been proscribed before the people.
 
@@ -122,7 +122,7 @@ After this, when Charops entered the senate, it did not agree to what he was ask
 
 But Charops, after withdrawing, concealed that answer, and instead wrote home a report adapted to his own interests, saying that the Romans approved what he was doing.
 
-## Book 32 Chapter 7: Isocrates the Grammarian
+## Book 32 Chapter 7: The Delian Exiles Appeal to the Achaeans
 
 Olympiad 155, year 2. Affairs in Italy.
 
@@ -134,7 +134,7 @@ But since the Athenians claimed that this jurisdiction did not apply to them, th
 
 It was on this matter that they had come on embassy at that time, and they received the answer that the arrangements lawfully made by the Achaeans concerning the Delians were to remain valid.
 
-## Book 32 Chapter 8: Legacy of L. Aemilius Paulus
+## Book 32 Chapter 8: Eulogy of King Eumenes
 
 II. Affairs at Pergamum.
 
@@ -148,7 +148,7 @@ Third, although he had three brothers close to him in age and active in affairs,
 
 Such a thing one would rarely find to have happened.
 
-## Book 32 Chapter 9: Scipio the Younger and Polybius
+## Book 32 Chapter 9: Fannius Sent to Inspect the Delmatae
 
 Olympiad 155, year 3. I. Affairs in Italy.
 
@@ -158,7 +158,7 @@ While Pleuratus was alive, these people had obeyed him; but after his death, whe
 
 So Fannius and his party set out on this mission.
 
-## Book 32 Chapter 10: Polybius Responds to Scipio’s Speech
+## Book 32 Chapter 10: Rival Envoys Slander Ariarathes at Rome
 
 King Ariarathes arrived in Rome while it was still summer.
 
@@ -176,7 +176,7 @@ For they had the audacity to say absolutely anything on any subject, paying no r
 
 So, with falsehood winning the day almost without a struggle, they thought the affair was proceeding exactly as they wished.
 
-## Book 32 Chapter 11: Character of the Younger Scipio
+## Book 32 Chapter 11: Orophernes’ Ruin and the Oropus Affair
 
 II. Affairs in Asia.
 
@@ -200,11 +200,11 @@ This is what happened in the case of Orophernes too: when events turned against 
 
 Polybius says in Book 32 that after ruling Cappadocia for only a short time and casting aside the customs of his fathers, Orophernes introduced a life of revelry and theatrical extravagance.
 
-## Book 32 Chapter 12: Scipio’s Generosity to his Mother
+## Book 32 Chapter 12: Attalus Restores Ariarathes to His Kingdom
 
 Attalus, the brother of Eumenes, when he took power, first gave proof of his own purpose and policy by restoring Ariarathes to his kingdom.
 
-## Book 32 Chapter 13: Scipio’s Liberality
+## Book 32 Chapter 13: Rome Resolves on War with the Delmatae
 
 Olympiad 155, year 4. I. Affairs in Italy.
 
@@ -216,13 +216,13 @@ For this was then the twelfth year since the war with Perseus and the settlement
 
 These, then, were the reasons why the Romans went to war with the Delmatae; but to outsiders they presented the war as one undertaken because of the outrage committed against their envoys.
 
-## Book 32 Chapter 14: Scipio’s Manliness
+## Book 32 Chapter 14: Epirote Envoys Before the Senate
 
 At this time envoys arrived from Epirus, both from those who held Phoenice and from those who had been expelled, and they pleaded their case in person.
 
 The senate replied that it would give instructions on these matters to the envoys being sent to Illyria with Gaius Marcius.
 
-## Book 32 Chapter 15: Scipio’s Courage
+## Book 32 Chapter 15: Prusias Plunders Sanctuaries Around Pergamum
 
 II. War between Prusias and Attalus.
 
@@ -250,7 +250,7 @@ After doing this he returned home, having made war not only on men but on the go
 
 And on the return journey Prusias’ infantry also suffered terribly from famine and dysentery, so that the vengeance that met him at once for these acts seemed to have been sent by heaven. [Text breaks.]
 
-## Book 32 Chapter 16: Scipio’s Success Due to his Character
+## Book 32 Chapter 16: Attalus Sends Athenaeus to the Senate
 
 After his defeat by Prusias, Attalus chose his brother Athenaeus and sent him with Publius and his party to explain to the senate what had happened.
 

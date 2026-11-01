@@ -230,7 +230,7 @@ Polybius:
 
 Lucius Aemilius entered the sacred precinct at Olympia, and when he saw the statue he was astonished. He said that Pheidias alone seemed to him to have reproduced the Zeus of Homer, because although he had formed great expectations of Olympia, he had found the reality greater than what he had expected.
 
-## Book 30 Chapter 11: The Greek Prisoners In Italy
+## Book 30 Chapter 11: Aetolia Sinks into Lawless Violence
 
 The Aetolians had long been accustomed to make their living from plunder and other such lawless practices.
 
@@ -270,27 +270,27 @@ But to the Achaean League they sent as envoys two of the most distinguished men 
 
 So after some time the commander sent the letters and the envoys concerning these men, although in his own judgment he did not approve of the slanders made by Lyciscus and Callicrates, as later events themselves made clear.
 
-## Book 30 Chapter 14: Noisy Scene In A Roman Theatre
+## Book 30 Chapter 14: Staging Games and Commanding Armies
 
 It takes the same kind of spirit to stage contests well, to manage lavish preparations and a magnificent drinking party properly, and to draw up a battle line against the enemy with a general’s skill.
 
-## Book 30 Chapter 15: How to Hold Good Games
+## Book 30 Chapter 15: Paulus Destroys Seventy Cities of Epirus
 
 Polybius says that Paulus destroyed seventy cities of the Epirotes after the overthrow of the Macedonians and of Perseus. Most of them belonged to the Molossians, and he enslaved a hundred and fifty thousand people.
 
-## Book 30 Chapter 16: Aemilius in Epirus
+## Book 30 Chapter 16: The Egyptian Kings Thank Rome
 
 After the kings in Egypt had been freed from the war against Antiochus, they first sent Numenius, one of their Friends, as an envoy to Rome to give thanks for the benefits that had been done for them.
 
 They also released Menalcidas the Spartan, who had made energetic use of the crisis that had come upon the kingdom for his own restoration, because Gaius Popilius had requested this favor from the kings on his behalf.
 
-## Book 30 Chapter 17: Reaction of the Egyptian Kings
+## Book 30 Chapter 17: Rome Restores the Son of Cotys
 
 At this time Cotys, king of the Odrysians, sent envoys to Rome, asking that his son be restored to him and offering a defense of his cooperation with Perseus.
 
 The Romans, thinking that they had already achieved their purpose, since the war against Perseus had ended as they wished, and that their dispute with Cotys no longer mattered, allowed him to recover his son, who had been given as a hostage to Macedonia and had been captured along with the children of Perseus, wishing to display their own clemency and greatness of spirit, and at the same time to bind Cotys to them by such a favor.
 
-## Book 30 Chapter 18: Cotys, King of the Odrysae
+## Book 30 Chapter 18: Prusias Grovels before the Senate
 
 At the same time King Prusias also came to Rome to congratulate the senate and the generals on what had happened.
 
@@ -306,7 +306,7 @@ And in the audience itself he carried on in a manner consistent with this, about
 
 Having made himself utterly contemptible, he received on that very account a kindly answer.
 
-## Book 30 Chapter 19: Prusias and Eumenes
+## Book 30 Chapter 19: The Senate Turns Eumenes Away
 
 Now just when he had received his answers, it happened that Eumenes arrived.
 
@@ -334,7 +334,7 @@ While these events were still taking place at the beginning of winter, the senat
 
 These it dismissed while giving various hints about what was to come. It was still postponing a decision about the Athenians.
 
-## Book 30 Chapter 20: Eumenes Prevented from Visiting Rome
+## Book 30 Chapter 20: The Athenians Receive Delos and Lemnos
 
 The Athenians came as envoys, at first on behalf of the safety of the people of Haliartus.
 
@@ -350,7 +350,7 @@ Nevertheless, the senate gave them Delos and Lemnos and the territory of the Hal
 
 As for Lemnos and Delos, according to the proverb they had taken a wolf by the ears; for they endured many hardships in their disputes with the Delians, while from the territory of the Haliartians they gained not so much profit as reproach.
 
-## Book 30 Chapter 21: The Athenians and Rhodians
+## Book 30 Chapter 21: Theaetetus Dies and Garrisons Are Ordered Out
 
 At this time Theaetetus appeared before the senate and spoke about the alliance.
 
@@ -360,7 +360,7 @@ Then exiles from both Caunus and Stratoniceia came to Rome and were admitted bef
 
 Philophron, Astymedes, and their colleagues, after receiving this reply, sailed home in haste, fearing that if the Rhodians failed to comply with the order to remove the garrisons, they would create fresh grounds for accusation.
 
-## Book 30 Chapter 22: Death of Theaetetus of Rhodes
+## Book 30 Chapter 22: Anicius’s Ridiculous Victory Games
 
 Lucius Anicius, who had also served as a Roman general, after defeating the Illyrians and bringing Gentius, the king of the Illyrians, captive along with his children, celebrated victory games at Rome and did things that were utterly ridiculous, as Polybius relates in Book 30.
 
@@ -386,7 +386,7 @@ While these groups were still contending in battle order, two dancers were broug
 
 With all these performers going at once, what resulted was beyond description. And as for the tragic actors, Polybius says, whatever I might choose to say would seem to some people like mockery.
 
-## Book 30 Chapter 23: Public Hatred of Callicrates and His Faction
+## Book 30 Chapter 23: The Rhodians Again Seek an Alliance
 
 At this time the Cnossians, together with the Gortynians, made war on the Raucians and swore agreements with one another that they would not end the war until they had taken Raucus by force.
 
@@ -398,7 +398,7 @@ When they arrived in Rome, at the height of summer, they entered the senate and 
 
 For the inhabitants of the Peraea were like slaves unexpectedly released from their chains, who, unable to believe the good fortune before them, go beyond normal behavior, because they think that those they meet do not recognize or clearly see that they have truly been set free, unless they do something strange and out of the ordinary.
 
-## Book 30 Chapter 25
+## Book 30 Chapter 25: Antiochus Stages the Procession at Daphne
 
 This same king, when he heard about the games that Aemilius Paulus, the Roman general, had held in Macedonia, wanted to surpass Paulus in magnificence. So he sent envoys and sacred messengers to the cities to announce the games he would hold at Daphne, and this stirred great eagerness among the Greeks to come to him.
 
@@ -432,7 +432,7 @@ Six hundred royal pages also passed by carrying gold vessels. Then two hundred w
 
 After them came eighty women carried in litters with golden feet, and five hundred seated in litters with silver feet, all magnificently adorned. These were the most striking features of the procession.
 
-## Book 30 Chapter 26
+## Book 30 Chapter 26: Perfumes and Banquets at the Games
 
 When the games, gladiatorial combats, and hunts had been completed over a period of thirty days, during which he presented the spectacles, for the first five days everyone in the gymnasium was anointed from golden vessels with saffron ointment.
 
@@ -440,7 +440,7 @@ There were fifteen of these vessels, and an equal number for cinnamon and nard p
 
 For the banquets, sometimes one thousand dining couches were laid out and sometimes one thousand five hundred, furnished with the utmost luxury.
 
-## Book 30 Chapter 27
+## Book 30 Chapter 27: Antiochus Charms the Roman Envoys
 
 After the games had been brought to an end, just when they were over, the envoys headed by Tiberius arrived, acting in effect as spies.
 
@@ -448,11 +448,11 @@ Antiochus received them with such tact and friendliness that not only did Tiberi
 
 Indeed, besides all his other courtesies, he even yielded the palace itself to the envoys, and in outward appearance almost his diadem as well, though this was not his real disposition, but rather the exact opposite, since he was very unfriendly toward the Romans.
 
-## Book 30 Chapter 28
+## Book 30 Chapter 28: Autonomy Granted to the Asian Galatians
 
 They granted autonomy to the envoys from the Galatians of Asia, on condition that they remained in their own settlements and did not serve on campaigns outside their own borders.
 
-## Book 30 Chapter 29
+## Book 30 Chapter 29: Achaeans Shun Callicrates and Andronidas
 
 Throughout the Peloponnese, when the envoys arrived and explained the replies they had received, there was no longer mere uproar, but open anger and hatred against Callicrates and his circle.
 
@@ -468,7 +468,7 @@ As for the hissing at the common festivals of the Greeks, and the jeering whenev
 
 Even schoolboys, as they came back from their classes through the streets, were bold enough to call them traitors to their faces. Such was the resentment and hatred that had spread against the men in question.
 
-## Book 30 Chapter 30
+## Book 30 Chapter 30: Eumenes Accused Before the Senate
 
 When many embassies from different places had arrived in Rome, the most notable being those from Rhodes under Astymedes, from the Achaeans under Euryas, Anaxidamus, and Satyrus, and from Prusias under Python, the senate took their business in hand.
 
@@ -486,7 +486,7 @@ The commissioners with Tiberius, when they returned from their embassy, were una
 
 So thoroughly had the kings forestalled them by the graciousness of their reception.
 
-## Book 30 Chapter 31
+## Book 30 Chapter 31: Astymedes Pleads for Rhodes
 
 After this the senate summoned the Rhodians and gave them a hearing.
 
@@ -524,7 +524,7 @@ Still, what helped the Rhodians most in obtaining the alliance was the recent ar
 
 For they testified, first, that the Rhodians had obeyed every decree of the senate, and second, that all those responsible for the estrangement had been condemned to death among them. In this way they overcame those who spoke against the Rhodians and secured the alliance with Rome.
 
-## Book 30 Chapter 32
+## Book 30 Chapter 32: The Senate Bars the Detainees’ Return
 
 After some time the envoys from the Achaeans entered, carrying instructions consistent with the replies they had previously received.
 

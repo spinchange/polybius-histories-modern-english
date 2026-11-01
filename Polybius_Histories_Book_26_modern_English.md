@@ -26,7 +26,7 @@ He even bathed in the public baths when they were crowded with ordinary townsmen
 
 Once, when someone said, “How fortunate you kings are, to use such things and smell so sweet,” he said nothing to the man; but on the next day, when that fellow was bathing, Antiochus came in and had a very large jar of the most expensive perfume, the kind called stacte, poured over his head, with the result that all the bathers jumped up and rolled themselves in the perfume, then kept slipping and falling because it was so sticky, providing laughter for everyone, including the king himself.
 
-## Book 26 Chapter 1a
+## Book 26 Chapter 1a: Why Polybius Calls Antiochus Epimanes
 
 Olympiad 151. Affairs of Antiochus.
 

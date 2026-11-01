@@ -10,7 +10,7 @@ When Polybius says that Tiberius Gracchus destroyed three hundred Celtiberian ci
 
 And perhaps the point is not unbelievable; for both generals and historians are easily drawn into this kind of falsehood, dressing up events to make them look finer.
 
-## Book 25 Chapter 2: The Accession of Perseus
+## Book 25 Chapter 2: Pharnaces Makes Peace with Eumenes and Ariarathes
 
 Affairs in Asia.
 
@@ -62,7 +62,7 @@ Such was the tone of the opening of Perseus’ reign.—As for king Philip, when
 
 And after he had suffered a complete reverse in his general position, he tried in every possible way to give his kingship a firmer practical foundation.
 
-## Book 25 Chapter 4: Character and First Measures of Perseus
+## Book 25 Chapter 4: The Senate Hears the Lycian Envoys
 
 Olympiad 150, year 3. Affairs in Italy.
 

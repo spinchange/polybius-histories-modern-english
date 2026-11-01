@@ -66,11 +66,11 @@ But the Romans paid no attention to what they said. So the Prienians, who had pl
 
 For they returned the deposit to Orophernes, yet because of that same deposit they suffered serious unjust injuries at the hands of King Ariarathes.
 
-## Book 33 Chapter 7: Marseilles Complains about the Ligurians
+## Book 33 Chapter 7: The Senate Sends Ten Envoys to Prusias
 
 When Hortensius and Arunculeius had returned from Pergamum and explained both Prusias’ contempt for the Senate’s instructions and the further fact that, in violation of his sworn agreements, after shutting them up in Pergamum along with Attalus and his party, he had shown every kind of violence and lawlessness, the Senate, angered and deeply disturbed by what had happened, appointed from its own body ten envoys, headed by Lucius Anicius, Gaius Fannius, and Quintus Fabius Maximus, and sent them out at once, instructing them to put an end to the war and compel Prusias to make restitution to Attalus for the wrongs he had committed in the war.
 
-## Book 33 Chapter 8: The Ligurians, Ptolemies, And Prusias
+## Book 33 Chapter 8: Massalia Appeals to Rome for Help
 
 At the same time envoys also arrived from Massalia.
 
@@ -126,7 +126,7 @@ He then disarmed those who had opposed him and, distributing his army among thei
 
 So this war had both a swift beginning and a swift end.
 
-## Book 33 Chapter 11: Ligurian War
+## Book 33 Chapter 11: Ptolemy the Younger Accuses His Brother at Rome
 
 At the very time when the senate sent Opimius against the war with the Oxybii, Ptolemy the Younger arrived in Rome.
 
@@ -270,7 +270,7 @@ E. Fragments of Uncertain Position.
 
 Once the masses are seized by an extreme impulse to love or hate certain people, any pretext is enough to help them carry out their purpose.
 
-## Book 33 Chapter 21
+## Book 33 Chapter 21: The Goat-Milker and the Sieve
 
 But I am afraid that I may stumble into the familiar proverb without noticing it: which is the greater fool, the man milking a he-goat or the man holding out a sieve? For by arguing so precisely against something everyone already admits is false, and by adding still more discussion, I too seem to be doing much the same thing.
 

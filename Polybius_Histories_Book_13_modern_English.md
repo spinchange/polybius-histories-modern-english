@@ -8,7 +8,7 @@ I. Greek Affairs Because of the unbroken succession of wars and the extravagance
 
 So, being naturally inclined toward a change in their own constitution, they chose Dorimachus and Scopas to draft laws for them, thinking that these men were, by temperament, eager for upheaval and were also deeply entangled in many ordinary financial obligations. After receiving this authority, they wrote the laws.
 
-## Book 13 Chapter 1a
+## Book 13 Chapter 1a: Alexander the Aetolian Opposes the Proposed Law
 
 Alexander the Aetolian opposed the legislation being drafted by Dorimachus and Scopas, showing by many examples that wherever this growth had once taken root, it never stopped until it had brought great disasters on those who had made use of it.
 
@@ -138,7 +138,7 @@ The Gerrhaeans asked the king not to destroy what the gods had given them—that
 
 When freedom had been confirmed for the Gerrhaeans, they immediately honored King Antiochus with gifts of five hundred talents of silver, a thousand of frankincense, and two hundred of the substance called stacte. He then sailed on to the island of Tylos and from there departed for Seleuceia. These aromatic products came from the Erythraean Sea.
 
-## Book 13 Chapter 10
+## Book 13 Chapter 10: Geographical Fragments from Italy and Greece
 
 III. Miscellaneous Geographical Fragments A. Italian Affairs Badiza, a city of Bruttium, mentioned by Polybius in his thirteenth book.
 

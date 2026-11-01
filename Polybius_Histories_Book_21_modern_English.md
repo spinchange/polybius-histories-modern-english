@@ -14,7 +14,7 @@ The senate said that it would give instructions about the villages to the envoys
 
 As for the old exiles, it said it was amazed that they had not yet been brought home, now that Sparta had been freed.
 
-## Book 21 Chapter 2: Embassy from Philip
+## Book 21 Chapter 2: The Senate Offers the Aetolians Two Terms
 
 When news of the Roman victory in the naval battle had just reached Rome, they first proclaimed a nine-day public thanksgiving.
 
@@ -26,7 +26,7 @@ When both sides had spoken at length, the senate resolved to offer the Aetolians
 
 But when the Aetolians asked the senate to state explicitly what issues they must submit for Roman decision, the senate refused to define them. That is why the war with the Aetolians continued for them alone.
 
-## Book 21 Chapter 3: The Scipios In Greece
+## Book 21 Chapter 3: Philip’s Envoys Win Demetrius’s Release
 
 At about the same time the senate also dealt with the envoys sent by Philip.
 
@@ -36,7 +36,7 @@ After hearing them, the senate immediately released his son Demetrius from hosta
 
 In the same way they also released the Spartan hostages, except Armenas the son of Nabis; he later died of illness.
 
-## Book 21 Chapter 3b
+## Book 21 Chapter 3b: Achaea Allies with Eumenes
 
 Affairs in Greece.
 
@@ -142,7 +142,7 @@ At this time letters reached Samos for Lucius and for Eumenes, both from Lucius 
 
 The same facts were likewise made known to Antiochus and Seleucus by the Aetolians.
 
-## Book 21 Chapter 9: Antiochus At Pergamum
+## Book 21 Chapter 9: Diophanes of Megalopolis as Commander
 
 Diophanes of Megalopolis had great practical experience in warfare, because during the long war against Nabis the Megalopolitans, being a neighboring people, had spent all that time serving under Philopoemen and had thus gained real training in military action.
 
@@ -698,7 +698,7 @@ Once there, he began preparations to transport the army across to Cephallenia, w
 
 For none of the terms already mentioned had any force at all unless the Roman people also approved them.
 
-## Book 21 Chapter 31: The Treaty With the Aetolians
+## Book 21 Chapter 31: Leon’s Simile of the Sea Wins Peace
 
 So these men set out on the mission, taking with them the Rhodians and the Athenians.
 
@@ -756,11 +756,11 @@ The city and territory of Oeniadae shall belong to the Acarnanians.”
 
 When the oaths on these terms had been sworn, the peace was complete; and the affairs of the Aetolians, and in general of the Greeks, took this form.
 
-## Book 21 Chapter 32b
+## Book 21 Chapter 32b: Fulvius Seizes the Citadel by Night
 
 Fulvius carried out a night attack, seized the part of the citadel, and brought the Romans inside.
 
-## Book 21 Chapter 32c
+## Book 21 Chapter 32c: Philopoemen Unites the Noble and the Advantageous
 
 What is noble and what is advantageous seldom run together, and rare are the men able to unite and harmonize them with each other.
 
@@ -882,11 +882,11 @@ The same thing happened on this occasion too, and since many had gone out, the m
 
 By this chance, what was needed for the danger at hand came to pass of itself.
 
-## Book 21 Chapter 40: Cephallenia
+## Book 21 Chapter 40: A Proverb from the Ariarathes Affair
 
 In the affair concerning Ariarathes, the outcome became proverbial: though they had matters in hand, they came to grief at the hands of their enemies.
 
-## Book 21 Chapter 41: Philopoemen Combines What is Right and What is Expedient
+## Book 21 Chapter 41: Embassies Crown Manlius at Ephesus
 
 Olympiad 147, year 4. Affairs in Asia.
 
@@ -914,7 +914,7 @@ When Musaeus and his companions met him and begged him to stay because the wagon
 
 When the supplies arrived, he measured out the grain to the army and handed the money to one of the military tribunes with instructions to convey it to Apamea.
 
-## Book 21 Chapter 42
+## Book 21 Chapter 42: Perga Surrenders; Commissioners Meet at Apamea
 
 When Gnaeus learned that the commander of the garrison stationed by Antiochus at Perga was neither withdrawing the garrison nor leaving the city himself, he marched there with his army.
 
@@ -990,7 +990,7 @@ Any injuries committed by either side against the other were to be submitted to 
 
 If both parties by common agreement wished to add anything to the treaty or remove anything from it, they were free to do so.
 
-## Book 21 Chapter 44: The Roman Commissioners Arrive at Ephesus
+## Book 21 Chapter 44: Thermus Sent to Syria, Fleet Ordered to Patara
 
 When the oaths on these terms had been sworn, the commander at once sent Quintus Minucius Thermus and his brother Lucius—who had only just brought back the money from the Oroandians—into Syria.
 
@@ -998,11 +998,11 @@ They were instructed to receive the king’s oaths and confirm the particular cl
 
 He also sent dispatches to Quintus Fabius, commander of the fleet, ordering him to sail once more to Patara, take over the ships lying there, and burn them.
 
-## Book 21 Chapter 45: Treaty With Antiochus
+## Book 21 Chapter 45: Ariarathes Buys Roman Friendship
 
 Manlius the proconsul, after exacting three hundred talents from Ariarathes, made him a friend of the Romans.
 
-## Book 21 Chapter 46: The Romans Burn Antiochus’s Ships at Patara
+## Book 21 Chapter 46: The Settlement of Asia at Apamea
 
 At Apamea the ten commissioners and Gnaeus, the Roman commander, heard everyone who had come before them. In cases where men disputed about territory, money, or some other matter, they assigned to them cities acknowledged by both sides as places in which the disputed claims were to be judged. Their general settlement, however, was as follows.
 
@@ -1028,7 +1028,7 @@ These were the gifts they assigned to Eumenes. But regarding Pamphylia, since Eu
 
 When most of the necessary and important arrangements had thus been completed, they broke camp and marched toward the Hellespont, wishing on the way to secure matters still further in regard to the Galatians.
 
-## Book 21 Chapter 47: Ariarathes Declared a Friend of Rome
+## Book 21 Chapter 47: Thracians Attack the Returning Romans
 
 On the Romans’ return journey they suffered many terrible things at the hands of the Thracians...
 

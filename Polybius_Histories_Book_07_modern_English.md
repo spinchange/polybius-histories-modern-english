@@ -12,7 +12,7 @@ The people of Petelia, on the other hand, kept faith with Rome and showed such e
 
 Capua, after going over to the Carthaginians, used its influence to draw the other cities over as well.
 
-## Book 7 Chapter 2: Hieronymus of Syracuse
+## Book 7 Chapter 2: Hieronymus Sends Envoys to Hannibal
 
 After the plot against Hieronymus, king of the Syracusans, and after Thraso’s withdrawal, the party of Zoippus and Andranodorus persuaded Hieronymus to send envoys to Hannibal at once.
 
@@ -26,7 +26,7 @@ When they reached Syracuse, Polycleitus and his colleague delivered the report o
 
 He declared that the Hannibal who had come to him ought to go off to Carthage at once, and he promised to send men of his own with him to conduct negotiations with the Carthaginians.
 
-## Book 7 Chapter 3: Hieronymus of Syracuse
+## Book 7 Chapter 3: Hieronymus Rebuffs the Roman Envoys
 
 At this same time the Roman commander stationed at Lilybaeum learned what was happening and sent envoys to Hieronymus to renew the treaty that had been made with his ancestors.
 
@@ -242,15 +242,15 @@ But then again, once he followed Demetrius and became responsible for the misfor
 
 So great is the weight for young kings, both toward the ruin and toward the restoration of their rule, that lies in the choice and judgment of the friends who attend them—a matter about which most men, I do not know how, are careless and give not even the slightest forethought.
 
-## Book 7 Chapter 14b
+## Book 7 Chapter 14b: A Forged Letter and the Cretans
 
 They sent out some of the Cretans as if for a raid, after giving them a forged letter.
 
-## Book 7 Chapter 14c
+## Book 7 Chapter 14c: The Massylians of Libya
 
 The Massylians are a Libyan people. Polybius in the seventh book calls them the Massyleis.
 
-## Book 7 Chapter 14d
+## Book 7 Chapter 14d: Oricus on the Adriatic
 
 The name is used in the masculine, as Polybius has it in the seventh book: “those who inhabit Oricus, who are also the first to lie on the right for a man sailing in toward the Adriatic.”
 
