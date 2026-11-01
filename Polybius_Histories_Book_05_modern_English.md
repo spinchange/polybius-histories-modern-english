@@ -1572,11 +1572,11 @@ Garsyeris, then, seeing that the Cesbedium was already occupied ahead of him, ga
 
 After this action Achaeus and Garsyeris withdrew to their own camp, while the Selgians, fearing both the factional strife among themselves and the enemy’s encampment against them, sent out their elders with suppliant branches, made a truce, and brought the war to an end on these terms: that they pay four hundred talents at once, along with the Pednelissian prisoners, and after some time add a further three hundred.
 
-So the Selgians, having endangered their country through the impiety of Logbasis, by their own daring both preserved their country and did not disgrace their freedom, nor the standing they possessed as kinsmen of the Lacedaemonians.
+So the Selgians, having endangered their country through the impiety of Logbasis, by their own daring both preserved their country and did not disgrace their freedom, nor the standing they possessed as kinsmen of the Spartans.
 
 ## Book 5 Chapter 77: Expedition of Attalus
 
-[their] kinship with the Lacedaemonians. Achaeus, having brought Milyas and the greater part of Pamphylia under his control, broke camp and, on arriving at Sardis, waged continuous war against Attalus, kept up his threats against Prusias, and made himself an object of fear and oppression to all who dwelt on this side of the Taurus.
+[their] kinship with the Spartans. Achaeus, having brought Milyas and the greater part of Pamphylia under his control, broke camp and, on arriving at Sardis, waged continuous war against Attalus, kept up his threats against Prusias, and made himself an object of fear and oppression to all who dwelt on this side of the Taurus.
 
 Now at the very time when Achaeus was conducting his campaign against the Selgians, Attalus, with the Aegosagae Gauls in his force, marched through the cities of Aeolis and those bordering on them—all the cities that had earlier gone over to Achaeus out of fear.
 

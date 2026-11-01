@@ -82,7 +82,7 @@ So while he was speaking to the Messenians in this threatening and exceedingly a
 
 ## Book 4 Chapter 5: The Revenge of Dorimachus
 
-At this time the general of the Aetolians was Ariston. Because of certain physical infirmities he was unfit for active military service, and since he was moreover a kinsman of Dorimachus and Scopas, he had in effect handed over the whole of his command to Dorimachus.
+At this time the general of the Aetolians was Ariston. Because of certain physical infirmities he was unfit for active military service, and since he was moreover a kinsman of Dorimachus and Scopas, he had in effect handed over the whole of his command to one of the two.
 
 Now Dorimachus did not dare to urge the Aetolians publicly to take up the war against the Messenians, because he had no pretext worth mentioning. Everyone knew that his impulse arose from his own lawless conduct and from the insult he had suffered.
 

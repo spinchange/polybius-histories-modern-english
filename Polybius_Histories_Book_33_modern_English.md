@@ -32,7 +32,7 @@ Affairs of Rhodes.
 
 Aristocrates, the Rhodian general, had a commanding and impressive appearance.
 
-Because of this, the Rhodians supposed, judging from appearances alone, that they had in him a thoroughly reliable leader and protector for the war.
+Because of this, the Rhodians supposed, judging from every indication, that they had in him a thoroughly reliable leader and protector for the war.
 
 But they were disappointed in their hopes. For when he came to practical action, like counterfeit coin put into the fire, he proved to be something quite different. And this became clear in his actual deeds.
 

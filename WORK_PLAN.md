@@ -432,3 +432,9 @@ Sonnet drafts; the user signs off (this is the one phase that is mostly human):
 - **Fixed:** 5.73/5.75 mid-sentence openings, 9.32, 23.7, 32.1 lacuna markers (all `[...]`), 24.12 opening quote. Style-sheet conformance: strategus lowercase, Roman Senate capitalised (`work/scripts/p7_*.py`).
 - **Domain:** `pragmatikehistoria.org` live on GitHub Pages (Cloudflare DNS: 4 A records to GitHub Pages IPs + `www` CNAME to spinchange.github.io, all DNS-only; CNAME written into the Pages artifact by `pages.yml`; HTTPS certificate issued and enforced). Pushed to origin/main at merge 3c88e71.
 - **Remaining Phase 8:** Haiku per-book checklist (judgment items only), Opus/Fable 25-chapter read, the 4 missing olympiad rubrics, 4.5/33.4 HUMAN items, Lacedaemonian narrative uses and 34.9 "Celtic" for editor decision.
+
+## Phase 8 item resolutions (2026-11-01)
+- **Olympiad rubrics (4.2, 4.15, 11.1, 21.43):** false positives; "Olympiad" occurs only in the 1889 crib, not the Greek. `heading_report.py` now searches the Greek section only; report clean apart from 11 known `case` flags.
+- **4.5:** "to Dorimachus" -> "to one of the two" (Greek τούτῳ singular after "Dorimachus and Scopas" is ambiguous; no silent choice). **33.4:** "from appearances alone" -> "from every indication" (the "alone" was an addition).
+- **Lacedaemonians:** kept where formal/diplomatic or an official title (king/tyrant of the Lacedaemonians, treaties, Tegea talks, Book 4/31/38 state dealings); changed to Spartans in 5.76, 5.77, 9.29, 20.12 (narrative). **34.9 "Celtic peoples"** kept: ethnographic generalisation, which the Celts rule allows.
+- **Chapters ending `[...]` (about 22):** left as is. The marker is faithful where the Greek really breaks off; revisit only if the read-through finds a false lacuna.

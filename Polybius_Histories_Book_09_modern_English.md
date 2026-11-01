@@ -586,7 +586,7 @@ Some of them planted garrisons in the cities, others installed tyrants, and so l
 
 But passing over these, I will now come to the last Antigonus, so that none of you, by viewing his conduct too innocently, may suppose yourselves under an obligation of gratitude to the Macedonians.
 
-For Antigonus did not take up war against you because he meant to save the Achaeans, nor because he was offended by the tyranny of Cleomenes and wished to set the Lacedaemonians free.
+For Antigonus did not take up war against you because he meant to save the Achaeans, nor because he was offended by the tyranny of Cleomenes and wished to set the Spartans free.
 
 That way of thinking would be very simple-minded indeed, if any of you hold it.
 

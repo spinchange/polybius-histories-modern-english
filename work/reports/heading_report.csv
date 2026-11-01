@@ -1,9 +1,9 @@
 book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 01,1,Introduction,,## Book 1 Chapter 1: Introduction,no,no
 01,2,Importance and Magnitude of the Subject,,## Book 1 Chapter 2: Importance and Magnitude of the Subject,no,no
-01,3,The Starting-point of the History,,## Book 1 Chapter 3: The Starting-point of the History,yes,yes
+01,3,The Starting-point of the History,,## Book 1 Chapter 3: The Starting-point of the History,no,yes
 01,4,Comprehensive View,,## Book 1 Chapter 4: Comprehensive View,no,no
-01,5,The Romans in Sicily,,## Book 1 Chapter 5: The Romans in Sicily,yes,yes
+01,5,The Romans in Sicily,,## Book 1 Chapter 5: The Romans in Sicily,no,yes
 01,6,Roman Dominion in Italy,,## Book 1 Chapter 6: Roman Dominion in Italy,no,no
 01,7,Messene and Rhegium,,## Book 1 Chapter 7: Messene and Rhegium,no,no
 01,8,The Rise of Hiero II,,## Book 1 Chapter 8: The Rise of Hiero II,no,no
@@ -127,7 +127,7 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 02,38,Origin of the Name “Achaean”,,## Book 2 Chapter 38: Origin of the Name “Achaean”,no,no
 02,39,The First Achaean League,,## Book 2 Chapter 39: The First Achaean League,no,no
 02,40,Unification of the Peloponnese,,## Book 2 Chapter 40: Unification of the Peloponnese,no,no
-02,41,The Second League,,## Book 2 Chapter 41: The Second League,yes,yes
+02,41,The Second League,,## Book 2 Chapter 41: The Second League,no,yes
 02,42,Policy of the Achaean League,,## Book 2 Chapter 42: Policy of the Achaean League,no,no
 02,43,"Margos, the First Sole Strategus",,"## Book 2 Chapter 43: Margos, the First Sole Strategus",no,no
 02,44,The Death of Demetrius,,## Book 2 Chapter 44: The Death of Demetrius,no,no
@@ -157,8 +157,8 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 02,68,Skill and Gallantry of Philopoemen,,## Book 2 Chapter 68: Skill and Gallantry of Philopoemen,no,no
 02,69,Defeat of Cleomenes,,## Book 2 Chapter 69: Defeat of Cleomenes,no,no
 02,70,End of the Introductory Period,,## Book 2 Chapter 70: End of the Introductory Period,no,no
-02,71,Conclusion of Book 2,,## Book 2 Chapter 71: Conclusion of Book 2,yes,yes
-03,1,Summary of the Work,,## Book 3 Chapter 1: Summary of the Work,yes,yes
+02,71,Conclusion of Book 2,,## Book 2 Chapter 71: Conclusion of Book 2,no,yes
+03,1,Summary of the Work,,## Book 3 Chapter 1: Summary of the Work,no,yes
 03,2,Plan: Causes of Wars,,## Book 3 Chapter 2: Plan: Causes of Wars,no,no
 03,3,Plan: Events in Greece,,## Book 3 Chapter 3: Plan: Events in Greece,no,no
 03,4,Extension of the First Plan of the Work,,## Book 3 Chapter 4: Extension of the First Plan of the Work,no,no
@@ -173,7 +173,7 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 03,13,Hannibal Succeeds to Command in Spain,,## Book 3 Chapter 13: Hannibal Succeeds to Command in Spain,no,no
 03,14,Hannibal Attacks the Vaccaei,,## Book 3 Chapter 14: Hannibal Attacks the Vaccaei,no,no
 03,15,Hannibal Defies the Romans,,## Book 3 Chapter 15: Hannibal Defies the Romans,no,no
-03,16,War in Illyria,,## Book 3 Chapter 16: War in Illyria,yes,yes
+03,16,War in Illyria,,## Book 3 Chapter 16: War in Illyria,no,yes
 03,17,Hannibal Takes Saguntum,,## Book 3 Chapter 17: Hannibal Takes Saguntum,no,no
 03,18,Demetrius Fortifies Dimale,,## Book 3 Chapter 18: Demetrius Fortifies Dimale,no,no
 03,19,Illyrian War Successfully Finished,,## Book 3 Chapter 19: Illyrian War Successfully Finished,no,no
@@ -275,9 +275,9 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 03,115,The Battle of Cannae,,## Book 3 Chapter 115: The Battle of Cannae,no,no
 03,116,The Slaughter at Cannae,,## Book 3 Chapter 116: The Slaughter at Cannae,no,no
 03,117,Superiority in Cavalry Wins Battles,,## Book 3 Chapter 117: Superiority in Cavalry Wins Battles,no,no
-03,118,The Consequences of the Battle of Cannae,,## Book 3 Chapter 118: The Consequences of the Battle of Cannae,yes,yes
-04,1,Review of Achaean History,,## Book 4 Chapter 1: Review of Achaean History,yes,yes
-04,2,Why Begin With This Period of History,olympiad-rubric-missing,## Book 4 Chapter 2: Why Begin With This Period of History,yes,no
+03,118,The Consequences of the Battle of Cannae,,## Book 3 Chapter 118: The Consequences of the Battle of Cannae,no,yes
+04,1,Review of Achaean History,,## Book 4 Chapter 1: Review of Achaean History,no,yes
+04,2,Why Begin With This Period of History,,## Book 4 Chapter 2: Why Begin With This Period of History,no,no
 04,3,Dorimachus In the Peloponnese,,## Book 4 Chapter 3: Dorimachus In the Peloponnese,no,no
 04,4,Dorimachus Leaves Messene,,## Book 4 Chapter 4: Dorimachus Leaves Messene,no,no
 04,5,The Revenge of Dorimachus,,## Book 4 Chapter 5: The Revenge of Dorimachus,no,no
@@ -290,7 +290,7 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 04,12,The Achaeans Defeated,,## Book 4 Chapter 12: The Achaeans Defeated,no,no
 04,13,Aratus Denounced For His Failure,,## Book 4 Chapter 13: Aratus Denounced For His Failure,no,no
 04,14,Aratus is Denounced and Defends Himself,,## Book 4 Chapter 14: Aratus is Denounced and Defends Himself,no,yes
-04,15,Lukewarmness of the Allies,olympiad-rubric-missing,## Book 4 Chapter 15: Lukewarmness of the Allies,yes,no
+04,15,Lukewarmness of the Allies,,## Book 4 Chapter 15: Lukewarmness of the Allies,no,no
 04,16,The Aetolians and Illyrians Invade Achaea,,## Book 4 Chapter 16: The Aetolians and Illyrians Invade Achaea,no,no
 04,17,Factions At Cynaetha,,## Book 4 Chapter 17: Factions At Cynaetha,no,no
 04,18,Treason of the Cynaethans,,## Book 4 Chapter 18: Treason of the Cynaethans,no,no
@@ -301,9 +301,9 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 04,23,Differences of Opinion Among the Spartans,,## Book 4 Chapter 23: Differences of Opinion Among the Spartans,no,no
 04,24,The King Decides Not to Punish Sparta,,## Book 4 Chapter 24: The King Decides Not to Punish Sparta,no,no
 04,25,War Declared With the Aetolians,,## Book 4 Chapter 25: War Declared With the Aetolians,no,no
-04,26,Opening of the Social War,,## Book 4 Chapter 26: Opening of the Social War,yes,yes
+04,26,Opening of the Social War,,## Book 4 Chapter 26: Opening of the Social War,no,yes
 04,27,Disingenuous Policy of the Spartans,,## Book 4 Chapter 27: Disingenuous Policy of the Spartans,no,no
-04,28,"The Wars in Italy, Greece, and Asia Become Interlaced",,"## Book 4 Chapter 28: The Wars in Italy, Greece, and Asia Become Interlaced",yes,yes
+04,28,"The Wars in Italy, Greece, and Asia Become Interlaced",,"## Book 4 Chapter 28: The Wars in Italy, Greece, and Asia Become Interlaced",no,yes
 04,29,The Illyrians and Acarnanians Join,,## Book 4 Chapter 29: The Illyrians and Acarnanians Join,no,no
 04,30,The Acarnanians Enter the War,,## Book 4 Chapter 30: The Acarnanians Enter the War,no,no
 04,31,Mistaken Policy of the Messenians,,## Book 4 Chapter 31: Mistaken Policy of the Messenians,no,no
@@ -342,7 +342,7 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 04,64,Philip Marches Toward Metropolis,,## Book 4 Chapter 64: Philip Marches Toward Metropolis,no,no
 04,65,Philip Takes Paeanium,,## Book 4 Chapter 65: Philip Takes Paeanium,no,no
 04,66,Philip Recalled To Macedonia,,## Book 4 Chapter 66: Philip Recalled To Macedonia,no,no
-04,67,Philip Returns To the Peloponnese,,## Book 4 Chapter 67: Philip Returns To the Peloponnese,yes,yes
+04,67,Philip Returns To the Peloponnese,,## Book 4 Chapter 67: Philip Returns To the Peloponnese,no,yes
 04,68,Euripidas Intends to Attack Sicyon,,## Book 4 Chapter 68: Euripidas Intends to Attack Sicyon,no,no
 04,69,Euripidas Deserts the Eleans,,## Book 4 Chapter 69: Euripidas Deserts the Eleans,no,no
 04,70,Philip In Arcadia,,## Book 4 Chapter 70: Philip In Arcadia,no,no
@@ -392,8 +392,8 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 05,27,Execution of Leontius,,## Book 5 Chapter 27: Execution of Leontius,no,no
 05,28,Death of Megaleas,,## Book 5 Chapter 28: Death of Megaleas,no,no
 05,29,Disturbed State of Achaea,,## Book 5 Chapter 29: Disturbed State of Achaea,no,no
-05,30,Aratus Elected Strategus,,## Book 5 Chapter 30: Aratus Elected Strategus,yes,yes
-05,31,Return to Narrative of the War in Coele-Syria,,## Book 5 Chapter 31: Return to Narrative of the War in Coele-Syria,yes,yes
+05,30,Aratus Elected Strategus,,## Book 5 Chapter 30: Aratus Elected Strategus,no,yes
+05,31,Return to Narrative of the War in Coele-Syria,,## Book 5 Chapter 31: Return to Narrative of the War in Coele-Syria,no,yes
 05,32,"Dimidium Facti Qui Coepit Habet, Well Begun is Half Done",,"## Book 5 Chapter 32: Dimidium Facti Qui Coepit Habet, Well Begun is Half Done",no,no
 05,33,Previous “Universal” Histories Not Really Universal,,## Book 5 Chapter 33: Previous “Universal” Histories Not Really Universal,no,no
 05,34,Weakness of Ptolemy Philopator,,## Book 5 Chapter 34: Weakness of Ptolemy Philopator,no,no
@@ -467,13 +467,13 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 05,102,Philip and the Aetolians Discuss Peace,,## Book 5 Chapter 102: Philip and the Aetolians Discuss Peace,no,no
 05,103,Philip Goes to Naupactus,,## Book 5 Chapter 103: Philip Goes to Naupactus,no,no
 05,104,The Cloud in the West,,## Book 5 Chapter 104: The Cloud in the West,no,no
-05,105,The Peace is Ratified,,## Book 5 Chapter 105: The Peace is Ratified,yes,yes
+05,105,The Peace is Ratified,,## Book 5 Chapter 105: The Peace is Ratified,no,yes
 05,106,Greece At the End of the Social War,,## Book 5 Chapter 106: Greece At the End of the Social War,no,no
 05,107,Revolt in Egypt,,## Book 5 Chapter 107: Revolt in Egypt,no,no
 05,108,Philip’s Preparations,,## Book 5 Chapter 108: Philip’s Preparations,no,no
 05,109,Philip Prepares to Invade Italy,,## Book 5 Chapter 109: Philip Prepares to Invade Italy,no,no
 05,110,Philip Withdraws to Cephallenia,,## Book 5 Chapter 110: Philip Withdraws to Cephallenia,no,no
-05,111,The Gauls In Asia,,## Book 5 Chapter 111: The Gauls In Asia,yes,yes
+05,111,The Gauls In Asia,,## Book 5 Chapter 111: The Gauls In Asia,no,yes
 06,1,Preface: Political Constitutions,,## Book 6 Chapter 1: Preface: Political Constitutions,no,yes
 06,2,Why the Constitution Is Examined Now,,## Book 6 Chapter 2: Why the Constitution Is Examined Now,no,no
 06,3,Classification of Constitutions,,## Book 6 Chapter 3: Classification of Constitutions,no,no
@@ -598,7 +598,7 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 08,37,"Fall of Syracuse, 212 BC",,"## Book 8 Chapter 37: Fall of Syracuse, 212 BC",no,no
 08,38,Beasts of Burden Used as a Defensive Wall,,## Book 8 Chapter 38: Beasts of Burden Used as a Defensive Wall,no,no
 08,38b,Angara and a Man Resolved to Endure,,## Book 8 Chapter 38b: Angara and a Man Resolved to Endure,no,no
-09,1,Extract from the Preface,,## Book 9 Chapter 1: Extract from the Preface,yes,yes
+09,1,Extract from the Preface,,## Book 9 Chapter 1: Extract from the Preface,no,yes
 09,2,Why Focus on Actions,,## Book 9 Chapter 2: Why Focus on Actions,no,no
 09,3,The Hannibalian War,,## Book 9 Chapter 3: The Hannibalian War,no,no
 09,4,The Siege of Capua,,## Book 9 Chapter 4: The Siege of Capua,no,no
@@ -694,8 +694,8 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 10,47,Importance of Practice,,## Book 10 Chapter 47: Importance of Practice,no,no
 10,48,Antiochus Crosses the Arius,,## Book 10 Chapter 48: Antiochus Crosses the Arius,no,no
 10,49,Antiochus Engages the Bactrians,,## Book 10 Chapter 49: Antiochus Engages the Bactrians,no,no
-11,1,Death of Hasdrubal,olympiad-rubric-missing,## Book 11 Chapter 1: Death of Hasdrubal,yes,no
-11,1a,Why Polybius Prefaces Each Olympiad,,## Book 11 Chapter 1a: Why Polybius Prefaces Each Olympiad,yes,yes
+11,1,Death of Hasdrubal,,## Book 11 Chapter 1: Death of Hasdrubal,no,no
+11,1a,Why Polybius Prefaces Each Olympiad,,## Book 11 Chapter 1a: Why Polybius Prefaces Each Olympiad,no,yes
 11,2,Hasdrubal’s Conduct in His Last Battle,,## Book 11 Chapter 2: Hasdrubal’s Conduct in His Last Battle,no,no
 11,3,The Romans Celebrate a Victory,,## Book 11 Chapter 3: The Romans Celebrate a Victory,no,no
 11,4,A Plea For Union In Greece,,## Book 11 Chapter 4: A Plea For Union In Greece,no,no
@@ -1002,12 +1002,12 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 21,40,A Proverb from the Ariarathes Affair,,## Book 21 Chapter 40: A Proverb from the Ariarathes Affair,no,no
 21,41,Embassies Crown Manlius at Ephesus,,## Book 21 Chapter 41: Embassies Crown Manlius at Ephesus,no,yes
 21,42,Perga Surrenders; Commissioners Meet at Apamea,,## Book 21 Chapter 42: Perga Surrenders; Commissioners Meet at Apamea,no,no
-21,43,Settlement of Asia,olympiad-rubric-missing,## Book 21 Chapter 43: Settlement of Asia,yes,no
+21,43,Settlement of Asia,,## Book 21 Chapter 43: Settlement of Asia,no,no
 21,44,"Thermus Sent to Syria, Fleet Ordered to Patara",,"## Book 21 Chapter 44: Thermus Sent to Syria, Fleet Ordered to Patara",no,no
 21,45,Ariarathes Buys Roman Friendship,,## Book 21 Chapter 45: Ariarathes Buys Roman Friendship,no,no
 21,46,The Settlement of Asia at Apamea,,## Book 21 Chapter 46: The Settlement of Asia at Apamea,no,no
 21,47,Thracians Attack the Returning Romans,,## Book 21 Chapter 47: Thracians Attack the Returning Romans,no,no
-22,1,Contents,,## Book 22 Chapter 1: Contents,yes,yes
+22,1,Contents,,## Book 22 Chapter 1: Contents,no,yes
 22,2,Roman Envoys Meet the Achaeans at Cleitor,,## Book 22 Chapter 2: Roman Envoys Meet the Achaeans at Cleitor,no,yes
 22,3,Sparta and the League,,## Book 22 Chapter 3: Sparta and the League,no,no
 22,4,The Murderers of Brachylles,,## Book 22 Chapter 4: The Murderers of Brachylles,no,no
@@ -1029,7 +1029,7 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 22,20,"Apollonias, Widow of Attalus",,"## Book 22 Chapter 20: Apollonias, Widow of Attalus",no,no
 22,21,Ortiagon Tries to Become King of All the Galatians,,## Book 22 Chapter 21: Ortiagon Tries to Become King of All the Galatians,no,no
 22,22,Aristonicus,,## Book 22 Chapter 22: Aristonicus,no,no
-23,1,Demetrius Before the Senate,,## Book 23 Chapter 1: Demetrius Before the Senate,yes,yes
+23,1,Demetrius Before the Senate,,## Book 23 Chapter 1: Demetrius Before the Senate,no,yes
 23,2,Demetrius in the Senate,,## Book 23 Chapter 2: Demetrius in the Senate,no,no
 23,3,Philip’s Jealousy Roused,,## Book 23 Chapter 3: Philip’s Jealousy Roused,no,no
 23,4,The Spartan Ambassadors,,## Book 23 Chapter 4: The Spartan Ambassadors,no,no
@@ -1037,7 +1037,7 @@ book,chapter,title,issues,heading,src_olympiad,tr_olympiad
 23,6,Ambassadors from the Spartan Exiles,,## Book 23 Chapter 6: Ambassadors from the Spartan Exiles,no,no
 23,7,Philip and Perseus are Jealous of Demetrius,,## Book 23 Chapter 7: Philip and Perseus are Jealous of Demetrius,no,no
 23,8,Philip Campaigns in Thrace,,## Book 23 Chapter 8: Philip Campaigns in Thrace,no,no
-23,9,The Senate Refuses to Help Either Messene or Achaea,,## Book 23 Chapter 9: The Senate Refuses to Help Either Messene or Achaea,yes,yes
+23,9,The Senate Refuses to Help Either Messene or Achaea,,## Book 23 Chapter 9: The Senate Refuses to Help Either Messene or Achaea,no,yes
 23,10,Philip’s Desperate Measures,,## Book 23 Chapter 10: Philip’s Desperate Measures,no,no
 23,11,Philip Addresses his Sons,,## Book 23 Chapter 11: Philip Addresses his Sons,no,no
 23,12,The Fall of Philopoemen,,## Book 23 Chapter 12: The Fall of Philopoemen,no,no

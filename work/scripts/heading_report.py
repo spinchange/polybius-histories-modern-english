@@ -29,7 +29,7 @@ def source_has_olympiad(bk, ch):
     f = ROOT / "source" / f"book_{int(bk):02d}" / f"chapter_{int(re.match(r'\d+',ch).group()):02d}.md"
     if not f.exists():
         return ""
-    return "yes" if OLY.search(f.read_text(encoding="utf-8")) else "no"
+    return "yes" if OLY.search(f.read_text(encoding="utf-8").split("## English Reference")[0]) else "no"
 
 rows = []
 titles = defaultdict(list)
