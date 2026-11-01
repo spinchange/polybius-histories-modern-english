@@ -1,0 +1,118 @@
+{
+ "layer": "readers",
+ "annotations": [
+  {
+   "id": "readers/brutus-pharsalus",
+   "anchors": [
+    {
+     "book": 1,
+     "from": "1",
+     "to": "1"
+    }
+   ],
+   "annotator": "Marcus Junius Brutus",
+   "work": "Plutarch, Life of Brutus 4",
+   "date": "48 BC",
+   "tags": [
+    "historiographical"
+   ],
+   "source_pub": "Plutarch's Lives, tr. Aubrey Stewart & George Long, vol. 4 (London, 1892 printing) (PD)",
+   "pd_basis": "pre-1930",
+   "quote": "During the campaign all the daytime when he was not with Pompeius he was\nemployed about study and books; and not only at other times, but also\nbefore the great battle. It was the height of summer, and the heat was\nexcessive, as they were encamped close to marshy ground; and those who\ncarried the tent of Brutus did not come quickly. After being much\nharassed about these matters, and having scarcely by midday anointed\nhimself and taken a little to eat, while the rest were either sleeping\nor engaged in thought and care about the future, he kept on writing till\nevening-time, making an epitome of Polybius.",
+   "note": "On the eve of Pharsalus in 48 BC, with the Republic's fate about to be settled, the man who would help kill Caesar four years later spent a sweltering afternoon abridging Polybius. Plutarch tells it as a portrait of the scholar-soldier, but beside this chapter it reads as something sharper: a Roman in the middle of a civil war, reaching for the book that explained how Rome came to rule the world, and taking literally Polybius' promise that history teaches us to bear changes of fortune. The epitome itself is lost."
+  },
+  {
+   "id": "readers/federalist-18-achaean-league",
+   "anchors": [
+    {
+     "book": 2,
+     "from": "37",
+     "to": "44"
+    }
+   ],
+   "annotator": "James Madison (with Alexander Hamilton)",
+   "work": "The Federalist No. 18",
+   "date": 1787,
+   "tags": [
+    "constitutional"
+   ],
+   "source_pub": "The Federalist Papers (Project Gutenberg text of the 1787-88 essays) (PD)",
+   "pd_basis": "pre-1930",
+   "quote": "The Achaean league, as it is called, was another society of Grecian\nrepublics, which supplies us with valuable instruction. ... It appears\nthat the cities had all the same laws and customs, the same weights and\nmeasures, and the same money. ... It is much to be regretted that such\nimperfect monuments remain of this curious political fabric. Could its\ninterior structure and regular operation be ascertained, it is probable\nthat more light would be thrown by it on the science of federal\ngovernment, than by any of the like experiments with which we are\nacquainted.",
+   "note": "Writing as \"Publius\" in December 1787, Madison went looking for a federal republic that had worked and found the Achaean League, whose story survives chiefly because Polybius, the son of an Achaean general, told it. \"The same weights and measures, and the same money\" is Polybius' own detail from this chapter (2.37). Madison's regret over the \"imperfect monuments\" is partly a regret over this book's own losses: the later books that followed the League to its end survive only in fragments."
+  },
+  {
+   "id": "readers/machiavelli-discourses-1-2",
+   "anchors": [
+    {
+     "book": 6,
+     "from": "3",
+     "to": "10"
+    }
+   ],
+   "annotator": "Niccolò Machiavelli",
+   "work": "Discourses on the First Decade of Titus Livius, I.2",
+   "date": "c. 1517",
+   "tags": [
+    "constitutional"
+   ],
+   "source_pub": "Discourses on the First Decade of Titus Livius, tr. Ninian Hill Thomson (London, 1883) (PD)",
+   "pd_basis": "pre-1930",
+   "quote": "Other, and, as many have thought, wiser teachers, will have it, that\nthere are altogether six forms of government, three of them utterly bad,\nthe other three good in themselves, but so readily corrupted that they\ntoo are apt to become hurtful. ... For this is the circle revolving\nwithin which all States are and have been governed ... Wise legislators\ntherefore, knowing these defects, and avoiding each of these forms in\nits simplicity, have made choice of a form which shares in the qualities\nof all the first three, and which they judge to be more stable and\nlasting than any of these separately. For where we have a monarchy, an\naristocracy, and a democracy existing together in the same city, each of\nthe three serves as a check upon the other.",
+   "note": "Machiavelli never names his source; the six forms and their cycle come from \"other, and, as many have thought, wiser teachers.\" The teacher is Polybius, and the chapter follows his Book 6 argument step by step: the herd choosing the strongest, the birth of justice from anger at ingratitude, each good form sliding into its corrupt twin, and the escape into a mixed constitution on the model of Lycurgus. Machiavelli even keeps Polybius' twist about Rome (6.10): what Sparta got from one man's foresight, Rome reached through struggle, or, as he puts it, \"obtained by chance.\""
+  }
+ ],
+ "by_chapter": {
+  "1.1": [
+   "readers/brutus-pharsalus"
+  ],
+  "2.37": [
+   "readers/federalist-18-achaean-league"
+  ],
+  "2.38": [
+   "readers/federalist-18-achaean-league"
+  ],
+  "2.39": [
+   "readers/federalist-18-achaean-league"
+  ],
+  "2.40": [
+   "readers/federalist-18-achaean-league"
+  ],
+  "2.41": [
+   "readers/federalist-18-achaean-league"
+  ],
+  "2.42": [
+   "readers/federalist-18-achaean-league"
+  ],
+  "2.43": [
+   "readers/federalist-18-achaean-league"
+  ],
+  "2.44": [
+   "readers/federalist-18-achaean-league"
+  ],
+  "6.3": [
+   "readers/machiavelli-discourses-1-2"
+  ],
+  "6.4": [
+   "readers/machiavelli-discourses-1-2"
+  ],
+  "6.5": [
+   "readers/machiavelli-discourses-1-2"
+  ],
+  "6.6": [
+   "readers/machiavelli-discourses-1-2"
+  ],
+  "6.7": [
+   "readers/machiavelli-discourses-1-2"
+  ],
+  "6.8": [
+   "readers/machiavelli-discourses-1-2"
+  ],
+  "6.9": [
+   "readers/machiavelli-discourses-1-2"
+  ],
+  "6.10": [
+   "readers/machiavelli-discourses-1-2"
+  ]
+ }
+}
