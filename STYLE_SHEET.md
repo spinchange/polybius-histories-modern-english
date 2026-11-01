@@ -1,6 +1,6 @@
 # Style Sheet — Polybius, *The Histories*
 
-Status: DRAFT (Phase 7). Rules marked **DECIDED** were fixed by the editor on 2026-10-31. Rules marked **PROPOSED** are Sonnet's recommendations and need editor sign-off.
+Status: FINAL (Phase 7). Rules marked **DECIDED** were fixed by the editor (2026-10-31; proposals adopted 2026-11-01).
 
 ## Names and peoples
 - **Gauls / Galatians — DECIDED.** Peoples in Italy and Europe are "Gauls" ("Gallic"); peoples in Asia Minor are "Galatians". "Celts" appears only where Polybius makes an explicitly ethnographic point (the Book 2 excursus may keep one framing mention).
@@ -12,18 +12,18 @@ Status: DRAFT (Phase 7). Rules marked **DECIDED** were fixed by the editor on 20
 - Years: `215 BC` (no periods, BC after the number). Ranges take an en dash: `210–206 BC`. Headings follow the same rule.
 - Numbers of troops, ships and money are given as Polybius gives them; no silent rounding or correction. Where a figure looks corrupt, that is a note, not an edit.
 
-## Units — PROPOSED
+## Units
 - Distances: **stades** throughout. The camp and march chapters of Book 6 give measurements in **feet**, as the Greek does (plethra and feet); these are kept, not converted.
 - Money: **talents** and **drachmas** as in the Greek; Roman sums in **denarii** or **asses** only where the Greek uses them.
 - No modern-unit equivalents in the running text.
 
-## Offices and institutions — PROPOSED
+## Offices and institutions
 - **Senate** (capital) for the Roman Senate; "senate" (lower case) for other cities' councils, and in the generic sense.
 - **consul, praetor, tribune, dictator, censor** are Roman offices, lower case in running text, capital before a name (Consul Gaius Flaminius is avoided; use "the consul Gaius Flaminius").
 - **strategos** is rendered by context: "general" for a field commander; "strategus" (italic not required) only for the Achaean, Aetolian and other league offices, where it is an office with a fixed term.
 - Greek and Latin technical terms are kept in English dress and explained once, in context, not in footnotes.
 
-## Titles and headings — PROPOSED
+## Titles and headings
 - Chapter headings: `## Book N Chapter M: Title`. Titles are sentence case with proper nouns capitalised.
 - Titles describe the chapter's content; they do not follow the 1889 crib's rubrics.
 
