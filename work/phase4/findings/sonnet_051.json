@@ -1,0 +1,13 @@
+{"batch":"sonnet_051","units":[
+{"book":5,"chapter":"16","verdict":"FINDINGS","findings":[
+{"quote":"the affair of the people of Palairos","problem":"Greek has τὸν περὶ τοὺς Παλαιεῖς ἐμποδισμόν: the Paleis, people of Pale in Cephallenia (the same Paleis besieged by Philip, as ch. 17 has it), not Palairos in Acarnania (which would be Παλαιρεῖς).","proposed_fix":"the affair of the people of Pale","touches_syntax":false,"confidence":"medium"},
+{"quote":"crossed the gulf, and came to anchor at Leucas as quickly as possible. There he instructed the officers","problem":"Greek has ὡς θᾶττον εἰς τὴν Λευκάδα καθωρμίσθη, τοῖς … συνέταξε: temporal 'as soon as he had anchored at Leucas, he instructed ...', not 'anchored as quickly as possible'.","proposed_fix":"crossed the gulf, and as soon as he had anchored at Leucas he instructed the officers","touches_syntax":true,"confidence":"low"}
+],"note":""},
+{"book":5,"chapter":"17","verdict":"CLEAN","findings":[],"note":""},
+{"book":5,"chapter":"18","verdict":"CLEAN","findings":[],"note":""},
+{"book":5,"chapter":"19","verdict":"CLEAN","findings":[],"note":""},
+{"book":5,"chapter":"20","verdict":"CLEAN","findings":[],"note":""},
+{"book":5,"chapter":"21","verdict":"CLEAN","findings":[],"note":""},
+{"book":5,"chapter":"22","verdict":"CLEAN","findings":[],"note":""},
+{"book":5,"chapter":"23","verdict":"CLEAN","findings":[],"note":"Greek breaks off mid-sentence at chapter end (ἀπουράγει τοῖς αὑτοῦ φαλαγγίταις); a seam, not a lacuna in the text."}
+]}

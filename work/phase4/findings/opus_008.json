@@ -1,0 +1,8 @@
+{"batch":"opus_008","units":[
+{"book":3,"chapter":"115","verdict":"CLEAN","findings":[],"note":"Chapter ends mid-word (προσ-); the sentence continues in 116 (προσπεπτωκότας ἐποιοῦντο τὴν μάχην). The [...] marks the chapter seam, not a lacuna."},
+{"book":3,"chapter":"116","verdict":"FINDINGS","findings":[
+{"quote":"The Romans now had to carry on the fight over the bodies of the fallen.","problem":"The opening πεπτωκότας ἐποιοῦντο τὴν μάχην is the end of the sentence split across the chapter boundary: στρεφόμενοι πρὸς τοὺς ἐκ τῶν πλαγίων προσ|πεπτωκότας ἐποιοῦντο τὴν μάχην, 'turning against those who had fallen upon them from the flanks, they kept up the fight'. πεπτωκότας is the second half of προσπεπτωκότας (the attackers), not 'the fallen' (the dead). The English makes up a scene of fighting over corpses that the Greek does not contain.","proposed_fix":"[...] kept up the fight.","touches_syntax":true,"confidence":"high"}
+],"note":"Μάρκος καὶ Γνάιος are correctly identified as M. Atilius and Cn. Servilius, the consuls of 217. In μέχρι μὲν ἐμάχοντο ... ἀντεῖχον the text is slightly irregular, but the English renders the sense correctly."},
+{"book":3,"chapter":"117","verdict":"CLEAN","findings":[],"note":"Numbers checked: 6,000 / 70 / 300 / 10,000 / 3,000 / 70,000 / 4,000 / 1,500 / 200 / 10,000 / 2,000 / 2,000."},
+{"book":3,"chapter":"118","verdict":"CLEAN","findings":[],"note":""}
+]}

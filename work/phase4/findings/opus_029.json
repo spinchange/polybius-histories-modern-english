@@ -1,0 +1,14 @@
+{"batch":"opus_029","units":[
+{"book":15,"chapter":"6","verdict":"FINDINGS","findings":[
+{"quote":"and at last, though fortune had already given them warning, had advanced so far","problem":"Greek τὸ δὲ τέλος ὑπὸ τῆς τύχης οὔπω νουθετούμενοι = 'at last, not yet admonished by Fortune' (οὔπω negates); the English inverts it to 'though fortune had already given them warning'.","proposed_fix":"and at last, still not taught a lesson by Fortune, had advanced so far","touches_syntax":false,"confidence":"high"},
+{"quote":"For his own part, he said, experience had taught him that","problem":"Greek ἐγὼ μὲν οὖν ἕτοιμός εἰμι τῷ πεῖραν εἰληφέναι = 'I for my part am ready [for this], because I have learned by experience'; ἕτοιμός εἰμι is dropped, which removes the 'I am ready' half of the ἐγὼ μὲν … σὲ δ᾽ contrast that continues in ch. 7.","proposed_fix":"For his own part, he said, he was ready to do this, because experience had taught him that","touches_syntax":false,"confidence":"medium"}],
+"note":"Opening clause ὑδρείαν ἐντὸς βέλους ποιησάμενος belongs to the sentence begun in ch. 5; not a lacuna."},
+{"book":15,"chapter":"7","verdict":"CLEAN","findings":[],"note":""},
+{"book":15,"chapter":"8","verdict":"FINDINGS","findings":[
+{"quote":"Should he, Scipio said, put himself in Hannibal’s place and remove the harshest of the imposed terms,","problem":"Greek σὺ τὴν ἐμὴν χώραν μεταλαβὼν εἶπον = 'you (Hannibal), taking my place, tell me': Scipio asks Hannibal to put himself in Scipio's place. The English reverses the persons.","proposed_fix":"Let Hannibal, Scipio said, put himself in Scipio’s place and say: should the Romans remove the harshest of the imposed terms,","touches_syntax":true,"confidence":"high"}],
+"note":""},
+{"book":15,"chapter":"9","verdict":"CLEAN","findings":[],"note":""},
+{"book":15,"chapter":"10","verdict":"FINDINGS","findings":[
+{"quote":"once they go into battle with no hope left except in fighting.","problem":"Greek ἐπειδὰν ἀπελπίσαντες τοῦ ζῆν ἴωσιν εἰς τὴν μάχην = 'when they go into battle having despaired of life'; the hope abandoned is of survival, not 'hope except in fighting'.","proposed_fix":"once they go into battle having given up all hope of life.","touches_syntax":false,"confidence":"high"}],
+"note":""}
+]}

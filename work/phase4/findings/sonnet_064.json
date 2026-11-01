@@ -1,0 +1,11 @@
+{"batch":"sonnet_064","units":[
+{"book":7,"chapter":"1","verdict":"FINDINGS","findings":[{"quote":"—though the Romans approved of their conduct—they finally surrendered","problem":"Greek: οὐδενὸς βοηθοῦντος, συνευδοκούντων Ῥωμαίων παρέδοσαν ἑαυτούς — the Romans consenting (genitive absolute), they surrendered. The Romans' consent was to the surrender; the English makes it a concessive 'though' about their conduct.","proposed_fix":", they finally surrendered with the Romans’ consent","touches_syntax":false,"confidence":"high"}],"note":""},
+{"book":7,"chapter":"2","verdict":"CLEAN","findings":[],"note":""},
+{"book":7,"chapter":"3","verdict":"FINDINGS","findings":[{"quote":"But Hieronymus, already leaning strongly toward the Carthaginians, said","problem":"Greek: ὁ δ᾽ Ἱερώνυμος ἔτ᾽ ἐγγὺς ἐπόντων τῶν πρεσβευτῶν [εἴτ᾽ ἐν μισειόντων] τῶν Καρχηδονίων — the text is corrupt (editor's bracket) but the sense is that the Carthaginian envoys were still at hand/present; nothing says he was 'leaning' toward them. The English smooths a corrupt passage into an invented statement.","proposed_fix":"But Hieronymus, while the Carthaginian envoys were still at hand (the Greek here is corrupt), said","touches_syntax":false,"confidence":"medium"}],"note":"Greek corrupt at this point; fix preserves the uncertainty."},
+{"book":7,"chapter":"4","verdict":"FINDINGS","findings":[{"quote":"whom all the Siceliots alone had willingly and deliberately approved as their leader and king","problem":"Greek: ὃν μόνον κατὰ προαίρεσιν καὶ κατ᾽ εὔνοιαν Σικελιῶται πάντες εὐδόκησαν σφῶν αὐτῶν ἡγεμόν᾽ εἶναι καὶ βασιλέα — μόνον agrees with ὃν (Pyrrhus): he was the only man whom all the Siceliots willingly approved. The English attaches 'alone' to the Siceliots.","proposed_fix":"the only man whom all the Siceliots had willingly and deliberately approved as their leader and king","touches_syntax":false,"confidence":"medium"}],"note":""},
+{"book":7,"chapter":"5","verdict":"CLEAN","findings":[],"note":""},
+{"book":7,"chapter":"6","verdict":"CLEAN","findings":[],"note":""},
+{"book":7,"chapter":"7","verdict":"CLEAN","findings":[],"note":"Greek breaks off mid-sentence (τοῖς φιλομαθοῦσι); English marks the gap with [...]."},
+{"book":7,"chapter":"8","verdict":"CLEAN","findings":[],"note":""},
+{"book":7,"chapter":"9","verdict":"CLEAN","findings":[],"note":""}
+]}

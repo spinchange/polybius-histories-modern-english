@@ -1,0 +1,9 @@
+{"batch":"sonnet_010","units":[
+{"book":1,"chapter":"68","verdict":"CLEAN","findings":[],"note":""},
+{"book":1,"chapter":"69","verdict":"CLEAN","findings":[],"note":""},
+{"book":1,"chapter":"70","verdict":"CLEAN","findings":[],"note":""},
+{"book":1,"chapter":"71","verdict":"CLEAN","findings":[],"note":"Seam only (not an error class): Greek opens with the tail of the previous sentence (λεσθαι μετασχεῖν αὐτοῖς τῆς ἀποστάσεως, 'to join them in the revolt'); English ch.71 does not carry it, ch.70 ends with [...]. Left to apparatus/seam phase."},
+{"book":1,"chapter":"72","verdict":"CLEAN","findings":[],"note":""},
+{"book":1,"chapter":"73","verdict":"CLEAN","findings":[],"note":""},
+{"book":1,"chapter":"74","verdict":"CLEAN","findings":[],"note":""}
+]}

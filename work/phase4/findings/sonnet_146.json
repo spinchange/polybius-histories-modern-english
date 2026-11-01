@@ -1,0 +1,10 @@
+{"batch":"sonnet_146","units":[
+{"book":34,"chapter":"7","verdict":"CLEAN","findings":[],"note":""},
+{"book":34,"chapter":"8","verdict":"CLEAN","findings":[],"note":""},
+{"book":34,"chapter":"9","verdict":"CLEAN","findings":[],"note":"English supplies 'Baetis' for Greek τοῦτον (Ana and 'this one'); referent matches Strabo 3.4.12, so left alone."},
+{"book":34,"chapter":"10","verdict":"CLEAN","findings":[],"note":""},
+{"book":34,"chapter":"11","verdict":"FINDINGS","findings":[
+{"quote":"but by sea voyage it is less than five hundred.","problem":"Greek: πεζῇ μὲν ... τρισχιλίων σταδίων, ... πλέοντι δὲ καὶ πεντακοσίων δέουσαν. The sea route is the 3,000 stades 'lacking five hundred', i.e. 500 stades shorter (2,500), not 'less than 500' in total.","proposed_fix":"but by sea voyage it is five hundred stades shorter, that is, two thousand five hundred.","touches_syntax":false,"confidence":"high"},
+{"quote":"Polybius in the thirty-fourth book says that Aethaleia is called Lemnos.","problem":"Greek: Αἰθάλειαν τὴν Λῆμνον καλεῖσθαι. Accusative object Λῆμνον is the island being named, Αἰθάλειαν the name: Lemnos is called Aethaleia. The English reverses subject and name.","proposed_fix":"Polybius in the thirty-fourth book says that Lemnos is called Aethaleia.","touches_syntax":false,"confidence":"high"}
+],"note":"Sila: Greek has *Σίλαν* flagged with asterisks (corrupt or conjectural reading); English states 'the city of Sila' without a mark. Text uncertain, no fix proposed; consider marking it as uncertain. Numbers 562 and 178 miles, 1330, 1300, 700 stades all match."}
+]}

@@ -1,0 +1,10 @@
+{"batch":"sonnet_075","units":[
+{"book":9,"chapter":"31","verdict":"CLEAN","findings":[],"note":"Greek has ἡμᾶς governing the participles μὴ προεισδεδεμένους ... βουλευομένους, while English renders 'you ... us'; Greek pronoun is odd (ὑμᾶς expected), so left alone, no fix proposed."},
+{"book":9,"chapter":"32","verdict":"CLEAN","findings":[],"note":"Sentence breaks off at εἰ δὲ and resumes at the start of ch. 33 (μή, τούτων τὴν ἡσυχίαν ἔχειν); English handles the seam correctly."},
+{"book":9,"chapter":"33","verdict":"CLEAN","findings":[],"note":""},
+{"book":9,"chapter":"34","verdict":"CLEAN","findings":[],"note":""},
+{"book":9,"chapter":"35","verdict":"CLEAN","findings":[],"note":""},
+{"book":9,"chapter":"36","verdict":"CLEAN","findings":[],"note":""},
+{"book":9,"chapter":"37","verdict":"CLEAN","findings":[],"note":""},
+{"book":9,"chapter":"38","verdict":"FINDINGS","findings":[{"quote":"set about piratical violence at sea and seized Pylus in violation of treaty","problem":"Greek: κατὰ μὲν θάλατταν βιάζεσθαι καὶ παρασπονδεῖν ἐπεβάλοντο Πύλον. ἐπεβάλοντο is 'they undertook/attempted', governing the infinitives and Πύλον; it does not say Pylus was taken. 'Piratical' is not in the Greek.","proposed_fix":"set about attacking Pylus by sea, by force and in breach of treaty","touches_syntax":false,"confidence":"medium"}],"note":""}
+]}

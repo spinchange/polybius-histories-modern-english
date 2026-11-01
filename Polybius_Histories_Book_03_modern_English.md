@@ -130,7 +130,7 @@ I have made this rather extended distinction about these matters not for the sak
 
 For what use is a physician to the sick who does not know the causes of the body’s disorders? And what use is a man of affairs who cannot reason out how and why and from what source each of these matters took its origin?
 
-For it is no more likely that the one will ever properly arrange treatments for the body than that the man of affairs will be able to handle any situation that arises as he should, without knowledge of the things just mentioned.
+For neither is it likely that the one will ever properly arrange treatments for the body, nor is it possible for the man of affairs to handle any situation that arises as he should, without knowledge of the things just mentioned.
 
 Therefore there is nothing we ought to be more on the watch for and to seek out than the causes of each event that occurs, since the greatest matters often grow out of trifling ones, and it is easiest of all to remedy anything in its first impulses and conceptions.
 
@@ -170,7 +170,7 @@ But to return to the war between the Romans and the Carthaginians—for it was f
 
 For that man’s spirit had not been broken by the war over Sicily, since he believed that he himself had kept intact the forces at Eryx, where he was stationed, with their fighting spirit undiminished, and that it was only because of the Carthaginians’ defeat in the naval battle that he had yielded to circumstances and made the treaty. He therefore held fast to his anger, always watching for a chance to strike.
 
-Now, had the upheaval over the mercenaries not broken out among the Carthaginians, he would at once have sought another pretext and begun preparations for action, so far as it lay in his power.
+Now, had the upheaval over the mercenaries not broken out among the Carthaginians, he would at once have made a fresh beginning and begun preparations for action, so far as it lay in his power.
 
 But he was forestalled by the civil disturbances, and in these [...]
 
@@ -808,7 +808,7 @@ The next day, hearing that the Roman fleet had anchored off the mouths of the ri
 
 At the same time he also detailed suitable men to handle the crossing of the elephants.
 
-Then he himself gathered his forces and brought forward the chieftains in Magilus’s company—for these had come to him from the plains around the Po (Po)—and through an interpreter explained to the troops the decisions these men had reached.
+Then he himself gathered his forces and brought forward the chieftains in Magilus’s company—for these had come to him from the plains around the Po—and through an interpreter explained to the troops the decisions these men had reached.
 
 Of what was said, the strongest grounds for confidence among the rank and file were, first, the plain fact of the presence of these envoys, who were urging them on and pledging to share in the war against Rome; second, the trustworthiness of their promise that they would guide the army through such country that, without lacking any of their necessities, they would make their march into Italy both swiftly and safely; and besides this, the richness and the vast size of the land they were going to reach, and furthermore the eagerness of the men alongside whom they were about to wage their battles against the Roman forces.
 
@@ -886,7 +886,7 @@ Likewise their account of the desolation, and further of the ruggedness and diff
 
 For they failed to inquire into the fact that the Gauls living along the Rhone, not once nor twice before Hannibal’s arrival—and not in the distant past but quite recently—had crossed the Alps with great armies, drawn up against the Romans and fought alongside the Gauls inhabiting the plains around the Po, as I have shown in the earlier parts of this work; and besides this, they did not know that a very large tribe of people happens to live in the Alps themselves. Instead, ignorant of every one of the things I have mentioned, they claim that some hero appeared and pointed out the roads to them.
 
-By this they naturally fall into the same case as the writers of tragedy. For with all of those, the denouements of their dramas require a god and a stage machine, because they take their initial premises to be false and irrational; and so historians too must suffer and do the same—bringing on heroes and gods to appear—once they have set up beginnings that are implausible and false. For how is it possible to set a reasonable ending upon irrational beginnings?
+By this they naturally fall into the same case as the writers of tragedy. For with all of those, the denouements of their dramas require a god and a stage machine, because the initial premises they adopt are false and irrational; and so historians too must suffer and do the same—bringing on heroes and gods to appear—once they have set up beginnings that are implausible and false. For how is it possible to set a reasonable ending upon irrational beginnings?
 
 Hannibal, at any rate, did not act as these men write; on the contrary, he handled his designs in these matters with great practical sense.
 
@@ -910,7 +910,7 @@ It is similar in size and shape to what is called the Delta in Egypt, except tha
 
 On reaching this district, he found in it two brothers quarreling over the kingship and encamped against each other with their armies.
 
-When the elder courted him and called on him to join in helping him secure the throne, he agreed, since the advantage this would bring him for the present was almost obvious.
+When the elder courted him and called on him to join in helping him secure the throne, [...] he agreed, since the advantage this would bring him for the present was almost obvious.
 
 And so, by joining the attack and helping to drive out the other brother, he gained much assistance from the victor.
 
@@ -972,7 +972,7 @@ They claimed to be well aware both of the town’s capture and of the destructio
 
 For a long time Hannibal remained cautious and distrustful of what they said. But reasoning that if he accepted their offer he might perhaps make these new arrivals more cautious and more peaceable, whereas if he refused he would have them as open enemies, he assented to their proposal and pretended to enter into friendship with them.
 
-When the barbarians had handed over the hostages, supplied cattle in abundance, and altogether put themselves into his hands without reserve, Hannibal’s men came to trust them to a certain extent—so much so that they even used them as guides for the difficult ground that lay ahead. But after these guides had led the way for two days, the people just mentioned gathered their forces, followed close behind, and attacked, [seizing] a certain gorge that was hard to pass and ringed with cliffs [...]
+When the barbarians had handed over the hostages, supplied cattle in abundance, and altogether put themselves into his hands without reserve, Hannibal’s men came to trust them to a certain extent—so much so that they even used them as guides for the difficult ground that lay ahead. But after these guides had led the way for two days, the people just mentioned gathered their forces, followed close behind, and attacked them in a certain gorge that was hard to pass and ringed with cliffs [...]
 
 ## Book 3 Chapter 53: The White Rock
 
@@ -1184,7 +1184,7 @@ He told them that, even though they had as yet gained no actual experience of th
 
 And in general he said it would be an outrageous and absurd thing if the Carthaginians dared to look the Romans in the eye—men who had often been beaten by them, who had paid them heavy tribute over and over, and who for so many years now had been all but their slaves.
 
-“And when, quite apart from all this, we have already had some experience of these very men now before us—namely that they do not dare to face us head-on—what conclusion should those who reason correctly draw about what is to come?
+“And when, quite apart from all this, we have already had some experience of these very men now before us—namely that they hardly dare to face us head-on—what conclusion should those who reason correctly draw about what is to come?
 
 What is more, their cavalry, when it clashed with our horsemen at the river Rhone, came off badly: they lost many of their own men and fled in disgrace all the way back to their own camp.
 
@@ -1668,7 +1668,7 @@ This region is divided under three names—its peoples being called Daunii, Peuc
 
 Beginning there from Luceria, which is a Roman colony, he plundered the countryside.
 
-After this he encamped near the place called Vibo, overran the territory of Arpi, and ravaged all of Daunia without opposition.
+After this he encamped near the place called Vibonium, overran the territory of Arpi, and ravaged all of Daunia without opposition.
 
 At this same time Fabius, after his appointment, sacrificed to the gods and then set out together with his master of the horse and the four legions that had been enrolled for the occasion.
 
@@ -1818,7 +1818,7 @@ When the men sent out to reconnoiter reported that the enemy’s fleet happened 
 
 Hasdrubal and his men, having been warned well in advance by their scouts that the enemy was bearing down on them, drew up their land forces along the shore and at the same time ordered the crews to embark in the ships.
 
-When the Romans were already close at hand, they gave the signal for battle and put out to sea, having resolved to fight. They engaged the enemy and for a short while contended for the victory, but before long they began to give way.
+When the Romans were already close at hand, the Carthaginians gave the signal for battle and put out to sea, having resolved to fight. They engaged the enemy and for a short while contended for the victory, but before long they began to give way.
 
 For the support of the infantry stationed along the shore did them less good in lending them courage for the danger than it did harm by holding out a ready hope of safety.
 
@@ -2016,7 +2016,7 @@ They also took thought for bringing back the fleet wintering at Lilybaeum, and s
 
 So these men busied themselves carefully with these and the rest of their preparations.
 
-Gnaeus and his officers, having received their instructions from the consuls, handled every detail according to their judgment.
+Gnaeus and his officers, having received their instructions from the consuls, handled every detail according to the consuls' judgment.
 
 For this reason I will refrain from writing more about them. Nothing decisive or worth recording was done at all, because of these instructions and because of the circumstances of the season; there were only more frequent skirmishes and partial engagements, in which the Roman commanders won a good name—for they were thought to handle each matter both bravely and sensibly.
 
@@ -2212,7 +2212,7 @@ These men, then, no longer fighting in phalanx formation but turning individuall
 
 ## Book 3 Chapter 116: The Slaughter at Cannae
 
-The Romans now had to carry on the fight over the bodies of the fallen. Lucius Aemilius, though he had been stationed on the right wing from the start and had shared in part of the cavalry struggle, was nevertheless still alive at this point.
+[...] kept up the fight. Lucius Aemilius, though he had been stationed on the right wing from the start and had shared in part of the cavalry struggle, was nevertheless still alive at this point.
 
 Wishing to act in keeping with the words he had spoken in his address to the troops, and seeing that the crux of the whole decision of the battle lay in the infantry legions, he rode along to the center of the entire battle line. There he both engaged personally and laid hands on the enemy, and at the same time encouraged and urged on his own soldiers.
 

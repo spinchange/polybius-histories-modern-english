@@ -1,0 +1,6 @@
+{"batch":"opus_031","units":[
+{"book":15,"chapter":"18","verdict":"CLEAN","findings":[],"note":"Numbers check: ten triremes (δέκα τριήρων), three months (τριμήνου), 10,000 talents over 50 years at 200 Euboic talents a year, 100 hostages aged 14-30 all correct. Out of scope, recorded only: 'before making war on Rome' leaves out τὸν τελευταῖον ('the last war'). αὐτοῖς in ἐντὸς τῶν ἀποδειχθησομένων ὅρων αὐτοῖς is ambiguous (Masinissa or the Carthaginians); English 'him' is a defensible reading."},
+{"book":15,"chapter":"19","verdict":"FINDINGS","findings":[
+{"quote":"had returned to it only after more than forty-five years","problem":"πλείω δὲ τῶν πέντε καὶ τετταράκοντ᾽ ἐτῶν ἔχων εἰς αὐτὴν ἐπανήκει: ἔχων + years gives his age. He came back when he was over forty-five years old, not after forty-five years away. He left at nine (ἐνναέτης), so he was gone for about thirty-six years.","proposed_fix":"was now returning to it at more than forty-five years of age","touches_syntax":false,"confidence":"high"}
+],"note":""}
+]}

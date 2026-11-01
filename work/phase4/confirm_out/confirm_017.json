@@ -1,0 +1,14 @@
+[
+{"id":"F0133","verdict":"HUMAN","fix":"and with this provide three months’ pay for the army, and add tens of thousands of measures of grain.","reason":"δοῦσι…μισθοδοτῆσαι: the fifty talents are the three months’ pay. μυριάδας has no numeral; ‘ten thousand’ is supplied. Editor must decide on a numeral."},
+{"id":"F0134","verdict":"ACCEPT","fix":"At this time Aristophantus the general arrived","reason":"Greek Ἀριστόφαντος, the Acarnanian strategos, not Aristophanes."},
+{"id":"F0136","verdict":"ACCEPT","fix":"they immediately burst into Thermus and pressed hard on the last men in the column","reason":"ἐπέβαλον εἰς τὸν Θέρμον: they broke into Thermus, which Philip had just left. They did not attack from it."},
+{"id":"F0137","verdict":"REVISE","fix":"the affair of the Paleis","reason":"Παλαιεῖς are the people of Pale in Cephallenia, not Palairos. Uses the book’s existing spelling ‘Paleis’ (chs. 3, 26)."},
+{"id":"F0138","verdict":"ACCEPT","fix":"crossed the gulf, and as soon as he had anchored at Leucas he instructed the officers","reason":"ὡς θᾶττον…καθωρμίσθη is temporal, ‘as soon as he anchored’, not ‘anchored as quickly as possible’."},
+{"id":"F0139","verdict":"ACCEPT","fix":"about two stades from the city","reason":"μάλιστα with a numeral means ‘about’, not ‘at most’."},
+{"id":"F0140","verdict":"REJECT","fix":"","reason":"τῆς ὥρας συναγούσης means it was growing late in the day. It explains the forced halt, so ‘day drawing on’ is correct."},
+{"id":"F0141","verdict":"ACCEPT","fix":"promising that the Aetolians would do everything required to conclude the peace","reason":"τοὺς Αἰτωλούς is the subject of ποιήσειν. The Aetolians themselves would do everything; the envoys do not bring them round."},
+{"id":"F0142","verdict":"ACCEPT","fix":"The Aetolians, for their part, were eager to conclude peace","reason":"The clause ‘hoping to exploit the situation’ has no basis in the Greek. τὰ μὲν ἔσπευδον is answered by ἅμα δὲ…παρεῖλκον."},
+{"id":"F0143","verdict":"HUMAN","fix":"withdrew, as ordered, [...]","reason":"εἰς ἱμάτιον… is corrupt/gapped; ‘to his quarters’ is invented. Marked [...] per convention; editors read e.g. Apamea or private life."},
+{"id":"F0144","verdict":"ACCEPT","fix":"intending to launch his attack from higher ground","reason":"ἐξ ὑπερδεξίου means from a commanding height. ‘On the right’ is a hyperliteral addition."},
+{"id":"F0145","verdict":"REVISE","fix":"while above it lie some parts of the Pontus, in the region beyond the Phasis, and it stretches to the Hyrcanian Sea","reason":"τινὰ μέρη τοῦ Πόντου is the subject of ὑπέρκειται: parts of the Pontus lie above the territory. Original tail kept."}
+]

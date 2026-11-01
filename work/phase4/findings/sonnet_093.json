@@ -1,0 +1,17 @@
+{"batch":"sonnet_093","units":[
+{"book":15,"chapter":"23","verdict":"FINDINGS","findings":[
+{"quote":"And in this matter Fortune plainly cooperated against Philip as well.","problem":"Greek: καὶ γὰρ ἡ τύχη πρός γε τοῦτο τὸ μέρος αὐτῷ συνήργησε προφανῶς. συνεργεῖν + dative means 'cooperate with', and αὐτῷ is Philip; 'against' is not in the Greek, and καὶ γάρ is 'for indeed', not 'as well'. Polybius may intend irony (Fortune worked with him to expose him), but the Greek says 'with him'.","proposed_fix":"For indeed, in this respect Fortune plainly cooperated with Philip.","touches_syntax":false,"confidence":"medium"},
+{"quote":"the Rhodians could hardly believe it because the faithlessness was so extreme","problem":"Greek: μὴ δύνασθαι πιστεῦσαι διὰ τὴν ὑπερβολὴν τῆς ἀθεσίας. 'Were unable to believe', not 'could hardly believe' (which implies they did believe, barely).","proposed_fix":"the Rhodians could not believe it, because of the extremity of the faithlessness","touches_syntax":false,"confidence":"medium"}],
+"note":"Greek of the second paragraph opens with corrupt 'ὁ πρεσβευτὴν' (article and accusative together); English reasonably supplies 'his ambassador'. Left alone."},
+{"book":15,"chapter":"24","verdict":"CLEAN","findings":[],"note":""},
+{"book":15,"chapter":"24a","verdict":"CLEAN","findings":[],"note":""},
+{"book":15,"chapter":"25","verdict":"FINDINGS","findings":[
+{"quote":"All this happened before the negotiations with Philip, as I have said","problem":"Greek: ταῦτα δ᾽ ἐγενήθη πρότερα τοῦ παρὰ Φιλίππῳ διαβουλίου ***, ὡς ἐδηλώσαμεν. There is a lacuna (***) after διαβουλίου that the English smooths over; also διαβούλιον is a deliberation or council held at Philip's court, not 'negotiations with Philip'.","proposed_fix":"All this happened before the deliberation at Philip's court [...], as I have shown","touches_syntax":false,"confidence":"medium"}],
+"note":"The chapter correctly ends with a marked lacuna ([...]) after τῶν ***."},
+{"book":15,"chapter":"26","verdict":"FINDINGS","findings":[
+{"quote":"the knowledge that the coming struggle lay in their own hands, because they controlled all the supplies being brought into Alexandria","problem":"Greek: γινώσκειν ὅτι τὸ μέλλειν καθ᾽ αὑτῶν ἐστι διὰ τὸ πάντων τῶν παρακομιζομένων ἐπιτηδείων ... κρατεῖν. τὸ μέλλειν is 'delay/hesitation' and καθ᾽ αὑτῶν 'against themselves' (the masses); the nearest possible subject of κρατεῖν is τῶν προεστώτων (those in power), so it is they who control the supplies, which is why delay hurts the masses. The English inverts this.","proposed_fix":"the knowledge that delay told against themselves, because those in power controlled all the supplies being brought into Alexandria","touches_syntax":true,"confidence":"medium"}],
+"note":"The Greek text ends without a full stop after κρατεῖν and may be truncated; the subject of κρατεῖν is not explicit, so the fix relies on τῶν προεστώτων being nearest."},
+{"book":15,"chapter":"26a","verdict":"FINDINGS","findings":[
+{"quote":"pitying the victims and regretting","problem":"Greek: πρὸς πολλοὺς οἰκτιζόμενος καὶ μεταμελόμενος. οἰκτιζόμενος means 'lamenting/bewailing' (to many people); the Greek names no victims, and 'πρὸς πολλοὺς' (to many) is dropped, which is how it became known.","proposed_fix":"lamenting to many people and regretting","touches_syntax":false,"confidence":"low"}],
+"note":""}
+]}

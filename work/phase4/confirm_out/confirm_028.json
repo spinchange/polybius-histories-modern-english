@@ -1,0 +1,9 @@
+[
+{"id":"F0225","verdict":"ACCEPT","fix":"a kinsman of Syphax","reason":"οἰκεῖος Σόφακος here denotes a relative of Syphax, not merely a friend."},
+{"id":"F0226","verdict":"REJECT","fix":"","reason":"Chapter seam: the sentence continues in 15.6 (ὑδρείαν ἐντὸς βέλους ποιησάμενος); the English rightly completes it."},
+{"id":"F0227","verdict":"ACCEPT","fix":"And they did not, as even tyrants do, put forward some small pretext to veil their shame","reason":"καθάπερ οἱ τύραννοι: tyrants do offer a pretext; current English can be read as the reverse."},
+{"id":"F0228","verdict":"ACCEPT","fix":"For indeed, in this respect Fortune plainly cooperated with Philip.","reason":"αὐτῷ συνήργησε means 'worked with him'; 'against' inverts the dative. Any irony is left to the reader."},
+{"id":"F0229","verdict":"REVISE","fix":"the Rhodians could not believe it because the faithlessness was so extreme","reason":"μὴ δύνασθαι πιστεῦσαι: they were unable to believe it, not 'hardly'. Minimal change keeps the existing wording."},
+{"id":"F0230","verdict":"REVISE","fix":"All this happened before the deliberation at Philip’s court [...], as I have said","reason":"Lacuna (***) after διαβουλίου must be marked; παρὰ Φιλίππῳ διαβούλιον is a deliberation at his court. ἐδηλώσαμεν kept as 'said'."},
+{"id":"F0231","verdict":"REVISE","fix":"the knowledge that delay told against themselves, because Tlepolemus and his party controlled all the supplies being brought into Alexandria","reason":"τὸ μέλλειν καθ᾽ αὑτῶν means delay hurt them; the subject of κρατεῖν, τοὺς περὶ τὸν Τληπόλεμον, is at the start of 15.27 and is missing from the ch. 27 English."}
+]

@@ -1,0 +1,13 @@
+[
+{"id":"F0078","verdict":"ACCEPT","fix":"a total of twelve thousand men","reason":"εἰς μυρίους καὶ δισχιλίους = twelve thousand."},
+{"id":"F0079","verdict":"ACCEPT","fix":"wandered about the country","reason":"ἠλᾶτο κατὰ τῆς χώρας: he wandered through the country; not expelled."},
+{"id":"F0080","verdict":"ACCEPT","fix":"For since they clearly knew what they had done","reason":"συνειδότες is causal: because conscious of their deeds they could not expect mercy."},
+{"id":"F0081","verdict":"ACCEPT","fix":"even though they failed utterly in everything","reason":"πάντων is genitive with διήμαρτον (missed everything at once), not subject 'all'."},
+{"id":"F0082","verdict":"ACCEPT","fix":"but believed that those urging this were speaking because they privately placed their own interest and security above everything else","reason":"αὐτοὺς … τιθεμένους … λέγειν is plural: the advocates (Stratius' group), not Philon alone."},
+{"id":"F0083","verdict":"ACCEPT","fix":"so that the enemy could not cross and attack the embankments","reason":"προσμάχωνται τοῖς χώμασιν: attack the Roman moles, not fight from them."},
+{"id":"F0084","verdict":"ACCEPT","fix":"one who is only human must never say or do anything arrogant","reason":"ἄνθρωπον ὄντα = being mortal; ὑπερήφανον is the forbidden act, not the man's quality."},
+{"id":"F0085","verdict":"ACCEPT","fix":"because, as far as it rested with him, not only she herself but also the children were being saved","reason":"τὸ ἐκείνου μέρος = so far as it depended on the general; not 'from his fate'."},
+{"id":"F0086","verdict":"ACCEPT","fix":"without saying a word to her, he had deserted and privately secured his own safety from the general, and how he could","reason":"Hasdrubal is subject of πορίζοιτο; negation goes with telling her nothing. Sense was inverted."},
+{"id":"F0087","verdict":"ACCEPT","fix":"he dared now to sit beside these men holding suppliant branches, men to whom he had [...] many times that the day would never come when the sun would see Hasdrubal alive","reason":"θαλλούς = suppliant branches; παρὰ τούτοις; sun is subject of καθορᾶν; lacuna after πρὸς οὓς unmarked."},
+{"id":"F0088","verdict":"HUMAN","fix":"[...] The opening lines are badly broken in the witness; Polybius is cited as speaking. And this has been said by the poet: [...] And at once he turned and grasped my right hand and said, “Polybius, it is a fine thing; but somehow I fear and foresee that someday someone else will give this same order about our own country.” [...]","reason":"Legible Scipio speech omitted. Poet's verse absent though unmarked in Greek; editor decides gap marking. Trailing [...] marks gap after ταύτης δὲ."}
+]

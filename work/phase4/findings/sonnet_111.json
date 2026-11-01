@@ -1,0 +1,23 @@
+{"batch":"sonnet_111","units":[
+{"book":21,"chapter":"12","verdict":"CLEAN","findings":[],"note":""},
+{"book":21,"chapter":"13","verdict":"FINDINGS","findings":[
+{"quote":"During the season of that sacrifice, the law requires that these Salii not change their location for thirty days, wherever they may happen to be caught.","problem":"The Greek has a lacuna (`*` / `**`) between 'τοῖς θεοῖς:' and 'τριακονθήμερον μὴ μεταβαίνειν κατὰ τὸν καιρὸν τῆς θυσίας, ἐν ᾗ ποτ᾽ ἂν χώρᾳ καταληφθῶσιν [οἱ σάλιοι οὗτοι]'. The sentence begins mid-clause; 'the law requires' is not in the Greek and 'these Salii' is an editorial bracket. The English reads as if whole.","proposed_fix":"[Text lost] ... not to move for thirty days at the time of the sacrifice, in whatever place they may be caught [these Salii].","touches_syntax":true,"confidence":"high"}],
+"note":"Lacuna between the sacrifices sentence and the thirty-day rule."},
+{"book":21,"chapter":"14","verdict":"CLEAN","findings":[],"note":""},
+{"book":21,"chapter":"15","verdict":"CLEAN","findings":[],"note":""},
+{"book":21,"chapter":"16","verdict":"FINDINGS","findings":[
+{"quote":"the Romans took possession of Sardis and its citadel, and then Musaeus came from Antiochus under flag of truce.","problem":"Greek: 'τὰς Σάρδεις καὶ τὰς ἀκροπόλεις ἄρτι *** ἧκε Μουσαῖος' - a lacuna stands after ἄρτι and the verb of the first clause is missing; English joins the two clauses seamlessly. Also ἀκροπόλεις is plural.","proposed_fix":"the Romans took possession of Sardis and the citadels, just then [text lost] ... and Musaeus came from Antiochus to negotiate.","touches_syntax":true,"confidence":"high"}],
+"note":""},
+{"book":21,"chapter":"17","verdict":"FINDINGS","findings":[
+{"quote":"Publius said that the Romans never became harsher after victory.","problem":"Greek 'οὔτε νικήσαντας ἔφη Ῥωμαίους οὐδέποτε γενέσθαι βαρυτέρους, *' ends in a lacuna (continued by '** διὸ'); the οὔτε has no matching clause, so the sentence is incomplete and probably corrupt. English presents it as complete.","proposed_fix":"Publius said that the Romans, when victorious, never became harsher [text lost] ...","touches_syntax":false,"confidence":"high"},
+{"quote":"So they separated on those terms, and in the following days the Romans divided their forces.","problem":"Greek 'ταῖς δ᾽ ἑξῆς ἡμέραις οἱ Ῥωμαῖοι διεῖλον τὰς δυνάμεις * ** μετὰ δέ τινας ἡμέρας παραγενομένων τῶν ὁμήρων' has a lacuna after διεῖλον τὰς δυνάμεις; English runs straight on to the arrival of the hostages.","proposed_fix":"So they separated on those terms, and in the following days the Romans divided their forces [text lost] ...","touches_syntax":false,"confidence":"high"}],
+"note":"Numbers checked: 15,000 Euboic talents = 500 + 2,500 + 12x1,000; 400 talents to Eumenes; 20 hostages; all correct."},
+{"book":21,"chapter":"18","verdict":"CLEAN","findings":[],"note":""},
+{"book":21,"chapter":"19","verdict":"FINDINGS","findings":[
+{"quote":"but would continue entirely to leave those matters in Roman hands.","problem":"Greek 'ἀλλὰ μεῖναι *** τελέως διδοὺς ἐκείνοις τὴν ἐξουσίαν' has a lacuna after μεῖναι; the English supplies a smooth 'would continue ... to leave'.","proposed_fix":"but ... [text lost] ... entirely giving them the authority.","touches_syntax":true,"confidence":"high"}],
+"note":""},
+{"book":21,"chapter":"20","verdict":"FINDINGS","findings":[
+{"quote":"I would never knowingly give way to any living man.","problem":"Greek 'οὐδέποτ᾽ ἂν οὐδενὶ τῶν ὄντων ἐκχωρήσαιμι κατὰ δύναμιν': κατὰ δύναμιν = 'so far as lies in my power', not 'knowingly'.","proposed_fix":"I would never give way to anyone in the world, so far as lies in my power.","touches_syntax":false,"confidence":"medium"},
+{"quote":"being the first in Asia and Greece to share your friendship and alliance","problem":"Greek 'πρῶτος μετασχὼν τῆς ὑμετέρας φιλίας καὶ συμμαχίας, σχεδὸν πάντων τῶν [κατὰ] τὴν Ἀσίαν καὶ τὴν Ἑλλάδα νεμομένων': σχεδὸν ('almost') is dropped; he was first of almost all those dwelling in Asia and Greece.","proposed_fix":"being the first of almost all who live in Asia and Greece to share your friendship and alliance","touches_syntax":false,"confidence":"medium"}],
+"note":""}
+]}

@@ -1,0 +1,9 @@
+{"batch":"sonnet_040","units":[
+{"book":4,"chapter":"21","verdict":"CLEAN","findings":[],"note":""},
+{"book":4,"chapter":"22","verdict":"CLEAN","findings":[],"note":"Ends on [...] where Greek breaks off mid-sentence; seam marker is faithful."},
+{"book":4,"chapter":"23","verdict":"CLEAN","findings":[],"note":"Ends on [...] where Greek breaks off mid-sentence; seam marker is faithful."},
+{"book":4,"chapter":"24","verdict":"FINDINGS","findings":[{"quote":"The king then decided the whole matter","problem":"Greek is ὁ δὲ βασιλεὺς ἐπὶ πᾶσιν: the king spoke last of all (after the others), not that he decided everything; the parenthetical εἰ χρὴ τοῦ βασιλέως λέγειν τὰς τότε γνώμας and the later ἐπικυρωθείσης ... τῆς γνώμης show the opinion was still to be ratified.","proposed_fix":"The king spoke last of all","touches_syntax":false,"confidence":"medium"}],"note":""},
+{"book":4,"chapter":"25","verdict":"CLEAN","findings":[],"note":""},
+{"book":4,"chapter":"26","verdict":"CLEAN","findings":[],"note":""},
+{"book":4,"chapter":"27","verdict":"CLEAN","findings":[],"note":""}
+]}

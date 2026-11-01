@@ -58,9 +58,9 @@ And for the same reason, what happened around Capua at that time followed natura
 
 For the Roman army did not dare to come out and fight because it feared the enemy cavalry, but it remained boldly inside its camp, clearly understanding that the cavalry by which it had been beaten in battle would there be powerless to hurt it.
 
-The Carthaginians, on the other hand, quite naturally could not remain encamped for long with their cavalry, because the Romans had destroyed all the fodder in the neighboring country for this very purpose, and it was impossible for so many horsemen and so many pack animals to bring hay and barley on their backs from a great distance.
+The Carthaginians, on the other hand, quite naturally could not remain encamped for long with their cavalry, because the Romans had destroyed all the fodder in the neighboring country for this very purpose, and it was impossible, by carrying hay or barley on their backs from a great distance, to supply so large a body of cavalry and so many pack animals.
 
-Yet they also did not dare, if camped without their cavalry, to assault enemies protected by ditch and palisade, since even apart from the cavalry the danger of an evenly matched engagement seemed uncertain enough.
+Yet they also did not dare, if camped without their cavalry, to assault enemies protected by ditch and palisade, since, without their cavalry, even a fight on equal terms was of doubtful issue for them.
 
 Besides this, Hannibal was anxious that the incoming consuls might arrive, pitch camp against him, and put him in severe difficulty by cutting off his supplies.
 
@@ -168,7 +168,7 @@ The Romans, however, both preserved their own country and did not raise the sieg
 
 I do not say this so much for the sake of praising either Romans or Carthaginians—for I have already noted their qualities more than once—as for the sake of those who hold command among either people, and of all who in later times will have charge of public affairs.
 
-By remembering such actions, or by having them set before their eyes, they may become eager to imitate them. For what seems rash and dangerous often turns out, on the contrary, to be real safety; and boldness of conception, if only it is guided by reason, remains admirable, noble, and worthy of remembrance whether it succeeds or fails.
+By remembering such actions, or by having them set before their eyes, they may become eager to imitate them [...]. For what seems rash and dangerous often turns out, on the contrary, to be real safety; and boldness of conception, if only it is guided by reason, remains admirable, noble, and worthy of remembrance whether it succeeds or fails.
 
 Atella is a city of the Opici in Italy, lying between Capua and Neapolis. The ethnic name is Atellanus, as Polybius says in the ninth book: “The Atellani surrendered themselves.”
 
@@ -306,7 +306,7 @@ Those of night are harder to judge unless one can follow, from what is visible, 
 
 For although nights are unequal in length, it nevertheless happens that in every night six of the twelve signs rise above the horizon. It is therefore clear that in corresponding parts of every night equal portions of the zodiac must rise.
 
-And since the sun’s position is known each day, it is clear that the sign lying opposite it must be the one rising.
+And since the sun’s position is known each day, it is clear that, when the sun sets, the degree diametrically opposite it must rise.
 
 What remains is that whatever part of the zodiac appears to have risen after that point indicates how much of the night has elapsed.
 
@@ -480,7 +480,7 @@ For natives know best, as the proverb says, not only which way the winds are blo
 
 And I heard it even more precisely from Masannasus, who brought charges in general against all Carthaginians, but especially against Hannibal and Mago the so-called Samnite, for greed.
 
-Among other things, he said that from early youth these men had divided their operations between themselves in a very grand fashion, and although each had taken many cities both in Iberia and in Italy—some by force and some by surrender—they never shared in the same action together.
+Among other things, he said that from early youth these men had been partners in affairs with each other most loyally, and although each had taken many cities both in Iberia and in Italy—some by force and some by surrender—they never shared in the same action together.
 
 Instead, they were always scheming more against each other than against the enemy, so that one might not be present when the other captured a city, and they might neither quarrel over such matters nor have to divide the profit, since their rank and standing were equal.
 
@@ -602,7 +602,7 @@ And as for Philip’s lawless conduct, what need is there to say more?
 
 Of his impiety toward the gods, the outrages committed against the temples at Thermus are enough; and of his cruelty toward men, his bad faith and treaty-breaking toward the Messenians.
 
-For the Aetolians alone among the Greeks stood face to face with Antipater for the safety of those unjustly deprived of security; they alone resisted Brennus and the barbarians with him; and they alone, when called upon, fought beside you, wishing to help restore to you your ancestral leadership of the Greeks.
+[...] For the Aetolians alone among the Greeks stood face to face with Antipater for the safety of those unjustly deprived of security; they alone resisted Brennus and the barbarians with him; and they alone, when called upon, fought beside you, wishing to help restore to you your ancestral leadership of the Greeks.
 
 Let that be enough on these matters. As for the present proposal before you, it is in one sense necessary to write and vote as though you were deliberating about war; yet in truth you must not think of this as a war at all.
 
@@ -782,7 +782,7 @@ For the Aetolians it is their custom to do such things and to regard nothing as 
 
 And what are we to expect these men to do now that they have taken the Romans into alliance?
 
-Why, when they gained strength and support from the Illyrians, they at once set about piratical violence at sea and seized Pylus in violation of treaty, while on land they besieged the city of Cleitor and enslaved the people of Cynaetha.
+Why, when they gained strength and support from the Illyrians, they at once set about attacking Pylus by sea, by force and in breach of treaty, while on land they besieged the city of Cleitor and enslaved the people of Cynaetha.
 
 Earlier too, as I said above, these same men made agreements with Antigonus against the Achaean and Acarnanian peoples; and now they have made an agreement with the Romans against all Greece.
 
@@ -794,7 +794,7 @@ Already they have stripped the Acarnanians of Oeniadae and Nesus; and quite rece
 
 The Romans carry off the children and women, who will plainly suffer the usual fate of those who fall under the power of foreigners; while the Aetolians inherit the lands of the unfortunate victims.
 
-A fine alliance indeed this is to join by deliberate choice—especially for Lacedaemonians, who once decreed that the Thebans, because alone among the Greeks they had resolved to remain quiet during the Persian invasion, should pay a tithe to the gods after the barbarians had been defeated in war.
+A fine alliance indeed this is to join by deliberate choice—especially for Lacedaemonians, who once decreed that the Thebans, because alone among the Greeks they had resolved, under compulsion, to remain quiet during the Persian invasion, should pay a tithe to the gods after the barbarians had been defeated in war.
 
 The honorable and fitting course for you, men of Lacedaemon, is to remember your ancestors, to beware the Roman advance, to suspect the wicked enterprise of the Aetolians, and above all to remember what Antigonus did for you; then even now show your hatred of baseness, turn away from friendship with the Aetolians, and share the same hopes as the Achaeans and Macedonians.
 
@@ -882,6 +882,6 @@ And it is true, as I have often said, that it is impossible to comprehend or gra
 
 Polybius in the ninth book of his Histories also records a river called Cyathus near the city of Arsinoe in Aetolia.
 
-Arsinoe is a city of Libya. Its ethnic is Arsinoites, and in the Aetolian case Arsinoeus, as Polybius says in the ninth book.
+Arsinoe is a city of Libya. [...] The ethnic is Arsinoites, and in the Aetolian case Arsinoeus, as Polybius says in the ninth book.
 
 Xynia is a city of Thessaly. Polybius mentions it in the ninth book. Phorunna is a city of Thrace: Polybius mentions it in the ninth book.

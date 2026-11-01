@@ -1,0 +1,9 @@
+{"batch":"sonnet_019","units":[
+{"book":2,"chapter":"37","verdict":"CLEAN","findings":[],"note":""},
+{"book":2,"chapter":"38","verdict":"CLEAN","findings":[],"note":""},
+{"book":2,"chapter":"39","verdict":"CLEAN","findings":[],"note":"Greek breaks off at 'μᾶλλον δὲ ὑπὸ'; English marks it with [...] and chapter 40 resumes 'τῆς Μακεδόνων'."},
+{"book":2,"chapter":"40","verdict":"CLEAN","findings":[],"note":"Begins mid-sentence, continuing ch. 39."},
+{"book":2,"chapter":"41","verdict":"CLEAN","findings":[],"note":""},
+{"book":2,"chapter":"42","verdict":"CLEAN","findings":[],"note":""},
+{"book":2,"chapter":"43","verdict":"CLEAN","findings":[],"note":"Greek breaks off at 'ὑπὲρ'; English marks it with [...]."}
+]}

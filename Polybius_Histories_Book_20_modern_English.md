@@ -76,7 +76,7 @@ Such, then, was the beginning that the affairs of the house of Neon took, and of
 
 Instead, some of the magistrates would order the dispatch of garrisons and others would proclaim national levies, and in this way they continually obstructed the course of justice; and some of the generals even made payments out of the public funds to the poor among the people.
 
-From this the masses were taught to attach themselves to such men and to secure offices for them—men through whom they could expect to pay no penalty for their crimes and debts, and from time to time to gain some share of public property through the favor of those in office. The man who contributed most to this state of things was Opheltas, who was forever devising some new scheme that seemed for the moment to benefit the many, but was bound in the end, by general admission, to ruin them all.
+From this the masses were taught to attach themselves to such men and to secure offices for them—men through whom they could expect to pay no penalty for their crimes and debts, and from time to time to gain some share of public property through the favor of those in office. The greatest contribution to this [...] Opheltas, who was forever devising some new scheme that seemed for the moment to benefit the many, but was bound in the end, by general admission, to ruin them all.
 
 Along with these things followed another unfortunate fashion. Those who died childless no longer left their property to their relatives, as had earlier been the custom among them, but assigned it to feasting and drinking and made it common property for their friends.
 

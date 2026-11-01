@@ -10,7 +10,7 @@ As a rule, the wars in Greece and Asia are decided by a single battle, or at mos
 
 In this war, however, the opposite happened.
 
-As a rule, the dangers were brought to an end by nightfall, because the men would neither lose heart nor give way bodily to fatigue, but would again and again return with renewed resolve after a withdrawal and a change of mind.
+As a rule, nightfall brought the dangers to an end, but even so the men were unwilling either to lose heart or to give way bodily to fatigue, and after a withdrawal and a change of mind they would begin again with fresh resolve.
 
 Indeed, the whole war and the sequence of pitched battles were interrupted for a time by the winter.
 
@@ -26,7 +26,7 @@ When the envoys arrived in Rome, the Senate admitted those from the Belli and Ti
 
 When the time for the audience arrived, the praetor introduced the allied envoys first.
 
-Though they were barbarians, they spoke at length and tried to make every point of dispute clear.
+Though they were barbarians, [...] they spoke and tried to make every point of dispute clear.
 
 They pointed out that if the tribes who had gone to war were not brought under control and punished as they deserved, then as soon as the Roman armies returned from Iberia they would fall upon the Belli and Titthi at once, treating them as traitors; and that if they escaped punishment for their first act of hostility, they would quickly set the whole of Iberia in motion, because everyone there would think them capable of standing up to Rome.
 
@@ -38,7 +38,7 @@ After that the envoys from the enemy were brought in.
 
 The Arevacae came forward and, in their speech, affected submission and humility; but their actual intentions clearly showed no surrender and no defeat.
 
-For they were always hinting at the uncertainty of fortune, and by describing the battles that had already been fought as indecisive, they left the impression that in every case they had had the better of the contest.
+For they often hinted at the uncertainty of Fortune, and by describing the battles that had already been fought as indecisive, they left the impression that in every case they had had the better of the contest.
 
 The end of their speech was this: if they had to endure some fixed penalty for their ignorance, they were ready to accept it; but once that was done, they asked to be restored to the terms of their agreement with the Senate under Tiberius Gracchus.
 
@@ -68,7 +68,7 @@ Nor would the men nominated by the consuls as legates to accompany the commander
 
 And worst of all, the young men tried to evade the levies and came up with excuses that were shameful to make, improper to examine, and impossible to refute.
 
-At last, when the Senate and the magistrates were at a loss to know what the end of this shamelessness among the young men would be—for they had no other name for it—Publius Cornelius Scipio Africanus, who, though still young, had already been regarded as a leader in the war and had won a settled reputation for moral excellence and self-restraint, but still lacked a reputation for personal bravery, saw the Senate’s difficulty and stood up to say that he was willing to go to Iberia with the consuls either as a military tribune or as a legate, since he was ready for either role.
+At last, when the Senate and the magistrates were at a loss to know what the end of this shamelessness among the young men would be—for they had no other name for it—Publius Cornelius Scipio Aemilianus, who, though still young, had already been regarded as a leader in the war and had won a settled reputation for moral excellence and self-restraint, but still lacked a reputation for personal bravery, saw the Senate’s difficulty and stood up to say that he was willing to go to Iberia with the consuls either as a military tribune or as a legate, since he was ready for either role.
 
 He added, however, that for his own part a mission to Macedonia would be both safer and more fitting, for at that very time the Macedonians had in fact invited Scipio by name to come and settle the disputes raging among them.
 
@@ -80,11 +80,11 @@ This offer, unexpected from every point of view because of Scipio’s age and hi
 
 A certain surge of feeling and a hesitation rose in Scipio’s mind, as to whether he ought to join battle with the barbarian and fight him in single combat.
 
-Elsewhere Polybius says that Scipio’s horse was troubled by the blow, but did not completely collapse; so Scipio fell to the ground upright and regained his footing.
+Elsewhere Polybius says that Scipio’s horse was troubled by the blow, but did not completely collapse; so Scipio fell to the ground upright.
 
 ## Book 35 Chapter 6: Cato’s Wit
 
-When Polybius, through Scipio, had been granted an audience on behalf of the exiles from Achaea, the Senate debated the matter at length, with some supporting their return and others opposing it.
+When Scipio, for Polybius’s sake, had appealed to Cato on behalf of the exiles from Achaea, the Senate debated the matter at length, with some supporting their return and others opposing it.
 
 Then Cato stood up and said: “As though we had nothing else to do, we spend the whole day discussing whether old Greek men should be carried out by undertakers from our own country or from Achaea.
 

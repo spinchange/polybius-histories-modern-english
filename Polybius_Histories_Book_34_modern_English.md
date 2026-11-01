@@ -14,7 +14,7 @@ Polybius says that, on Greek matters, Eudoxus gave a good account, but Ephorus t
 
 For that is the subject most properly belonging to geography.
 
-And yet, Polybius, by introducing sweeping judgments about distances not only in lands outside Greece but also within Greece itself, you make yourself answerable in some cases to Posidonius, in others to Artemidorus, and in others to many more besides.
+And yet, Polybius, by introducing sweeping judgments about distances not only in lands outside Greece but also within Greece itself [...] and you make yourself answerable in some cases to Posidonius, in others to Artemidorus, and in others to many more besides.
 
 Polybius the historian also composed a book entitled *On the Habitation under the Equator*. This region lies in the middle of the torrid zone.
 
@@ -48,7 +48,7 @@ That is what Polybius also says when he undertakes to explain the wanderings of 
 
 And Polybius is right in the way he interprets those wanderings.
 
-He says that Aeolus, because he indicated the routes for sailing out through the regions of the strait—where the currents run in both directions and departure is difficult because of the tides—came to be called the keeper of the winds and was thought of as a king, just as Danaus, who pointed out the reservoirs in Argos, and Atreus, who recognized the sun’s course as opposite to that of the heavens, came to be represented as seers and priest-kings.
+He says that Aeolus, because he foretold the times for sailing out in the regions of the strait—where the currents run in both directions and departure is difficult because of the tides—came to be called the keeper of the winds and was thought of as a king, just as Danaus, who pointed out the reservoirs in Argos, and Atreus, who recognized the sun’s course as opposite to that of the heavens, came to be represented as seers and priest-kings.
 
 So too the priests of the Egyptians, the Chaldaeans, and the Magi, because they surpassed other men in wisdom, received authority and honor among earlier generations.
 
@@ -60,7 +60,7 @@ Nor does he approve Eratosthenes’ remark that one will discover where Odysseus
 
 He also says that Homer’s words fit what happens at Scyllaeum and the hunting of the great fish there, where Scylla herself is described as raging around the rock, fishing for dolphins and sea-dogs and whatever larger creature she may catch.
 
-For tuna, swimming in schools along the coast of Italy, whenever they are driven off course and prevented from reaching Sicily, fall in with larger animals such as dolphins, sharks, and other sea-creatures, and from feeding on these the hunters called galeotes grow fat—fish which, he says, are also called swordfish or sea-dogs.
+For tuna, swimming in schools along the coast of Italy, whenever they are driven off course and prevented from reaching Sicily, fall in with larger animals such as dolphins, sharks, and other sea-creatures, and from hunting them the galeotes grow fat—fish which, he says, are also called swordfish and sea-dogs.
 
 The same thing happens during the flooding of the Nile and of other waters, just as it does in a fire when woodland is burning: the animals gather together in flight from fire or flood and become prey for the stronger creatures.
 
@@ -134,13 +134,13 @@ And yet Polybius is precisely the man who calls such pronouncements mere popular
 
 *Quoted by Strabo, Geography.*
 
-With arguments of this kind he refutes those earlier writers while claiming precision. For example, Dicaearchus said that from the Peloponnese to the Pillars there were ten thousand stades, and that the distance from the Peloponnese to the head of the Adriatic was greater than this; and since he gave the distance from the Peloponnese to the strait as three thousand, the remainder from the strait to the Pillars came to seven thousand, Polybius says that he will let the three thousand stand, whether it is correctly reckoned or not, but that the seven thousand works in neither way, neither for someone measuring along the coast nor for someone measuring straight through the open sea.
+[...] the very matters in which he refutes those men is he free of them. For example, Dicaearchus said that from the Peloponnese to the Pillars there were ten thousand stades, and that the distance from the Peloponnese to the head of the Adriatic was greater than this; and since he gave the distance from the Peloponnese to the strait as three thousand, the remainder from the strait to the Pillars came to seven thousand, Polybius says that he will let the three thousand stand, whether it is correctly reckoned or not, but that the seven thousand works in neither way, neither for someone measuring along the coast nor for someone measuring straight through the open sea.
 
 For the coastline, he says, most closely resembles an obtuse angle whose two ends rest on the strait and on the Pillars, with Narbo as its apex, so that a triangle is formed, having as its base the straight course through the open sea, and as its sides the two lines that form the angle just mentioned.
 
-One of these, from the strait to Narbo, is ten thousand two hundred stades and more; the other, the remaining side, is a little less than eight thousand.
+One of these, from the strait to Narbo, is more than eleven thousand two hundred stades; the other, the remaining side, is a little less than eight thousand.
 
-And indeed, it is generally agreed that the greatest distance from Europe to Libya across the Tyrrhenian Sea is no more than three thousand stades; across the Sardinian Sea one may make a corresponding estimate.
+And indeed, it is generally agreed that the greatest distance from Europe to Libya across the Tyrrhenian Sea is no more than three thousand stades; across the Sardinian Sea the distance is reduced.
 
 But let that too, he says, be taken as three thousand, and in addition let two thousand stades be assumed for the depth of the gulf near Narbo, as though it were a perpendicular from the apex to the base of the obtuse-angled triangle.
 
@@ -282,13 +282,13 @@ The third, Verbanus, is nearly three hundred stades long and thirty wide, and it
 
 Polybius says that at Capua a remarkable wine is produced, called Anadendrites, with which no other can be compared.
 
-He says that the coast from Iapygia to the strait is three thousand stades by land, washed by the Sicilian Sea, but by sea voyage it is less than five hundred.
+He says that the coast from Iapygia to the strait is three thousand stades by land, washed by the Sicilian Sea, but by sea voyage it is five hundred stades less.
 
 They say that the greatest length of the Etrurian coast, from Luna to Ostia, is about two thousand five hundred stades, while its width inland toward the mountains is less than half that. From Luna to Pisa is more than four hundred stades; from there to Volaterrae two hundred and eighty; then from there to Populonium two hundred and seventy; and from Populonium to Cosa nearly eight hundred, though some say six hundred. Polybius is not correct in giving the total as one thousand three hundred and thirty.
 
 Aethaleia, an island of the Tyrrhenians.
 
-Polybius in the thirty-fourth book says that Aethaleia is called Lemnos.
+Polybius in the thirty-fourth book says that Lemnos is called Aethaleia.
 
 The gulf between the two promontories, Misenum and Athenaeum, is called the Crater.
 
@@ -324,7 +324,7 @@ So it appears that what seems most mythical in the poet was not spoken in vain, 
 
 *Quoted by Strabo, Geography.*
 
-He also says other things that are not trustworthy: that the seas are connected by channels because Chian and Thasian pottery is found in the Naro; that both seas can be seen from a certain mountain; that among the Liburnian islands is Titheis, with a circuit of five hundred stades; and that the Danube pours one of its mouths into the Adriatic.
+He also says other things that are not trustworthy: that the seas are connected by channels [...] from the fact that Chian and Thasian pottery is found in the Naro; that both seas can be seen from a certain mountain; that among the Liburnian islands is Titheis, with a circuit of five hundred stades; and that the Danube pours one of its mouths into the Adriatic.
 
 Some statements of Eratosthenes too are misunderstandings shaped by popular talk, as Polybius says when discussing him and other historians.
 

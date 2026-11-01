@@ -1,0 +1,11 @@
+{"batch":"sonnet_059","units":[
+{"book":5,"chapter":"77","verdict":"CLEAN","findings":[],"note":""},
+{"book":5,"chapter":"78","verdict":"CLEAN","findings":[],"note":""},
+{"book":5,"chapter":"79","verdict":"CLEAN","findings":[],"note":"Numbers checked: components sum to 62,000 foot; 6,000 horse; 102 elephants."},
+{"book":5,"chapter":"80","verdict":"CLEAN","findings":[],"note":""},
+{"book":5,"chapter":"81","verdict":"CLEAN","findings":[],"note":""},
+{"book":5,"chapter":"82","verdict":"CLEAN","findings":[],"note":"Elephants 40+33=73 matches ch. 79."},
+{"book":5,"chapter":"83","verdict":"CLEAN","findings":[],"note":""},
+{"book":5,"chapter":"84","verdict":"CLEAN","findings":[],"note":""},
+{"book":5,"chapter":"85","verdict":"CLEAN","findings":[],"note":""}
+]}

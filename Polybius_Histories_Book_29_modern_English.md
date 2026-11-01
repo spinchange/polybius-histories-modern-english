@@ -30,7 +30,7 @@ Along with this, Pantauchus persuaded Gentius also to send envoys of his own, wh
 
 For if that were accomplished, and the Rhodians too entered the war, he declared that the Romans would be altogether easy to defeat.
 
-Gentius, persuaded by these appeals, appointed Parmenion and Marcus and sent them out with instructions that, once they had received the oaths and hostages from Perseus and agreement had been reached about the money, they were to go on embassy to Rhodes.
+Gentius, persuaded by these appeals, appointed Parmenion and Morcus and sent them out with instructions that, once they had received the oaths and hostages from Perseus and agreement had been reached about the money, they were to go on embassy to Rhodes.
 
 ## Book 29 Chapter 4: Gentius Joins Perseus
 
@@ -56,9 +56,9 @@ And so I was led to write briefly what seemed likely to be true, and the probabi
 
 ## Book 29 Chapter 6: Reasons to Suspect Intrigue between Eumenes and Perseus
 
-I have already stated that Cydas the Cretan, while serving in Eumenes’ army and being highly honored by him, first met with Cheimarus, one of the Cretans serving with Perseus, near Amphipolis, and then, when he came close to the wall at Demetrias, spoke first with Menecrates and then with Antimachus.
+I have already stated that Cydas the Cretan, while serving in Eumenes’ army and being highly honored by him, first met with Cheimarus, one of the Cretans serving with Perseus, near Amphipolis, and then, when he came close to the wall at Demetrias, [...] spoke first with Menecrates and then with Antimachus [...].
 
-And the fact that Herophon twice went as an envoy from Perseus to Eumenes, and that on that account most of the Romans came to hold a not unreasonable suspicion about King Eumenes, is clear from what happened in the case of Attalus: for they allowed him to come to Rome from Brundisium and to conduct whatever business he wished, and in the end they gave him a friendly reply and sent him away, although he had done them nothing noteworthy, either before or during the war with Perseus; whereas Eumenes, who had provided them with the greatest services and cooperated with them most of all in the wars against Antiochus and Perseus, they not only prevented from going to Rome, but also ordered him to leave Italy within a fixed number of days, though it was midwinter.
+And the fact that Herophon [...] twice went as an envoy from Perseus to Eumenes, and that on that account most of the Romans came to hold a not unreasonable suspicion about King Eumenes, is clear from what happened in the case of Attalus: for they allowed him to come to Rome from Brundisium and to conduct whatever business he wished, and in the end they gave him a friendly reply and sent him away, although he had done them nothing noteworthy, either before or during the war with Perseus; whereas Eumenes, who had provided them with the greatest services and cooperated with them most of all in the wars against Antiochus and Perseus, they not only prevented from going to Rome, but also ordered him to leave Italy within a fixed number of days, though it was midwinter.
 
 From this it is plain that some sort of intrigue had taken place between Perseus and Eumenes, and that because of it the Romans had become so alienated from Eumenes.
 
@@ -124,7 +124,7 @@ So what was the cause of such obvious folly? Avarice. What else could one say?
 
 One man, in order to get what did not belong to him, overlooked everything else and was ready to do anything; while the other, in order not to give anything away, was willing to endure anything and to ignore everything else.
 
-Accordingly, Perseus’ dealings with the Gauls and with Gentius were of a piece with this—
+Accordingly, Perseus, in his dealings with the Gauls and with Gentius, [...]
 
 ## Book 29 Chapter 10: Rhodes Decides to Seek Peace
 
@@ -140,9 +140,9 @@ But they did not stop there. They went on in the same course and added to it, ma
 
 ## Book 29 Chapter 11: Turbulent Assembly at Rhodes
 
-When the envoys from Gentius, together with those led by Parmenio and Morcus and accompanied by Metrodorus, arrived at Rhodes, and the council had been summoned, the assembly was in a complete uproar. The men around Deinus and Polyaratus were now openly daring to speak on Perseus’ behalf, while the party around Theaedetus was stunned by what was happening.
+When Parmenion and Morcus, the envoys from Gentius, and with them Metrodorus, arrived at Rhodes, and the council had been summoned, the assembly was in a complete uproar. The men around Deinus and Polyaratus were now openly daring to speak on Perseus’ behalf, while the party around Theaedetus was stunned by what was happening.
 
-For the arrival of the galleys, the number of cavalry that had been lost, and Gentius’ defection crushed them.
+For the arrival of the galleys, the number of cavalry that had been lost, and [...] Gentius’ defection crushed them.
 
 So the outcome of the assembly followed naturally from what has just been said: the Rhodians voted to give both kings a friendly answer, to tell them that they had decided to put an end to the war, and to urge each of them not to make difficulties over peace terms.
 
@@ -150,17 +150,17 @@ They also received Gentius’ envoys at the common hearth with great friendlines
 
 ## Book 29 Chapter 12: On Proportion in History
 
-Again, other writers have gone on at length about the Syrian war. The reason for this is what I have already explained more than once.
+[...] Again, other writers on the Syrian war. The reason for this is what I have already explained more than once.
 
 For when men take a simple and straightforward subject and yet want not the facts but the bulk of their books to make them seem like historians, and want that sort of display to create the impression of importance, it becomes necessary for them to make small things big, and to dress up matters that were briefly stated, and in some cases to turn incidental happenings into full-scale actions and affairs—staging contests and announcing battle lines in which sometimes ten infantrymen fell, sometimes only a little more, and cavalry even fewer than that.
 
-As for sieges, geography, and similar topics, no one could say their treatment is adequate, so far as they develop them at all, because they have no material to work with.
+As for sieges, geography, and similar topics, no one could adequately describe how far they work these up, given their lack of real material.
 
 But the opposite is true for those who write universal history: and so one should not blame us as if we were dragging out events when we sometimes pass over things that others have given great attention and embellishment, and sometimes mention them only briefly; rather, one should trust that we give each subject the treatment it deserves.
 
-For when those writers describe, somewhere in the course of their whole work, the siege of Phanoteia or Coroneia or Haliartus, they are forced to set out every contrivance, every bold move, and every detail of the siege, and beyond that to dwell on the capture of Tarentum, Corinth, Sardis, Gaza, Bactra, and, above all, Carthage, adding details of their own; yet they are not at all satisfied if we give a plain and truthful account of such matters.
+For when those writers describe, somewhere in the course of their whole work, the siege of Phanoteia or Coroneia or Haliartus, they are forced to set out every contrivance, every bold move, and every detail of the siege, and beyond that [...] to dwell on the capture of Tarentum, Corinth, Sardis, Gaza, Bactra, and, above all, Carthage, adding details of their own; yet they are not at all satisfied if we give a plain and truthful account of such matters.
 
-The same judgment should apply to our treatment of battles and speeches, and likewise to the other parts of history: in all these matters we would fairly deserve much forgiveness, and the same is true of what I am about to narrate, even if I should seem inconsistent in my subject matter, in my handling of events, or in my style of expression; and also if I should sometimes slip in the names of mountains, rivers, or local places. The size of the undertaking itself is excuse enough in all these matters, unless I am caught deliberately making false statements for gain; for that I ask no pardon, as I have repeatedly and expressly said in this work.
+The same judgment should apply to our treatment of battles and speeches, and likewise to the other parts of history: in all these matters we would fairly deserve much forgiveness, and the same is true of what I am about to narrate, for instance if [...] I should seem to use the same material, the same handling of events, or the same expressions; and also if I should anywhere make slips in the names of mountains or rivers or in the particular features of places. The size of the undertaking itself is excuse enough in all these matters, unless I am caught deliberately making false statements for gain; for that I ask no pardon, as I have repeatedly and expressly said in this work.
 
 ## Book 29 Chapter 13: Character of Gentius
 
@@ -184,7 +184,7 @@ Polybius says that the Romans fell on them while they were still asleep, but Nas
 
 ## Book 29 Chapter 16: Battle of Pydna
 
-Polybius says that when the moon was eclipsed, the rumor spread among many of Perseus’ Macedonians that it meant the king himself was being eclipsed.
+Polybius says that when the moon was eclipsed, the rumor prevailed among the multitude, in the time of Perseus the Macedonian, that it signified the eclipse of a king.
 
 This made the Romans bolder and brought the Macedonians low in spirit.
 
@@ -202,7 +202,7 @@ As time went on and the strain grew heavier, Perseus’ spirit gave way, like at
 
 ## Book 29 Chapter 18: Perseus Flees the Battle to “Sacrifice”
 
-The Macedonian king, as Polybius says, lost his nerve just as the battle was getting under way and rode off to the city, pretending that he was sacrificing to Heracles—fitting cowardly rites for a cowardly man, and prayers that the god would not accept.
+The Macedonian king, as Polybius says, lost his nerve just as the battle was getting under way and rode off to the city, pretending that he was sacrificing to Heracles, a god who does not accept cowardly offerings from cowards or fulfill unlawful prayers.
 
 ## Book 29 Chapter 19: The Senate Makes an Example of the Rhodian Ambassadors
 
@@ -218,7 +218,7 @@ The senate, taking advantage of the moment and wanting to make an example of the
 
 They did not think that this embassy had been sent by the Rhodians for the sake either of the Greeks or of themselves, but for Perseus.
 
-For if they had been sent on behalf of the Greeks, the more fitting time would have been when Perseus was ravaging Greek territory and cities, while encamped in Thessaly for almost two years.
+For if they had been sent on behalf of the Greeks, the more fitting time would have been when Perseus was ravaging Greek territory and cities, while encamped in Thessaly for almost two years [...].
 
 But to let that time pass by, and now to come eagerly seeking an end to the war, when our armies had entered Macedonia and Perseus was shut in with only the faintest hope of survival, made it plain to anyone who judged matters rightly that they had sent their embassy not to end the war, but to rescue Perseus and save him as far as they could.
 
@@ -232,7 +232,7 @@ Then the man who took up the Roman language addressed those in the senate, telli
 
 Rather, he said, it was precisely when a man was enjoying the greatest success, whether in private life or in public affairs, that he should be most mindful of the possibility of a reversal.
 
-For only in that way could a person show moderation even amid prosperity.
+For even so, a man can hardly show himself moderate in times of prosperity.
 
 He said that this was what distinguished foolish men from sensible ones: the one class learn only from their own misfortunes, the other from the misfortunes of others.
 
@@ -246,7 +246,7 @@ In his treatise on Fortune, wishing to show people clearly how changeable Fortun
 
 For would you have believed, fifty years earlier, if any god had foretold it, that by this time not even the name of the Persians would remain at all—those who had been masters of almost the whole inhabited world—while the Macedonians, whose name was scarcely known before, would become masters of it all?
 
-And yet Fortune, whose action in our lives is unpredictable, who is always making new things out of what lies beyond our reckoning and showing her power through the unexpected, is even now, in my view, making this plain to all men: she has brought the Macedonians into the prosperity once enjoyed by the Persians, because she has used these blessings with them too, until she decides something else about them.
+And yet Fortune, whose action in our lives is unpredictable, who is always making new things out of what lies beyond our reckoning and showing her power through the unexpected, is even now, in my view, making this plain to all men: she has brought the Macedonians into the prosperity once enjoyed by the Persians, because she has lent these blessings to them too, until she decides something else about them.
 
 “And that is what has now happened in the case of Perseus. So Demetrius, as though inspired by some divine mouth, has spoken prophetically about the future.
 
@@ -274,7 +274,7 @@ But Archon, Lycortas, and Polybius thought it right to give the kings help in ac
 
 For by then it had happened that the younger Ptolemy had been proclaimed king by the crowd because of the crisis, while the elder had come back from Memphis and was ruling jointly with his brother.
 
-Since they were asking for every kind of support, they sent Eumenes and Dionysodorus to the Achaeans, requesting one thousand foot soldiers and two hundred cavalry, with Lycortas to command the infantry and Polybius the cavalry.
+Since they were asking for every kind of support, they sent Eumenes and Dionysodorus to the Achaeans, requesting one thousand foot soldiers and two hundred cavalry, with Lycortas as commander of the whole allied force and Polybius of the cavalry.
 
 They also sent word to Theodoridas of Sicyon, asking him to raise a body of one thousand mercenaries.
 
@@ -356,6 +356,6 @@ When they arrived and found that Ptolemy’s generals had been defeated in battl
 
 In this way the Romans preserved Ptolemy’s kingdom, which was all but ruined.
 
-Thus Fortune so shaped the affairs of Perseus and the Macedonians that the outcome in Alexandria and in the whole of Egypt was decided by it: that is, by the earlier decision of what should be done with Perseus.
+Thus Fortune so shaped the affairs of Perseus and the Macedonians that Alexandria and the whole of Egypt, though brought to the last extremity, were set upright again, simply because the affairs of Perseus had already been decided.
 
 For if that had not taken place and been settled, I do not think Antiochus would have obeyed the orders given him.

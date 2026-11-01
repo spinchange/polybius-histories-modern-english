@@ -1,0 +1,11 @@
+{"batch":"sonnet_101","units":[
+{"book":18,"chapter":"1","verdict":"CLEAN","findings":[],"note":""},
+{"book":18,"chapter":"2","verdict":"CLEAN","findings":[],"note":""},
+{"book":18,"chapter":"3","verdict":"CLEAN","findings":[],"note":""},
+{"book":18,"chapter":"4","verdict":"CLEAN","findings":[],"note":""},
+{"book":18,"chapter":"5","verdict":"CLEAN","findings":[],"note":""},
+{"book":18,"chapter":"6","verdict":"FINDINGS","findings":[{"quote":"the magnitude of the honors that had been bestowed on them by the Achaeans","problem":"Greek: τὸ μέγεθος τῶν τιμῶν τῶν ἀπηντημένων αὐτοῖς παρὰ τῶν Ἀχαιῶν. The honors are those the Achaeans paid to the Macedonian kings (Antigonus and Philip), not to the Achaeans. In the English, 'them' follows 'conferred upon them by Antigonus' where 'them' = the Achaeans, so it reads as Achaeans honored by Achaeans. The Greek pronoun αὐτοῖς is itself loose, but the sense is fixed by context.","proposed_fix":"the magnitude of the honors that the Achaeans had paid to Antigonus and to himself","touches_syntax":false,"confidence":"medium"}],"note":"Rest of chapter matches the Greek."},
+{"book":18,"chapter":"7","verdict":"CLEAN","findings":[],"note":"Greek has editorial [μὴ] before δοκεῖν and [ἦσαν]; English 'not wishing to seem so' is acceptable and the Greek there is uncertain, so no fix proposed."},
+{"book":18,"chapter":"8","verdict":"CLEAN","findings":[],"note":""},
+{"book":18,"chapter":"9","verdict":"CLEAN","findings":[],"note":""}
+]}

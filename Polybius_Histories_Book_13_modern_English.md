@@ -4,7 +4,7 @@ Modern English translation of the Greek text.
 
 ## Book 13 Chapter 1: The Aetolians
 
-Because of the unbroken succession of wars and the extravagance of their way of life, the Aetolians had slipped into debt without realizing it themselves, much less anyone else.
+Because of the unbroken succession of wars and the extravagance of their way of life, the Aetolians had slipped into debt unnoticed, not only by others but even by themselves.
 
 So, being naturally inclined toward a change in their own constitution, they chose Dorimachus and Scopas to draft laws for them, thinking that these men were, by temperament, eager for upheaval and were also deeply entangled in many ordinary financial obligations. After receiving this authority, they wrote the laws.
 
@@ -26,7 +26,7 @@ Yet even this was not enough for him, since he had long trained himself to press
 
 ## Book 13 Chapter 3: Philip’s Treacherous Conduct, 204 BC
 
-This was the kind of villainy that followed—a thing no one could call kingly, though some nowadays choose to describe it as necessary to practical statesmanship because of the bad faith now so widely prevalent.
+[...] was engaged in this kind of villainy—a thing no one could call kingly, though some nowadays choose to describe it as necessary to practical statesmanship because of the bad faith now so widely prevalent.
 
 The men of old were very far from behaving in such a way. They were so alien to plotting against friends for the sake of increasing their own power that they did not even choose to conquer enemies by deceit, because they believed that no success was either glorious or secure unless a man, fighting openly, had defeated his opponents by breaking their spirit.
 
@@ -62,7 +62,7 @@ The prytaneis, already distrustful of Philip because of his misconduct in Cretan
 
 But when he came before them, he explained the reasons for which he had fled from Philip.
 
-For Philip wished above all either to manage the whole business himself or at least to keep his intentions in these matters from becoming apparent to the Rhodians. And by this means he cleared Heracleides of suspicion.
+For, he said, Philip would have been willing to undertake anything rather than let his intentions in these matters become apparent to the Rhodians. And by this means he cleared Heracleides of suspicion.
 
 It seems to me that nature has shown truth to be the mightiest of divinities for mankind and has added to it the greatest power.
 
@@ -102,7 +102,7 @@ But if any of them refused and tried to put off his demand, he would make a spee
 
 When he had said this, the figure I mentioned a little earlier was brought in.
 
-After greeting the man, the figure, once he had raised the woman from her seat and embraced her with his arms, would gradually draw him toward her breasts.
+After greeting the man, Nabis would raise the figure from its seat, have it put its arms around him, and gradually draw him toward its breast.
 
 Its forearms and hands were full of iron spikes beneath the garments, and so were its breasts.
 

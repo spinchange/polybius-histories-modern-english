@@ -1,0 +1,10 @@
+{"batch":"sonnet_078","units":[
+{"book":10,"chapter":"29","verdict":"CLEAN","findings":[],"note":""},
+{"book":10,"chapter":"30","verdict":"CLEAN","findings":[],"note":"Minor: 'from which they could both attack and remain secure' adds 'attack'; Greek has only δυναμένας σφίσιν ἀσφάλειαν παρέχεσθαι. Not sense-inverting; not flagged."},
+{"book":10,"chapter":"31","verdict":"CLEAN","findings":[],"note":""},
+{"book":10,"chapter":"32","verdict":"FINDINGS","findings":[{"quote":"Claudius’ son, though wounded, only barely and unexpectedly escaped the danger.","problem":"Greek ends with an accusative object clause (καὶ τὸν υἱὸν τοῦ Κλαυδίου τραυματίαν, μόλις καὶ παραδόξως τὸν κίνδυνον διαπεφευγότα) followed by a lacuna marker ***; the governing verb is lost. English supplies a finite verb and closes the sentence as if the text were whole.","proposed_fix":"As for Claudius’ son, wounded, who had barely and unexpectedly escaped the danger, [gap in the text]","touches_syntax":true,"confidence":"high"}],"note":"Lacuna smoothed over; mark it, do not supply the missing verb."},
+{"book":10,"chapter":"33","verdict":"CLEAN","findings":[],"note":"Final sentence is a separate fragment (Greek has a dash break and begins οἱ δὲ, 'But/And they'); English 'Then they' implies sequence with the Hannibal passage. Context of καταρράκτας passage is unknown and ἐπεβάλοντο is ambiguous, so no fix proposed."},
+{"book":10,"chapter":"34","verdict":"CLEAN","findings":[],"note":""},
+{"book":10,"chapter":"35","verdict":"CLEAN","findings":[],"note":""},
+{"book":10,"chapter":"36","verdict":"CLEAN","findings":[],"note":""}
+]}

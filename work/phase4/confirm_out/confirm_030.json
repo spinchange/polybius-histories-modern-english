@@ -1,0 +1,10 @@
+[
+{"id":"F0252","verdict":"REVISE","fix":"the magnitude of the honors that had been bestowed on Antigonus and himself by the Achaeans","reason":"αὐτοῖς = the Macedonian kings, honored by the Achaeans; English made the Achaeans honor themselves. Kept original wording otherwise."},
+{"id":"F0254","verdict":"REVISE","fix":"and stakes having these [...] are chosen [...] not alternately","reason":"Two lacunae around λαμβάνονται; 'on one side only' is supplied text. Mark both gaps, drop the bracketed note."},
+{"id":"F0256","verdict":"REVISE","fix":"one part, adjoining those fighting, [...]","reason":"Predicate lost after τοῖς διαγωνιζομένοις ***; 'locked in close combat' is invented. Use [...] only, no extra note."},
+{"id":"F0257","verdict":"REVISE","fix":"at first [...] halted, since the enemy held their pikes upright","reason":"Lacuna after τὰς μὲν ἀρχὰς must be marked; causal genitive absolute is a fair reading, so 'since' stays."},
+{"id":"F0258","verdict":"REVISE","fix":"or because he did not wish, having driven Philip from power, to leave the Aetolians as masters of the Greeks","reason":"εἴτ᾽ gives the second of two alternative motives (the first is in the lacuna), so 'nor' is wrong."},
+{"id":"F0259","verdict":"ACCEPT","fix":"[...] to prevent Antiochus from sailing along the coast","reason":"The excerpt starts mid-sentence and its governing verb is lost; 'They tried' is supplied. Later 'they' is supported by ὑφορώμενοι."},
+{"id":"F0260","verdict":"REVISE","fix":"And they themselves at once pointed out which these places were, in their ingenious arguments with one another.","reason":"τούτους = the places (τόπους); the speakers named them. 'Gave themselves away' is not the Greek. 'To their own cost' over-reads καθ᾽ αὑτῶν."},
+{"id":"F0261","verdict":"ACCEPT","fix":"there also arrived three of the ten commissioners","reason":"The Greek names three: Lentulus, Terentius, Villius."}
+]

@@ -1,0 +1,9 @@
+{"batch":"sonnet_130","units":[
+{"book":28,"chapter":"20","verdict":"FINDINGS","findings":[
+{"quote":"the envoys sent to arrange a settlement joined the envoys from Greece","problem":"Greek: συνῆψαν τῶν ἀπὸ τῆς Ἑλλάδος πρεσβευτῶν οἱ πεμφθέντες ἐπὶ τὰς διαλύσεις. The genitive is partitive: 'those of the envoys from Greece who had been sent to arrange a settlement' are the subject (verb συνάπτω, 'met/came up'). English invents two separate groups of envoys; the following speakers (Achaeans, Athenians, Eudemus of Miletus) are all the Greek envoys.","proposed_fix":"those of the envoys from Greece who had been sent to arrange a settlement came to meet him","touches_syntax":true,"confidence":"medium"},
+{"quote":"to the king’s youth","problem":"Greek: τὴν συγγένειαν καὶ τὴν ἡλικίαν τὴν τοῦ Πτολεμαίου. Both kinship and youth belong to Ptolemy; 'the king' after 'Antiochus' reads as Antiochus.","proposed_fix":"to Ptolemy’s youth","touches_syntax":false,"confidence":"low"}
+],"note":"Remainder (Naucratis, gold coin, Aristides and Theris, dowry agreement with Antiochus III) accurate."},
+{"book":28,"chapter":"21","verdict":"CLEAN","findings":[],"note":""},
+{"book":28,"chapter":"22","verdict":"CLEAN","findings":[],"note":"150 talents / 50 for a crown (στέφανον) to Rome correct."},
+{"book":28,"chapter":"23","verdict":"CLEAN","findings":[],"note":""}
+]}

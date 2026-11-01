@@ -1,0 +1,14 @@
+{"batch":"sonnet_110","units":[
+{"book":21,"chapter":"1","verdict":"CLEAN","findings":[],"note":""},
+{"book":21,"chapter":"2","verdict":"CLEAN","findings":[],"note":""},
+{"book":21,"chapter":"3","verdict":"CLEAN","findings":[],"note":""},
+{"book":21,"chapter":"3b","verdict":"CLEAN","findings":[],"note":""},
+{"book":21,"chapter":"4","verdict":"CLEAN","findings":[],"note":""},
+{"book":21,"chapter":"5","verdict":"CLEAN","findings":[],"note":""},
+{"book":21,"chapter":"6","verdict":"CLEAN","findings":[],"note":""},
+{"book":21,"chapter":"7","verdict":"CLEAN","findings":[],"note":""},
+{"book":21,"chapter":"8","verdict":"CLEAN","findings":[],"note":""},
+{"book":21,"chapter":"9","verdict":"FINDINGS","findings":[{"quote":"during the long war against Nabis the Megalopolitans, being a neighboring people, had spent all that time serving under Philopoemen and had thus gained real training in military action","problem":"Greek: τοῦ πρὸς Νάβιν πολέμου τοῖς Μεγαλοπολίταις ἀστυγείτονος ... πάντα τὸν χρόνον ὑπὸ τὸν Φιλοποίμενα τεταγμένος. ἀστυγείτονος (genitive singular) goes with Nabis/the war: Nabis was the neighbor of the Megalopolitans, not they the neighbor people; and the participle τεταγμένος is singular, so it is Diophanes who served under Philopoemen, not the Megalopolitans collectively.","proposed_fix":"during the long war against Nabis, who was a neighbor of the Megalopolitans, he had spent all that time serving under Philopoemen and had thus gained real training in military action","touches_syntax":true,"confidence":"medium"}],"note":""},
+{"book":21,"chapter":"10","verdict":"CLEAN","findings":[],"note":""},
+{"book":21,"chapter":"11","verdict":"FINDINGS","findings":[{"quote":"and reflecting that only by mastering the sea could he prevent the crossing of the land army and in general keep the war away from Asia, he resolved to fight a naval battle","problem":"Greek has a lacuna marked *** : καὶ καθόλου τὸν πόλεμον ἀπὸ τῆς Ἀσίας ἀποτρίβεσθαι *** βεβαίως κρατοίη τῆς θαλάττης. The text breaks off after ἀποτρίβεσθαι and resumes mid-clause with 'if/so that he might securely command the sea'; the English reads on as if the sentence were whole and supplies 'only by mastering the sea'. Mark the gap, do not invent the missing words.","proposed_fix":"and reflecting that only in this way could he prevent the crossing of the land army and in general ward the war off from Asia [text missing in the Greek] ... securely command the sea, he resolved to fight a naval battle","touches_syntax":true,"confidence":"high"}],"note":"Corrupt/lacunose passage; the exact connection between the clauses cannot be restored."}
+]}

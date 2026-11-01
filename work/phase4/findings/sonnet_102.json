@@ -1,0 +1,10 @@
+{"batch":"sonnet_102","units":[
+{"book":18,"chapter":"10","verdict":"CLEAN","findings":[],"note":""},
+{"book":18,"chapter":"11","verdict":"FINDINGS","findings":[{"quote":"the Macedonians having already been twice defeated and most of their supplies on land used up","problem":"Greek: τῶν τε Μακεδόνων προηττημένων δὶς ἤδη καὶ κατὰ γῆν πλείστων αὐτοῖς χορηγιῶν ἐκδεδαπανημένων. κατὰ γῆν most naturally goes with the twice-repeated defeat (twice already beaten, and on land), not with the supplies; πλείστων is a superlative of quantity (very great supplies/expenditures), not a proportion ('most of their supplies'). The English both misattaches the phrase and implies the stock was largely exhausted.","proposed_fix":"the Macedonians having already been twice defeated, and on land, and very large supplies having been spent by them","touches_syntax":false,"confidence":"low"}],"note":"The placement of κατὰ γῆν is mildly ambiguous in the Greek (it could conceivably qualify the expenditure); the πλείστων point is the firmer of the two. Rest of chapter sound."},
+{"book":18,"chapter":"12","verdict":"CLEAN","findings":[],"note":""},
+{"book":18,"chapter":"13","verdict":"CLEAN","findings":[],"note":""},
+{"book":18,"chapter":"14","verdict":"CLEAN","findings":[],"note":""},
+{"book":18,"chapter":"15","verdict":"CLEAN","findings":[],"note":""},
+{"book":18,"chapter":"16","verdict":"CLEAN","findings":[],"note":""},
+{"book":18,"chapter":"17","verdict":"CLEAN","findings":[],"note":""}
+]}

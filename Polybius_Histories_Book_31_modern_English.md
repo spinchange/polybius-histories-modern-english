@@ -64,7 +64,7 @@ They also voted to set up in the sanctuary of Athena a colossal statue of the Ro
 
 When the people of Calynda revolted from the Caunians, and the Caunians afterward undertook to besiege them, the Calyndians at first appealed to the Cnidians.
 
-When the Cnidians came to their aid, they held out against their enemies for a time, but, anxious about what would happen next, they sent an embassy asking the Rhodians to take them and their city into their protection.
+When the Cnidians came to their aid, they held out against their enemies for a time, but, anxious about what would happen next, they sent an embassy [...], entrusting themselves and their city.
 
 The Rhodians sent support both by land and by sea, raised the siege, and took over the city.
 
@@ -120,7 +120,7 @@ He said that he had not agreed to it willingly, but had done what was demanded o
 
 He begged the Senate to assign Cyprus to him, arguing that even if this were done his share would still be far inferior to his brother’s.
 
-But the supporters of Canuleius and Quintus testified against Menyllus and the envoys who had come from the elder brother, saying that the younger brother owed not only Cyrene but even his life to them, since the hostility and estrangement of the crowds toward him had become so severe.
+But Canuleius and Quintus and their colleagues bore witness in support of Menyllus and the envoys who had come from the elder brother, saying that the younger brother owed not only Cyrene but even his life to them, since the hostility and estrangement of the crowds toward him had become so severe.
 
 That was why, when the settlement concerning Cyrene had been granted to him unexpectedly and beyond hope, he had gladly accepted it, had offered sacrifices, and had both received and sworn the oaths with his brother.
 
@@ -210,7 +210,7 @@ Stay sober, and remember to mistrust: these are the sinews of good sense.
 
 ## Book 31 Chapter 14: Demetrius Slips Away from Rome
 
-After reading this and understanding the situation, and who the men were and who had sent them, Demetrius at once pretended that he was going aboard for the voyage and slipped away, his friends escorting him part of the way.
+After reading this and understanding the situation, and who the men were and who had sent them, Demetrius at once pretended to be sick with nausea and took his leave, his friends escorting him part of the way.
 
 When he reached his lodging, he sent off the unnecessary servants to Anagnia, ordering them to take the nets and the dogs and meet him at Circeii.
 
@@ -254,7 +254,7 @@ They therefore gave up the idea of pursuit, both because they thought he had alr
 
 After some days they appointed as envoys Tiberius Gracchus, Lucius Lentulus, and Servilius Glaucia, who were first to inspect affairs among the Greeks, then to cross over into Asia and keep watch on the situation concerning Demetrius, examine the intentions of the other kings, and clear up the disputed issues involving the Galatians that were mentioned earlier.
 
-This was why they appointed Tiberius, because he had been an eyewitness of the whole situation.
+This was why they appointed Tiberius [...] to have been an eyewitness of everything.
 
 And this was the state of affairs in Italy.
 
@@ -264,7 +264,7 @@ Demetrius, meanwhile, was intent on the arrival of the man who was to be sent to
 
 Artaxias wanted to recover [text missing]; but at Ariarathes’ urging he did not do so, and instead treated the man with greater honor than before. So great is the power that belongs to justice by its very nature, and so great too are the judgments and counsels of good men, that they often save not only friends but even enemies and change their characters for the better.
 
-The finest quality of any letter is its power to establish goodwill.
+Beauty is a stronger recommendation than any letter of introduction.
 
 ## Book 31 Chapter 17: Ptolemy Disbands His Mercenaries
 
@@ -362,7 +362,7 @@ The greatest and finest proof of Lucius Aemilius’s character became plain to e
 
 For the impression formed of his way of life while he was alive was found to be true even after he had passed away; and that, one might say, is the strongest evidence of virtue.
 
-Though he had brought more gold from Iberia to Rome than any of his contemporaries, had become master of immense treasures in Macedonia, and had possessed the fullest authority in all these matters, he nevertheless left his private fortune in such a state that his family could not repay his wife’s entire dowry out of the household property unless they sold off some of the landed estate as well. I have spoken of this in detail earlier.
+Though he had brought more gold from Iberia to Rome than any of his contemporaries, had become master of immense treasures in Macedonia, and had possessed the fullest authority in all these matters, he nevertheless left his private fortune in such a state that [...] his family could not repay his wife’s entire dowry out of the household property unless they sold off some of the landed estate as well. I have spoken of this in detail earlier.
 
 From this one may say that the reputation of the Greek statesmen admired on this score is eclipsed.
 
@@ -414,7 +414,7 @@ As for the studies in which I now see you and your brother taking such pains and
 
 For at present I see a whole crowd of such people pouring in from Greece.
 
-But in the matter that troubles you now most of all, as you say, I think you would find no one among us better suited to stand beside you and help you.”
+But in the matter that troubles you now most of all, as you say, I think you would find no one better suited than me to stand beside you and help you.”
 
 While Polybius was still speaking, Scipio took his right hand in both of his own and pressed it warmly. “If only I could see that day,” he said, “when you, putting everything else second, would devote your attention to me and live with me as my companion.
 
@@ -438,7 +438,7 @@ So great a lack of self-mastery had fallen upon the youth in matters of this kin
 
 Indignant at this, Marcus once said to the people that they could see most clearly from such things how far the constitution had declined, when handsome boys fetched a higher price than farms, and jars of preserved fish than teamsters.
 
-This ambition first came into prominence at the time we are speaking of, first because, now that the Macedonian monarchy had been overthrown, the Romans thought their supremacy over the whole world beyond dispute, and then because a great display of prosperity had arisen both in private life and in public affairs, from the wealth brought from Macedonia to Rome.
+This tendency blazed out, as it were, at the time we are speaking of, first because, now that the Macedonian monarchy had been overthrown, the Romans thought their supremacy over the whole world beyond dispute, and then because a great display of prosperity had arisen both in private life and in public affairs, from the wealth brought from Macedonia to Rome.
 
 But Scipio, setting himself toward the opposite manner of life, resisting every desire, and making his conduct throughout consistent and harmonious, within perhaps his first five years made his reputation for discipline and self-control known to everyone.
 
@@ -458,7 +458,7 @@ For apart from the adornment of her own person and carriage, the baskets, cups, 
 
 And along with these went the large number of maidservants and household attendants who followed in her train.
 
-This entire establishment, immediately after Aemilia’s funeral, Scipio gave to his mother, who had long since been separated from Lucius and whose means of support were less ample than her noble birth would suggest.
+This entire establishment, immediately after Aemilia’s funeral, Scipio gave to his mother [...], who had long since been separated from Lucius and whose means of support were less ample than her noble birth would suggest.
 
 So, whereas before that time she had kept away from distinguished public appearances, when by chance there came a splendid and well-attended sacrifice, she went out with Aemilia’s full equipment and provision, and with the same muleteers, team, and carriage besides.
 
@@ -470,7 +470,7 @@ This, then, was the first beginning of his reputation for nobility of character,
 
 ## Book 31 Chapter 27: Scipio Pays His Aunts’ Dowries Early
 
-After this, he was obliged to pay the remaining half of the dowries owed to the daughters of Scipio the Great, who were the sisters of his adoptive father.
+After this, he was obliged to pay the remaining half of the dowries owed to the daughters of Scipio the Great, who were the sisters of his adoptive father [...].
 
 For his father had agreed to give each of the two daughters fifty talents, and of this amount their mother had immediately paid one half to their husbands, while at her death she left the other half still owing.
 
@@ -484,7 +484,7 @@ When Tiberius and Scipio Nasica—for these were the husbands of the women just 
 
 For, they said, according to the law they should receive not the whole amount now, but only the third part at present.
 
-But when he insisted that Scipio had given exactly those instructions, they believed him and went on to the young man, supposing that he did not understand the matter. Nor was this unreasonable.
+But when he insisted that Scipio had given exactly those instructions, they did not believe him and went on to the young man, supposing that he did not understand the matter. Nor was this unreasonable.
 
 For no one in Rome would pay fifty talents before the three years were up—indeed, not even a single talent before the appointed day.
 
@@ -570,7 +570,7 @@ In Asia, Prusias sent envoys to Rome together with Galatians to bring accusation
 
 Eumenes in turn sent his brother Attalus to answer the charges.
 
-Ariarathes also sent to Rome a golden crown worth ten thousand gold pieces, together with envoys who were to explain to the senate the answer he had given to Tiberius and, more generally, to urge them to state plainly whatever they required, since he was ready to do whatever the Romans commanded.
+Ariarathes also sent to Rome a golden crown worth ten thousand gold pieces, together with envoys who were to explain to the senate his meeting with Tiberius and, more generally, to urge them to state plainly whatever they required, since he was ready to do whatever the Romans commanded.
 
 ## Book 31 Chapter 33: Demetrius Courts Tiberius and Wins Recognition
 

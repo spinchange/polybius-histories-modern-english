@@ -1,0 +1,9 @@
+{"batch":"sonnet_012","units":[
+{"book":1,"chapter":"81","verdict":"FINDINGS","findings":[{"quote":"neither gave them up nor allowed it; they warned those present","problem":"Greek is οἱ δ᾽ οὔτ᾽ ἔδοσαν, προεῖπόν τε τοῖς παροῦσιν: they did not give (the bodies) and (te) warned those present. There is no second negated verb 'allowed it'; the English invents one and splits the sentence wrongly.","proposed_fix":"did not give them up, and they warned those present","touches_syntax":false,"confidence":"medium"}],"note":""},
+{"book":1,"chapter":"82","verdict":"CLEAN","findings":[],"note":"Ends mid-sentence in the Greek (ἐν | τούτοις ἦν in ch. 83); the [...] marker is correct."},
+{"book":1,"chapter":"83","verdict":"CLEAN","findings":[],"note":""},
+{"book":1,"chapter":"84","verdict":"CLEAN","findings":[],"note":""},
+{"book":1,"chapter":"85","verdict":"CLEAN","findings":[],"note":""},
+{"book":1,"chapter":"86","verdict":"CLEAN","findings":[],"note":""},
+{"book":1,"chapter":"87","verdict":"CLEAN","findings":[],"note":"Greek has active τὸν ... ἐπαναγαγόντα for Hanno (text possibly doubtful); English 'was now brought back into command' gives the evident sense, left unflagged."}
+]}

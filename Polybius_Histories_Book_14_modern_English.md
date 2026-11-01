@@ -36,7 +36,7 @@ This latter camp was easier to approach and its huts were especially fit to be b
 
 Yet I think the events of this Olympiad especially will make an impression on readers, first because in this period the wars in Italy and Libya reached their conclusion. And who would not wish to learn what sort of outcome and ending they had?
 
-For by nature all people, even if they gladly follow each separate action and speech in detail, nevertheless long to know the end of each story.
+For by nature all people, even if they take in the particular actions and speeches only in outline, nevertheless long to know the end of each story.
 
 Besides this, it happened that at the same time the intentions of the kings became especially plain. For what had previously been said about them as rumor was then clearly recognized by everyone, even by those who had no desire at all to pry into public affairs.
 
@@ -130,7 +130,7 @@ Any one of these things by itself would have been enough to strike terror into h
 
 Therefore no one alive could, even by exaggeration, adequately match what happened, so completely did this disaster surpass all the events mentioned before in sheer horror.
 
-For that reason, although Scipio accomplished many great and noble deeds, this seems to me the finest and boldest of all his achievements.
+For that reason, although Scipio accomplished many great and noble deeds, this seems to me the finest and boldest of all his achievements [...]
 
 ## Book 14 Chapter 6: Anda Surrenders to Rome
 
@@ -158,7 +158,7 @@ Others urged that envoys should be sent to Publius to discuss an armistice and s
 
 For, they said, he had withdrawn nearby to Abba and was gathering together those who had escaped the danger. In the end this last opinion prevailed.
 
-So they set about collecting forces, sent out Hasdrubal, and dispatched messengers to Syphax, begging him to assist them and to hold to the original plan, since a general with forces would very soon join him [...]
+So they set about collecting forces, sent out Hasdrubal, and dispatched messengers to Syphax, begging him to assist them and to hold to the original plan, since very soon the general, with his forces [...]
 
 ## Book 14 Chapter 7: Carthaginians Reinforced and Resolute
 
@@ -228,7 +228,7 @@ In Carthage, where there had already been great disorder, an even greater upheav
 
 Still, those among the advisers who seemed the most manly urged that they should now put to sea with the fleet against those besieging Utica, attempt to raise the siege, and fight a naval battle with the enemy, who were unprepared in that respect.
 
-They also argued that men should be sent to Hannibal and that they should omit no extreme measure in testing even this hope, since both enterprises offered, on reasonable grounds, great opportunities for saving themselves.
+They also argued that men should be sent to Hannibal and that they should, without any delay, put even this hope to the test, since both enterprises offered, on reasonable grounds, great opportunities for saving themselves.
 
 Others said the times no longer allowed such measures, and that they must fortify the city and prepare for a siege; for chance, if only they remained united, would offer them many opportunities.
 

@@ -1,0 +1,9 @@
+{"batch":"sonnet_037","units":[
+{"book":4,"chapter":"1","verdict":"CLEAN","findings":[],"note":""},
+{"book":4,"chapter":"2","verdict":"CLEAN","findings":[],"note":""},
+{"book":4,"chapter":"3","verdict":"FINDINGS","findings":[{"quote":"regarding nothing as belonging to others and everything as theirs to plunder","problem":"Greek: οὐδὲν οἰκεῖον, πάντα δ᾽ ἡγούμενοι πολέμια. οἰκεῖον means 'friendly/kindred', opposed to πολέμια 'hostile': they regard nothing as friendly and everything as hostile. The English inverts/misreads the antithesis.","proposed_fix":"regarding nothing as friendly and everything as hostile","touches_syntax":false,"confidence":"high"}],"note":""},
+{"book":4,"chapter":"4","verdict":"CLEAN","findings":[],"note":"The phrase τῶν ἐξηρμένων τὸν ἄνδρα κατὰ πάντα τρόπον is obscure; the English is an acceptable rendering and left alone."},
+{"book":4,"chapter":"5","verdict":"FINDINGS","findings":[{"quote":"he had in effect handed over the whole of his command to Dorimachus","problem":"Greek: παρακεχωρήκει τούτῳ τῆς ὅλης ἀρχῆς, after 'Δωριμάχου καὶ Σκόπα'. τούτῳ is singular and its antecedent is ambiguous; the nearest name is Scopas, and Scopas is the one who leads the action that follows. The English silently resolves it to Dorimachus. The singular may be a corruption of τούτοις (both).","proposed_fix":"he had in effect handed over the whole of his command to the latter","touches_syntax":false,"confidence":"low"}],"note":"Genuinely ambiguous or possibly corrupt (τούτῳ vs τούτοις); 'the latter' keeps the Greek's own ambiguity. Numbers checked: Philip aged 17 (ἑπτακαίδεκα) is correct."},
+{"book":4,"chapter":"6","verdict":"CLEAN","findings":[],"note":""},
+{"book":4,"chapter":"7","verdict":"CLEAN","findings":[],"note":""}
+]}

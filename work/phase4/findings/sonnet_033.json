@@ -1,0 +1,9 @@
+{"batch":"sonnet_033","units":[
+{"book":3,"chapter":"82","verdict":"CLEAN","findings":[],"note":""},
+{"book":3,"chapter":"83","verdict":"CLEAN","findings":[],"note":""},
+{"book":3,"chapter":"84","verdict":"CLEAN","findings":[],"note":""},
+{"book":3,"chapter":"85","verdict":"CLEAN","findings":[],"note":""},
+{"book":3,"chapter":"86","verdict":"CLEAN","findings":[],"note":""},
+{"book":3,"chapter":"87","verdict":"CLEAN","findings":[],"note":"Not in the listed error classes, so no finding: ὁ λεγόμενος λιμόψωρος is 'hunger-mange' (ψώρα), rendered 'scurvy'; ch. 88 renders the same condition (ψώρα) as 'mange'. Editor may wish to look."},
+{"book":3,"chapter":"88","verdict":"FINDINGS","findings":[{"quote":"he encamped near the place called Vibo","problem":"Greek has τὸ καλούμενον Οἰβώνιον (Oebonium/Vibinum in Daunia, in Apulia). 'Vibo' reads as Vibo Valentia in Bruttium, a different place far to the south.","proposed_fix":"he encamped near the place called Oebonium","touches_syntax":false,"confidence":"medium"}],"note":"Ch. ends mid-word (περὶ πεντήκοντα στα...); 'fifty stades' is the obvious completion, not a defect."}
+]}

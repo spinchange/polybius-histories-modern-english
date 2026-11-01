@@ -1,0 +1,11 @@
+{"batch":"sonnet_077","units":[
+{"book":10,"chapter":"1","verdict":"CLEAN","findings":[],"note":""},
+{"book":10,"chapter":"21","verdict":"CLEAN","findings":[],"note":""},
+{"book":10,"chapter":"22","verdict":"UNSURE","findings":[],"note":"Final sentence (εἰ δέ ποτε γένοιντο τῶν ἀρχόντων τινὲς ... πλείω κατὰ τῶν ὀλιγωρούντων διὰ τὴν κακοζηλωσίαν ἀπεργάζονται τοὺς πεζούς, ἔτι δὲ μᾶλλον τοὺς ἱππεῖς) is syntactically hard and possibly corrupt: τοὺς πεζούς/τοὺς ἱππεῖς are the objects of ἀπεργάζονται, whereas the English makes the infantrymen the negligent victims of harm ('do more harm ... to negligent infantrymen') and adds 'often'. The Greek may mean that such officers turn out infantry (and still more cavalry) more effective than those of the negligent; the English sense may be inverted, but the Greek is too uncertain to propose a fix. Rest of chapter is accurate."},
+{"book":10,"chapter":"23","verdict":"CLEAN","findings":[],"note":""},
+{"book":10,"chapter":"24","verdict":"CLEAN","findings":[],"note":""},
+{"book":10,"chapter":"25","verdict":"CLEAN","findings":[],"note":""},
+{"book":10,"chapter":"26","verdict":"FINDINGS","findings":[{"quote":"And so, by abusing the freedom he enjoyed while staying among them, he deeply offended many of the Achaeans, and especially the respectable men among them.","problem":"Greek reads διὸ καὶ χρώμενος τῇ κατὰ τὴν παρεπιδημίαν ἐξουσίᾳ *** ἀνέδην πολλοὺς ἐλύπει τῶν Ἀχαιῶν: there is a lacuna (***) after ἐξουσίᾳ that the English smooths over; 'abusing' and 'deeply' are not in the Greek (χρώμενος = using; ἀνέδην = without restraint).","proposed_fix":"And so, using the authority he held during his stay among them [lacuna in the Greek], he distressed many of the Achaeans without restraint, and especially the respectable men among them.","touches_syntax":false,"confidence":"high"}],"note":""},
+{"book":10,"chapter":"27","verdict":"CLEAN","findings":[],"note":""},
+{"book":10,"chapter":"28","verdict":"CLEAN","findings":[],"note":"ἐκ μακροῦ (built 'from great distances') could be temporal ('long beforehand'); ambiguous, not flagged."}
+]}

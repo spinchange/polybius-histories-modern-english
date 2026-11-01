@@ -1,0 +1,13 @@
+[
+{"id":"F0410","verdict":"REVISE","fix":"but also within Greece itself [...] and you make yourself answerable","reason":"Real lacuna (*) after ἐν τοῖς Ἑλληνικοῖς; mark it, keep existing wording; καὶ διδοῖς = 'and you make yourself answerable'."},
+{"id":"F0411","verdict":"REVISE","fix":"because he foretold the times for sailing out in the regions of the strait","reason":"προσημαίνοντα τοὺς ἔκπλους: signaled in advance the sailings (weather/timing), not 'routes'. Causal reading of participle is acceptable."},
+{"id":"F0412","verdict":"REVISE","fix":"from hunting them the galeotes grow fat—fish which, he says, are also called swordfish and sea-dogs","reason":"ἐκ τῆς θήρας αὐτῶν: from hunting them (likely the tuna), not feeding on dolphins; 'them' keeps Greek ambiguity. καὶ…καὶ = 'and'."},
+{"id":"F0413","verdict":"REVISE","fix":"[...] the very matters in which he refutes those men is he free of them.","reason":"Continues ch.5 'not even in [...]' (ἀλλ᾽ οὐδ᾽ ἐν αὐτοῖς): he is not free of popular pronouncements; English inverted the sense."},
+{"id":"F0414","verdict":"ACCEPT","fix":"more than eleven thousand two hundred stades","reason":"μυρίων καὶ πλειόνων ἢ διακοσίων ἐπὶ τοῖς χιλίοις = 10,000 plus more than 1,200."},
+{"id":"F0415","verdict":"ACCEPT","fix":"across the Sardinian Sea the distance is reduced","reason":"λαμβάνειν συναγωγήν: the distance contracts across the Sardinian Sea; hence the concession 'let that too be three thousand'."},
+{"id":"F0416","verdict":"REVISE","fix":"but by sea voyage it is five hundred stades less.","reason":"πεντακοσίων δέουσαν: falling short of the 3,000 by 500, not under 500 in total. Candidate's added '2,500' is interpolation."},
+{"id":"F0417","verdict":"ACCEPT","fix":"Polybius in the thirty-fourth book says that Lemnos is called Aethaleia.","reason":"Articular τὴν Λῆμνον is the subject; Αἰθάλειαν is the predicate name."},
+{"id":"F0418","verdict":"REVISE","fix":"that the seas are connected by channels [...] from the fact that Chian and Thasian pottery is found in the Naro","reason":"Real lacuna (***) after τὰ πελάγη; mark with [...] per convention, keep ἀπὸ τοῦ εὑρίσκεσθαι as inference."},
+{"id":"F0419","verdict":"REJECT","fix":"","reason":"The '...' is Strabo's excerpt omission, not a lacuna mark; elsewhere unmarked in this edition. κατ᾽ ἐκεῖνον = 'according to him' already."},
+{"id":"F0420","verdict":"REJECT","fix":"","reason":"λοιπὸν ἦν τῷ ὄντι: the verse really applied; 'the poet’s words were literally true' conveys the sense acceptably. No sense error."}
+]

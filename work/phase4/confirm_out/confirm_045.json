@@ -1,0 +1,10 @@
+[
+{"id":"F0401","verdict":"ACCEPT","fix":"at once sent Telecles and Anaxidamus of Megalopolis again","reason":"ἐξ αὐτῆς is the Polybian adverb 'immediately'; 'from among themselves' misreads it."},
+{"id":"F0403","verdict":"REVISE","fix":"[...] to offer him five hundred talents if he would surrender Cyprus","reason":"Opening lacuna; governing verb and subject lost. Use project marker [...] and drop invented 'They were'."},
+{"id":"F0404","verdict":"REVISE","fix":"In the years that followed, Ariarathes [...], when he recovered the kingdom, demanded the money from them.","reason":"Lacuna after Ἀριαράθου before ὅτε clause; mark it with [...] in place, minimal change."},
+{"id":"F0405","verdict":"REJECT","fix":"","reason":"παρὰ τοῦ Προυσίου goes with ἀνακεχωρηκότων: Roman envoys returned from Prusias, hence 'three other'. English correct (only 'at once' omitted, outside quote)."},
+{"id":"F0406","verdict":"REVISE","fix":"Such was the course taken by events in the dispute between Attalus and Prusias, and [...]","reason":"ὅ τε expects a second member lost in the lacuna; mark break with [...] rather than closing the sentence."},
+{"id":"F0407","verdict":"REVISE","fix":"summoning prominent men to join him [...]; and when he arrived at Ephesus","reason":"Lacuna after ἀνδρῶν; 'to join him' renders προσεκαλεῖτο, so keep it and mark the gap with [...]."},
+{"id":"F0408","verdict":"ACCEPT","fix":"since they were, by birth, the offspring of King Antiochus","reason":"κατὰ φύσιν means by birth/natural descent, not legitimacy; Polybius treats the claim as fraudulent."},
+{"id":"F0409","verdict":"ACCEPT","fix":"He also says in the thirty-third book that Demetrius—the man who escaped from his hostage life at Rome and became king of Syria—was a heavy drinker","reason":"Athenaeus fragment: ἐν τῇ τρίτῃ καὶ τριακοστῇ cites Polybius' book 33, not Demetrius' age."}
+]

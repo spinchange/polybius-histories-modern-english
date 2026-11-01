@@ -1,0 +1,23 @@
+{"batch":"sonnet_081","units":[
+{"book":11,"chapter":"1","verdict":"CLEAN","findings":[],"note":"Greek says the six elephants fell 'ἅμα τοῖς ἀνδράσιν' (together with the men); English glosses this as 'their riders'. The Greek does not say whose men; left as is, ambiguous. The English lead-in 'than had been expected' is not in the Greek fragment but alters no sense."},
+{"book":11,"chapter":"1a","verdict":"CLEAN","findings":[],"note":"'οὐ προγραφὰς ... ἀλλὰ καὶ προεκθέσεις' could also be read 'not only summaries but also introductions'; the rest of the chapter (προγραφαί used only in books 1-6) supports the English substitution reading."},
+{"book":11,"chapter":"2","verdict":"FINDINGS","findings":[
+{"quote":"because of the generals sent out from Carthage to Iberia","problem":"The Greek has a lacuna: 'διὰ τὸ *** τοὺς ἐπαποστελλομένους ἐκ Καρχηδόνος εἰς Ἰβηρίαν στρατηγούς'. A verb (infinitive after διὰ τὸ) is missing, so what the generals did or failed to do is lost. The English reads on as if the text were whole.","proposed_fix":"because [lacuna in the Greek] the generals sent out from Carthage to Iberia","touches_syntax":false,"confidence":"high"},
+{"quote":"with courage worthy of the son of Barca","problem":"Greek 'ἀξίως μὲν τοῦ πατρὸς Βάρκα' = worthily of his father Barca (Hamilcar). The English makes the standard the 'son of Barca', which misidentifies who is the model.","proposed_fix":"worthily of his father Barca","touches_syntax":false,"confidence":"high"}
+],"note":""},
+{"book":11,"chapter":"3","verdict":"FINDINGS","findings":[
+{"quote":"could no longer even remain in Italy","problem":"Greek 'τότε μηδ᾽ ἐν Ἰταλίᾳ νομίζειν παρεῖναι' = they thought he was not even present in Italy. The English turns this into a modal claim that he could not remain.","proposed_fix":"was not even in Italy","touches_syntax":false,"confidence":"medium"},
+{"quote":"Yet another declared","problem":"Greek 'ὁ δὲ' is a definite singular subject ('but he'), not 'another'. The antecedent is lost in the excerpt (likely Hannibal, the last person named), so the identity is uncertain; 'another' is unwarranted.","proposed_fix":"But he declared","touches_syntax":false,"confidence":"low"}
+],"note":"Antecedent of 'ὁ δὲ' is uncertain because the excerpt is a fragment; do not name Hannibal in the English."},
+{"book":11,"chapter":"4","verdict":"CLEAN","findings":[],"note":""},
+{"book":11,"chapter":"5","verdict":"CLEAN","findings":[],"note":""},
+{"book":11,"chapter":"6","verdict":"FINDINGS","findings":[
+{"quote":"but if not, they were to call the gods and the ambassadors then present from the other Greek states to witness","problem":"Greek has a lacuna: 'ἑτοίμως δέχεσθαι *** τοὺς θεοὺς καὶ τοὺς πρεσβευτὰς ... ἐπιμαρτυραμένους χωρίζεσθαι'. The alternative clause ('but if not') is not in the Greek; it is supplied by the translator, smoothing the gap.","proposed_fix":"[lacuna in the Greek] they were to call the gods and the ambassadors then present from the other Greek states to witness","touches_syntax":true,"confidence":"medium"}
+],"note":""},
+{"book":11,"chapter":"7","verdict":"FINDINGS","findings":[
+{"quote":"had very nearly failed to get Attalus into his hands","problem":"Greek 'παρὰ μικρὸν ἔλθοι τοῦ λαβεῖν τὸν Ἄτταλον ὑποχείριον' = he came within a little of capturing Attalus (and missed him). The English 'nearly failed to get' implies he almost missed but did get him, inverting the sense of the lament.","proposed_fix":"had come very close to getting Attalus into his hands","touches_syntax":false,"confidence":"high"},
+{"quote":"showing bad judgment in the former case and bad temper in the latter","problem":"Greek 'κακῶς μὲν πρὸ τοῦ, κακῶς δὲ τότε χρώμενος τῷ θυμῷ' = using his temper badly before and badly then. The same fault (θυμός) is meant on both occasions; the English invents a contrast between judgment and temper.","proposed_fix":"giving way to his temper badly before and badly now","touches_syntax":false,"confidence":"high"}
+],"note":""},
+{"book":11,"chapter":"8","verdict":"CLEAN","findings":[],"note":""},
+{"book":11,"chapter":"9","verdict":"CLEAN","findings":[],"note":"'ὁμολογουμένως' is rendered 'by common agreement'; the sense is closer to 'undeniably', but this is not a sense error."}
+]}

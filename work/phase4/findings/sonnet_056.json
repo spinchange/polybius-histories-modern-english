@@ -1,0 +1,9 @@
+{"batch":"sonnet_056","units":[
+{"book":5,"chapter":"56","verdict":"CLEAN","findings":[],"note":""},
+{"book":5,"chapter":"57","verdict":"FINDINGS","findings":[{"quote":"and second for warning him that his dealings with Ptolemy and, in general, his excessive agitation had not escaped notice","problem":"The participles ἐγκαλῶν καὶ διαμαρτυρόμενος (reproaching, protesting) govern the first charge (ἐπὶ τῷ τετολμηκέναι διάδημα περιθέσθαι); the second item is δεύτερον δὲ προλέγων ὡς οὐ λανθάνει κοινοπραγῶν Πτολεμαίῳ, i.e. Antiochus himself WARNS (προλέγων) Achaeus that it is not unknown he is acting in concert with Ptolemy. The English makes Achaeus be reproached 'for warning him', inverting agent and sense.","proposed_fix":"and second, warning him beforehand that it was not unknown to him that he was acting in concert with Ptolemy and, in general, was stirring more than was proper","touches_syntax":true,"confidence":"high"}],"note":""},
+{"book":5,"chapter":"58","verdict":"CLEAN","findings":[],"note":""},
+{"book":5,"chapter":"59","verdict":"CLEAN","findings":[],"note":""},
+{"book":5,"chapter":"60","verdict":"CLEAN","findings":[],"note":"Greek breaks off mid-word (ἀσφα-) at the chunk edge; the English completes the sentence from the next chunk, which is a chapter-boundary effect, not a lacuna."},
+{"book":5,"chapter":"61","verdict":"CLEAN","findings":[],"note":"Chapter begins mid-word (λείας) and ends mid-sentence (ἐξ ἐφόδου καὶ); the English marks the end with [...]."},
+{"book":5,"chapter":"62","verdict":"CLEAN","findings":[],"note":"Chapter begins and ends mid-sentence in the Greek; chunk-boundary only."}
+]}

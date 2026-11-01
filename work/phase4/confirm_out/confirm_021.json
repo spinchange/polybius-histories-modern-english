@@ -1,0 +1,12 @@
+[
+{"id":"F0168","verdict":"ACCEPT","fix":"it was impossible, by carrying hay or barley on their backs from a great distance, to supply so large a body of cavalry and so many pack animals","reason":"Datives τοσαύτῃ ἵππῳ / τοσούτοις ὑποζυγίοις are those supplied, not the carriers; ἢ is 'or'."},
+{"id":"F0169","verdict":"ACCEPT","fix":"since, without their cavalry, even a fight on equal terms was of doubtful issue for them","reason":"καί qualifies τὸν ἐξ ἴσου κίνδυνον; χωρὶς τῶν ἱππέων means lacking their cavalry, not setting it aside."},
+{"id":"F0170","verdict":"REVISE","fix":"they may become eager to imitate them [...].","reason":"Lacuna after ζηλωταὶ γίνωνται must be marked; keep sentence end. Following 'For what seems…' partly reconstructs the lost governing words."},
+{"id":"F0171","verdict":"REVISE","fix":"it is clear that, when the sun sets, the degree diametrically opposite it must rise.","reason":"Genitive absolute δύναντος τούτου omitted; τὴν κατὰ διάμετρον refers to μοῖραν (degree), not a sign."},
+{"id":"F0172","verdict":"HUMAN","fix":"wait there with his force, passing the time as if at [...]","reason":"ὡς ἐπὶ * πρεπίου is corrupt; 'quietly' is not in the Greek. Mark gap per convention; translator may annotate."},
+{"id":"F0174","verdict":"ACCEPT","fix":"[...] For the Aetolians alone among the Greeks stood face to face with Antipater","reason":"Source breaks after παρασπόνδησις...; γάρ opens a separate fragment. Normalized to [...] convention."},
+{"id":"F0175","verdict":"ACCEPT","fix":"set about attacking Pylus by sea, by force and in breach of treaty","reason":"ἐπεβάλοντο = attempted; Pylus was not taken (cf. 4.16). 'Piratical' absent from Greek."},
+{"id":"F0176","verdict":"ACCEPT","fix":"because alone among the Greeks they had resolved, under compulsion, to remain quiet during the Persian invasion","reason":"κατ᾽ ἀνάγκην omitted; it is the point of the rhetorical contrast."},
+{"id":"F0177","verdict":"REJECT","fix":"","reason":"Passive διακλαπῆναι regularly means to slip away secretly, escape; 'had not escaped' is correct."},
+{"id":"F0179","verdict":"ACCEPT","fix":"Arsinoe is a city of Libya. [...] The ethnic is Arsinoites","reason":"Ellipsis in the Stephanus entry marks omitted text; English joined across it."}
+]

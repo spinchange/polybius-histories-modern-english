@@ -80,7 +80,7 @@ Areus and Alcibiades, by contrast, proposed that each exile should receive prope
 
 Serippus argued that the existing constitutional arrangement should remain in place, the same one under which Sparta had once shared citizenship with the Achaeans.
 
-Representatives of those who had been executed or banished under decrees of the Achaeans, headed by Chaeron, appeared as well, demanding permission to return and the restoration of the constitution in that form, [...] and they all addressed arguments against the Achaeans suited to their own particular causes.
+Representatives of those who had been executed or banished under decrees of the Achaeans, headed by Chaeron, appeared as well, demanding permission to return and the restoration of the constitution in that form, [...] they addressed arguments regarding the Achaeans suited to their own particular causes.
 
 Since the senate could not reach a clear judgment on the separate disputes, it appointed three men who had already before this been sent to the Peloponnese on these matters: Titus, Quintus Caecilius, and Appius Claudius.
 
@@ -122,7 +122,7 @@ Titus, however, forced him to catch at least some brief glimpse of the seriousne
 
 For once, seeing him at a drinking-party dancing in long robes, Titus said nothing at the time; but the next day, when Deinocrates met him and made some request concerning his country, he replied, “Deinocrates, I will do everything I can. But I am amazed that you can dance after drinking, when you have set such serious troubles in motion among the Greeks.”
 
-At that moment he seems to have drawn himself together a little and to have learned that he was displaying habits and tastes ill suited to the situation.
+At that moment he seems to have drawn himself together a little and to have learned that he had set before himself an undertaking ill suited to his own inclination and nature.
 
 Even so, he came to Greece with Titus convinced that, in a single stroke, Messenian affairs would be arranged according to his own wishes.
 
@@ -234,7 +234,7 @@ With his mind in such distress and turmoil, who would not reasonably conclude th
 
 This will become even clearer from what follows.
 
-Philip king of the Macedonians, after killing many Macedonians, also took action against their sons, repeating, they say, the same verse:
+Philip king of the Macedonians, after killing many Macedonians, also killed their sons, repeating, they say, the same verse:
 
 “A fool, who kills the father and leaves the sons behind.”
 
@@ -252,7 +252,7 @@ In all of them one may see that brothers who fall into anger and rivalry against
 
 But all those who have had the moderation to cherish one another and to bear with each other’s failings prove the preservers of all these things and live out their lives with the noblest reputation and glory.
 
-I have often directed your attention to the kings at Sparta, telling you that they preserved for their fatherland the leadership of Greece for so long because, obeying the ephors as though they were parents, they endured sharing the kingship with one another.
+I have often directed your attention to the kings at Sparta, telling you that they preserved for their fatherland the leadership of Greece for just as long as, obeying the ephors as though they were parents, they endured sharing the kingship with one another.
 
 But when they quarrelled and turned the government into monarchy, then they made Sparta taste every kind of evil.
 
@@ -306,7 +306,7 @@ Those who do such things seem to me gravely mistaken. For to the same degree tha
 
 ## Book 23 Chapter 16: Lycortas Defeats Messene
 
-Lycortas, the general of the Achaeans, had broken the spirit of the Messenians by the war. * The Messenians had long been terrified of their leaders, but now at last some of them dared to speak out, trusting in the enemy reserve force, and said that envoys should be sent to negotiate a settlement.
+Lycortas, the general of the Achaeans, had broken the spirit of the Messenians by the war. [...] The Messenians had long been terrified of their leaders, but now at last some of them dared to speak out, trusting in the enemy reserve force, and said that envoys should be sent to negotiate a settlement.
 
 Deinocrates and his associates, no longer able to face the people because they were hard-pressed [...] by the turn of events, gave way and withdrew to their own homes.
 

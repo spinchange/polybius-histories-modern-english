@@ -60,7 +60,7 @@ One of these was Gaius Laelius, who from youth to the end of his life shared in 
 
 He said that Publius’ first notable exploit came when his father fought the cavalry engagement against Hannibal near the river called the Po.
 
-At that time, apparently, he was in his eighteenth year and was serving his first campaign in the field. His father had assigned him a troop of picked horsemen for protection; but when in the crisis of the battle he saw his father surrounded by the enemy with only two or three cavalrymen beside him and dangerously wounded, he first tried to urge those with him to go help his father.
+At that time, apparently, he was in his seventeenth year and was serving his first campaign in the field. His father had assigned him a troop of picked horsemen for protection; but when in the crisis of the battle he saw his father surrounded by the enemy with only two or three cavalrymen beside him and dangerously wounded, he first tried to urge those with him to go help his father.
 
 When they shrank back in fear because of the number of enemies massed around him, he himself, it seems, charged recklessly and boldly into the men encircling his father.
 
@@ -124,7 +124,7 @@ This may be taken as the first and greatest proof of the judgment I have just de
 
 At only twenty-seven years of age, he first committed himself to an enterprise which, because of the scale of previous disasters, most people regarded as entirely hopeless.
 
-Second, once he had undertaken it, he passed over the obvious and commonplace measures that everyone could see and instead devised and proposed actions that the enemy themselves did not anticipate.
+Second, once he had undertaken it, he passed over the obvious and commonplace measures that everyone could see and instead devised and proposed actions that neither the enemy [...].
 
 None of this was done apart from the most exact calculation.
 
@@ -202,7 +202,7 @@ The city itself lies in a hollow. On the southern side it has a level approach f
 
 The largest of these lies to the east of the city and stretches out toward the sea; on it stands a temple of Asclepius.
 
-Opposite it on the west is another hill in a corresponding position, on which a richly built palace stands, said to have been made by Hasdrubal when he was aiming at monarchical power.
+Opposite it on the west is the [...] hill, in a corresponding position, on which a richly built palace stands, said to have been made by Hasdrubal when he was aiming at monarchical power.
 
 The remaining three lower hills enclose the city on the north.
 
@@ -536,7 +536,7 @@ For he was no longer merely trying widows, nor content with seducing married wom
 
 He would summon some women’s sons and others’ husbands on absurd pretexts and bully them, displaying great licentiousness and lawlessness.
 
-And so, by abusing the freedom he enjoyed while staying among them, he deeply offended many of the Achaeans, and especially the respectable men among them.
+And so, using the license he enjoyed while staying among them [...] without restraint, he distressed many of the Achaeans, and especially the respectable men among them.
 
 Yet because war hemmed them in on every side, they were compelled to endure and bear what was against their nature.
 
@@ -666,7 +666,7 @@ When their scout signaled that some men were coming over the crest above them, t
 
 They struck down Claudius at the first clash, together with some others, and after wounding the rest forced them to flee in different directions down the rough ground.
 
-The men in camp saw what was happening but were in no way able to come to the rescue of those in danger. While they were still shouting out and reeling from the shock of what had happened—some bridling their horses, others putting on armor—the affair was already over. Claudius’ son, though wounded, only barely and unexpectedly escaped the danger.
+The men in camp saw what was happening but were in no way able to come to the rescue of those in danger. While they were still shouting out and reeling from the shock of what had happened—some bridling their horses, others putting on armor—the affair was already over. Claudius’ son, wounded, who had barely and unexpectedly escaped the danger, [...]
 
 Thus Marcus fell because he had behaved in a way more innocent than general-like in the circumstances I have described.
 
@@ -906,7 +906,7 @@ If this happens, then clearly, since everything is equal and alike, the fluid wi
 
 And when by experiment this operation has proved equal in speed and in agreement, the two vessels are to be taken to the places where the parties will watch for the beacon-signals and each side is to set down its vessel.
 
-Then whenever one of the items written on the rod occurs, he says a torch should be raised and held until the observers opposite raise one in answer. Once both torches are visible, the outlets are to be opened immediately.
+Then whenever one of the items written on the rod occurs, he says a torch should be raised and held until the observers opposite raise one in answer. Once both torches are visible at the same time, they are to be lowered, and then the outlets are to be opened at once.
 
 Then, when the cork and the rod sinking with it bring the desired inscription level with the rim of the vessel, he directs that the torch should be raised.
 
@@ -984,7 +984,7 @@ Therefore one should not give up any useful art because of its apparent difficul
 
 This, then, is what I have gone on to say in accordance with my original promise. For I said that in our own time all the arts have advanced so far that most branches of knowledge have in a way become methodical sciences.
 
-And that is why properly organized history is supremely useful in this matter too.
+And that is why this too proves the most useful part of a properly composed history.
 
 ## Book 10 Chapter 48: Antiochus Crosses the Arius
 
@@ -1030,6 +1030,6 @@ Pressed by Panaetolus and his men, they did not stop until they rejoined Euthyde
 
 The king’s cavalry, after killing many and taking many alive, withdrew and bivouacked that night by the river.
 
-In this engagement the king’s horse was killed after being wounded, while Antiochus himself was struck in the mouth and lost some teeth, and above all won a high reputation for courage on that day.
+In this engagement the king’s horse [...] was killed after being wounded [...], while Antiochus himself was struck in the mouth and lost some teeth, and above all won a high reputation for courage on that day.
 
 After this battle Euthydemus, in alarm, withdrew with his army to the city of Zariaspa in Bactria.

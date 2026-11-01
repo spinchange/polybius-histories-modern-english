@@ -1,0 +1,22 @@
+{"batch":"opus_042","units":[
+{"book":39,"chapter":"1","verdict":"CLEAN","findings":[],"note":""},
+{"book":39,"chapter":"2","verdict":"CLEAN","findings":[],"note":""},
+{"book":39,"chapter":"3","verdict":"CLEAN","findings":[],"note":"Lacuna (***) before 'he undertook to explain' is correctly marked [...]. 'καταμόνους' looks corrupt; the English renders the plain sense without resolving it."},
+{"book":39,"chapter":"4","verdict":"FINDINGS","findings":[
+ {"quote":"For as he went through the cities to sell the property of all who had been associated with Diaeus, he was doing so also for men who had been convicted, except for those who had children or parents.",
+  "problem":"The subject τοῦτον is the treasurer (ὁ ταμίας), not Polybius; in the English 'he' reads as Polybius. Also τῶν καὶ κατακριθέντων describes the same group (Diaeus' associates who had also been condemned), not a second group: πωλεῖν τὰς οὐσίας πάντων τῶν τῷ Διαίῳ κοινωνησάντων, τῶν καὶ κατακριθέντων, ὅσοι μὴ παῖδας ἢ γονέας εἶχον.",
+  "proposed_fix":"For the treasurer was going through the cities selling the property of all who had been associated with Diaeus and had also been condemned, so far as they had no children or parents.",
+  "touches_syntax":true,"confidence":"medium"}],"note":""},
+{"book":39,"chapter":"5","verdict":"FINDINGS","findings":[
+ {"quote":"When these arrangements had been completed, the ten commissioners,",
+  "problem":"Number omitted: ταῦτα δὲ διοικήσαντες ἐν ἓξ μησὶν οἱ δέκα — they completed these arrangements in six months.",
+  "proposed_fix":"When they had completed these arrangements in six months, the ten commissioners,",
+  "touches_syntax":false,"confidence":"high"}],"note":""},
+{"book":39,"chapter":"6","verdict":"FINDINGS","findings":[
+ {"quote":"After the Roman general had separated from the assembly in Achaea,",
+  "problem":"μετὰ τὸ χωρισθῆναι ἐξ Ἀχαΐας τὸ συνέδριον: the subject of the departure is the council (the ten commissioners), which left Achaea; the general did not separate from an assembly.",
+  "proposed_fix":"After the council of commissioners had departed from Achaea, the Roman general",
+  "touches_syntax":true,"confidence":"high"}],"note":"Outside the error classes, not flagged: 'for a long time held great authority' renders μέγαν καιρὸν ... ἔχων καὶ μεγάλην ἐξουσίαν ('having great opportunity and great power'); 'for a long time' is not in the Greek. Fixing the quote above requires the following clause to keep 'he repaired...' with the general as subject."},
+{"book":39,"chapter":"7","verdict":"CLEAN","findings":[],"note":"Ptolemy 'king of Syria' = Ptolemy VI Philometor (crowned in Syria 145 BC); the Greek has τῆς Συρίας βασιλεὺς, so the English is faithful. Outside the error classes, not flagged: ἐπανείλετο means 'put to death', not 'prosecuted' (the next clause about no Alexandrian dying confirms this). Worth an editor's look."},
+{"book":39,"chapter":"8","verdict":"CLEAN","findings":[],"note":"139th Olympiad (ἐνάτη καὶ τριακοστὴ πρὸς ταῖς ἑκατόν) is correct. Outside the error classes: 'and were worthy of the gratitude due to Roman goodwill' loosely renders χάριν ἀξίαν τῆς πρὸς Ῥωμαίους εὐνοίας ('a return worthy of [our] goodwill toward the Romans')."}
+]}

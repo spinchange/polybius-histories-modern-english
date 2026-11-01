@@ -1,6 +1,6 @@
 Seam report
   known: 9
-  unterminated: 2
+  unterminated: 1
 
 B03 L395 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | ## Book 3 Chapter 21: Romans Demand Surrender of Hannibal
 B03 L445 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | Its terms run roughly as follows: “On these conditions there shall be friendship between t
@@ -10,6 +10,5 @@ B03 L1579 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | Flamini
 B04 L1435 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | Be that as it may, when a clear and bright day had dawned, the king at first light drew up
 B06 L449 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | In addition to these they carry two heavy javelins (pila), a bronze helmet, and a greave. 
 B12 L479 [unterminated] paragraph ends without terminal punctuation before heading | hose who have applied themselves to written records, [...] [the text breaks off]
-B12 L729 [unterminated] paragraph ends without terminal punctuation before heading | perly handled by others, [he leaves none of them...] [...] [the text breaks off]
 B16 L207 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | ## Book 16 Chapter 11: Philip’s Operations in Caria, 201 BC
 B22 L111 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | ## Book 22 Chapter 6: Envoys Accuse Philip Before the Senate

@@ -1,0 +1,8 @@
+{"batch":"sonnet_030","units":[
+{"book":3,"chapter":"62","verdict":"CLEAN","findings":[],"note":"Ends at Greek break (πάν-); English marks it with [...]."},
+{"book":3,"chapter":"63","verdict":"CLEAN","findings":[],"note":"Opens mid-word (τες ἐμακάριζον) completing ch. 62; English begins 'altogether fortunate' consistently."},
+{"book":3,"chapter":"64","verdict":"FINDINGS","findings":[{"quote":"they do not dare to face us head-on","problem":"Greek: ὅτι μόνον οὐ τολμῶσι κατὰ πρόσωπον ἰδεῖν ἡμᾶς. μόνον οὐ means 'all but / very nearly', so the Carthaginians all but do not dare; the English states it flatly and drops the hedge.","proposed_fix":"they all but do not dare to face us head-on","touches_syntax":false,"confidence":"medium"}],"note":"Otherwise accurate."},
+{"book":3,"chapter":"65","verdict":"CLEAN","findings":[],"note":""},
+{"book":3,"chapter":"66","verdict":"CLEAN","findings":[],"note":""},
+{"book":3,"chapter":"67","verdict":"CLEAN","findings":[],"note":"Ends at Greek break (τῶν τόπων); English marks it with [...]."}
+]}

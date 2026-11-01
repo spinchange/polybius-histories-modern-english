@@ -1,0 +1,19 @@
+{"batch":"sonnet_098","units":[
+{"book":16,"chapter":"20","verdict":"CLEAN","findings":[],"note":""},
+{"book":16,"chapter":"21","verdict":"FINDINGS","findings":[
+{"quote":"naturally courageous","problem":"Greek has a lacuna marked *** : 'στρατηγεῖν μὲν γὰρ ... δυνατὸς ἦν, καὶ *** ἀνδρώδης ὑπῆρχε τῇ φύσει'. The English reads on as if the clause were whole; the gap is smoothed over.","proposed_fix":"[text missing] courageous by nature","touches_syntax":false,"confidence":"medium"}],
+"note":"Greek breaks off at 'προχειρότερος ἐγίνετο πρὸς τὰς' and the English completes it from the next chapter's opening (ξενικὰς καὶ στρατιωτικὰς χάριτας); acceptable seam, not flagged."},
+{"book":16,"chapter":"22","verdict":"FINDINGS","findings":[
+{"quote":"and increasingly contrasted him with Sosibius","problem":"Greek: 'τὸν δὲ Σωσίβιον ἐκ παραθέσεως ἐθαύμαζον' - they ADMIRED Sosibius by comparison. The English drops the admiration (ἐθαύμαζον) and invents 'increasingly'; the next sentence (ἐδόκει γὰρ οὗτος ...) gives the grounds for the admiration.","proposed_fix":"and by comparison admired Sosibius","touches_syntax":false,"confidence":"medium"}],
+"note":""},
+{"book":16,"chapter":"22a","verdict":"CLEAN","findings":[],"note":"ἐξήλεγξαν τὰς ἐλπίδας is somewhat uncertain in sense; English 'proved stronger than every expectation' is not clearly wrong, so left alone."},
+{"book":16,"chapter":"23","verdict":"CLEAN","findings":[],"note":""},
+{"book":16,"chapter":"24","verdict":"FINDINGS","findings":[
+{"quote":"the people of Mylae, Alabanda, and Magnesia","problem":"Greek 'Μυλασεῖς' = people of Mylasa in Caria (not Mylae, a Sicilian place).","proposed_fix":"the people of Mylasa, Alabanda, and Magnesia","touches_syntax":false,"confidence":"high"},
+{"quote":"against the city of Mylae","problem":"Greek 'ἐπὶ τὴν Μυλασέων πόλιν' = the city of Mylasa.","proposed_fix":"against the city of Mylasa","touches_syntax":false,"confidence":"high"},
+{"quote":"For he was well aware of the embassies being sent to Rome against him, now that affairs in Libya had come to an end.","problem":"Greek has a lacuna (* and ** ) after 'πρεσβείας εἰς Ῥώμην,' before 'διόπερ πέρας ἔχει τὰ κατὰ τὴν Λιβύην' ('therefore the affairs in Libya come to an end'). The English joins them as a seamless sentence and turns 'διόπερ' into a causal 'now that', smoothing the gap.","proposed_fix":"For he was well aware of the embassies being sent to Rome against him, [text missing] ... hence the affairs in Libya were at an end.","touches_syntax":true,"confidence":"medium"}],
+"note":"The book number in the Polybius fragment is garbled in the Greek (ι#2#); English 'sixteenth' is a reasonable reading, not flagged. Fragment of Strabo/Athenaeus-type excerpting; the Greek is also textually uncertain around the lacuna."},
+{"book":16,"chapter":"25","verdict":"CLEAN","findings":[],"note":""},
+{"book":16,"chapter":"26","verdict":"CLEAN","findings":[],"note":""},
+{"book":16,"chapter":"27","verdict":"CLEAN","findings":[],"note":""}
+]}

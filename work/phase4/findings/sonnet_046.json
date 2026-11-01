@@ -1,0 +1,10 @@
+{"batch":"sonnet_046","units":[
+{"book":4,"chapter":"67","verdict":"FINDINGS","findings":[{"quote":"So this Olympiad year was drawing to a close.","problem":"The Greek opens with only the tail of a sentence from the preceding (lost/cut) chapter: ὀλυμπιάδος. There is no verb and no 'year drawing to a close'; the English invents a complete sentence and smooths the break.","proposed_fix":"[...] of the Olympiad.","touches_syntax":true,"confidence":"medium"}],"note":"Rest of chapter checked: numbers (3000 chalkaspides, 2000 peltasts, 300 Cretans, 400 horse), Aratus the elder, solstice all correct."},
+{"book":4,"chapter":"68","verdict":"CLEAN","findings":[],"note":"Numbers (two lochoi, 2200, 100 horse) correct. Greek has Φενικῆς (probably Pheneus/Pheneatis); English 'Pheneus' acceptable."},
+{"book":4,"chapter":"69","verdict":"CLEAN","findings":[],"note":""},
+{"book":4,"chapter":"70","verdict":"CLEAN","findings":[],"note":"'share a political alliance' for πολιτεύεσθαι is loose (political union) but not wrong in sense; not flagged."},
+{"book":4,"chapter":"71","verdict":"CLEAN","findings":[],"note":"καθ' ὅσον ... κατὰ τοσοῦτον correlative rendered correctly."},
+{"book":4,"chapter":"72","verdict":"FINDINGS","findings":[{"quote":"Pythias of Pallene","problem":"Πυθίαν Πελληνέα: a man of Pellene (Achaean city), not Pallene (Chalcidic place).","proposed_fix":"Pythias of Pellene","touches_syntax":false,"confidence":"high"},{"quote":"Prolaus of Sicyon","problem":"The Greek name is Πρόσλαον (accusative of Πρόσλαος), i.e. Proslaus, not Prolaus.","proposed_fix":"Proslaus of Sicyon","touches_syntax":false,"confidence":"medium"}],"note":""},
+{"book":4,"chapter":"73","verdict":"CLEAN","findings":[],"note":"Truncated start and end are marked with [...]."},
+{"book":4,"chapter":"74","verdict":"CLEAN","findings":[],"note":"Truncated start and end are marked with [...]."}
+]}

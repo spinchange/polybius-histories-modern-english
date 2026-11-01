@@ -1,0 +1,11 @@
+{"batch":"sonnet_026","units":[
+{"book":3,"chapter":"22","verdict":"CLEAN","findings":[],"note":""},
+{"book":3,"chapter":"23","verdict":"CLEAN","findings":[],"note":""},
+{"book":3,"chapter":"24","verdict":"CLEAN","findings":[],"note":"Greek has a lacuna marker (***) after 'nor found a city'; English already marks it with [...]. Preserved."},
+{"book":3,"chapter":"25","verdict":"FINDINGS","findings":[{"quote":"in the territory of whichever is at war","problem":"Greek ἐν τῇ τῶν πολεμουμένων χώρᾳ means in the territory of those being warred upon (the party attacked), not simply whichever party is at war.","proposed_fix":"in the territory of whichever is being attacked","touches_syntax":false,"confidence":"low"}],"note":"Minor sense point; the rest is accurate."},
+{"book":3,"chapter":"26","verdict":"CLEAN","findings":[],"note":""},
+{"book":3,"chapter":"27","verdict":"CLEAN","findings":[],"note":""},
+{"book":3,"chapter":"28","verdict":"CLEAN","findings":[],"note":""},
+{"book":3,"chapter":"29","verdict":"CLEAN","findings":[],"note":""},
+{"book":3,"chapter":"30","verdict":"CLEAN","findings":[],"note":""}
+]}

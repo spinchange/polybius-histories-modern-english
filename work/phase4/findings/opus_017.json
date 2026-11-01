@@ -1,0 +1,9 @@
+{"batch":"opus_017","units":[
+{"book":6,"chapter":"41","verdict":"CLEAN","findings":[],"note":""},
+{"book":6,"chapter":"42","verdict":"CLEAN","findings":[],"note":""},
+{"book":6,"chapter":"43","verdict":"CLEAN","findings":[],"note":"Lexical only, outside error classes: 'like some sudden stroke of fortune' renders ὥσπερ ἐκ προσπαίου τινὸς τύχης (as if by some sudden chance), and 'made evident by events themselves' drops the subject ἡ τύχη (Fortune). Sense not inverted."},
+{"book":6,"chapter":"44","verdict":"CLEAN","findings":[],"note":"Lexical only: πικρίᾳ is 'bitterness', rendered 'volatility'. No inversion; μὲν/δέ order (Athens/Thebes) is kept."},
+{"book":6,"chapter":"45","verdict":"CLEAN","findings":[],"note":"'by hereditary right' goes beyond ἀΐδιον (perpetual), but adds no wrong fact."},
+{"book":6,"chapter":"46","verdict":"CLEAN","findings":[],"note":"Slight softening: 'almost the same language' and 'could hardly tell' for ταῖς λέξεσι ταῖς αὐταῖς and κατὰ μηδένα τρόπον. Not a reversal."},
+{"book":6,"chapter":"47","verdict":"CLEAN","findings":[],"note":"Lexical only: νενεμημένους (entered/registered for the contest) is rendered 'won recognition'."}
+]}

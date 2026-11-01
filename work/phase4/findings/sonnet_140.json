@@ -1,0 +1,5 @@
+{"batch":"sonnet_140","units":[
+{"book":31,"chapter":"31","verdict":"CLEAN","findings":[],"note":""},
+{"book":31,"chapter":"32","verdict":"FINDINGS","findings":[{"quote":"the answer he had given to Tiberius","problem":"τὴν πρὸς τὸν Τεβέριον ἀπάντησιν αὐτοῦ: ἀπάντησις here is his encounter/meeting with Tiberius, not an answer he gave.","proposed_fix":"his meeting with Tiberius","touches_syntax":false,"confidence":"medium"}],"note":""},
+{"book":31,"chapter":"33","verdict":"CLEAN","findings":[],"note":""}
+]}

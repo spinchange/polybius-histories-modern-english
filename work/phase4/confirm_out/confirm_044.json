@@ -1,0 +1,6 @@
+[
+{"id":"F0397","verdict":"REJECT","fix":"","reason":"μικροῦ δεῖν οὐ προσεδέξατο literally 'all but / very nearly refused'; English matches the Greek. Candidate change is stylistic."},
+{"id":"F0398","verdict":"ACCEPT","fix":"Envoys came from the Athenians [...], and from the Achaeans came Thearidas and Stephanus on behalf of the Delians.","reason":"Lacuna (***) after πρέσβεις is real; marker normalized to project convention [...]."},
+{"id":"F0399","verdict":"REVISE","fix":"although he had three brothers [...] both in age and in action","reason":"Lacuna after πρᾶξιν; 'close to him' and 'active' were supplied over the gap. Remove them, mark [...], keep καὶ…καί."},
+{"id":"F0400","verdict":"ACCEPT","fix":"But after summarizing his return, I shall bring","reason":"κάθοδος means return/restoration, not downfall; same word used for Ariarathes’ return below. 'His' keeps the excerpt's ambiguous referent."}
+]

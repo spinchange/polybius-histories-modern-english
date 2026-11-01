@@ -44,11 +44,11 @@ The Mantineans were forced to abandon their city when the Spartans broke it up a
 
 Some time later the Thebans saw their own city utterly laid waste, when Alexander, intending to cross into Asia, supposed that by punishing the Thebans he would keep the Greeks in check through fear while he was occupied with his own undertakings.
 
-But at that time everyone pitied the Thebans as men who had suffered unjust and terrible treatment, and no one defended this act as just.
+But at that time everyone pitied the Thebans as men who had suffered unjust and terrible treatment, and no one defended this act of Alexander’s as just.
 
 ## Book 38 Chapter 3: The Shameful Collapse of Peloponnesians and Boeotians
 
-After Alexander’s campaign, they therefore, after a short time and with some help received, once again lived in their homeland in safety.
+They therefore, after a short time and with some help received, once again lived in their homeland in safety.
 
 For the pity shown by outsiders is no small comfort to those who suffer undeserved hardship, especially when one often sees that with the impulses of the many, fortune too changes, and those in power repent and set right the reversals of those who have suffered unexpectedly.
 
@@ -58,17 +58,17 @@ In general, cities formerly tended to fail and go astray as a rule—some becaus
 
 So you would rarely find any on whom disgrace followed their downfall, or in whom the very name of misfortune remained.
 
-For all who fall into unexpected disasters should be counted as unfortunate, both collectively and individually; but only those are truly called unfortunate whose actions bring shame because of their own folly.
+For all who fall into unexpected disasters, both collectively and individually, should be counted as unlucky; but only those are truly called unfortunate whose actions bring shame because of their own folly.
 
-In the circumstances then at issue, the Peloponnesians, Boeotians, Phocians, Locrians, some who lived by the Ionian Gulf, and after them the Macedonians too suffered alike.
+In the circumstances then at issue, the Peloponnesians, Boeotians, Phocians, [...], Locrians, some who lived by the Ionian Gulf, and after them the Macedonians too suffered alike.
 
-Not only in number, but in every way, they were not merely unfortunate in the ordinary sense, but suffered a shameful sort of misfortune, as dishonorable as possible.
+[...] not only in the number [...] of earlier ones, but also in [...]; in a word, they were not unlucky but suffered a misfortune as shameful and disgraceful as could be.
 
 For at once they showed distrust and cowardice, and their actions brought about their downfall through [...]
 
 Thus, stripped of all good things, some perished from hunger, while others, driven to desperation, even then took rods and axes into the cities [...]
 
-For they were in great fear because of the excess of their own mistakes, if it is right to say so.
+For they were in great fear because of the excess of their own mistakes—if one should call them their own.
 
 For I would say that the majority were simply ignorant and had gone astray from what was fitting, but that those who caused such widespread ignorance were themselves guilty.
 
@@ -76,13 +76,13 @@ For I would say that the majority were simply ignorant and had gone astray from 
 
 There is no need to be surprised if, by departing from the ordinary style of historical narrative, I seem to make my account of these matters more elaborate and more ambitious.
 
-Yet some may perhaps criticize me as writing with hostility, when it was above all right to conceal the mistakes of the Greeks.
+Yet some may perhaps criticize me as writing with hostility, when I, of all people, ought to have concealed the mistakes of the Greeks.
 
 But I would never consider a true friend, in the judgment of sensible men, to be one who fears and shrinks from speaking plainly, nor would I consider a good citizen to be one who abandons the truth because of the offense that may be caused at the time.
 
 Nor should a writer of public affairs be accepted at all if he thinks anything more important than truth.
 
-For the more widely the transmission of what is written reaches people, and the longer it lasts, the more the writer must value truth above all, and the readers must accept such a choice.
+For the more widely the transmission of what is written reaches people, and the longer it lasts, compared with what is said for the moment, the more the writer must value truth above all, and the readers must accept such a choice.
 
 In moments of crisis it is proper for Greeks to help Greeks in every possible way—by defending them, by softening criticism, and by warding off the anger of those in power; and that is what we ourselves did in the actual events.
 
@@ -96,7 +96,7 @@ I am not unaware that some will criticize this work, saying that I have made the
 
 For if, after setting out to describe the siege of Carthage, we then leave it aside and pass in between to Greek affairs, and from there to Macedonian or Syrian or some other events, they will complain.
 
-But those who love learning seek continuity and look forward to hearing the end of the account; for in that way both pleasure and benefit accompany those who pay attention more fully.
+And, they say, those who love learning seek continuity and look forward to hearing the end of the account; for in that way both pleasure and benefit accompany those who pay attention more fully.
 
 For my part I do not think so at all; rather the opposite. I could call nature itself to witness, since she does not allow any of the senses to remain continuously fixed on the same things, but is always inclined to change and wants to encounter the same things only at intervals and with variety.
 
@@ -107,11 +107,11 @@ Rather, what moves it is a changing manner and, in general, anything scattered, 
 Likewise one could find that taste cannot remain fixed even on the most luxurious foods, but grows weary of them and delights in changes, often welcoming plain fare more readily than rich fare because of novelty.
 The same thing can be seen in sight as well: for it can least of all remain fixed on a single object, and it is variety and change in what is seen that set it in motion.
 
-Most of all one could see this happening in the soul: changes of attention and concentration are, as it were, rests for those who labor hard [...]
+Most of all one could see this happening in the soul: changes of attention and concentration are, as it were, rests for men who labor hard.
 
 ## Book 38 Chapter 6: Polybius’s Orderly Digressions versus Earlier Historians
 
-For those who are diligent in such matters, the greatest historians of old seem to me to have taken their rest in this manner: some by means of digressions into myth and storytelling, others by means of digressions into actual history, so that they not only make transitions within the places of Greece itself, but also include matters beyond it.
+That is why the greatest historians of old seem to me to have taken their rest in this manner: some by means of digressions into myth and storytelling, others by means of digressions into actual history, so that they not only make transitions within the places of Greece itself, but also include matters beyond it.
 
 I mean, for example, that when they are recounting events in Thessaly and the deeds of Alexander of Pherae, they interrupt themselves to narrate Spartan activity in the Peloponnese, and then again the deeds of the Thebans, and further still those in Macedonia or Illyria; and then, after spending time elsewhere, they tell of Iphicrates’ expedition to Egypt and of Clearchus’ crimes in the Pontus.
 
@@ -135,15 +135,15 @@ Gulussa, however, taking a simple and nomad-like approach, came up to him alone;
 
 When Hasdrubal said, “The Romans,” Gulussa replied, “Then you should not have given yourself up to the city at all, since you had no need to do so. But what do you want, and what are you asking for?”
 
-Hasdrubal answered: “I ask you to act as an envoy to the general and to take responsibility for everything, since we will do what is ordered; only spare this miserable city.”
+Hasdrubal answered: “I ask you to act as an envoy to the general and to give every assurance that we will do what is ordered; only spare this miserable city.”
 
 Gulussa replied, “You seem to me, my good sir, to be asking for a childish favor.
 
 For when you were acting as ambassadors from an intact position and the Romans were still at Utica, you could not persuade them; how can you now expect these things to be granted to you, when you are surrounded on land and sea and have nearly given up all hope of safety?”
 
-Hasdrubal said that he did not understand him. For he still had fair hopes in his external allies; he had not yet heard about the Maurusians or the troops outside the walls, saying that they were safe; and he was by no means despairing of his own situation. Above all, he trusted in the aid of the gods and in the hopes he placed in them.
+Hasdrubal said that Gulussa did not understand the situation. For he still had fair hopes in his external allies; he had not yet heard about the Maurusians or the forces in the field; and he was by no means despairing of his own situation. Above all, he trusted in the aid of the gods and in the hopes he placed in them.
 
-For they would not, he said, allow themselves to be seen openly violating a truce, but would give many opportunities for salvation.
+For the gods, he said, would not stand by and see them so openly wronged in breach of the treaty, but would give them many opportunities for salvation.
 
 For that reason he urged the general, for the sake of the gods and of Fortune, to spare the city, knowing clearly that if they could not obtain this, they would be slaughtered before they surrendered it.
 
@@ -175,17 +175,17 @@ The number of those dying was incredible, and so too the number of those who des
 
 Then, by mocking some, abusing others, and killing others, he terrified the many, and by this means maintained power—a power that a tyrant would scarcely use even in a prosperous city, let alone in a city already brought low by disaster.
 
-So I think it was rightly said by me that among the Greeks and among the Carthaginians of that time one would not easily find two men more alike as masters of affairs.
+So I think it was rightly said by me that one would not easily find leaders of affairs more alike than those of the Greeks and of the Carthaginians at that time.
 
 That will become clear when we compare them side by side.”
 
 ## Book 38 Chapter 9: The Senate Instructs Julius’s Commissioners
 
-When the envoys who had come from the Peloponnese to Aurelius arrived and explained what had happened to them, saying that they had come very close to losing their lives altogether, and telling the story with exaggeration and novelty—for they did not describe the danger as something that had come upon them by chance, but as though the Achaeans had deliberately set out to make an example of them—the Senate was angered by what had taken place, and at once appointed the commissioners around Julius, sending them with instructions of this sort: that they should rebuke and censure what had happened, but in moderation; and that they should above all continue to exhort the Achaeans not to listen to those who urged them toward the worst course, and not to let themselves drift into hostility with Rome, but still now to make some correction for their previous ignorance by laying the blame for the error on those who caused it.
+When Aurelius and his fellow envoys arrived from the Peloponnese and explained what had happened to them, saying that they had come very close to losing their lives altogether, and telling the story with exaggeration and novelty—for they did not describe the danger as something that had come upon them by chance, but as though the Achaeans had deliberately set out to make an example of them—the Senate was angered by what had taken place, and at once appointed the commissioners around Julius, sending them with instructions of this sort: that they should rebuke and censure what had happened, but in moderation; and that they should above all continue to exhort the Achaeans not to listen to those who urged them toward the worst course, and not to let themselves drift into hostility with Rome, but still now to make some correction for their previous ignorance by laying the blame for the error on those who caused it.
 
 From this it became very clear that the Senate had given its instructions to Aurelius and his colleagues not because it wished to break the nation apart, but because it wanted to frighten and overawe the Achaeans’ arrogance and hostility.
 
-Some people, therefore, assumed that the Romans were acting with hypocrisy because the war in Carthage was still unfinished; but the truth was not like that.
+Some people, therefore, assumed that the Romans [...] by way of pretense, because the war in Carthage was still unfinished; but the truth was not like that.
 
 The fact is that they had long regarded the nation with favor and considered it the most trustworthy of the Greek states; and although now they thought it necessary to alarm it because it had become overbearing, they by no means wished to make war on the Achaeans or have a full-scale quarrel with them.
 
@@ -193,13 +193,13 @@ The fact is that they had long regarded the nation with favor and considered it 
 
 When the party around Sextus, coming from Rome into the Peloponnese, met the envoys around Thearidas, who had been sent by the Achaeans to ask pardon and to explain to the Senate the offenses committed against Aurelius, the men just mentioned urged them to turn back to Achaea, saying that they themselves had instructions to discuss all these matters with the Achaeans.
 
-When the party around Sextus had arrived in the Peloponnese and was speaking with the Achaeans in the city of the Aegians and using many friendly words, and when they set aside the charge against the ambassadors and scarcely felt any need of a defense, but accepted the event more kindly even than the Achaeans themselves, they urged them above all not to go any further in their error, either against the Romans or against the Lacedaemonians; the more sober-minded group welcomed what was said and was greatly ashamed, conscious of what it had done and taking before its eyes what happens to those who oppose Rome, but the mass of the people had nothing to say in answer to the justice of what the envoys from Sextus were saying. They kept silent, but remained sick at heart and corrupted.
+When the party around Sextus had arrived in the Peloponnese and was speaking with the Achaeans in the city of the Aegians and using many friendly words, and when they set aside the charge against the ambassadors and scarcely felt any need of a defense, but accepted the event more kindly even than the Achaeans themselves, they urged them above all not to go any further in their error, either against the Romans or against the Lacedaemonians; the more sober-minded group welcomed what was said and was greatly ashamed, conscious of what it had done and taking before its eyes what happens to those who oppose Rome, but the mass of the people had nothing to say in answer to the justice of what Sextus and his colleagues were saying. They kept silent, but remained sick at heart and corrupted.
 
-Meanwhile the party of Diaeus and Critolaus—and all who shared the same opinion—men who had been deliberately selected as the worst from every city, enemies of the gods and destroyers of the nation, accepted the gifts of the Romans, as the proverb says, with the left hand, and in their calculations they went completely astray.
+Meanwhile the party of Diaeus and Critolaus—and all who shared the same opinion—men who were the worst of every city, as if picked out on purpose, enemies of the gods and destroyers of the nation, accepted the gifts of the Romans, as the proverb says, with the left hand, and in their calculations they went completely astray.
 
 For they imagined that the Romans, because of their affairs in Libya and Iberia, feared a war with the Achaeans and would put up with anything and say anything.
 
-Thinking, then, that the moment was theirs, they answered the envoys with friendly words, saying that they would nevertheless send Thearidas and his colleagues to the Senate, while they themselves would accompany the commissioners to Tegea and there confer with the Lacedaemonians so that some agreed settlement of the war might be reached.
+Thinking, then, that the moment was theirs, they answered the envoys with friendly words, saying that they would nevertheless send Thearidas and his colleagues to the Senate, while they themselves would accompany the commissioners to Tegea and there confer with the Lacedaemonians [...] so that some agreed settlement of the war might be reached.
 
 By giving these answers they afterwards led the wretched nation into the folly that had long before been laid out for them.
 
@@ -247,7 +247,7 @@ When some members of the council wanted to restrain him and prevent such speeche
 
 In general he said that he had held himself in check for a long time already and could no longer bear it, but must speak what was plainly on his mind.
 
-For it was necessary, he said, not for the Lacedaemonians or the Romans to be troubled in this way, but rather for those among their own people who cooperated with the enemy; for there were some who cared more for the Romans and the Lacedaemonians than for their own affairs.
+For they ought not to fear the Lacedaemonians or the Romans so much as those among their own people who cooperated with the enemy; for there were some who cared more for the Romans and the Lacedaemonians than for their own affairs.
 
 He offered this as proof: he said that Evagoras of Aegium and Stratius of Tritaea revealed everything said in the secret meetings to the party around Gnaeus.
 
@@ -265,13 +265,13 @@ As for the envoys, Gnaeus went off to Athens and from there to Lacedaemon to wai
 
 Pytheas was the brother of Acastides the runner and the son of Cleomnastus. He had lived badly and seems to have squandered his youth.
 
-Likewise in public life he was bold and grasping, and had been shaped by Eumenes and Philataerus for the reasons already mentioned.
+Likewise in public life he was bold and grasping, and had been shaped by Eumenes and Philetaerus for the reasons already mentioned.
 
 ## Book 38 Chapter 15: Diaeus Levies Slaves and Wealth
 
 When Critolaus, the Achaean strategus, had died, and the law provided that if anything happened to the serving strategus the previous one should succeed to the office until the proper assembly of the Achaeans was held, the burden of managing public affairs fell to Diaeus.
 
-So he sent troops to Megara and then went to Argos, where he wrote to all the cities ordering them to free their household-born slaves of military age—a total of ten thousand men—arm them, and send them to Corinth.
+So he sent troops to Megara and then went to Argos, where he wrote to all the cities ordering them to free their household-born slaves of military age—a total of twelve thousand men—arm them, and send them to Corinth.
 
 He allotted the levy among the cities arbitrarily and unequally, as he did everything else.
 
@@ -309,7 +309,7 @@ Everything was full of a strange madness: people were throwing themselves into w
 
 For in earlier times they had sometimes stumbled and gone wrong in general matters, sometimes through disputes over power and sometimes through betrayal by monarchs; but in the present period they suffered a acknowledged disaster because of the foolishness of those in charge and because of their own ignorance.
 
-The Thebans abandoned the city en masse and left it completely deserted; among them Pytheas, after retreating to the Peloponnese with his wife and children, was driven from the country.
+The Thebans abandoned the city en masse and left it completely deserted; among them Pytheas, after retreating to the Peloponnese with his wife and children, wandered about the country.
 
 The enemy response seemed strange to him.
 
@@ -329,9 +329,9 @@ On hearing these, some of the men from the country cooperated, among whom was St
 
 Those who sat in council paid no attention to what Philon said.
 
-For they did not think that their safety was a common matter, but believed that Philon was speaking because he privately placed his own interest and security above everything else. So they decided to think only of the immediate situation, even though they were all equally in the wrong.
+For they did not think that their safety was a common matter, but believed that those urging this were speaking because they privately placed their own interest and security above everything else. So they decided to think only of the immediate situation, even though they failed utterly in everything.
 
-For though they clearly knew what they had done, they were in no way able to believe that they might obtain any mercy from the Romans.
+For since they clearly knew what they had done, they were in no way able to believe that they might obtain any mercy from the Romans.
 
 And they never even considered for a moment that they ought to suffer nobly whatever was necessary for the sake of the state and the salvation of the many—as befits men who claim to be leaders of Greece.
 
@@ -367,7 +367,7 @@ And everyone at the time had this saying constantly on their lips: “If we had 
 
 ## Book 38 Chapter 19: Scipio Rejects Caltrops at Carthage
 
-When he had come through the wall and found the sea between them to be not very deep, while the Carthaginians were defending themselves from the citadel, and when Polybius advised him to scatter iron caltrops or drive in sharpened stakes so that the enemy could not cross and fight from the embankments, he said it would be ridiculous, after taking the walls and being inside the city, to proceed in such a way as not to fight the enemy.
+When he had come through the wall and found the sea between them to be not very deep, while the Carthaginians were defending themselves from the citadel, and when Polybius advised him to scatter iron caltrops or drive in sharpened stakes so that the enemy could not cross and attack the embankments, he said it would be ridiculous, after taking the walls and being inside the city, to proceed in such a way as not to fight the enemy.
 
 ## Book 38 Chapter 20: Hasdrubal Begs while His Wife Reproaches Him
 
@@ -375,13 +375,13 @@ When Hasdrubal, the Carthaginian general, came as a suppliant and fell at Scipio
 
 “This is Hasdrubal, the same man who only recently rejected many humane offers made by us, saying that his country and its fire were the finest funeral pyre, and who now comes here with wreaths on his head, begging us for his life and putting all his hopes in us.
 
-Who would not, seeing this before his eyes, take it to heart that an overbearing man must never say or do anything proud?”
+Who would not, seeing this before his eyes, take it to heart that one who is only human must never say or do anything arrogant?”
 
 Then some of the deserters came forward to the edge of the roof and begged the men in front to hold back a little; but when the general ordered them to stop, they began to abuse Hasdrubal—some accusing him of perjury, saying that he had often sworn before the gods that he would not abandon them, others attacking his cowardice and, in general, the baseness of his spirit; and they did this with rough and hostile mockery and abuse.
 
 At that moment, seeing Hasdrubal seated with the general, his wife came forward from among the deserters, dressed freely and modestly, holding the children by the hand on either side and carrying their clothing with her.
 
-At first she addressed Hasdrubal by name, but when he remained silent and looked down at the ground, she called on the gods and thanked the general greatly, because not only she herself but also the children were being saved from his fate; then, after a short pause, she asked Hasdrubal how, after saying that she herself would obtain no private salvation from the general by deserting, he could so shamelessly abandon affairs and the citizens who had trusted him and go over to the enemy, and how, after that, he dared now to sit here crowned, while he had many times said that the day would never come when he would see Hasdrubal alive and his fatherland burning at the same time; and yet [...]
+At first she addressed Hasdrubal by name, but when he remained silent and looked down at the ground, she called on the gods and thanked the general greatly, because, as far as it rested with him, not only she herself but also the children were being saved; then, after a short pause, she asked Hasdrubal how, without saying a word to her, he had deserted and privately secured his own safety from the general, and how he could so shamelessly abandon affairs and the citizens who had trusted him and go over to the enemy, and how, after that, he dared now to sit beside these men holding suppliant branches, men to whom he had [...] many times that the day would never come when the sun would see Hasdrubal alive and his fatherland burning at the same time; and yet [...]
 
 [...] the rest of the passage is badly broken in the witness, but it clearly continues with reproaches about his shameful conduct and the children, and with the crowd’s sympathy for the disaster and for Fortune’s reversal.
 
@@ -399,4 +399,4 @@ When Scipio saw the city [...] then utterly ending in complete destruction, it i
 
 “The day shall come when sacred Ilium shall perish, and Priam, and Priam’s people of the spear-loving race.”
 
-Polybius asked him this boldly, for he had been his tutor; and they say that, whatever he intended by the remark, he did not mention his own fatherland openly, though he was surely thinking of the fate of human affairs and was afraid for it. Polybius himself records these things as he heard them.
+Polybius asked him this boldly, for he had been his tutor, what he meant by the words; and they say that Scipio, without holding back, named his own fatherland plainly, since it was for her, looking to the fate of human affairs, that he feared. Polybius himself records these things as he heard them.

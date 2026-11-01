@@ -1,0 +1,13 @@
+{"batch":"sonnet_136","units":[
+{"book":30,"chapter":"20","verdict":"CLEAN","findings":[],"note":""},
+{"book":30,"chapter":"21","verdict":"CLEAN","findings":[],"note":""},
+{"book":30,"chapter":"22","verdict":"FINDINGS","findings":[{"quote":"taking up behavior well suited to their own theatrical excesses","problem":"Greek has a lacuna: λαβόντες *** οἰκείαν ταῖς ἑαυτῶν ἀσελγείαις. The object of λαβόντες is lost; the English invents 'behavior' and reads on as if the text were whole.","proposed_fix":"taking *** suited to their own excesses","touches_syntax":false,"confidence":"high"}],"note":"Lacuna must be marked, not filled."},
+{"book":30,"chapter":"23","verdict":"CLEAN","findings":[],"note":""},
+{"book":30,"chapter":"24","verdict":"FINDINGS","findings":[{"quote":"go beyond normal behavior, because they think that those they meet do not recognize or clearly see that they have truly been set free","problem":"Greek: μείζω μὲν διαβαίνουσι τῆς κατὰ φύσιν κινήσεως, οὐ δοκοῦσι δὲ γινώσκεσθαι παρὰ τοῖς ἀπαντῶσιν οὐδὲ συνορᾶσθαι ... λέλυνται. A μὲν...δέ coordination, not causal; οὐ δοκοῦσι with passive infinitives = 'they seem not to be recognized ... nor clearly seen to have been freed'. English adds 'because' and turns the passives into 'they think'.","proposed_fix":"go beyond natural movement, and seem not to be recognized by those they meet, nor clearly seen to have been set free","touches_syntax":true,"confidence":"medium"}],"note":"Some editors read δοκοῦσι as 'think', so the English sense is defensible; flagged because 'because' has no Greek basis. Apply only if the editor wants the literal reading."},
+{"book":30,"chapter":"25","verdict":"FINDINGS","findings":[{"quote":"then a chariot drawn by elephants and one drawn by a pair of horses","problem":"Greek: ἐλεφάντων ἅρμα καὶ συνωρίς. Genitive ἐλεφάντων governs both: a chariot (team) of elephants and a pair (of elephants). Nothing says 'horses'.","proposed_fix":"then a chariot of elephants and a pair of elephants","touches_syntax":false,"confidence":"medium"}],"note":"Greek terse; the second item could be read as a pair-chariot of elephants. All other numbers (5000, 5000, 3000, 3000, 5000, 20000, 5000, 240 pairs, 1000, 3000, 1000, 1000, 1000, 1500, 100, 40, 36, 800, 1000, 300, 800, 1000, 600, 200, 80, 500) check against the Greek."},
+{"book":30,"chapter":"26","verdict":"CLEAN","findings":[],"note":""},
+{"book":30,"chapter":"27","verdict":"CLEAN","findings":[],"note":""},
+{"book":30,"chapter":"28","verdict":"CLEAN","findings":[],"note":""},
+{"book":30,"chapter":"29","verdict":"CLEAN","findings":[],"note":""},
+{"book":30,"chapter":"30","verdict":"CLEAN","findings":[],"note":""}
+]}

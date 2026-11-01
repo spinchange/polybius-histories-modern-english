@@ -1,0 +1,10 @@
+{"batch":"sonnet_050","units":[
+{"book":5,"chapter":"8","verdict":"FINDINGS","findings":[{"quote":"they gave orders to carry off the most valuable furnishings and whatever could be transported","problem":"Greek: τῆς μὲν κατασκευῆς τὰ πολυτελέστατα καὶ τὰ δυνατὰ κομίζεσθαι διέλεγον - they picked out/selected (διέλεγον) the most valuable furnishings, and those that could be carried; no order is given.","proposed_fix":"they picked out the most valuable furnishings, and whatever could be carried, to take away","touches_syntax":false,"confidence":"low"}],"note":"Numbers (thirty stades, fifteen thousand) correct."},
+{"book":5,"chapter":"9","verdict":"CLEAN","findings":[],"note":""},
+{"book":5,"chapter":"10","verdict":"CLEAN","findings":[],"note":"Opening Greek words τοῖς προειρημένοις complete the last sentence of ch. 9 (ἐπὶ τοῖς προειρημένοις); English ch. 10 opening is a seam paraphrase, not a sense error."},
+{"book":5,"chapter":"11","verdict":"CLEAN","findings":[],"note":""},
+{"book":5,"chapter":"12","verdict":"CLEAN","findings":[],"note":""},
+{"book":5,"chapter":"13","verdict":"FINDINGS","findings":[{"quote":"they immediately fell upon it from the direction of Thermus and pressed hard on the last men in the column","problem":"Greek: ἐπέβαλον εὐθέως εἰς τὸν Θέρμον καὶ προσέκειντο τοῖς ἐσχάτοις - they immediately burst into/occupied Thermus (which Philip's rear had just left) and pressed on the rearmost; not an attack coming from Thermus.","proposed_fix":"they immediately burst into Thermus and pressed hard on the last men in the column","touches_syntax":false,"confidence":"medium"}],"note":"Chapter-end [...] marks a seam into ch. 14 (ἀποπειρώμενος), acceptable."},
+{"book":5,"chapter":"14","verdict":"CLEAN","findings":[],"note":"Numbers 3000/400/500/100 correct."},
+{"book":5,"chapter":"15","verdict":"CLEAN","findings":[],"note":"Greek breaks off mid-word (ἀπαγα-); English ends at a full stop, an acceptable seam."}
+]}

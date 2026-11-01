@@ -1,0 +1,7 @@
+[
+{"id":"F0180","verdict":"REVISE","fix":"And so, using the license he enjoyed while staying among them [...] without restraint, he distressed many of the Achaeans, and especially the respectable men among them.","reason":"Lacuna after ἐξουσίᾳ smoothed; 'abusing'/'deeply' not in Greek. Use project [...] marker, not '[lacuna in the Greek]'; ἀνέδην placement kept ambiguous."},
+{"id":"F0181","verdict":"REVISE","fix":"Claudius’ son, wounded, who had barely and unexpectedly escaped the danger, [...]","reason":"Accusative clause with governing verb lost in lacuna; English invented finite verb. Use [...] convention, not '[gap in the text]'."},
+{"id":"F0182","verdict":"ACCEPT","fix":"Once both torches are visible at the same time, they are to be lowered, and then the outlets are to be opened at once.","reason":"καθελεῖν (lower the torches) is a distinct step omitted by the English; ἅμα also dropped."},
+{"id":"F0183","verdict":"ACCEPT","fix":"And that is why this too proves the most useful part of a properly composed history.","reason":"Subject is τοῦτο with partitive genitive of history; English wrongly made history the subject."},
+{"id":"F0184","verdict":"REVISE","fix":"In this engagement the king’s horse [...] was killed after being wounded [...],","reason":"Two lacunae (***) smoothed over; mark both with [...] at their positions, not '[text missing]'. 'King’s' recoverable from context."}
+]

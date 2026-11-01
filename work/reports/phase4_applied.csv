@@ -1,0 +1,333 @@
+id,book,chapter,verdict,old,new
+F0000,1,2,ACCEPT,a supremacy that past ages cannot match and future ages will not surpass.,a supremacy that no one now living can resist and that no one in future ages can surpass.
+F0092,1,20,ACCEPT,the Eleans and Neapolitans,the people of Elea and the Neapolitans
+F0093,1,22,ACCEPT,twenty-four feet high and a foot wide in diameter,twenty-four feet high and three palms (about nine inches) in diameter
+F0095,1,31,ACCEPT,"complete discouragement and famine: discouragement because of the panic, and famine partly because of the numbers gathered there and partly because they expected a siege","complete discouragement and famine, partly because of the numbers gathered there and partly because they expected a siege"
+F0097,1,37,ACCEPT,"and because, too, one threatening constellation had not yet set while another was on the point of rising","and because, too, one spell of stormy weather had not yet ended while another was coming on"
+F0098,1,40,ACCEPT,vying with one another for Hasdrubal’s favor,in rivalry with Hasdrubal
+F0099,1,43,REVISE,he immediately sent them out together with his own men. To deal with the Gauls he sent Hannibal,along with them he immediately sent Hannibal to the Gauls
+F0101,1,65,REVISE,an internal war broke out to receive the Romans—the one against the people called the Faliscans,an internal war awaited the Romans—the one against the people called the Faliscans
+F0102,1,81,ACCEPT,neither gave them up nor allowed it; they warned those present,"did not give them up, and they warned those present"
+F0104,2,17,ACCEPT,those lying toward the eastern part of the Po,those lying around the sources of the Po
+F0105,2,30,REVISE,"The Roman shields, that is, offered far greater protection, and their swords were far more effective in action, while the Gallic sword could only deliver a downward cut.","The Roman shields, that is, made a great difference for protection, and their swords for action [...], while the Gallic sword could only deliver a downward cut."
+F0106,2,35,ACCEPT,may exhaust all their own resources before yielding any of what is essential,may put all their own hopes to the test before yielding any of what is essential
+F0108,2,56,ACCEPT,"the killing of fellow citizens he treats as the gravest impiety, deserving the heaviest penalties","the killing of fellow citizens is held to be the gravest impiety, deserving the heaviest penalties"
+F0001,3,7,ACCEPT,"For it is no more likely that the one will ever properly arrange treatments for the body than that the man of affairs will be able to handle any situation that arises as he should, without knowledge of the things just mentioned.","For neither is it likely that the one will ever properly arrange treatments for the body, nor is it possible for the man of affairs to handle any situation that arises as he should, without knowledge of the things just mentioned."
+F0002,3,9,ACCEPT,he would at once have sought another pretext and begun preparations for action,he would at once have made a fresh beginning and begun preparations for action
+F0003,3,48,ACCEPT,because they take their initial premises to be false and irrational,because the initial premises they adopt are false and irrational
+F0004,3,49,ACCEPT,"to join in helping him secure the throne, he agreed,","to join in helping him secure the throne, [...] he agreed,"
+F0005,3,52,ACCEPT,"and attacked, [seizing] a certain gorge that was hard to pass and ringed with cliffs [...]",and attacked them in a certain gorge that was hard to pass and ringed with cliffs [...]
+F0006,3,116,ACCEPT,The Romans now had to carry on the fight over the bodies of the fallen.,[...] kept up the fight.
+F0113,3,64,REVISE,they do not dare to face us head-on,they hardly dare to face us head-on
+F0114,3,88,REVISE,he encamped near the place called Vibo,he encamped near the place called Vibonium
+F0115,3,96,ACCEPT,"When the Romans were already close at hand, they gave the signal for battle and put out to sea, having resolved to fight.","When the Romans were already close at hand, the Carthaginians gave the signal for battle and put out to sea, having resolved to fight."
+F0116,3,106,ACCEPT,handled every detail according to their judgment,handled every detail according to the consuls' judgment
+F0117,4,3,ACCEPT,regarding nothing as belonging to others and everything as theirs to plunder,regarding nothing as friendly and everything as hostile
+F0119,4,9,ACCEPT,saying that it was not possible to admit any new member apart from Philip and the other allies,saying that it was not possible to admit anyone without Philip and the allies
+F0121,4,24,ACCEPT,The king then decided the whole matter,The king spoke last of all
+F0122,4,32,REVISE,"although they had many opportunities and favourable moments, they let them slip, and at times escaped from fears and dangers as well","they slipped through many critical situations and junctures, and at times through fears and dangers as well"
+F0124,4,41,REVISE,"opposite it, at a distance of nearly a thousand stades, there has formed a long bank, lying a day’s sail out from the shore","opposite it there has formed, over a stretch of nearly a thousand stades, a long bank, lying a day’s sail out from the shore"
+F0125,4,49,REVISE,"Such, then, was the war of the Rhodians against the Byzantines.","The war of the Rhodians against the Byzantines, then—"
+F0128,4,67,ACCEPT,So this Olympiad year was drawing to a close.,[...] of the Olympiad.
+F0129,4,72,ACCEPT,Pythias of Pallene,Pythias of Pellene
+F0130,4,72,ACCEPT,Prolaus of Sicyon,Proslaus of Sicyon
+F0131,4,75,REVISE,"among them, the Eleans dwell exceptionally well off",the Eleans inhabit it to an exceptional degree
+F0132,4,81,ACCEPT,but after whom Fortune turned against them,but then Fortune turned against them
+F0134,5,6,ACCEPT,At this time Aristophanes the general arrived,At this time Aristophantus the general arrived
+F0136,5,13,ACCEPT,they immediately fell upon it from the direction of Thermus and pressed hard on the last men in the column,they immediately burst into Thermus and pressed hard on the last men in the column
+F0137,5,16,REVISE,the affair of the people of Palairos,the affair of the Paleis
+F0138,5,16,ACCEPT,"crossed the gulf, and came to anchor at Leucas as quickly as possible. There he instructed the officers","crossed the gulf, and as soon as he had anchored at Leucas he instructed the officers"
+F0139,5,24,ACCEPT,at most two stades from the city,about two stades from the city
+F0141,5,28,ACCEPT,promising that they would bring the Aetolians to agree to whatever was necessary for making peace,promising that the Aetolians would do everything required to conclude the peace
+F0142,5,29,ACCEPT,"The Aetolians, who had been hoping to exploit the situation in their own favor, were now eager to conclude peace","The Aetolians, for their part, were eager to conclude peace"
+F0144,5,52,ACCEPT,intending to launch his attack from higher ground on the right,intending to launch his attack from higher ground
+F0145,5,55,REVISE,"while farther north some parts of it look toward the Pontus in the region above the Phasis, and it stretches to the Hyrcanian Sea","while above it lie some parts of the Pontus, in the region beyond the Phasis, and it stretches to the Hyrcanian Sea"
+F0146,5,57,REVISE,"and second for warning him that his dealings with Ptolemy and, in general, his excessive agitation had not escaped notice","and second warning him that his dealings with Ptolemy and, in general, his excessive agitation had not escaped notice"
+F0147,5,66,ACCEPT,the city called Dura,the city called Dora
+F0148,5,86,ACCEPT,"sixteen of his elephants died, but most of them were recaptured","sixteen of his elephants died, and most of them were captured"
+F0149,5,91,ACCEPT,it was at this point that we broke off into our account of the Social War,it was at this point that we broke off our account of the Social War
+F0007,6,2,ACCEPT,and one may grasp the magnitude of that change from what follows.,and one may grasp the magnitude of that change from what follows. [...]
+F0008,6,7,ACCEPT,they came to think that their rulers ought to have distinctive clothing,they came to think that rulers ought to have clothing distinct from that of their subjects
+F0010,6,19,ACCEPT,within the forty-six years counted from his coming of age,before reaching the age of forty-six
+F0011,6,23,ACCEPT,ten thousand drachmas (asses),ten thousand drachmas
+F0012,6,32,ACCEPT,"place the market-place, quartermaster’s office, and headquarters between the two camps","place the market-place, quartermaster’s office, and headquarters between the two legions"
+F0013,6,33,ACCEPT,the duty falls to each maniple only once every four days,the duty falls to each maniple only every third day
+F0014,6,37,ACCEPT,and most of them are killed on the spot inside the camp itself,and most of those condemned are killed on the spot inside the camp itself
+F0151,7,1,ACCEPT,—though the Romans approved of their conduct—they finally surrendered,", they finally surrendered with the Romans’ consent"
+F0153,7,4,ACCEPT,whom all the Siceliots alone had willingly and deliberately approved as their leader and king,the only man whom all the Siceliots had willingly and deliberately approved as their leader and king
+F0154,7,11,ACCEPT,"and likewise of the Epirotes, Acarnanians, and all the others to whom in a short time he became the cause of many benefits.",and likewise of the Epirotes and Acarnanians [...] and of how many benefits he was in a short time the cause to each of them.
+F0155,7,17,REVISE,"Therefore the soldiers there stood speechless, amazed by the strangeness of the thing and at the same time, as they foresaw and feared what would happen, filled alike with dread and delight.","Therefore the soldiers there stood speechless and at the same time overjoyed, some amazed by the strangeness of the thing, others foreseeing and fearing what would happen."
+F0156,8,1,REVISE,"but were disputing over Sardinia and Sicily as well, and were trying to grasp everything",but were disputing over Sardinia and Sicily as well [...] and were trying to grasp everything
+F0157,8,6,REVISE,watching from within the city his own assaults beaten off with loss to himself and laughter from the defenders,"seeing the defenders within beat off his assaults, to his own loss and mockery"
+F0158,8,6,ACCEPT,Archimedes was ladling the sea out of his ships,Archimedes was using his ships as ladles to dip water out of the sea
+F0159,8,8a,REVISE,"Demetrius, after rashly and recklessly attempting","[...] Demetrius, after rashly and recklessly attempting"
+F0160,8,11,REVISE,"whereas someone already occupied with a royal court, if chance and opportunity offered, might perhaps shift to the greater and more illustrious name of Greece.","whereas no one already occupied with a royal court, given the opportunity, would have hesitated to make a timely change to the name and dignity of Greece."
+F0162,8,17,ACCEPT,"Delighted at first, he promised everything; but then, in some distrust, he examined in detail the several plans and preparations.","Partly overjoyed, he promised everything; partly distrustful, he examined in detail the several plans and preparations."
+F0164,8,18,REVISE,"led him by the same route by which he had come, and brought him alone before Antiochus","brought him before Antiochus, the two of them alone"
+F0166,8,21,ACCEPT,some joining Ariobazus and others Laodice,some joining Aribazus and others Laodice
+F0016,9,25,ACCEPT,"these men had divided their operations between themselves in a very grand fashion, and although","these men had been partners in affairs with each other most loyally, and although"
+F0168,9,4,ACCEPT,it was impossible for so many horsemen and so many pack animals to bring hay and barley on their backs from a great distance,"it was impossible, by carrying hay or barley on their backs from a great distance, to supply so large a body of cavalry and so many pack animals"
+F0169,9,4,ACCEPT,since even apart from the cavalry the danger of an evenly matched engagement seemed uncertain enough,"since, without their cavalry, even a fight on equal terms was of doubtful issue for them"
+F0170,9,9,REVISE,they may become eager to imitate them.,they may become eager to imitate them [...].
+F0171,9,15,REVISE,it is clear that the sign lying opposite it must be the one rising.,"it is clear that, when the sun sets, the degree diametrically opposite it must rise."
+F0174,9,30,ACCEPT,For the Aetolians alone among the Greeks stood face to face with Antipater,[...] For the Aetolians alone among the Greeks stood face to face with Antipater
+F0175,9,38,ACCEPT,set about piratical violence at sea and seized Pylus in violation of treaty,"set about attacking Pylus by sea, by force and in breach of treaty"
+F0176,9,39,ACCEPT,because alone among the Greeks they had resolved to remain quiet during the Persian invasion,"because alone among the Greeks they had resolved, under compulsion, to remain quiet during the Persian invasion"
+F0179,9,45,ACCEPT,Arsinoe is a city of Libya. Its ethnic is Arsinoites,Arsinoe is a city of Libya. [...] The ethnic is Arsinoites
+F0018,10,3,ACCEPT,he was in his eighteenth year,he was in his seventeenth year
+F0019,10,6,REVISE,instead devised and proposed actions that the enemy themselves did not anticipate.,instead devised and proposed actions that neither the enemy [...].
+F0020,10,10,ACCEPT,Opposite it on the west is another hill in a corresponding position,"Opposite it on the west is the [...] hill, in a corresponding position"
+F0180,10,26,REVISE,"And so, by abusing the freedom he enjoyed while staying among them, he deeply offended many of the Achaeans, and especially the respectable men among them.","And so, using the license he enjoyed while staying among them [...] without restraint, he distressed many of the Achaeans, and especially the respectable men among them."
+F0181,10,32,REVISE,"Claudius’ son, though wounded, only barely and unexpectedly escaped the danger.","Claudius’ son, wounded, who had barely and unexpectedly escaped the danger, [...]"
+F0182,10,44,ACCEPT,"Once both torches are visible, the outlets are to be opened immediately.","Once both torches are visible at the same time, they are to be lowered, and then the outlets are to be opened at once."
+F0183,10,47,ACCEPT,And that is why properly organized history is supremely useful in this matter too.,And that is why this too proves the most useful part of a properly composed history.
+F0184,10,49,REVISE,"In this engagement the king’s horse was killed after being wounded,","In this engagement the king’s horse [...] was killed after being wounded [...],"
+F0185,11,2,REVISE,because of the generals sent out from Carthage to Iberia,because of [...] the generals sent out from Carthage to Iberia
+F0186,11,2,REVISE,with courage worthy of the son of Barca,with courage worthy of his father Barca
+F0187,11,3,REVISE,could no longer even remain in Italy,was no longer even in Italy
+F0189,11,6,ACCEPT,"but if not, they were to call the gods and the ambassadors then present from the other Greek states to witness",[...] they were to call the gods and the ambassadors then present from the other Greek states to witness
+F0190,11,7,ACCEPT,had very nearly failed to get Attalus into his hands,had come very close to getting Attalus into his hands
+F0191,11,7,REVISE,showing bad judgment in the former case and bad temper in the latter,showing bad temper both on the former occasion and on this one
+F0192,11,13,ACCEPT,"For although the citizens in democracies are generally more eager in military struggles than the civic subjects of tyrants, the mercenaries","For to the degree that the masses in democracies are more eager in military struggles than the citizens subject to tyrants, to that same degree the mercenaries"
+F0193,11,14,ACCEPT,when the entire mercenary force had broken the Achaeans and the left wing had collapsed,when the entire Achaean mercenary force had given way and the left wing had been broken up
+F0194,11,15,ACCEPT,he neither fled in panic nor withdrew in despair.,he neither fled in panic nor withdrew in despair [...].
+F0195,11,15,ACCEPT,he immediately ordered the front companies of the phalanx to wheel with locked shields and advance at the double,he immediately wheeled the front companies of the phalanx to the left and advanced at the double
+F0196,11,15,REVISE,"Polybius the Megalopolitan to gather the remaining Illyrians, armored troops, and mercenaries who had not joined in the flight","Polyaenus the Megalopolitan to gather the remaining Illyrians, armored troops, and mercenaries who had not joined in the flight"
+F0197,11,15,ACCEPT,found himself beyond the enemy’s wing,found himself in a commanding position over the enemy’s wing
+F0198,11,16,REVISE,In just such situations it is the commanders who are most often exposed to the gravest danger.,In just such situations it happens that the commanders most [...].
+F0199,11,21,ACCEPT,Masannasan with the Numidians,Masinissa with the Numidians
+F0200,11,22,REVISE,he ordered the Iberians to keep advancing in the same formation.,"he ordered the Iberians to keep their ranks and continue advancing in the same way, [...]."
+F0201,11,22,ACCEPT,divided them behind the battle line between the two wings,"divided them, one part to each wing, behind the battle line"
+F0202,11,23,REVISE,and within each wing the infantry of the cavalry,and within each wing the infantry the reverse of the cavalry
+F0203,11,26,ACCEPT,When the tribunes had explained what had been decided,[...] When the tribunes had explained what had been decided
+F0205,11,27,REVISE,"after this first movement, they should lay down the baggage","when they were marching out [...], after this they should first lay down the baggage"
+F0206,11,30,REVISE,were brought in naked and in chains,were brought in naked and in chains [...]
+F0207,11,33,REVISE,he drew up a counterforce against the enemy stationed on the foothills,he drew up [...] against the enemy stationed on the foothills
+F0021,12,25e,ACCEPT,"—yet this is only one part, as it seems to me, of practical history.","—[...] part, as it seems to me, of practical history."
+F0022,12,25f,ACCEPT,which was straightforward and fought with the army in a single body,which was straightforward and involved only one part of the forces
+F0023,12,25k,ACCEPT,he says they had fixed their attention and learned how great a difference war makes from peace,he tells them that they must now give their attention and learn how great a difference war makes from peace
+F0024,12,28,REVISE,[he leaves none of them...] [...] [the text breaks off],none of the [...]
+F0209,12,14,REVISE,but rather what it befits themselves to do—so too with abuse,but rather what it befits themselves to do [...] so too with abuse
+F0213,13,1,REVISE,"the Aetolians had slipped into debt without realizing it themselves, much less anyone else.","the Aetolians had slipped into debt unnoticed, not only by others but even by themselves."
+F0214,13,3,ACCEPT,This was the kind of villainy that followed,[...] was engaged in this kind of villainy
+F0215,13,5,REVISE,For Philip wished above all either to manage the whole business himself or at least to keep his intentions in these matters from becoming apparent to the Rhodians.,"For, he said, Philip would have been willing to undertake anything rather than let his intentions in these matters become apparent to the Rhodians."
+F0216,13,7,ACCEPT,"After greeting the man, the figure, once he had raised the woman from her seat and embraced her with his arms, would gradually draw him toward her breasts.","After greeting the man, Nabis would raise the figure from its seat, have it put its arms around him, and gradually draw him toward its breast."
+F0218,14,1a,ACCEPT,even if they gladly follow each separate action and speech in detail,even if they take in the particular actions and speeches only in outline
+F0219,14,5,ACCEPT,this seems to me the finest and boldest of all his achievements.,this seems to me the finest and boldest of all his achievements [...]
+F0220,14,6,ACCEPT,since a general with forces would very soon join him [...],"since very soon the general, with his forces [...]"
+F0221,14,9,ACCEPT,they should omit no extreme measure in testing even this hope,"they should, without any delay, put even this hope to the test"
+F0025,15,6,ACCEPT,"and at last, though fortune had already given them warning, had advanced so far","and at last, still not taught a lesson by Fortune, had advanced so far"
+F0026,15,6,ACCEPT,"For his own part, he said, experience had taught him that","For his own part, he said, he was ready to do this, because experience had taught him that"
+F0027,15,8,ACCEPT,"Should he, Scipio said, put himself in Hannibal’s place and remove the harshest of the imposed terms,","Let Hannibal, Scipio said, put himself in Scipio’s place and say: should the Romans remove the harshest of the imposed terms,"
+F0028,15,10,ACCEPT,once they go into battle with no hope left except in fighting.,once they go into battle having given up all hope of life.
+F0030,15,15,ACCEPT,"against Romans armed in similar fashion, no better plan of engagement could have been devised than the one Hannibal then arranged",no one using comparable equipment could have arranged a better engagement against the Romans than the one Hannibal then arranged
+F0031,15,19,ACCEPT,had returned to it only after more than forty-five years,was now returning to it at more than forty-five years of age
+F0225,15,3,ACCEPT,a friend of Syphax,a kinsman of Syphax
+F0227,15,20,ACCEPT,"And they did not, like tyrants, put forward even some small pretext to veil their shame","And they did not, as even tyrants do, put forward some small pretext to veil their shame"
+F0228,15,23,ACCEPT,And in this matter Fortune plainly cooperated against Philip as well.,"For indeed, in this respect Fortune plainly cooperated with Philip."
+F0229,15,23,REVISE,the Rhodians could hardly believe it because the faithlessness was so extreme,the Rhodians could not believe it because the faithlessness was so extreme
+F0230,15,25,REVISE,"All this happened before the negotiations with Philip, as I have said","All this happened before the deliberation at Philip’s court [...], as I have said"
+F0231,15,26,REVISE,"the knowledge that the coming struggle lay in their own hands, because they controlled all the supplies being brought into Alexandria","the knowledge that delay told against themselves, because Tlepolemus and his party controlled all the supplies being brought into Alexandria"
+F0235,16,2,ACCEPT,convinced that if he could throw them into confusion he would then sail the rest of the way safely,convinced that he would get the start of them and then sail the rest of the way safely
+F0236,16,2,REVISE,besides undecked ships,besides [...] undecked ships
+F0239,16,4,REVISE,"Philip had the advantage in the number of his light craft, but Attalus had the advantage in the number of decked ships.","For by as much as Philip had the advantage in the number of his light craft, by so much Attalus had the advantage in the number of decked ships."
+F0240,16,12,REVISE,"a gulf some call by one name and most call the Bargylian Gulf, after the cities built around its inner recess","a gulf called [...], but by most the Bargylian Gulf, after the cities built around its inner recess"
+F0241,16,12,ACCEPT,never know how to stop opposing and resenting such declarations by historians throughout my whole work,"somehow find myself, throughout my whole work, opposing and resenting such declarations by historians"
+F0242,16,17,REVISE,and become altogether deep and unfordable.,and become altogether deep and unfordable. [...]
+F0243,16,19,ACCEPT,seized the high ground on the right,seized the commanding ground
+F0244,16,21,REVISE,naturally courageous,[...] naturally courageous
+F0245,16,22,ACCEPT,and increasingly contrasted him with Sosibius,and by comparison admired Sosibius
+F0246,16,24,ACCEPT,"the people of Mylae, Alabanda, and Magnesia","the people of Mylasa, Alabanda, and Magnesia"
+F0247,16,24,ACCEPT,against the city of Mylae,against the city of Mylasa
+F0250,16,33,REVISE,"and shattered the sarissas of others, then with the broken splinters stabbed their faces and exposed parts, throwing them into total confusion.","and shattered the sarissas of others, then with the very fragments [...] struck their faces and exposed parts with the spear-points, throwing them into total confusion."
+F0251,16,39,ACCEPT,the Jews living around the sanctuary of the place called Jerusalem also went over to him.,the Jews living around the sanctuary called Jerusalem also went over to him.
+F0252,18,6,REVISE,the magnitude of the honors that had been bestowed on them by the Achaeans,the magnitude of the honors that had been bestowed on Antigonus and himself by the Achaeans
+F0254,18,18,REVISE,"and they pick those that have these on one side only, not running off in every direction",and stakes having these [...] are chosen [...] not alternately
+F0256,18,25,REVISE,one part was locked in close combat with those fighting,"one part, adjoining those fighting, [...]"
+F0257,18,26,REVISE,"at first halted, since the enemy held their pikes upright","at first [...] halted, since the enemy held their pikes upright"
+F0258,18,34,REVISE,"nor did he wish, having driven Philip from power, to leave the Aetolians as masters of the Greeks","or because he did not wish, having driven Philip from power, to leave the Aetolians as masters of the Greeks"
+F0259,18,41a,ACCEPT,They tried to prevent Antiochus from sailing along the coast,[...] to prevent Antiochus from sailing along the coast
+F0260,18,46,REVISE,"And in their cleverness in arguing against one another, these speakers immediately gave themselves away.","And they themselves at once pointed out which these places were, in their ingenious arguments with one another."
+F0261,18,50,ACCEPT,there also arrived two of the ten commissioners,there also arrived three of the ten commissioners
+F0262,20,6,REVISE,"The man who contributed most to this state of things was Opheltas, who was forever devising","The greatest contribution to this [...] Opheltas, who was forever devising"
+F0263,21,9,ACCEPT,"during the long war against Nabis the Megalopolitans, being a neighboring people, had spent all that time serving under Philopoemen and had thus gained real training in military action","during the long war against Nabis, who was a neighbor of the Megalopolitans, he had spent all that time serving under Philopoemen and had thus gained real training in military action"
+F0264,21,11,REVISE,"and reflecting that only by mastering the sea could he prevent the crossing of the land army and in general keep the war away from Asia, he resolved to fight a naval battle","and reflecting that only in this way could he prevent the crossing of the land army and in general keep the war away from Asia [...] if he securely commanded the sea, he resolved to fight a naval battle"
+F0265,21,13,REVISE,"During the season of that sacrifice, the law requires that these Salii not change their location for thirty days, wherever they may happen to be caught.","[...] not to change their location for thirty days during the season of the sacrifice, wherever they may happen to be caught."
+F0266,21,16,REVISE,"the Romans took possession of Sardis and its citadel, and then Musaeus came from Antiochus under flag of truce.",the Romans had just taken possession of Sardis and its citadel [...] Musaeus came from Antiochus under flag of truce.
+F0267,21,17,ACCEPT,Publius said that the Romans never became harsher after victory.,Publius said that the Romans never became harsher after victory [...]
+F0268,21,17,ACCEPT,"So they separated on those terms, and in the following days the Romans divided their forces.","So they separated on those terms, and in the following days the Romans divided their forces [...]"
+F0269,21,19,REVISE,but would continue entirely to leave those matters in Roman hands.,but would remain [...] entirely leaving those matters in Roman hands.
+F0270,21,20,REVISE,I would never knowingly give way to any living man.,"I would never, so far as lies in my power, give way to any living man."
+F0271,21,20,ACCEPT,being the first in Asia and Greece to share your friendship and alliance,being the first of almost all who live in Asia and Greece to share your friendship and alliance
+F0272,21,22,REVISE,can be given by you to whomever you wish.,can be given by you to whomever you wish [...]
+F0273,21,24,ACCEPT,while those that had paid tribute to Antiochus alone should have that tribute remitted.,while only those that had paid tribute to Antiochus should have that tribute remitted.
+F0275,21,25,ACCEPT,and Philip’s weakness there,and Philip’s [...]
+F0276,21,27,ACCEPT,These broke through the enemy entrenchment lying between and slipped into the city.,These broke through the enemy entrenchment lying between and slipped into the city. [...]
+F0277,21,27,REVISE,"He had instructed them that on the agreed day they were to sally out, while he himself would join in and support the danger.","He had instructed them that on the agreed day they were to sally out and make [...], while he himself would join in and support the danger."
+F0278,21,27,REVISE,They rushed boldly out of the city and fought gallantly,[...] They rushed boldly out of the city and fought gallantly
+F0280,21,29,ACCEPT,"urging them to save themselves, and warning that destruction was not far off if they did not take better counsel for themselves.",urging them to save themselves [...] and saying that this was not far off if they did not take better counsel for themselves.
+F0282,21,32,REVISE,The people of the Aetolians shall maintain the rule and supremacy of the Roman people in good faith.,The people of the Aetolians [...] the rule and supremacy of the Roman people [...].
+F0283,21,32,REVISE,"And whenever the Romans are at war with anyone, the people of the Aetolians shall also be at war with them.","[...] And whenever the Romans are at war with anyone, the people of the Aetolians shall also be at war with them."
+F0286,21,35,ACCEPT,dealt with each as policy required in their interviews,"created in each of them, in their interviews, the impression already described"
+F0289,21,40,REVISE,"In the affair concerning Ariarathes, the outcome became proverbial: though they had matters in hand, they came to grief at the hands of their enemies.",[...] of the affair concerning Ariarathes [...] into the proverb: for having [...] they became [...] to their enemies.
+F0290,21,43,REVISE,He was to evacuate the cities and territory specified.,He was to evacuate the cities and territory [...].
+F0292,21,44,ACCEPT,and his brother Lucius,"and Lucius, the commander’s brother"
+F0293,22,3,ACCEPT,both the power and the protected standing of Sparta,both the power and the leadership of Sparta
+F0294,22,4,REVISE,"which had previously been entered against them, to be publicly proclaimed.","which had previously been entered against them, to be publicly proclaimed [...]"
+F0296,22,4,REVISE,For when there was a clash over the seizure of the herds of Myrrichus and Simon,For at once [...] the herds of Myrrichus and Simon; and when there was a clash over this
+F0297,22,4,REVISE,after envoys intervened and settlements were arranged,after envoys had been sent [...] the disputes
+F0298,22,5,REVISE,"and sternly rebuked the Lycians, they declared that they would endure anything rather than do what the Rhodians ordered.",and sternly rebuked the Lycians [...]; for they said that they would endure anything rather than do what the Rhodians ordered.
+F0300,22,12,ACCEPT,it advised the envoys whom the Achaeans regularly sent from time to time to pay close attention and to show the reception that was fitting,it advised the Achaeans to pay close attention to the envoys whom it sent out from time to time and to give them the reception that was fitting
+F0301,22,14,REVISE,"the man who had actually carried out the deed, so that the senate, as they said, might learn the facts from him","the man who, as they said, had actually carried out the deed, so that the senate might learn the facts from him"
+F0304,22,16,ACCEPT,They said that all men admire Philip for his greatness of spirit,[...] all men admire Philip for his [...] greatness of spirit
+F0305,22,16,REVISE,"Ptolemy, by contrast, bound the men naked to carts","[...] Ptolemy, however, bound the men naked to carts"
+F0306,22,20,ACCEPT,she preserved toward all of them without surpassing measure the same goodwill and motherly affection down to the end of her life,she preserved toward all of them unsurpassed goodwill and motherly affection down to the end of her life
+F0307,22,21,ACCEPT,"Ostiagon the Galatian, king of the Galatians in Asia","Ortiagon the Galatian, king of the Galatians in Asia"
+F0308,23,4,REVISE,and they all addressed arguments against the Achaeans suited to their own particular causes,they addressed arguments regarding the Achaeans suited to their own particular causes
+F0309,23,5,ACCEPT,learned that he was displaying habits and tastes ill suited to the situation,learned that he had set before himself an undertaking ill suited to his own inclination and nature
+F0310,23,10,ACCEPT,also took action against their sons,also killed their sons
+F0311,23,11,ACCEPT,"for so long because, obeying the ephors as though they were parents, they endured","for just as long as, obeying the ephors as though they were parents, they endured"
+F0313,23,16,ACCEPT,by the war. * The Messenians had long,by the war. [...] The Messenians had long
+F0314,24,6,REVISE,both because the gift seemed worthy of gratitude and because the expense appeared to amount to not much less than ten talents,because the gift seemed worthy of gratitude. [For the expense seems to fall not much short of ten talents]
+F0315,24,9,ACCEPT,on the pretext of keeping their own laws and decrees in force,for the sake of keeping their own laws and decrees in force
+F0316,24,10,REVISE,"And since the Achaean nation had grown and advanced in the best direction from the period covered by my history, this in turn became the beginning of its change for the worse: the audacity of Callicrates.","Thus, with the Achaean nation having grown and advanced in the best direction from the period covered by my history, this in turn became the beginning of its change for the worse: the audacity of Callicrates [...]."
+F0318,24,10,ACCEPT,"But whenever someone reminds them of what is just, having kept faith, they draw back","But whenever someone who has kept faith reminds them of what is just, they draw back"
+F0319,24,10,REVISE,"to add to the other evils, he did so by bribery","to add to the other evils, he took bribes"
+F0320,24,11,REVISE,"Instead he said they must first make a legal case, and then press their claim again; and if even then they failed to persuade, one should at last yield under protest","Instead he said one must first plead one’s case, and then make the request again; and if even so one failed to persuade them, one should at last yield under protest"
+F0322,24,12,ACCEPT,unwillingly and with hesitation,unwillingly and with resentment
+F0323,24,13,REVISE,for as long as we can,to the extent that we are going to completely [...]
+F0324,24,13,ACCEPT,"And even if they do issue commands, by reminding them",[...] even if they issue commands [...] and by reminding them
+F0325,24,14,ACCEPT,and after six more days’ march they moved on to Parnassus,and on the sixth day they marched on again to Parnassus
+F0326,25,2,ACCEPT,the armies broke up and marched away from the place,the armies at once broke camp and withdrew
+F0327,25,4,REVISE,each of the upper-deck rowers,each of the sailors of the undecked ships
+F0328,25,5,ACCEPT,when it still did not seem likely that the Lycians would once again revolt,when the Lycians seemed on the point of rising again
+F0329,26,1,ACCEPT,with only two or three companions,with only one or two companions
+F0330,27,3,REVISE,"were making a tour of the islands and the cities in Asia and spent the greatest part of their time in Rhodes, though in those days the Rhodians had no need of supervision","were making a tour of the islands and the cities in Asia [...] and most of all in Rhodes, though in those days the Rhodians had no need of it"
+F0331,27,4,REVISE,"After the conference with the Romans and the Greek states, Perseus set down","After the conference with the Romans, [...] of the Greeks, Perseus set down"
+F0332,27,4,REVISE,"Antenor and his colleagues did not accept that answer; but, satisfied with the rest","Antenor and his colleagues did not receive the answer [...]; but, satisfied with the rest"
+F0333,27,6,ACCEPT,"ordered them to leave Rome at once, and all other Macedonians who happened to be staying in Italy to depart within thirty days","ordered them and all the other Macedonians who happened to be staying there to leave Rome at once, and Italy within thirty days"
+F0335,27,9,ACCEPT,whether they knew that he was fighting unfairly,whether they were not aware that he himself was fighting fairly
+F0336,27,19,REVISE,in defiance of every principle of justice.,in defiance of every principle of justice [...].
+F0337,28,1,REVISE,had been the first to lay hands on territory that was not his,had been the first to attack him
+F0338,28,9,ACCEPT,saying that he would somehow make Gentius well disposed,saying that [...] he would make Gentius well disposed
+F0339,28,9,REVISE,would have been won over,would have been found wanting
+F0342,28,12,REVISE,King Ptolemy had applied to the Achaeans because the customary rites performed for kings when they come of age had now taken place in his case,"word reached the Achaeans concerning King Ptolemy that the customary rites performed for kings when they come of age, the Anacleteria, had now taken place in his case"
+F0343,28,12,ACCEPT,his fellow envoys were to send word back at once explaining this,he was to send his fellow envoys off at once to report this
+F0345,28,12,ACCEPT,Alcithon and Pasiadas,Alcithus and Pasiadas
+F0346,28,16,ACCEPT,"Agesilochus son of Hegesias was sent to Rome, along with Nicagoras son of Nicander","Agesilochus son of Hegesias, Nicagoras and Nicander were sent to Rome"
+F0347,28,20,ACCEPT,the envoys sent to arrange a settlement joined the envoys from Greece,those of the envoys from Greece who had been sent to arrange a settlement came to meet him
+F0349,29,3,ACCEPT,appointed Parmenion and Marcus,appointed Parmenion and Morcus
+F0351,29,6,REVISE,"and then, when he came close to the wall at Demetrias, spoke first with Menecrates and then with Antimachus","and then, when he came close to the wall at Demetrias, [...] spoke first with Menecrates and then with Antimachus [...]"
+F0352,29,6,REVISE,And the fact that Herophon twice went as an envoy from Perseus to Eumenes,And the fact that Herophon [...] twice went as an envoy from Perseus to Eumenes
+F0353,29,9,REVISE,"Accordingly, Perseus’ dealings with the Gauls and with Gentius were of a piece with this—","Accordingly, Perseus, in his dealings with the Gauls and with Gentius, [...]"
+F0355,29,11,ACCEPT,"When the envoys from Gentius, together with those led by Parmenio and Morcus and accompanied by Metrodorus, arrived at Rhodes","When Parmenion and Morcus, the envoys from Gentius, and with them Metrodorus, arrived at Rhodes"
+F0356,29,11,REVISE,"the number of cavalry that had been lost, and Gentius’ defection crushed them","the number of cavalry that had been lost, and [...] Gentius’ defection crushed them"
+F0357,29,12,ACCEPT,"no one could say their treatment is adequate, so far as they develop them at all, because they have no material to work with","no one could adequately describe how far they work these up, given their lack of real material"
+F0358,29,12,REVISE,"even if I should seem inconsistent in my subject matter, in my handling of events, or in my style of expression","for instance if [...] I should seem to use the same material, the same handling of events, or the same expressions"
+F0359,29,12,ACCEPT,"if I should sometimes slip in the names of mountains, rivers, or local places",if I should anywhere make slips in the names of mountains or rivers or in the particular features of places
+F0361,29,12,REVISE,"and beyond that to dwell on the capture of Tarentum, Corinth, Sardis, Gaza, Bactra, and, above all, Carthage","and beyond that [...] to dwell on the capture of Tarentum, Corinth, Sardis, Gaza, Bactra, and, above all, Carthage"
+F0362,29,12,REVISE,"Again, other writers have gone on at length about the Syrian war.","[...] Again, other writers on the Syrian war."
+F0364,29,16,REVISE,the rumor spread among many of Perseus’ Macedonians that it meant the king himself was being eclipsed,"the rumor prevailed among the multitude, in the time of Perseus the Macedonian, that it signified the eclipse of a king"
+F0366,29,18,REVISE,"pretending that he was sacrificing to Heracles—fitting cowardly rites for a cowardly man, and prayers that the god would not accept","pretending that he was sacrificing to Heracles, a god who does not accept cowardly offerings from cowards or fulfill unlawful prayers"
+F0367,29,19,REVISE,while encamped in Thessaly for almost two years.,while encamped in Thessaly for almost two years [...].
+F0370,29,20,ACCEPT,For only in that way could a person show moderation even amid prosperity.,"For even so, a man can hardly show himself moderate in times of prosperity."
+F0371,29,21,ACCEPT,because she has used these blessings with them too,because she has lent these blessings to them too
+F0373,29,23,ACCEPT,with Lycortas to command the infantry and Polybius the cavalry,with Lycortas as commander of the whole allied force and Polybius of the cavalry
+F0377,29,27,ACCEPT,"that the outcome in Alexandria and in the whole of Egypt was decided by it: that is, by the earlier decision of what should be done with Perseus","that Alexandria and the whole of Egypt, though brought to the last extremity, were set upright again, simply because the affairs of Perseus had already been decided"
+F0382,30,18,ACCEPT,"Then, when he made his entrance into the senate","[...] Then, when he made his entrance into the senate"
+F0383,30,19,REVISE,"Because they were generally displeased by visits from kings, they issued a decree","As though they were generally displeased by visits from kings, they issued a decree"
+F0385,30,22,REVISE,taking up behavior well suited to their own theatrical excesses,taking up [...] well suited to their own excesses
+F0387,30,25,REVISE,then a chariot drawn by elephants and one drawn by a pair of horses,then a chariot drawn by elephants and one drawn by a pair of elephants
+F0032,31,24,ACCEPT,I think you would find no one among us better suited to stand beside you and help you.,I think you would find no one better suited than me to stand beside you and help you.
+F0033,31,25,ACCEPT,"This ambition first came into prominence at the time we are speaking of,","This tendency blazed out, as it were, at the time we are speaking of,"
+F0034,31,26,ACCEPT,"Scipio gave to his mother, who had long since been separated from Lucius","Scipio gave to his mother [...], who had long since been separated from Lucius"
+F0035,31,27,ACCEPT,"But when he insisted that Scipio had given exactly those instructions, they believed him and went on to the young man","But when he insisted that Scipio had given exactly those instructions, they did not believe him and went on to the young man"
+F0036,31,27,ACCEPT,"After this, he was obliged to pay the remaining half of the dowries owed to the daughters of Scipio the Great, who were the sisters of his adoptive father.","After this, he was obliged to pay the remaining half of the dowries owed to the daughters of Scipio the Great, who were the sisters of his adoptive father [...]."
+F0389,31,5,ACCEPT,they sent an embassy asking the Rhodians to take them and their city into their protection,"they sent an embassy [...], entrusting themselves and their city"
+F0390,31,10,ACCEPT,But the supporters of Canuleius and Quintus testified against Menyllus and the envoys who had come from the elder brother,But Canuleius and Quintus and their colleagues bore witness in support of Menyllus and the envoys who had come from the elder brother
+F0392,31,14,ACCEPT,pretended that he was going aboard for the voyage and slipped away,pretended to be sick with nausea and took his leave
+F0393,31,15,ACCEPT,"This was why they appointed Tiberius, because he had been an eyewitness of the whole situation.",This was why they appointed Tiberius [...] to have been an eyewitness of everything.
+F0394,31,16,ACCEPT,The finest quality of any letter is its power to establish goodwill.,Beauty is a stronger recommendation than any letter of introduction.
+F0395,31,22,ACCEPT,he nevertheless left his private fortune in such a state that his family could not repay,he nevertheless left his private fortune in such a state that [...] his family could not repay
+F0396,31,32,ACCEPT,the answer he had given to Tiberius,his meeting with Tiberius
+F0398,32,7,ACCEPT,"Envoys came from the Athenians, and from the Achaeans came Thearidas and Stephanus on behalf of the Delians.","Envoys came from the Athenians [...], and from the Achaeans came Thearidas and Stephanus on behalf of the Delians."
+F0399,32,8,REVISE,although he had three brothers close to him in age and active in affairs,although he had three brothers [...] both in age and in action
+F0400,32,11,ACCEPT,"But after summarizing his downfall, I shall bring","But after summarizing his return, I shall bring"
+F0401,33,3,ACCEPT,once again sent Telecles and Anaxidamus of Megalopolis from among themselves,at once sent Telecles and Anaxidamus of Megalopolis again
+F0403,33,5,REVISE,They were to offer him five hundred talents if he would surrender Cyprus,[...] to offer him five hundred talents if he would surrender Cyprus
+F0404,33,6,REVISE,"In the years that followed, Ariarathes, after recovering the kingdom, demanded the money from them.","In the years that followed, Ariarathes [...], when he recovered the kingdom, demanded the money from them."
+F0406,33,13,REVISE,Such was the course taken by events in the dispute between Attalus and Prusias.,"Such was the course taken by events in the dispute between Attalus and Prusias, and [...]"
+F0407,33,18,REVISE,summoning prominent men to join him; and when he arrived at Ephesus,summoning prominent men to join him [...]; and when he arrived at Ephesus
+F0408,33,18,ACCEPT,since they were the legitimate offspring of King Antiochus,"since they were, by birth, the offspring of King Antiochus"
+F0409,33,19,ACCEPT,He also says that Demetrius—the man who escaped from his hostage life at Rome and became king of Syria in his thirty-third year—was a heavy drinker,He also says in the thirty-third book that Demetrius—the man who escaped from his hostage life at Rome and became king of Syria—was a heavy drinker
+F0410,34,1,REVISE,"but also within Greece itself, you make yourself answerable",but also within Greece itself [...] and you make yourself answerable
+F0411,34,2,REVISE,because he indicated the routes for sailing out through the regions of the strait,because he foretold the times for sailing out in the regions of the strait
+F0412,34,2,REVISE,"from feeding on these the hunters called galeotes grow fat—fish which, he says, are also called swordfish or sea-dogs","from hunting them the galeotes grow fat—fish which, he says, are also called swordfish and sea-dogs"
+F0413,34,6,REVISE,With arguments of this kind he refutes those earlier writers while claiming precision.,[...] the very matters in which he refutes those men is he free of them.
+F0414,34,6,ACCEPT,ten thousand two hundred stades and more,more than eleven thousand two hundred stades
+F0415,34,6,ACCEPT,across the Sardinian Sea one may make a corresponding estimate,across the Sardinian Sea the distance is reduced
+F0416,34,11,REVISE,but by sea voyage it is less than five hundred.,but by sea voyage it is five hundred stades less.
+F0417,34,11,ACCEPT,Polybius in the thirty-fourth book says that Aethaleia is called Lemnos.,Polybius in the thirty-fourth book says that Lemnos is called Aethaleia.
+F0418,34,12,REVISE,that the seas are connected by channels because Chian and Thasian pottery is found in the Naro,that the seas are connected by channels [...] from the fact that Chian and Thasian pottery is found in the Naro
+F0421,35,2,REVISE,"Though they were barbarians, they spoke at length and tried to make every point of dispute clear.","Though they were barbarians, [...] they spoke and tried to make every point of dispute clear."
+F0422,35,2,ACCEPT,For they were always hinting at the uncertainty of fortune,For they often hinted at the uncertainty of Fortune
+F0424,35,5,ACCEPT,so Scipio fell to the ground upright and regained his footing,so Scipio fell to the ground upright
+F0425,35,6,REVISE,"When Polybius, through Scipio, had been granted an audience on behalf of the exiles from Achaea","When Scipio, for Polybius’s sake, had appealed to Cato on behalf of the exiles from Achaea"
+F0037,36,9,ACCEPT,by taking back a city that had often disputed control with them,by destroying a city that had often disputed control with them
+F0038,36,9,ACCEPT,but arriving at the same end through the appearances they displayed,"but bound, to judge from present indications, to reach the same end"
+F0039,36,9,ACCEPT,"For since nothing irreparable had happened on account of them, they had resolved in a harsh and irreversible way against them, willing to accept and endure anything in order to carry out what had been ordered.","For although the Carthaginians had done nothing irreparable, the Romans had taken an irreparable and harsh decision against them, even though they accepted every condition and submitted to do whatever was ordered."
+F0040,36,9,ACCEPT,gradually revealing one demand and concealing another,gradually putting forward one demand and disclosing another
+F0041,36,9,ACCEPT,"for when the Carthaginians had handed themselves over, the Romans had simply done what they wished, since those surrendering were no longer obeying orders, and had thus brought necessity upon them","for having received from the Carthaginians, of their own free will, the authority to do whatever they wished, the Romans, when the Carthaginians did not obey their orders, had thus brought compulsion to bear on them"
+F0042,36,11,ACCEPT,we no longer had any need at all,there was no longer any need of us at all
+F0043,36,14,ACCEPT,Aulus Maninus,Aulus Mancinus
+F0044,36,14,ACCEPT,Lucius Malloelus,Lucius Malleolus
+F0045,36,14,ACCEPT,"Prusias would arrive not only already dead, but that Nicomedes too would grow old in his kingdom before the embassy could ever get there","not only would Prusias be dead before the embassy arrived, but Nicomedes too would have grown old on his throne"
+F0046,36,15,ACCEPT,but also to seek punishment from him,but also to wish to take vengeance on him
+F0047,36,16,ACCEPT,he preserved his whole life and left his kingdom free from every plot and every domestic stain,"he kept his kingdom, throughout his whole life, free from every plot and every domestic stain"
+F0048,36,16,ACCEPT,extensive and fully fruitful estates in separate allotments,fully fruitful estates of ten thousand plethra each in separate allotments
+F0050,36,17,REVISE,"but sought to raise only one or two, and hardly even those,","but raised only one or at most two,"
+F0051,36,17,REVISE,released from great internal strife and civil slaughter through Roman favor.,released from great internal strife and civil slaughter through Roman favor. [...]
+F0052,36,17,ACCEPT,"whereas in the earlier days, under the kings who were truly kings, they had already experienced [...]",more than in earlier times under the true kings [...]
+F0427,36,2,REVISE,This principle having long since been firmly fixed in everyone’s mind,This having long since been firmly fixed in everyone’s mind
+F0428,36,3,ACCEPT,appointed two envoys with full powers,appointed five envoys with full powers
+F0429,36,5,ACCEPT,"If that was not the course they chose, then they must consider once more","Otherwise, they must then consider once more"
+F0430,36,5,ACCEPT,in the dockyard of the six-banked ships.,in the dockyard of the sixteen-banked ship [...]
+F0431,36,7,REVISE,"All the senators, crying out in horror, were left as though paralyzed by the shock.","All of them, crying out together, were at once as though paralyzed."
+F0433,36,7,REVISE,and still others hurried toward the gates of the city,and still others toward the gates of the city [...]
+F0434,36,8,REVISE,"When men are deliberating from scratch, they should take even greater care to avoid suffering harm than to do harm to their enemies.","[...] when men are deliberating from scratch, and to take even greater care to avoid suffering harm than to do harm to their enemies."
+F0054,38,2,ACCEPT,and no one defended this act as just.,and no one defended this act of Alexander’s as just.
+F0055,38,3,REVISE,"After Alexander’s campaign, they therefore, after a short time and with some help received, once again lived in their homeland in safety.","They therefore, after a short time and with some help received, once again lived in their homeland in safety."
+F0056,38,3,ACCEPT,"For all who fall into unexpected disasters should be counted as unfortunate, both collectively and individually;","For all who fall into unexpected disasters, both collectively and individually, should be counted as unlucky;"
+F0057,38,3,ACCEPT,"Peloponnesians, Boeotians, Phocians, Locrians,","Peloponnesians, Boeotians, Phocians, [...], Locrians,"
+F0058,38,3,ACCEPT,"Not only in number, but in every way, they were not merely unfortunate in the ordinary sense, but suffered a shameful sort of misfortune, as dishonorable as possible.","[...] not only in the number [...] of earlier ones, but also in [...]; in a word, they were not unlucky but suffered a misfortune as shameful and disgraceful as could be."
+F0060,38,3,ACCEPT,"because of the excess of their own mistakes, if it is right to say so.",because of the excess of their own mistakes—if one should call them their own.
+F0061,38,4,ACCEPT,when it was above all right to conceal the mistakes of the Greeks.,"when I, of all people, ought to have concealed the mistakes of the Greeks."
+F0062,38,4,REVISE,"For the more widely the transmission of what is written reaches people, and the longer it lasts,","For the more widely the transmission of what is written reaches people, and the longer it lasts, compared with what is said for the moment,"
+F0063,38,5,REVISE,But those who love learning seek continuity and look forward to hearing the end of the account;,"And, they say, those who love learning seek continuity and look forward to hearing the end of the account;"
+F0064,38,5,REVISE,rests for those who labor hard [...],rests for men who labor hard.
+F0065,38,6,REVISE,"For those who are diligent in such matters, the greatest historians of old seem to me",That is why the greatest historians of old seem to me
+F0066,38,7,REVISE,"and to take responsibility for everything, since we will do what is ordered",and to give every assurance that we will do what is ordered
+F0067,38,7,REVISE,Hasdrubal said that he did not understand him.,Hasdrubal said that Gulussa did not understand the situation.
+F0068,38,7,ACCEPT,"or the troops outside the walls, saying that they were safe;",or the forces in the field;
+F0069,38,7,ACCEPT,"For they would not, he said, allow themselves to be seen openly violating a truce, but would give many opportunities for salvation.","For the gods, he said, would not stand by and see them so openly wronged in breach of the treaty, but would give them many opportunities for salvation."
+F0070,38,8,REVISE,that among the Greeks and among the Carthaginians of that time one would not easily find two men more alike as masters of affairs,that one would not easily find leaders of affairs more alike than those of the Greeks and of the Carthaginians at that time
+F0071,38,9,ACCEPT,When the envoys who had come from the Peloponnese to Aurelius arrived,When Aurelius and his fellow envoys arrived from the Peloponnese
+F0072,38,9,REVISE,assumed that the Romans were acting with hypocrisy because the war in Carthage was still unfinished,"assumed that the Romans [...] by way of pretense, because the war in Carthage was still unfinished"
+F0073,38,10,ACCEPT,the justice of what the envoys from Sextus were saying,the justice of what Sextus and his colleagues were saying
+F0074,38,10,ACCEPT,men who had been deliberately selected as the worst from every city,"men who were the worst of every city, as if picked out on purpose"
+F0075,38,10,ACCEPT,and there confer with the Lacedaemonians so that some agreed settlement,and there confer with the Lacedaemonians [...] so that some agreed settlement
+F0076,38,13,ACCEPT,"For it was necessary, he said, not for the Lacedaemonians or the Romans to be troubled in this way, but rather for those among their own people who cooperated with the enemy;",For they ought not to fear the Lacedaemonians or the Romans so much as those among their own people who cooperated with the enemy;
+F0077,38,14,ACCEPT,Philataerus,Philetaerus
+F0078,38,15,ACCEPT,a total of ten thousand men,a total of twelve thousand men
+F0079,38,16,ACCEPT,was driven from the country,wandered about the country
+F0080,38,17,ACCEPT,For though they clearly knew what they had done,For since they clearly knew what they had done
+F0081,38,17,ACCEPT,even though they were all equally in the wrong,even though they failed utterly in everything
+F0082,38,17,ACCEPT,but believed that Philon was speaking because he privately placed his own interest and security above everything else,but believed that those urging this were speaking because they privately placed their own interest and security above everything else
+F0083,38,19,ACCEPT,so that the enemy could not cross and fight from the embankments,so that the enemy could not cross and attack the embankments
+F0084,38,20,ACCEPT,an overbearing man must never say or do anything proud,one who is only human must never say or do anything arrogant
+F0085,38,20,ACCEPT,because not only she herself but also the children were being saved from his fate,"because, as far as it rested with him, not only she herself but also the children were being saved"
+F0086,38,20,ACCEPT,"after saying that she herself would obtain no private salvation from the general by deserting, he could","without saying a word to her, he had deserted and privately secured his own safety from the general, and how he could"
+F0087,38,20,ACCEPT,"he dared now to sit here crowned, while he had many times said that the day would never come when he would see Hasdrubal alive","he dared now to sit beside these men holding suppliant branches, men to whom he had [...] many times that the day would never come when the sun would see Hasdrubal alive"
+F0089,39,4,REVISE,"For as he went through the cities to sell the property of all who had been associated with Diaeus, he was doing so also for men who had been convicted, except for those who had children or parents.","For the treasurer was going through the cities selling the property of all who had been associated with Diaeus and had also been condemned, except for those who had children or parents."
+F0090,39,5,REVISE,"When these arrangements had been completed, the ten commissioners,","When these arrangements had been completed in six months, the ten commissioners,"
+F0091,39,6,REVISE,"After the Roman general had separated from the assembly in Achaea,","As for the Roman general, after the council of the ten had departed from Achaea,"

@@ -1,0 +1,6 @@
+{"batch":"sonnet_036","units":[
+{"book":3,"chapter":"103","verdict":"CLEAN","findings":[],"note":""},
+{"book":3,"chapter":"104","verdict":"CLEAN","findings":[],"note":""},
+{"book":3,"chapter":"105","verdict":"CLEAN","findings":[],"note":""},
+{"book":3,"chapter":"106","verdict":"FINDINGS","findings":[{"quote":"handled every detail according to their judgment","problem":"Greek: κατὰ τὴν ἐκείνων γνώμην, where ἐκείνων = the consuls (τῶν ὑπάτων), not Gnaeus and his officers (contrast earlier κατὰ τὴν ἑαυτῶν γνώμην). English 'their' reads as the officers' own judgment, inverting the sense.","proposed_fix":"handled every detail according to the consuls' judgment","touches_syntax":false,"confidence":"medium"}],"note":""}
+]}

@@ -1,0 +1,10 @@
+{"batch":"sonnet_128","units":[
+{"book":28,"chapter":"1","verdict":"FINDINGS","findings":[{"quote":"had been the first to lay hands on territory that was not his","problem":"Greek: Πτολεμαῖος αὐτῷ παρὰ πάντα τὰ δίκαια τὰς χεῖρας ἐπιβάλλει πρότερος. The dative αὐτῷ is Antiochus: Ptolemy lays hands on HIM (Antiochus) first, against all justice. 'Territory that was not his' is not in the Greek and turns the charge into one about land, reversing who is the wronged party in the claim.","proposed_fix":"had been the first to lay hands on him","touches_syntax":false,"confidence":"medium"}],"note":""},
+{"book":28,"chapter":"2","verdict":"CLEAN","findings":[],"note":""},
+{"book":28,"chapter":"3","verdict":"CLEAN","findings":[],"note":""},
+{"book":28,"chapter":"4","verdict":"CLEAN","findings":[],"note":""},
+{"book":28,"chapter":"5","verdict":"CLEAN","findings":[],"note":""},
+{"book":28,"chapter":"6","verdict":"CLEAN","findings":[],"note":""},
+{"book":28,"chapter":"7","verdict":"CLEAN","findings":[],"note":""},
+{"book":28,"chapter":"8","verdict":"CLEAN","findings":[],"note":""}
+]}

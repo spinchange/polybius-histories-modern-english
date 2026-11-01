@@ -1,0 +1,18 @@
+[
+{"id":"F0037","verdict":"ACCEPT","fix":"by destroying a city that had often disputed control with them","reason":"ἐπανελομένους = having destroyed/done away with, not 'taking back'."},
+{"id":"F0038","verdict":"ACCEPT","fix":"but bound, to judge from present indications, to reach the same end","reason":"ἥξειν is future (prediction); ἐκ τῶν προφαινομένων = judging from present signs."},
+{"id":"F0039","verdict":"ACCEPT","fix":"For although the Carthaginians had done nothing irreparable, the Romans had taken an irreparable and harsh decision against them, even though they accepted every condition and submitted to do whatever was ordered.","reason":"Genitive absolute is concessive; πᾶν ἀναδεχομένων … ὑπομενόντων describes the Carthaginians, not the Romans."},
+{"id":"F0040","verdict":"ACCEPT","fix":"gradually putting forward one demand and disclosing another","reason":"παραγυμνοῦντες = uncovering, disclosing; 'concealing' inverts the sense."},
+{"id":"F0041","verdict":"ACCEPT","fix":"for having received from the Carthaginians, of their own free will, the authority to do whatever they wished, the Romans, when the Carthaginians did not obey their orders, had thus brought compulsion to bear on them","reason":"λαβόντας τὴν ἐπιτροπὴν παρ᾽ ἑκόντων: Romans received authority; οὐ πειθαρχούντων = when they did not obey."},
+{"id":"F0042","verdict":"ACCEPT","fix":"there was no longer any need of us at all","reason":"χρείαν ἡμῶν = need of us (Polybius no longer required), not our needs."},
+{"id":"F0043","verdict":"ACCEPT","fix":"Aulus Mancinus","reason":"Μαγκῖνος = Mancinus."},
+{"id":"F0044","verdict":"ACCEPT","fix":"Lucius Malleolus","reason":"Μαλλέολος = Malleolus."},
+{"id":"F0045","verdict":"ACCEPT","fix":"not only would Prusias be dead before the embassy arrived, but Nicomedes too would have grown old on his throne","reason":"ἀπολόμενον φθάσαι: Prusias would be dead first; the embassy, not Prusias, arrives."},
+{"id":"F0046","verdict":"ACCEPT","fix":"but also to wish to take vengeance on him","reason":"τιμωρίαν παρ᾽ αὐτοῦ λαμβάνειν = exact vengeance from him; English reads as being punished by him."},
+{"id":"F0047","verdict":"ACCEPT","fix":"he kept his kingdom, throughout his whole life, free from every plot and every domestic stain","reason":"τὸν ὅλον βίον is duration; object of διετήρησε is the kingdom, not his life."},
+{"id":"F0048","verdict":"ACCEPT","fix":"fully fruitful estates of ten thousand plethra each in separate allotments","reason":"μυριοπλέθρους = of ten thousand plethra; number was smoothed away."},
+{"id":"F0050","verdict":"REVISE","fix":"but raised only one or at most two,","reason":"μόλις … τῶν πλείστων = one or at the very most two; not 'hardly even those', nor 'of the many born'."},
+{"id":"F0051","verdict":"REVISE","fix":"released from great internal strife and civil slaughter through Roman favor. [...]","reason":"Lacuna after φιλοτιμίας and fragmentary clause before ὑπὸ δὲ τοῦ Ψευδοφιλίππου must be marked with project [...] convention."},
+{"id":"F0052","verdict":"ACCEPT","fix":"more than in earlier times under the true kings [...]","reason":"ἢ is comparative (more than under true kings); 'already experienced' built from lacunose fragments."},
+{"id":"F0053","verdict":"HUMAN","fix":"the Roman camp [...] regret [...] the lawless acts committed against them before the Pseudo-Philip [...] Though they had fought against the Romans with Demetrius, and again with Perseus, and been defeated, yet fighting alongside a hateful man and showing courage in defense of his kingship, they defeated the Romans.","reason":"No 'angered'; wrongs were against them; legible μὲν…δέ sentence omitted. Δημητρίου transmitted, historically Philip V expected: translator decision."}
+]

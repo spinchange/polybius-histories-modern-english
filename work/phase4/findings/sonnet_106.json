@@ -1,0 +1,11 @@
+{"batch":"sonnet_106","units":[
+{"book":18,"chapter":"47","verdict":"CLEAN","findings":[],"note":""},
+{"book":18,"chapter":"48","verdict":"CLEAN","findings":[],"note":""},
+{"book":18,"chapter":"49","verdict":"CLEAN","findings":[],"note":"Opening fragment is a context-less snippet; English preserves it as a fragment. The bracketed [Ptolemy] correctly bridges to the Πτολεμαίου that opens ch. 50."},
+{"book":18,"chapter":"50","verdict":"FINDINGS","findings":[{"quote":"there also arrived two of the ten commissioners","problem":"The Greek names three men: τῶν δέκα Πόπλιος μὲν Λέντλος ἐκ Βαργυλίων, Λεύκιος δὲ Τερέντιος καὶ Πόπλιος Οὐίλλιος ἐκ Θάσου (Lentulus, Terentius, Villius). 'Two' is a number error.","proposed_fix":"there also arrived three of the ten commissioners","touches_syntax":false,"confidence":"high"}],"note":"Final sentence breaks off at ἀπε- (completed by σιώπησαν in ch. 51); English marks this with [...]."},
+{"book":18,"chapter":"51","verdict":"CLEAN","findings":[],"note":"Chapter opens mid-word (ἀπε|σιώπησαν); English 'finished speaking' is fine."},
+{"book":18,"chapter":"52","verdict":"CLEAN","findings":[],"note":""},
+{"book":18,"chapter":"53","verdict":"CLEAN","findings":[],"note":""},
+{"book":18,"chapter":"54","verdict":"CLEAN","findings":[],"note":""},
+{"book":18,"chapter":"55","verdict":"CLEAN","findings":[],"note":""}
+]}

@@ -1,0 +1,13 @@
+{"batch":"opus_025","units":[
+{"book":12,"chapter":"25","verdict":"CLEAN","findings":[],"note":"The Greek clause διότι τῆς γῆς ... Εὐρώπης προσαγορευομένης is an incomplete genitive absolute (Polybius quotes it as a fragment); B-W marks no lacuna there, so no fix. The closing lacuna is marked."},
+{"book":12,"chapter":"25a","verdict":"CLEAN","findings":[],"note":"Lacuna after ἐπιχειροίη marked."},
+{"book":12,"chapter":"25b","verdict":"CLEAN","findings":[],"note":""},
+{"book":12,"chapter":"25c","verdict":"CLEAN","findings":[],"note":""},
+{"book":12,"chapter":"25d","verdict":"CLEAN","findings":[],"note":"Lacunae after γένους, in ε... μαι, and before ἐπ᾽ ὀνόματος are all marked."},
+{"book":12,"chapter":"25e","verdict":"FINDINGS","findings":[
+ {"quote":"—yet this is only one part, as it seems to me, of practical history.","problem":"Greek has a lacuna: προσφέρεσθαι, *** μέρος, ὡς ἐμοὶ δοκεῖ, πρὸς τὴν πραγματικὴν ἱστορίαν. The words 'yet this is only one' are supplied with no gap marked; only μέρος survives.","proposed_fix":"—[...] part, as it seems to me, of practical history.","touches_syntax":false,"confidence":"high"}
+],"note":"Editors usually supply something like 'they bring only one part'; the English may keep that sense only if the gap is marked."},
+{"book":12,"chapter":"25f","verdict":"FINDINGS","findings":[
+ {"quote":"which was straightforward and fought with the army in a single body","problem":"καθ᾽ ἕν τι μέρος τῆς δυνάμεως means 'with only one part of the forces' (the battle was decided by a single division). The English says the opposite, that the whole army fought as one body.","proposed_fix":"which was straightforward and involved only one part of the forces","touches_syntax":false,"confidence":"medium"}
+],"note":""}
+]}

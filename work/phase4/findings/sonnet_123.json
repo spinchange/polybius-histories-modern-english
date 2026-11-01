@@ -1,0 +1,14 @@
+{"batch":"sonnet_123","units":[
+{"book":24,"chapter":"12","verdict":"FINDINGS","findings":[
+{"quote":"one must be of one mind with the Romans in present circumstances","problem":"The Greek here is a fragment after a gap: 'εἰ δὲ μηδ᾽ ὁ Φιλοποίμην εἰπεῖν τοῦτο τολμᾷ... καιροῖς ἕνα Ῥωμαίοις' (text lost before καιροῖς, and again after). There is no verb or clause for 'one must be of one mind'; the English invents a connected clause and smooths the lacuna.","proposed_fix":"[...] occasions [...] one [...] the Romans [...]","touches_syntax":true,"confidence":"medium"},
+{"quote":"unwillingly and with hesitation","problem":"'ἀκουσίως δὲ τοῦτο πράττοντας καὶ μετὰ προσκοπῆς': προσκοπή is offence/resentment, not hesitation.","proposed_fix":"unwillingly and with resentment","touches_syntax":false,"confidence":"medium"}
+],"note":"Greek of the middle of the speech is lacunose/corrupt; only the lacuna-marking is proposed, no reconstruction."},
+{"book":24,"chapter":"13","verdict":"FINDINGS","findings":[
+{"quote":"for as long as we can","problem":"'ἐπὶ τοσοῦτον, ἐφ᾽ ὅσον μέλλομεν τελέως...' breaks off after τελέως (lacuna). The English closes the sentence as if whole and renders it with a different sense.","proposed_fix":"for as long as we are going to completely [...]","touches_syntax":false,"confidence":"medium"},
+{"quote":"And even if they do issue commands, by reminding them","problem":"Greek has a gap before and after: '... κἂν ἐπιτάττωσιν... καὶ τούτων ὑπομιμνήσκοντες'. The protasis is incomplete and the English joins it smoothly.","proposed_fix":"[...] even if they issue commands [...] and by reminding them","touches_syntax":true,"confidence":"medium"}
+],"note":"Both passages are lacunose in the Greek."},
+{"book":24,"chapter":"14","verdict":"FINDINGS","findings":[
+{"quote":"and after six more days’ march they moved on to Parnassus","problem":"'ἑκταῖοι πάλιν ἀνέζευξαν εἰς Παρνασσόν' parallels πεμπταῖοι: 'on the sixth day they marched on again to Parnassus'. Greek gives an ordinal day, not 'six more days' march' (a different number and sense).","proposed_fix":"and on the sixth day they marched on again to Parnassus","touches_syntax":false,"confidence":"medium"}
+],"note":"Whether the sixth day counts from Calpitus or from the Halys is ambiguous in the Greek; the English should not add 'more'."},
+{"book":24,"chapter":"15","verdict":"CLEAN","findings":[],"note":"Final lacuna (***) is marked with [...]."}
+]}

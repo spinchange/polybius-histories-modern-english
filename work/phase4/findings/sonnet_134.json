@@ -1,0 +1,16 @@
+{"batch":"sonnet_134","units":[
+{"book":30,"chapter":"1","verdict":"CLEAN","findings":[],"note":""},
+{"book":30,"chapter":"2","verdict":"CLEAN","findings":[],"note":""},
+{"book":30,"chapter":"3","verdict":"CLEAN","findings":[],"note":""},
+{"book":30,"chapter":"4","verdict":"FINDINGS","findings":[
+{"quote":"the answer that Agesipolis and his colleagues had obtained","problem":"Greek has οἱ περὶ τὸν Ἁγέπολιν: the Rhodian envoy Hagepolis, not Agesipolis (a different name, Spartan).","proposed_fix":"the answer that Hagepolis and his colleagues had obtained","touches_syntax":false,"confidence":"low"}
+],"note":"Name-form only; rest of chapter matches the Greek (Antonius tribune, Philophron before Astymedes, reply sense, correlatives all fine)."},
+{"book":30,"chapter":"5","verdict":"FINDINGS","findings":[
+{"quote":"but that by giving special weight and dignity to the move they hoped to strip away the suspicions","problem":"Greek: ἀλλὰ βουλόμενοι κατὰ τὴν ὑπέρθεσιν τῆς ἐπιβολῆς ἀφαιρεῖσθαι τὰς ὑπονοίας. ὑπέρθεσις means putting off, postponement, delay; nothing in it says 'special weight and dignity'. Sense: by the deferral of their undertaking (the alliance proposal) they hoped to remove suspicions.","proposed_fix":"but that by postponing the proposal they hoped to strip away the suspicions","touches_syntax":false,"confidence":"medium"}
+],"note":"Number checks passed: 140 years (ἔτη τετταράκοντα πρὸς τοῖς ἑκατόν), 10,000 gold pieces (μυρίων χρυσῶν). The Greek here is somewhat compressed; the rendering of ὑπέρθεσις is the only point of doubt."},
+{"book":30,"chapter":"6","verdict":"CLEAN","findings":[],"note":"Minor, not flagged: διάληψις is 'judgment/assessment', English says 'conduct', and πρότερον ἐπιστήσαντες could be 'first drawing attention' rather than 'already'. This is an excerptor's fragment of uncertain construction; sense is not inverted."},
+{"book":30,"chapter":"7","verdict":"FINDINGS","findings":[
+{"quote":"The most prominent of these were Hippocrates and his brother Diomedon among the Coans, and Deinon and Polyaratus among the Rhodians.","problem":"Greek breaks off mid-word: τούτων δ᾽ ἦσαν ἐπιφανέστατοι παρὰ μὲν τοῖς Κῴοις Ἱππόκριτος καὶ Διομέδων ἀδελ[...]. The text ends at ἀδελ- (presumably ἀδελφοί); the Rhodian names Deinon and Polyaratus are NOT in the Greek and are silently supplied, so the English reads as whole.","proposed_fix":"The most prominent of these among the Coans were Hippocrates and Diomedon, brothers [the text breaks off here].","touches_syntax":true,"confidence":"high"},
+{"quote":"and in the end they disappointed all expectations.","problem":"Greek: καὶ πάσας ἐξήλεγχον τὰς ἐλπίδας, 'and they put every hope to the test' (they tried every resource), not 'disappointed all expectations'. The verb is ἐξελέγχω (examine, test, prove); the English reverses the sense to failure.","proposed_fix":"and they put every hope to the test.","touches_syntax":false,"confidence":"low"}
+],"note":"The ending is a truncation of the Greek text (the next chapter's Greek is not in this unit); Rhodian names appear to be supplied from context (compare later chapters naming Deinon and Polyaratus)."}
+]}

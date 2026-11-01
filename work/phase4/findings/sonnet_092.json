@@ -1,0 +1,19 @@
+{"batch":"sonnet_092","units":[
+{"book":15,"chapter":"1","verdict":"FINDINGS","findings":[
+{"quote":"for two years already","problem":"Greek has δεύτερον ἔτος ἤδη φεύγοντες, 'already in the second year of flight', not 'two years already'.","proposed_fix":"now in the second year","touches_syntax":false,"confidence":"low"},
+{"quote":"had not merely appealed to the gods and kissed the ground, as men commonly do,","problem":"Greek: τοὺς θεοὺς ἀσπάσαιντο (greeted/saluted the gods) and τὴν γῆν προσκυνήσαιεν (did obeisance to the earth), as other men customarily do. 'Appealed' and 'kissed the ground' are not what is said.","proposed_fix":"had not merely greeted the gods and bowed down to the earth, as men commonly do,","touches_syntax":false,"confidence":"low"}
+],"note":"Rest of chapter checked: correlatives, the two successive battles (Romans beat Carthaginians), and names are sound."},
+{"book":15,"chapter":"2","verdict":"CLEAN","findings":[],"note":""},
+{"book":15,"chapter":"3","verdict":"FINDINGS","findings":[
+{"quote":"a friend of Syphax","problem":"Greek has ὃς ἦν μὲν οἰκεῖος Σόφακος: οἰκεῖος means a relative or kinsman, not merely a friend.","proposed_fix":"a kinsman of Syphax","touches_syntax":false,"confidence":"medium"}
+],"note":""},
+{"book":15,"chapter":"4","verdict":"CLEAN","findings":[],"note":""},
+{"book":15,"chapter":"5","verdict":"FINDINGS","findings":[
+{"quote":"well suited in other respects and with a water supply close at hand.","problem":"The Greek breaks off mid-sentence: πρός τε τἄλλα τόπον εὐφυῆ καταλαβόμενος καὶ τὴν … (text ends at 'and the'). 'A water supply close at hand' is not in the Greek given; the English silently completes a truncated sentence.","proposed_fix":"well suited in other respects and ... [the Greek text breaks off here].","touches_syntax":false,"confidence":"high"}
+],"note":"Also, the Greek after 'τῶν δὲ φησάντων,' has no stated content (apparent gap); English 'When they said he had' is a reasonable sense but supplies the reply. Not flagged as a fix."},
+{"book":15,"chapter":"20","verdict":"FINDINGS","findings":[
+{"quote":"And they did not, like tyrants, put forward even some small pretext to veil their shame","problem":"Greek: οὐδ᾽ οὖν, καθάπερ οἱ τύραννοι, βραχεῖαν δή τινα προβαλλόμενοι τῆς αἰσχύνης πρόφασιν: 'not even, as tyrants do, putting forward some small pretext'. Tyrants do offer a pretext; these kings did not. The English makes tyrants the contrast, inverting the sense.","proposed_fix":"And they did not, as even tyrants do, put forward some small pretext to veil their shame","touches_syntax":false,"confidence":"high"}
+],"note":""},
+{"book":15,"chapter":"21","verdict":"CLEAN","findings":[],"note":"The Greek has a supplied [ῥᾴδιον] in the sentence 'οὐ δύνανται ... ἀλλ᾽ οὐδὲ βραχὺ διαπιστῆσαι'; the English sense is acceptable."},
+{"book":15,"chapter":"22","verdict":"CLEAN","findings":[],"note":"Greek breaks off at the end (μηδένα λόγον ἔτι προσίεσθαι, apparently truncated); English 'in his favor' is a slight addition but not flagged."}
+]}

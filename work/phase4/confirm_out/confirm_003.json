@@ -1,0 +1,10 @@
+[
+{"id":"F0007","verdict":"ACCEPT","fix":"and one may grasp the magnitude of that change from what follows. [...]","reason":"Excerptor’s note (ζήτει ἐν τῷ περὶ στρατηγίας) shows the promised illustration is not transmitted; the break must be marked."},
+{"id":"F0008","verdict":"ACCEPT","fix":"they came to think that rulers ought to have clothing distinct from that of their subjects","reason":"Kings are subject of ὑπέλαβον; τῶν ὑποταττομένων is genitive of comparison. ‘Their rulers’ wrongly makes the people the thinkers."},
+{"id":"F0009","verdict":"HUMAN","fix":"[...] and thirty years later; from that time on it was continually being refined","reason":"ἔτεσιν ὕστερον is a point in time, not a duration; lacuna may hide part of the numeral. Corrupt text, translator should confirm."},
+{"id":"F0010","verdict":"ACCEPT","fix":"before reaching the age of forty-six","reason":"ἀπὸ γενεᾶς means from birth, so the limit is age forty-six, not forty-six years after coming of age."},
+{"id":"F0011","verdict":"ACCEPT","fix":"ten thousand drachmas","reason":"Polybius’s drachma equals the denarius (ten asses); the gloss ‘(asses)’ gives a false equivalence."},
+{"id":"F0012","verdict":"ACCEPT","fix":"place the market-place, quartermaster’s office, and headquarters between the two legions","reason":"A lone consul’s camp holds two στρατόπεδα, meaning legions; the praetorium stands between them, not between separate camps."},
+{"id":"F0013","verdict":"ACCEPT","fix":"the duty falls to each maniple only every third day","reason":"παρὰ τετάρτην ἡμέραν counts inclusively; three maniples rotating per tribune means each serves every third day."},
+{"id":"F0014","verdict":"ACCEPT","fix":"and most of those condemned are killed on the spot inside the camp itself","reason":"τοὺς μὲν πλείστους refers to the condemned, contrasted with those who escape; ‘them’ grammatically points to the attackers."}
+]

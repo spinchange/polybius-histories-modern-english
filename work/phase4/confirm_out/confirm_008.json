@@ -1,0 +1,7 @@
+[
+{"id":"F0032","verdict":"ACCEPT","fix":"I think you would find no one better suited than me to stand beside you and help you.","reason":"ἄλλον … ἡμῶν ἐπιτηδειότερον: ἡμῶν is genitive of comparison; Polybius offers himself."},
+{"id":"F0033","verdict":"ACCEPT","fix":"This tendency blazed out, as it were, at the time we are speaking of,","reason":"παροῦσαν αἵρεσιν is the extravagance just described, not Scipio's ambition; πρῶτον μὲν introduces the first cause, not first appearance."},
+{"id":"F0034","verdict":"ACCEPT","fix":"Scipio gave to his mother [...], who had long since been separated from Lucius","reason":"Lacuna (***) after τῇ μητρί must be marked; name (Papiria) not supplied in text."},
+{"id":"F0035","verdict":"ACCEPT","fix":"But when he insisted that Scipio had given exactly those instructions, they did not believe him and went on to the young man","reason":"διαπιστήσαντες = disbelieving; English inverted the sense."},
+{"id":"F0036","verdict":"ACCEPT","fix":"After this, he was obliged to pay the remaining half of the dowries owed to the daughters of Scipio the Great, who were the sisters of his adoptive father [...].","reason":"Lacuna (*** λαβόντος) lost a genitive participle clause; mark it, do not supply."}
+]

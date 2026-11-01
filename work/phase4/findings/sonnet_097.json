@@ -1,0 +1,19 @@
+{"batch":"sonnet_097","units":[
+{"book":16,"chapter":"10","verdict":"CLEAN","findings":[],"note":""},
+{"book":16,"chapter":"11","verdict":"CLEAN","findings":[],"note":""},
+{"book":16,"chapter":"12","verdict":"FINDINGS","findings":[
+{"quote":"a gulf some call by one name and most call the Bargylian Gulf, after the cities built around its inner recess","problem":"The Greek reads προσαγορευομένῳ ***, παρὰ δὲ τοῖς πλείστοις Βαργυλιητικῷ: the gulf's first name is lost in a lacuna (***). The English smooths the gap into 'some call by one name'. Greek says only that it is called [name lost], but by most the Bargylietic gulf, a name shared with the cities (συνωνύμως) at its head.","proposed_fix":"a gulf called *** [name lost in the Greek] but by most the Bargylian Gulf, a name shared with the cities built around its inner recess","touches_syntax":false,"confidence":"high"},
+{"quote":"never know how to stop opposing and resenting such declarations by historians throughout my whole work","problem":"οὐκ οἶδ᾽ ὅπως ... ἐναντιούμενος καὶ δυσανασχετῶν διατελῶ: 'I do not know how it is, but I continually find myself opposing and resenting'. οὐκ οἶδ᾽ ὅπως is an idiom for 'somehow'; it does not mean 'I do not know how to stop'.","proposed_fix":"somehow find myself, throughout my whole work, opposing and resenting such declarations by historians","touches_syntax":false,"confidence":"medium"}
+],"note":"Also, 'ten stades in circuit': Greek has only τὸ μέγεθος τῆς πόλεώς ἐστι δέκα στάδια ('the size of the city is ten stades'); 'in circuit' is an addition, but the sense is probably right, so not flagged."},
+{"book":16,"chapter":"13","verdict":"CLEAN","findings":[],"note":""},
+{"book":16,"chapter":"14","verdict":"CLEAN","findings":[],"note":""},
+{"book":16,"chapter":"15","verdict":"CLEAN","findings":[],"note":""},
+{"book":16,"chapter":"16","verdict":"CLEAN","findings":[],"note":""},
+{"book":16,"chapter":"17","verdict":"FINDINGS","findings":[
+{"quote":"and become altogether deep and unfordable.","problem":"The Greek ends the Alpheus passage with παντελῶς ἄβατος ὢν καὶ βαρύς. *** : a lacuna follows. The English reads on as if the passage were complete.","proposed_fix":"and become altogether deep and unfordable. [Text lost here in the Greek.]","touches_syntax":false,"confidence":"high"}
+],"note":""},
+{"book":16,"chapter":"18","verdict":"CLEAN","findings":[],"note":""},
+{"book":16,"chapter":"19","verdict":"FINDINGS","findings":[
+{"quote":"seized the high ground on the right","problem":"προκαταλαβόμενος τοὺς ὑπερδεξίους τόπους: 'having first occupied the commanding (overlooking) positions'. ὑπερδέξιος means advantageous high ground, not ground on the right; no side is stated (cf. ch. 18, τοὺς ὑπερκειμένους τῶν πολεμίων τόπους).","proposed_fix":"seized the commanding ground","touches_syntax":false,"confidence":"medium"}
+],"note":""}
+]}

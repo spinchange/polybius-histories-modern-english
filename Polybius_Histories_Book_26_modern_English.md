@@ -4,7 +4,7 @@ Modern English translation of the Greek text.
 
 ## Book 26 Chapter 1: Antiochus Epiphanes
 
-Antiochus, though called Epiphanes, was nicknamed Epimanes from his conduct. Polybius says of him that he would sometimes slip away from the court, eluding his attendants, and then be seen wandering about aimlessly in some quarter of the city with only two or three companions.
+Antiochus, though called Epiphanes, was nicknamed Epimanes from his conduct. Polybius says of him that he would sometimes slip away from the court, eluding his attendants, and then be seen wandering about aimlessly in some quarter of the city with only one or two companions.
 
 Most often he was found at the silversmiths’ and goldsmiths’ shops, chatting and showing his enthusiasm for craftsmanship with the metalworkers and other artisans.
 

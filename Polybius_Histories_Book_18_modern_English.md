@@ -108,7 +108,7 @@ As for the destruction of the Nicephorium and the precinct of Aphrodite, there i
 
 When Titus laughed again at this mockery, Philip turned to the Achaeans and first enumerated the benefactions that had been conferred upon them by Antigonus, and then his own.
 
-Next to these he set forth the magnitude of the honors that had been bestowed on them by the Achaeans.
+Next to these he set forth the magnitude of the honors that had been bestowed on Antigonus and himself by the Achaeans.
 
 Finally he read out the decree concerning their defection and their going over to the Romans; using this as his pretext, he said much against the Achaeans, charging them with faithlessness and ingratitude.
 
@@ -318,7 +318,7 @@ For the Greeks can barely manage even their own sarissas on the march and scarce
 
 There is also a great difference in the stakes themselves.
 
-The Greeks reckon the best stake to be one that has the most numerous and largest shoots growing all around the stem, while among the Romans the stakes have two or three prongs, or at most four—and they pick those that have these on one side only, not running off in every direction.
+The Greeks reckon the best stake to be one that has the most numerous and largest shoots growing all around the stem, while among the Romans the stakes have two or three prongs, or at most four—and stakes having these [...] are chosen [...] not alternately.
 
 As a result, carrying them becomes thoroughly easy—for a single man carries three or four stacked one upon another— and their use in service is exceptionally secure. For the Greek stake, when set in front of the camp, is in the first place easy to tear out: since the part that grips and is held fast by the ground is a single one, while the shoots branching from it are many and large, two or three men can take hold of the same stake by its shoots and pull it up easily.
 
@@ -452,7 +452,7 @@ Philip’s right wing was faring brilliantly in the engagement, since it was mak
 
 But as for the rest of his forces, the part next to those already engaged was still at a distance from the enemy, while the part on the left wing, having only just completed the climb over the heights, was just coming into view on the ridges.
 
-Titus, seeing that his own men could not withstand the charge of the phalanx but were being crushed on the left wing—some already dead, the rest slowly giving ground and retreating—and that what hopes of survival remained lay with his right, quickly rode over to that wing. Observing that of the enemy’s force one part was locked in close combat with those fighting, another was at that very moment descending from the heights, and another was still posted up on the heights, he put the elephants in front and led the standards against the enemy.
+Titus, seeing that his own men could not withstand the charge of the phalanx but were being crushed on the left wing—some already dead, the rest slowly giving ground and retreating—and that what hopes of survival remained lay with his right, quickly rode over to that wing. Observing that of the enemy’s force one part, adjoining those fighting, [...], another was at that very moment descending from the heights, and another was still posted up on the heights, he put the elephants in front and led the standards against the enemy.
 
 The Macedonians, having no one to give them orders and unable to close up and assume the phalanx’s proper formation—both because of the difficulty of the terrain and because, in following those already engaged, they were in the disposition of a marching column rather than a battle line— did not even let the Romans come to close quarters with them, but, panicked by the elephants alone and torn apart, they gave way.
 
@@ -470,7 +470,7 @@ But when he suddenly saw the Macedonians flinging away their arms and the enemy 
 
 Realizing that the Romans, in their pursuit of his left wing, were already drawing close to the heights, he turned to flight, gathering on the spur of the moment as many Thracians and Macedonians as he could.
 
-Titus, following the fugitives and coming upon the left-wing units of the Macedonians just as they were reaching the heights in the passes, at first halted, since the enemy held their pikes upright— which is the custom of the Macedonians whenever they surrender or go over to the other side.
+Titus, following the fugitives and coming upon the left-wing units of the Macedonians just as they were reaching the heights in the passes, at first [...] halted, since the enemy held their pikes upright— which is the custom of the Macedonians whenever they surrender or go over to the other side.
 
 Afterward, on learning the reason for what was happening, he held back his men, deciding to spare those who had lost heart.
 
@@ -614,7 +614,7 @@ As for Titus, after the battle he made the appropriate arrangements regarding th
 
 ## Book 18 Chapter 34: Flamininus and the Aetolians At Odds
 
-[...] in general, by the greed of the Aetolians over the spoils [...] nor did he wish, having driven Philip from power, to leave the Aetolians as masters of the Greeks.
+[...] in general, by the greed of the Aetolians over the spoils [...] or because he did not wish, having driven Philip from power, to leave the Aetolians as masters of the Greeks.
 
 He was also irritated by their boastfulness, when he saw them claiming the victory as their own and filling Greece with reports of their valor.
 
@@ -752,7 +752,7 @@ And greatest of all, having left four sons in the prime of life, he so well orde
 
 ## Book 18 Chapter 41a: Antiochus Covets Ephesus
 
-They tried to prevent Antiochus from sailing along the coast, not out of hostility toward him, but because they feared that, if he strengthened Philip, he would become an obstacle to the freedom of the Greeks.
+[...] to prevent Antiochus from sailing along the coast, not out of hostility toward him, but because they feared that, if he strengthened Philip, he would become an obstacle to the freedom of the Greeks.
 
 King Antiochus was especially eager to gain Ephesus because of its strategic position: it seemed to give him, by land and by sea alike, a commanding post against Ionia and the cities on the Hellespont, and for the kings of Asia it offered an exceptionally useful defensive base against Europe.
 
@@ -828,7 +828,7 @@ These decisions having been reached, the festival of the Isthmian games came rou
 
 Some claimed it was impossible for the Romans to give up certain places and cities; others determined that they would give up the places that seemed most prominent, but would keep those of lesser appearance that could nonetheless render the same service.
 
-And in their cleverness in arguing against one another, these speakers immediately gave themselves away.
+And they themselves at once pointed out which these places were, in their ingenious arguments with one another.
 
 While people were in this state of uncertainty, and the crowd had gathered in the stadium for the contest, the herald came forward and, having called for silence by means of the trumpeter, proclaimed the following announcement:
 
@@ -896,7 +896,7 @@ These men were envoys dispatched by the Senate to arrange the settlement between
 
 ## Book 18 Chapter 50: Conference Between Roman Legates and Antiochus
 
-At about the same time there also arrived two of the ten commissioners: Publius Lentulus from Bargylia, and Lucius Terentius and Publius Villius from Thasos.
+At about the same time there also arrived three of the ten commissioners: Publius Lentulus from Bargylia, and Lucius Terentius and Publius Villius from Thasos.
 
 When the king was quickly informed of their arrival, within a few days they all gathered together at Lysimacheia.
 

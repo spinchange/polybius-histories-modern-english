@@ -1,0 +1,19 @@
+{"batch":"sonnet_141","units":[
+{"book":32,"chapter":"1","verdict":"CLEAN","findings":[],"note":"Lacuna after Ῥωμαίων πράγματα is marked in English. Last sentence: ἀπηλλοτρίωτο τοῦ βασιλέως and διεφέρετο πρὸς τὸν Εὐμένη are both rendered literally; the Greek is slightly redundant (king = Eumenes presumably), no fix."},
+{"book":32,"chapter":"2","verdict":"CLEAN","findings":[],"note":""},
+{"book":32,"chapter":"3","verdict":"FINDINGS","findings":[
+{"quote":"therefore it very nearly refused to accept them","problem":"τούτους μὲν οὐ προσεδέξατο μικροῦ δεῖν: οὐ προσεδέξατο is a flat negative (the senate did not accept them, as ch. 2 states); μικροῦ δεῖν ('all but, practically') qualifies the whole statement. 'Very nearly refused' implies it did not quite refuse, i.e. it perhaps accepted them.","proposed_fix":"therefore it virtually refused to accept them","touches_syntax":false,"confidence":"medium"}],"note":"Idiom could be read either way; fix keeps the sense consistent with ch. 2."},
+{"book":32,"chapter":"4","verdict":"CLEAN","findings":[],"note":""},
+{"book":32,"chapter":"5","verdict":"CLEAN","findings":[],"note":""},
+{"book":32,"chapter":"6","verdict":"CLEAN","findings":[],"note":""},
+{"book":32,"chapter":"7","verdict":"FINDINGS","findings":[
+{"quote":"Envoys came from the Athenians, and from the Achaeans came Thearidas and Stephanus on behalf of the Delians.","problem":"Greek has a lacuna (***) after παρὰ τῶν Ἀθηναίων ἧκον πρέσβεις; the English reads on as if the sentence were whole.","proposed_fix":"Envoys came from the Athenians [text missing], and from the Achaeans came Thearidas and Stephanus on behalf of the Delians.","touches_syntax":false,"confidence":"high"}],"note":""},
+{"book":32,"chapter":"8","verdict":"FINDINGS","findings":[
+{"quote":"although he had three brothers close to him in age and active in affairs","problem":"Greek: ἀδελφοὺς ἔχων τρεῖς καὶ κατὰ τὴν ἡλικίαν καὶ πρᾶξιν *** : there is a lacuna after πρᾶξιν (the predicate adjective(s) governing 'in age and in action' is missing). The English supplies 'close to him' and 'active in affairs' as if the text were whole.","proposed_fix":"although he had three brothers, [text missing] in age and in action","touches_syntax":false,"confidence":"high"}],"note":""},
+{"book":32,"chapter":"9","verdict":"CLEAN","findings":[],"note":""},
+{"book":32,"chapter":"10","verdict":"CLEAN","findings":[],"note":""},
+{"book":32,"chapter":"11","verdict":"FINDINGS","findings":[
+{"quote":"But after summarizing his downfall, I shall bring","problem":"τὴν τούτου κάθοδον: κάθοδος means 'return/going down (home)', not 'downfall'. The same word is used at the end of the paragraph for the return of Ariarathes (τὴν ἐπὶ τὰ πράγματα κάθοδον Ἀριαράθου), and ch. 12 treats Ariarathes' καταγωγή. 'Downfall' is unsupported by the Greek.","proposed_fix":"But after summarizing his return, I shall bring","touches_syntax":false,"confidence":"medium"}],"note":"Referent of τούτου (Orophernes vs Ariarathes) is ambiguous in the Greek; fix preserves the ambiguity. Also the opening sentence (διὰ τὴν πρὸς τὸ πλεῖον ἐπιθυμίαν καὶ τὸ πνεῦμα προσέθηκαν τοῖς χρήμασιν, οἷς ... κατάληπτος γενόμενος) is obscure and possibly corrupt; English 'ensnared by wealth' is an interpretation, left alone with no fix."}
+,
+{"book":32,"chapter":"12","verdict":"CLEAN","findings":[],"note":""}
+]}

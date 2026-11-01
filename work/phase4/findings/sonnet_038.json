@@ -1,0 +1,9 @@
+{"batch":"sonnet_038","units":[
+{"book":4,"chapter":"8","verdict":"CLEAN","findings":[],"note":""},
+{"book":4,"chapter":"9","verdict":"FINDINGS","findings":[{"quote":"saying that it was not possible to admit any new member apart from Philip and the other allies","problem":"Greek: οὐ φάσκοντες δυνατὸν εἶναι χωρὶς Φιλίππου καὶ τῶν συμμάχων οὐδένα προσλαβεῖν = it was not possible to admit anyone WITHOUT Philip and the allies (i.e. without their consent). The English 'apart from' reads as an exception (only Philip and the allies could be admitted), inverting the sense.","proposed_fix":"saying that it was not possible to admit anyone without Philip and the allies","touches_syntax":false,"confidence":"high"}],"note":""},
+{"book":4,"chapter":"10","verdict":"CLEAN","findings":[],"note":"Chapter ends mid-sentence in the Greek (περὶ | Μεθύδριον in next chapter); English marks the seam with [...], which is faithful."},
+{"book":4,"chapter":"11","verdict":"CLEAN","findings":[],"note":"Seam at chapter end (ἀκόλουθον | τὸ τέλος ...) marked with [...]; faithful."},
+{"book":4,"chapter":"12","verdict":"CLEAN","findings":[],"note":"Numbers (500; more than 2000) correct. Seams at start and end marked."},
+{"book":4,"chapter":"13","verdict":"CLEAN","findings":[],"note":"Seams at start and end marked."},
+{"book":4,"chapter":"14","verdict":"CLEAN","findings":[],"note":"Olympiad number (140th, τετταρακοστὴν ἐπὶ ταῖς ἑκατόν) correct."}
+]}

@@ -1,0 +1,12 @@
+[
+{"id":"F0337","verdict":"REVISE","fix":"had been the first to attack him","reason":"τὰς χεῖρας ἐπιβάλλει αὐτῷ: Ptolemy attacks Antiochus first; 'territory not his' is invented. 'Attack' avoids the arrest sense of 'lay hands on'."},
+{"id":"F0338","verdict":"ACCEPT","fix":"saying that [...] he would make Gentius well disposed","reason":"Lacuna after ἐξιγμένον; 'somehow' papers over the gap."},
+{"id":"F0339","verdict":"REVISE","fix":"would have been found wanting","reason":"ἐξελεγχθῆναι = be exposed or proved wanting (shown to be bribable), not 'won over'; 'put to the proof' loses the failure."},
+{"id":"F0340","verdict":"REJECT","fix":"","reason":"καλῶς ποιῶν is the idiom 'happily, and a good thing too'; 'by good fortune' gives that sense. Polybius is not praising Perseus."},
+{"id":"F0341","verdict":"HUMAN","fix":"only a very few Greeks were guilty of utter folly at the crisis of the action","reason":"Passive ἠλογήθησαν is unclear: 'acted foolishly' (Paton) fits context, 'were disregarded' is possible. 'Driven' is unsupported either way."},
+{"id":"F0342","verdict":"REVISE","fix":"word reached the Achaeans concerning King Ptolemy that the customary rites performed for kings when they come of age, the Anacleteria, had now taken place in his case","reason":"Impersonal προσπεσόντος = news arrived, Ptolemy did not apply; διότι = 'that'. Named ἀνακλητήρια restored without parentheses."},
+{"id":"F0343","verdict":"ACCEPT","fix":"he was to send his fellow envoys off at once to report this","reason":"Polybius is the subject of πέμπειν (contrast αὐτὸν δέ); his colleagues are the ones sent."},
+{"id":"F0345","verdict":"ACCEPT","fix":"Alcithus and Pasiadas","reason":"Ἀλκίθον is the accusative of Ἀλκίθος."},
+{"id":"F0346","verdict":"ACCEPT","fix":"Agesilochus son of Hegesias, Nicagoras and Nicander were sent to Rome","reason":"Three envoys are listed; Nicander is not Nicagoras' father."},
+{"id":"F0347","verdict":"ACCEPT","fix":"those of the envoys from Greece who had been sent to arrange a settlement came to meet him","reason":"Partitive genitive: a single group, the Greek envoys sent to arrange peace, who then speak."}
+]

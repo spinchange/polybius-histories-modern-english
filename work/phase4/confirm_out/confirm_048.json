@@ -1,0 +1,10 @@
+[
+{"id":"F0427","verdict":"REVISE","fix":"This having long since been firmly fixed in everyone’s mind","reason":"τούτου’s referent is lost with the excerpt context; ‘principle’ is invented. A neutral ‘this’ keeps the ambiguity without supplying a new noun."},
+{"id":"F0428","verdict":"ACCEPT","fix":"appointed five envoys with full powers","reason":"Five envoys are named (Gisco Strytanus, Hamilcar, Misdes, Gillimas, Mago); ‘two’ is a number error."},
+{"id":"F0429","verdict":"ACCEPT","fix":"Otherwise, they must then consider once more","reason":"εἰ δὲ μή refers back to the exception (an outrageous order), not to some course of action they might choose."},
+{"id":"F0430","verdict":"ACCEPT","fix":"in the dockyard of the sixteen-banked ship [...]","reason":"ἑκκαιδεκήρους means sixteen-banked and is singular; the Greek breaks off at *** after νεώριον."},
+{"id":"F0431","verdict":"REVISE","fix":"All of them, crying out together, were at once as though paralyzed.","reason":"The Greek has οἱ δὲ πάντες with no group named; ‘senators’ is supplied. The fix restores ἅμα and ἐξ αὐτῆς."},
+{"id":"F0433","verdict":"REVISE","fix":"and still others toward the gates of the city [...]","reason":"The verb is lost in the lacuna, so ‘hurried’ is invented. Marked with the project’s [...], not the candidate’s nonstandard bracket text."},
+{"id":"F0434","verdict":"REVISE","fix":"[...] when men are deliberating from scratch, and to take even greater care to avoid suffering harm than to do harm to their enemies.","reason":"There is a lacuna after ἔφη, and ποιεῖσθαι depends on a lost main clause; ‘they should’ was invented. Kept close to the existing wording."},
+{"id":"F0435","verdict":"HUMAN","fix":"Scipio’s agreement and his handling of the situation","reason":"ὁμολογία means agreement or compact (probably with Phameas, in a fragment lacking context), not ‘statement’. The sense is uncertain, so the translator should confirm."}
+]

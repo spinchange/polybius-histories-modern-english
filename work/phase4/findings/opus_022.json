@@ -1,0 +1,7 @@
+{"batch":"opus_022","units":[
+{"book":10,"chapter":"8","verdict":"CLEAN","findings":[],"note":"Opening Greek clause (καὶ Ποπλίῳ τῷ πατρὶ περιπέσῃ συμφοραῖς) and closing περὶ ταύτην run across the chapter seams; the English handles both without loss of sense."},
+{"book":10,"chapter":"9","verdict":"CLEAN","findings":[],"note":"Numbers (25,000 foot, 2,500 horse, seventh day) check. Philip = Philip V; the English is unambiguous in context."},
+{"book":10,"chapter":"10","verdict":"FINDINGS","findings":[{"quote":"Opposite it on the west is another hill in a corresponding position","problem":"The Greek has a lacuna: τούτῳ δ᾽ ὁ * ἀπὸ τῆς δύσεως ἀντίκειται. A word (probably the hill's name or a qualifier) has dropped out after ὁ; the English supplies 'another hill' and reads on as if the text were whole.","proposed_fix":"Opposite it on the west is the [...] hill, in a corresponding position","touches_syntax":false,"confidence":"medium"}],"note":"Lacuna is short (likely one word). The 20/10/2 stades figures and compass points all check."},
+{"book":10,"chapter":"11","verdict":"CLEAN","findings":[],"note":"20 vs 40 stades checks."},
+{"book":10,"chapter":"12","verdict":"CLEAN","findings":[],"note":"2,000 men, third hour, 1,000 halved, two stades all check. Gaius = Gaius Laelius, consistent with ch. 9."}
+]}

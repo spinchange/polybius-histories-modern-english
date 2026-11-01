@@ -28,7 +28,7 @@ As the situation allowed no real choice, he put to sea unexpectedly, contrary to
 
 For Attalus and his side still thought he would remain where he was and continue the mining works.
 
-Philip was especially eager to make his departure sudden, convinced that if he could throw them into confusion he would then sail the rest of the way safely along the coast to Samos.
+Philip was especially eager to make his departure sudden, convinced that he would get the start of them and then sail the rest of the way safely along the coast to Samos.
 
 But he was badly mistaken in his calculations. As soon as Attalus and Theophiliscus saw him putting out, they at once took action.
 
@@ -38,7 +38,7 @@ Even so, by rowing with great energy they attacked, Attalus striking the enemy�
 
 Philip, caught in these dangerous circumstances, gave the signal to the ships on his right, ordered them to turn their prows toward the enemy and fight hard at close quarters, while he himself withdrew under the little islands that lay in the channel, taking some light craft with him and watching how the battle would turn out.
 
-The ships engaged on Philip’s side were fifty-three decked vessels, besides undecked ships, and a hundred and fifty light boats and cutters, since he had not been able to equip all the ships at Samos.
+The ships engaged on Philip’s side were fifty-three decked vessels, besides [...] undecked ships, and a hundred and fifty light boats and cutters, since he had not been able to equip all the ships at Samos.
 
 The enemy had sixty-five decked ships, including those from Byzantium, together with nine triemioliai and three triremes.
 
@@ -72,7 +72,7 @@ In the uproar and confusion that followed, all the rest of his marines were lost
 
 The fight among the rest of the ships was evenly matched.
 
-Philip had the advantage in the number of his light craft, but Attalus had the advantage in the number of decked ships.
+For by as much as Philip had the advantage in the number of his light craft, by so much Attalus had the advantage in the number of decked ships.
 
 So on Philip’s right wing matters stood in such a way that the final outcome was still uncertain, though Attalus had the better hopes.
 
@@ -218,13 +218,13 @@ At first the people of Prinassus held out bravely. But then Philip sent and told
 
 ## Book 16 Chapter 12: Description of Iassus
 
-The city of Iassus lies in Asia, on the gulf between the Poseidium of the Milesians and the city of Myndus, a gulf some call by one name and most call the Bargylian Gulf, after the cities built around its inner recess.
+The city of Iassus lies in Asia, on the gulf between the Poseidium of the Milesians and the city of Myndus, a gulf called [...], but by most the Bargylian Gulf, after the cities built around its inner recess.
 
 The Iassians claim that they were originally colonists from Argos, and later from Miletus, because after they had suffered losses in the Carian war their ancestors brought in a son of Neleus, founder of Miletus. The city is ten stades in circuit.
 
 At Bargylia there is a famous and widely believed story that the image of Artemis Cindyas, though it stands in the open air, is never touched by snow or rain, and among the people of Iassus there is a similar story about Artemis Astias. Some historians have repeated such tales.
 
-But I, for my part, never know how to stop opposing and resenting such declarations by historians throughout my whole work.
+But I, for my part, somehow find myself, throughout my whole work, opposing and resenting such declarations by historians.
 
 It seems to me that stories of this kind belong wholly to childish foolishness, since they go beyond not only what is probable but even what is possible.
 
@@ -318,7 +318,7 @@ Finally, he says that the Alpheus disappears underground right from its source, 
 
 In fact, the river disappears not far from its source and, after being hidden for ten stades, comes up again.
 
-After that it flows through the territory of Megalopolis, at first gently, then growing larger, and after running clearly through that whole region for about two hundred stades it reaches Lycoa, having by then also taken in the stream of the Lusius and become altogether deep and unfordable.
+After that it flows through the territory of Megalopolis, at first gently, then growing larger, and after running clearly through that whole region for about two hundred stades it reaches Lycoa, having by then also taken in the stream of the Lusius and become altogether deep and unfordable. [...]
 
 Still, all these faults seem to me to be mistakes that admit excuse. Some arose from ignorance, and what he wrote about the naval battle came from affection for his own country.
 
@@ -364,7 +364,7 @@ What part of the cavalry, then, was there in the middle of the phalanx to be fri
 
 And where was the king, or what service did he render in the battle, when he had with him the finest body of infantry and cavalry around his own person? Nothing at all is said about these matters.
 
-And where was the elder son Antiochus, who with part of the army had seized the high ground on the right?
+And where was the elder son Antiochus, who with part of the army had seized the commanding ground?
 
 For this man does not even return to camp in Zeno’s account after the battle. Naturally enough, because Zeno assumed that the king had two sons named Antiochus, when in fact there was only one serving on that campaign.
 
@@ -394,7 +394,7 @@ Tlepolemus, who had charge of the royal government in Egypt, was young in years 
 
 By nature he was high-strung and ambitious, and in general he brought many qualities useful for action, but many harmful ones as well.
 
-He was capable of commanding in the field and handling military operations, naturally courageous, and well suited for dealings with soldiers.
+He was capable of commanding in the field and handling military operations, [...] naturally courageous, and well suited for dealings with soldiers.
 
 But for the management of complicated affairs, which requires steady attention and sobriety, and for guarding money and organizing finances with an eye to advantage, he was the least capable of all men.
 
@@ -416,7 +416,7 @@ And when he heard the universal praise lavished on him, the toasts drunk to him 
 
 ## Book 16 Chapter 22: Intrigues At Alexandria
 
-These foreign and military favors irritated the people at court, and they watched everything closely, resented his arrogance, and increasingly contrasted him with Sosibius.
+These foreign and military favors irritated the people at court, and they watched everything closely, resented his arrogance, and by comparison admired Sosibius.
 
 For Sosibius was thought to be more prudent in his management of the king than his years would suggest, and to conduct dealings with outsiders in a manner worthy of the trust committed to him, namely the royal seal and the king’s person.
 
@@ -476,9 +476,9 @@ For he was well aware of the embassies being sent to Rome against him, now that 
 
 For because his army was starving, he fed it now by plundering and stealing from some, now by using force against others, and at times even by fawning in a way unnatural to him; sometimes they got meat, sometimes figs, and sometimes only a very scanty amount of grain.
 
-Some of these supplies were provided by Zeuxis, others by the people of Mylae, Alabanda, and Magnesia. When any of them gave him something he flattered them, but when they did not, he barked at them and plotted against them.
+Some of these supplies were provided by Zeuxis, others by the people of Mylasa, Alabanda, and Magnesia. When any of them gave him something he flattered them, but when they did not, he barked at them and plotted against them.
 
-In the end he tried, through Philocles, to bring about operations against the city of Mylae, but the attempt failed through the stupidity of the scheme.
+In the end he tried, through Philocles, to bring about operations against the city of Mylasa, but the attempt failed through the stupidity of the scheme.
 
 As for the territory of the Alabandians, he ravaged it like enemy land, saying that he had to secure provisions for his army.
 
@@ -632,7 +632,7 @@ When the inner wall fell, the Abydenians leaped onto the breach and fought the e
 
 For the Abydenians who had stepped forward first did not merely stand on the bodies of the dying enemy and fight with fierce resolve, nor did they only use their swords and spears with reckless bravery.
 
-When any of those weapons became useless or were violently knocked from their hands, they grappled with the Macedonians, threw some down with all their armor, and shattered the sarissas of others, then with the broken splinters stabbed their faces and exposed parts, throwing them into total confusion.
+When any of those weapons became useless or were violently knocked from their hands, they grappled with the Macedonians, threw some down with all their armor, and shattered the sarissas of others, then with the very fragments [...] struck their faces and exposed parts with the spear-points, throwing them into total confusion.
 
 But when night came on and the fighting ceased, with most of the citizens dead at the breach and the rest exhausted by toil and wounds, Glaucides and Theognetus gathered a few of the older men together and, for the sake of their own hopes, cast down the noble and astonishing greatness of their fellow citizens’ resolve.
 
@@ -718,7 +718,7 @@ But since the siege had been conducted in a wandering and ineffective way, Scopa
 
 And in the same book Polybius says that “when Scopas was defeated by Antiochus, Antiochus took Batanaea, Samaria, Abila, and Gadara.
 
-A little later the Jews living around the sanctuary of the place called Jerusalem also went over to him.
+A little later the Jews living around the sanctuary called Jerusalem also went over to him.
 
 We have more to say about this place, and especially about the renowned manifestation connected with the sanctuary there, but we shall postpone that account to another time.”
 

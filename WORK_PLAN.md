@@ -335,3 +335,36 @@ Sonnet drafts; the user signs off (this is the one phase that is mostly human):
   (d) Book 20 `## II. Fragment of Uncertain Place` still has no chapter number.
 - Log note: one clerk's status.csv rewrite clobbered ~16 concurrent rows; book-file edits are
   intact (the diff is the record). Lesson: parallel agents append only.
+
+## Phase 4 outcome (2026-10-31)
+
+- **Step 1 (verified fixes):** applied from the spec by a Sonnet philologist; deviations where the
+  Greek disagreed with the spec are logged in `work/status.csv` (e.g. 35.1: νὺξ διέλυε really does say
+  night ended the fighting; 6.12 is optative προθεῖντο; the Book 6 fragment is in ch. 2). **Open:** 39.7
+  "Ptolemy king of Syria" — the Greek really reads Συρίας; not emended (Phase 4 spec said drop it).
+- **Discovery sweep:** `phase4_prep.py` → 191 batches (42 Opus / 209 chapters incl. Book 6, 38, 39 whole;
+  149 Sonnet / 1,101 chapters). 436 findings (90 Opus-tier, 346 Sonnet-tier); every quote matched the text.
+  Dominant error classes: lacunae the English read straight over (≈ half), then sense inversions,
+  wrong numbers, wrong names.
+- **Confirm/finalize:** 385 findings (all Opus high/medium + Sonnet high/medium/structural) went to
+  48 Opus confirm batches: 201 ACCEPT, 131 REVISE, 23 REJECT, 30 HUMAN. Opus normalized every lacuna
+  marker to `[...]` and rejected Sonnet false positives (e.g. 1.44 Atarbas=Adherbal, 2.52 πρόβλημα,
+  5.95 instrumental dative). Low-confidence Sonnet findings (≈63) were NOT confirmed or applied.
+- **Applied:** 332 fixes by `phase4_apply.py` (exact-match, per-chapter, CRLF-preserving); 0 conflicts.
+  Log: `work/reports/phase4_applied.csv`. Plus: Ortiagon (22.21 heading), Aristophantus (5.6 heading).
+- **HUMAN (30, not applied):** `work/reports/phase4_human.md`. Need a translator's call — mostly corrupt
+  Greek (9.17, 12.28, 16.3, 22.16 papyrus, 24.12), disputed readings (10.3 negation, 14.8 subject,
+  36.17 "Demetrius" vs Philip), or unmarked-gap judgments (9.24, 38.21).
+- **Found but not filed by the sweep (do these next):** 39.6 μέγαν καιρὸν; 1.22 invented closing bracket
+  → `[...]`; 1.37 "fortune"→"Fortune"; 14.7 "and link up" → "would link up" (after the 14.6 fix);
+  26.1 "gazelle horn" knucklebones; 36.5 ἀλλὰ καθ᾽ ὃν καιρὸν; 36.14 Malleolus, 36.15 Bithynians,
+  36.17 leftover "[fragmentary text continues]" labels; 32.11 "[Text missing.]" marker; 10.15/16 and
+  3.53/54 duplicated clauses at chapter joins; 8.24 heading doesn't fit its content (Books 7–19 were
+  never alignment-screened); 6.19–6.18 etc. fine.
+- **Chapter-break policy (open):** many chapter divisions cut a sentence mid-clause or mid-word
+  (3.116 `προσ|πεπτωκότας`, 4.13/14 `Phi|lip`, 38.3, 38.6 …). Phase 4 corrected the worst English
+  inventions but the policy (rejoin / `[...]` / unmarked) is still your call.
+- **Build note:** another process was editing `build_epub.py` (book plates), `EDITORIAL_NOTE.md`,
+  `art/`, `work/art/` during this phase; dist/ was NOT regenerated in this commit. EPUBCheck was run in a
+  clean worktree with only Phase 4's book edits: 0 fatals / 0 errors / 0 warnings. Rebuild dist after
+  the art work lands.

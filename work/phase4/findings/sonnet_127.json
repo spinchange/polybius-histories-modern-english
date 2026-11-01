@@ -1,0 +1,14 @@
+{"batch":"sonnet_127","units":[
+{"book":27,"chapter":"9","verdict":"FINDINGS","findings":[{"quote":"whether they knew that he was fighting unfairly","problem":"Greek: πότερον οὐ συνοίδασιν αὐτῷ ποιοῦντι τὰ δίκαια κατὰ τὴν ἄθλησιν - 'do they not realize that he (Cleitomachus, in indirect speech) is acting justly/fairly in the contest'. The English drops the οὐ and inverts the sense to 'unfairly'.","proposed_fix":"whether they were not aware that he himself was fighting fairly","touches_syntax":false,"confidence":"medium"}],"note":"Also: ἁπάντων ἀγὼν μικρὸς γίνεται (the 'whole crowd thrown into excitement') is an obscure idiom; English is an acceptable gloss, left alone."},
+{"book":27,"chapter":"10","verdict":"CLEAN","findings":[],"note":""},
+{"book":27,"chapter":"11","verdict":"CLEAN","findings":[],"note":""},
+{"book":27,"chapter":"12","verdict":"CLEAN","findings":[],"note":""},
+{"book":27,"chapter":"13","verdict":"CLEAN","findings":[],"note":""},
+{"book":27,"chapter":"14","verdict":"CLEAN","findings":[],"note":""},
+{"book":27,"chapter":"15","verdict":"CLEAN","findings":[],"note":""},
+{"book":27,"chapter":"16","verdict":"CLEAN","findings":[],"note":""},
+{"book":27,"chapter":"17","verdict":"CLEAN","findings":[],"note":""},
+{"book":27,"chapter":"18","verdict":"CLEAN","findings":[],"note":""},
+{"book":27,"chapter":"19","verdict":"FINDINGS","findings":[{"quote":"in defiance of every principle of justice.","problem":"Greek ends πρότερος *** - the text breaks off after 'first' (lacuna); the English closes the sentence as if complete.","proposed_fix":"in defiance of every principle of justice [the text breaks off here].","touches_syntax":false,"confidence":"high"}],"note":""},
+{"book":27,"chapter":"20","verdict":"CLEAN","findings":[],"note":""}
+]}

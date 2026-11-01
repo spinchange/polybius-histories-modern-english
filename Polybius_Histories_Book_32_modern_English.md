@@ -126,7 +126,7 @@ But Charops, after withdrawing, concealed that answer, and instead wrote home a 
 
 Olympiad 155, year 2. Affairs in Italy.
 
-Envoys came from the Athenians, and from the Achaeans came Thearidas and Stephanus on behalf of the Delians.
+Envoys came from the Athenians [...], and from the Achaeans came Thearidas and Stephanus on behalf of the Delians.
 
 For after the Romans had given the Delians the answer that, once Delos had been granted to the Athenians, they themselves must withdraw from the island, though they might carry away their possessions, the Delians moved to Achaea, obtained citizenship there, and wished to obtain justice from the Athenians under the agreement between the Athenians and the Achaeans.
 
@@ -142,7 +142,7 @@ For in the first place, when he inherited from his father a kingdom narrowed dow
 
 Second, he showed the greatest eagerness for honor, and benefited more Greek cities than any of the kings of his time, while also attaching more private individuals personally to himself.
 
-Third, although he had three brothers close to him in age and active in affairs, he kept all of them obedient to him, serving as his supporters and preserving the dignity of the kingship.
+Third, although he had three brothers [...] both in age and in action, he kept all of them obedient to him, serving as his supporters and preserving the dignity of the kingship.
 
 Such a thing one would rarely find to have happened.
 
@@ -178,7 +178,7 @@ So, with falsehood winning the day almost without a struggle, they thought the a
 
 Many men, through their craving for ever more and their overbearing spirit, have been ensnared by wealth; Orophernes, king of Cappadocia, was caught in this trap, ruined, and driven from his kingdom.
 
-But after summarizing his downfall, I shall bring the narrative back to the usual order that I follow throughout this work.
+But after summarizing his return, I shall bring the narrative back to the usual order that I follow throughout this work.
 
 For just now I passed over events in Greece and anticipated the events in Asia, namely those in Cappadocia, because Ariarathes’ departure from Italy and his return to take up affairs there did not admit of any reasonable division.
 

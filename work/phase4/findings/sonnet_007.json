@@ -1,0 +1,8 @@
+{"batch":"sonnet_007","units":[
+{"book":1,"chapter":"45","verdict":"CLEAN","findings":[],"note":""},
+{"book":1,"chapter":"46","verdict":"CLEAN","findings":[],"note":"Ends mid-sentence in Greek (object of the dismaying lost to ch. 47); English '[...]' marks this correctly."},
+{"book":1,"chapter":"47","verdict":"CLEAN","findings":[],"note":"Begins mid-sentence (participle of ch. 46); English handles the seam."},
+{"book":1,"chapter":"48","verdict":"CLEAN","findings":[],"note":""},
+{"book":1,"chapter":"49","verdict":"CLEAN","findings":[],"note":"Greek breaks off at 'εἴς' (completed by 'πλου' in ch. 50); English reads the joined text correctly."},
+{"book":1,"chapter":"50","verdict":"CLEAN","findings":[],"note":"Opens with 'πλου' (continuing ch. 49); the bracketed [the Romans] after 'τὸ λαιὸν τῶν πολεμίων' is preserved from the Greek's [Ῥωμαίων]."}
+]}

@@ -1,0 +1,7 @@
+[
+{"id":"F0213","verdict":"REVISE","fix":"the Aetolians had slipped into debt unnoticed, not only by others but even by themselves.","reason":"οὐ μόνον ἄλλους ἀλλὰ καὶ σφᾶς αὐτούς: climax is 'even themselves'; English inverted it. Kept 'slipped into debt'."},
+{"id":"F0214","verdict":"ACCEPT","fix":"[...] was engaged in this kind of villainy","reason":"Fragment opens mid-sentence with subject lost; ἐγένετο περί = was occupied with; 'that followed' is invented."},
+{"id":"F0215","verdict":"REVISE","fix":"For, he said, Philip would have been willing to undertake anything rather than let his intentions in these matters become apparent to the Rhodians.","reason":"πᾶν … ἢ = anything rather than; accusative-infinitive is Heracleides' reported plea, not narrator's statement."},
+{"id":"F0216","verdict":"ACCEPT","fix":"After greeting the man, Nabis would raise the figure from its seat, have it put its arms around him, and gradually draw him toward its breast.","reason":"δεξιωσάμενος is masculine (Nabis); τὴν γυναῖκα is the figure; current English garbles agents."},
+{"id":"F0217","verdict":"REJECT","fix":"","reason":"εὐκαιρία/εὐκαιρέω in Polybius commonly means being well-off, prosperity; 'prosperity' is defensible."}
+]

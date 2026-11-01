@@ -1,0 +1,8 @@
+[
+{"id":"F0001","verdict":"ACCEPT","fix":"For neither is it likely that the one will ever properly arrange treatments for the body, nor is it possible for the man of affairs to handle any situation that arises as he should, without knowledge of the things just mentioned.","reason":"οὔτε … οὔτε denies both outright; 'no more likely … than' turns it into a comparison and asserts neither impossibility."},
+{"id":"F0002","verdict":"ACCEPT","fix":"he would at once have made a fresh beginning and begun preparations for action","reason":"ἀρχήν is 'beginning', the technical term Polybius keeps apart from πρόφασις; 'pretext' swaps in the term he contrasts it with."},
+{"id":"F0003","verdict":"ACCEPT","fix":"because the initial premises they adopt are false and irrational","reason":"λαμβάνειν means they adopt false premises, not that they regard their premises as false."},
+{"id":"F0004","verdict":"ACCEPT","fix":"to join in helping him secure the throne, [...] he agreed,","reason":"The Greek has a lacuna (***) before ὑπήκουσε, and the English ran straight over it."},
+{"id":"F0005","verdict":"ACCEPT","fix":"and attacked them in a certain gorge that was hard to pass and ringed with cliffs [...]","reason":"φάραγγα is the object of περαιουμένων (53.1); the bracketed 'seizing' was invented. The closing [...] marks the chapter seam."},
+{"id":"F0006","verdict":"ACCEPT","fix":"[...] kept up the fight.","reason":"This is the tail of προσπεπτωκότας from 115.12 (attackers, not the dead). Chapter 115 ends with 'on the flanks [...]', so this completes the seam."}
+]

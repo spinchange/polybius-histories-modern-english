@@ -1,0 +1,9 @@
+{"batch":"sonnet_009","units":[
+{"book":1,"chapter":"58","verdict":"CLEAN","findings":[],"note":""},
+{"book":1,"chapter":"59","verdict":"CLEAN","findings":[],"note":""},
+{"book":1,"chapter":"60","verdict":"CLEAN","findings":[],"note":""},
+{"book":1,"chapter":"61","verdict":"CLEAN","findings":[],"note":""},
+{"book":1,"chapter":"65","verdict":"FINDINGS","findings":[{"quote":"an internal war broke out to receive the Romans—the one against the people called the Faliscans","problem":"ἐξεδέξατο γάρ πόλεμος ἐμφύλιος Ῥωμαίους μέν ... καρχηδονίους δέ: ἐξεδέξατο means 'succeeded/followed' (the war followed the settlement, for the Romans on one side, for the Carthaginians on the other, μέν ... δέ). 'Broke out to receive the Romans' garbles the verb and the μέν ... δέ parallel with the Carthaginian clause.","proposed_fix":"an internal war followed for the Romans—the one against the people called the Faliscans","touches_syntax":false,"confidence":"high"}],"note":""},
+{"book":1,"chapter":"66","verdict":"CLEAN","findings":[],"note":"Chapter ends with a bracketed [...] where the Greek text breaks off mid-sentence (continues at Ch. 67); this is an honest seam, not a smoothed lacuna."},
+{"book":1,"chapter":"67","verdict":"CLEAN","findings":[],"note":"Opening [...] marks the seam with Ch. 66; numbers (120 stades, more than 20,000, four or five interpreters) match the Greek."}
+]}

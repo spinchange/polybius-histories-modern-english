@@ -1,0 +1,23 @@
+{"batch":"sonnet_082","units":[
+{"book":11,"chapter":"10","verdict":"CLEAN","findings":[],"note":"Greek has τοὺς ὄχλους (the levies/masses); English 'the young men' is an addition but not in the listed error classes; left alone."},
+{"book":11,"chapter":"11","verdict":"CLEAN","findings":[],"note":""},
+{"book":11,"chapter":"12","verdict":"CLEAN","findings":[],"note":"ἐπὶ δόρυ = toward the spear side (right); 'by the right' is correct."},
+{"book":11,"chapter":"13","verdict":"FINDINGS","findings":[
+{"quote":"For although the citizens in democracies are generally more eager in military struggles than the civic subjects of tyrants, the mercenaries","problem":"Greek has the proportional correlative ὅσῳ … τοσούτῳ ('by as much as … by so much'): the more eager the democratic masses are than the tyrants' civic subjects, the more the monarchs' mercenaries surpass those of democracies. English turns it into a concessive 'although'.","proposed_fix":"For to the degree that the masses in democracies are more eager in military struggles than the citizens subject to tyrants, to that same degree the mercenaries","touches_syntax":true,"confidence":"high"}
+],"note":""},
+{"book":11,"chapter":"14","verdict":"FINDINGS","findings":[
+{"quote":"when the entire mercenary force had broken the Achaeans and the left wing had collapsed","problem":"τοῦ ξενικοῦ παντὸς ἐγκεκλικότος τοῖς Ἀχαιοῖς καὶ παραλελυμένου τοῦ λαιοῦ κέρως: the whole mercenary force of the Achaeans had given way and the left wing was broken up. English inverts the agent (mercenaries broke the Achaeans).","proposed_fix":"when the entire Achaean mercenary force had given way and the left wing had been broken up","touches_syntax":false,"confidence":"high"}
+],"note":""},
+{"book":11,"chapter":"15","verdict":"FINDINGS","findings":[
+{"quote":"he neither fled in panic nor withdrew in despair.","problem":"Greek has a lacuna (***) after ἀπέστη, before ἀλλ᾽ ὑποστείλας; English reads on as if whole.","proposed_fix":"he neither fled in panic nor withdrew in despair [gap in the Greek text here].","touches_syntax":false,"confidence":"medium"},
+{"quote":"he immediately ordered the front companies of the phalanx to wheel with locked shields and advance at the double","problem":"εὐθέως τοῖς πρώτοις τέλεσι … ἐπ᾽ ἀσπίδα κλίνων, προῆγε μετὰ δρόμου: Philopoemen himself wheeled the leading companies to the left (ἐπ᾽ ἀσπίδα = toward the shield side) and advanced at a run; 'locked shields' is not in the Greek.","proposed_fix":"he immediately wheeled the front companies of the phalanx to the left and advanced at the double","touches_syntax":true,"confidence":"high"},
+{"quote":"Polybius the Megalopolitan to gather the remaining Illyrians, armored troops, and mercenaries who had not joined in the flight","problem":"Πολυαίνῳ δ᾽ ἐπέταξε τῷ Μεγαλοπολίτῃ: the man is Polyaenus, not Polybius. Also τοὺς διακεκλικότας τὴν φυγήν = those who had turned/scattered in flight, the opposite of 'had not joined in the flight'.","proposed_fix":"Polyaenus the Megalopolitan to gather the survivors and the Illyrians, armored troops, and mercenaries who had scattered in flight","touches_syntax":false,"confidence":"high"},
+{"quote":"found himself beyond the enemy’s wing","problem":"ὑπερδέξιος τοῦ τῶν πολεμίων κέρατος means in a commanding position above/over the enemy's wing, not 'beyond' it.","proposed_fix":"found himself in a commanding position over the enemy’s wing","touches_syntax":false,"confidence":"medium"}
+],"note":""},
+{"book":11,"chapter":"16","verdict":"FINDINGS","findings":[
+{"quote":"In just such situations it is the commanders who are most often exposed to the gravest danger.","problem":"Greek ends in a lacuna: ἐν οἷς δὴ καὶ μέγιστα συμβαίνει τοὺς ἡγουμένους *** ; the predicate is missing. English invents a complete sentence.","proposed_fix":"In just such situations it very often happens that the commanders [text breaks off here in the Greek].","touches_syntax":true,"confidence":"high"}
+],"note":"Chapter ends in a gap."},
+{"book":11,"chapter":"17","verdict":"CLEAN","findings":[],"note":""},
+{"book":11,"chapter":"18","verdict":"CLEAN","findings":[],"note":""},
+{"book":11,"chapter":"18a","verdict":"CLEAN","findings":[],"note":""}
+]}

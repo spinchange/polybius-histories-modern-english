@@ -300,7 +300,7 @@ When Roman envoys first came to him, he met them with his head shaved, wearing a
 
 And after greeting the envoys he said, “You see before you your freedman, eager in every way to gratify you and imitate your customs.” It would not be easy to find a baser remark.
 
-Then, when he made his entrance into the senate, he stood facing the assembly at the doorway and, lowering both hands, bowed in reverence to the threshold and to the men seated there, crying out, “Hail, saving gods!” He left no possible excess of cowardice, effeminacy, and flattery for those who might come after him.
+[...] Then, when he made his entrance into the senate, he stood facing the assembly at the doorway and, lowering both hands, bowed in reverence to the threshold and to the men seated there, crying out, “Hail, saving gods!” He left no possible excess of cowardice, effeminacy, and flattery for those who might come after him.
 
 And in the audience itself he carried on in a manner consistent with this, about which even to write would have been indecent.
 
@@ -316,7 +316,7 @@ For since they had previously proclaimed this king to all the world as their for
 
 So, since something unwelcome was likely to follow from either course, they found this solution to the dilemma.
 
-Because they were generally displeased by visits from kings, they issued a decree that no king should come to them.
+As though they were generally displeased by visits from kings, they issued a decree that no king should come to them.
 
 Afterwards, learning that Eumenes had landed in Italy at Brundisium, they sent the quaestor with the decree and instructed him to ask whether he had any business with the senate; and if he needed nothing, to tell him to leave Italy as quickly as possible.
 
@@ -374,7 +374,7 @@ But when they were going through their rhythms with the proper movements, he sen
 
 When they were at a loss, one of the lictors showed them that they should turn, advance against each other, and stage something like a battle.
 
-The flute-players quickly understood, and, taking up behavior well suited to their own theatrical excesses, created a tremendous uproar.
+The flute-players quickly understood, and, taking up [...] well suited to their own excesses, created a tremendous uproar.
 
 Turning the middle choruses to face the outer ones, the flute-players blew with absurd force and drove them against one another in turns, waving their pipes about.
 
@@ -416,7 +416,7 @@ After them came the cavalry known as the Companions, about one thousand strong, 
 
 All those mentioned above had purple caparisons, and many had trappings embroidered with gold and figured designs.
 
-After these came one hundred six-horse chariots and forty four-horse chariots, then a chariot drawn by elephants and one drawn by a pair of horses. Behind them came thirty-six elephants, fully caparisoned, one after another.
+After these came one hundred six-horse chariots and forty four-horse chariots, then a chariot drawn by elephants and one drawn by a pair of elephants. Behind them came thirty-six elephants, fully caparisoned, one after another.
 
 The rest of the procession is hard to describe, so it must be given only in summary. About eight hundred young men marched in it wearing golden crowns, there were about one thousand well-fed oxen, the sacred delegations numbered just under three hundred, and there were eight hundred elephant tusks.
 

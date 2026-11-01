@@ -1,0 +1,9 @@
+{"batch":"sonnet_057","units":[
+{"book":5,"chapter":"63","verdict":"CLEAN","findings":[],"note":""},
+{"book":5,"chapter":"64","verdict":"CLEAN","findings":[],"note":"Greek breaks off mid-word (κίν); English marks the break with [...]."},
+{"book":5,"chapter":"65","verdict":"CLEAN","findings":[],"note":"All numbers checked against the Greek (3000, 2000, 25000, 8000, 700, 3000, 2000, 3000/1000, 3000, 20000, 4000+2000) and all agree. Greek breaks off at the end; English marks it."},
+{"book":5,"chapter":"66","verdict":"FINDINGS","findings":[{"quote":"the city called Dura","problem":"Greek has τὴν καλουμένην πόλιν Δῶρα, which is Dora (Dor on the Phoenician coast), not Dura.","proposed_fix":"the city called Dora","touches_syntax":false,"confidence":"medium"}],"note":""},
+{"book":5,"chapter":"67","verdict":"CLEAN","findings":[],"note":""},
+{"book":5,"chapter":"68","verdict":"CLEAN","findings":[],"note":"Greek breaks off at the end (δυ); English marks it with [...]."},
+{"book":5,"chapter":"69","verdict":"CLEAN","findings":[],"note":"Greek begins mid-word (νάμεως); English reads on from the previous chapter. Numbers (2000 killed, no fewer taken alive) agree."}
+]}

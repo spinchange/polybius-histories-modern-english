@@ -62,13 +62,13 @@ After the arrangement that the ten commissioners had made in Achaea, those same 
 
 But the man mentioned above kept himself so far from accepting any such thing that he even urged his friends not to desire anything at all from what the treasurer was selling.
 
-For as he went through the cities to sell the property of all who had been associated with Diaeus, he was doing so also for men who had been convicted, except for those who had children or parents.
+For the treasurer was going through the cities selling the property of all who had been associated with Diaeus and had also been condemned, except for those who had children or parents.
 
 Some of these men paid no attention, but those who followed his advice won the very best reputation among the citizens.
 
 ## Book 39 Chapter 5: Polybius Settles the New Constitution
 
-When these arrangements had been completed, the ten commissioners, with the spring season now beginning, sailed back to Italy, having left behind for all the Greeks a fine proof of Roman intent.
+When these arrangements had been completed in six months, the ten commissioners, with the spring season now beginning, sailed back to Italy, having left behind for all the Greeks a fine proof of Roman intent.
 
 As they were taking their leave, they instructed Polybius to travel through the cities and clear up whatever points the people found uncertain, until they had become accustomed to the constitution and the laws.
 
@@ -82,7 +82,7 @@ For this reason we must regard this among all the things mentioned above as Poly
 
 ## Book 39 Chapter 6: The Roman General’s Restraint in Greece
 
-After the Roman general had separated from the assembly in Achaea, he repaired the place at the Isthmus and adorned the temples at Olympia and Delphi, and on the following days he went from city to city, receiving honor in each and obtaining the respect appropriate to him.
+As for the Roman general, after the council of the ten had departed from Achaea, he repaired the place at the Isthmus and adorned the temples at Olympia and Delphi, and on the following days he went from city to city, receiving honor in each and obtaining the respect appropriate to him.
 
 And it was natural that he should be honored both publicly and privately.
 

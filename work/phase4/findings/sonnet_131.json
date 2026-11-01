@@ -1,0 +1,27 @@
+{"batch":"sonnet_131","units":[
+{"book":29,"chapter":"1","verdict":"CLEAN","findings":[],"note":""},
+{"book":29,"chapter":"2","verdict":"CLEAN","findings":[],"note":""},
+{"book":29,"chapter":"3","verdict":"FINDINGS","findings":[
+{"quote":"appointed Parmenion and Marcus","problem":"Greek has Μόρκον (Morcus, an Illyrian name), not the Roman Μᾶρκος; ch. 11 of the same book correctly reads Morcus.","proposed_fix":"appointed Parmenion and Morcus","touches_syntax":false,"confidence":"medium"}
+],"note":"Instruction clause 'first to take whatever hostages from Gentius Pantauchus thought fit' loosely renders ἐκεῖνον πέμπειν (Gentius is to send), but the sense survives; not flagged."},
+{"book":29,"chapter":"4","verdict":"FINDINGS","findings":[
+{"quote":"That embassy also succeeded in persuading the Rhodians to join the war.","problem":"Greek ἔπεισε δὲ καὶ τοὺς Ῥοδίους συνεμβαίνειν εἰς τὸν πόλεμον has no 'embassy' as subject; the subject is Perseus, continuing from the preceding sentence. The aorist is also odd against the Rhodians' actual course (ch. 10-11, they sue for peace), so the text may be corrupt or conative.","proposed_fix":"He also persuaded the Rhodians to join in the war.","touches_syntax":true,"confidence":"low"}
+],"note":"Possible corruption/conative sense (ἔπειθε?); if the editor prefers to preserve ambiguity, add a note rather than assert success."},
+{"book":29,"chapter":"5","verdict":"CLEAN","findings":[],"note":""},
+{"book":29,"chapter":"6","verdict":"FINDINGS","findings":[
+{"quote":"and then, when he came close to the wall at Demetrias, spoke first with Menecrates and then with Antimachus","problem":"Greek has a lacuna (***) after τῷ τείχει, before ἐκοινολογεῖτο, and another (* ** ) after Ἀντιμάχῳ before εἴρηται; English reads on as if whole. Also τὸ μὲν πρῶτον ... τὸ δὲ δεύτερον = 'the first time ... the second time'.","proposed_fix":"and again, when he came close to the wall at Demetrias, [text lost] he conversed, the first time with Menecrates and the second with Antimachus, [text lost]","touches_syntax":true,"confidence":"high"},
+{"quote":"And the fact that Herophon twice went as an envoy from Perseus to Eumenes","problem":"Greek has a lacuna (***) between Ἡροφῶν and ἐπρέσβευσε that the English smooths over.","proposed_fix":"And, further, that Herophon [text lost] twice went as envoy from Perseus to Eumenes","touches_syntax":false,"confidence":"medium"}
+],"note":"Opening 'I have already stated' rests on εἴρηται, which stands after a gap; the main verb context is lost. Chapter ends mid-sentence in Greek (τίς δ᾽ ... continues in ch. 7); English joins the two halves smoothly, acceptable."},
+{"book":29,"chapter":"7","verdict":"CLEAN","findings":[],"note":"Greek breaks off at τὴν ἐλ[πίδα]; completed in ch. 8; English handles this acceptably."},
+{"book":29,"chapter":"8","verdict":"CLEAN","findings":[],"note":"Numbers (500 and 1500 talents, fourth year) correct. 'later reached' for μετ᾽ ὀλίγον is slightly loose ('shortly after') but not a sense error."},
+{"book":29,"chapter":"9","verdict":"FINDINGS","findings":[
+{"quote":"Accordingly, Perseus’ dealings with the Gauls and with Gentius were of a piece with this—","problem":"Greek ἀκολούθως δὲ τούτοις Περσεὺς καὶ τὰ πρὸς Γαλάτας καὶ τὰ πρὸς Γένθιον *** breaks off in a lacuna; the predicate is lost. English invents 'were of a piece with this' as if the sentence were complete.","proposed_fix":"Accordingly, in keeping with this, Perseus’ affairs with the Gauls and with Gentius [text lost]","touches_syntax":true,"confidence":"high"}
+],"note":"Opening sentence: Greek μὴ καὶ μωροποιεῖσθαι συμβαίνει τὴν φιλαργυρίαν is obscure or corrupt (passive μωροποιεῖσθαι, odd μή); the English 'not only does harm' has no Greek counterpart. No fix proposed, only flagged as ambiguous."},
+{"book":29,"chapter":"10","verdict":"FINDINGS","findings":[
+{"quote":"as I have explained in my discussion of public speaking","problem":"Greek has the bracketed [ὡς ἐν τῷ περὶ δημηγορίας τέθειται], passive 'as is set down in the (work) on public speaking', an editorial or cross-reference gloss in brackets, not a first-person statement by Polybius.","proposed_fix":"[as is set down in the work on public speaking]","touches_syntax":false,"confidence":"medium"}
+],"note":""},
+{"book":29,"chapter":"11","verdict":"FINDINGS","findings":[
+{"quote":"When the envoys from Gentius, together with those led by Parmenio and Morcus and accompanied by Metrodorus, arrived at Rhodes","problem":"Greek τῶν περὶ τὸν Παρμενίωνα καὶ Μόρκον, τῶν παρὰ τοῦ Γενθίου, καὶ σὺν τούτοις τοῦ Μητροδώρου: Parmenion and Morcus ARE the envoys from Gentius, and Metrodorus came with them. English wrongly implies two separate groups of envoys.","proposed_fix":"When Parmenion and Morcus, the envoys from Gentius, and with them Metrodorus, arrived at Rhodes","touches_syntax":true,"confidence":"high"},
+{"quote":"the number of cavalry that had been lost, and Gentius’ defection crushed them","problem":"Greek has a lacuna (***) before ἡ τοῦ Γενθίου μετάθεσις; English reads on as if whole.","proposed_fix":"the number of cavalry that had been lost, and [text lost] Gentius’ change of side crushed them","touches_syntax":false,"confidence":"medium"}
+],"note":""}
+]}

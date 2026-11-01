@@ -1,0 +1,8 @@
+{"batch":"sonnet_004","units":[
+{"book":1,"chapter":"25","verdict":"FINDINGS","findings":[{"quote":"ten ships of matching speed","problem":"Greek has ἔχων δέκα ναῦς ὁμοπλοούσας, 'ten ships sailing together / in company'; nothing about matching speed.","proposed_fix":"ten ships sailing in company with him","touches_syntax":false,"confidence":"low"}],"note":"Otherwise sound; numbers 330/350, ten captured/eight sunk correct. Greek breaks off mid-word (καθωρμί-) and resumes in ch. 26 (-σθησαν): a chapter seam, not a lacuna."},
+{"book":1,"chapter":"26","verdict":"CLEAN","findings":[],"note":"Numbers (140,000; 300 rowers, 120 marines; over 150,000) check out."},
+{"book":1,"chapter":"27","verdict":"CLEAN","findings":[],"note":"Greek breaks off mid-word at the end (τοιαύ-); the English closes the sentence, but ch. 28 resumes (-την εἶχε διάθεσιν), so this is a seam, not a lacuna."},
+{"book":1,"chapter":"28","verdict":"CLEAN","findings":[],"note":"Numbers (50 captured, 24 Roman losses, over 30 Carthaginian, 64 captured) correct."},
+{"book":1,"chapter":"29","verdict":"CLEAN","findings":[],"note":"Numbers (over 20,000 captives; 40 ships, 15,000 foot, 500 horse) correct."},
+{"book":1,"chapter":"30","verdict":"CLEAN","findings":[],"note":"Numbers (500 horse, 5,000 foot) correct."}
+]}

@@ -1,0 +1,5 @@
+[
+{"id":"F0089","verdict":"REVISE","fix":"For the treasurer was going through the cities selling the property of all who had been associated with Diaeus and had also been condemned, except for those who had children or parents.","reason":"τοῦτον is the treasurer, not Polybius; τῶν καὶ κατακριθέντων describes the same group. Kept original ‘except’ clause, which is accurate."},
+{"id":"F0090","verdict":"REVISE","fix":"When these arrangements had been completed in six months, the ten commissioners,","reason":"ἐν ἓξ μησὶν omitted; restored with minimal change to the existing wording."},
+{"id":"F0091","verdict":"REVISE","fix":"As for the Roman general, after the council of the ten had departed from Achaea,","reason":"τὸ συνέδριον is the subject of χωρισθῆναι; the council left Achaea. Fix must fit the following ‘he repaired’."}
+]

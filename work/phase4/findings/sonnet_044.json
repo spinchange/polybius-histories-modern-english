@@ -1,0 +1,10 @@
+{"batch":"sonnet_044","units":[
+{"book":4,"chapter":"51","verdict":"CLEAN","findings":[],"note":""},
+{"book":4,"chapter":"52","verdict":"CLEAN","findings":[],"note":""},
+{"book":4,"chapter":"53","verdict":"CLEAN","findings":[],"note":""},
+{"book":4,"chapter":"54","verdict":"CLEAN","findings":[],"note":""},
+{"book":4,"chapter":"55","verdict":"CLEAN","findings":[],"note":""},
+{"book":4,"chapter":"56","verdict":"CLEAN","findings":[],"note":""},
+{"book":4,"chapter":"57","verdict":"CLEAN","findings":[],"note":""},
+{"book":4,"chapter":"58","verdict":"FINDINGS","findings":[{"quote":"and made their voyage back, as unexpectedly as they had come","problem":"Greek: ῥίψαντες τὰ ὅπλα παναίσχρως, ἅμα δ᾽ ἀνελπίστως ἐποιήσατο τὸν ἀπόπλουν. ἀνελπίστως paired with παναίσχρως means in despair / without hope, not 'as unexpectedly as they had come'; the comparison with their arrival is not in the Greek.","proposed_fix":"and made their voyage back, in utter disgrace and without hope","touches_syntax":false,"confidence":"low"}],"note":"Only weak finding; ἀνελπίστως can also mean 'unexpectedly' in Polybius, but the added clause 'as they had come' has no Greek basis."}
+]}

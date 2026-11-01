@@ -1,0 +1,10 @@
+[
+{"id":"F0389","verdict":"ACCEPT","fix":"they sent an embassy [...], entrusting themselves and their city","reason":"Lacuna after πρεσβεύειν μὲν; recipient and 'protection' supplied by English. ἐγχειρίζοντες = entrusting/handing over. Normalized to [...]."},
+{"id":"F0390","verdict":"ACCEPT","fix":"But Canuleius and Quintus and their colleagues bore witness in support of Menyllus and the envoys who had come from the elder brother","reason":"ἀπομαρτυρούντων τοῖς περὶ Μένυλλον: corroborating the elder's envoys, not testifying against them; οἱ περὶ τὸν Κ. = Canuleius and colleagues."},
+{"id":"F0391","verdict":"HUMAN","fix":"seeing on the one hand that the division had been [...] completely settled","reason":"Lacuna between μερισμὸν and γεγονότα; a lost qualifier (possibly a negation) could reverse sense. Mark gap; translator should check apparatus."},
+{"id":"F0392","verdict":"ACCEPT","fix":"pretended to be sick with nausea and took his leave","reason":"ἐπιναύσιος = nauseated, sick; nothing about going aboard. ἀπηλλάττετο = departed."},
+{"id":"F0393","verdict":"ACCEPT","fix":"This was why they appointed Tiberius [...] to have been an eyewitness of everything.","reason":"Lacuna after κατεστήσαντο; the causal 'because he had been' is invented over the gap. Normalized to [...]."},
+{"id":"F0394","verdict":"ACCEPT","fix":"Beauty is a stronger recommendation than any letter of introduction.","reason":"τὸ κάλλος is subject, παντὸς ἐπιστολίου genitive of comparison: beauty recommends better than any letter. English inverts."},
+{"id":"F0395","verdict":"ACCEPT","fix":"he nevertheless left his private fortune in such a state that [...] his family could not repay","reason":"Lacuna (* **) after ὥστε unmarked in English. Normalized to [...]."},
+{"id":"F0396","verdict":"ACCEPT","fix":"his meeting with Tiberius","reason":"ἀπάντησις = going to meet, reception of Tiberius (Gracchus' embassy), not an answer given."}
+]

@@ -1,0 +1,11 @@
+{"batch":"sonnet_073","units":[
+{"book":9,"chapter":"9","verdict":"FINDINGS","findings":[{"quote":"they may become eager to imitate them.","problem":"The Greek has a gap (`*`) right after ζηλωταὶ γίνωνται, before παράβολον ἔχειν τι καὶ κινδυνῶδες. The sentence beginning τὸ ... παράβολον ἔχειν lost its governing words, and the English reads on as if the text were whole.","proposed_fix":"they may become eager to imitate them [...]","touches_syntax":false,"confidence":"medium"}],"note":"The Tarentum/Bomilcar fragment (ἔλαθεν ἀναλώσας τὴν χορηγίαν; ἱκετηρίας τῶν ἔνδον) is loosely rendered but not an inversion; left alone."},
+{"book":9,"chapter":"10","verdict":"CLEAN","findings":[],"note":""},
+{"book":9,"chapter":"11","verdict":"CLEAN","findings":[],"note":""},
+{"book":9,"chapter":"11a","verdict":"CLEAN","findings":[],"note":""},
+{"book":9,"chapter":"12","verdict":"CLEAN","findings":[],"note":"The Greek breaks off at πρὸς δὲ; English marks the break with [...]."},
+{"book":9,"chapter":"13","verdict":"CLEAN","findings":[],"note":"Possible lexical point, not one of the error classes and no fix proposed: τῶν ἐκ τοῦ περιέχοντος καιρῶν literally means conditions arising from the surrounding atmosphere (weather), and the English renders it 'the seasons'."},
+{"book":9,"chapter":"14","verdict":"CLEAN","findings":[],"note":"The sentence τὴν δὲ τῶν καθηγουμένων πίστιν ... ἐν τοῖς ἑπομένοις ἀεὶ δεῖ κεῖσθαι is obscure or possibly corrupt; the English is a reasonable paraphrase."},
+{"book":9,"chapter":"15","verdict":"FINDINGS","findings":[{"quote":"it is clear that the sign lying opposite it must be the one rising.","problem":"The Greek reads δῆλον ὡς δύναντος τούτου τὴν κατὰ διάμετρον ἐπιτέλλειν ἀνάγκη: the diametrically opposite sign must rise when the sun sets. The English drops the genitive absolute δύναντος τούτου (when the sun sets).","proposed_fix":"it is clear that, when the sun sets, the sign diametrically opposite it must rise.","touches_syntax":true,"confidence":"medium"}],"note":"The Greek breaks off after ὅρος γὰρ εἷς μὴν ὡς τύπῳ; English marks the break with [...]."},
+{"book":9,"chapter":"16","verdict":"CLEAN","findings":[],"note":"The Greek begins mid-sentence (τοιοῦτοι πάντες); the English omits that fragment."}
+]}

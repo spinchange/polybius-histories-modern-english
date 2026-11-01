@@ -32,7 +32,7 @@ Their speeches on both sides about Spartan affairs, and the decisions taken by t
 
 ## Book 22 Chapter 3: Sparta and the League
 
-After the execution of the men at Compasium, some Spartans were offended by what had happened and thought that Philopoemen had destroyed both the power and the protected standing of Sparta. So they went to Rome and brought charges against Philopoemen and his measures.
+After the execution of the men at Compasium, some Spartans were offended by what had happened and thought that Philopoemen had destroyed both the power and the leadership of Sparta. So they went to Rome and brought charges against Philopoemen and his measures.
 
 In the end they obtained a letter to the Achaeans from Marcus Lepidus, who later became chief priest, but at that time held the consulship.
 
@@ -62,7 +62,7 @@ For Titus had long been active at Rome in trying to get Zeuxippus restored to Bo
 
 And at this time he had persuaded the senate to write to the Boeotians that Zeuxippus and the exiles with him should be brought home again.
 
-When this message arrived, the Boeotians, fearing that if these men returned they would be drawn away from Macedonian friendship, wanted the judgments against Zeuxippus and his associates, which had previously been entered against them, to be publicly proclaimed.
+When this message arrived, the Boeotians, fearing that if these men returned they would be drawn away from Macedonian friendship, wanted the judgments against Zeuxippus and his associates, which had previously been entered against them, to be publicly proclaimed [...]
 
 Thus in one case they condemned them for sacrilege, on the ground that they had stripped the silver from the table of Zeus, and in another to death for the murder of Brachylles.
 
@@ -80,11 +80,11 @@ But after a short time they paid no attention to any of it. Therefore Philopoeme
 
 From this there arose between the two nations the beginning of a quarrel not easy to despise.
 
-For when there was a clash over the seizure of the herds of Myrrichus and Simon, the dispute ceased to be political and became the opening and first prelude of open war.
+For at once [...] the herds of Myrrichus and Simon; and when there was a clash over this, the dispute ceased to be political and became the opening and first prelude of open war.
 
 If the senate had pressed the next step in the restoration of Zeuxippus and his party, war would quickly have burst into flame.
 
-But as it was, the senate let the matter drop, and the Megarians put a stop to the reprisals after envoys intervened and settlements were arranged.
+But as it was, the senate let the matter drop, and the Megarians put a stop to the reprisals after envoys had been sent [...] the disputes.
 
 ## Book 22 Chapter 5: Quarrel Between Lycians and Rhodians
 
@@ -106,7 +106,7 @@ After this the Lycians sent envoys to Rhodes about an alliance, while the Rhodia
 
 Since the two sides understood the situation in entirely different ways, for some time the disagreement between them was not obvious to everyone.
 
-But when the Lycian envoys entered the assembly and began speaking about an alliance, and after them Pothion the Rhodian prytanis stood up and made clear the intention of each side and sternly rebuked the Lycians, they declared that they would endure anything rather than do what the Rhodians ordered.
+But when the Lycian envoys entered the assembly and began speaking about an alliance, and after them Pothion the Rhodian prytanis stood up and made clear the intention of each side and sternly rebuked the Lycians [...]; for they said that they would endure anything rather than do what the Rhodians ordered.
 
 ## Book 22 Chapter 6: Envoys Accuse Philip Before the Senate
 
@@ -260,7 +260,7 @@ When this had been said, Caecilius rose and accused Philopoemen and Lycortas, an
 
 After hearing what was said, the senate gave the Achaeans this answer: on Spartan affairs it would send commissioners to examine the matter.
 
-And it advised the envoys whom the Achaeans regularly sent from time to time to pay close attention and to show the reception that was fitting, just as the Romans themselves did for envoys who came to them.
+And it advised the Achaeans to pay close attention to the envoys whom it sent out from time to time and to give them the reception that was fitting, just as the Romans themselves did for envoys who came to them.
 
 ## Book 22 Chapter 13: Philip Massacres the Maronites
 
@@ -294,7 +294,7 @@ At this Philip was thrown into confusion, and so the first interview ended there
 
 On the following day Appius and his colleagues ordered Philip to send both Onomastus and Cassander at once to Rome, so that the senate might learn the truth of what had happened.
 
-The king, utterly shaken and at a loss for a long time, said that he would send Cassander, the man who had actually carried out the deed, so that the senate, as they said, might learn the facts from him.
+The king, utterly shaken and at a loss for a long time, said that he would send Cassander, the man who, as they said, had actually carried out the deed, so that the senate might learn the facts from him.
 
 But he asked that Onomastus be excused, both on that occasion and later in his interviews with the envoys, using as his pretext that Onomastus had not been in Maroneia at the time of the massacre, nor even anywhere near the neighboring district.
 
@@ -334,11 +334,11 @@ But in that case they, together with the exiles from Phalasarna, were to keep aw
 
 Calling him king and offspring of gods, they said that if he abused such a name he might perhaps obtain some pity and pardon for what had happened; yet it would have been more kingly not to be the first to break faith, but rather to let others violate agreements before he did so himself.
 
-They said that all men admire Philip for his greatness of spirit: although he suffered evil treatment, and not merely abuse, from the Athenians, yet after defeating them in the battle at Chaeronea he was so far from using the occasion to injure his enemies that he buried the Athenian dead with due rites, and the prisoners he clothed and sent back to their families without ransom.
+[...] all men admire Philip for his [...] greatness of spirit: although he suffered evil treatment, and not merely abuse, from the Athenians, yet after defeating them in the battle at Chaeronea he was so far from using the occasion to injure his enemies that he buried the Athenian dead with due rites, and the prisoners he clothed and sent back to their families without ransom.
 
 Yet men imitate such conduct least of all; instead they compete in anger and punishments against those with whom they are at war, for that very reason.
 
-Ptolemy, by contrast, bound the men naked to carts, dragged them along, and after inflicting punishment killed them.
+[...] Ptolemy, however, bound the men naked to carts, dragged them along, and after inflicting punishment killed them.
 
 ## Book 22 Chapter 17: Ptolemy Betrays the Egyptian Rebels
 
@@ -398,7 +398,7 @@ Apollonis, the wife of Attalus, father of King Eumenes, was a woman of Cyzicus a
 
 For the fact that, though she was originally a private citizen, she became a queen and preserved that exalted place to the very end—not by the attractions of a courtesan, but by modesty, dignity in public life, and noble character—makes her deserve an honorable memory.
 
-And further, though she outlived her husband by no short time, after bearing four sons she preserved toward all of them without surpassing measure the same goodwill and motherly affection down to the end of her life.
+And further, though she outlived her husband by no short time, after bearing four sons she preserved toward all of them unsurpassed goodwill and motherly affection down to the end of her life.
 
 Her sons won a fine reputation during their visit by rendering their mother the gratitude and honor that were her due.
 
@@ -410,9 +410,9 @@ They welcomed and honored the young men, and recalling the story of Cleobis and 
 
 This happened at Cyzicus after the settlement with King Prusias.
 
-## Book 22 Chapter 21: Ostiagon Tries to Become King of All the Galatians
+## Book 22 Chapter 21: Ortiagon Tries to Become King of All the Galatians
 
-Ostiagon the Galatian, king of the Galatians in Asia, set his mind on transferring to himself the sovereignty of all the Galatians.
+Ortiagon the Galatian, king of the Galatians in Asia, set his mind on transferring to himself the sovereignty of all the Galatians.
 
 He possessed many resources for this aim, both by nature and by experience.
 

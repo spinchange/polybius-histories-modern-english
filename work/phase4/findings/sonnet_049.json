@@ -1,0 +1,9 @@
+{"batch":"sonnet_049","units":[
+{"book":5,"chapter":"1","verdict":"FINDINGS","findings":[{"quote":"provide three months’ pay for the army, and add ten thousand measures of grain.","problem":"Greek: πεντήκοντα τάλαντα ... αὐτῷ δοῦσι παραχρῆμα τριμήνου μισθοδοτῆσαι τὴν δύναμιν καὶ σίτου προσθεῖναι μυριάδας. The fifty talents are the means of paying the army three months (δοῦσι ... μισθοδοτῆσαι), not a separate item; and μυριάδας stands with no numeral (a number has dropped out or been lost), so 'ten thousand' is supplied, not read.","proposed_fix":"pay the army three months’ wages with it, and add myriads [numeral missing in the Greek] of grain.","touches_syntax":true,"confidence":"medium"}],"note":"The missing numeral before μυριάδας is a textual gap; the English should not state a figure. The preceding 'give him fifty talents' is accurate."},
+{"book":5,"chapter":"2","verdict":"CLEAN","findings":[],"note":""},
+{"book":5,"chapter":"3","verdict":"CLEAN","findings":[],"note":""},
+{"book":5,"chapter":"4","verdict":"CLEAN","findings":[],"note":""},
+{"book":5,"chapter":"5","verdict":"CLEAN","findings":[],"note":"Chapter ends mid-word in the Greek (τὰς παρακει- / -μένας πόλεις in ch. 6); a pagination split, not a lacuna."},
+{"book":5,"chapter":"6","verdict":"FINDINGS","findings":[{"quote":"At this time Aristophanes the general arrived","problem":"Greek: Ἀριστόφαντος ὁ στρατηγός, i.e. Aristophantus (the Acarnanian strategos), not Aristophanes.","proposed_fix":"At this time Aristophantus the general arrived","touches_syntax":false,"confidence":"high"}],"note":"The chapter title also reads 'Aristophanes the Acarnanian'; the name there should match."},
+{"book":5,"chapter":"7","verdict":"CLEAN","findings":[],"note":""}
+]}
