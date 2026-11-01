@@ -508,7 +508,7 @@ Besides what has already been described, something else applies in the case of T
 
 For history has something in common with medicine, in that each of them, in its broadest divisions, falls into three parts; and it follows that the dispositions of those who take them up are likewise comparable.
 
-Take medicine straightaway: one part of it is the theoretical, the next the dietetic, and the third the surgical and pharmaceutical, of the kind [...] entirely. [...] by misrepresenting the profession *
+Take medicine straightaway: one part of it is the theoretical, the next the dietetic, and the third the surgical and pharmaceutical, of the kind [...] entirely. [...] by misrepresenting the profession
 
 [...] Now the theoretical branch, which has its chief origin from Alexandria, among those called there the followers of Herophilus and Callimachus, occupies one part of medicine; but by its outward appearance and its grand professions it draws to itself such a reputation that no one else seems to have a grasp of the subject.
 
