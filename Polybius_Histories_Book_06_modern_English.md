@@ -184,7 +184,7 @@ The Romans, on the other hand, have arrived at the same end—the order of their
 
 ## Book 6 Chapter 11: The Roman Constitution
 
-The Roman state, reckoning from the crossing of Xerxes into Greece [...] and for thirty years after that period, was continually being refined in its particular features, and it reached its finest and most perfect form in the era of the war with Hannibal—the point from which I made this digression.
+The Roman state, reckoning from the crossing of Xerxes into Greece [...] and thirty years later; from that time on it was continually being refined in its particular features, and it reached its finest and most perfect form in the era of the war with Hannibal—the point from which I made this digression.
 
 Therefore, now that I have given the account of how it came to be put together, I will try to make clear what its character was in those years, in which the Romans, defeated at the battle of Cannae, came to grief in their affairs as a whole.
 

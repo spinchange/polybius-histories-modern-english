@@ -528,7 +528,7 @@ After these operations they set about besieging the people of Lipara.
 
 ## Book 1 Chapter 25: Skirmish off Tyndaris
 
-The next year Gaius Atilius, the Roman commander, lay at anchor off Tyndaris, and when he saw the Carthaginian fleet sailing past in disorder, he ordered his own crews to follow the leading ships and set out ahead of the rest himself with ten ships of matching speed.
+The next year Gaius Atilius, the Roman commander, lay at anchor off Tyndaris, and when he saw the Carthaginian fleet sailing past in disorder, he ordered his own crews to follow the leading ships and set out ahead of the rest himself with ten ships sailing in company with him.
 
 The Carthaginians, seeing that some of the enemy were still embarking, others just putting out, and the foremost far ahead of the rest, turned and went to meet them.
 
@@ -768,7 +768,7 @@ On the Carthaginian side about eight hundred mercenaries fell, namely those post
 
 Of the Romans, about two thousand survived—those who, by pursuing the troops mentioned above, had stayed outside the main danger. All the rest perished except the general Marcus and those who fled with him.
 
-The Roman units that escaped made their way with difficulty back to Aspis.
+The Roman units that escaped made their way, against all expectation, back to Aspis.
 
 The Carthaginians stripped the dead, took the general along with the prisoners, and returned to the city overjoyed at the turn events had taken.
 

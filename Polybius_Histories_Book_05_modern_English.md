@@ -24,7 +24,7 @@ So he persuaded the magistrates to transfer the assembly to Sicyon. Then he took
 
 They readily agreed. Philip then entered the Achaean assembly and, with the help of the men just mentioned, secured every measure needed for his purpose.
 
-It was decreed that the Achaeans should give him fifty talents at once for his first mobilization, provide three months’ pay for the army, and add ten thousand measures of grain.
+It was decreed that the Achaeans should give him fifty talents at once for his first mobilization, and with it to provide three months’ pay for the army, and to add tens of thousands of measures of grain.
 
 After that, for as long as he remained in the Peloponnese and campaigned as their ally, he was to receive seventeen talents each month from the Achaeans.
 
@@ -172,7 +172,7 @@ Quite apart from their practical use, they also believed this place gave them th
 
 That is why, as the country had long enjoyed peace, the buildings around the sanctuary and all the surrounding places were full of abundant goods.
 
-So that night they encamped there loaded with every kind of profit; but on the following day they gave orders to carry off the most valuable furnishings and whatever could be transported, while they piled the rest in heaps before the tents and burned it.
+So that night they encamped there loaded with every kind of profit; but on the following day they picked out the most valuable furnishings and whatever could be transported, to carry off, while they piled the rest in heaps before the tents and burned it.
 
 They treated in the same way the arms dedicated in the porticoes: the finest they took down and carried off, some they exchanged for their own, and the rest they gathered together and burned. These amounted to more than fifteen thousand.
 
@@ -1002,7 +1002,7 @@ The king heard this with displeasure and was extremely eager, because of Epigene
 
 But he was so hemmed in and already so dominated by Hermeias’ scheming, watchfulness, and ingratiating service that he was no longer master of himself; so, yielding to the pressure of the moment, he granted what was demanded.
 
-When Epigenes withdrew, as ordered, to his quarters, the men in the council were appalled at the spite behind it.
+When Epigenes withdrew, as ordered, [...], the men in the council were appalled at the spite behind it.
 
 The troops, on the other hand, once they had received what they asked for, swung around and became well disposed toward the man responsible for setting their pay right, except for the Cyrrhestians.
 

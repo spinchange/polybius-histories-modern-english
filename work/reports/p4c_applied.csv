@@ -1,0 +1,43 @@
+id,book,chapter,verdict,old,new
+F0094,1,25,ACCEPT,ten ships of matching speed,ten ships sailing in company with him
+F0096,1,34,REVISE,made their way with difficulty back to Aspis,"made their way, against all expectation, back to Aspis"
+F0110,2,61,REVISE,they suffered utter ruin for their homeland because of their loyalty to the Achaeans,they were utterly ruined and lost their homeland because of their loyalty to the Achaeans
+F0111,3,15,REVISE,"For a long while the Romans paid no attention to them, but at this point they dispatched envoys","Time and again the Romans paid no attention to them, but at this point they dispatched envoys"
+F0112,3,25,ACCEPT,in the territory of whichever is at war,in the territory of whichever is being attacked
+F0120,4,18,ACCEPT,They treated all the others of that party in the same way,They treated all the others in the same way
+F0123,4,38,REVISE,"and they exchange these for grain, sometimes giving it when it is opportune, sometimes taking it","and in grain the exchange goes both ways, sometimes giving it when it is opportune, sometimes taking it"
+F0127,4,58,REVISE,"and made their voyage back, as unexpectedly as they had come","and, against all expectation, made their voyage back"
+F0135,5,8,REVISE,they gave orders to carry off the most valuable furnishings and whatever could be transported,"they picked out the most valuable furnishings and whatever could be transported, to carry off"
+F0165,8,18,ACCEPT,the task would be difficult for those in whom he trusted,the task would be difficult for those entrusted with it
+F0167,8,27,ACCEPT,acting on the expectation fostered by the young men,just as the young men had anticipated
+F0017,9,25,ACCEPT,"And I heard it even more precisely from Masannasus, who","And I heard it even more precisely from Masannasus [...], who"
+F0173,9,29,REVISE,left no city untouched by the name and reality of slavery,left no city untouched by the name of slavery
+F0188,11,3,ACCEPT,Yet another declared,But he declared
+F0204,11,26,REVISE,prepare rations for a longer expedition within three days,prepare rations for a longer expedition three days beforehand
+F0223,15,1,REVISE,for two years already,now for the second year
+F0224,15,1,ACCEPT,"had not merely appealed to the gods and kissed the ground, as men commonly do,","had not merely greeted the gods and bowed down to the earth, as men commonly do,"
+F0232,15,26a,ACCEPT,pitying the victims and regretting,lamenting to many people and regretting
+F0233,15,28,ACCEPT,escaped half naked into a tent,escaped naked into a tent
+F0234,15,29,REVISE,Moeragenes said that what was chiefly needed was only someone to take the lead.,Moeragenes said that it needed only someone to take the lead.
+F0237,16,3,REVISE,because the enemy vessel had a high-built prow,because his own ship had a high-built prow
+F0249,16,29,REVISE,"at times people even bridge it for those who wish to cross on foot between the continents, and at all times it is traversed by shipping","at times it is bridged by those who wish to cross on foot between the continents, and at other times it is constantly traversed by shipping"
+F0255,18,20,ACCEPT,sent off his rearguard,sent off his outpost force
+F0279,21,27,ACCEPT,oak beams wrapped in tow,oak logs
+F0287,21,35,ACCEPT,from the city named Sinda,from the city named Isinda
+F0288,21,35,ACCEPT,relieved the people of Sinda from the siege,relieved the people of Isinda from the siege
+F0291,21,43,REVISE,at the season when he also paid the Romans,at the appropriate [...] season when he also paid the Romans
+F0344,28,12,REVISE,decide the whole issue by force of arms,"the whole issue was, in all likelihood, about to be decided"
+F0348,28,20,ACCEPT,to the king’s youth,to Ptolemy’s youth
+F0363,29,12,ACCEPT,what I have already explained more than once,what I have already explained at some length
+F0365,29,17,ACCEPT,like anyone else,as much as anyone
+F0368,29,19,REVISE,When the party led by Hegesipolis entered,When the party led by Agepolis entered
+F0369,29,19,REVISE,what the men around Hegesipolis said,what the men around Agepolis said
+F0372,29,21,REVISE,whose name was scarcely known before,whose name was not even known before
+F0376,29,26,ACCEPT,resumed the war against Ptolemy,was preparing war against Ptolemy
+F0378,30,4,REVISE,the answer that Agesipolis and his colleagues had obtained,the answer that Agepolis and his colleagues had obtained
+F0381,30,7,ACCEPT,and in the end they disappointed all expectations.,and they put every hope to the test.
+F0388,30,31,ACCEPT,having been compelled to wage three wars over them,having been compelled to fight three wars against them
+F0423,35,4,ACCEPT,"who, though still young, had already been regarded as a leader in the war","who, though still young, was thought to have been an adviser in favour of the war"
+F0049,36,16,ACCEPT,Micypsa,Micipsa
+F0426,36,1,ACCEPT,but rather to devote all their effort to discovering and recording what was truly said,"but rather, as far as possible, to investigate and set out clearly what was truly said"
+F0432,36,7,ACCEPT,there was no more restraint,the stupor no longer lasted

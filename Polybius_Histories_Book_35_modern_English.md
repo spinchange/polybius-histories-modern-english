@@ -68,7 +68,7 @@ Nor would the men nominated by the consuls as legates to accompany the commander
 
 And worst of all, the young men tried to evade the levies and came up with excuses that were shameful to make, improper to examine, and impossible to refute.
 
-At last, when the Senate and the magistrates were at a loss to know what the end of this shamelessness among the young men would be—for they had no other name for it—Publius Cornelius Scipio Aemilianus, who, though still young, had already been regarded as a leader in the war and had won a settled reputation for moral excellence and self-restraint, but still lacked a reputation for personal bravery, saw the Senate’s difficulty and stood up to say that he was willing to go to Iberia with the consuls either as a military tribune or as a legate, since he was ready for either role.
+At last, when the Senate and the magistrates were at a loss to know what the end of this shamelessness among the young men would be—for they had no other name for it—Publius Cornelius Scipio Aemilianus, who, though still young, was thought to have been an adviser in favour of the war and had won a settled reputation for moral excellence and self-restraint, but still lacked a reputation for personal bravery, saw the Senate’s difficulty and stood up to say that he was willing to go to Iberia with the consuls either as a military tribune or as a legate, since he was ready for either role.
 
 He added, however, that for his own part a mission to Macedonia would be both safer and more fitting, for at that very time the Macedonians had in fact invited Scipio by name to come and settle the disputes raging among them.
 

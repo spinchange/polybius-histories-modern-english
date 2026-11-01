@@ -326,7 +326,7 @@ When this happened, some of the Aetolians rushed in through the gate, while othe
 
 The Aetolians, having for these reasons quickly gained control of the city, did amid all their unjust acts one wholly just thing: the very men who had let them in and betrayed the city to them they slaughtered first of all, and plundered their property.
 
-They treated all the others of that party in the same way; and finally, quartering themselves in the houses, they ransacked them for valuables and tortured many of the Cynaethans whom they suspected of having money, plate, or anything else of unusual worth hidden away.
+They treated all the others in the same way; and finally, quartering themselves in the houses, they ransacked them for valuables and tortured many of the Cynaethans whom they suspected of having money, plate, or anything else of unusual worth hidden away.
 
 Having ruined the Cynaethans in this fashion, they broke camp and moved off, leaving a garrison to guard the walls, and advanced in the direction of Lusi.
 
@@ -682,7 +682,7 @@ And since the Pontus holds many things useful for the livelihood of the rest of 
 
 For toward the necessary needs of life, the regions of the Pontus furnish us with livestock and with the great number of persons brought into slavery, supplying them, by common admission, in the most abundant and most serviceable quantity; while toward our comforts they provide us unstintingly with honey, wax, and salt-fish.
 
-They also receive what is surplus in our own regions—olive oil and every kind of wine—and they exchange these for grain, sometimes giving it when it is opportune, sometimes taking it.
+They also receive what is surplus in our own regions—olive oil and every kind of wine—and in grain the exchange goes both ways, sometimes giving it when it is opportune, sometimes taking it.
 
 From all these things the Greeks would necessarily have been either wholly cut off, or else have found the exchange of them entirely unprofitable, had the Byzantines chosen to be obstructive and to make common cause now with the Gauls, now still more with the Thracians—or had they not inhabited the place at all.
 
@@ -788,7 +788,7 @@ For having made its returns back and forth many times, and since the channel her
 
 ## Book 4 Chapter 44: Contrast between Byzantium and Calchedon
 
-For this reason it falls short of the city of the Calchedonians and runs down the middle of the channel. And the very thing that makes the city of the Byzantines so excellently situated, and that of the Calchedonians the opposite, is just what I have now described—even though, to the eye, the position of both seems equally favorable for advantage.
+For this reason it leaves the city of the Calchedonians behind and runs down the middle of the channel. And the very thing that makes the city of the Byzantines so excellently situated, and that of the Calchedonians the opposite, is just what I have now described—even though, to the eye, the position of both seems equally favorable for advantage.
 
 Yet, all the same, it is not easy to sail into the one even if you wish to, whereas to the other the current carries you of necessity, even against your will, as I said just now.
 
@@ -1038,7 +1038,7 @@ Alexander fell in hand-to-hand fighting in the thick of the action, while Archid
 
 Of the rest of the Aetolian host, part was trampled underfoot, and part, fleeing over the cliffs by the trackless ways, broke their necks.
 
-What part of them did get through safely to the ships threw away their arms in utter disgrace and made their voyage back, as unexpectedly as they had come.
+What part of them did get through safely to the ships threw away their arms in utter disgrace and, against all expectation, made their voyage back.
 
 Thus the Aegiratans, having lost their fatherland through negligence, recovered it again, against all expectation, through their courage and gallantry.
 

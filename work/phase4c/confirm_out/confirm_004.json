@@ -1,0 +1,14 @@
+[
+{"id":"F0363","verdict":"ACCEPT","fix":"what I have already explained at some length","reason":"διὰ πλειόνων means 'at greater length', not 'more than once'."},
+{"id":"F0365","verdict":"ACCEPT","fix":"as much as anyone","reason":"εἰ καί τις ἄλλος is 'if anyone ever did': he was supremely experienced, which is the point of καίτοι γε."},
+{"id":"F0368","verdict":"REVISE","fix":"When the party led by Agepolis entered","reason":"Greek Ἁγέπολις; use corpus spelling Agepolis (Books 28, 29.10), not Hegesipolis or Hagepolis."},
+{"id":"F0369","verdict":"REVISE","fix":"what the men around Agepolis said","reason":"Same envoy Ἁγέπολις; corpus spelling Agepolis."},
+{"id":"F0372","verdict":"REVISE","fix":"whose name was not even known before","reason":"οὐδ᾽ ὄνομα … ἦν γνώριμον is a full negation; 'scarcely' weakens it. Minimal wording change."},
+{"id":"F0375","verdict":"REJECT","fix":"","reason":"γάρ justifies the restriction 'in earlier times' (Antiochus IV was generous); 'although' renders that logic correctly. No inversion."},
+{"id":"F0376","verdict":"ACCEPT","fix":"was preparing war against Ptolemy","reason":"ἐξήρτυε (imperfect of ἐξαρτύω) means 'was fitting out, preparing' war, not 'resumed'."},
+{"id":"F0378","verdict":"REVISE","fix":"the answer that Agepolis and his colleagues had obtained","reason":"Ἁγέπολις, the Rhodian envoy of 29.19, not the Spartan name Agesipolis; corpus spelling Agepolis."},
+{"id":"F0381","verdict":"ACCEPT","fix":"and they put every hope to the test.","reason":"πάσας ἐξήλεγχον τὰς ἐλπίδας: they tried every hope (did not despair); 'disappointed all expectations' inverts the sense."},
+{"id":"F0384","verdict":"REJECT","fix":"","reason":"Not a lacuna: anacoluthon, the verb is resumed by οἷς ἅπασιν … ἀπήντησε after the parenthesis. 'dealt with' bridges it legitimately."},
+{"id":"F0388","verdict":"ACCEPT","fix":"having been compelled to fight three wars against them","reason":"πολεμεῖν αὐτοῖς: dative of the opponents, so wars against the Lycians/Carians, not wars 'over' the regions."},
+{"id":"F0402","verdict":"HUMAN","fix":"judging from every indication","reason":"'alone' is added. ἐκ πάντων could mean 'from every indication' or 'out of all men'; the translator should choose."}
+]

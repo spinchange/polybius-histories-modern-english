@@ -184,7 +184,7 @@ Philopoemen, on the other hand, agreed to and supported without excuse everythin
 
 Aristaenus used such arguments as these before the Achaeans in defense of his own policy. He said that it was impossible, while holding out both the spear and the herald’s staff at once, to preserve friendship with Rome.
 
-“But if we are able to look them in the face and have the power to do so [...] if not, and if not even Philopoemen dares to say this [...] one must be of one mind with the Romans in present circumstances, why, by reaching for impossibilities, should we throw away what is possible?” For, he said, every policy has two aims: what is honorable and what is advantageous. Those for whom the attainment of honor is possible should cling to it if they govern rightly; but those for whom it is impossible must take refuge in advantage.
+“But if we are able to look them in the face and have the power to do so [...] but if not even Philopoemen dares to say this [...] circumstances [...] one [...] to the Romans, why, by reaching for impossibilities, should we throw away what is possible?” For, he said, every policy has two aims: what is honorable and what is advantageous. Those for whom the attainment of honor is possible should cling to it if they govern rightly; but those for whom it is impossible must take refuge in advantage.
 
 To miss both, he said, is the clearest mark of poor judgment. And this plainly happens to those who agree without excuse to everything ordered, yet do so unwillingly and with resentment.
 

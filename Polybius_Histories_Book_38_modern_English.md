@@ -66,7 +66,7 @@ In the circumstances then at issue, the Peloponnesians, Boeotians, Phocians, [..
 
 For at once they showed distrust and cowardice, and their actions brought about their downfall through [...]
 
-Thus, stripped of all good things, some perished from hunger, while others, driven to desperation, even then took rods and axes into the cities [...]
+Thus, stripped of all good things, some [...], while others also [...] into the cities then admitted the rods and axes, willingly [...]
 
 For they were in great fear because of the excess of their own mistakes—if one should call them their own.
 
@@ -247,13 +247,13 @@ When some members of the council wanted to restrain him and prevent such speeche
 
 In general he said that he had held himself in check for a long time already and could no longer bear it, but must speak what was plainly on his mind.
 
-For they ought not to fear the Lacedaemonians or the Romans so much as those among their own people who cooperated with the enemy; for there were some who cared more for the Romans and the Lacedaemonians than for their own affairs.
+For they ought not to fear the Spartans or the Romans so much as those among their own people who cooperated with the enemy; for there were some who cared more for the Romans and the Lacedaemonians than for their own affairs.
 
 He offered this as proof: he said that Evagoras of Aegium and Stratius of Tritaea revealed everything said in the secret meetings to the party around Gnaeus.
 
 When Stratius admitted that he had indeed associated with those men and said that he would continue to meet with them because they were friends and allies, but swore that he had reported none of what was said in the meetings, few believed him, while the majority accepted the accusations.
 
-Critolaus, by inflaming the crowd through these accusations, persuaded the Achaeans once again to vote for war—nominally against the Lacedaemonians, but in reality against the Romans.
+Critolaus, by inflaming the crowd through these accusations, persuaded the Achaeans once again to vote for war—nominally against the Spartans, but in reality against the Romans.
 
 He also added another unlawful decree, so that the men they chose as strategoi would have full authority. By this means he assumed a kind of monarchical power.
 
@@ -277,7 +277,7 @@ He allotted the levy among the cities arbitrarily and unequally, as he did every
 
 Where the number of household-born slaves was insufficient, they were to make up the required quota from other slaves.
 
-Seeing that public resources were severely strained because of the war with the Lacedaemonians, he forced the wealthy to make pledges and contribute privately, not only the men but the women as well.
+Seeing that public resources were severely strained because of the war with the Spartans, he forced the wealthy to make pledges and contribute privately, not only the men but the women as well.
 
 Along with this he ordered the men of military age throughout the country to gather with arms at Corinth.
 
@@ -387,7 +387,7 @@ At first she addressed Hasdrubal by name, but when he remained silent and looked
 
 ## Book 38 Chapter 21: Fortune’s Instability and the Great Man
 
-[...] The text here is badly broken in the witness, but the sense is that Polybius is completing Scipio’s remark about the danger of overconfidence and the importance of good judgment.
+[...] Polybius says [...] that [...] finer than this [...] and this has been said by the poet: [...] And turning at once and grasping my right hand, he said, “Polybius, it is a fine thing; but somehow I fear and foresee that someday someone else will give this same order about our own country.”
 
 No clearer or more practical lesson than this is easy to state.
 

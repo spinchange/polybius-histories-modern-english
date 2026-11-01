@@ -1,0 +1,12 @@
+[
+{"id":"F0017","verdict":"ACCEPT","fix":"And I heard it even more precisely from Masannasus [...], who","reason":"Greek marks a gap after Μασαννάσου; sense survives but the gap must be marked, not smoothed."},
+{"id":"F0049","verdict":"ACCEPT","fix":"Micipsa","reason":"Μικίψης has iota, not upsilon; Micipsa is the standard form and this is the only occurrence in the corpus."},
+{"id":"F0094","verdict":"ACCEPT","fix":"ten ships sailing in company with him","reason":"ὁμοπλοούσας means sailing together, in company; nothing about speed."},
+{"id":"F0096","verdict":"REVISE","fix":"made their way, against all expectation, back to Aspis","reason":"παραδόξως means unexpectedly, not with difficulty; keep 'back' as in the original wording."},
+{"id":"F0109","verdict":"REJECT","fix":"","reason":"Not an error: 'plausibility' and 'spectators' make the referent clear (tragedy); the English matches the Greek's ἐκείνοις/τούτοις."},
+{"id":"F0110","verdict":"REVISE","fix":"they were utterly ruined and lost their homeland because of their loyalty to the Achaeans","reason":"ἔπταισαν τῇ πατρίδι: came to grief in respect of their city, i.e. lost it; 'for' wrongly suggests on its behalf."},
+{"id":"F0111","verdict":"REVISE","fix":"Time and again the Romans paid no attention to them, but at this point they dispatched envoys","reason":"παρακούω here does mean disregard; the error is πλεονάκις, which means repeatedly, not 'for a long while'."},
+{"id":"F0112","verdict":"ACCEPT","fix":"in the territory of whichever is being attacked","reason":"τῶν πολεμουμένων is passive: the party being warred upon."},
+{"id":"F0118","verdict":"HUMAN","fix":"he had in effect handed over the whole of his command to the latter","reason":"Singular τούτῳ after 'Dorimachus and Scopas': likely Scopas (the nearest name, who then acts), but ambiguous; English silently chose Dorimachus."},
+{"id":"F0120","verdict":"ACCEPT","fix":"They treated all the others in the same way","reason":"τοῖς ἄλλοις πᾶσι means all the others; 'of that party' is added and narrows the sense."}
+]

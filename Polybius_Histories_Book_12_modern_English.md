@@ -66,7 +66,7 @@ Their obedience to the trumpet is nothing to wonder at: for in Italy too those w
 
 The swineherds do not follow at the heels of the beasts, as among the Greeks, but go on ahead sounding the horn at intervals, while the beasts follow behind and run together toward the sound; and so great a familiarity develops in the animals toward their own horn that those who hear of it for the first time are amazed and can scarcely believe it.
 
-For owing to the abundance of labor and the other resources available, the droves of swine in Italy turn out to be enormous—especially along the coast, among the Etruscans and the Gauls—so that a single breeding sow rears a thousand pigs, and sometimes even more.
+For owing to the abundance of labor and the other resources available, the droves of swine in Italy turn out to be enormous—especially among the Etruscans and the Gauls—so that a single breeding sow rears a thousand pigs, and sometimes even more.
 
 For this reason they make their drives out from the night-pens according to litters and ages.
 
@@ -296,7 +296,7 @@ For if he came to Syracuse fleeing the potter’s wheel, the smoke, and the clay
 
 Concerning these things the historian ought to relate to posterity not only what tends to slander and accusation, but also what redounds to the man’s praise; for this is the proper task of history.
 
-But Timaeus, blinded by his own bitterness, has reported his faults to us spitefully and with exaggeration, while he has omitted his successes altogether, not realizing that falsehood is no less present in those who in their histories pass over in silence what actually happened than in those who misstate it.
+But Timaeus, blinded by his own bitterness, has reported his faults to us spitefully and with exaggeration, while he has omitted his successes altogether, not realizing that falsehood is no less present among those who [...] what actually happened [...] writing in their histories.
 
 As for me, I have refrained from adding further measure for the sake of dwelling on his hatefulness, but I have not left out what was germane to my own purpose. —
 

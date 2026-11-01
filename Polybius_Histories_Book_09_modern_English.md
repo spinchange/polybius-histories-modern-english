@@ -330,7 +330,7 @@ Therefore none of the things just mentioned should be neglected, if we do not wa
 
 ## Book 9 Chapter 17: Failures Arising From Ignorance
 
-When Aratus, the Achaean general, planned to seize the city of Cynaetha by treachery, he agreed with his collaborators inside the city on a day when Aratus was to come by night to the river flowing from Cynaetha and wait there quietly with his force.
+When Aratus, the Achaean general, planned to seize the city of Cynaetha by treachery, he agreed with his collaborators inside the city on a day when Aratus was to come by night to the river flowing from Cynaetha and wait there with his force, lingering as if at [...].
 
 The men inside, about midday when they got the chance, were to send one of their number out through the gate quietly, wrapped in a cloak, and tell him to stand before the city on the tomb that had been agreed upon as the signal.
 
@@ -466,7 +466,7 @@ At that time, when this difficulty was being discussed again and again in counci
 
 When Hannibal told him to speak, he said they must teach the army to eat human flesh and accustom them to it.
 
-Hannibal could say nothing against the daring and practical force of the proposal, but he could not persuade either himself or his friends to entertain the idea.
+[...] Hannibal could say nothing against the daring and practical force of the proposal, but he could not persuade either himself or his friends to entertain the idea.
 
 Yet it is said that the deeds in Italy that were later attributed to Hannibal as proofs of cruelty were in fact the work of this man, though circumstances were responsible as well.
 
@@ -478,7 +478,7 @@ This account I received from the Carthaginians themselves.
 
 For natives know best, as the proverb says, not only which way the winds are blowing, but also the character of the people among whom they live.
 
-And I heard it even more precisely from Masannasus, who brought charges in general against all Carthaginians, but especially against Hannibal and Mago the so-called Samnite, for greed.
+And I heard it even more precisely from Masannasus [...], who brought charges in general against all Carthaginians, but especially against Hannibal and Mago the so-called Samnite, for greed.
 
 Among other things, he said that from early youth these men had been partners in affairs with each other most loyally, and although each had taken many cities both in Iberia and in Italy—some by force and some by surrender—they never shared in the same action together.
 
@@ -582,7 +582,7 @@ Some of these men were dragged by force from sanctuaries, others torn away from 
 
 And who does not know what Cassander and Demetrius did, and with them Antigonus Gonatas? Since these events happened not long ago, the memory of them is perfectly clear.
 
-Some of them planted garrisons in the cities, others installed tyrants, and so left no city untouched by the name and reality of slavery.
+Some of them planted garrisons in the cities, others installed tyrants, and so left no city untouched by the name of slavery.
 
 But passing over these, I will now come to the last Antigonus, so that none of you, by viewing his conduct too innocently, may suppose yourselves under an obligation of gratitude to the Macedonians.
 

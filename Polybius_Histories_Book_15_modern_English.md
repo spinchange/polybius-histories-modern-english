@@ -14,7 +14,7 @@ For letters had just reached Scipio making this clear.
 
 When the envoys arrived at Carthage, they were brought first before the senate and then before the people, and in both settings they spoke openly about the situation.
 
-They first reminded them that the Carthaginian ambassadors, when they had come to Tunes and entered the Roman council, had not merely appealed to the gods and kissed the ground, as men commonly do, but had actually thrown themselves flat on the earth in a shameful way and kissed the feet of those sitting in council. After that, standing up again, they had accused themselves, admitting that they themselves had broken the treaties first made between Romans and Carthaginians.
+They first reminded them that the Carthaginian ambassadors, when they had come to Tunes and entered the Roman council, had not merely greeted the gods and bowed down to the earth, as men commonly do, but had actually thrown themselves flat on the earth in a shameful way and kissed the feet of those sitting in council. After that, standing up again, they had accused themselves, admitting that they themselves had broken the treaties first made between Romans and Carthaginians.
 
 Therefore, they said, they were not unaware that any punishment the Romans chose to inflict would be deserved; yet, for the sake of the changes of human fortune, they begged not to suffer anything beyond remedy, since their own folly would provide proof of Roman nobility and generosity.
 
@@ -22,7 +22,7 @@ Remembering all this, the envoys said, their general and all who had been presen
 
 This, they said, could only mean that they were trusting in Hannibal and the forces with him, and in that they were badly mistaken.
 
-For everyone knew perfectly well that for two years already he and his army had been driven from all Italy and shut up near the Lacinian promontory, almost under siege, and had now barely escaped with their lives.
+For everyone knew perfectly well that now for the second year he and his army had been driven from all Italy and shut up near the Lacinian promontory, almost under siege, and had now barely escaped with their lives.
 
 And even if he had come as a conqueror, they said, and even if he were about to fight men who had already beaten the Carthaginians in two successive battles, they still ought to hold uncertain hopes about the future, and think not only about victory but also about defeat.
 
@@ -264,7 +264,7 @@ Such, or words very like these, were the exhortations made on both sides.
 
 Once everything on both sides was ready for battle, and the Numidian cavalry had already been skirmishing with one another for some time, Hannibal gave the order for the elephant-drivers to charge the enemy.
 
-But when the trumpets and horns sounded all around them, some of the beasts were thrown into confusion and wheeled about against the Numidian allies supporting the Carthaginians; and by this Masinissa quickly stripped the Carthaginian left wing of its mounted support.
+But when the trumpets and horns sounded all around them, some of the beasts were thrown into confusion and wheeled about against the Numidian allies supporting the Carthaginians; [...] of Masinissa’s men [...] the Carthaginian left wing was quickly stripped bare.
 
 The rest of the elephants collided with the Roman javelin-men in the space between the battle lines and both inflicted and suffered heavy damage.
 
@@ -582,7 +582,7 @@ What especially stirred the masses to punish those in power was the knowledge th
 
 Agathocles also killed Deinon son of Deinon, and this deed, as the proverb says, was the most just of all his injustices.
 
-For when the letters concerning the murder of Arsinoe came into his hands, he had the chance to reveal the plot and save the kingdom, but instead he cooperated with Philammon and so became responsible for all the evils that followed. Later, after the murder had been carried out, he kept recalling it, pitying the victims and regretting that he had let such a moment pass; and when this became known to Agathocles, he at once met the punishment that suited him and lost his life.
+For when the letters concerning the murder of Arsinoe came into his hands, he had the chance to reveal the plot and save the kingdom, but instead he cooperated with Philammon and so became responsible for all the evils that followed. Later, after the murder had been carried out, he kept recalling it, lamenting to many people and regretting that he had let such a moment pass; and when this became known to Agathocles, he at once met the punishment that suited him and lost his life.
 
 ## Book 15 Chapter 27: Growing Hatred of Agathocles
 
@@ -614,7 +614,7 @@ The floggers were standing there all but ready to bring down their whips, while 
 
 But once Nicostratus had gone away, they all stood gaping and staring at one another, constantly expecting the man to come back.
 
-As time passed, those standing by gradually slipped away one by one, until Moeragenes was left alone. Then, passing through the palace, he unexpectedly escaped half naked into a tent of the Macedonians near the court.
+As time passed, those standing by gradually slipped away one by one, until Moeragenes was left alone. Then, passing through the palace, he unexpectedly escaped naked into a tent of the Macedonians near the court.
 
 Finding them by chance at breakfast and gathered together, he told them what had happened to him and the strange way he had been saved.
 
@@ -628,7 +628,7 @@ And that moment, he said, was now in full strength.
 
 ## Book 15 Chapter 29: A Revolt Decided Upon By the Army
 
-Moeragenes said that what was chiefly needed was only someone to take the lead. When the Macedonians heard this, they were stirred to anger, and in the end they were persuaded by him. They immediately went first to the Macedonian tents and then to those of the other soldiers.
+Moeragenes said that it needed only someone to take the lead. When the Macedonians heard this, they were stirred to anger, and in the end they were persuaded by him. They immediately went first to the Macedonian tents and then to those of the other soldiers.
 
 All these camps lay together, facing one side of the city.
 

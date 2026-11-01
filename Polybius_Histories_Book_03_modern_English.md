@@ -252,7 +252,7 @@ From this city Hannibal tried his best to keep his distance, wishing to give the
 
 The Saguntines kept sending embassies to Rome, partly because they were anxious for themselves and could see what was coming, and partly because they wanted the Romans to be aware of the steady success the Carthaginians were having in their Iberian affairs.
 
-For a long while the Romans paid no attention to them, but at this point they dispatched envoys to investigate the situation.
+Time and again the Romans paid no attention to them, but at this point they dispatched envoys to investigate the situation.
 
 At about the same time Hannibal, having subdued the peoples he had set out to subdue, came back with his forces to winter at New Carthage, which was in a sense the showpiece and royal seat of the Carthaginians in the regions of Iberia.
 
@@ -448,7 +448,7 @@ Furthermore, the Romans concluded yet another treaty, the last of them, at the t
 
 In it they preserve all the other provisions in accordance with the existing agreements, but the following clauses are added to them.
 
-“If they make a written alliance with Pyrrhus, both parties shall make it on such terms that they remain free to come to each other’s aid in the territory of whichever is at war.
+“If they make a written alliance with Pyrrhus, both parties shall make it on such terms that they remain free to come to each other’s aid in the territory of whichever is being attacked.
 
 Whichever of the two has need of the assistance, the Carthaginians shall furnish the ships both for the voyage out and for the return, but each side shall provide the pay for its own men.
 
@@ -676,7 +676,7 @@ Let this much, then, be said by me so that my narrative may not be wholly uninte
 
 ## Book 3 Chapter 39: The Length of Hannibal’s March
 
-For just as, in the matter of sight, we are accustomed always to turn our faces toward whatever is being pointed out to us, so too with the mind we must constantly direct and incline our thoughts toward the places demonstrating these points in the course of my account. But I will set these matters aside and turn back to the continuous thread of the narrative before me.
+For just as, in the matter of sight, we are accustomed always to turn our faces toward whatever is being pointed out to us, so too with the mind we must constantly direct and incline our thoughts toward the places pointed out along with the account as it proceeds. But I will set these matters aside and turn back to the continuous thread of the narrative before me.
 
 At this time the Carthaginians were masters of all those parts of Libya that face the inner sea, from the Altars of Philaenus, which lie along the Great Syrtis, as far as the Pillars of Heracles.
 
@@ -1130,7 +1130,7 @@ When the combat took place, the captives who were left behind counted the dead m
 
 ## Book 3 Chapter 63: Harangues of Hannibal and Scipio
 
-The same view was held by most of the Carthaginians as well: for as they watched, by way of comparison, the wretchedness of those who were being led off still alive, they pitied these men, while the one who had died they accounted altogether fortunate. Having by these means worked the desired disposition into the spirits of his troops, Hannibal then came forward himself and declared that this was why he had brought in the captives: so that, seeing vividly in the misfortunes of others what was at stake, his men might make better plans regarding their own situation.
+The same view was held by most of the Carthaginians as well: for as they watched, by way of comparison, the wretchedness of those who were being led off still alive, they pitied these men, while the one who had died they all called fortunate. Having by these means worked the desired disposition into the spirits of his troops, Hannibal then came forward himself and declared that this was why he had brought in the captives: so that, seeing vividly in the misfortunes of others what was at stake, his men might make better plans regarding their own situation.
 
 For Fortune, he said, had confined them to a struggle and a moment very like that of the captives, and had set before them prizes very like those just offered.
 
@@ -1168,7 +1168,7 @@ And in general he said it would be an outrageous and absurd thing if the Carthag
 
 What is more, their cavalry, when it clashed with our horsemen at the river Rhone, came off badly: they lost many of their own men and fled in disgrace all the way back to their own camp.
 
-And their general together with his whole army, the moment they learned that our soldiers were near, made a retreat that was little better than a flight, and out of fear, against their own intentions, resorted to the march over the Alps.
+And their general together with his whole army, the moment they learned that our soldiers were near, made a retreat that was little better than a flight, and out of fear, against their own intentions, resorted to the march over the Alps.”
 
 Hannibal is here now, he said, having destroyed the greater part of his army, while what remains is feeble and unfit for service because of the hardships they have suffered; likewise he has lost the greater part of his horses and rendered the rest useless owing to the length and difficulty of the journey.
 
