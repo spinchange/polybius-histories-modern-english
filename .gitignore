@@ -12,3 +12,6 @@ dist/polybius-histories-epub-src/
 chunks/
 chunks_3_5/
 chunks_small/
+
+# Local Claude Code settings (machine-specific)
+.claude/settings.local.json
