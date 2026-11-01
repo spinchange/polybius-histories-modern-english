@@ -34,7 +34,7 @@ One file per annotation: `annotations/<layer>/<slug>.md`
 ---
 id: readers/machiavelli-disc-1-2
 layer: readers            # readers | parallels | survival
-anchor: [[6, 3], [6, 10]] # book, chapter; list = range; multiple entries ok
+anchor: ["6.3-10"]        # "B.C" or "B.C-C" (within one book); list ok; 11a-style ids ok
 annotator: Niccolò Machiavelli
 work: Discourses on Livy, I.2
 date: 1517
@@ -42,12 +42,21 @@ tags: [constitutional]
 source_file: sources/machiavelli_discourses_detmold_1882.txt
 source_lines: [1042, 1067]
 source_pub: "Detmold translation, Boston, 1882 (PD)"
+pd_basis: pre-1930        # pre-1930 | us-gov | our-translation
 status: verified          # verified | UNVERIFIED | stub
 ---
-<verbatim quote, trimmed>
+<verbatim quote, trimmed; elide with "..." or "[...]">
 
 **Note:** <2-4 sentence editorial lede: who, why here, what to notice.>
 ```
+
+Validator (`work/scripts/ann_validate.py`, built A1): containment ignores
+whitespace, curly-vs-straight quotes, dash style and `*`/`_`; each elided
+segment must appear in order within the `source_lines` slice. For
+`pd_basis: our-translation` the slice is the original-language text, so
+containment is skipped and fidelity is owned by A4/A6 review. Errors on
+`stub`/`UNVERIFIED` files are reported as warnings; `verified` files must be
+clean or the run exits 1. `ann_build.py` emits only clean `verified` files.
 
 Layers:
 1. **readers** — the famous annotations (the thematic heart of the site).
