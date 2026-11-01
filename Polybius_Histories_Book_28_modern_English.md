@@ -176,7 +176,7 @@ For if Perseus at that time had been willing to spend money, both publicly on st
 
 But as things stood, by good fortune he did not take that path, by which, if he had succeeded, he would have gained an overbearing mastery of everything, or, if he had failed, would have made many others share the same fate as himself.
 
-Instead he took the opposite course, by which only a very few Greeks were driven into utter folly at the crisis of the action.
+Instead he took the opposite course, by which only a very few Greeks acted with utter want of judgment at the crisis of the action.
 
 ## Book 28 Chapter 10: Perseus Blames Hippias for the Failure
 
@@ -192,7 +192,7 @@ The first locked their shields together above their heads, so that by the close-
 
 ## Book 28 Chapter 12: Achaeans Resolve to Fight Beside Rome
 
-Because Perseus intended to come into Thessaly with an army and decide the whole issue by force of arms, Archon and his colleagues thought it best to answer the suspicions and slanders against them once again by their actions themselves.
+Because Perseus intended to come into Thessaly with an army and the whole issue was, in all likelihood, about to be decided, Archon and his colleagues thought it best to answer the suspicions and slanders against them once again by their actions themselves.
 
 So they introduced before the Achaeans a decree that they should make a general levy and march into Thessaly, taking their full part in the struggle alongside the Romans.
 
@@ -320,7 +320,7 @@ The Achaean envoys spoke first, then Demaratus on behalf of the Athenians, and a
 
 Since they were all speaking at the same moment of the same issue, the substance of their individual speeches was naturally much alike.
 
-All of them laid the blame for what had happened on Eulaeus, and by appealing to Ptolemy’s kinship with Antiochus and to the king’s youth, they begged Antiochus to put aside his anger.
+All of them laid the blame for what had happened on Eulaeus, and by appealing to Ptolemy’s kinship with Antiochus and to Ptolemy’s youth, they begged Antiochus to put aside his anger.
 
 Antiochus agreed with all this and even strengthened their case further, but then began to speak in defense of his original rights, by which he tried to establish that the regions of Coele-Syria properly belonged to the kings of Syria, supporting his position by referring to the dominion of Antigonus, the first ruler who held the kingdom in Syria, and citing the concessions granted to Seleucus by the kings of Macedonia after Antigonus’s death.
 

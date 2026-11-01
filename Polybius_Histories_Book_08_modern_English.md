@@ -354,7 +354,7 @@ Achaeus, convinced both by Arianus’ answers and especially by the ciphers sent
 
 After this had happened several times between the two sides, Achaeus and his friends at last entrusted themselves to Nicomachus’ group, since absolutely no other hope of safety remained, and told them to send Bolis along with Arianus on a moonless night, as they were prepared to place themselves in their hands.
 
-For Achaeus had formed a plan somewhat like this: first to escape the danger immediately around him, and afterward to make his move, by a circuitous route, toward Syria.
+For Achaeus had formed a plan somewhat like this: first to escape the danger immediately around him, and afterward to make his move toward Syria without any advance warning.
 
 He had great hopes that if he appeared suddenly and unexpectedly among the people of Syria while Antiochus was still occupied around Sardis, he would stir up a great movement and receive a warm welcome from the people of Antioch, Coele-Syria, and Phoenicia.
 
@@ -370,7 +370,7 @@ After the two had spent a day together and arranged the details of how each part
 
 Their plan had been formed in this way: if Achaeus should come out of the citadel alone, or only with Bolis and Arianus or one other man, he would be easy to despise and still easier for the men in ambush to seize.
 
-But if he came with several companions, the task would be difficult for those in whom he trusted—especially since they were eager to capture him alive, because the greatest part of the favor they expected from Antiochus depended on that.
+But if he came with several companions, the task would be difficult for those entrusted with it—especially since they were eager to capture him alive, because the greatest part of the favor they expected from Antiochus depended on that.
 
 Therefore Arianus, when leading Achaeus out, was to go in front because he knew the path, having often gone in and out that way.
 
@@ -528,7 +528,7 @@ After speaking thus and dismissing the officers, he set the advance in motion ju
 
 ## Book 8 Chapter 27: A Bargain Made with Hannibal
 
-Gaius Livius, acting on the expectation fostered by the young men, spent the day with his usual companions in the Museum, and when the drinking was already at its height, toward sunset a report was brought that the Numidians were ravaging the countryside.
+Gaius Livius, just as the young men had anticipated, spent the day with his usual companions in the Museum, and when the drinking was already at its height, toward sunset a report was brought that the Numidians were ravaging the countryside.
 
 He concerned himself only with that, and after summoning some of his officers ordered half the cavalry to ride out before dawn and stop the enemy from plundering the land. This made him even less suspicious of the whole affair.
 

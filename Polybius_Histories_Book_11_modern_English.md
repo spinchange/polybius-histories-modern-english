@@ -78,7 +78,7 @@ But when more messengers arrived, making clear not only that the event had happe
 
 In general they were brought to such confidence and courage that all thought Hannibal, whom they had feared more than anything before, was no longer even in Italy.
 
-Yet another declared that such words had only the appearance of truth, while the reality was otherwise—indeed the opposite.
+But he declared that such words had only the appearance of truth, while the reality was otherwise—indeed the opposite.
 
 ## Book 11 Chapter 4: A Plea For Union In Greece
 
@@ -484,7 +484,7 @@ They resolved to announce a day on which the mutineers must appear, to grant ter
 
 When the appointed day arrived and the rebels came in for the settlement and the payment of their arrears, Publius secretly instructed the tribunes who had gone as envoys to meet the mutineers, and for each man to single out five of the ringleaders, greet them kindly as soon as they met, and invite them to their own quarters if possible, or at least to dinner or some similar gathering.
 
-To the army with him he gave orders to prepare rations for a longer expedition within three days, as though they were to march with Marcus against Andobales.
+To the army with him he gave orders to prepare rations for a longer expedition three days beforehand, as though they were to march with Marcus against Andobales.
 
 This news made the mutineers more confident, for they supposed that power would lie chiefly in their own hands once they joined the general, since the other camps would then be separated from him.
 

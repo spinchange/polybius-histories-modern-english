@@ -395,3 +395,14 @@ Sonnet drafts; the user signs off (this is the one phase that is mostly human):
   even Philopoemen" (εἰ δὲ μηδ᾽ = "but if not even"); 29.13 probably Athenaeus but unnamed in the file.
 - **Build:** dist/ NOT regenerated (another session's art/build changes are in the tree). EPUBCheck run
   in an isolated worktree with only these book edits: 0 fatals / 0 errors / 0 warnings.
+
+
+## Phase 4c outcome (completion pass; branch fix/p4c-completion)
+
+- **Held Phase 4 items:** all 30 applied using the Opus recommendations from `phase4_human.md` (29 by script, F0053 by hand on the current wording). Log: `work/reports/p4c_held_applied.csv`.
+- **Low-confidence Phase 4 findings** (51): Opus confirm pass -> 24 ACCEPT, 18 REVISE, 7 REJECT, 2 HUMAN; 42 applied by exact-match script (`work/scripts/p4c_apply.py`; log `work/reports/p4c_applied.csv`). The 2 HUMAN items are listed in `work/reports/p4c_human.md` and NOT applied (4.5 F0118 who "this one" is; 33.4 F0402 "ἐκ πάντων").
+- **Spotted small errors** fixed: 3.38, 3.62, 3.64 (closing quote), 4.43, 24.12 (`work/phase4c/edits_small.md`).
+- **Other:** Book 20 "Fragment of Uncertain Place" rubric turned into an italic in-text note; Book 38 three narrative "Lacedaemonians" -> "Spartans".
+- **Verification:** heading/seam reports clean except 4 `olympiad-rubric-missing` (4.2, 4.15, 11.1, 21.43; left for Phase 8) and known false-positive `case` flags; status.csv valid; isolated-worktree build, EPUBCheck 0/0/0.
+- **dist/ not regenerated** on this branch: build scripts carry another session's uncommitted changes. Rebuild after those are committed.
+- Phases 7 and 8 not started.

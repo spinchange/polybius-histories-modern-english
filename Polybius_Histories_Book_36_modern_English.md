@@ -14,7 +14,7 @@ But that I do not choose to do this in every case will now be clear: for it woul
 
 Indeed, no form of composition could be more convenient for me.
 
-Yet I do not think it right for statesmen, on every question brought before them, to be ready with arguments and long elaborations, but rather to speak in the way appropriate to the particular occasion; and in the same way I do not think it right for historians to display their skill for the amusement of their readers, but rather to devote all their effort to discovering and recording what was truly said, and, among such words, only those that are most timely and most essential.
+Yet I do not think it right for statesmen, on every question brought before them, to be ready with arguments and long elaborations, but rather to speak in the way appropriate to the particular occasion; and in the same way I do not think it right for historians to display their skill for the amusement of their readers, but rather, as far as possible, to investigate and set out clearly what was truly said, and, among such words, only those that are most timely and most essential.
 
 ## Book 36 Chapter 2: The Romans Find a Justification for War
 
@@ -106,7 +106,7 @@ But from the very look on the envoys’ faces they suspected the worst and immed
 
 All of them, crying out together, were at once as though paralyzed.
 
-Then, as the report quickly spread through the people, there was no more restraint: some rushed at the envoys, as though they were the guilty cause of the city’s disasters, others turned their anger on the Italians who had been seized in the city, and still others toward the gates of the city [...].
+Then, as the report quickly spread through the people, the stupor no longer lasted: some rushed at the envoys, as though they were the guilty cause of the city’s disasters, others turned their anger on the Italians who had been seized in the city, and still others toward the gates of the city [...].
 
 ## Book 36 Chapter 8: Character of Hamilcar Phameas
 
@@ -124,7 +124,7 @@ It should not be surprising that I give a more detailed account of Scipio’s ac
 
 For when Marcus Porcius Cato heard in Rome of Scipio’s achievements, he said, in effect: “What have you heard? He alone has the breath of wisdom in him; the rest are but shadows.”
 
-The Romans were altogether delighted with Scipio’s statement and his handling of the situation: [...]
+The Romans were altogether delighted with Scipio’s agreement and his handling of the situation: [...]
 
 ## Book 36 Chapter 9: Opinions on Rome’s Treatment of Carthage
 
@@ -240,7 +240,7 @@ He was also the strongest man of his time in bodily vigor: when he had to stand,
 
 He endured the hardships of cavalry service continuously, day and night, and suffered nothing from them.
 
-A proof of his bodily strength: when he was ninety and about to die, he left behind a four-year-old son named Stembanus, whom Micypsa later adopted, along with nine other sons.
+A proof of his bodily strength: when he was ninety and about to die, he left behind a four-year-old son named Stembanus, whom Micipsa later adopted, along with nine other sons.
 
 Because of the goodwill they had for one another, he kept his kingdom, throughout his whole life, free from every plot and every domestic stain.
 
@@ -282,7 +282,7 @@ But in those matters where the causes are hidden or hard to grasp, one must inve
 
 For the Macedonians had received many and great benefits from the Romans: collectively, they had all been freed from monarchical commands and taxes and had plainly exchanged slavery for freedom; and individually, as cities, they had again been released from great internal strife and civil slaughter through Roman favor. [...]
 
-Yet because of the so-called Pseudo-Philip, many among them [...] they saw many of their own people in a very short time driven into exile, tortured, and killed, more than in earlier times under the true kings [...] they were angered at the Roman encampment itself and regretted their former wrongs against themselves [...].
+Yet because of the so-called Pseudo-Philip, many among them [...] they saw many of their own people in a very short time driven into exile, tortured, and killed, more than in earlier times under the true kings [...] of the Roman camp [...] at once regretted [...] the lawless acts committed against them before the Pseudo-Philip [...]. [...] Though they had fought against the Romans with Demetrius, and again with Perseus, and been defeated, yet fighting alongside a hateful man and showing courage for his kingship, they defeated the Romans.
 
 From these things, who would not be puzzled by what happened? For the cause of them is hard to discover.
 

@@ -512,7 +512,7 @@ Since the king’s envoys pressed their opposition strongly, the senate dismisse
 
 But the Rhodian envoys, pleased by the zeal of the senate, said they would ask for nothing further; so the matter remained where it stood.
 
-Then, just as the ten commissioners and the other envoys were about to set out, the Scipios and Lucius—the victors over Antiochus in the naval battle—sailed into Brundisium from Italy.
+Then, just as the ten commissioners and the other envoys were about to set out, Scipio and Lucius—the victors over Antiochus in the naval battle—sailed into Brundisium from Italy.
 
 After some days they entered Rome and celebrated triumphs.
 
@@ -588,7 +588,7 @@ For after securing his camp, Marcus organized the siege on a large scale. He bro
 
 Since the attack was pressed vigorously at all these points at once, the expectation of what was coming became terrifying to the men inside.
 
-While the rams struck hard at the walls and the hooked poles dragged away the battlements, the defenders tried to counter these devices by letting fall upon the rams, from cranes, masses of lead and stone and oak beams wrapped in tow.
+While the rams struck hard at the walls and the hooked poles dragged away the battlements, the defenders tried to counter these devices by letting fall upon the rams, from cranes, masses of lead and stone and oak logs.
 
 Against the hooks they fastened iron grapnels and dragged them inside the wall, so that the shaft was shattered against the battlements and they gained control of the hooked irons.
 
@@ -710,7 +710,7 @@ For Philip, believing that the Aetolians had unjustly taken Athamania and Dolopi
 
 Therefore when the Aetolians first entered, the senate refused to hear them; but when the Rhodians and Athenians pressed the matter, it gave way and listened.
 
-In particular Leon son of Hicesias seemed to have spoken well in other respects and to have used a comparison especially suited to the case.
+For Leon son of Cichesias, speaking after Damon, seemed to have spoken well in other respects and to have used a comparison especially suited to the case.
 
 He said that Roman anger against the Aetolians was understandable, because although the Aetolians had received many benefits from Rome, instead of repaying them with gratitude they had brought Roman supremacy into great danger by igniting the war with Antiochus.
 
@@ -768,7 +768,7 @@ For in most cases we all know that what is noble avoids the character of immedia
 
 Yet Philopoemen made this his aim and accomplished it. For it was noble to bring the captive exiles back to Sparta, and advantageous to humble the Spartan state by killing those who had served as bodyguards to the tyranny.
 
-And seeing that money is the source from which every monarchy recovers itself, and being by nature a shrewd and statesmanlike man, he took measures to prevent any importation of funds gathered from outside.
+And seeing that money is the source from which every monarchy recovers itself, and being by nature a shrewd and statesmanlike man, he [...] the bringing-in of funds procured from outside.
 
 ## Book 21 Chapter 33: The War with the Galatians of Asia
 
@@ -788,7 +788,7 @@ At the same time he also offered a crown worth fifteen talents.
 
 On hearing this, Helvius said he would refrain from ravaging the territory, but told him to negotiate with the commander himself about the whole matter, since he was following close behind with the army.
 
-After this Moagetes sent not only envoys but also his own brother along with them. When Gnaeus met them on the march, he spoke to the envoys in a strained and bitter tone, saying that Moagetes was not only the least friendly to Rome of all the dynasts in Asia, but that in his whole strength and conduct he deserved to be stripped of power and punished.
+After this Moagetes sent not only envoys but also his own brother along with them. When Gnaeus met them on the march, he spoke to the envoys in a strained and bitter tone, saying that Moagetes was not only the least friendly to Rome of all the dynasts in Asia, but that he had [...] with his whole strength toward the overthrow of Roman dominion, and deserved correction and punishment.
 
 Terrified by this display of anger, the envoys gave up the rest of their instructions and merely asked him to grant an interview.
 
@@ -804,7 +804,7 @@ Then Moagetes, terrified at what was coming, begged him not to do anything of th
 
 ## Book 21 Chapter 35: Pacification of Pamphylia
 
-At the time when Gnaeus was crossing the river called Colobatus, envoys came to him from the city named Sinda and begged for help.
+At the time when Gnaeus was crossing the river called Colobatus, envoys came to him from the city named Isinda and begged for help.
 
 They said that the Termessians, after bringing in Philomelus, had laid waste their territory and plundered their city, and were now besieging the acropolis, where all the citizens together with their wives and children had taken refuge.
 
@@ -812,7 +812,7 @@ When Gnaeus heard them, he promised gladly that he would help, and, thinking the
 
 When he came near Termessus, he made terms of friendship with them on receiving fifty talents, and did the same with the Aspendians.
 
-He also received the envoys from the other Pamphylian cities, created in each of them, in their interviews, the impression already described, relieved the people of Sinda from the siege, and then once more resumed his march against the Galatians.
+He also received the envoys from the other Pamphylian cities, created in each of them, in their interviews, the impression already described, relieved the people of Isinda from the siege, and then once more resumed his march against the Galatians.
 
 ## Book 21 Chapter 36: Conquest of Pisidia
 
@@ -978,7 +978,7 @@ If Antiochus had given to others any of the cities he was now bound to restore, 
 
 Antiochus was to pay the Romans twelve thousand talents of the best Attic silver over twelve years, one thousand each year, each talent weighing not less than eighty Roman pounds, and also five hundred and forty thousand modii of grain.
 
-He was also to pay King Eumenes three hundred and fifty talents over the first five years, seventy each year at the season when he also paid the Romans, and, in place of the grain as valued by Antiochus himself, one hundred and twenty-seven talents and one thousand two hundred and eight drachmas, which Eumenes agreed to accept in satisfaction.
+He was also to pay King Eumenes three hundred and fifty talents over the first five years, seventy each year at the appropriate [...] season when he also paid the Romans, and, in place of the grain as valued by Antiochus himself, one hundred and twenty-seven talents and one thousand two hundred and eight drachmas, which Eumenes agreed to accept in satisfaction.
 
 Antiochus was to give twenty hostages, replacing them every three years with others, none younger than eighteen and none older than forty-five.
 

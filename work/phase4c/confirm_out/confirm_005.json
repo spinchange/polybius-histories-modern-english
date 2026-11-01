@@ -1,0 +1,5 @@
+[
+{"id":"F0423","verdict":"ACCEPT","fix":"who, though still young, was thought to have been an adviser in favour of the war","reason":"δοκῶν σύμβουλος γεγονέναι τοῦ πολέμου: thought to have advised the war, not regarded as a leader in it."},
+{"id":"F0426","verdict":"ACCEPT","fix":"but rather, as far as possible, to investigate and set out clearly what was truly said","reason":"καθ᾽ ὅσον οἷόν τε is a limiting qualifier ('as far as possible'); 'all their effort' drops it."},
+{"id":"F0432","verdict":"ACCEPT","fix":"the stupor no longer lasted","reason":"ἀλογία after παρελύθησαν is speechless stupor; 'no more restraint' misreads it. Context makes the sense reasonably secure."}
+]

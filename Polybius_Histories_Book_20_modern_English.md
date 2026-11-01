@@ -206,6 +206,6 @@ He came afterward, and being invited into the council, he said that he had long 
 
 He said, then, that he accepted their intention, but was uneasy at the manner of it. For such honors and crowns, he said, ought not to be given to one’s friends—since the man who puts on such a crown can never wash off its poison—but much rather to one’s enemies, so that friends, keeping their freedom of speech, may be trusted among the Achaeans whenever they propose to come to the city’s aid, while enemies, having swallowed the bait, may be forced either to plead the Spartans’ cause or, by keeping silent, be unable to do them any harm. [...]
 
-## II. Fragment of Uncertain Place
+*Fragment of uncertain place:*
 
 To form a judgment about events from hearsay is not the same as having been an eyewitness; the two differ greatly, and the conviction that comes from seeing a thing vividly for oneself naturally contributes much in every case.

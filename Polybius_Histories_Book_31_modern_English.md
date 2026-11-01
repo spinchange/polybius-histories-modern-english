@@ -124,7 +124,7 @@ But Canuleius and Quintus and their colleagues bore witness in support of Menyll
 
 That was why, when the settlement concerning Cyrene had been granted to him unexpectedly and beyond hope, he had gladly accepted it, had offered sacrifices, and had both received and sworn the oaths with his brother.
 
-Ptolemy, however, disputed all this. The Senate, seeing on the one hand that the division had been completely settled, but on the other wishing in practical terms to break up the kingdom, now that the brothers themselves had supplied the pretext for division, agreed to the younger brother’s requests for its own advantage.
+Ptolemy, however, disputed all this. The Senate, seeing on the one hand that the division [...] had been completely settled, but on the other wishing in practical terms to break up the kingdom, now that the brothers themselves had supplied the pretext for division, agreed to the younger brother’s requests for its own advantage.
 
 For this has long been a Roman practice in policy: by taking advantage of the ignorance of neighboring peoples, they strengthen and extend their own power in practical ways, while at the same time gratifying those who make mistakes and seeming to bestow favors on them.
 

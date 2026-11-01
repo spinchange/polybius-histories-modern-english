@@ -56,7 +56,7 @@ Because that smaller craft hung attached to it, the flagship became unwieldy and
 
 At the same time Dionysodorus and Deinocrates, brothers who served as admirals under Attalus, charged enemy ships, the one a seven-banker and the other an eight-banker, and fought with remarkable daring.
 
-Deinocrates, colliding with an eight-banked ship, received a blow above the waterline because the enemy vessel had a high-built prow, but he struck the enemy below the waterline. At first he could not break free, though he repeatedly tried to back away.
+Deinocrates, colliding with an eight-banked ship, received a blow above the waterline because his own ship had a high-built prow, but he struck the enemy ship under the [...]. At first he could not break free, though he repeatedly tried to back away.
 
 So, while the Macedonians fought bravely from the enemy ship, he was brought into extreme danger.
 
@@ -472,7 +472,7 @@ At the beginning of winter, in the year when Publius Sulpicius became consul at 
 
 He was anxious at once about getting out from Bargylia and foresaw danger by sea, and at the same time he distrusted the situation in Macedonia and by no means wanted to winter in Asia, being afraid of both the Aetolians and the Romans.
 
-For he was well aware of the embassies being sent to Rome against him, now that affairs in Libya had come to an end. So he was in extreme distress, yet for the moment he was forced to stay where he was and, as the saying goes, live the life of a wolf.
+For he was well aware of the embassies being sent to Rome against him, [...] for this reason affairs in Libya were at an end. So he was in extreme distress, yet for the moment he was forced to stay where he was and, as the saying goes, live the life of a wolf.
 
 For because his army was starving, he fed it now by plundering and stealing from some, now by using force against others, and at times even by fawning in a way unnatural to him; sometimes they got meat, sometimes figs, and sometimes only a very scanty amount of grain.
 
@@ -572,7 +572,7 @@ The one is sixty stades across, while that at Abydos is two, as though one might
 
 Yet the crossing at Abydos is more serviceable than that at the Pillars of Heracles.
 
-For the former, inhabited on both sides, has the character of a gate because of the intercourse between the two shores: at times people even bridge it for those who wish to cross on foot between the continents, and at all times it is traversed by shipping.
+For the former, inhabited on both sides, has the character of a gate because of the intercourse between the two shores: at times it is bridged by those who wish to cross on foot between the continents, and at other times it is constantly traversed by shipping.
 
 But the channel at the Pillars of Heracles is rarely used and by few, because the peoples living at the far ends of Libya and Europe have little intercourse with one another and because the outer sea remains largely unknown.
 

@@ -32,7 +32,7 @@ He declared that the Hannibal who had come to him ought to go off to Carthage at
 
 At this same time the Roman commander stationed at Lilybaeum learned what was happening and sent envoys to Hieronymus to renew the treaty that had been made with his ancestors.
 
-But Hieronymus, already leaning strongly toward the Carthaginians, said that he pitied the Romans because wicked men had perished miserably in the battles in Italy at Carthaginian hands.
+But Hieronymus, while the Carthaginian envoys were still close at hand [...], said that he pitied the Romans because wicked men had perished miserably in the battles in Italy at Carthaginian hands.
 
 The envoys were shocked by such insolence, but they still asked who had told him such things. He pointed to the Carthaginian envoys who were present and told the Romans to expose them if they happened to be lying.
 

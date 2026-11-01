@@ -136,7 +136,7 @@ Envoys also came from King Seleucus to renew friendship and to promise the Achae
 
 When the assembly entered on business, the first to speak were Nicodemus of Elis and his colleagues, who explained to the Achaeans what they had said in the senate on behalf of Sparta and read out the replies.
 
-From these replies one could gather that the senate disapproved of both the treatment of the walls and the killings at Compasium, yet did not mean to invalidate any of the measures taken.
+From these replies one could gather that the senate disapproved of both the [...] of the walls and the abolition [...] of those killed at Compasium, yet did not mean to invalidate any of the measures taken.
 
 Since no one either spoke against this or supported it, the matter was allowed to pass in that fashion.
 
@@ -332,7 +332,7 @@ But in that case they, together with the exiles from Phalasarna, were to keep aw
 
 ## Book 22 Chapter 16: Philip’s Clemency and Ptolemy’s Cruelty
 
-Calling him king and offspring of gods, they said that if he abused such a name he might perhaps obtain some pity and pardon for what had happened; yet it would have been more kingly not to be the first to break faith, but rather to let others violate agreements before he did so himself.
+Calling this man king and blood of gods [...] making use of [...] that they would obtain some pity and pardon for [...] the king [...]; [...] and indeed more kingly [...]; for it was better to be betrayed by others than himself to be the first to break his pledges, and indeed to be wronged rather than [...] and they say that men [...] share the sufferings of the unjust [...] to be nearest to the divine nature [...] to obtain honors [...]; for no god is the first to do harm to men [...].
 
 [...] all men admire Philip for his [...] greatness of spirit: although he suffered evil treatment, and not merely abuse, from the Athenians, yet after defeating them in the battle at Chaeronea he was so far from using the occasion to injure his enemies that he buried the Athenian dead with due rites, and the prisoners he clothed and sent back to their families without ransom.
 

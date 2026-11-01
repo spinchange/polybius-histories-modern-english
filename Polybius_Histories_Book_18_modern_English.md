@@ -370,7 +370,7 @@ Then a storm of rain and tremendous thunder came on, and it happened that the wh
 
 Nevertheless, Philip, eager to carry out his purpose, broke camp and advanced with his whole army.
 
-But being hampered on the march by the fog, after covering a short distance he led his force into a palisaded camp and sent off his rearguard, with orders to seize the summits of the hills lying in between.
+But being hampered on the march by the fog, after covering a short distance he led his force into a palisaded camp and sent off his outpost force, with orders to seize the summits of the hills lying in between.
 
 ## Book 18 Chapter 21: The Macedonians Send for Help
 

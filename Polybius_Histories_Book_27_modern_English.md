@@ -126,7 +126,7 @@ These men were devoted to that course because Polyaratus, being more boastful an
 
 At this point Stratocles the prytanis rose and, after speaking at length against Perseus and much in favor of the Romans, urged the majority to ratify the decree for dispatching the ships.
 
-They immediately made ready six quadriremes, sent five of them to Chalcis with Timagoras appointed to command them, and the remaining one to Tenedos under a commander named Timagoras.
+They immediately made ready six quadriremes, sent five of them to Chalcis with Timagoras appointed to command them, and the remaining one to Tenedos, on which [...] Timagoras sailed as commander.
 
 When he reached Tenedos, he came upon Diophanes, who had been sent by Perseus to Antiochus; he did not get possession of Diophanes himself, but he did capture his crew.
 

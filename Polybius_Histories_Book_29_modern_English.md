@@ -44,7 +44,7 @@ Perseus, meanwhile, when the envoys and hostages from Gentius arrived in Macedon
 
 Next he received the hostages and handed over his own to Olympion and his companions. The most distinguished among them were Limnaeus son of Polemocrates and Balacrus son of Pantauchus.
 
-After this he sent those who had come for the money on to Pella to receive it there, while he dispatched the envoys bound for Rhodes to Thessalonica, to Metrodorus, instructing them to hold themselves ready for the voyage. That embassy also succeeded in persuading the Rhodians to join the war.
+After this he sent those who had come for the money on to Pella to receive it there, while he dispatched the envoys bound for Rhodes to Thessalonica, to Metrodorus, instructing them to hold themselves ready for the voyage. He also persuaded the Rhodians to join in the war.
 
 After arranging these matters, he sent Herophon as envoy to Eumenes, a man whom he had employed on such missions before, and Telemnastus the Cretan to Antiochus, telling him not to overlook the opportunity and not to suppose that Roman arrogance and harshness concerned Perseus alone, but to understand clearly that unless he too now took a hand, preferably by ending the war, but if not by helping Perseus, he would soon experience the same fortune himself.
 
@@ -130,7 +130,7 @@ Accordingly, Perseus, in his dealings with the Gauls and with Gentius, [...]
 
 When the vote was put before the Rhodians, the proposal to send envoys to negotiate a settlement won the day.
 
-This was how the council settled the Rhodian opposition, as I have explained in my discussion of public speaking.
+This was how the council settled the Rhodian opposition, [as is set down in the section on public speeches].
 
 In that division, the men who sided with Perseus proved stronger than those who were trying to save their country and its laws.
 
@@ -150,7 +150,7 @@ They also received Gentius’ envoys at the common hearth with great friendlines
 
 ## Book 29 Chapter 12: On Proportion in History
 
-[...] Again, other writers on the Syrian war. The reason for this is what I have already explained more than once.
+[...] Again, other writers on the Syrian war. The reason for this is what I have already explained at some length.
 
 For when men take a simple and straightforward subject and yet want not the facts but the bulk of their books to make them seem like historians, and want that sort of display to create the impression of importance, it becomes necessary for them to make small things big, and to dress up matters that were briefly stated, and in some cases to turn incidental happenings into full-scale actions and affairs—staging contests and announcing battle lines in which sometimes ten infantrymen fell, sometimes only a little more, and cavalry even fewer than that.
 
@@ -158,7 +158,7 @@ As for sieges, geography, and similar topics, no one could adequately describe h
 
 But the opposite is true for those who write universal history: and so one should not blame us as if we were dragging out events when we sometimes pass over things that others have given great attention and embellishment, and sometimes mention them only briefly; rather, one should trust that we give each subject the treatment it deserves.
 
-For when those writers describe, somewhere in the course of their whole work, the siege of Phanoteia or Coroneia or Haliartus, they are forced to set out every contrivance, every bold move, and every detail of the siege, and beyond that [...] to dwell on the capture of Tarentum, Corinth, Sardis, Gaza, Bactra, and, above all, Carthage, adding details of their own; yet they are not at all satisfied if we give a plain and truthful account of such matters.
+For when those writers describe, somewhere in the course of their whole work, the siege of Phanoteia and Coroneia and [...], they are forced to set out every contrivance, every bold move, and every detail of the siege, and beyond that [...] to dwell on the capture of Tarentum, Corinth, Sardis, Gaza, Bactra, and, above all, Carthage, adding details of their own; yet they are not at all satisfied if we give a plain and truthful account of such matters.
 
 The same judgment should apply to our treatment of battles and speeches, and likewise to the other parts of history: in all these matters we would fairly deserve much forgiveness, and the same is true of what I am about to narrate, for instance if [...] I should seem to use the same material, the same handling of events, or the same expressions; and also if I should anywhere make slips in the names of mountains or rivers or in the particular features of places. The size of the undertaking itself is excuse enough in all these matters, unless I am caught deliberately making false statements for gain; for that I ask no pardon, as I have repeatedly and expressly said in this work.
 
@@ -194,7 +194,7 @@ So true is the saying that war is full of empty alarms.
 
 ## Book 29 Chapter 17: Perseus Loses His Resolve
 
-Lucius, though he had never seen a phalanx at all until he saw one in Perseus’ army, used to tell people in Rome afterward that he had never seen anything more frightening and formidable than a Macedonian phalanx, even though he had seen and taken part in many battles, like anyone else.
+Lucius, though he had never seen a phalanx at all until he saw one in Perseus’ army, used to tell people in Rome afterward that he had never seen anything more frightening and formidable than a Macedonian phalanx, even though he had seen and taken part in many battles, as much as anyone.
 
 Many schemes seem plausible and possible in theory, but when they come to practical use, like counterfeit coins thrown into the fire, they no longer live up to their first design.
 
@@ -212,9 +212,9 @@ At the time when Perseus, after his defeat, was making his escape, the senate de
 
 Fortune seemed, as if by design, to put the Rhodians’ ignorance on display before the stage—if one should call it ignorance of the Rhodians, and not rather of the men who were then dominant at Rhodes.
 
-When the party led by Hegesipolis entered, they said that they had come to end the war. For the Rhodian people, seeing that the war had dragged on for a long time, and seeing that it was harmful to all the Greeks and also to the Romans themselves because of the enormous expense, had come to that view.
+When the party led by Agepolis entered, they said that they had come to end the war. For the Rhodian people, seeing that the war had dragged on for a long time, and seeing that it was harmful to all the Greeks and also to the Romans themselves because of the enormous expense, had come to that view.
 
-But now that the war had ended according to the Rhodians’ wishes, they had come simply to congratulate the Romans. Such, briefly, was what the men around Hegesipolis said.
+But now that the war had ended according to the Rhodians’ wishes, they had come simply to congratulate the Romans. Such, briefly, was what the men around Agepolis said.
 
 The senate, taking advantage of the moment and wanting to make an example of the Rhodians, delivered a reply whose main point was this:
 
@@ -246,7 +246,7 @@ In his treatise on Fortune, wishing to show people clearly how changeable Fortun
 
 “If you were to keep in mind not an endless time or many generations, but only the fifty years immediately before our own day, you would recognize the harshness of Fortune here.
 
-For would you have believed, fifty years earlier, if any god had foretold it, that by this time not even the name of the Persians would remain at all—those who had been masters of almost the whole inhabited world—while the Macedonians, whose name was scarcely known before, would become masters of it all?
+For would you have believed, fifty years earlier, if any god had foretold it, that by this time not even the name of the Persians would remain at all—those who had been masters of almost the whole inhabited world—while the Macedonians, whose name was not even known before, would become masters of it all?
 
 And yet Fortune, whose action in our lives is unpredictable, who is always making new things out of what lies beyond our reckoning and showing her power through the unexpected, is even now, in my view, making this plain to all men: she has brought the Macedonians into the prosperity once enjoyed by the Persians, because she has lent these blessings to them too, until she decides something else about them.
 
@@ -332,7 +332,7 @@ The envoys from Ptolemy, having failed to secure the alliance, then handed over 
 
 ## Book 29 Chapter 26: Antiochus Renews the War
 
-Forgetting what he himself had written and said, Antiochus resumed the war against Ptolemy.
+Forgetting what he himself had written and said, Antiochus was preparing war against Ptolemy.
 
 So true are Simonides’ words: “It is hard to be good.”
 

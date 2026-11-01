@@ -1,0 +1,15 @@
+[
+{"id":"F0232","verdict":"ACCEPT","fix":"lamenting to many people and regretting","reason":"οἰκτιζόμενος πρὸς πολλούς: bewailing to many; no 'victims' in Greek, and 'to many' explains how Agathocles learned of it."},
+{"id":"F0233","verdict":"ACCEPT","fix":"escaped naked into a tent","reason":"γυμνός, simply 'naked'; matches the later 'saw him naked' (ὁρῶντες αὐτὸν γυμνόν)."},
+{"id":"F0234","verdict":"REVISE","fix":"Moeragenes said that it needed only someone to take the lead.","reason":"μάλιστα goes with ἀκμάζειν (already rendered); προσδεῖσθαι τῶν καταρξομένων = needed besides only those to begin. Drop misplaced 'chiefly'."},
+{"id":"F0237","verdict":"REVISE","fix":"because his own ship had a high-built prow","reason":"Gen. abs. sits in the αὐτὸς μέν clause: Deinocrates' raised prow made the blow land above water. English assigns it to the enemy."},
+{"id":"F0249","verdict":"REVISE","fix":"at times it is bridged by those who wish to cross on foot between the continents, and at other times it is constantly traversed by shipping","reason":"ποτὲ μὲν … ποτὲ δέ contrast lost; 'at all times' not in Greek; bridged BY (ὑπό) those crossing."},
+{"id":"F0253","verdict":"REJECT","fix":"","reason":"τε…καί joins two genitive absolutes; κατὰ γῆν naturally opens the second. 'Most of their supplies' is acceptable for πλείστων."},
+{"id":"F0255","verdict":"ACCEPT","fix":"sent off his outpost force","reason":"ἐφεδρεία here is the covering force sent forward to the summits; chs. 21-22 call it the Macedonian outpost. Not a rearguard."},
+{"id":"F0279","verdict":"ACCEPT","fix":"oak logs","reason":"στύπη δρύινα = oak logs/stumps (cf. Livy's stipites); 'wrapped in tow' confuses it with στύππη."},
+{"id":"F0287","verdict":"ACCEPT","fix":"from the city named Isinda","reason":"ἐκ τῆς Ἰσίνδης προσαγορευομένης πόλεως: Isinda, not Sinda."},
+{"id":"F0288","verdict":"ACCEPT","fix":"relieved the people of Isinda from the siege","reason":"τοὺς Ἰσινδεῖς: people of Isinda; consistent with F0287."},
+{"id":"F0291","verdict":"REVISE","fix":"at the appropriate [...] season when he also paid the Romans","reason":"Unmarked lacuna after ἐπιβαλλομένῳ, and ἐπιβαλλομένῳ itself dropped. Past tense fine in reported treaty."},
+{"id":"F0344","verdict":"REVISE","fix":"the whole issue was, in all likelihood, about to be decided","reason":"λήψεσθαι τὰ ὅλα κρίσιν ἐκ τῶν κατὰ λόγον: the whole was likely to reach decision; 'by force of arms' invented and makes Perseus the subject."},
+{"id":"F0348","verdict":"ACCEPT","fix":"to Ptolemy’s youth","reason":"ἡλικίαν τὴν τοῦ Πτολεμαίου: the youth is Ptolemy's; 'the king' after Antiochus misidentifies."}
+]

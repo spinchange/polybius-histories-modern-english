@@ -70,7 +70,7 @@ This will become clear from their actions.
 
 Envoys also came from Rhodes, first the party led by Philocrates, and after them those led by Philophron and Astymedes.
 
-For when the Rhodians received the answer that Agesipolis and his colleagues had obtained immediately after the battle, and saw from it the Senate’s anger and threatening posture toward them, they at once sent the embassies just mentioned.
+For when the Rhodians received the answer that Agepolis and his colleagues had obtained immediately after the battle, and saw from it the Senate’s anger and threatening posture toward them, they at once sent the embassies just mentioned.
 
 But Astymedes and Philophron, perceiving from their interviews, both public and private, the suspicion and estrangement people felt toward them, fell into complete discouragement and helpless distress.
 
@@ -152,7 +152,7 @@ In Achaea, Thessaly, and Perrhaebia, on the other hand, a number of men came und
 
 But they had never uttered any such proposal in public, nor were they caught either writing or sending messages to Perseus about anything; they kept themselves above reproach.
 
-Therefore such men were right to stand their defense and submit to judgment, and in the end they disappointed all expectations.
+Therefore such men were right to stand their defense and submit to judgment, and they put every hope to the test.
 
 For when a man knows himself guilty of nothing shameful, it is no less a mark of cowardice to remove himself from life out of fear—whether frightened by the attacks of political rivals or by the power of the victors—than it is to cling to life in a way that violates what honor requires.
 
@@ -494,7 +494,7 @@ Astymedes came in and spoke with restraint, and much better than on the previous
 
 For he gave up accusing others and instead turned to pleading for pardon, like men under the lash begging to be spared the blows, saying that his country had already suffered penalties enough, greater than its offense deserved.
 
-He then went on to explain its losses, summarizing them point by point. First, he said, they had lost Lycia and Caria, regions on which they had spent a great deal of money from the beginning, having been compelled to wage three wars over them, and from which they had once received considerable revenues.
+He then went on to explain its losses, summarizing them point by point. First, he said, they had lost Lycia and Caria, regions on which they had spent a great deal of money from the beginning, having been compelled to fight three wars against them, and from which they had once received considerable revenues.
 
 “But perhaps,” he said, “that can still be justified. You yourselves gave those districts to our people as a favor because of our goodwill, and when suspicion and estrangement arose between us, you could plausibly think it reasonable to take them away again.
 

@@ -1,0 +1,15 @@
+[
+{"id":"F0123","verdict":"REVISE","fix":"and in grain the exchange goes both ways, sometimes giving it when it is opportune, sometimes taking it","reason":"σίτῳ ἀμείβονται: grain flows both directions; 'exchange these for grain' implies oil/wine traded away for grain. Keep original wording otherwise."},
+{"id":"F0126","verdict":"REJECT","fix":"","reason":"Not a lacuna: chunking seam. Chapter 51 Greek begins 'σεως.', completing προθέσεως. 'their aim' is correct."},
+{"id":"F0127","verdict":"REVISE","fix":"and, against all expectation, made their voyage back","reason":"ἀνελπίστως = beyond hope/unexpectedly; 'as they had come' is added. 'in utter disgrace' already rendered; 'without hope' misreads."},
+{"id":"F0135","verdict":"REVISE","fix":"they picked out the most valuable furnishings and whatever could be transported, to carry off","reason":"διέλεγον = they selected; no order is given. Minimal change to original wording."},
+{"id":"F0165","verdict":"ACCEPT","fix":"the task would be difficult for those entrusted with it","reason":"τοῖς πεπιστευμένοις = those entrusted with the plan (Bolis, Cambylus), not men Achaeus trusted."},
+{"id":"F0167","verdict":"ACCEPT","fix":"just as the young men had anticipated","reason":"κατὰ τὴν τῶν νεανίσκων πρόληψιν: the anticipation is the conspirators'; Livius acts on nothing fostered by them."},
+{"id":"F0173","verdict":"REVISE","fix":"left no city untouched by the name of slavery","reason":"Greek has only τοῦ τῆς δουλείας ὀνόματος; 'and reality' added. Keep 'untouched'."},
+{"id":"F0178","verdict":"REJECT","fix":"","reason":"κατάγομος means 'laden with cargo' (LSJ); 'heavily loaded' is correct. Candidate confuses it with κατάγω."},
+{"id":"F0188","verdict":"ACCEPT","fix":"But he declared","reason":"ὁ δὲ = 'but he', a definite subject whose antecedent is lost in the excerpt; 'another' is unwarranted."},
+{"id":"F0204","verdict":"REVISE","fix":"prepare rations for a longer expedition three days beforehand","reason":"πρὸ ἡμερῶν τριῶν = three days before (the appointed day), not 'within three days'; attachment left ambiguous as in Greek."},
+{"id":"F0210","verdict":"REJECT","fix":"","reason":"ἀτύχημα here euphemistically denotes the alleged scandal; 'disgrace' conveys the sense. Word choice, not a sense error."},
+{"id":"F0223","verdict":"REVISE","fix":"now for the second year","reason":"δεύτερον ἔτος ἤδη = already in the second year (over a year), not a full two years."},
+{"id":"F0224","verdict":"ACCEPT","fix":"had not merely greeted the gods and bowed down to the earth, as men commonly do,","reason":"ἀσπάσαιντο τοὺς θεούς = saluted the gods, not 'appealed to'; προσκυνήσαιεν τὴν γῆν = did obeisance to the earth."}
+]
