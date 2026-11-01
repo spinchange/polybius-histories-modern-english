@@ -177,7 +177,7 @@ Then, by mocking some, abusing others, and killing others, he terrified the many
 
 So I think it was rightly said by me that one would not easily find leaders of affairs more alike than those of the Greeks and of the Carthaginians at that time.
 
-That will become clear when we compare them side by side.”
+That will become clear when we compare them side by side.
 
 ## Book 38 Chapter 9: The Senate Instructs Julius’s Commissioners
 
