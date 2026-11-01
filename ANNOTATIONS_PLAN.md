@@ -189,7 +189,7 @@ Dionysius' dig.
 | A3 readers (10 English notes) | done, all verified | f99c9c5, 912ec6c |
 | A4 Constantine + Frederick (our translations) | done, verified | b8e7b9c |
 | A3 parallels (10 showpieces, Livy/Plutarch/Appian) | done, all verified | 8dcc4c5 |
-| A5 survival layer + 7.1 headnote | **not started**; blocked on WORK_PLAN Phase 6 ESCALATE attributions in `work/status.csv` | |
+| A5 survival layer + 7.1 headnote | **in progress**: 42 provenance entries generated (all chapters with a "Quoted by" line as of 2026-11-01); 7.1 headnote drafted, `UNVERIFIED` pending user read; Constantinian-excerpt chapters blocked on Phase 6b | 6bd0eec + next |
 | A6 QA (validator, Haiku sweep, Opus read of 10 showpieces; fixes applied) | done 2026-11-01; open: 38.22 "From Appian" source line (Phase 6) | 29b393f |
 
 How to resume:
@@ -201,6 +201,19 @@ How to resume:
   One annotation per agent; review every lede against the Polybius chapter
   yourself. An agent wrongly claimed Polybius omits the New Carthage
   fishermen (he has them, 10.8). Treat agent ledes as drafts.
+
+A5 notes (survival layer):
+- Survival entries are provenance records: `pd_basis: none`, no quote, no source
+  slice; the body is only the `**Note:**`. `form: essay` lifts the sentence limit
+  (used by the 7.1 headnote).
+- `python work/scripts/ann_survival_gen.py` writes `annotations/survival/<book>-<ch>.md`
+  from the book files' `*Quoted by ...*` lines. It never overwrites existing
+  files (`--force` does), so rerun it after WORK_PLAN Phase 6b lands more
+  attributions. Generated entries carry `generated: ann_survival_gen.py`.
+- Still to do: entries for Constantinian-excerpt chapters (no italic line in the
+  books; source from the 6b output, apparatus questions to Opus), mixed-provenance
+  chapters, the missing "From Appian" line on 38.22, and the user's read of the
+  headnote (flip `status` to `verified`).
 
 Known items for A6 / the user (not checkable by the validator):
 - A4 translations (Constantine 7.1, Frederick 9.12–20) have had no second-reader
