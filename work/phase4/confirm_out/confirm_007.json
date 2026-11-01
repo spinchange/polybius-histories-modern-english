@@ -1,0 +1,9 @@
+[
+{"id":"F0025","verdict":"ACCEPT","fix":"and at last, still not taught a lesson by Fortune, had advanced so far","reason":"οὔπω νουθετούμενοι = not yet admonished by Fortune; English inverted the negation."},
+{"id":"F0026","verdict":"ACCEPT","fix":"For his own part, he said, he was ready to do this, because experience had taught him that","reason":"ἕτοιμός εἰμι omitted; restores the ἐγὼ μὲν half of the contrast."},
+{"id":"F0027","verdict":"ACCEPT","fix":"Let Hannibal, Scipio said, put himself in Scipio’s place and say: should the Romans remove the harshest of the imposed terms,","reason":"σὺ τὴν ἐμὴν χώραν μεταλαβὼν εἶπον: Hannibal takes Scipio’s place; persons were reversed."},
+{"id":"F0028","verdict":"ACCEPT","fix":"once they go into battle having given up all hope of life.","reason":"ἀπελπίσαντες τοῦ ζῆν = despairing of life, not of everything except fighting."},
+{"id":"F0029","verdict":"HUMAN","fix":"[...] of Masinissa’s men, the Carthaginian left wing was quickly stripped of its cavalry.","reason":"Lacuna before τῶν περὶ τὸν Μασαννάσαν; ‘by this’ invented. Marked with [...]; construction of the genitive is lost."},
+{"id":"F0030","verdict":"ACCEPT","fix":"no one using comparable equipment could have arranged a better engagement against the Romans than the one Hannibal then arranged","reason":"χρώμενον is accusative singular, the generic general, not the Romans."},
+{"id":"F0031","verdict":"ACCEPT","fix":"was now returning to it at more than forty-five years of age","reason":"ἔχων + years gives age: he returned aged over forty-five, not after forty-five years away."}
+]

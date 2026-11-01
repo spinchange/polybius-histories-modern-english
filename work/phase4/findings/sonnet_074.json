@@ -1,0 +1,11 @@
+{"batch":"sonnet_074","units":[
+{"book":9,"chapter":"17","verdict":"FINDINGS","findings":[{"quote":"wait there quietly with his force","problem":"Greek reads 'ὡς ἐπὶ * πρεπίου μένειν ἐνσχολάσαντα μετὰ τῆς δυνάμεως': there is a gap/corruption marked * before 'πρεπίου', and nothing in the Greek means 'quietly' (ἐνσχολάσαντα = spending time/lingering). The English smooths the gap away.","proposed_fix":"wait with his force, passing the time [Greek text defective here: 'as if for … prepion']","touches_syntax":false,"confidence":"medium"}],"note":"The Greek at this point is corrupt; the fix only marks the gap and does not restore the text."},
+{"book":9,"chapter":"18","verdict":"CLEAN","findings":[],"note":""},
+{"book":9,"chapter":"19","verdict":"CLEAN","findings":[],"note":""},
+{"book":9,"chapter":"20","verdict":"CLEAN","findings":[],"note":""},
+{"book":9,"chapter":"21","verdict":"CLEAN","findings":[],"note":""},
+{"book":9,"chapter":"27","verdict":"CLEAN","findings":[],"note":"Greek contains the lemma 'Ἀγάθυρνα, πόλις Σικελίας, ὡς Πολύβιος ἀνάτῃ' (Agathyrna, a city of Sicily, as Polybius in Book 10/11 [sic, ἀνάτῃ corrupt]) which the English omits entirely; outside the listed error classes, flagged for the editor only."},
+{"book":9,"chapter":"28","verdict":"CLEAN","findings":[],"note":""},
+{"book":9,"chapter":"29","verdict":"FINDINGS","findings":[{"quote":"left no city untouched by the name and reality of slavery","problem":"Greek: 'οὐδεμίαν πόλιν ἄμοιρον ἐποίησαν τοῦ τῆς δουλείας ὀνόματος' - only 'the name of slavery'; 'and reality' is not in the Greek.","proposed_fix":"left no city without a share in the name of slavery","touches_syntax":false,"confidence":"low"}],"note":""},
+{"book":9,"chapter":"30","verdict":"FINDINGS","findings":[{"quote":"For the Aetolians alone among the Greeks stood face to face with Antipater","problem":"The Greek of the preceding sentence ends in an ellipsis ('παρασπόνδησις...') and this sentence begins with 'γάρ', so a gap in the source precedes it; the English reads on as if continuous.","proposed_fix":"[Greek text lost here.] For the Aetolians alone among the Greeks stood face to face with Antipater","touches_syntax":false,"confidence":"medium"}],"note":""}
+]}

@@ -1,0 +1,9 @@
+{"batch":"sonnet_047","units":[
+{"book":4,"chapter":"75","verdict":"FINDINGS","findings":[{"quote":"among them, the Eleans dwell exceptionally well off","problem":"Greek is a fragment: [...]νόντων, οἰκοῦσι διαφερόντως Ἠλεῖοι = 'the Eleans inhabit [the country] especially/above all'. Nothing in the Greek corresponds to 'well off'; it is invented, and 'among them' is supplied to cover the gap. The text before the break is lost (lacuna), so the exact sense of what they inhabit is unrecoverable.","proposed_fix":"among them [...], the Eleans especially make their homes","touches_syntax":false,"confidence":"medium"}],"note":"Chapter opens mid-sentence (lost text); the opening [...] is correct, but 'well off' smooths the gap. Rest of chapter is accurate."},
+{"book":4,"chapter":"76","verdict":"CLEAN","findings":[],"note":""},
+{"book":4,"chapter":"77","verdict":"CLEAN","findings":[],"note":"Cities (nine), 600 Aetolians, c.500 mercenaries, 1000 citizens all match. 'Tarentine cavalry' adds 'cavalry' not in the Greek (Ταραντίνους only), but not a sense error."},
+{"book":4,"chapter":"78","verdict":"CLEAN","findings":[],"note":""},
+{"book":4,"chapter":"79","verdict":"CLEAN","findings":[],"note":""},
+{"book":4,"chapter":"80","verdict":"CLEAN","findings":[],"note":"Numbers (1000/1000/500/200; six days) and names (Taurion, Ladicus, Epitalium) match."},
+{"book":4,"chapter":"81","verdict":"FINDINGS","findings":[{"quote":"but after whom Fortune turned against them","problem":"Greek: ἕως τῆς ἐν Λεύκτροις μάχης, αὖτις ἐπὶ τἀναντία τραπείσης αὐτοῖς τῆς τύχης = 'down to the battle of Leuctra, after which Fortune turned to the opposite for them'. 'after whom' wrongly makes a person the antecedent; it is the time/battle of Leuctra.","proposed_fix":"but then Fortune turned against them","touches_syntax":false,"confidence":"medium"}],"note":""}
+]}

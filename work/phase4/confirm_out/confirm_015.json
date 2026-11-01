@@ -1,0 +1,6 @@
+[
+{"id":"F0113","verdict":"REVISE","fix":"they hardly dare to face us head-on","reason":"μόνον οὐ τολμῶσι hedges ('all but not dare'); keep the hedge, but 'all but do not dare' is unidiomatic."},
+{"id":"F0114","verdict":"REVISE","fix":"he encamped near the place called Vibonium","reason":"Οἰβώνιον is the Daunian site (Vibonium/Vibinum), not Vibo in Bruttium; use Latin form Vibonium."},
+{"id":"F0115","verdict":"ACCEPT","fix":"When the Romans were already close at hand, the Carthaginians gave the signal for battle and put out to sea, having resolved to fight.","reason":"Subject of σημήναντες ἀνήγοντο is Hasdrubal's force; English 'they' after genitive absolute reads as the Romans."},
+{"id":"F0116","verdict":"ACCEPT","fix":"handled every detail according to the consuls' judgment","reason":"ἐκείνων refers to the consuls, contrasting earlier ἑαυτῶν γνώμην; English 'their' is ambiguous."}
+]

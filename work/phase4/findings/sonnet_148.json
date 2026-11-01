@@ -1,0 +1,17 @@
+{"batch":"sonnet_148","units":[
+{"book":35,"chapter":"1","verdict":"CLEAN","findings":[],"note":""},
+{"book":35,"chapter":"2","verdict":"FINDINGS","findings":[
+{"quote":"Though they were barbarians, they spoke at length and tried to make every point of dispute clear.","problem":"Greek has a lacuna (***) after καίπερ ὄντες βάρβαροι; the English reads on as if whole and supplies 'at length'. The verb is διετίθεντο λόγους (they delivered/conducted speeches).","proposed_fix":"Although they were barbarians, [text missing in the Greek] they delivered speeches and tried to make every point of dispute clear.","touches_syntax":true,"confidence":"high"},
+{"quote":"For they were always hinting at the uncertainty of fortune","problem":"Greek: τὰ τῆς τύχης ἄδηλα πολλάκις ὑπεδείκνυον, 'often', not 'always'.","proposed_fix":"For they often hinted at the uncertainty of fortune","touches_syntax":false,"confidence":"medium"}
+],"note":"The sentence beginning ὡς προδόταις γεγονόσι is syntactically awkward in the Greek (possible corruption); English rendering is acceptable."},
+{"book":35,"chapter":"3","verdict":"CLEAN","findings":[],"note":""},
+{"book":35,"chapter":"4","verdict":"FINDINGS","findings":[
+{"quote":"who, though still young, had already been regarded as a leader in the war","problem":"Greek: δοκῶν δὲ σύμβουλος γεγονέναι τοῦ πολέμου, 'thought to have been an adviser (counsellor) in respect of the war', not a leader in it.","proposed_fix":"who, though still young, was thought to have been an adviser in favour of the war","touches_syntax":false,"confidence":"low"}
+],"note":"Meaning of σύμβουλος τοῦ πολέμου is somewhat open (adviser of/for the war); fix preserves 'adviser' only."},
+{"book":35,"chapter":"5","verdict":"FINDINGS","findings":[
+{"quote":"so Scipio fell to the ground upright and regained his footing","problem":"Greek ends at ὀρθὸς ἀπέπεσεν ἐπὶ τὴν γῆν ὁ Σκιπίων; 'and regained his footing' is not in the Greek.","proposed_fix":"so Scipio fell to the ground upright","touches_syntax":false,"confidence":"high"}
+],"note":""},
+{"book":35,"chapter":"6","verdict":"FINDINGS","findings":[
+{"quote":"When Polybius, through Scipio, had been granted an audience on behalf of the exiles from Achaea","problem":"Greek: ἐντευχθεὶς διὰ Πολύβιον ὑπὸ Σκιπίωνος. Scipio is the agent (ὑπὸ Σκιπίωνος), the approach is made on account of Polybius (διὰ Πολύβιον); nobody is 'granted an audience'. Roles of Polybius and Scipio are inverted. The grammatical subject of the participle is not given in the excerpt (opening is elliptical).","proposed_fix":"When Scipio, at Polybius's instance, had made representations on behalf of the exiles from Achaea","touches_syntax":true,"confidence":"medium"}
+],"note":"Subject of ἐντευχθείς is missing from the excerpt, so the Greek is elliptical; the fix keeps Scipio as agent and Polybius as the occasion."}
+]}

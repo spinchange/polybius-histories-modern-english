@@ -1,0 +1,15 @@
+{"batch":"sonnet_090","units":[
+{"book":14,"chapter":"1","verdict":"CLEAN","findings":[],"note":""},
+{"book":14,"chapter":"1a","verdict":"FINDINGS","findings":[
+{"quote":"even if they gladly follow each separate action and speech in detail","problem":"Greek: κἂν ὁλοσχερῶς παραδέχωνται τὰ κατὰ μέρος ἔργα καὶ λόγους. ὁλοσχερῶς means broadly/in outline (opposed to κατὰ μέρος, in particulars); there is no 'gladly' and no following 'in detail'. The sense is that people may take in the particular deeds and speeches only in general terms, yet still long to know the end.","proposed_fix":"even if they take in the particular actions and speeches only in outline","touches_syntax":false,"confidence":"medium"}],
+"note":""},
+{"book":14,"chapter":"2","verdict":"CLEAN","findings":[],"note":""},
+{"book":14,"chapter":"3","verdict":"CLEAN","findings":[],"note":""},
+{"book":14,"chapter":"4","verdict":"CLEAN","findings":[],"note":""},
+{"book":14,"chapter":"5","verdict":"FINDINGS","findings":[
+{"quote":"this seems to me the finest and boldest of all his achievements.","problem":"The Greek ends with a lacuna marker: κάλλιστον εἶναί μοι δοκεῖ τοῦτο τοὔργον καὶ παραβολώτατον τῶν ἐκείνῳ πεπραγμένων ***. The text breaks off after this clause; the English closes the sentence as if whole and does not mark the gap.","proposed_fix":"this seems to me the finest and boldest of all his achievements [...]","touches_syntax":false,"confidence":"high"}],
+"note":""},
+{"book":14,"chapter":"6","verdict":"FINDINGS","findings":[
+{"quote":"since a general with forces would very soon join him [...]","problem":"Greek breaks off mid-clause: ὡς αὐτίκα μάλα τοῦ στρατηγοῦ μετὰ τῶν δυνάμεων (genitive with article, no verb preserved). English invents the missing predicate 'would join him' and turns 'the general' into 'a general'. Text is truncated; the verb and the identity of the general (probably Hasdrubal, just sent out, but not stated) are not in the Greek.","proposed_fix":"since very soon the general, with his forces [...]","touches_syntax":true,"confidence":"medium"}],
+"note":"Greek is cut off without a *** marker; the English '[...]' is right but the supplied verb is not in the Greek."}
+]}

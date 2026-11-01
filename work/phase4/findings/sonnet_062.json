@@ -1,0 +1,10 @@
+{"batch":"sonnet_062","units":[
+{"book":5,"chapter":"103","verdict":"CLEAN","findings":[],"note":"Greek breaks off mid-sentence (πρός τε τὸν); English marks with [...]."},
+{"book":5,"chapter":"104","verdict":"CLEAN","findings":[],"note":""},
+{"book":5,"chapter":"105","verdict":"CLEAN","findings":[],"note":""},
+{"book":5,"chapter":"106","verdict":"CLEAN","findings":[],"note":"Greek breaks off at διὰ τὴν τῶν προ- and resumes in ch. 107 (-εστώτων ἀκρισίαν); English completes the sentence correctly."},
+{"book":5,"chapter":"107","verdict":"CLEAN","findings":[],"note":""},
+{"book":5,"chapter":"108","verdict":"CLEAN","findings":[],"note":""},
+{"book":5,"chapter":"109","verdict":"CLEAN","findings":[],"note":"Greek breaks off at ὡς ἐπ᾽ (Ἀπολλωνίας in ch. 110); English completes it."},
+{"book":5,"chapter":"110","verdict":"CLEAN","findings":[],"note":""}
+]}

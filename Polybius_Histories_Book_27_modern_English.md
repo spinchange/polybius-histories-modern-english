@@ -52,7 +52,7 @@ Archon readily complied. So after accomplishing these measures among the Greeks 
 
 ## Book 27 Chapter 3: Rhodes Prepares to Assist Rome
 
-At the same period Tiberius, Postumius, and Junius were making a tour of the islands and the cities in Asia and spent the greatest part of their time in Rhodes, though in those days the Rhodians had no need of supervision.
+At the same period Tiberius, Postumius, and Junius were making a tour of the islands and the cities in Asia [...] and most of all in Rhodes, though in those days the Rhodians had no need of it.
 
 For Agesilochus, who was then serving as prytanis, a man of high standing who later also went on embassy to Rome, had even earlier, as soon as it became clear that the Romans were about to make war on Perseus, urged the people in other respects as well to share the same hopes as Rome, and had advised the Rhodians to put forty ships in readiness, so that, if some need should arise from circumstances, they would not still be making preparations at the moment they were called upon, but, already ready, could carry out the decision at once.
 
@@ -60,7 +60,7 @@ By laying these points before the Romans at that time and showing them the prepa
 
 ## Book 27 Chapter 4: Perseus Sends a Statement to the Greeks
 
-After the conference with the Romans and the Greek states, Perseus set down in a letter the whole of his legal case and the arguments spoken on either side, partly because he supposed he would appear to have the stronger claim in justice, and partly because he wished to test the disposition of each state.
+After the conference with the Romans, [...] of the Greeks, Perseus set down in a letter the whole of his legal case and the arguments spoken on either side, partly because he supposed he would appear to have the stronger claim in justice, and partly because he wished to test the disposition of each state.
 
 So to the other states he sent the letters by ordinary couriers, but to Rhodes he sent envoys along with them, Antenor and Philip.
 
@@ -76,7 +76,7 @@ When the envoys had spoken these and similar words, what they said pleased every
 
 But because the Rhodians were already committed to goodwill toward Rome, and because the sounder judgment prevailed among them, though they received the envoys kindly in all other respects, they insisted in their reply that Perseus must not call on them for anything of such a kind as would make them appear to act against the will of the Romans.
 
-Antenor and his colleagues did not accept that answer; but, satisfied with the rest of the Rhodians’ courtesy, they sailed back to Macedonia.
+Antenor and his colleagues did not receive the answer [...]; but, satisfied with the rest of the Rhodians’ courtesy, they sailed back to Macedonia.
 
 ## Book 27 Chapter 5: Perseus Sends Antigonus to Boeotia
 
@@ -96,7 +96,7 @@ When the Romans had heard the envoys who had come from Asia speak about Rhodes a
 
 Solon and Hippias and their party tried to say something about the whole situation and to appease the senate, but for the most part they defended themselves against the charge of the plot against Eumenes.
 
-When they had finished their defense, the senate, having long since resolved on war, ordered them to leave Rome at once, and all other Macedonians who happened to be staying in Italy to depart within thirty days.
+When they had finished their defense, the senate, having long since resolved on war, ordered them and all the other Macedonians who happened to be staying there to leave Rome at once, and Italy within thirty days.
 
 After this they called in the consuls and urged them to seize the moment and not delay.
 
@@ -182,7 +182,7 @@ When Aristonicus arrived in Greece and was matched against Cleitomachus at Olymp
 
 And when, as the contest went on, he appeared to be holding his own and even landed a telling blow, there was loud applause, and the mass of spectators broke out together, shouting encouragement to Aristonicus.
 
-At that point, they say, Cleitomachus stepped back and paused a little to catch his breath; then he turned to the crowd and asked them what they meant by cheering Aristonicus and supporting him as much as they could, whether they knew that he was fighting unfairly, or whether they failed to understand that Cleitomachus was now competing for the honor of the Greeks, while Aristonicus was competing for that of King Ptolemy.
+At that point, they say, Cleitomachus stepped back and paused a little to catch his breath; then he turned to the crowd and asked them what they meant by cheering Aristonicus and supporting him as much as they could, whether they were not aware that he himself was fighting fairly, or whether they failed to understand that Cleitomachus was now competing for the honor of the Greeks, while Aristonicus was competing for that of King Ptolemy.
 
 Did they really want an Egyptian to carry off the Olympic crown by defeating Greeks, or a Theban and Boeotian to be proclaimed victor in boxing over his rivals?
 
@@ -296,7 +296,7 @@ He did this because he was convinced that he could give his brother no greater f
 
 ## Book 27 Chapter 19: Antiochus Protests Ptolemy’s War Plans
 
-When Antiochus saw that the authorities in Alexandria were now openly making preparations for the war over Coele-Syria, he sent envoys headed by Meleager to Rome, instructing them to address the senate and formally protest that Ptolemy was the one making the first attack on him, in defiance of every principle of justice.
+When Antiochus saw that the authorities in Alexandria were now openly making preparations for the war over Coele-Syria, he sent envoys headed by Meleager to Rome, instructing them to address the senate and formally protest that Ptolemy was the one making the first attack on him, in defiance of every principle of justice [...].
 
 ## Book 27 Chapter 20: The Need of Promptness and Persistence
 

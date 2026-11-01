@@ -1,0 +1,7 @@
+{"batch":"sonnet_118","units":[
+{"book":22,"chapter":"18","verdict":"CLEAN","findings":[],"note":""},
+{"book":22,"chapter":"19","verdict":"CLEAN","findings":[],"note":""},
+{"book":22,"chapter":"20","verdict":"FINDINGS","findings":[{"quote":"she preserved toward all of them without surpassing measure the same goodwill and motherly affection down to the end of her life","problem":"Greek: πρὸς πάντας τούτους ἀνυπέρβλητον διεφύλαξε τὴν εὔνοιαν καὶ φιλοστοργίαν. ἀνυπέρβλητον means 'unsurpassable/unsurpassed'; 'without surpassing measure' reads as 'without excess' (inverts the sense), and 'the same' has no Greek counterpart.","proposed_fix":"she preserved toward all of them unsurpassed goodwill and motherly affection down to the end of her life","touches_syntax":false,"confidence":"medium"}],"note":""},
+{"book":22,"chapter":"21","verdict":"FINDINGS","findings":[{"quote":"Ostiagon the Galatian, king of the Galatians in Asia","problem":"Greek: Ὀρτιάγων ὁ Γαλάτης. The name is Ortiagon (so also in Book 21, 'Chiomara, the wife of Ortiagon'); 'Ostiagon' is a misrendering and breaks identity with the Book 21 figure. The chapter heading carries the same form.","proposed_fix":"Ortiagon the Galatian, king of the Galatians in Asia","touches_syntax":false,"confidence":"high"}],"note":"The heading 'Ostiagon Tries to Become King of All the Galatians' should also read Ortiagon (outside the quote scope)."},
+{"book":22,"chapter":"22","verdict":"CLEAN","findings":[],"note":""}
+]}

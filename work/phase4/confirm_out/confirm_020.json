@@ -1,0 +1,12 @@
+[
+{"id":"F0156","verdict":"REVISE","fix":"but were disputing over Sardinia and Sicily as well [...] and were trying to grasp everything","reason":"Greek marks an omission after ἠμφισβήτουν; mark with project convention [...] rather than descriptive bracket text."},
+{"id":"F0157","verdict":"REVISE","fix":"seeing the defenders within beat off his assaults, to his own loss and mockery","reason":"τοὺς ἔνδον are the defenders; Marcus is outside. Loss and mockery fall on Marcus; wording kept close to original."},
+{"id":"F0158","verdict":"ACCEPT","fix":"Archimedes was using his ships as ladles to dip water out of the sea","reason":"ταῖς ναυσὶν κυαθίζειν ἐκ θαλάττης: the ships are the ladles, dipping from the sea; English inverted the image."},
+{"id":"F0159","verdict":"REVISE","fix":"[...] Demetrius, after rashly and recklessly attempting","reason":"Excerpt opens mid-sentence; mark gap with [...]. Name is securely recoverable from editor's note and Polyb. 3.19.11."},
+{"id":"F0160","verdict":"REVISE","fix":"whereas no one already occupied with a royal court, given the opportunity, would have hesitated to make a timely change to the name and dignity of Greece.","reason":"οὐδεὶς ἂν ἐπέσχε: strong negation, not 'might perhaps'; 'greater, more illustrious' absent. Note: 'voluntarily' earlier renders ἀκεραίῳ γνώμῃ (sound judgment) loosely."},
+{"id":"F0161","verdict":"REJECT","fix":"","reason":"Cambylus serves the besieger Antiochus; the ground behind the citadel did not admit siege-works, hence a continuous guard. English is right."},
+{"id":"F0162","verdict":"ACCEPT","fix":"Partly overjoyed, he promised everything; partly distrustful, he examined in detail the several plans and preparations.","reason":"τὰ μὲν … τὰ δὲ gives simultaneous mixed reactions; the sequence begins only with μετὰ δὲ ταῦτα."},
+{"id":"F0163","verdict":"HUMAN","fix":"afterward to make his move toward Syria without any advance notice","reason":"δίχα προόδου is obscure; 'circuitous route' is unsupported. Context (ἄφνω, παραδόξως) favors suddenness; translator should confirm reading."},
+{"id":"F0164","verdict":"REVISE","fix":"brought him before Antiochus, the two of them alone","reason":"ᾗ … νυκτί is time (already rendered 'on the very night'), not route; μόνος πρὸς μόνον: private audience."},
+{"id":"F0166","verdict":"ACCEPT","fix":"some joining Aribazus and others Laodice","reason":"Greek Ἀρίβαζον; matches the Book 7 spelling Aribazus for the same commandant of Sardis."}
+]

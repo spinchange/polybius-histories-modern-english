@@ -1,0 +1,8 @@
+[
+{"id":"F0103","verdict":"REJECT","fix":"","reason":"Current English already says the Etruscans held both plains at the same period (Paton's reading); candidate is a rephrasing, not a sense fix."},
+{"id":"F0104","verdict":"ACCEPT","fix":"those lying around the sources of the Po","reason":"ἀνατολαί of the river = its sources; Laevi and Lebecii lived in the west, so 'eastern part' reverses the geography."},
+{"id":"F0105","verdict":"REVISE","fix":"The Roman shields, that is, made a great difference for protection, and their swords for action [...], while the Gallic sword could only deliver a downward cut.","reason":"Lacuna after μεγάλην διαφορὰν must be marked [...] per convention; drop unsupported comparatives; candidate's '[text missing in the Greek]' violates convention."},
+{"id":"F0106","verdict":"ACCEPT","fix":"may put all their own hopes to the test before yielding any of what is essential","reason":"πάσας ἐξελέγχωσι τὰς σφετέρας ἐλπίδας: 'test all their hopes', not 'resources'."},
+{"id":"F0107","verdict":"REJECT","fix":"","reason":"πρόβλημα here is the Achaeans' dilemma, which the Corinthians' expulsion order resolved (next sentence); 'bulwark' would invert the sense."},
+{"id":"F0108","verdict":"ACCEPT","fix":"the killing of fellow citizens is held to be the gravest impiety, deserving the heaviest penalties","reason":"τίθεται is impersonal 'is held'; English wrongly attributes the view to Phylarchus."}
+]

@@ -1,0 +1,14 @@
+[
+{"id":"F0314","verdict":"REVISE","fix":"because the gift seemed worthy of gratitude. [For the expense seems to fall not much short of ten talents]","reason":"Cost clause is a bracketed γάρ gloss (present δοκεῖ), not a second Achaean motive; keep editorial brackets. Original's final period follows."},
+{"id":"F0315","verdict":"ACCEPT","fix":"for the sake of keeping their own laws and decrees in force","reason":"χάριν τοῦ διαμένειν states purpose; 'pretext' is not in the Greek."},
+{"id":"F0316","verdict":"REVISE","fix":"Thus, with the Achaean nation having grown and advanced in the best direction from the period covered by my history, this in turn became the beginning of its change for the worse: the audacity of Callicrates [...].","reason":"Genitive absolute with οὕτω, not causal 'since'; lacuna after θράσος marked with project convention [...]."},
+{"id":"F0317","verdict":"REJECT","fix":"","reason":"The */** break is one gap between excerpts; already marked by F0316's [...] at paragraph end. A second mark would double it."},
+{"id":"F0318","verdict":"ACCEPT","fix":"But whenever someone who has kept faith reminds them of what is just, they draw back","reason":"τετηρηκώς is nominative singular, agreeing with τις, not with the Romans."},
+{"id":"F0319","verdict":"REVISE","fix":"to add to the other evils, he took bribes","reason":"δωροδοκηθείς: he was bribed/took bribes; English says he bribed electors. Minimal wording kept."},
+{"id":"F0320","verdict":"REVISE","fix":"Instead he said one must first plead one’s case, and then make the request again; and if even so one failed to persuade them, one should at last yield under protest","reason":"Unexpressed subject is the Achaeans, who plead and fail to persuade; 'they' wrongly reads as the Romans. Keep 'under protest'."},
+{"id":"F0321","verdict":"HUMAN","fix":"circumstances [...] one [...] the Romans [...]","reason":"Corrupt fragment καιροῖς ἕνα Ῥωμαίοις has no verb; English invents 'be of one mind'. Editor should decide how to present the stray words."},
+{"id":"F0322","verdict":"ACCEPT","fix":"unwillingly and with resentment","reason":"μετὰ προσκοπῆς means with offence/resentment, not hesitation."},
+{"id":"F0323","verdict":"REVISE","fix":"to the extent that we are going to completely [...]","reason":"ἐπὶ τοσοῦτον ἐφ᾽ ὅσον μέλλομεν τελέως breaks off; English closed it with invented sense. Mark [...]."},
+{"id":"F0324","verdict":"ACCEPT","fix":"[...] even if they issue commands [...] and by reminding them","reason":"Greek marks gaps before and after κἂν ἐπιτάττωσιν; English joined them smoothly."},
+{"id":"F0325","verdict":"ACCEPT","fix":"and on the sixth day they marched on again to Parnassus","reason":"ἑκταῖοι parallels πεμπταῖοι: ordinal 'on the sixth day', not 'six more days’ march'."}
+]

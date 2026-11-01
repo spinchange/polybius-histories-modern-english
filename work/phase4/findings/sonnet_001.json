@@ -1,0 +1,10 @@
+{"batch":"sonnet_001","units":[
+{"book":1,"chapter":"5","verdict":"CLEAN","findings":[],"note":""},
+{"book":1,"chapter":"6","verdict":"CLEAN","findings":[],"note":""},
+{"book":1,"chapter":"7","verdict":"CLEAN","findings":[],"note":""},
+{"book":1,"chapter":"8","verdict":"CLEAN","findings":[],"note":"Greek breaks off mid-word (ὀρεγό-) at the chapter seam and resumes in ch. 9 (μενος ἐλπίδων); the English completes the sentence in ch. 8, which is a seam, not a smoothed lacuna."},
+{"book":1,"chapter":"9","verdict":"CLEAN","findings":[],"note":"Greek opens mid-sentence (μενος ἐλπίδων ἢ κατὰ τὴν στρατηγίαν), continuing ch. 8; English handles this in ch. 8."},
+{"book":1,"chapter":"10","verdict":"CLEAN","findings":[],"note":"Final clause (ὃ προορώμενοι Ῥωμαῖοι ... ) runs on into ch. 11 (πολὺν μὲν χρόνον ἐβουλεύσαντο); seam only."},
+{"book":1,"chapter":"11","verdict":"CLEAN","findings":[],"note":"Greek ends mid-sentence (ἀνεχώρησε κατὰ σπουδὴν / εἰς τὰς Συρακούσας in ch. 12); English completes it; seam only."},
+{"book":1,"chapter":"12","verdict":"CLEAN","findings":[],"note":""}
+]}

@@ -1,0 +1,11 @@
+{"batch":"sonnet_053","units":[
+{"book":5,"chapter":"32","verdict":"CLEAN","findings":[],"note":"Final sentence renders participle νομίζοντας (believing) as 'when we say'; sense not inverted, left alone."},
+{"book":5,"chapter":"33","verdict":"CLEAN","findings":[],"note":""},
+{"book":5,"chapter":"34","verdict":"CLEAN","findings":[],"note":""},
+{"book":5,"chapter":"35","verdict":"CLEAN","findings":[],"note":"Greek opens and closes mid-word (chapter seams); English completes the sentences, acceptable."},
+{"book":5,"chapter":"36","verdict":"CLEAN","findings":[],"note":"English ends with an explicit gap marker at the seam; fine."},
+{"book":5,"chapter":"37","verdict":"CLEAN","findings":[],"note":""},
+{"book":5,"chapter":"38","verdict":"CLEAN","findings":[],"note":""},
+{"book":5,"chapter":"39","verdict":"CLEAN","findings":[],"note":"Greek marks παρέκλεισαν with an asterisk (textual doubt); English 'secured' is vague enough to preserve the uncertainty. No fix."},
+{"book":5,"chapter":"40","verdict":"CLEAN","findings":[],"note":"Greek breaks off at 'τἀδελφοῦ δὲ τῆς'; English supplies 'of Persia' from the following chapter (the sense is correct, Persis). No fix."}
+]}

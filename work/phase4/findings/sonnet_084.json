@@ -1,0 +1,10 @@
+{"batch":"sonnet_084","units":[
+{"book":11,"chapter":"27","verdict":"FINDINGS","findings":[{"quote":"after this first movement, they should lay down the baggage","problem":"The Greek has a lacuna (***) in 'ὅταν ἐκπορευομένοις *** μετὰ τοῦτο τὸ πρῶτον τὰς μὲν ἀποσκευὰς ἀποτιθέναι'; the English reads on as if the clause were whole and supplies a smooth sense for the damaged words.","proposed_fix":"[gap in the Greek text here] ... first of all, they should lay down the baggage","touches_syntax":true,"confidence":"medium"}],"note":"Lacuna is in the tribunes' instructions; the rest of the chapter matches the Greek."},
+{"book":11,"chapter":"28","verdict":"CLEAN","findings":[],"note":""},
+{"book":11,"chapter":"29","verdict":"CLEAN","findings":[],"note":"Opening 'No, not one of you' continues οὐδένα from ch. 28's final clause; fine."},
+{"book":11,"chapter":"30","verdict":"FINDINGS","findings":[{"quote":"were brought in naked and in chains","problem":"The Greek has a lacuna after 'δεδεμένοι γυμνοὶ ***' before 'οἱ τῆς στάσεως αἰτίαι γεγονότες εἰσήγοντο'; the English presents the sentence as complete.","proposed_fix":"were brought in bound and naked [gap in the Greek text here]","touches_syntax":false,"confidence":"medium"}],"note":"Content of the missing words unknown; do not supply text."},
+{"book":11,"chapter":"31","verdict":"CLEAN","findings":[],"note":"'Carthage' renders ἐν αὐτῇ τῇ Καρχηδόνι (New Carthage in context); literal, left as is."},
+{"book":11,"chapter":"32","verdict":"CLEAN","findings":[],"note":""},
+{"book":11,"chapter":"33","verdict":"FINDINGS","findings":[{"quote":"he drew up a counterforce against the enemy stationed on the foothills","problem":"The Greek has a lacuna: 'ἀντέταττε *** πρὸς δὲ τοὺς εἰς τὸν αὐλῶνα καταβεβηκότας'. The object of ἀντέταττε (what he set against the foothill troops) is missing; 'a counterforce' is invented to smooth the gap.","proposed_fix":"he drew up [gap in the Greek text here: the troops he set] against the enemy stationed on the foothills","touches_syntax":true,"confidence":"medium"}],"note":"Remainder matches the Greek."},
+{"book":11,"chapter":"34","verdict":"CLEAN","findings":[],"note":""}
+]}

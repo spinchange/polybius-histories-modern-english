@@ -144,7 +144,7 @@ The same facts were likewise made known to Antiochus and Seleucus by the Aetolia
 
 ## Book 21 Chapter 9: Diophanes of Megalopolis as Commander
 
-Diophanes of Megalopolis had great practical experience in warfare, because during the long war against Nabis the Megalopolitans, being a neighboring people, had spent all that time serving under Philopoemen and had thus gained real training in military action.
+Diophanes of Megalopolis had great practical experience in warfare, because during the long war against Nabis, who was a neighbor of the Megalopolitans, he had spent all that time serving under Philopoemen and had thus gained real training in military action.
 
 Besides this, the man was powerful and impressive both in appearance and in bodily vigor.
 
@@ -204,7 +204,7 @@ In view of all this they urged Prusias by letter not to be afraid for his throne
 
 After hearing these arguments Prusias changed his mind. And when envoys headed by Gaius Livius also arrived and met with him, he gave up all expectation of support from Antiochus.
 
-Antiochus, having failed in this hope, came to Ephesus; and reflecting that only by mastering the sea could he prevent the crossing of the land army and in general keep the war away from Asia, he resolved to fight a naval battle and decide the issue by a contest at sea.
+Antiochus, having failed in this hope, came to Ephesus; and reflecting that only in this way could he prevent the crossing of the land army and in general keep the war away from Asia [...] if he securely commanded the sea, he resolved to fight a naval battle and decide the issue by a contest at sea.
 
 ## Book 21 Chapter 12: Pirates
 
@@ -232,7 +232,7 @@ The reason why the army remained in its first camp and why Publius was apart fro
 
 As I said in my work on the constitution, this is one of the three priestly bodies by which Rome performs its most notable sacrifices to the gods.
 
-During the season of that sacrifice, the law requires that these Salii not change their location for thirty days, wherever they may happen to be caught.
+[...] not to change their location for thirty days during the season of the sacrifice, wherever they may happen to be caught.
 
 This happened to Publius then. Just as the army was about to cross over, that sacred period overtook him, so that he could not change place.
 
@@ -288,7 +288,7 @@ Antiochus, believing that no harsher terms could be laid on him if he were defea
 
 ## Book 21 Chapter 16: Zeuxis and Antipater Sent to Negotiate Peace
 
-After the victory the Romans took possession of Sardis and its citadel, and then Musaeus came from Antiochus under flag of truce.
+After the victory the Romans had just taken possession of Sardis and its citadel [...] Musaeus came from Antiochus under flag of truce.
 
 Publius and his associates received him graciously, and he said that Antiochus wished to send envoys to discuss the whole settlement.
 
@@ -310,7 +310,7 @@ The men in the council had already sat together and deliberated about these matt
 
 ## Book 21 Chapter 17: The Roman Terms To Antiochus
 
-Publius said that the Romans never became harsher after victory.
+Publius said that the Romans never became harsher after victory [...]
 
 Therefore the envoys would receive from Rome the same answer that they had already received before the battle, when they came to the Hellespont.
 
@@ -328,7 +328,7 @@ As security for all this, Antiochus must at once provide twenty hostages of the 
 
 Publius announced these terms on behalf of the whole council. Since Antipater and Zeuxis agreed to them, everyone resolved to send envoys to Rome to ask the senate and people to ratify the treaty.
 
-So they separated on those terms, and in the following days the Romans divided their forces.
+So they separated on those terms, and in the following days the Romans divided their forces [...]
 
 A few days later, when the hostages had arrived at Ephesus, Eumenes and the envoys from Antiochus immediately began preparations to sail to Rome.
 
@@ -360,7 +360,7 @@ After this decision he was called back in, and when one of the elder senators ex
 
 ## Book 21 Chapter 19: King Eumenes In the Senate
 
-So he was forced to address the question. He said that he would add nothing further on his own concerns, but would continue entirely to leave those matters in Roman hands. One point only troubled him—the question of the Rhodians.
+So he was forced to address the question. He said that he would add nothing further on his own concerns, but would remain [...] entirely leaving those matters in Roman hands. One point only troubled him—the question of the Rhodians.
 
 That was why he had now been brought to speak about the present situation.
 
@@ -384,11 +384,11 @@ Therefore, gentlemen, he urged them to watch this point carefully, lest they unk
 
 ## Book 21 Chapter 20: Eumenes Has Always Been a Friend to Rome
 
-As for everything else, I would willingly yield to my neighbors, if need be, without contention; but in friendship toward you and goodwill for you, I would never knowingly give way to any living man.
+As for everything else, I would willingly yield to my neighbors, if need be, without contention; but in friendship toward you and goodwill for you, I would never, so far as lies in my power, give way to any living man.
 
 I think my father too, if he were alive, would have spoken in the same way.
 
-For he, being the first in Asia and Greece to share your friendship and alliance, preserved that bond in the noblest fashion to the very end of his life, not only in intention but in action.
+For he, being the first of almost all who live in Asia and Greece to share your friendship and alliance, preserved that bond in the noblest fashion to the very end of his life, not only in intention but in action.
 
 He joined you in all your wars in Greece, provided greater land and naval forces than your other allies, contributed more supplies, and endured greater dangers.
 
@@ -450,7 +450,7 @@ But if both ends can be adequately provided for, who could still feel uncertaint
 
 The case, they said, was like a lavish banquet: there is enough for everyone, and more than enough.
 
-Lycaonia, Hellespontine Phrygia, Pisidia, and besides these the Chersonese and the neighboring parts of Europe can be given by you to whomever you wish.
+Lycaonia, Hellespontine Phrygia, Pisidia, and besides these the Chersonese and the neighboring parts of Europe can be given by you to whomever you wish [...]
 
 Added to the kingdom of Eumenes, these could make it ten times what it now is; and if all or most of them were assigned to him, his power would be inferior to no other monarchy.
 
@@ -496,7 +496,7 @@ Having given this answer, they then appointed the ten commissioners, entrusting 
 
 As for the main principles, they themselves decided that of the peoples dwelling on this side of Taurus, all who had formerly been subject to Antiochus should be given to Eumenes, except Lycia and Caria as far as the Maeander, which should belong to the Rhodians.
 
-And among the Greek cities, those that had paid tribute to Attalus should continue to pay it to Eumenes, while those that had paid tribute to Antiochus alone should have that tribute remitted.
+And among the Greek cities, those that had paid tribute to Attalus should continue to pay it to Eumenes, while only those that had paid tribute to Antiochus should have that tribute remitted.
 
 Having laid down these outlines for the general settlement, they sent the ten commissioners out to Asia to join the consul Gnaeus.
 
@@ -530,7 +530,7 @@ Nicander the general gathered the levy of the whole nation and invaded Amphiloch
 
 Since most of the inhabitants willingly came over to them, they moved on into Aperantia. When that region also joined them voluntarily, they campaigned next in Dolopia.
 
-The people there at first made some show of resistance out of loyalty to Philip, but when they considered what had happened to the Athamanians and Philip’s weakness there, they quickly changed their minds and went over to the Aetolians.
+The people there at first made some show of resistance out of loyalty to Philip, but when they considered what had happened to the Athamanians and Philip’s [...], they quickly changed their minds and went over to the Aetolians.
 
 Since events had gone so well, Nicander led the army home, thinking Aetolia now secured by the peoples and places just mentioned, so that no one could any longer harm their territory.
 
@@ -594,11 +594,11 @@ Against the hooks they fastened iron grapnels and dragged them inside the wall, 
 
 Most of all they fought by making sallies with great courage, sometimes attacking by night the men sleeping at the works, sometimes openly assailing those on daytime duty, and so they delayed the siege.
 
-Nicander was operating outside and sent five hundred cavalry into the city. These broke through the enemy entrenchment lying between and slipped into the city.
+Nicander was operating outside and sent five hundred cavalry into the city. These broke through the enemy entrenchment lying between and slipped into the city. [...]
 
-He had instructed them that on the agreed day they were to sally out, while he himself would join in and support the danger.
+He had instructed them that on the agreed day they were to sally out and make [...], while he himself would join in and support the danger.
 
-They rushed boldly out of the city and fought gallantly, but Nicander failed them, whether because he was frightened by the danger or because he thought the business occupying him elsewhere was necessary; so the attempt miscarried.
+[...] They rushed boldly out of the city and fought gallantly, but Nicander failed them, whether because he was frightened by the danger or because he thought the business occupying him elsewhere was necessary; so the attempt miscarried.
 
 ## Book 21 Chapter 28: Smoking Out the Enemy
 
@@ -646,7 +646,7 @@ A few days later some men also came from the Acarnanians bringing Damoteles and 
 
 Once all these had assembled, negotiations for peace were energetically pursued.
 
-Amynander, true to his purpose, kept pressing the Ambraciots, urging them to save themselves, and warning that destruction was not far off if they did not take better counsel for themselves.
+Amynander, true to his purpose, kept pressing the Ambraciots, urging them to save themselves [...] and saying that this was not far off if they did not take better counsel for themselves.
 
 Since he repeatedly approached the wall and spoke to them in this way, the Ambraciots decided to invite him into the city.
 
@@ -732,11 +732,11 @@ After the Athenian spoke in this way, he persuaded the senate to make peace with
 
 Since the council so resolved, and the people also voted in agreement, the settlement was ratified. The detailed terms of the treaty were as follows.
 
-“The people of the Aetolians shall maintain the rule and supremacy of the Roman people in good faith.
+“The people of the Aetolians [...] the rule and supremacy of the Roman people [...].
 
 They shall not allow enemies to pass through their land or cities against the Romans or their allies and friends, nor shall they supply them by public decree with anything.
 
-And whenever the Romans are at war with anyone, the people of the Aetolians shall also be at war with them.
+[...] And whenever the Romans are at war with anyone, the people of the Aetolians shall also be at war with them.
 
 The Aetolians shall restore all Roman and allied deserters, runaway slaves, and prisoners, except those who, after being captured in war, returned to their own country and were later captured again, and except those who became enemies of Rome at the time when the Aetolians were fighting on Rome’s side; these are to be handed over within one hundred days from the swearing of the oaths to the Roman official in Corcyra.
 
@@ -812,7 +812,7 @@ When Gnaeus heard them, he promised gladly that he would help, and, thinking the
 
 When he came near Termessus, he made terms of friendship with them on receiving fifty talents, and did the same with the Aspendians.
 
-He also received the envoys from the other Pamphylian cities, dealt with each as policy required in their interviews, relieved the people of Sinda from the siege, and then once more resumed his march against the Galatians.
+He also received the envoys from the other Pamphylian cities, created in each of them, in their interviews, the impression already described, relieved the people of Sinda from the siege, and then once more resumed his march against the Galatians.
 
 ## Book 21 Chapter 36: Conquest of Pisidia
 
@@ -884,7 +884,7 @@ By this chance, what was needed for the danger at hand came to pass of itself.
 
 ## Book 21 Chapter 40: A Proverb from the Ariarathes Affair
 
-In the affair concerning Ariarathes, the outcome became proverbial: though they had matters in hand, they came to grief at the hands of their enemies.
+[...] of the affair concerning Ariarathes [...] into the proverb: for having [...] they became [...] to their enemies.
 
 ## Book 21 Chapter 41: Embassies Crown Manlius at Ephesus
 
@@ -946,7 +946,7 @@ The same obligation applied in reverse to the Romans and their allies with regar
 
 Antiochus was not to make war on the islanders or on peoples in Europe.
 
-He was to evacuate the cities and territory specified.
+He was to evacuate the cities and territory [...].
 
 His soldiers were to take nothing out except the weapons they were carrying; if they had removed anything else, they were to restore it to the same cities.
 
@@ -992,7 +992,7 @@ If both parties by common agreement wished to add anything to the treaty or remo
 
 ## Book 21 Chapter 44: Thermus Sent to Syria, Fleet Ordered to Patara
 
-When the oaths on these terms had been sworn, the commander at once sent Quintus Minucius Thermus and his brother Lucius—who had only just brought back the money from the Oroandians—into Syria.
+When the oaths on these terms had been sworn, the commander at once sent Quintus Minucius Thermus and Lucius, the commander’s brother—who had only just brought back the money from the Oroandians—into Syria.
 
 They were instructed to receive the king’s oaths and confirm the particular clauses of the treaty.
 

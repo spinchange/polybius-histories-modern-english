@@ -1,0 +1,9 @@
+{"batch":"opus_011","units":[
+{"book":6,"chapter":"10","verdict":"CLEAN","findings":[],"note":""},
+{"book":6,"chapter":"11","verdict":"FINDINGS","findings":[
+{"quote":"[...] and for thirty years after that period, was continually being refined","problem":"Greek: '**** καὶ τριάκοντα ἔτεσιν ὕστερον ἀπὸ τούτων τῶν καιρῶν ἀεὶ ... προδιευκρινουμένων ἦν' = '[...] and thirty years later; from those times on it was continually being refined'. ἔτεσιν ὕστερον means 'years later' (a point in time), not 'for thirty years' (a duration), and ἀπὸ τούτων τῶν καιρῶν begins the refinement. 'καὶ τριάκοντα' may be the tail of a compound numeral lost in the lacuna, so 'thirty' may not be the whole figure.","proposed_fix":"[...] and thirty years later; from that time on it was continually being refined","touches_syntax":false,"confidence":"medium"}
+],"note":"Lacuna before καὶ τριάκοντα is marked in the English; the numeral itself may be incomplete (e.g. '[x] and thirty'). Excerpt has no expressed subject; 'The Roman state' is supplied from context."},
+{"book":6,"chapter":"11a","verdict":"CLEAN","findings":[],"note":""},
+{"book":6,"chapter":"11b","verdict":"CLEAN","findings":[],"note":""},
+{"book":6,"chapter":"12","verdict":"CLEAN","findings":[],"note":""}
+]}

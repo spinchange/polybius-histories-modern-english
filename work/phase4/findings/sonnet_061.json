@@ -1,0 +1,10 @@
+{"batch":"sonnet_061","units":[
+{"book":5,"chapter":"95","verdict":"FINDINGS","findings":[{"quote":"who were sailing in Taurion’s ships and had anchored alongside them as friends with four vessels","problem":"Greek: Ἀγαθίνῳ δὲ καὶ Κασσάνδρῳ τοῖς Κορινθίοις ἐπιπλέουσι ταῖς Ταυρίωνος ναυσὶ ... μετὰ τεττάρων πλοίων. The Corinthians have their own four vessels (μετὰ τεττάρων πλοίων); ἐπιπλέουσι + dative means sailing up to / to join Taurion's ships, not sailing in them.","proposed_fix":"who were sailing to join Taurion’s ships and had anchored alongside them as friends with four vessels","touches_syntax":false,"confidence":"medium"}],"note":""},
+{"book":5,"chapter":"96","verdict":"CLEAN","findings":[],"note":""},
+{"book":5,"chapter":"97","verdict":"CLEAN","findings":[],"note":"Greek ends mid-sentence (τῆς / πράξεως continues in ch. 98); English completes it acceptably."},
+{"book":5,"chapter":"98","verdict":"CLEAN","findings":[],"note":""},
+{"book":5,"chapter":"99","verdict":"CLEAN","findings":[],"note":""},
+{"book":5,"chapter":"100","verdict":"CLEAN","findings":[],"note":""},
+{"book":5,"chapter":"101","verdict":"CLEAN","findings":[],"note":"Greek breaks off mid-sentence (τὸν / [καιρὸν]); English marks it with [...] correctly."},
+{"book":5,"chapter":"102","verdict":"CLEAN","findings":[],"note":"Greek breaks off at καὶ παρῆν; English marks with [...]."}
+]}

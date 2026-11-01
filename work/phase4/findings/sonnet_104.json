@@ -1,0 +1,10 @@
+{"batch":"sonnet_104","units":[
+{"book":18,"chapter":"26","verdict":"FINDINGS","findings":[{"quote":"at first halted, since the enemy held their pikes upright","problem":"The Greek has a lacuna: τὰς μὲν ἀρχὰς *** ἐπέστη, τῶν πολεμίων ὀρθὰς ἀνασχόντων τὰς σαρίσας. Text is missing after τὰς μὲν ἀρχὰς; the English reads on as if whole and supplies a causal 'since'.","proposed_fix":"at first [...] halted, the enemy having held their pikes upright","touches_syntax":false,"confidence":"high"}],"note":"Rest checked: twenty σημαίας, left/right wings, Titus/vanguard all accurate."},
+{"book":18,"chapter":"27","verdict":"CLEAN","findings":[],"note":"Numbers 700 / 8000 / 5000 correct. Greek breaks off at τοιοῦτον (chapter ends mid-sentence in the source)."},
+{"book":18,"chapter":"33","verdict":"CLEAN","findings":[],"note":""},
+{"book":18,"chapter":"34","verdict":"FINDINGS","findings":[{"quote":"nor did he wish, having driven Philip from power, to leave the Aetolians as masters of the Greeks","problem":"Greek is εἴτ᾽ οὐκ ἐβούλετο ... : εἴτε is disjunctive ('or whether he did not wish'), the second member of an alternative of motives, not a negative continuation ('nor'). The first member lies in the lacuna.","proposed_fix":"or else he did not wish, having driven Philip from power, to leave the Aetolians as masters of the Greeks","touches_syntax":false,"confidence":"medium"}],"note":"Both lacunae are properly marked [...]. Context lost, so the exact first alternative cannot be restored."},
+{"book":18,"chapter":"35","verdict":"CLEAN","findings":[],"note":"Lacuna after δύ᾽ ὀνόματα is marked [...]. 6000 talents, 25 talents dowry, Scipio Aemilianus (natural son of Aemilius, adoptive grandson of Africanus) all correct."},
+{"book":18,"chapter":"36","verdict":"CLEAN","findings":[],"note":""},
+{"book":18,"chapter":"37","verdict":"CLEAN","findings":[],"note":"Phaeneas' clause (μάταια πάντα τὰ πρὸ τοῦ γέγονε) is rendered 'would be in vain'; tense is loose but the sense is not inverted."},
+{"book":18,"chapter":"38","verdict":"CLEAN","findings":[],"note":""}
+]}

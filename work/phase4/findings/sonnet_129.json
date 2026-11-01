@@ -1,0 +1,25 @@
+{"batch":"sonnet_129","units":[
+{"book":28,"chapter":"9","verdict":"FINDINGS","findings":[
+{"quote":"saying that he would somehow make Gentius well disposed","problem":"Greek has a lacuna: φάσκων ἐξιγμένον *** εὐνοοῦντα ποιήσειν τὸν Γένθιον. English smooths it with an invented 'somehow'.","proposed_fix":"saying that [...] he would make Gentius well disposed","touches_syntax":false,"confidence":"high"},
+{"quote":"would have been won over","problem":"πάντας ἂν συνέβη ... τοὺς πλείστους ἐξελεγχθῆναι: ἐξελέγχω means to be tested/exposed/shown up, not 'won over'. Greek does not say they would be won over.","proposed_fix":"would have been put to the proof","touches_syntax":false,"confidence":"medium"},
+{"quote":"by good fortune he did not take that path","problem":"νῦν δὲ καλῶς ποιῶν οὐκ ἦλθε ταύτην τὴν ὁδόν: 'doing well / acting rightly', not 'by good fortune' (no τύχη here).","proposed_fix":"he did well not to take that path","touches_syntax":false,"confidence":"high"},
+{"quote":"only a very few Greeks were driven into utter folly at the crisis of the action","problem":"δι᾽ ἧς ὀλίγοι τελέως ἠλογήθησαν τῶν Ἑλλήνων ὑπὸ τὸν τῆς πράξεως καιρόν: ἀλογέω = to disregard/neglect; 'few were utterly disregarded'. No 'folly'.","proposed_fix":"by which few of the Greeks were utterly disregarded at the time of the action","touches_syntax":false,"confidence":"medium"}],
+"note":"Sentence ending 'ἠλογήθησαν' is somewhat compressed/possibly corrupt; fix keeps the plain sense. Lacunae also at end of 'δυνάμενοι πράττειν *' and before '** ὅτι γάρ' (English does not mark them)."},
+{"book":28,"chapter":"10","verdict":"CLEAN","findings":[],"note":""},
+{"book":28,"chapter":"11","verdict":"CLEAN","findings":[],"note":"Lacuna correctly marked [...]."},
+{"book":28,"chapter":"12","verdict":"FINDINGS","findings":[
+{"quote":"King Ptolemy had applied to the Achaeans because the customary rites performed for kings when they come of age had now taken place in his case","problem":"περὶ τοῦ βασιλέως Πτολεμαίου προσπεσόντος τοῖς Ἀχαιοῖς διότι γέγονεν αὐτῷ τὰ νομιζόμενα...ἀνακλητήρια: προσπίπτω = news reached; the Achaeans received word, Ptolemy did not apply to them. διότι is 'that', not 'because'.","proposed_fix":"word reached the Achaeans concerning King Ptolemy that the customary ceremonies (the anaklētēria) performed for kings when they come of age had now taken place in his case","touches_syntax":true,"confidence":"high"},
+{"quote":"his fellow envoys were to send word back at once explaining this","problem":"τοὺς μὲν συμπρεσβευτὰς ἐξ αὐτῆς πέμπειν διασαφήσοντας: Polybius is to send his colleagues off at once to report; the colleagues are the object, not the subject.","proposed_fix":"he was to send his fellow envoys off at once to report this","touches_syntax":true,"confidence":"medium"},
+{"quote":"decide the whole issue by force of arms","problem":"λήψεσθαι τὰ ὅλα κρίσιν ἐκ τῶν κατὰ λόγον: 'the whole matter would be decided, as was to be expected / in the natural course'; no mention of arms. Phrase possibly corrupt.","proposed_fix":"decide the whole issue, as was to be expected","touches_syntax":false,"confidence":"low"},
+{"quote":"Alcithon and Pasiadas","problem":"Ἀλκίθον is accusative of Ἀλκίθος (cf. Ch. 19 Ἀλκίθος); name should be Alcithus.","proposed_fix":"Alcithus and Pasiadas","touches_syntax":false,"confidence":"medium"}],
+"note":""},
+{"book":28,"chapter":"13","verdict":"CLEAN","findings":[],"note":"Talents are τάλαντα μεγάλα (omitted 'large' qualifier; not treated as error)."},
+{"book":28,"chapter":"14","verdict":"CLEAN","findings":[],"note":""},
+{"book":28,"chapter":"15","verdict":"CLEAN","findings":[],"note":""},
+{"book":28,"chapter":"16","verdict":"FINDINGS","findings":[
+{"quote":"Agesilochus son of Hegesias was sent to Rome, along with Nicagoras son of Nicander","problem":"Ἁγησίλοχος Ἁγησίου, Νικαγόρας, Νίκανδρος: three separate envoys (Nicander is a man, not Nicagoras' father); English drops one envoy.","proposed_fix":"Agesilochus son of Hegesias, Nicagoras and Nicander were sent to Rome","touches_syntax":true,"confidence":"high"}],
+"note":"Text has a visible gap after Ἁγησίου, possibly a lost name; the three-name reading is what the Greek states."},
+{"book":28,"chapter":"17","verdict":"CLEAN","findings":[],"note":""},
+{"book":28,"chapter":"18","verdict":"CLEAN","findings":[],"note":""},
+{"book":28,"chapter":"19","verdict":"CLEAN","findings":[],"note":""}
+]}

@@ -1,0 +1,8 @@
+{"batch":"sonnet_002","units":[
+{"book":1,"chapter":"13","verdict":"CLEAN","findings":[],"note":""},
+{"book":1,"chapter":"14","verdict":"CLEAN","findings":[],"note":"Greek breaks off at 'ὡς δ᾽ ἔστιν ἀληθῆ τὰ νῦν ὑφ᾽' and resumes in ch. 15; the English rendering of the fragment is acceptable."},
+{"book":1,"chapter":"15","verdict":"CLEAN","findings":[],"note":""},
+{"book":1,"chapter":"16","verdict":"CLEAN","findings":[],"note":""},
+{"book":1,"chapter":"17","verdict":"CLEAN","findings":[],"note":""},
+{"book":1,"chapter":"18","verdict":"CLEAN","findings":[],"note":"Greek ends mid-sentence (σφίσι παρεσκεύαζε); English closes it plausibly, no sense error."}
+]}

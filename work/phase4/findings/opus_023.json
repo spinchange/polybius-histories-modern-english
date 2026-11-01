@@ -1,0 +1,7 @@
+{"batch":"opus_023","units":[
+{"book":10,"chapter":"13","verdict":"CLEAN","findings":[],"note":""},
+{"book":10,"chapter":"14","verdict":"CLEAN","findings":[],"note":""},
+{"book":10,"chapter":"15","verdict":"CLEAN","findings":[],"note":"Greek breaks mid-sentence (καὶ τῆς μὲν κατὰ τὴν Ἰβηρίαν Καρχηδόνος | τοῦτον τὸν τρόπον ἐγένοντο κύριοι Ῥωμαῖοι, 10.16.1); English completes the sentence at end of ch.15 and repeats it at start of ch.16. Seam duplication, not a translation error; flag for apparatus."},
+{"book":10,"chapter":"16","verdict":"CLEAN","findings":[],"note":"ἀεὶ πρὸς τὸ δεικνύειν is textually doubtful; 'ready for whatever is indicated' keeps the general sense without forcing a reading."},
+{"book":10,"chapter":"17","verdict":"CLEAN","findings":[],"note":"Greek ends in lacuna (πρόνοιαν ***); English correctly breaks off with a dash."}
+]}

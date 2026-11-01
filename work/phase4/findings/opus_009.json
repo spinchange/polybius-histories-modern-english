@@ -1,0 +1,9 @@
+{"batch":"opus_009","units":[
+{"book":6,"chapter":"1","verdict":"CLEAN","findings":[],"note":""},
+{"book":6,"chapter":"2","verdict":"FINDINGS","findings":[
+ {"quote":"and one may grasp the magnitude of that change from what follows.","problem":"Greek: γνοίη δ᾽ ἄν τις τὸ μέγεθος τῆς μεταβολῆς ἐκ τούτων. ζήτει ἐν τῷ περὶ στρατηγίας. The excerptor's note ('look in the section on generalship') shows the excerpt breaks off here: the passage that 'follows' (ἐκ τούτων) is not transmitted. The English reads straight on into an unrelated fragment as if the promised illustration came next.","proposed_fix":"and one may grasp the magnitude of that change from what follows. [...]","touches_syntax":false,"confidence":"medium"}
+],"note":"Final fragment (τὸ γὰρ ἀδύνατον ἐν τῷ ψεύδει μόνον οὐδ᾽ ἀπολογίαν ἐπιδέχεται) is ambiguous in scope of μόνον: either 'only in a falsehood does impossibility admit no excuse' (current) or 'in falsehood, impossibility alone admits not even an excuse'. Isolated marginal fragment without context; no fix proposed."},
+{"book":6,"chapter":"3","verdict":"CLEAN","findings":[],"note":""},
+{"book":6,"chapter":"4","verdict":"CLEAN","findings":[],"note":""},
+{"book":6,"chapter":"5","verdict":"CLEAN","findings":[],"note":""}
+]}

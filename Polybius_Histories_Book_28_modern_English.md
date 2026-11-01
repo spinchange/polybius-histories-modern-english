@@ -14,7 +14,7 @@ For ever since Antiochus, the father of the king now reigning, defeated Ptolemy�
 
 So Antiochus, thinking that possession won in war was the strongest and noblest title, pursued the matter as though he were defending property that was his own.
 
-Ptolemy, on the other hand, believed that the former Antiochus had unjustly taken advantage of his father’s orphaned condition and stripped them of the cities of Coele-Syria; so he could not bring himself to yield those places to him. That was why Meleager and his party came, with instructions to call the Senate to witness that Ptolemy, against every rule of justice, had been the first to lay hands on territory that was not his.
+Ptolemy, on the other hand, believed that the former Antiochus had unjustly taken advantage of his father’s orphaned condition and stripped them of the cities of Coele-Syria; so he could not bring himself to yield those places to him. That was why Meleager and his party came, with instructions to call the Senate to witness that Ptolemy, against every rule of justice, had been the first to attack him.
 
 Timotheus and his colleagues came both to renew friendly relations and to speak about ending the war with Perseus, but above all to observe the interviews of Meleager’s party.
 
@@ -168,11 +168,11 @@ After they had set out, Perseus himself broke camp and marched with his army tow
 
 At this time the envoys who had been sent to Gentius returned, having accomplished nothing more than the earlier embassies and bringing no new result, because Gentius remained of the same mind, ready enough to join Perseus in the same enterprise, but saying that he needed money.
 
-Perseus ignored this and again sent Hippias and his party to confirm the agreement, leaving out the central point and saying that he would somehow make Gentius well disposed.
+Perseus ignored this and again sent Hippias and his party to confirm the agreement, leaving out the central point and saying that [...] he would make Gentius well disposed.
 
 So one is at a loss whether such conduct should be called mere irrationality or a kind of heaven-sent delusion. For my part, I think it is rather such a delusion, when men set their hearts on bold enterprises and risk their lives, yet neglect the very thing that holds their plans together, though they see it and have the power to do it.
 
-For if Perseus at that time had been willing to spend money, both publicly on states and privately on kings and political leaders—not lavishly, as his resources allowed, but only in moderation—it would have turned out that all the Greeks and all the kings, or at least most of them, would have been won over. I do not think any sensible person will dispute this.
+For if Perseus at that time had been willing to spend money, both publicly on states and privately on kings and political leaders—not lavishly, as his resources allowed, but only in moderation—it would have turned out that all the Greeks and all the kings, or at least most of them, would have been found wanting. I do not think any sensible person will dispute this.
 
 But as things stood, by good fortune he did not take that path, by which, if he had succeeded, he would have gained an overbearing mastery of everything, or, if he had failed, would have made many others share the same fate as himself.
 
@@ -198,15 +198,15 @@ So they introduced before the Achaeans a decree that they should make a general 
 
 When this decree had been ratified, the Achaeans decided that Archon should take charge of assembling the army and making preparations for the expedition, and that envoys should be sent to the consul in Thessaly to explain the Achaean decision and ask when and where they should join their army to his.
 
-They immediately appointed Polybius and others as envoys, and gave Polybius special instructions: if the general approved the arrival of the army, his fellow envoys were to send word back at once explaining this, so that they might not miss the right moment, while he himself was to see to it that the whole force found markets in the cities through which it marched and that the soldiers lacked none of their necessities.
+They immediately appointed Polybius and others as envoys, and gave Polybius special instructions: if the general approved the arrival of the army, he was to send his fellow envoys off at once to report this, so that they might not miss the right moment, while he himself was to see to it that the whole force found markets in the cities through which it marched and that the soldiers lacked none of their necessities.
 
 With these instructions the men just mentioned set out.
 
 They also appointed Telocritus and his colleagues as envoys to Attalus, carrying the decree concerning the restoration of the honors of Eumenes.
 
-At the same time King Ptolemy had applied to the Achaeans because the customary rites performed for kings when they come of age had now taken place in his case.
+At the same time word reached the Achaeans concerning King Ptolemy that the customary rites performed for kings when they come of age, the Anacleteria, had now taken place in his case.
 
-Judging that it was proper for them to mark the occasion, they voted to send envoys to renew the goodwill already existing between the League and the kingdom, and they at once appointed Alcithon and Pasiadas.
+Judging that it was proper for them to mark the occasion, they voted to send envoys to renew the goodwill already existing between the League and the kingdom, and they at once appointed Alcithus and Pasiadas.
 
 ## Book 28 Chapter 13: Marcius Declines Assistance from the Achaeans
 
@@ -260,7 +260,7 @@ For when the senate’s decree reached them, explaining that they should no long
 
 By that time it was already known to everyone which Roman magistrates were going to arrive in Greece.
 
-So, though opposition was voiced, the proposal carried, and at the beginning of summer Agesilochus son of Hegesias was sent to Rome, along with Nicagoras son of Nicander; while to the consul and the admiral they sent Agepolis, Ariston, and Pasicrates, with instructions to renew their friendly relations with the Romans and to answer the accusations that some people were making against their city, while Agesilochus and his colleagues were at the same time to speak about the export of grain.
+So, though opposition was voiced, the proposal carried, and at the beginning of summer Agesilochus son of Hegesias, Nicagoras and Nicander were sent to Rome; while to the consul and the admiral they sent Agepolis, Ariston, and Pasicrates, with instructions to renew their friendly relations with the Romans and to answer the accusations that some people were making against their city, while Agesilochus and his colleagues were at the same time to speak about the export of grain.
 
 What these men said to the senate, what answers the senate gave them, and how they returned after receiving every mark of goodwill, I have already recounted in the section on Italian affairs.
 
@@ -312,7 +312,7 @@ These men accordingly sailed up the river to meet him.
 
 ## Book 28 Chapter 20: Antiochus Epiphanes In Egypt
 
-At the time when Antiochus occupied Egypt, the envoys sent to arrange a settlement joined the envoys from Greece. He received the men graciously and made their first reception notably splendid.
+At the time when Antiochus occupied Egypt, those of the envoys from Greece who had been sent to arrange a settlement came to meet him. He received the men graciously and made their first reception notably splendid.
 
 On the following day he granted them an audience and told them to speak on the matters for which they had been instructed.
 

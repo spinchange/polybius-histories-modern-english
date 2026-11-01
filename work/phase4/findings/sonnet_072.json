@@ -1,0 +1,13 @@
+{"batch":"sonnet_072","units":[
+{"book":9,"chapter":"1","verdict":"CLEAN","findings":[],"note":""},
+{"book":9,"chapter":"2","verdict":"CLEAN","findings":[],"note":""},
+{"book":9,"chapter":"3","verdict":"CLEAN","findings":[],"note":"English renders oute eikein ... oute ekchorein (the Romans were unable to yield or quit the open country) with passives ('could neither be forced ... nor induced'); outcome is the same, so not flagged."},
+{"book":9,"chapter":"4","verdict":"FINDINGS","findings":[
+{"quote":"it was impossible for so many horsemen and so many pack animals to bring hay and barley on their backs from a great distance","problem":"Greek: τοῖς δὲ νώτοις οὐκ ἐφικτὸν εἶναι τοσαύτῃ μὲν ἵππῳ, τοσούτοις δ᾽ ὑποζυγίοις κατανύσαι χόρτον ἢ κριθὰς κομίζοντας ἐκ μακροῦ διαστήματος. The cavalry and pack animals (datives) are the consumers to be supplied; the carrying is done by the transport (on backs) from far away. English makes the horsemen and pack animals the carriers.","proposed_fix":"it was impossible, by carrying hay or barley on their backs from a great distance, to supply so large a body of cavalry and so many pack animals","touches_syntax":true,"confidence":"low"},
+{"quote":"since even apart from the cavalry the danger of an evenly matched engagement seemed uncertain enough","problem":"Greek: πρὸς οὓς καὶ τὸν ἐξ ἴσου κίνδυνον αὐτοῖς ἀμφίδοξον εἶναι συνέβαινε χωρὶς τῶν ἱππέων. 'Without the cavalry' (the Carthaginians would be encamped without it): even a fight on equal terms was doubtful for them. 'Even apart from the cavalry' can read as setting the cavalry aside, which blurs the point.","proposed_fix":"since, without their cavalry, even a fight on equal terms was of doubtful issue for them","touches_syntax":false,"confidence":"medium"}
+],"note":"ἠγωνίων is plural (the Carthaginians generally were anxious), English has 'Hannibal was anxious'; harmless. Also ἐπικαθισταμένους ὑπάτους could mean the consuls already sitting down against Capua rather than 'incoming' consuls; Greek is somewhat ambiguous, so no fix proposed."},
+{"book":9,"chapter":"5","verdict":"CLEAN","findings":[],"note":""},
+{"book":9,"chapter":"6","verdict":"CLEAN","findings":[],"note":"Greek breaks off mid-sentence at τοιαύτην; the clause is completed at the start of ch. 7 (εἰς ἣν οὐδεὶς ... ἤλπιζε). English completes it in ch. 6 and omits it in ch. 7; a seam matter, not an error of sense."},
+{"book":9,"chapter":"7","verdict":"CLEAN","findings":[],"note":""},
+{"book":9,"chapter":"8","verdict":"CLEAN","findings":[],"note":""}
+]}

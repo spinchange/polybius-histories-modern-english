@@ -348,7 +348,7 @@ For this reason those who record the dominions of the Etruscans should not direc
 
 The Gauls, mingling with them because they lay alongside one another, and casting envious eyes on the beauty of the country, on a slight pretext unexpectedly attacked with a great army, drove the Etruscans out of the country around the Po, and took possession of the plains themselves.
 
-So the first districts, those lying toward the eastern part of the Po, the Laevi and the Lebecii settled; after these the Insubres, who were the greatest of their peoples; and next to these, along the river, the Cenomani.
+So the first districts, those lying around the sources of the Po, the Laevi and the Lebecii settled; after these the Insubres, who were the greatest of their peoples; and next to these, along the river, the Cenomani.
 
 The districts already adjoining the Adriatic were held by another, very ancient people: they are called the Veneti, differing little from the Gauls in customs and dress, but using a different language.
 
@@ -622,7 +622,7 @@ But the main body of the Insubres, Boii, and Taurisci—once the Romans had take
 
 For though they were being cut down, they held firm in spirit on equal terms, inferior only in this one respect—both as a whole and man for man—namely in the construction of their weapons.
 
-The Roman shields, that is, offered far greater protection, and their swords were far more effective in action, while the Gallic sword could only deliver a downward cut.
+The Roman shields, that is, made a great difference for protection, and their swords for action [...], while the Gallic sword could only deliver a downward cut.
 
 And when the Roman cavalry charged in from higher ground against the flank, riding down from the hill and pressing the attack vigorously, then the Gallic infantry were cut to pieces right where they stood in their line, while their cavalry took to flight.
 
@@ -714,7 +714,7 @@ took Mediolanum by storm. When this happened, the chiefs of the Insubres, despai
 
 Such, then, was the outcome of the war against the Gauls. In terms of the desperate fury and daring of the men who fought it, and further in terms of the battles and the number of those killed and engaged in them, it was inferior to none recorded in history; but in terms of strategic planning and the lack of judgment in the conduct of its individual stages, it was utterly contemptible—because not the greater part, but absolutely everything the Gauls did was governed by passion rather than by reason.
 
-Having observed for myself how these people were driven out of the plains around the Po not long afterward—except for a few localities lying right at the foot of the Alps—I decided that I ought not to leave unrecorded either their original invasion, or their subsequent actions, or their final expulsion, believing it proper to the work of history to bring such episodes of Fortune into memory and to hand them down to those who come after, so that our descendants may not be utterly ignorant of these things and thus be terrified by the sudden and unexpected attacks of the barbarians, but rather, bearing in mind to some degree how short-lived and how easily broken the barbarian host is, may withstand their onslaught—those who face danger with judgment—and may exhaust all their own resources before yielding any of what is essential.
+Having observed for myself how these people were driven out of the plains around the Po not long afterward—except for a few localities lying right at the foot of the Alps—I decided that I ought not to leave unrecorded either their original invasion, or their subsequent actions, or their final expulsion, believing it proper to the work of history to bring such episodes of Fortune into memory and to hand them down to those who come after, so that our descendants may not be utterly ignorant of these things and thus be terrified by the sudden and unexpected attacks of the barbarians, but rather, bearing in mind to some degree how short-lived and how easily broken the barbarian host is, may withstand their onslaught—those who face danger with judgment—and may put all their own hopes to the test before yielding any of what is essential.
 
 For I believe that those who recorded for us, and handed down to memory, the Persians’ invasion of Greece and the Gauls’ invasion of Delphi contributed in no small way—indeed greatly—to the struggles waged for the common freedom of the Greeks.
 
@@ -1092,7 +1092,7 @@ Apart from this, he relates most of his catastrophes without setting out the cau
 
 For who among men does not think it a dreadful thing that free men should be struck? Yet, nonetheless, if a man suffers this because he began with unjust violence, he is judged to have suffered justly; whereas if the same thing is done for correction and instruction, those who strike free men are thought worthy even of honor and gratitude.
 
-And again, the killing of fellow citizens he treats as the gravest impiety, deserving the heaviest penalties—and yet plainly the man who kills a thief or an adulterer goes unpunished, while the man who kills a traitor or a tyrant receives honor and precedence among all.
+And again, the killing of fellow citizens is held to be the gravest impiety, deserving the heaviest penalties—and yet plainly the man who kills a thief or an adulterer goes unpunished, while the man who kills a traitor or a tyrant receives honor and precedence among all.
 
 So in every case the final judgment about such things rests not in the deeds themselves, but in the causes and purposes of those who act, and in the differences between them.
 

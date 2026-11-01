@@ -1,0 +1,7 @@
+[
+{"id":"F0146","verdict":"REVISE","fix":"and second warning him that his dealings with Ptolemy and, in general, his excessive agitation had not escaped notice","reason":"προλέγων is Antiochus's own warning, not a charge against Achaeus; drop 'for'. Minimal fix keeps existing wording."},
+{"id":"F0147","verdict":"ACCEPT","fix":"the city called Dora","reason":"Δῶρα is Dora (Dor) on the Phoenician coast; 'Dura' (5.48, Δοῦρα) is a different city."},
+{"id":"F0148","verdict":"ACCEPT","fix":"sixteen of his elephants died, and most of them were captured","reason":"ᾑρέθησαν = were captured (by Antiochus); these are Ptolemy's losses, so 'recaptured' inverts the sense."},
+{"id":"F0149","verdict":"ACCEPT","fix":"it was at this point that we broke off our account of the Social War","reason":"ἐκτροπή is the digression away from the Social War narrative, not into it."},
+{"id":"F0150","verdict":"REJECT","fix":"","reason":"ταῖς Ταυρίωνος ναυσί is instrumental: they sailed in Taurion's ships; the four vessels are those ships. English correct."}
+]

@@ -28,7 +28,7 @@ Afterward they added rule over Asia by overthrowing the Persian empire. Yet thou
 
 For they never once even attempted to contest Sicily, Sardinia, or Libya, and, to speak plainly, they did not so much as know the most warlike peoples of western Europe.
 
-The Romans, by contrast, made subject to themselves not some parts, but almost the whole inhabited world, and they left behind a supremacy that past ages cannot match and future ages will not surpass.
+The Romans, by contrast, made subject to themselves not some parts, but almost the whole inhabited world, and they left behind a supremacy that no one now living can resist and that no one in future ages can surpass.
 
 From the narrative itself it will be possible to see this more clearly, and likewise to understand how great and how numerous are the benefits that practical history naturally offers to those eager to learn.
 
@@ -430,7 +430,7 @@ For not only did they lack adequate resources, but they had no resources at all 
 
 As evidence for the truth of what I am now saying and for the extraordinary character of their daring, one might cite this: when they first undertook to ferry their forces across to Messene, they not only had no decked warship but no long ship at all, not a single galley.
 
-Rather, they borrowed fifty-oared vessels and triremes from the Tarentines and Locrians, and also from the Eleans and Neapolitans, and on these they boldly carried their men across.
+Rather, they borrowed fifty-oared vessels and triremes from the Tarentines and Locrians, and also from the people of Elea and the Neapolitans, and on these they boldly carried their men across.
 
 On that occasion, when the Carthaginians put out against them in the strait, one of their decked ships, in its eagerness, pressed too far forward and ran aground, so that it fell into the hands of the Romans; using this ship as a model, they then built their entire fleet on that pattern.
 
@@ -464,7 +464,7 @@ At the same time, hearing that the enemy’s fleet was not far off, they set abo
 
 But since their ships were poorly built and hard to maneuver, someone proposed to them, as an aid for the fight, the devices that were afterward called “ravens” (corvi). Their construction was as follows.
 
-A round post stood on the prow, twenty-four feet high and a foot wide in diameter.
+A round post stood on the prow, twenty-four feet high and three palms (about nine inches) in diameter.
 
 At its top this post had a pulley, and around it was fitted a gangway built of cross-planks nailed together, four feet wide and thirty-six feet long.
 
@@ -696,7 +696,7 @@ The Carthaginians, after suffering a setback at sea not long before and now anot
 
 At the same time the nation of the Numidians was attacking them as well, and was doing the country damage no less than the Romans, indeed even greater damage.
 
-As a result, because the people from the countryside fled in fear and crowded into the city, there was complete discouragement and famine: discouragement because of the panic, and famine partly because of the numbers gathered there and partly because they expected a siege.
+As a result, because the people from the countryside fled in fear and crowded into the city, there was complete discouragement and famine, partly because of the numbers gathered there and partly because they expected a siege.
 
 Marcus, seeing that the Carthaginians had failed both by land and by sea and thinking that he would very soon take the city, but anxious that the commander coming from Rome might arrive first and take the credit for the whole achievement, invited the Carthaginians to negotiate a settlement.
 
@@ -832,7 +832,7 @@ For out of their three hundred and sixty-four ships, only eighty survived; of th
 
 No greater catastrophe at sea, occurring all at once, is even recorded in history. The blame for it must be laid not so much on fortune as on the commanders.
 
-For although the pilots had repeatedly protested against sailing along the outer coast of Sicily, the side facing the Libyan sea, because it was rough and offered no safe anchorage, and because, too, one threatening constellation had not yet set while another was on the point of rising—for they were making the voyage between the rising of Orion and that of the Dog Star—the commanders heeded none of these warnings and sailed out into the open sea, eager to overawe some of the cities along the coast by the impression of their recent success and so to win them over.
+For although the pilots had repeatedly protested against sailing along the outer coast of Sicily, the side facing the Libyan sea, because it was rough and offered no safe anchorage, and because, too, one spell of stormy weather had not yet ended while another was coming on—for they were making the voyage between the rising of Orion and that of the Dog Star—the commanders heeded none of these warnings and sailed out into the open sea, eager to overawe some of the cities along the coast by the impression of their recent success and so to win them over.
 
 But by chasing small hopes they met with great misfortunes, and only then recognized their own folly.
 
@@ -912,7 +912,7 @@ He ordered the workmen from the marketplace to carry the missiles and lay them d
 
 He himself, with his standards, took up his post at the gate lying opposite the enemy’s left wing, continually sending more and more men to support the skirmishers.
 
-As the engagement there grew more general, the officers in charge of the elephants, vying with one another for Hasdrubal’s favor and wishing the success to be their own doing, all charged the men fighting in the front, easily routed them, and chased them to the ditch.
+As the engagement there grew more general, the officers in charge of the elephants, in rivalry with Hasdrubal and wishing the success to be their own doing, all charged the men fighting in the front, easily routed them, and chased them to the ditch.
 
 But when the beasts attacked, wounded by the archers on the wall and pelted with a vigorous, thick shower of javelins and darts by the fresh troops drawn up in front of the ditch, riddled with missiles and badly wounded, they soon fell into confusion, turned upon their own side, and went charging through them, trampling and destroying the men and throwing their own ranks into disorder and tearing them apart.
 
@@ -966,7 +966,7 @@ But Alexon the Achaean—the same man who in earlier times had saved the people 
 
 The moment the commander heard of it, he summoned the officers who had remained behind. He appealed to them earnestly, promising large gifts and rewards if they would keep faith with him and not join the plot of those who had left the city.
 
-They eagerly accepted his proposal, and he immediately sent them out together with his own men. To deal with the Gauls he sent Hannibal—the son of the Hannibal who had died in Sardinia—because of the familiarity he had built up with them during an earlier campaign; and to the rest of the mercenaries he sent Alexon, because of the regard and trust in which they held him.
+They eagerly accepted his proposal, and along with them he immediately sent Hannibal to the Gauls—the son of the Hannibal who had died in Sardinia—because of the familiarity he had built up with them during an earlier campaign; and to the rest of the mercenaries he sent Alexon, because of the regard and trust in which they held him.
 
 These men called the troops together, urged them to stay loyal, and on top of that guaranteed the rewards the commander had promised to each of them. In this way they easily persuaded the men to remain at their posts.
 
@@ -1400,7 +1400,7 @@ In the courage of the individual men, however, the Romans were in every respect 
 
 After this settlement, both states happened to undergo an experience that was peculiar and yet much alike.
 
-For an internal war broke out to receive the Romans—the one against the people called the Faliscans—which they brought to a swift and profitable conclusion, gaining control of their city within a few days.
+For an internal war awaited the Romans—the one against the people called the Faliscans—which they brought to a swift and profitable conclusion, gaining control of their city within a few days.
 
 The Carthaginians, at about the same time, faced a war that was neither small nor to be despised: the one against their foreign mercenaries, the Numidians, and the Libyans who joined them in their revolt.
 
@@ -1748,7 +1748,7 @@ When this calamity was reported to them, the Carthaginians could do nothing. In 
 
 To the perpetrators of the sacrilege they sent heralds to ask for the recovery of the dead bodies.
 
-But the mutineers neither gave them up nor allowed it; they warned those present to send them no further herald or envoy, declaring that anyone who came would suffer the same punishment that Gesco had just undergone.
+But the mutineers did not give them up, and they warned those present to send them no further herald or envoy, declaring that anyone who came would suffer the same punishment that Gesco had just undergone.
 
 And for the future they passed a resolution, and exhorted one another to keep it: that any Carthaginian they caught they would torture and kill, and any of Carthage’s allies they would send back to Carthage with his hands cut off. And this they continued to carry out scrupulously.
 

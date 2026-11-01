@@ -1,0 +1,15 @@
+{"batch":"opus_003","units":[
+{"book":3,"chapter":"6","verdict":"CLEAN","findings":[],"note":"Greek and English both break off at 'ἀρχὴν δὲ τὴν' / 'the beginning as—': chapter seam continuing into ch. 7, not a lacuna."},
+{"book":3,"chapter":"7","verdict":"FINDINGS","findings":[
+{"quote":"For it is no more likely that the one will ever properly arrange treatments for the body than that the man of affairs will be able to handle any situation that arises as he should, without knowledge of the things just mentioned.",
+ "problem":"Greek is a double negative correlative, οὔτε γὰρ ἐκεῖνον εἰκὸς οὐδέποτε δεόντως συστήσασθαι ... οὔτε τὸν πραγματικὸν οὐδὲν οἷόν τε κατὰ τρόπον χειρίσαι: it says both are impossible ('neither ... nor'). 'No more likely ... than' turns this into a comparison and asserts neither impossibility.",
+ "proposed_fix":"For neither is it likely that the one will ever properly arrange treatments for the body, nor is it possible for the man of affairs to handle any situation that arises as he should, without knowledge of the things just mentioned.",
+ "touches_syntax":true,"confidence":"high"}],"note":""},
+{"book":3,"chapter":"8","verdict":"CLEAN","findings":[],"note":""},
+{"book":3,"chapter":"9","verdict":"FINDINGS","findings":[
+{"quote":"he would at once have sought another pretext and begun preparations for action",
+ "problem":"Greek εὐθέως ἂν ἄλλην ἀρχὴν ἐποιεῖτο καὶ παρασκευὴν πραγμάτων: 'he would at once have made another beginning', i.e. started another war. The word is ἀρχή, not πρόφασις, and Polybius has just spent chs. 6-7 keeping the two apart. 'Pretext' substitutes the very term he is contrasting it with.",
+ "proposed_fix":"he would at once have made a fresh beginning and begun preparations for action",
+ "touches_syntax":false,"confidence":"medium"}],"note":"Ends at a chapter seam ('[...]'), which continues into ch. 10; not a smoothed lacuna."},
+{"book":3,"chapter":"10","verdict":"CLEAN","findings":[],"note":"εἰς πᾶν συγκατέβαινον is genuinely ambiguous ('were ready to go to any lengths' vs 'were ready to come to terms on everything'). The current 'ready to face any extremity' is a defensible reading, so no fix is proposed."}
+]}

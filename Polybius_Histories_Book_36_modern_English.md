@@ -18,7 +18,7 @@ Yet I do not think it right for statesmen, on every question brought before them
 
 ## Book 36 Chapter 2: The Romans Find a Justification for War
 
-This principle having long since been firmly fixed in everyone’s mind, the Romans were looking for a suitable occasion and a decent pretext for outsiders.
+This having long since been firmly fixed in everyone’s mind, the Romans were looking for a suitable occasion and a decent pretext for outsiders.
 
 They were in fact especially concerned with this point, and rightly so.
 
@@ -36,7 +36,7 @@ But they lost the benefit of this idea because the Uticans had got there first.
 
 For now nothing would seem novel or surprising to the Romans if the Carthaginians merely did the same thing.
 
-So, with only two evils left to choose from—to accept war bravely or to surrender their independence—they held a long and anxious secret debate in the council-house and appointed two envoys with full powers, instructing them to do what seemed best for the country’s advantage in the circumstances.
+So, with only two evils left to choose from—to accept war bravely or to surrender their independence—they held a long and anxious secret debate in the council-house and appointed five envoys with full powers, instructing them to do what seemed best for the country’s advantage in the circumstances.
 
 These envoys were Gisco, called Strytanus, Hamilcar, Misdes, Gillimas, and Mago.
 
@@ -72,7 +72,7 @@ For now, by God, there was no point in wondering what the consuls would order th
 
 Once they had done that, they must clearly understand that they would have to accept every order, unless it turned out to be utterly outrageous and beyond expectation.
 
-If that was not the course they chose, then they must consider once more whether they would rather await war in their own land and suffer whatever horrors it might bring, or, in fear of the enemy’s approach, submit willingly to whatever commands were imposed.
+Otherwise, they must then consider once more whether they would rather await war in their own land and suffer whatever horrors it might bring, or, in fear of the enemy’s approach, submit willingly to whatever commands were imposed.
 
 Since everyone, because of the war at hand and the uncertainty of the future, was inclined to obey what was ordered, it was decided to send the hostages to Lilybaeum.
 
@@ -80,7 +80,7 @@ Accordingly they immediately selected three hundred of the young men and sent th
 
 When they reached Lilybaeum, the consuls handed them over to Quintus Fabius Maximus, who happened to be the commander in Sicily at that time.
 
-He conveyed them safely to Rome and had them all confined together in the dockyard of the six-banked ships.
+He conveyed them safely to Rome and had them all confined together in the dockyard of the sixteen-banked ship [...]
 
 ## Book 36 Chapter 6: The Roman Army In Africa
 
@@ -104,9 +104,9 @@ In short, they had no idea at all what was about to be demanded of them.
 
 But from the very look on the envoys’ faces they suspected the worst and immediately fell into every kind of lamentation and crying.
 
-All the senators, crying out in horror, were left as though paralyzed by the shock.
+All of them, crying out together, were at once as though paralyzed.
 
-Then, as the report quickly spread through the people, there was no more restraint: some rushed at the envoys, as though they were the guilty cause of the city’s disasters, others turned their anger on the Italians who had been seized in the city, and still others hurried toward the gates of the city.
+Then, as the report quickly spread through the people, there was no more restraint: some rushed at the envoys, as though they were the guilty cause of the city’s disasters, others turned their anger on the Italians who had been seized in the city, and still others toward the gates of the city [...].
 
 ## Book 36 Chapter 8: Character of Hamilcar Phameas
 
@@ -118,7 +118,7 @@ Phameas, however, seeing the Roman pickets, was not without courage; still, he a
 
 The Roman maniples withdrew to a hill; and when everyone had given his opinion, Scipio said:
 
-“When men are deliberating from scratch, they should take even greater care to avoid suffering harm than to do harm to their enemies.”
+“[...] when men are deliberating from scratch, and to take even greater care to avoid suffering harm than to do harm to their enemies.”
 
 It should not be surprising that I give a more detailed account of Scipio’s actions and report everything he said with precision.
 
@@ -134,15 +134,15 @@ The judgments and discussions about the Carthaginians were in fact divided and u
 
 Some approved of the Romans, saying that they had acted wisely and practically in securing their supremacy.
 
-For, they argued, it was sound policy for men who think far ahead to remove the danger hanging over them and to make their rule secure for their own country by taking back a city that had often disputed control with them and might still, if circumstances allowed, dispute it again.
+For, they argued, it was sound policy for men who think far ahead to remove the danger hanging over them and to make their rule secure for their own country by destroying a city that had often disputed control with them and might still, if circumstances allowed, dispute it again.
 
-Others opposed this view, saying that the Romans had not set out with that intention to acquire supremacy, but had gradually slipped into a lust for power like that of the Athenians and Spartans, moving more slowly than those states but arriving at the same end through the appearances they displayed.
+Others opposed this view, saying that the Romans had not set out with that intention to acquire supremacy, but had gradually slipped into a lust for power like that of the Athenians and Spartans, moving more slowly than those states but bound, to judge from present indications, to reach the same end.
 
 For, they said, in the past they had always made war openly and continued until they had prevailed and forced their opponents to admit that they must obey Rome and do what was ordered.
 
 But now, they argued, they had first shown their real purpose by their handling of Perseus and by uprooting the kingdom of the Macedonians from its foundations, and had now completed that same design in the case of the Carthaginians.
 
-For since nothing irreparable had happened on account of them, they had resolved in a harsh and irreversible way against them, willing to accept and endure anything in order to carry out what had been ordered.
+For although the Carthaginians had done nothing irreparable, the Romans had taken an irreparable and harsh decision against them, even though they accepted every condition and submitted to do whatever was ordered.
 
 Others again said that the Roman nation was in general a statesmanlike people, and that this was one of their distinguishing traits and something of which the Romans rightly prided themselves: namely, that they fought their wars in a straightforward and honorable way, not using night attacks or ambushes, and rejecting everything that came about by deceit or trickery, claiming for themselves only those dangers that were open and face-to-face.
 
@@ -150,7 +150,7 @@ But now, they said, they had managed everything concerning the Carthaginians by 
 
 This was more fitting, they said, for a monarchic style of action than for a political and Roman one, and it came close, by right reason, to impiety and breach of faith. Some men, however, argued against this too.
 
-For if the Romans had handled things this way before the Carthaginians had surrendered themselves and placed their country under Roman control, gradually revealing one demand and concealing another, they would reasonably have seemed guilty of the charges brought against them.
+For if the Romans had handled things this way before the Carthaginians had surrendered themselves and placed their country under Roman control, gradually putting forward one demand and disclosing another, they would reasonably have seemed guilty of the charges brought against them.
 
 But since the Carthaginians had themselves surrendered, so that the Romans might decide whatever seemed best about them, and since the Romans then, within that authority, issued and ordered what they thought fit, the act could no longer be called close to impiety or even, scarcely, to breach of faith; and some said it was not injustice at all.
 
@@ -158,7 +158,7 @@ For there are three classes of wrong into which every accusation naturally falls
 
 For impiety is wrongdoing against the gods, parents, or the dead; breach of faith is acting contrary to sworn and written agreements; and injustice is what is carried out contrary to law and custom. But the Romans were guilty of none of these things in the present case: they had not sinned against the gods, the parents, or the dead; nor had they violated oaths or agreements—on the contrary, they accused the Carthaginians of violating them.
 
-Nor did they overthrow laws or customs or private trust: for when the Carthaginians had handed themselves over, the Romans had simply done what they wished, since those surrendering were no longer obeying orders, and had thus brought necessity upon them.
+Nor did they overthrow laws or customs or private trust: for having received from the Carthaginians, of their own free will, the authority to do whatever they wished, the Romans, when the Carthaginians did not obey their orders, had thus brought compulsion to bear on them.
 
 ## Book 36 Chapter 10: Rumors of the Pseudo-Philip
 
@@ -182,7 +182,7 @@ When letters from Manilius reached the Achaeans in the Peloponnese, informing th
 
 But we thought it right, in many ways, to obey the Romans, and so set aside all other concerns and sailed off when summer was beginning.
 
-When we reached Corcyra and found there letters from the consuls that had arrived for the Corcyraeans, in which they explained that the Carthaginians had already handed over their hostages to them and were entirely ready to obey their orders, we thought that the war was over and that we no longer had any need at all, and so we sailed back again to the Peloponnese.
+When we reached Corcyra and found there letters from the consuls that had arrived for the Corcyraeans, in which they explained that the Carthaginians had already handed over their hostages to them and were entirely ready to obey their orders, we thought that the war was over and that there was no longer any need of us at all, and so we sailed back again to the Peloponnese.
 
 ## Book 36 Chapter 12: Polybius Writing of Himself
 
@@ -206,11 +206,11 @@ The natural love of novelty in human beings is itself enough to bring about ever
 
 ## Book 36 Chapter 14: The Ill-Chosen Roman Envoys
 
-The Romans sent envoys to restrain Nicomedes from his rashness and to prevent Attalus from making war on Prusias, and they appointed Marcus Licinius, a man crippled by gout and completely unable to use his feet, then Aulus Maninus, who had such large scars across his head from a roof tile falling on him that it was astonishing he survived, and Lucius Malloelus, who was thought by all Romans to be the dullest of men.
+The Romans sent envoys to restrain Nicomedes from his rashness and to prevent Attalus from making war on Prusias, and they appointed Marcus Licinius, a man crippled by gout and completely unable to use his feet, then Aulus Mancinus, who had such large scars across his head from a roof tile falling on him that it was astonishing he survived, and Lucius Malleolus, who was thought by all Romans to be the dullest of men.
 
 Since the business required speed and boldness, those appointed seemed utterly unfitted for the task.
 
-For this reason, it is said that Marcus Porcius Cato remarked in the Senate that Prusias would arrive not only already dead, but that Nicomedes too would grow old in his kingdom before the embassy could ever get there.
+For this reason, it is said that Marcus Porcius Cato remarked in the Senate that not only would Prusias be dead before the embassy arrived, but Nicomedes too would have grown old on his throne.
 
 For how could they possibly move quickly, or what could their embassy accomplish if it had neither feet nor head nor heart?
 
@@ -228,7 +228,7 @@ He was wholly untrained in education, philosophy, and the questions studied in t
 
 In short, he had no conception at all of what the good is, and lived a barbarous life like Sardanapalus, both by day and by night.
 
-Accordingly, once the people under his rule caught a little hope, they immediately formed an unalterable resolve not only to think differently from the king, but also to seek punishment from him.
+Accordingly, once the people under his rule caught a little hope, they immediately formed an unalterable resolve not only to think differently from the king, but also to wish to take vengeance on him.
 
 ## Book 36 Chapter 16: Masinissa, Fortunate King of Numidia
 
@@ -242,9 +242,9 @@ He endured the hardships of cavalry service continuously, day and night, and suf
 
 A proof of his bodily strength: when he was ninety and about to die, he left behind a four-year-old son named Stembanus, whom Micypsa later adopted, along with nine other sons.
 
-Because of the goodwill they had for one another, he preserved his whole life and left his kingdom free from every plot and every domestic stain.
+Because of the goodwill they had for one another, he kept his kingdom, throughout his whole life, free from every plot and every domestic stain.
 
-But the greatest and most godlike thing about him was this: Numidia had previously been useless and was thought by nature incapable of producing cultivated crops, yet he was the first and only one to show that it could yield all kinds of cultivated produce just as well, having set out, for each of his sons, extensive and fully fruitful estates in separate allotments.
+But the greatest and most godlike thing about him was this: Numidia had previously been useless and was thought by nature incapable of producing cultivated crops, yet he was the first and only one to show that it could yield all kinds of cultivated produce just as well, having set out, for each of his sons, fully fruitful estates of ten thousand plethra each in separate allotments.
 
 One might fairly and rightly say this upon his death.
 
@@ -268,7 +268,7 @@ Let me explain. In our own times, all Greece was overcome by childlessness and, 
 
 If someone were to advise us, in this matter, to ask the gods what we should say or do in order to become more numerous and better govern our cities, would he not seem foolish, since the cause is obvious and the remedy lies in ourselves?
 
-For human beings had turned toward vanity and greed, and still more toward idleness, and did not wish either to marry or, if they did marry, to rear the children they had, but sought to raise only one or two, and hardly even those, so that they might leave them wealthy and pampered. Thus the evil grew quickly without being noticed.
+For human beings had turned toward vanity and greed, and still more toward idleness, and did not wish either to marry or, if they did marry, to rear the children they had, but raised only one or at most two, so that they might leave them wealthy and pampered. Thus the evil grew quickly without being noticed.
 
 For when there was only one child or two, and one was carried off by war and another by disease, it was obvious that the homes would be left empty; and, as with beehives, when the swarms are gone, the cities too, little by little, become helpless because of their emptiness.
 
@@ -280,9 +280,9 @@ The same argument applies also in particular cases.
 
 But in those matters where the causes are hidden or hard to grasp, one must investigate; and one of these was what happened to the Macedonians.
 
-For the Macedonians had received many and great benefits from the Romans: collectively, they had all been freed from monarchical commands and taxes and had plainly exchanged slavery for freedom; and individually, as cities, they had again been released from great internal strife and civil slaughter through Roman favor.
+For the Macedonians had received many and great benefits from the Romans: collectively, they had all been freed from monarchical commands and taxes and had plainly exchanged slavery for freedom; and individually, as cities, they had again been released from great internal strife and civil slaughter through Roman favor. [...]
 
-Yet because of the so-called Pseudo-Philip, many among them [...] [fragmentary text follows] [...] they saw many of their own people in a very short time driven into exile, tortured, and killed, whereas in the earlier days, under the kings who were truly kings, they had already experienced [...] [fragmentary text continues] [...] they were angered at the Roman encampment itself and regretted their former wrongs against themselves [...] [fragmentary text continues].
+Yet because of the so-called Pseudo-Philip, many among them [...] [fragmentary text follows] [...] they saw many of their own people in a very short time driven into exile, tortured, and killed, more than in earlier times under the true kings [...] [fragmentary text continues] [...] they were angered at the Roman encampment itself and regretted their former wrongs against themselves [...] [fragmentary text continues].
 
 From these things, who would not be puzzled by what happened? For the cause of them is hard to discover.
 

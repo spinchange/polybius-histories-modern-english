@@ -44,7 +44,7 @@ For the Romans and the Carthaginians entered upon the war already described; Ant
 
 ## Book 4 Chapter 3: Dorimachus In the Peloponnese
 
-The Aetolians had long chafed at peace and at having to meet expenses from their own resources, since they were accustomed to live off their neighbors and needed lavish means to support their ingrained arrogance. Enslaved to it, they always live a grasping, beast-like life, regarding nothing as belonging to others and everything as theirs to plunder.
+The Aetolians had long chafed at peace and at having to meet expenses from their own resources, since they were accustomed to live off their neighbors and needed lavish means to support their ingrained arrogance. Enslaved to it, they always live a grasping, beast-like life, regarding nothing as friendly and everything as hostile.
 
 Nevertheless, in the time before this, so long as Antigonus was alive, fear of the Macedonians kept them quiet.
 
@@ -166,7 +166,7 @@ Let this be said by me so that my readers may not distrust what I say, if at som
 
 ## Book 4 Chapter 9: Dorimachus Consents To Depart
 
-When the men of military age had assembled under arms at Megalopolis in accordance with the decree of the Achaeans—for it was from this point that I digressed—and when the Messenians once again came before the assembly and begged them not to look on while they were so flagrantly being wronged in violation of the treaty, declaring also their wish to join the common alliance and their eagerness to be enrolled together with the rest, the leaders of the Achaeans rejected the request for alliance, saying that it was not possible to admit any new member apart from Philip and the other allies.
+When the men of military age had assembled under arms at Megalopolis in accordance with the decree of the Achaeans—for it was from this point that I digressed—and when the Messenians once again came before the assembly and begged them not to look on while they were so flagrantly being wronged in violation of the treaty, declaring also their wish to join the common alliance and their eagerness to be enrolled together with the rest, the leaders of the Achaeans rejected the request for alliance, saying that it was not possible to admit anyone without Philip and the allies.
 
 For the alliance that had been concluded through Antigonus during the period of the Cleomenic war was still binding by oath on them all—on the Achaeans, the Epirotes, the Phocians, the Macedonians, the Boeotians, the Acarnanians, and the Thessalians.
 
@@ -444,7 +444,7 @@ But others, the older men, declared that such anger was too severe for what had 
 
 ## Book 4 Chapter 24: The King Decides Not to Punish Sparta
 
-friends. The king then decided the whole matter—if one ought to speak of these views as the king’s: for it is not likely that a boy of seventeen could reach clear judgments about matters of such magnitude.
+friends. The king spoke last of all—if one ought to speak of these views as the king’s: for it is not likely that a boy of seventeen could reach clear judgments about matters of such magnitude.
 
 It is, however, proper for us who write history to attribute the opinions that decided the deliberations to those in supreme command; yet the readers themselves should bear in mind that such proposals and decisions probably came from his associates, and especially from those closest to him.
 
@@ -566,7 +566,7 @@ We do not, after all, praise the Thebans for their conduct in the Persian Wars, 
 
 The oligarchs who led the Messenians, aiming at their own immediate private advantage, were always more eager for peace than was right.
 
-Because of this, although they had many opportunities and favourable moments, they let them slip, and at times escaped from fears and dangers as well; but along with this policy the reckoning against them was always mounting up, and in the end they made their country wrestle with the gravest disasters.
+Because of this, they slipped through many critical situations and junctures, and at times through fears and dangers as well; but along with this policy the reckoning against them was always mounting up, and in the end they made their country wrestle with the gravest disasters.
 
 For my own part, I think the cause was this: that they bordered on two of the most powerful peoples in the Peloponnese—indeed almost in all of Greece—I mean the Arcadians and the Laconians, of whom the one had been hostile and irreconcilable toward them ever since they had occupied the land, while the other was friendly and protective; yet they neither nobly took up their enmity against the Spartans nor their friendship with the Arcadians.
 
@@ -746,7 +746,7 @@ The same will happen with the Pontus, and is in fact happening now; but it is no
 
 ## Book 4 Chapter 41: Flow of the Danube into the Black Sea
 
-What is happening is clear. Since the Danube empties from Europe into the Pontus through several mouths, the result is that opposite it, at a distance of nearly a thousand stades, there has formed a long bank, lying a day’s sail out from the shore [the bank that exists there now], built up from the silt carried out through the mouths.
+What is happening is clear. Since the Danube empties from Europe into the Pontus through several mouths, the result is that opposite it there has formed, over a stretch of nearly a thousand stades, a long bank, lying a day’s sail out from the shore [the bank that exists there now], built up from the silt carried out through the mouths.
 
 Ships sailing into the Pontus, while still apparently running through open water, are caught off guard and run aground on these places at night. Sailors call them the Breasts.
 
@@ -910,7 +910,7 @@ He was further irritated by the fact that the Byzantines, as it appeared, had se
 
 And so, with his anger quietly smoldering on account of all these things, he gladly seized upon the opening the Rhodians offered him. Coming to terms with their ambassadors, he agreed that they should wage the war by sea, while he himself reckoned he would do the enemy no less harm by land.
 
-Such, then, was the war of the Rhodians against the Byzantines.
+The war of the Rhodians against the Byzantines, then—
 
 ## Book 4 Chapter 50: The War between Rhodes and Byzantium Begins
 
@@ -1218,7 +1218,7 @@ And so the first year of the present [...]
 
 ## Book 4 Chapter 67: Philip Returns To the Peloponnese
 
-So this Olympiad year was drawing to a close. Among the Aetolians, the time of the elections having now arrived, Dorimachus was chosen general. He at once took up his office, gathered the Aetolians under arms, and invaded the upland regions of Epirus, ravaging the country and pursuing its destruction with unusual ferocity.
+[...] of the Olympiad. Among the Aetolians, the time of the elections having now arrived, Dorimachus was chosen general. He at once took up his office, gathered the Aetolians under arms, and invaded the upland regions of Epirus, ravaging the country and pursuing its destruction with unusual ferocity.
 
 For in most of what he did his aim was not so much his own profit as the injury of the Epirotes.
 
@@ -1334,7 +1334,7 @@ When Aratus and his men, along with the rest of the gathering, thanked him for t
 
 The Psophidians came down from the citadel and recovered their city, each man his own dwelling, while Euripidas and his men departed to Corinth and from there to Aetolia.
 
-Of the Achaean magistrates who were present, they set Prolaus of Sicyon over the citadel with an adequate garrison, and Pythias of Pallene over the city.
+Of the Achaean magistrates who were present, they set Proslaus of Sicyon over the citadel with an adequate garrison, and Pythias of Pellene over the city.
 
 Such was the conclusion of the affair at Psophis.
 
@@ -1374,7 +1374,7 @@ Let this, then, be said by us for the sake of admonishing the Eleans, since the 
 
 ## Book 4 Chapter 75: Capture of Thalamae
 
-[...] among them, the Eleans dwell exceptionally well off. For this reason, during Philip’s presence the number of those captured was vast, and still greater the number of those who had fled for refuge.
+[...] the Eleans inhabit it to an exceptional degree. For this reason, during Philip’s presence the number of those captured was vast, and still greater the number of those who had fled for refuge.
 
 The greatest quantity of movable goods and the greatest throng of people and livestock had been gathered into the place they call Thalamae, because the country around it was narrow and hard to penetrate, and the place itself was inaccessible and difficult to approach.
 
@@ -1514,7 +1514,7 @@ So he burst into the marketplace, laid violent hands on his enemies, appealed to
 
 But when no one paid him any heed, and the people instead began to band together against him, he grasped what was happening, slipped away in secret, and making his way across the country arrived alone in Achaea, an exile. As for the Spartans, terrified at the approach of Philip, they cleared away everything from the countryside, and after demolishing the Athenaeum of the Megalopolitans, abandoned it.
 
-So then the Spartans— who from the time of Lycurgus’s legislation had enjoyed a most admirable constitution and held very great power down to the battle of Leuctra, but after whom Fortune turned against them, their political condition steadily and ever more sliding toward the worse— in the end experienced a great many hardships and civil factions, struggled through countless redistributions of land and banishments, and tasted the most bitter servitude down to the tyranny of Nabis; they who in former days could scarcely bear to hear even the word “tyrant.”
+So then the Spartans— who from the time of Lycurgus’s legislation had enjoyed a most admirable constitution and held very great power down to the battle of Leuctra, but then Fortune turned against them, their political condition steadily and ever more sliding toward the worse— in the end experienced a great many hardships and civil factions, struggled through countless redistributions of land and banishments, and tasted the most bitter servitude down to the tyranny of Nabis; they who in former days could scarcely bear to hear even the word “tyrant.”
 
 Now the ancient history of Sparta, and most of its later history, has been recounted by many writers on both sides of the question. But the clearest part of it begins from the point at which Cleomenes utterly abolished the ancestral constitution; and this I shall relate at the appropriate moments as they arise.
 

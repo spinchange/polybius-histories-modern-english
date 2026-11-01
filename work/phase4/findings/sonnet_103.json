@@ -1,0 +1,10 @@
+{"batch":"sonnet_103","units":[
+{"book":18,"chapter":"18","verdict":"FINDINGS","findings":[{"quote":"and they pick those that have these on one side only, not running off in every direction","problem":"Greek has a lacuna here: καὶ ταύτας *** ἔχοντες λαμβάνονται * ** οὐκ ἐναλλάξ. The English fills the gap with 'on one side only' and reads on as if the text were whole; the transmitted words are only 'having these ... they are taken ... not alternately (οὐκ ἐναλλάξ)'.","proposed_fix":"and having these [...] they are taken [...] not alternately [text lost in the Greek]","touches_syntax":false,"confidence":"medium"}],"note":"Rest of chapter checked and accurate; the lacuna is the only issue."},
+{"book":18,"chapter":"19","verdict":"CLEAN","findings":[],"note":"Lacuna at *** is already marked [...] in the English; numbers (50 and 30 stades, 300 each) agree."},
+{"book":18,"chapter":"20","verdict":"FINDINGS","findings":[{"quote":"sent off his rearguard","problem":"τὴν δ᾽ ἐφεδρείαν ἀπέστειλε, συντάξας ἐπὶ τοὺς ἄκρους ἐπιβαλεῖν: the ἐφεδρεία is the covering/outpost force sent ahead to occupy the hill summits (called 'outpost' in chapters 21-22), not a rearguard.","proposed_fix":"sent off his outpost force","touches_syntax":false,"confidence":"low"}],"note":"Otherwise accurate."},
+{"book":18,"chapter":"21","verdict":"CLEAN","findings":[],"note":""},
+{"book":18,"chapter":"22","verdict":"CLEAN","findings":[],"note":"καθ᾽ ὅσον ... κατὰ τοσοῦτον correctly rendered."},
+{"book":18,"chapter":"23","verdict":"CLEAN","findings":[],"note":"Sulpicius (Σολπικίου) correct."},
+{"book":18,"chapter":"24","verdict":"CLEAN","findings":[],"note":"ἐξ ἀσπίδος = by the left, correct."},
+{"book":18,"chapter":"25","verdict":"FINDINGS","findings":[{"quote":"one part was locked in close combat with those fighting","problem":"Greek has a lacuna: τὰ μὲν συνεχῆ τοῖς διαγωνιζομένοις ***, so the predicate is missing (only 'the part contiguous to those fighting ...'). The English supplies a verb and reads on as whole.","proposed_fix":"one part, adjoining those fighting, [...] [text lost in the Greek]","touches_syntax":false,"confidence":"medium"}],"note":"Rest accurate."}
+]}

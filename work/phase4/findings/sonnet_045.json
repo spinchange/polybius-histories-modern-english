@@ -1,0 +1,10 @@
+{"batch":"sonnet_045","units":[
+{"book":4,"chapter":"59","verdict":"CLEAN","findings":[],"note":""},
+{"book":4,"chapter":"60","verdict":"CLEAN","findings":[],"note":""},
+{"book":4,"chapter":"61","verdict":"CLEAN","findings":[],"note":"Greek breaks off at ἐγίνετο περὶ; English marks the gap with [...]."},
+{"book":4,"chapter":"62","verdict":"CLEAN","findings":[],"note":"Greek breaks off at τὴν Μακε-; English ends at the sentence boundary, acceptable."},
+{"book":4,"chapter":"63","verdict":"CLEAN","findings":[],"note":""},
+{"book":4,"chapter":"64","verdict":"CLEAN","findings":[],"note":"Greek breaks off at ἐπέταξε τοῖς προνομεύουσι; English marks the gap with [...]."},
+{"book":4,"chapter":"65","verdict":"CLEAN","findings":[],"note":"Opening καταφέρειν completes the previous chapter; English marks it with [...]. Bracketed [Ἀχαιοὺς] in the Greek is an editorial deletion; the English correctly omits it."},
+{"book":4,"chapter":"66","verdict":"CLEAN","findings":[],"note":"Greek breaks off at τῆς ὑποκειμένης; English marks the gap with [...]."}
+]}

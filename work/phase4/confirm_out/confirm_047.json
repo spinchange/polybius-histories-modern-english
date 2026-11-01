@@ -1,0 +1,6 @@
+[
+{"id":"F0421","verdict":"REVISE","fix":"Though they were barbarians, [...] they spoke and tried to make every point of dispute clear.","reason":"Lacuna after βάρβαροι is real; 'at length' fills it without warrant. Mark with project convention [...], not '[text missing in the Greek]'."},
+{"id":"F0422","verdict":"ACCEPT","fix":"For they often hinted at the uncertainty of Fortune","reason":"πολλάκις means 'often', not 'always'; τύχη normalized to 'Fortune'."},
+{"id":"F0424","verdict":"ACCEPT","fix":"so Scipio fell to the ground upright","reason":"Greek ends at ὀρθὸς ἀπέπεσεν ἐπὶ τὴν γῆν; 'regained his footing' is added."},
+{"id":"F0425","verdict":"REVISE","fix":"When Scipio, for Polybius’s sake, had appealed to Cato on behalf of the exiles from Achaea","reason":"ἐντευχθεὶς ... ὑπὸ Σκιπίωνος: Cato (subject, ἀναστὰς ὁ Κάτων) was petitioned by Scipio on Polybius’s account; nobody was granted an audience."}
+]

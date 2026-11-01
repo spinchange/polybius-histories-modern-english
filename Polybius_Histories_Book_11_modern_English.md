@@ -48,7 +48,7 @@ Hasdrubal showed himself a brave man both before this and in his final hour, and
 
 That he was Hannibal’s own brother, and that when Hannibal went to Italy he entrusted the affairs in Iberia to him, I have already explained earlier.
 
-I have also shown how he fought many struggles against the Romans and wrestled with many varied difficulties because of the generals sent out from Carthage to Iberia, and how through all these reverses and setbacks he continued to bear himself nobly and with courage worthy of the son of Barca. But now I will speak of his last contests, for in these above all he seems to me to deserve close attention and even imitation.
+I have also shown how he fought many struggles against the Romans and wrestled with many varied difficulties because of [...] the generals sent out from Carthage to Iberia, and how through all these reverses and setbacks he continued to bear himself nobly and with courage worthy of his father Barca. But now I will speak of his last contests, for in these above all he seems to me to deserve close attention and even imitation.
 
 For one may observe that most generals and kings, when they undertake decisive struggles, keep before their eyes only the glory and advantage to be won by success, and often pause to consider how they will use each success if events turn out as they wish.
 
@@ -76,7 +76,7 @@ When the report reached Rome, at first they could not believe it, so strongly di
 
 But when more messengers arrived, making clear not only that the event had happened but the details of it as well, then the city was filled with overwhelming joy, every sacred precinct was adorned, and every temple was crowded with cakes and sacrificial victims.
 
-In general they were brought to such confidence and courage that all thought Hannibal, whom they had feared more than anything before, could no longer even remain in Italy.
+In general they were brought to such confidence and courage that all thought Hannibal, whom they had feared more than anything before, was no longer even in Italy.
 
 Yet another declared that such words had only the appearance of truth, while the reality was otherwise—indeed the opposite.
 
@@ -132,13 +132,13 @@ We ask and urge you not to begrudge either yourselves or the rest of the Greeks 
 
 This speech seemed to produce some change of mind among the majority. After him came the ambassadors from Philip, who passed over the arguments point by point and said they had come with two instructions.
 
-If the Aetolians chose peace, they were to accept it at once; but if not, they were to call the gods and the ambassadors then present from the other Greek states to witness, and to depart after declaring that for whatever should happen afterward to the Greeks the Aetolians, not Philip, must be held responsible.
+If the Aetolians chose peace, they were to accept it at once; [...] they were to call the gods and the ambassadors then present from the other Greek states to witness, and to depart after declaring that for whatever should happen afterward to the Greeks the Aetolians, not Philip, must be held responsible.
 
 ## Book 11 Chapter 7: Philip Vandalizes Thermus
 
-Philip bitterly lamented that he had very nearly failed to get Attalus into his hands.
+Philip bitterly lamented that he had come very close to getting Attalus into his hands.
 
-Then, after marching to Lake Trichonis and arriving at Thermus, where there was a sanctuary of Apollo, he defaced all the offerings that he had left untouched before, showing bad judgment in the former case and bad temper in the latter.
+Then, after marching to Lake Trichonis and arriving at Thermus, where there was a sanctuary of Apollo, he defaced all the offerings that he had left untouched before, showing bad temper both on the former occasion and on this one.
 
 For when a man is angry with human beings and in his anger becomes impious toward the divine, that is a sign of utter irrationality.
 
@@ -236,7 +236,7 @@ But as time went on, the tyrant’s mercenaries began to prevail because of thei
 
 This was natural and is indeed what usually happens.
 
-For although the citizens in democracies are generally more eager in military struggles than the civic subjects of tyrants, the mercenaries under monarchs are naturally superior to and more effective than the mercenaries hired by democracies.
+For to the degree that the masses in democracies are more eager in military struggles than the citizens subject to tyrants, to that same degree the mercenaries under monarchs are naturally superior to and more effective than the mercenaries hired by democracies.
 
 Just as in the former case one side fights for freedom and the other for slavery, so among mercenaries one side exerts itself for certain reward while the other knows that victory will obviously bring loss.
 
@@ -256,7 +256,7 @@ Indeed one may often see those who seem already to have gained the advantage soo
 
 That, in fact, now seemed to have happened clearly in the case of both commanders.
 
-For when the entire mercenary force had broken the Achaeans and the left wing had collapsed, Machanidas abandoned the position that lay before him and gave up the plan of outflanking the enemy on one side while meeting them in front on the other.
+For when the entire Achaean mercenary force had given way and the left wing had been broken up, Machanidas abandoned the position that lay before him and gave up the plan of outflanking the enemy on one side while meeting them in front on the other.
 
 Instead, in a loss of self-control and with the impulsiveness of a young man, he poured forward with his own mercenaries and pressed hard after the fugitives, as though fear itself were not enough to drive men who had once given way all the way to the gates.
 
@@ -264,13 +264,13 @@ Instead, in a loss of self-control and with the impulsiveness of a young man, he
 
 The Achaean general, for as long as he could, kept trying to hold the mercenaries in place, calling the officers by name and urging them on.
 
-But when he saw them being overwhelmed, he neither fled in panic nor withdrew in despair. Instead he drew back under cover of the wing of the phalanx, and when the pursuers had gone past and the ground where the struggle had been was left vacant, he immediately ordered the front companies of the phalanx to wheel with locked shields and advance at the double while keeping their ranks.
+But when he saw them being overwhelmed, he neither fled in panic nor withdrew in despair [...]. Instead he drew back under cover of the wing of the phalanx, and when the pursuers had gone past and the ground where the struggle had been was left vacant, he immediately wheeled the front companies of the phalanx to the left and advanced at the double while keeping their ranks.
 
-By swiftly occupying the abandoned position he both cut off the pursuers and at the same time found himself beyond the enemy’s wing.
+By swiftly occupying the abandoned position he both cut off the pursuers and at the same time found himself in a commanding position over the enemy’s wing.
 
 He urged the phalangites to be bold and stand fast until he gave the signal for the general advance.
 
-And he ordered Polybius the Megalopolitan to gather the remaining Illyrians, armored troops, and mercenaries who had not joined in the flight, to form a reserve on the flank of the phalanx, and to watch for the return of those coming back from the pursuit.
+And he ordered Polyaenus the Megalopolitan to gather the remaining Illyrians, armored troops, and mercenaries who had not joined in the flight, to form a reserve on the flank of the phalanx, and to watch for the return of those coming back from the pursuit.
 
 The Spartans, however, without waiting for orders and elated in spirit by the success of the light troops, lowered their sarissas and rushed on the enemy.
 
@@ -292,7 +292,7 @@ But if, noticing the awkwardness of the ditch, he changed his mind, seemed to lo
 
 This has already happened to many commanders who drew up for battle and then judged themselves not fit to fight their opponents, either because of the ground, or because of inferior numbers, or for other reasons, and who while withdrawing in extended order hoped either to gain an advantage by means of their rear guard or at least to disengage safely from the enemy.
 
-In just such situations it is the commanders who are most often exposed to the gravest danger.
+In just such situations it happens that the commanders most [...].
 
 ## Book 11 Chapter 17: Army of Machanidas Put to Flight
 
@@ -370,7 +370,7 @@ When he came near the Carthaginians and was within sight, he encamped on some lo
 
 ## Book 11 Chapter 21: Futile Attack by Mago
 
-Mago, thinking the moment favorable for an attack while the Romans were making camp, took most of his own cavalry and Masannasan with the Numidians and rode against the encampment, convinced that he would catch Publius off guard.
+Mago, thinking the moment favorable for an attack while the Romans were making camp, took most of his own cavalry and Masinissa with the Numidians and rode against the encampment, convinced that he would catch Publius off guard.
 
 But Scipio had long foreseen what was coming and had stationed cavalry equal in number to the Carthaginian horse under cover of a hill.
 
@@ -400,9 +400,9 @@ The Carthaginians, with cavalry suddenly pressing close to the camp and the rest
 
 Therefore Hasdrubal and his officers were compelled, while their men were still unfed and unprepared, to send their cavalry and light troops out at once into the plain against the opposing cavalry, and to form up their infantry not far from the foothills on the level ground, as was their custom.
 
-For some time the Romans remained still. But as the day advanced, and the struggle among the light troops remained indecisive because the men under pressure kept retreating to their own phalanxes and then turning again to fight, Publius at that point withdrew the skirmishers through the intervals between the standards, divided them behind the battle line between the two wings, first placing the javelin-fighters and then the cavalry after them, and began the advance at first head-on.
+For some time the Romans remained still. But as the day advanced, and the struggle among the light troops remained indecisive because the men under pressure kept retreating to their own phalanxes and then turning again to fight, Publius at that point withdrew the skirmishers through the intervals between the standards, divided them, one part to each wing, behind the battle line, first placing the javelin-fighters and then the cavalry after them, and began the advance at first head-on.
 
-When he had come to within about four stades of the enemy, he ordered the Iberians to keep advancing in the same formation.
+When he had come to within about four stades of the enemy, he ordered the Iberians to keep their ranks and continue advancing in the same way, [...].
 
 ## Book 11 Chapter 23: Scipio Outflanks the Enemy
 
@@ -412,7 +412,7 @@ The men on one side wheeled shieldwise and those on the other spearwise, then ad
 
 When these troops had come to within no great distance of the enemy, while the Iberians in the frontal line still remained a considerable way off because they were advancing at a walking pace, the Roman forces struck both enemy wings at once exactly as Scipio had intended from the start.
 
-The later movements, by which the troops following behind came up and formed on the same straight line with those in front and joined battle with the enemy, were opposite to one another in their arrangement, the right wing being the reverse of the left, and within each wing the infantry of the cavalry.
+The later movements, by which the troops following behind came up and formed on the same straight line with those in front and joined battle with the enemy, were opposite to one another in their arrangement, the right wing being the reverse of the left, and within each wing the infantry the reverse of the cavalry.
 
 For on the right wing the cavalry and light troops came up spearwise and tried to outflank the enemy, while the infantry came into line the other way.
 
@@ -478,7 +478,7 @@ Once that was done, he said, they could then decide at the proper moment what ac
 
 With this in mind they turned their attention to the matter of money.
 
-When the tribunes had explained what had been decided, Publius asked the council what ought to be done next.
+[...] When the tribunes had explained what had been decided, Publius asked the council what ought to be done next.
 
 They resolved to announce a day on which the mutineers must appear, to grant terms to the mass of the men, but to punish the guilty leaders severely; these numbered thirty-five.
 
@@ -492,7 +492,7 @@ This news made the mutineers more confident, for they supposed that power would 
 
 As the mutineers drew near the city, orders were given to the rest of the soldiers to march out at dawn on the next day with full equipment.
 
-But the tribunes and prefects were instructed that, after this first movement, they should lay down the baggage, keep the soldiers in arms at the gate, divide them among all the gates, and take care that none of the mutineers got out.
+But the tribunes and prefects were instructed that, when they were marching out [...], after this they should first lay down the baggage, keep the soldiers in arms at the gate, divide them among all the gates, and take care that none of the mutineers got out.
 
 Those detailed to meet them accordingly joined the newcomers and, following their instructions, courteously led away those who were responsible.
 
@@ -556,7 +556,7 @@ But toward those who were responsible we remain utterly unreconciled and hold th
 
 ## Book 11 Chapter 30: Execution of the Ringleaders
 
-Just as he was saying these things, the soldiers standing in arms around the assembly, acting on orders, clashed their swords against their shields, and at the same moment the men responsible for the mutiny were brought in naked and in chains.
+Just as he was saying these things, the soldiers standing in arms around the assembly, acting on orders, clashed their swords against their shields, and at the same moment the men responsible for the mutiny were brought in naked and in chains [...].
 
 Such terror seized the crowd from the fear all around them and the horrors before their eyes that, while some were being scourged and others beheaded, not one man changed expression or uttered a sound, but all stood gaping and stunned by what was happening.
 
@@ -594,7 +594,7 @@ Publius was ready for the engagement, but when he saw that the Iberians were des
 
 ## Book 11 Chapter 33: Scipio’s Return To Rome
 
-When it seemed to him that the proper moment had come, he drew up a counterforce against the enemy stationed on the foothills, but against those who had descended into the valley he led out the main body from the camp and attacked the enemy infantry with four cohorts.
+When it seemed to him that the proper moment had come, he drew up [...] against the enemy stationed on the foothills, but against those who had descended into the valley he led out the main body from the camp and attacked the enemy infantry with four cohorts.
 
 At the same time Gaius Laelius, with the cavalry, moved forward over the hills that slope from the camp toward the valley, charged the Iberian horse in the rear, and occupied them in fighting him.
 

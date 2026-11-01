@@ -72,7 +72,7 @@ With both sides so disposed, it was obvious that the present crisis would have t
 
 As a result, not only everyone in Italy and Libya but also those in Iberia, Sicily, and Sardinia were left hanging in suspense, anxiously waiting to see what would happen.
 
-At this time Hannibal, being short of cavalry, sent messages to a Numidian named Tychaeus, a friend of Syphax who was said to command some of the finest mounted troops in Libya.
+At this time Hannibal, being short of cavalry, sent messages to a Numidian named Tychaeus, a kinsman of Syphax who was said to command some of the finest mounted troops in Libya.
 
 He urged him to come to his aid and seize the opportunity, since, as he clearly knew, if the Carthaginians won he would be able to preserve his own power, but if the Romans prevailed he would put even his life in danger because of Masinissa’s ambition.
 
@@ -144,9 +144,9 @@ Hannibal greeted him first and began by saying that he wished the Romans had nev
 
 For these, he said, were the finest dominions for each people, and in a sense seemed to have been marked out by nature itself.
 
-But since they had first gone to war over Sicily, then again over Iberia, and at last, though fortune had already given them warning, had advanced so far that one side had risked the very soil of its fatherland while the other was even now doing so, nothing remained but, if possible, by their own efforts to placate the gods and put an end to the rivalry now before them.
+But since they had first gone to war over Sicily, then again over Iberia, and at last, still not taught a lesson by Fortune, had advanced so far that one side had risked the very soil of its fatherland while the other was even now doing so, nothing remained but, if possible, by their own efforts to placate the gods and put an end to the rivalry now before them.
 
-For his own part, he said, experience had taught him that Fortune is quick to change and can tilt great matters either way on the slightest occasion, handling human beings almost like little children.
+For his own part, he said, he was ready to do this, because experience had taught him that Fortune is quick to change and can tilt great matters either way on the slightest occasion, handling human beings almost like little children.
 
 ## Book 15 Chapter 7: Conclusion of Hannibal’s Speech
 
@@ -188,7 +188,7 @@ The senate had agreed, and the people had ratified it. Yet after obtaining what 
 
 What, then, was left for him to do?
 
-Should he, Scipio said, put himself in Hannibal’s place and remove the harshest of the imposed terms, so that by receiving a reward for lawlessness the Carthaginians might learn in future to break faith even with benefactors? Or was he to suppose that, once granted what they demanded, they would owe Rome gratitude?
+Let Hannibal, Scipio said, put himself in Scipio’s place and say: should the Romans remove the harshest of the imposed terms, so that by receiving a reward for lawlessness the Carthaginians might learn in future to break faith even with benefactors? Or was he to suppose that, once granted what they demanded, they would owe Rome gratitude?
 
 Why, after receiving as suppliants exactly what they had asked for, simply because they caught some slight hope through Hannibal, they had immediately treated the Romans as enemies and opponents.
 
@@ -232,7 +232,7 @@ Since Fortune had set before them the greatest of prizes, whichever way the batt
 
 So he urged them, with only two things set before them—victory or death—to go straight at the enemy.
 
-For men who hold such a resolve, he said, necessarily defeat those drawn up against them, once they go into battle with no hope left except in fighting.
+For men who hold such a resolve, he said, necessarily defeat those drawn up against them, once they go into battle having given up all hope of life.
 
 ## Book 15 Chapter 11: Hannibal’s Preparations and Speech
 
@@ -334,7 +334,7 @@ First of all, by entering into conference he tried to settle the crisis by negot
 
 That is what one does who understands success, yet does not trust Fortune, and who foresees the unexpected turns to which battles may come.
 
-Then, when he had accepted battle, he handled matters in such a way that, against Romans armed in similar fashion, no better plan of engagement could have been devised than the one Hannibal then arranged.
+Then, when he had accepted battle, he handled matters in such a way that, no one using comparable equipment could have arranged a better engagement against the Romans than the one Hannibal then arranged.
 
 For since the Roman formation is hard to break, and since in general and in detail a Roman force can fight in every direction out of a single deployment, with the nearest standards always wheeling to the point of danger, and since their equipment gives both protection and confidence, by reason of the great shield and the sword’s power to endure heavy blows, they are for these reasons difficult opponents and hard to master.
 
@@ -390,7 +390,7 @@ Such was what the Roman commander said to the envoys. After hearing it, they hur
 
 At that point, it is said, when one of the senators was about to speak against accepting the terms and had just begun, Hannibal stepped forward and pulled the man down from the platform.
 
-When the rest were angered because he had done something contrary to established custom, Hannibal rose again and said that he admitted he did not understand such usages, but they ought to excuse him if he acted against their habits, since he had left his country when he was only nine years old and had returned to it only after more than forty-five years.
+When the rest were angered because he had done something contrary to established custom, Hannibal rose again and said that he admitted he did not understand such usages, but they ought to excuse him if he acted against their habits, since he had left his country when he was only nine years old and was now returning to it at more than forty-five years of age.
 
 Therefore, he said, they should not focus on whether he had failed in matters of custom, but far more on whether he truly felt for the condition of his fatherland. That, he said, was what had driven him into this breach of decorum.
 
@@ -408,7 +408,7 @@ The council immediately sent envoys to agree formally to them.
 
 Who would not marvel at this: while Ptolemy himself was alive and did not need their help, these kings were ready to assist him, but when he died and left behind a mere infant, whose kingdom both of them were naturally bound to preserve, then they invited one another to divide the child’s dominion between themselves and remove the heir he had left.
 
-And they did not, like tyrants, put forward even some small pretext to veil their shame; rather they acted openly and brutally, in a way so savage that it calls to mind the life attributed to fish, among whom the destruction of the smaller becomes food and sustenance for the larger, though they are of the same kind.
+And they did not, as even tyrants do, put forward some small pretext to veil their shame; rather they acted openly and brutally, in a way so savage that it calls to mind the life attributed to fish, among whom the destruction of the smaller becomes food and sustenance for the larger, though they are of the same kind.
 
 Who, looking into this treaty as into a mirror, would not think himself an eyewitness of these kings’ impiety toward the gods, their cruelty toward human beings, and their excessive greed?
 
@@ -446,11 +446,11 @@ But he failed to see the opposite side of the matter, though it was plain enough
 
 ## Book 15 Chapter 23: The Rhodians Object to Philip’s Treatment of Cius
 
-And in this matter Fortune plainly cooperated against Philip as well.
+For indeed, in this respect Fortune plainly cooperated with Philip.
 
 For while his ambassador was making his defense before the Rhodians in the theater, proclaiming Philip’s greatness of spirit and saying that, though he was in effect already master of Cius, he was granting this favor to the Rhodian people because he wished to refute the slanders of his opponents and make his own intentions clear to the city, at that very moment a man who had just landed came to the prytaneum announcing the enslavement of the people of Cius and the cruelty Philip had shown in the affair.
 
-So while the ambassador was still speaking, and the prytanis came forward and reported the news, the Rhodians could hardly believe it because the faithlessness was so extreme.
+So while the ambassador was still speaking, and the prytanis came forward and reported the news, the Rhodians could not believe it because the faithlessness was so extreme.
 
 Thus Philip had betrayed not so much the people of Cius as himself, and had fallen into such ignorance—or rather such transgression—of what was fitting that he boasted and gloried in deeds for which he ought to have felt the deepest shame.
 
@@ -518,7 +518,7 @@ He had two purposes in this. One was to use the men thus recruited in the war ag
 
 He thought that troops recruited and paid by himself would feel no sympathy with what had happened before, because they knew nothing of it, and that, having all their hopes both of safety and advancement resting in him, they would be ready assistants and collaborators in whatever he ordered.
 
-All this happened before the negotiations with Philip, as I have said; but since those matters had to be taken first in the order of the narrative, it was necessary to handle these events in this way, by first describing the audiences, the diplomatic dealings, and the dispatch of the ambassadors.
+All this happened before the deliberation at Philip’s court [...], as I have said; but since those matters had to be taken first in the order of the narrative, it was necessary to handle these events in this way, by first describing the audiences, the diplomatic dealings, and the dispatch of the ambassadors.
 
 Agathocles, then, once he had removed the most distinguished men and to a great extent checked the anger of the crowd by distributing pay, promptly returned to his former habits. He filled the places of his friends by drawing from the attendants and other servants the most worthless and shameless men.
 
@@ -576,7 +576,7 @@ The same thing happened in his addresses to the other groups as well.
 
 Meanwhile many people were sailing down from the upper camps, and some urged their kinsmen, others their friends, to help in the present crisis and not stand by while they were openly outraged by men so unworthy.
 
-What especially stirred the masses to punish those in power was the knowledge that the coming struggle lay in their own hands, because they controlled all the supplies being brought into Alexandria.
+What especially stirred the masses to punish those in power was the knowledge that delay told against themselves, because Tlepolemus and his party controlled all the supplies being brought into Alexandria.
 
 ## Book 15 Chapter 26a: Agathocles Kills Deinon
 

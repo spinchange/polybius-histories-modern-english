@@ -1,0 +1,9 @@
+{"batch":"sonnet_034","units":[
+{"book":3,"chapter":"89","verdict":"CLEAN","findings":[],"note":"Final lacuna (ἀκατάτριπτα χορήγια, broken off) is marked [...] in English."},
+{"book":3,"chapter":"90","verdict":"CLEAN","findings":[],"note":"Οὐενοαντανήν is rendered 'Beneventum' (conventional emendation, Βενευεντανήν); left as is."},
+{"book":3,"chapter":"91","verdict":"CLEAN","findings":[],"note":"Greek has a gap after Δαύνιοι*; English keeps the asterisk, so the lacuna is still marked."},
+{"book":3,"chapter":"92","verdict":"CLEAN","findings":[],"note":"Ends mid-word (στε|νῶν) and continues in ch. 93; the join is handled. Ἄθυρνος = Volturnus is the standard identification."},
+{"book":3,"chapter":"93","verdict":"CLEAN","findings":[],"note":"Opening and closing lacunae are marked [...]."},
+{"book":3,"chapter":"94","verdict":"CLEAN","findings":[],"note":"Opening lacuna is marked [...]."},
+{"book":3,"chapter":"95","verdict":"CLEAN","findings":[],"note":"Numbers check: 30+10=40 ships, 35 ships, 80 stades, second day. Closing lacuna is marked [...]."}
+]}

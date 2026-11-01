@@ -1,0 +1,18 @@
+{"batch":"sonnet_069","units":[
+{"book":8,"chapter":"16","verdict":"CLEAN","findings":[],"note":""},
+{"book":8,"chapter":"17","verdict":"FINDINGS","findings":[
+{"quote":"Delighted at first, he promised everything; but then, in some distrust, he examined in detail the several plans and preparations.","problem":"τὰ μὲν ὑπερχαρὴς ὢν πάνθ᾽ ὑπισχνεῖτο, τὰ δὲ διαπιστῶν ἐξήταζε: τὰ μὲν ... τὰ δὲ means 'in part ... in part', two simultaneous attitudes, not a sequence 'at first ... but then'. The true sequence comes only with μετὰ δὲ ταῦτα πιστεύσας in the next sentence.","proposed_fix":"Partly overjoyed, he promised everything; partly distrustful, he examined in detail the several plans and preparations.","touches_syntax":false,"confidence":"medium"},
+{"quote":"afterward to make his move, by a circuitous route, toward Syria","problem":"μετὰ δὲ ταῦτα ποιήσασθαι δίχα προόδου τὴν ὁρμὴν ἐπὶ τοὺς κατὰ Συρίαν τόπους: δίχα προόδου is 'without any preliminary advance' (a sudden dash); nothing in the Greek says 'circuitous route'.","proposed_fix":"afterward to make his dash, without any preliminary advance, for the regions of Syria","touches_syntax":false,"confidence":"medium"}],
+"note":""},
+{"book":8,"chapter":"18","verdict":"FINDINGS","findings":[
+{"quote":"led him by the same route by which he had come, and brought him alone before Antiochus","problem":"ᾗ μὲν ἦλθε νυκτί, ταύτῃ παράγει πρὸς τὸν Ἀντίοχον τὸν Βῶλιν ὁ Καμβύλος μόνος πρὸς μόνον: ᾗ ... νυκτί is dative of time, 'on the night on which he came, on that same night'; there is no 'route'. μόνος πρὸς μόνον: Cambylus, alone, to the king, alone (private audience).","proposed_fix":"brought him, on that same night, to Antiochus, in private, with no one else present","touches_syntax":false,"confidence":"medium"},
+{"quote":"the task would be difficult for those in whom he trusted","problem":"δύσχρηστος ἡ πρόθεσις ἀπέβαινε τοῖς πεπιστευμένοις: οἱ πεπιστευμένοι are those entrusted with the task (Bolis and Cambylus), not men in whom Achaeus (or anyone) put trust; 'he' invites misreading as Achaeus.","proposed_fix":"the task would be difficult for those entrusted with it","touches_syntax":false,"confidence":"low"}],
+"note":""},
+{"book":8,"chapter":"19","verdict":"CLEAN","findings":[],"note":""},
+{"book":8,"chapter":"20","verdict":"CLEAN","findings":[],"note":""},
+{"book":8,"chapter":"21","verdict":"FINDINGS","findings":[
+{"quote":"some joining Ariobazus and others Laodice","problem":"Greek reads οἱ μὲν πρὸς Ἀρίβαζον: the name is Aribazus (Ἀρίβαζος), not Ariobazus/Ariobarzanes.","proposed_fix":"some joining Aribazus and others Laodice","touches_syntax":false,"confidence":"medium"}],
+"note":"The Greek ends with an apparatus note: a one-folio lacuna follows (post unius folii lacunam v. VIII, 36, 9). The chapter itself is complete as transmitted; the seam is an apparatus matter, not a smoothing inside the English."},
+{"book":8,"chapter":"22","verdict":"CLEAN","findings":[],"note":"English omits the testimonium frame 'Polybius, in the eighth book of the Histories, says ...' (Athenaeus) but this is not within the error classes."},
+{"book":8,"chapter":"23","verdict":"CLEAN","findings":[],"note":"Mithridates, 'son of his sister' (υἱὸς τῆς ἀδελφῆς αὐτοῦ): αὐτοῦ is ambiguous in the Greek (Antiochus's or Xerxes's sister); the English 'his' preserves the ambiguity. Numbers 300 talents, 1000 horses, 1000 mules correct."}
+]}

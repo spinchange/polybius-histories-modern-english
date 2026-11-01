@@ -1,0 +1,12 @@
+{"batch":"opus_013","units":[
+{"book":6,"chapter":"19","verdict":"FINDINGS","findings":[
+ {"quote":"within the forty-six years counted from his coming of age","problem":"ἐν τοῖς τετταράκοντα καὶ ἓξ ἔτεσιν ἀπὸ γενεᾶς = within the forty-six years from birth, i.e. before the age of forty-six; 'from his coming of age' shifts the age limit by some seventeen years.","proposed_fix":"before reaching the age of forty-six","touches_syntax":false,"confidence":"high"}],
+ "note":"[τῶν … πρεσβυτέρων] spanning into ch. 20 is an editorial deletion, not a lacuna; English rightly omits it."},
+{"book":6,"chapter":"20","verdict":"CLEAN","findings":[],"note":"The tension between 'after this they pass the cavalry' and 'now they do it beforehand' reflects the Greek's own μετὰ ταῦτα ... νῦν δὲ προτέρους; not an error."},
+{"book":6,"chapter":"21","verdict":"CLEAN","findings":[],"note":""},
+{"book":6,"chapter":"22","verdict":"CLEAN","findings":[],"note":""},
+{"book":6,"chapter":"23","verdict":"FINDINGS","findings":[
+ {"quote":"ten thousand drachmas (asses)","problem":"ὑπὲρ τὰς μυρίας τιμώμενοι δραχμάς = rated above 10,000 drachmas. The gloss '(asses)' equates drachmas with asses; Polybius's drachma = denarius, so the figure corresponds to 100,000 asses (first census class), not 10,000.","proposed_fix":"ten thousand drachmas","touches_syntax":false,"confidence":"medium"}],
+ "note":""},
+{"book":6,"chapter":"24","verdict":"CLEAN","findings":[],"note":""}
+]}

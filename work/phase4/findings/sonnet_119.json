@@ -1,0 +1,10 @@
+{"batch":"sonnet_119","units":[
+{"book":23,"chapter":"1","verdict":"CLEAN","findings":[],"note":""},
+{"book":23,"chapter":"2","verdict":"CLEAN","findings":[],"note":""},
+{"book":23,"chapter":"3","verdict":"CLEAN","findings":[],"note":""},
+{"book":23,"chapter":"4","verdict":"FINDINGS","findings":[{"quote":"and they all addressed arguments against the Achaeans suited to their own particular causes","problem":"The Greek has a lacuna (`* ** ἐποιοῦντο πρὸς τοὺς Ἀχαιοὺς οἰκείους ταῖς ἰδίαις ὑποθέσεσι λόγους`); the subject of ἐποιοῦντο is lost in the gap. English supplies 'and they all' and renders πρὸς τοὺς Ἀχαιοὺς as 'against', neither of which the surviving Greek gives (πρός + acc. = 'to/with regard to').","proposed_fix":"made speeches to the Achaeans suited to their own particular causes","touches_syntax":true,"confidence":"low"}],"note":"Lacuna is marked with [...] but the text after it is joined as if whole. Subject unrecoverable."},
+{"book":23,"chapter":"5","verdict":"FINDINGS","findings":[{"quote":"learned that he was displaying habits and tastes ill suited to the situation","problem":"Greek: μαθεῖν ὡς ἀνοίκειον ὑπόθεσιν τῆς ἰδίας αἱρέσεως καὶ φύσεως ἀποδέδωκε, 'that he had put forward an undertaking alien to his own choice and nature'. ἀνοίκειον takes the genitive of his own character; it is not 'unsuited to the situation'.","proposed_fix":"learned that he had set before himself an undertaking ill suited to his own inclination and nature","touches_syntax":false,"confidence":"medium"}],"note":""},
+{"book":23,"chapter":"6","verdict":"CLEAN","findings":[],"note":""},
+{"book":23,"chapter":"7","verdict":"CLEAN","findings":[],"note":"Lacuna at end correctly marked ***."},
+{"book":23,"chapter":"8","verdict":"CLEAN","findings":[],"note":""}
+]}

@@ -1,0 +1,7 @@
+[
+{"id":"F0151","verdict":"ACCEPT","fix":", they finally surrendered with the Romans’ consent","reason":"Genitive absolute συνευδοκούντων Ῥωμαίων: Romans consented to the surrender; not a concessive about their conduct."},
+{"id":"F0152","verdict":"HUMAN","fix":"But Hieronymus, while the Carthaginian envoys were still close at hand, said","reason":"Greek corrupt (bracketed εἴτ᾽ ἐν μισειόντων); 'leaning toward the Carthaginians' is invented. Editor should decide whether to mark corruption."},
+{"id":"F0153","verdict":"ACCEPT","fix":"the only man whom all the Siceliots had willingly and deliberately approved as their leader and king","reason":"μόνον agrees with ὃν (Pyrrhus), not with the Siceliots."},
+{"id":"F0154","verdict":"ACCEPT","fix":"and likewise of the Epirotes and Acarnanians [...] and of how many benefits he was in a short time the cause to each of them.","reason":"Greek breaks after Ἀκαρνάνων; 'all the others' is invented; ὅσων ... ἀγαθῶν is an indirect exclamation."},
+{"id":"F0155","verdict":"REVISE","fix":"Therefore the soldiers there stood speechless and at the same time overjoyed, some amazed by the strangeness of the thing, others foreseeing and fearing what would happen.","reason":"οἱ μὲν ... οἱ δὲ splits two groups; all were ἀχανεῖς and περιχαρεῖς; 'dread' as a shared feeling is not in the Greek."}
+]

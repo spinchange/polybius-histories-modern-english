@@ -1,0 +1,9 @@
+{"batch":"sonnet_014","units":[
+{"book":2,"chapter":"1","verdict":"CLEAN","findings":[],"note":""},
+{"book":2,"chapter":"2","verdict":"CLEAN","findings":[],"note":"Greek breaks off mid-sentence (genuine chapter boundary); English marks it with [...]."},
+{"book":2,"chapter":"3","verdict":"CLEAN","findings":[],"note":"Numbers (100 boats, 5000 Illyrians) match."},
+{"book":2,"chapter":"4","verdict":"CLEAN","findings":[],"note":""},
+{"book":2,"chapter":"5","verdict":"CLEAN","findings":[],"note":"Numbers (800 Gauls, 5000 Illyrians) match."},
+{"book":2,"chapter":"6","verdict":"CLEAN","findings":[],"note":""},
+{"book":2,"chapter":"7","verdict":"CLEAN","findings":[],"note":"Number (more than 3000) matches."}
+]}

@@ -1,0 +1,12 @@
+{"batch":"sonnet_016","units":[
+{"book":2,"chapter":"15","verdict":"CLEAN","findings":[],"note":""},
+{"book":2,"chapter":"16","verdict":"CLEAN","findings":[],"note":""},
+{"book":2,"chapter":"17","verdict":"FINDINGS","findings":[
+{"quote":"at the same period as the so-called Phlegraean plains around Capua and Nola—plains which","problem":"Greek: καθ᾽ οὓς χρόνους καὶ τὰ Φλέγραιά ποτε καλούμενα τὰ περὶ Καπύην καὶ Νώλην — the Phlegraean plains are a second object of ἐνέμοντο (the Etruscans held them too, at the time), not a term of temporal comparison.","proposed_fix":"at the time when they also held the once so-called Phlegraean plains around Capua and Nola—plains which","touches_syntax":true,"confidence":"medium"},
+{"quote":"those lying toward the eastern part of the Po","problem":"Greek: περὶ τὰς ἀνατολὰς τοῦ Πάδου — ἀνατολαί of the river means its rising/sources (the Laoi and Lebecii are the westernmost, near the Po's source), not its 'eastern part'; the Greek word is open to 'risings' but 'eastern part' reverses the geography.","proposed_fix":"those lying around the sources of the Po","touches_syntax":false,"confidence":"medium"}
+],"note":"Both findings rest on ἀνατολαί/καθ᾽ οὓς χρόνους καί readings; the second is mildly ambiguous in the Greek."},
+{"book":2,"chapter":"18","verdict":"CLEAN","findings":[],"note":""},
+{"book":2,"chapter":"19","verdict":"CLEAN","findings":[],"note":""},
+{"book":2,"chapter":"20","verdict":"CLEAN","findings":[],"note":""},
+{"book":2,"chapter":"21","verdict":"CLEAN","findings":[],"note":""}
+]}

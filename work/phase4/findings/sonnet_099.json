@@ -1,0 +1,13 @@
+{"batch":"sonnet_099","units":[
+{"book":16,"chapter":"28","verdict":"CLEAN","findings":[],"note":""},
+{"book":16,"chapter":"29","verdict":"FINDINGS","findings":[{"quote":"at times people even bridge it for those who wish to cross on foot between the continents, and at all times it is traversed by shipping","problem":"Greek has ποτὲ μὲν γεφυρούμενον ... ποτὲ δὲ πλωτευόμενον συνεχῶς: at times bridged, at other times sailed across continuously. The μὲν...δέ contrast is lost; 'at all times' is not in the Greek.","proposed_fix":"at times it is bridged by those who choose to cross on foot to either continent, and at other times it is continuously crossed by ships","touches_syntax":false,"confidence":"low"}],"note":"Minor; remainder of chapter accurate (60 stades vs 2 stades correct)."},
+{"book":16,"chapter":"30","verdict":"CLEAN","findings":[],"note":""},
+{"book":16,"chapter":"31","verdict":"CLEAN","findings":[],"note":""},
+{"book":16,"chapter":"32","verdict":"CLEAN","findings":[],"note":""},
+{"book":16,"chapter":"33","verdict":"FINDINGS","findings":[{"quote":"and shattered the sarissas of others, then with the broken splinters stabbed their faces and exposed parts, throwing them into total confusion.","problem":"Greek has a lacuna: ὧν δὲ συντρίβοντες τὰς σαρίσας αὐτοῖς τοῖς ἐκείνων κλάσμασιν ἐκ διαλήψεως *** τύπτοντες αὐτῶν ταῖς ἐπιδορατίσι τὰ πρόσωπα. The text breaks off after ἐκ διαλήψεως, and the English reads on as if whole. It also omits ταῖς ἐπιδορατίσι (spear-points/butt-spikes) and the force of ἐκ διαλήψεως.","proposed_fix":"and breaking the sarissas of others, with the very fragments of them, [gap in the Greek text] striking their faces and exposed parts with the spear-points, they drove them into complete rout.","touches_syntax":true,"confidence":"medium"}],"note":"Lacuna marked with a bracketed gap; no text invented. Meaning of ἐκ διαλήψεως in context is uncertain because of the gap."},
+{"book":16,"chapter":"34","verdict":"CLEAN","findings":[],"note":""},
+{"book":16,"chapter":"35","verdict":"CLEAN","findings":[],"note":""},
+{"book":16,"chapter":"36","verdict":"CLEAN","findings":[],"note":"Greek breaks off at εἰσπο- and resumes in ch. 37 (ρεύεσθαι); English joins the sentence correctly."},
+{"book":16,"chapter":"37","verdict":"CLEAN","findings":[],"note":""},
+{"book":16,"chapter":"38","verdict":"CLEAN","findings":[],"note":""}
+]}

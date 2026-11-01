@@ -1,0 +1,13 @@
+{"batch":"sonnet_085","units":[
+{"book":12,"chapter":"1","verdict":"CLEAN","findings":[],"note":""},
+{"book":12,"chapter":"2","verdict":"CLEAN","findings":[],"note":""},
+{"book":12,"chapter":"3","verdict":"CLEAN","findings":[],"note":"Chapter breaks off mid-sentence in the Greek (γίνεται δὲ τὸ); the English marks this with [...]."},
+{"book":12,"chapter":"4","verdict":"FINDINGS","findings":[{"quote":"especially along the coast, among the Etruscans and the Gauls","problem":"The Greek reads καὶ μάλιστα [τὴν παλαίαν], παρά τε τοῖς Τυρρηνικοῖς καὶ Γαλάταις. The words τὴν παλαίαν ('the old') are bracketed in the edition as doubtful or corrupt. 'Along the coast' is not in the Greek and silently smooths over the corrupt words.","proposed_fix":"especially among the Etruscans and the Gauls","touches_syntax":false,"confidence":"medium"}],"note":"The Greek is corrupt at [τὴν παλαίαν]. Do not resolve it silently; if the edition marks cruxes, flag it. The proposed fix only removes the invented 'along the coast'. The rest of the chapter matches the Greek, including the thousand pigs per sow."},
+{"book":12,"chapter":"4a","verdict":"CLEAN","findings":[],"note":"The numbers 23, 42, 63 and 65 are consistent with the Greek. The lacuna (***) is marked [...]."},
+{"book":12,"chapter":"4b","verdict":"CLEAN","findings":[],"note":"The text breaks off at σημειούμενοι τὸ μέλλον; the English marks this with [...]."},
+{"book":12,"chapter":"4c","verdict":"CLEAN","findings":[],"note":""},
+{"book":12,"chapter":"4d","verdict":"CLEAN","findings":[],"note":"The 4000 stades figure matches the Greek."},
+{"book":12,"chapter":"5","verdict":"CLEAN","findings":[],"note":""},
+{"book":12,"chapter":"6","verdict":"CLEAN","findings":[],"note":""},
+{"book":12,"chapter":"6a","verdict":"CLEAN","findings":[],"note":"The Greek breaks off at ἐπιφαί-; the English marks this with [...]."}
+]}

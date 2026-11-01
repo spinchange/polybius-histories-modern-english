@@ -1,0 +1,4 @@
+[
+{"id":"F0015","verdict":"HUMAN","fix":"[...] Hannibal could say nothing against the daring and practical force of the proposal","reason":"Source shows '...' (not the * lacuna convention); standard text reads continuously. Possibly excerptor's break; editor must decide whether to mark."},
+{"id":"F0016","verdict":"ACCEPT","fix":"these men had been partners in affairs with each other most loyally, and although","reason":"κεκοινωνηκότας ἑαυτοῖς πραγμάτων = had shared/been partners, not divided; restores contrast with never sharing the same action."}
+]

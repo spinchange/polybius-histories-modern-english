@@ -10,7 +10,7 @@ Polybius says in the seventh book that the people of Capua in Campania, made wea
 
 So, he says, being unable to bear their present prosperity, they called in Hannibal. For that reason they later suffered irreparable disasters at Roman hands.
 
-The people of Petelia, on the other hand, kept faith with Rome and showed such endurance under Hannibal’s siege that, after eating all the leather in the city and consuming the bark and tender shoots of every tree in it, and after holding out for eleven months with no help arriving—though the Romans approved of their conduct—they finally surrendered.
+The people of Petelia, on the other hand, kept faith with Rome and showed such endurance under Hannibal’s siege that, after eating all the leather in the city and consuming the bark and tender shoots of every tree in it, and after holding out for eleven months with no help arriving, they finally surrendered with the Romans’ consent.
 
 Capua, after going over to the Carthaginians, used its influence to draw the other cities over as well.
 
@@ -58,7 +58,7 @@ When these envoys reached the Carthaginians, they negotiated on this basis and a
 
 Meanwhile Hippocrates and his circle took the young king in hand and at first captivated him by describing Hannibal’s marches, battle lines, and battles in Italy.
 
-After that they told him that no one had a better claim than he to rule over all the Siceliots, first because he was the grandson through his mother Nereis of Pyrrhus, whom all the Siceliots alone had willingly and deliberately approved as their leader and king, and second because of the sovereign position held by his grandfather Hiero.
+After that they told him that no one had a better claim than he to rule over all the Siceliots, first because he was the grandson through his mother Nereis of Pyrrhus, the only man whom all the Siceliots had willingly and deliberately approved as their leader and king, and second because of the sovereign position held by his grandfather Hiero.
 
 In the end they so completely turned the boy’s head that he paid no attention to anyone else, partly because he was unstable by nature and still more because they had now filled him with lofty ambition.
 
@@ -188,7 +188,7 @@ For though he was constantly drawn away from Macedonia by the war against the Ae
 
 And it would not be possible to speak adequately of the affection and eagerness shown toward him by Alexander, Chrysogonus, and his other friends.
 
-The same may be said of the Peloponnesians and Boeotians, and likewise of the Epirotes, Acarnanians, and all the others to whom in a short time he became the cause of many benefits.
+The same may be said of the Peloponnesians and Boeotians, and likewise of the Epirotes and Acarnanians [...] and of how many benefits he was in a short time the cause to each of them.
 
 Indeed, if one may put it somewhat boldly, I think this description suited Philip very well: by the beneficence of his policy he became something like the common darling of the Greeks.
 
@@ -310,7 +310,7 @@ But once the two ladders had been set in place, and Dionysius went up first by o
 
 For those climbing the overhanging brow toward the cliff were out of sight for the people in the city and for Achaeus and his men in the citadel, but from the camp the daring of those who were climbing and pressing on was plainly visible.
 
-Therefore the soldiers there stood speechless, amazed by the strangeness of the thing and at the same time, as they foresaw and feared what would happen, filled alike with dread and delight.
+Therefore the soldiers there stood speechless and at the same time overjoyed, some amazed by the strangeness of the thing, others foreseeing and fearing what would happen.
 
 The king, seeing the stir throughout the whole camp and wishing to draw off both his own people and those in the city from what was actually under way, led his force forward and attacked the gates on the opposite side, called the Persian Gates.
 

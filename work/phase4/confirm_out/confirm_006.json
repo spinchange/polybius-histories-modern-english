@@ -1,0 +1,6 @@
+[
+{"id":"F0021","verdict":"ACCEPT","fix":"—[...] part, as it seems to me, of practical history.","reason":"Lacuna before μέρος; 'yet this is only one' is supplied over the gap and must be replaced by [...]."},
+{"id":"F0022","verdict":"ACCEPT","fix":"which was straightforward and involved only one part of the forces","reason":"καθ᾽ ἕν τι μέρος τῆς δυνάμεως: confined to one part of the army, not the army fighting as one body."},
+{"id":"F0023","verdict":"ACCEPT","fix":"he tells them that they must now give their attention and learn how great a difference war makes from peace","reason":"λοιπόν φησιν … ἐπιστήσαντας μαθεῖν is an exhortation to learn, not a statement they had learned; the absurdity depends on it."},
+{"id":"F0024","verdict":"REVISE","fix":"none of the [...]","reason":"Greek ends at οὐδένα τῶν; 'he leaves' is invented; '[the text breaks off]' is not project convention, so [...] alone."}
+]

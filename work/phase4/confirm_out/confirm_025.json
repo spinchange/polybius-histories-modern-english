@@ -1,0 +1,6 @@
+[
+{"id":"F0208","verdict":"HUMAN","fix":"especially among the Etruscans and the Gauls","reason":"Bracketed [τὴν παλαίαν] is doubtful; 'along the coast' rests on the conjecture παραλίαν. Translator must choose: omit, or flag the conjecture."},
+{"id":"F0209","verdict":"REVISE","fix":"but rather what it befits themselves to do [...] so too with abuse","reason":"Lacuna after τοῦτο μᾶλλον is real; mark with project [...] only, not '[text lost] ...'."},
+{"id":"F0211","verdict":"HUMAN","fix":"not realizing that falsehood is no less present among those who write what actually happened [...] in their histories","reason":"Lacuna at γεγονότα *** γράφοντας; silence/misstatement contrast is an editorial supplement, likely but not transmitted."},
+{"id":"F0212","verdict":"REJECT","fix":"","reason":"τοῖς ὄπισθεν ἔμπροσθεν γεγονότα: he placed himself in front for those behind (passive partner); current English gives that sense. Candidate misreads."}
+]

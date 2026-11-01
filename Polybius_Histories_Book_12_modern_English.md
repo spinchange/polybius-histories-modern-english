@@ -286,7 +286,7 @@ anything of the kind about Demochares. And so I, holding the testimony of his ow
 
 And even if some such disgrace had truly attached to Demochares, what occasion or what circumstance compelled Timaeus to enter these matters into his history?
 
-For just as sensible men, when they decide to take revenge on their enemies, do not consider first what the other man deserves to suffer, but rather what it befits themselves to do—so too with abuse: one should not regard first what it is fitting for our enemies to hear, but should reckon as most essential what it is proper for us to say.
+For just as sensible men, when they decide to take revenge on their enemies, do not consider first what the other man deserves to suffer, but rather what it befits themselves to do [...] so too with abuse: one should not regard first what it is fitting for our enemies to hear, but should reckon as most essential what it is proper for us to say.
 
 As for those who measure everything by their own passions and ambitions, one is bound to be suspicious of all they say and to distrust everything spoken by them beyond what is right.
 
@@ -536,7 +536,7 @@ And in the same manner many set their hearts on history because of the reputatio
 
 Like the quack drug-sellers, they court popularity and always say what will please the moment, in order to make a living by this means; and they are not worth saying more about.
 
-But some of those who seem to approach history on reasonable grounds, like the theoretical physicians, spend their time in libraries and acquire in general a wide range of experience from the documents, and so persuade themselves that they are competent for the task, and seem to outsiders to be adequately equipped—yet this is only one part, as it seems to me, of practical history.
+But some of those who seem to approach history on reasonable grounds, like the theoretical physicians, spend their time in libraries and acquire in general a wide range of experience from the documents, and so persuade themselves that they are competent for the task, and seem to outsiders to be adequately equipped—[...] part, as it seems to me, of practical history.
 
 For it is true that the examination of earlier records is useful for knowing the views of the ancients and the conceptions they once held about situations, places, peoples, and constitutions and actions, and further for understanding the circumstances and fortunes that each people experienced in earlier times.
 
@@ -552,7 +552,7 @@ Accordingly, when one fixes attention on the sea-battles off Cyprus and off Cnid
 
 But when he describes the battle of Leuctra between the Thebans and the Spartans, or again that of Mantinea between these same peoples, in which Epaminondas lost his life, then, if one pays close attention to the details and studies the formations and maneuvers made at the very crises of the action, he appears ridiculous and altogether inexperienced and ignorant of such matters.
 
-Now the engagement at Leuctra, which was straightforward and fought with the army in a single body, does not make the writer’s inexperience very conspicuous; but the one at Mantinea has, in his presentation, a varied and generalship-like appearance, yet is untenable and entirely beyond the writer’s grasp. This will become clear if one accurately lays out the ground and measures against it the movements he describes.
+Now the engagement at Leuctra, which was straightforward and involved only one part of the forces, does not make the writer’s inexperience very conspicuous; but the one at Mantinea has, in his presentation, a varied and generalship-like appearance, yet is untenable and entirely beyond the writer’s grasp. This will become clear if one accurately lays out the ground and measures against it the movements he describes.
 
 The same thing happens with Theopompus too, and most of all with Timaeus, who is our present subject.
 
@@ -612,7 +612,7 @@ Now Timaeus says, in his twenty-first book, that at the time when Eurymedon arri
 
 When the delegates had assembled and a debate had been laid before them, he brings on Hermocrates using speeches of some such tenor.
 
-For this man, having praised the people of Gela and of Camarina—first because they were the ones who had made the truce, second because they had been responsible for the discussions about a settlement coming about, and third because they had taken care that it should not be the masses who deliberated about the settlements, but the leading citizens, who knew clearly what difference war makes from peace— and then, after taking up two or three practical arguments, he says they had fixed their attention and learned how great a difference war makes from peace—though only a little earlier he had said that on this very account Hermocrates was grateful to the people of Gela that the discussions were not taking place before the multitude, but in a council that well understood such reversals of fortune.
+For this man, having praised the people of Gela and of Camarina—first because they were the ones who had made the truce, second because they had been responsible for the discussions about a settlement coming about, and third because they had taken care that it should not be the masses who deliberated about the settlements, but the leading citizens, who knew clearly what difference war makes from peace— and then, after taking up two or three practical arguments, he tells them that they must now give their attention and learn how great a difference war makes from peace—though only a little earlier he had said that on this very account Hermocrates was grateful to the people of Gela that the discussions were not taking place before the multitude, but in a council that well understood such reversals of fortune.
 
 From all this Timaeus would seem to fall short not only of practical ability, but also to come off no little the worse in the very arguments used in the schools of rhetoric.
 
@@ -726,7 +726,7 @@ And that he is of this character it is easy to demonstrate from Timaeus’ own a
 
 For in the preface to his sixth book he says that some people suppose that the genre of display oratory requires greater natural talent, industry, and preparation than that of history, and that these opinions had earlier been brought against Ephorus; and since that writer had been unable to answer adequately those who said such things, he himself attempts to set history side by side with display oratory in a comparison—doing the most absurd thing of all, first in misrepresenting that writer. For Ephorus, admirable throughout his whole work in his style, in his treatment, and in the conception of his material, is at his most masterly in his digressions and in the maxims he contributes of his own—in short, whenever he sets out some supplementary observation; and, as it happens, it is on this very subject—the comparison of historians with speech-writers—that he has spoken most agreeably and most persuasively.
 
-But Timaeus, so as not to seem to be following Ephorus, on top of misrepresenting him has at the same time condemned the rest as well: for, expounding at length, obscurely, and in every way worse the matters that had been properly handled by others, [he leaves none of them...] [...] [the text breaks off]
+But Timaeus, so as not to seem to be following Ephorus, on top of misrepresenting him has at the same time condemned the rest as well: for, expounding at length, obscurely, and in every way worse the matters that had been properly handled by others, none of the [...]
 
 ## Book 12 Chapter 28a: Timaeus on the Dignity of History
 

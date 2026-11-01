@@ -1,0 +1,8 @@
+{"batch":"sonnet_039","units":[
+{"book":4,"chapter":"15","verdict":"CLEAN","findings":[],"note":"Numbers check: 5000+2500+2500 foot = 10000; 500+250+250 horse = 1000."},
+{"book":4,"chapter":"16","verdict":"CLEAN","findings":[],"note":"Ninety lembi = 50 (Demetrius) + 40 (Scerdilaidas). Chapter-end lacuna/break marked with [...]."},
+{"book":4,"chapter":"17","verdict":"CLEAN","findings":[],"note":"Greek breaks mid-word at the chapter end (τὴν θρέ- / -ψασαν); English completes it across the seam, which is a chapter split, not a lacuna. Three hundred exiles correct."},
+{"book":4,"chapter":"18","verdict":"FINDINGS","findings":[{"quote":"They treated all the others of that party in the same way","problem":"Greek: ὁμοίως δὲ καὶ τοῖς ἄλλοις ἐχρήσαντο πᾶσι, 'they treated all the others alike', i.e. the other townspeople generally. 'Of that party' is not in the Greek and narrows the sense.","proposed_fix":"They treated all the others in the same way","touches_syntax":false,"confidence":"low"}],"note":"Otherwise accurate."},
+{"book":4,"chapter":"19","verdict":"CLEAN","findings":[],"note":"Two days late (δυσὶ ἡμέραις) correct; Euripidas, Taurion, Demetrius of Pharos correctly identified."},
+{"book":4,"chapter":"20","verdict":"CLEAN","findings":[],"note":"Thirty years, Philoxenus and Timotheus, Ephorus all correct."}
+]}

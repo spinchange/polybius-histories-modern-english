@@ -1,0 +1,13 @@
+{"batch":"opus_030","units":[
+{"book":15,"chapter":"11","verdict":"CLEAN","findings":[],"note":"[ᾤετο] is an editorial deletion; chapter ends mid-word (ἀμφό/τεροι) across the seam, English handles it correctly."},
+{"book":15,"chapter":"12","verdict":"FINDINGS","findings":[
+ {"quote":"and by this Masinissa quickly stripped the Carthaginian left wing of its mounted support.","problem":"Greek has a lacuna: Νομάδων: *** τῶν περὶ τὸν Μασαννάσαν ταχέως ἐψιλώθη τὸ λαιὸν κέρας τῶν Καρχηδονίων. The link between the elephants' stampede and Masinissa's action is lost; 'by this' is invented, and the surviving clause is passive ('the left wing was quickly laid bare'), with Masinissa's men in a genitive whose construction is lost.","proposed_fix":"[a gap in the text] … of Masinissa's men, the Carthaginian left wing was quickly stripped of its cavalry.","touches_syntax":true,"confidence":"high"}
+],"note":"Lacuna marked *** in Büttner-Wobst after Νομάδων."},
+{"book":15,"chapter":"13","verdict":"CLEAN","findings":[],"note":""},
+{"book":15,"chapter":"14","verdict":"CLEAN","findings":[],"note":"Numbers checked: Romans over 1,500 (ὑπὲρ τοὺς χιλίους πεντακοσίους), Carthaginians over 20,000 (ὑπὲρ δισμυρίους), prisoners not many fewer."},
+{"book":15,"chapter":"15","verdict":"FINDINGS","findings":[
+ {"quote":"against Romans armed in similar fashion, no better plan of engagement could have been devised than the one Hannibal then arranged","problem":"παραπλησίῳ καθοπλισμῷ χρώμενον is accusative singular, agreeing with the unexpressed general who arranges the battle, not with Ῥωμαίους (plural). The similar equipment belongs to the hypothetical general (i.e. one with arms comparable to Hannibal's), not to the Romans.","proposed_fix":"no one using comparable equipment could have arranged a better engagement against the Romans than the one Hannibal then arranged","touches_syntax":true,"confidence":"medium"}
+],"note":"Finding is a misattributed participle (sense of who is 'similarly armed'); closest class is sense inversion."},
+{"book":15,"chapter":"16","verdict":"CLEAN","findings":[],"note":""},
+{"book":15,"chapter":"17","verdict":"CLEAN","findings":[],"note":""}
+]}

@@ -1,0 +1,11 @@
+[
+{"id":"F0092","verdict":"ACCEPT","fix":"the people of Elea and the Neapolitans","reason":"Ἐλεατῶν are the Italian Eleates of Elea/Velia, not Eleans of Elis in the Peloponnese."},
+{"id":"F0093","verdict":"ACCEPT","fix":"twenty-four feet high and three palms (about nine inches) in diameter","reason":"τριῶν παλαιστῶν: three palms, about nine inches, not a foot."},
+{"id":"F0095","verdict":"ACCEPT","fix":"complete discouragement and famine, partly because of the numbers gathered there and partly because they expected a siege","reason":"τὰ μὲν … τὰ δέ covers both conditions; 'discouragement because of the panic' is an invented separate cause."},
+{"id":"F0097","verdict":"ACCEPT","fix":"and because, too, one spell of stormy weather had not yet ended while another was coming on","reason":"ἐπισημασία is a star-signalled spell of bad weather; καταλήγειν/ἐπιφέρεσθαι mean ending/coming on, not setting/rising constellations."},
+{"id":"F0098","verdict":"ACCEPT","fix":"in rivalry with Hasdrubal","reason":"ἀντιφιλοδοξοῦντες πρὸς τὸν Ἀσδρούβαν: competing with Hasdrubal for glory, as the next clause confirms; not vying with each other."},
+{"id":"F0099","verdict":"REVISE","fix":"along with them he immediately sent Hannibal to the Gauls","reason":"μετ᾽ αὐτῶν ἀπέστειλε: Hannibal and Alexon were sent with the loyal officers; no 'his own men' in the Greek."},
+{"id":"F0100","verdict":"REJECT","fix":"","reason":"Polybius's Ἀτάρβας is the Drepana commander conventionally called Adherbal; same person, and Book 1 uses Adherbal throughout."},
+{"id":"F0101","verdict":"REVISE","fix":"an internal war awaited the Romans—the one against the people called the Faliscans","reason":"ἐξεδέξατο: a war was in store for/followed upon them; 'broke out to receive' garbles the verb. Closest minimal fix."},
+{"id":"F0102","verdict":"ACCEPT","fix":"did not give them up, and they warned those present","reason":"οὔτ᾽ ἔδοσαν, προεῖπόν τε: one negated verb plus 'and warned'; 'nor allowed it' is invented."}
+]

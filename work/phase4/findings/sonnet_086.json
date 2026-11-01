@@ -1,0 +1,12 @@
+{"batch":"sonnet_086","units":[
+{"book":12,"chapter":"6b","verdict":"CLEAN","findings":[],"note":"Greek batch text begins mid-sentence (-νειν ἤπερ ἀπελεύθεροι); the English words 'descendants of their masters' have no counterpart in the supplied Greek (lost to the chapter seam), so unverifiable here; 'rather than freedmen' matches ἤπερ ἀπελεύθεροι."},
+{"book":12,"chapter":"7","verdict":"CLEAN","findings":[],"note":"The double negation οὐκ ἄπειρος … οὐδενός is rendered consistently with the sense (not inexperienced). 'every harsh word' slightly adds to πᾶν ῥῆμα καὶ πᾶσαν φωνήν but not a sense error."},
+{"book":12,"chapter":"8","verdict":"CLEAN","findings":[],"note":"ἰατρεῖον is rendered 'apothecary's shop'; strictly a physician's surgery/consulting room. Lexical, outside the error classes, not flagged."},
+{"book":12,"chapter":"9","verdict":"CLEAN","findings":[],"note":""},
+{"book":12,"chapter":"10","verdict":"CLEAN","findings":[],"note":"Lacuna (***) after τῆς ἀποδοχῆς is correctly marked [...]."},
+{"book":12,"chapter":"11","verdict":"CLEAN","findings":[],"note":"Lacuna (***) after ἀμφοτέροις is correctly marked [...]. παρὰ τρίμηνον = three months, correct."},
+{"book":12,"chapter":"12","verdict":"CLEAN","findings":[],"note":""},
+{"book":12,"chapter":"12a","verdict":"CLEAN","findings":[],"note":""},
+{"book":12,"chapter":"12b","verdict":"CLEAN","findings":[],"note":"Initial lacuna (***) correctly marked [...]."},
+{"book":12,"chapter":"13","verdict":"CLEAN","findings":[],"note":"Greek breaks off mid-word (εἰρή); English marks the break with [...]. λυσιτελῶς rendered 'cheaply' (Greek: profitably/advantageously); lexical, not flagged."}
+]}

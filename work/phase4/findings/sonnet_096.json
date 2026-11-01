@@ -1,0 +1,19 @@
+{"batch":"sonnet_096","units":[
+{"book":16,"chapter":"1","verdict":"CLEAN","findings":[],"note":""},
+{"book":16,"chapter":"2","verdict":"FINDINGS","findings":[
+{"quote":"convinced that if he could throw them into confusion he would then sail the rest of the way safely","problem":"Greek: πεπεισμένος καταταχήσειν καὶ τὸ λοιπὸν ἀσφαλῶς ἤδη κομισθήσεσθαι. καταταχήσειν means he would get ahead of / outstrip them by speed; nothing about throwing the enemy into confusion.","proposed_fix":"convinced that he would get the start of them and then sail the rest of the way safely","touches_syntax":false,"confidence":"medium"},
+{"quote":"besides undecked ships","problem":"Greek: σὺν δὲ τούτοις ἄφρακτα *** — a number is missing after ἄφρακτα (lacuna); the English reads on as if whole.","proposed_fix":"besides undecked ships [number lost in the Greek text]","touches_syntax":false,"confidence":"high"}
+],"note":"Lacuna after ἄφρακτα."},
+{"book":16,"chapter":"3","verdict":"FINDINGS","findings":[
+{"quote":"because the enemy vessel had a high-built prow","problem":"Greek: ἀναστείρου τῆς νεὼς οὔσης — the genitive absolute does not name whose ship had the raised stem; the sense (he took the blow above the waterline) favors his own ship, the opposite of the English assignment. Ambiguous, so preserve the ambiguity.","proposed_fix":"because the ship's stem was raised (the Greek does not say whose ship)","touches_syntax":false,"confidence":"low"},
+{"quote":"but he struck the enemy below the waterline","problem":"Greek: τὴν δὲ τῶν πολεμίων τρώσας ναῦν ὑπὸ τὰ * βίαχα — the text is corrupt/defective (asterisk, and βίαχα is not a known word); 'below the waterline' is an invented smoothing.","proposed_fix":"but he struck the enemy ship under the [text corrupt: ὑπὸ τὰ * βίαχα]","touches_syntax":false,"confidence":"medium"}
+],"note":"Corrupt passage in Deinocrates' clash; no certain restoration."},
+{"book":16,"chapter":"4","verdict":"FINDINGS","findings":[
+{"quote":"Philip had the advantage in the number of his light craft, but Attalus had the advantage in the number of decked ships.","problem":"Greek: καθ᾽ ὅσον … ἐπλεόναζον οἱ παρὰ τοῦ Φιλίππου λέμβοι, κατὰ τοσοῦτον διέφερον οἱ περὶ τὸν Ἄτταλον τῷ τῶν καταφράκτων νεῶν πλήθει — a proportional correlative: by just as much as Philip's light boats were more numerous, by so much Attalus' side excelled in decked ships (the two balanced, hence ἐφάμιλλος). The English drops the correlation.","proposed_fix":"For in proportion as Philip's light boats were more numerous, by just so much did Attalus' side excel in the number of decked ships.","touches_syntax":true,"confidence":"medium"}
+],"note":""},
+{"book":16,"chapter":"5","verdict":"CLEAN","findings":[],"note":""},
+{"book":16,"chapter":"6","verdict":"CLEAN","findings":[],"note":""},
+{"book":16,"chapter":"7","verdict":"CLEAN","findings":[],"note":"All numbers checked against the Greek."},
+{"book":16,"chapter":"8","verdict":"CLEAN","findings":[],"note":""},
+{"book":16,"chapter":"9","verdict":"CLEAN","findings":[],"note":""}
+]}

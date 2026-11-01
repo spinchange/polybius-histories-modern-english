@@ -1,0 +1,12 @@
+{"batch":"sonnet_108","units":[
+{"book":20,"chapter":"1","verdict":"CLEAN","findings":[],"note":""},
+{"book":20,"chapter":"2","verdict":"CLEAN","findings":[],"note":""},
+{"book":20,"chapter":"3","verdict":"CLEAN","findings":[],"note":""},
+{"book":20,"chapter":"4","verdict":"CLEAN","findings":[],"note":""},
+{"book":20,"chapter":"5","verdict":"CLEAN","findings":[],"note":"Greek ends mid-sentence (genitives governed by a lost verb/noun); English dash at end and start of ch.6 marks this adequately. 'oude kata mikron' is slightly ambiguous in isolation but context (house of Brachylles flourishing) supports the English."},
+{"book":20,"chapter":"6","verdict":"FINDINGS","findings":[{"quote":"The man who contributed most to this state of things was Opheltas, who was forever devising","problem":"Greek has a lacuna: 'πλεῖστα δὲ συνεβάλετο πρὸς τὴν τοιαύτην *  ** Ὀφέλτας, αἰεί τι προσεπινοῶν' - text is missing after 'τοιαύτην' (the noun, and the subject's start) and before Ὀφέλτας. The English reads on as if whole and supplies a complete subject/predicate. The nominative Ὀφέλτας may be the subject or in apposition to a lost name; it is not certain Opheltas is the one who 'contributed most'.","proposed_fix":"Most contributed to such a [gap in the Greek] ... Opheltas, who was forever devising","touches_syntax":true,"confidence":"high"}],"note":"Lacuna marked in Greek with * and ** at 'πρὸς τὴν τοιαύτην *' / '** Ὀφέλτας'. Rest of chapter checked clean."},
+{"book":20,"chapter":"7","verdict":"CLEAN","findings":[],"note":""},
+{"book":20,"chapter":"8","verdict":"CLEAN","findings":[],"note":"Latin fragment 'Nec praeter quingentos' is a truncated sentence; English 'or so' is a slight softening but not a sense error."},
+{"book":20,"chapter":"9","verdict":"CLEAN","findings":[],"note":""},
+{"book":20,"chapter":"10","verdict":"CLEAN","findings":[],"note":""}
+]}

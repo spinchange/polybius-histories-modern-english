@@ -70,7 +70,7 @@ Affairs in Greece.
 
 About the same time king Ptolemy, wishing to involve himself with the Achaean League, sent an embassy promising to provide a complete squadron of ten fifty-oared ships.
 
-The Achaeans gladly accepted the offer, both because the gift seemed worthy of gratitude and because the expense appeared to amount to not much less than ten talents.
+The Achaeans gladly accepted the offer, because the gift seemed worthy of gratitude. [For the expense seems to fall not much short of ten talents].
 
 Having resolved this, they appointed Lycortas, Polybius, and with them Aratus son of Aratus of Sicyon as envoys, to thank the king both for the arms and the money he had previously sent, to receive the ships, and to make arrangements for bringing them back.
 
@@ -126,7 +126,7 @@ So if the senate gave some clear sign, the politicians would quickly shift towar
 
 But if this side were neglected, everyone would incline to the other position, because it appeared more honorable and finer in the eyes of the people.
 
-Thus even now certain men, though offering no other claim to justice but ambition, were receiving the highest honors in their own states simply because they seemed to oppose your written instructions, on the pretext of keeping their own laws and decrees in force.
+Thus even now certain men, though offering no other claim to justice but ambition, were receiving the highest honors in their own states simply because they seemed to oppose your written instructions, for the sake of keeping their own laws and decrees in force.
 
 Therefore, if the Romans are indifferent to having the Greeks obey them and comply with what they write, he said they should continue the course they are now following.
 
@@ -158,15 +158,15 @@ Armed with these replies, the man returned to Greece exultant, not knowing that 
 
 For even at that time it was still possible for them to maintain something like equal frankness in their dealings with the Romans, because they had kept faith in the most critical times from the moment they chose the Roman side—I mean in the wars against Philip and Antiochus.
 
-And since the Achaean nation had grown and advanced in the best direction from the period covered by my history, this in turn became the beginning of its change for the worse: the audacity of Callicrates.
+Thus, with the Achaean nation having grown and advanced in the best direction from the period covered by my history, this in turn became the beginning of its change for the worse: the audacity of Callicrates [...].
 
 The Romans, being human beings and possessed of a noble spirit and good intentions, feel pity for those who have suffered misfortune and try to grant favors to all who seek refuge with them.
 
-But whenever someone reminds them of what is just, having kept faith, they draw back and, so far as they can, correct themselves in most matters.
+But whenever someone who has kept faith reminds them of what is just, they draw back and, so far as they can, correct themselves in most matters.
 
 Callicrates, however, when he went to Rome at this time, was supposed to speak for the rights of the Achaeans; instead he acted in the opposite way, and by dragging in the Messenian affair—a matter about which the Romans were not even making accusations—returned to Achaea magnifying the fear inspired by Rome.
 
-And by his embassy he overawed and broke the spirit of the masses, since the common people had no idea what he had truly said in the senate. First of all, he was elected general, and, to add to the other evils, he did so by bribery; and after taking office he restored the exiles from Sparta and from Messene.
+And by his embassy he overawed and broke the spirit of the masses, since the common people had no idea what he had truly said in the senate. First of all, he was elected general, and, to add to the other evils, he took bribes; and after taking office he restored the exiles from Sparta and from Messene.
 
 ## Book 24 Chapter 11: Philopoemen and Aristaenus Contrasted
 
@@ -178,7 +178,7 @@ In political judgment they differed in this way. Once Roman supremacy had become
 
 Still, he tried to appear to hold to the laws, and he cultivated that impression, giving way whenever any of them clearly conflicted with what the Romans wrote.
 
-Philopoemen, on the other hand, agreed to and supported without excuse everything the Romans asked that was consistent with the laws and the alliance, but whenever they ordered anything beyond those limits, he could not bring himself to comply willingly. Instead he said they must first make a legal case, and then press their claim again; and if even then they failed to persuade, one should at last yield under protest and only then do what was required.
+Philopoemen, on the other hand, agreed to and supported without excuse everything the Romans asked that was consistent with the laws and the alliance, but whenever they ordered anything beyond those limits, he could not bring himself to comply willingly. Instead he said one must first plead one’s case, and then make the request again; and if even so one failed to persuade them, one should at last yield under protest and only then do what was required.
 
 ## Book 24 Chapter 12: Aristaenus Defends Obedience to Rome
 
@@ -186,7 +186,7 @@ Aristaenus used such arguments as these before the Achaeans in defense of his ow
 
 “But if we are able to look them in the face and have the power to do so [...] if not, and if not even Philopoemen dares to say this [...] one must be of one mind with the Romans in present circumstances, why, by reaching for impossibilities, should we throw away what is possible?” For, he said, every policy has two aims: what is honorable and what is advantageous. Those for whom the attainment of honor is possible should cling to it if they govern rightly; but those for whom it is impossible must take refuge in advantage.
 
-To miss both, he said, is the clearest mark of poor judgment. And this plainly happens to those who agree without excuse to everything ordered, yet do so unwillingly and with hesitation.
+To miss both, he said, is the clearest mark of poor judgment. And this plainly happens to those who agree without excuse to everything ordered, yet do so unwillingly and with resentment.
 
 Therefore we must either show that we are capable of refusing obedience, or, if we do not dare even to say that, we must be ready to comply promptly with all commands.”
 
@@ -194,9 +194,9 @@ Therefore we must either show that we are capable of refusing obedience, or, if 
 
 Philopoemen said one should not judge him so ignorant that he was unable to measure either the difference between the Roman and Achaean constitutions or the superiority of Roman power.
 
-But since it is the nature of every superiority always to treat those under it more harshly, he asked whether it was really advantageous to cooperate with the impulses of the stronger power and put no obstacle in its way, so that we might as quickly as possible experience its heaviest commands—or rather, to struggle against it and hold out, so far as we are able, for as long as we can.
+But since it is the nature of every superiority always to treat those under it more harshly, he asked whether it was really advantageous to cooperate with the impulses of the stronger power and put no obstacle in its way, so that we might as quickly as possible experience its heaviest commands—or rather, to struggle against it and hold out, so far as we are able, to the extent that we are going to completely [...].
 
-And even if they do issue commands, by reminding them of these considerations and checking their impulse we will at least restrain to some extent the bitterness of their power—especially since, as you yourself say, Aristaenus, the Romans up to the present care greatly for keeping oaths, treaties, and faith with allies.
+[...] even if they issue commands [...] and by reminding them of these considerations and checking their impulse we will at least restrain to some extent the bitterness of their power—especially since, as you yourself say, Aristaenus, the Romans up to the present care greatly for keeping oaths, treaties, and faith with allies.
 
 But if we ourselves condemn our own rights from the outset and immediately, like men taken by the spear, present ourselves as ready for everything commanded, what difference will there be between the Achaean nation and the Sicilians or the Capuans, who have long been acknowledged slaves?
 
@@ -230,7 +230,7 @@ When they reached Galatia they no longer found Leocritus there. Cassignatus and 
 
 But Eumenes and his party rejected them because of their earlier disloyalty, and then advanced with their entire army against Pharnaces.
 
-Starting from Calpitus, they reached the river Halys on the fifth day, and after six more days’ march they moved on to Parnassus.
+Starting from Calpitus, they reached the river Halys on the fifth day, and on the sixth day they marched on again to Parnassus.
 
 There Ariarathes, king of the Cappadocians, joined them with his own forces, and together they entered the territory of the Mocissi.
 

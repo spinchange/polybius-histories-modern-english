@@ -1,0 +1,11 @@
+{"batch":"sonnet_091","units":[
+{"book":14,"chapter":"7","verdict":"CLEAN","findings":[],"note":""},
+{"book":14,"chapter":"8","verdict":"UNSURE","findings":[],"note":"Greek as printed: 'οἱ Νομάδες ἐνέκλιναν τοὺς Ἰταλικοὺς ἱππεῖς, οἵ τε Καρχηδόνιοι τοὺς περὶ τὸν Μασαννάσαν' - ἐνέκλιναν with accusative objects is transitive, i.e. the Numidians (and Carthaginians) pushed back the Italian cavalry (and Masinissa's men); the English reverses subject and object ('the Numidians gave way before the Italian cavalry'). The English agrees with the narrative that follows (wings broken, Celtiberians surrounded) and with Livy, so the Greek word order/case may be corrupt or the text transposed; ἅτε ... προηττημένοι ταῖς ψυχαῖς also fits only the side that is routed. Genuine conflict between the Greek as printed and the context; no fix proposed, human decision needed. Also minor: 'παρενέβαλε' (drew up) rendered 'pitched camp' - ambiguous, not flagged."},
+{"book":14,"chapter":"9","verdict":"FINDINGS","findings":[
+{"quote":"they should omit no extreme measure in testing even this hope","problem":"μηδεμίαν ὑπερβολὴν ποιησαμένους ἐξελέγχειν καὶ ταύτην τὴν ἐλπίδα: ὑπερβολή here means delay/postponement (ὑπερβολὴν ποιεῖσθαι), not an extreme measure; the sense is 'without any delay put even this hope to the test'.","proposed_fix":"they should, without any delay, put even this hope to the test","touches_syntax":false,"confidence":"high"},
+{"quote":"give him no time to recover his wits or prepare","problem":"μὴ δοῦναι χρόνον εἰς ἐπίστασιν καὶ παρασκευήν: ἐπίστασις is halting/making a stand, not recovering wits.","proposed_fix":"give him no time to make a stand or prepare","touches_syntax":false,"confidence":"medium"}
+],"note":"Closing 'they ratified [...]' joins ch. 10 'πάσας ἐκύρωσαν | ἅμα τὰς γνώμας' - seam, not a smoothed lacuna."},
+{"book":14,"chapter":"10","verdict":"CLEAN","findings":[],"note":""},
+{"book":14,"chapter":"11","verdict":"CLEAN","findings":[],"note":""},
+{"book":14,"chapter":"12","verdict":"CLEAN","findings":[],"note":""}
+]}

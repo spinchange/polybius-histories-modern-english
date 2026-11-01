@@ -38,7 +38,7 @@ A further clause imposed on Mithridates, the satrap of Armenia, a payment of thr
 
 Included in the treaty, among the dynasts of Asia, were Artaxias, ruler of the greater part of Armenia, and Acusilochus; and among those in Europe, Gatalus the Sarmatian; and among the autonomous communities, the people of Heraclea, the Mesembrians, the people of the Chersonese, and along with them the Cyzicenes.
 
-Finally, the treaty specified how many hostages Pharnaces must give and who they were to be; and when these also had arrived, the armies broke up and marched away from the place.
+Finally, the treaty specified how many hostages Pharnaces must give and who they were to be; and when these also had arrived, the armies at once broke camp and withdrew.
 
 Such was the outcome of the war waged by Eumenes and Ariarathes against Pharnaces.
 
@@ -82,7 +82,7 @@ For the Romans seemed to be acting as umpires between the Rhodians and the Lycia
 
 For a short time before this the Rhodians had conspicuously displayed, with great magnificence, the full strength of all the vessels they possessed.
 
-A large supply of timber for shipbuilding had in fact been furnished to the Rhodians by Perseus, and he had also presented a gold headband to each of the upper-deck rowers who had recently escorted his bride Laodice.
+A large supply of timber for shipbuilding had in fact been furnished to the Rhodians by Perseus, and he had also presented a gold headband to each of the sailors of the undecked ships who had recently escorted his bride Laodice.
 
 ## Book 25 Chapter 5: Lycians Revolt Again
 
@@ -96,7 +96,7 @@ As soon as the Romans arrived and made this declaration to the Rhodians, the Lyc
 
 The Rhodians, however, after hearing the envoys and concluding that the Romans had been deceived by the Lycians, at once appointed Lycophron and his colleagues as ambassadors to instruct the senate on the points just mentioned.
 
-That was the state of the matter at the time, when it still did not seem likely that the Lycians would once again revolt.
+That was the state of the matter at the time, when the Lycians seemed on the point of rising again.
 
 ## Book 25 Chapter 6: The Dardanian Envoys Complain about Perseus
 

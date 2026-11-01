@@ -1,0 +1,15 @@
+{"batch":"sonnet_144","units":[
+{"book":33,"chapter":"14","verdict":"CLEAN","findings":[],"note":"ἀνακεκλημένων (recalled/summoned back) rendered 'detained men'; context-dependent, left as is."},
+{"book":33,"chapter":"15","verdict":"CLEAN","findings":[],"note":""},
+{"book":33,"chapter":"16","verdict":"CLEAN","findings":[],"note":""},
+{"book":33,"chapter":"17","verdict":"CLEAN","findings":[],"note":""},
+{"book":33,"chapter":"18","verdict":"FINDINGS","findings":[
+{"quote":"summoning prominent men to join him; and when he arrived at Ephesus","problem":"Greek has a lacuna: τῶν ἐπιφανῶν ἀνδρῶν *** ἀφικόμενος δ᾽ εἰς τὴν Ἔφεσον. The English reads on as if the text were whole.","proposed_fix":"summoning prominent men [text missing] and, on arriving at Ephesus","touches_syntax":false,"confidence":"high"},
+{"quote":"since they were the legitimate offspring of King Antiochus","problem":"οὖσιν Ἀντιόχου τοῦ βασιλέως ἐκγόνοις κατὰ φύσιν: 'descendants by birth/nature' (the claim is ironic in Polybius); 'legitimate' is not in the Greek (that would be κατὰ νόμον).","proposed_fix":"since they were, by birth, the offspring of King Antiochus","touches_syntax":false,"confidence":"medium"}
+],"note":""},
+{"book":33,"chapter":"19","verdict":"FINDINGS","findings":[
+{"quote":"He also says that Demetrius—the man who escaped from his hostage life at Rome and became king of Syria in his thirty-third year—was a heavy drinker","problem":"ἐν τῇ τρίτῃ καὶ τριακοστῇ is the book number attached to φησι (he says in the thirty-third book), not a regnal year; βασιλεύσαντα Σύρων just means 'who became king of the Syrians'.","proposed_fix":"He also says in the thirty-third book that Demetrius—the man who escaped from his hostage life at Rome and became king of Syria—was a heavy drinker","touches_syntax":true,"confidence":"medium"}
+],"note":"Text is Athenaeus's excerpt with corrupt-looking 'ἐκ τῆς Ῥώμη'; the book-number reading is the natural one."},
+{"book":33,"chapter":"20","verdict":"CLEAN","findings":[],"note":""},
+{"book":33,"chapter":"21","verdict":"CLEAN","findings":[],"note":""}
+]}

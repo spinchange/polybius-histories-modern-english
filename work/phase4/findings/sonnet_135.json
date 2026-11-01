@@ -1,0 +1,19 @@
+{"batch":"sonnet_135","units":[
+{"book":30,"chapter":"8","verdict":"CLEAN","findings":[],"note":""},
+{"book":30,"chapter":"9","verdict":"CLEAN","findings":[],"note":""},
+{"book":30,"chapter":"10","verdict":"CLEAN","findings":[],"note":""},
+{"book":30,"chapter":"11","verdict":"CLEAN","findings":[],"note":""},
+{"book":30,"chapter":"12","verdict":"CLEAN","findings":[],"note":"ἐφ᾽ ὅσον ... ἐπὶ τοσοῦτον correctly rendered."},
+{"book":30,"chapter":"13","verdict":"CLEAN","findings":[],"note":""},
+{"book":30,"chapter":"14","verdict":"CLEAN","findings":[],"note":""},
+{"book":30,"chapter":"15","verdict":"CLEAN","findings":[],"note":"πέντε δὲ καὶ δέκα μυριάδας = 150,000, correct."},
+{"book":30,"chapter":"16","verdict":"CLEAN","findings":[],"note":""},
+{"book":30,"chapter":"17","verdict":"CLEAN","findings":[],"note":""},
+{"book":30,"chapter":"18","verdict":"FINDINGS","findings":[
+{"quote":"Then, when he made his entrance into the senate","problem":"The Greek has a gap (***) immediately before 'τότε δὲ κατὰ τὴν εἴσοδον γενόμενος τὴν εἰς τὴν σύγκλητον'; the English opens with 'Then' as if the text were continuous. The lacuna is silently smoothed.","proposed_fix":"[...] Then, when he made his entrance into the senate","touches_syntax":false,"confidence":"medium"}
+],"note":"Lacuna marker only; no text invented."},
+{"book":30,"chapter":"19","verdict":"FINDINGS","findings":[
+{"quote":"Because they were generally displeased by visits from kings, they issued a decree","problem":"'ὡς γὰρ καθόλου δυσαρεστούμενοι ταῖς τῶν βασιλέων ἐπιδημίαις δόγμα τι τοιοῦτον ἐξέβαλον': ὡς + participle gives the senate's alleged ground (as though displeased in general), a pretext cloaking its particular hostility to Eumenes, not a stated real cause. English turns it into a flat 'because'.","proposed_fix":"On the pretext of a general displeasure at visits from kings, they issued a decree","touches_syntax":true,"confidence":"medium"},
+{"quote":"the senate dealt with all who had arrived on embassies","problem":"Greek 'λοιπὸν ἡ σύγκλητος ἅπασιν τοῖς παραγεγονόσι κατὰ πρεσβείαν:' has no governing verb (colon follows directly); a verb has dropped out or the text is defective. English supplies 'dealt with' without marking it.","proposed_fix":"the senate [verb missing in the Greek; sense presumably 'gave audience to'] all who had arrived on embassies","touches_syntax":false,"confidence":"low"}
+],"note":"Second finding is a probable gap/ellipsis in the transmitted text; do not resolve beyond a bracketed mark."}
+]}

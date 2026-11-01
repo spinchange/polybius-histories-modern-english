@@ -1,0 +1,9 @@
+{"batch":"sonnet_041","units":[
+{"book":4,"chapter":"28","verdict":"CLEAN","findings":[],"note":""},
+{"book":4,"chapter":"29","verdict":"CLEAN","findings":[],"note":""},
+{"book":4,"chapter":"30","verdict":"CLEAN","findings":[],"note":""},
+{"book":4,"chapter":"31","verdict":"CLEAN","findings":[],"note":""},
+{"book":4,"chapter":"32","verdict":"FINDINGS","findings":[{"quote":"although they had many opportunities and favourable moments, they let them slip, and at times escaped from fears and dangers as well","problem":"Greek: πολλὰς μὲν περιστάσεις καὶ καιροὺς ἔχοντες, ἐνίοτε δὲ φόβους καὶ κινδύνους διωλίσθανον. The περιστάσεις and καιροί are critical, dangerous junctures (parallel to φόβους καὶ κινδύνους), not opportunities; διολισθάνω means they slipped through/out of them. English reverses this into missed opportunities.","proposed_fix":"although they often found themselves in critical straits and junctures, and at times in fears and dangers, they slipped through","touches_syntax":false,"confidence":"medium"}],"note":"Also: the 'the one ... the other' for Arcadians/Laconians (τοῦ μὲν ... τοῦ δὲ) follows the Greek's own loose order; the following clause makes clear Sparta is hostile. Left alone."},
+{"book":4,"chapter":"33","verdict":"CLEAN","findings":[],"note":""},
+{"book":4,"chapter":"34","verdict":"CLEAN","findings":[],"note":"Lacuna after προσῄει τοῖς ἐφόροις is marked [...] in English; end-of-chapter gap also marked."}
+]}

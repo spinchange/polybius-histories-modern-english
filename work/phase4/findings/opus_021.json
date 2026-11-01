@@ -1,0 +1,12 @@
+{"batch":"opus_021","units":[
+{"book":10,"chapter":"2","verdict":"CLEAN","findings":[],"note":""},
+{"book":10,"chapter":"3","verdict":"FINDINGS","findings":[
+{"quote":"he was in his eighteenth year","problem":"Greek ἑπτακαιδέκατον ἔτος ἔχων = 'in his seventeenth year'; the English number is off by one.","proposed_fix":"he was in his seventeenth year","touches_syntax":false,"confidence":"high"}
+],"note":"Textual crux, no fix proposed: the transmitted text (λοιπὸν ἤδη πάντως αὑτὸν ἐδίδου ... εἰς τοὺς κατ᾽ ἰδίαν κινδύνους, ὅτ᾽ εἰς αὐτὸν ἀναρτηθεῖεν ... αἱ τῶν ὅλων ἐλπίδες) has no negation, and the English follows it literally ('always gave himself without reserve to personal danger'). But the next clause ('the mark not of a commander trusting to luck, but of one with a mind') seems to need the opposite sense, and Paton and Shuckburgh both translate as if a negation were there ('never exposed his person without good reason'). Editors should decide whether to follow an emended text or footnote the difficulty. The current English is faithful to the Greek as printed."},
+{"book":10,"chapter":"4","verdict":"CLEAN","findings":[],"note":""},
+{"book":10,"chapter":"5","verdict":"CLEAN","findings":[],"note":""},
+{"book":10,"chapter":"6","verdict":"FINDINGS","findings":[
+{"quote":"instead devised and proposed actions that the enemy themselves did not anticipate.","problem":"The Greek has a lacuna: τὰ δὲ μήτε παρὰ τοῖς πολεμίοις *, ταῦτ᾽ ἐπενόει. The μήτε correlative ('neither among the enemy ... nor ...') is cut off by the gap. The English smooths over it, inventing 'did not anticipate' and dropping the 'neither' construction.","proposed_fix":"instead devised and proposed actions that neither among the enemy … [the Greek text has a gap here] …","touches_syntax":true,"confidence":"high"}
+],"note":"'At only twenty-seven years of age' (ἔτος ἕβδομον ἔχων πρὸς τοῖς εἴκοσι, literally 'in his twenty-seventh year') follows the usual rendering, so it is not flagged. It is inclusive counting, the same idiom as ch. 3."},
+{"book":10,"chapter":"7","verdict":"CLEAN","findings":[],"note":"The Greek in this unit stops mid-sentence at ταῖς αὐταῖς Γναΐῳ τῷ θείῳ; the English finishes the sentence ('and his father Publius might happen to him as well'). This is probably a chapter-boundary split rather than a lacuna. Check at the seam that ch. 8 does not repeat the completion."}
+]}

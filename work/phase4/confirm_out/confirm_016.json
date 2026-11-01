@@ -1,0 +1,13 @@
+[
+{"id":"F0117","verdict":"ACCEPT","fix":"regarding nothing as friendly and everything as hostile","reason":"οἰκεῖον vs πολέμια is friendly/kindred vs hostile; English invented 'belonging to others' and 'plunder'."},
+{"id":"F0119","verdict":"ACCEPT","fix":"saying that it was not possible to admit anyone without Philip and the allies","reason":"χωρὶς Φιλίππου = without (the consent of) Philip; 'apart from' reads as an exception, inverting sense."},
+{"id":"F0121","verdict":"ACCEPT","fix":"The king spoke last of all","reason":"ἐπὶ πᾶσιν = last after all the others; the opinion is ratified only later (ἐπικυρωθείσης)."},
+{"id":"F0122","verdict":"REVISE","fix":"they slipped through many critical situations and junctures, and at times through fears and dangers as well","reason":"περιστάσεις/καιροί are crises, objects of διωλίσθανον like φόβους/κινδύνους; not missed opportunities. Fix fits 'Because of this,' prefix."},
+{"id":"F0124","verdict":"REVISE","fix":"opposite it there has formed, over a stretch of nearly a thousand stades, a long bank, lying a day’s sail out from the shore","reason":"ἐπὶ χίλια στάδια is the bank's extent, not its distance; πρὸς τοῦτον kept as 'opposite it'."},
+{"id":"F0125","verdict":"REVISE","fix":"The war of the Rhodians against the Byzantines, then—","reason":"Greek has only the subject; predicate begins ch. 50 ('This was how it came about'). 'Such was' supplies an invented predicate."},
+{"id":"F0128","verdict":"ACCEPT","fix":"[...] of the Olympiad.","reason":"Greek is only ὀλυμπιάδος, completing ch. 66's broken 'first year of the present [...]'; 'drawing to a close' invented."},
+{"id":"F0129","verdict":"ACCEPT","fix":"Pythias of Pellene","reason":"Πελληνεύς is a man of Achaean Pellene, not Pallene."},
+{"id":"F0130","verdict":"ACCEPT","fix":"Proslaus of Sicyon","reason":"Greek Πρόσλαον = Proslaus."},
+{"id":"F0131","verdict":"REVISE","fix":"the Eleans inhabit it to an exceptional degree","reason":"Seam: ch. 74 'As for their country ... remain[ing]' + οἰκοῦσι διαφερόντως Ἠλεῖοι; 'among them' and 'well off' invented. 'It' = the country."},
+{"id":"F0132","verdict":"ACCEPT","fix":"but then Fortune turned against them","reason":"Genitive absolute after Leuctra; 'after whom' wrongly gives a personal antecedent."}
+]

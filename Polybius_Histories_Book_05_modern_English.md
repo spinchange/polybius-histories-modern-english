@@ -122,9 +122,9 @@ After traversing it and anchoring shortly before daybreak near the place called 
 
 He himself gathered the guides and questioned them closely about the country and the neighboring towns.
 
-## Book 5 Chapter 6: Aristophanes the Acarnanian Joins Forces with Philip
+## Book 5 Chapter 6: Aristophantus the Acarnanian Joins Forces with Philip
 
-At this time Aristophanes the general arrived, bringing the Acarnanians in full force. Because they had suffered many terrible wrongs from the Aetolians in earlier years, they were eager to avenge themselves in every possible way and to harm the Aetolians.
+At this time Aristophantus the general arrived, bringing the Acarnanians in full force. Because they had suffered many terrible wrongs from the Aetolians in earlier years, they were eager to avenge themselves in every possible way and to harm the Aetolians.
 
 So they gladly seized this chance of Macedonian support and came under arms, not only those whom the law required to serve, but even some older men as well.
 
@@ -266,7 +266,7 @@ Philip—for I had digressed from this point—took from Thermus as much plunder
 
 He was eager to get through the difficult ground as quickly as possible, because he expected that the Aetolians, trusting in the strength of the terrain, would attack his rear.
 
-And that is exactly what happened at once. For the Aetolians had come up to help and had gathered in a force of nearly three thousand. As long as Philip remained on the heights they did not come near, but stayed concealed in certain hidden places under the command of Alexander of Trichonium. But as soon as the rear began to move, they immediately fell upon it from the direction of Thermus and pressed hard on the last men in the column.
+And that is exactly what happened at once. For the Aetolians had come up to help and had gathered in a force of nearly three thousand. As long as Philip remained on the heights they did not come near, but stayed concealed in certain hidden places under the command of Alexander of Trichonium. But as soon as the rear began to move, they immediately burst into Thermus and pressed hard on the last men in the column.
 
 As confusion arose around the rear, the Aetolians attacked with even greater boldness and came to close quarters, relying on the ground.
 
@@ -338,9 +338,9 @@ When he met him, he demanded to know who had dared to lay hands on Megaleas and 
 
 But when the king answered firmly that he himself had given the order, Leontius was taken aback, let out some cry of vexation, and went away in anger.
 
-The king then put to sea with the whole fleet, crossed the gulf, and came to anchor at Leucas as quickly as possible. There he instructed the officers appointed to manage the spoil not to delay in carrying out that business; then he gathered his friends and brought the case of Megaleas to judgment.
+The king then put to sea with the whole fleet, crossed the gulf, and as soon as he had anchored at Leucas he instructed the officers appointed to manage the spoil not to delay in carrying out that business; then he gathered his friends and brought the case of Megaleas to judgment.
 
-Aratus, in his speech for the prosecution, set out from the beginning the conduct of Leontius and his circle, going through the massacre they had committed at Argos after the departure of Antigonus, their agreements with Apelles, and also the obstruction they had caused in the affair of the people of Palairos.
+Aratus, in his speech for the prosecution, set out from the beginning the conduct of Leontius and his circle, going through the massacre they had committed at Argos after the departure of Antigonus, their agreements with Apelles, and also the obstruction they had caused in the affair of the Paleis.
 
 As he presented all this with proof and witnesses, Megaleas and his associates were unable to answer a single point, and were unanimously condemned by the king’s friends.
 
@@ -502,7 +502,7 @@ And about this time Philip gained an acknowledged advantage, and after joining i
 
 As the day was already drawing on, he was forced to encamp where he was, so he made camp near the exit from the pass, his officers having by chance chosen such a place as no one could have found a better for making an invasion into Laconia right by the city itself.
 
-For at the beginning of the pass just mentioned, when one approaches Sparta from Tegea or generally from the inland country, there is a place at most two stades from the city and situated directly on the river.
+For at the beginning of the pass just mentioned, when one approaches Sparta from Tegea or generally from the inland country, there is a place about two stades from the city and situated directly on the river.
 
 Its side facing the city and the river is entirely enclosed by a great sheer cliff that is completely inaccessible; but the ground above these precipices is level, fertile, and well watered, and at the same time conveniently situated for the entrance and exit of forces.
 
@@ -586,7 +586,7 @@ The king, however, angered by the zeal shown by the peltasts, put Leontius to de
 
 ## Book 5 Chapter 28: Death of Megaleas
 
-The ambassadors from Rhodes and Chios returned from Aetolia, having arranged a truce of thirty days and reporting that the Aetolians were ready for a settlement, and having fixed a definite day on which they asked Philip to meet them at Rhium, promising that they would bring the Aetolians to agree to whatever was necessary for making peace.
+The ambassadors from Rhodes and Chios returned from Aetolia, having arranged a truce of thirty days and reporting that the Aetolians were ready for a settlement, and having fixed a definite day on which they asked Philip to meet them at Rhium, promising that the Aetolians would do everything required to conclude the peace.
 
 Philip accepted the truce and wrote to the allies, instructing them to send to Patrae the men who were to sit in council and deliberate on a settlement with the Aetolians; he himself sailed from Lechaeum and reached Patrae on the second day.
 
@@ -604,7 +604,7 @@ So these men met the ruin they deserved and passed from life, especially because
 
 ## Book 5 Chapter 29: Disturbed State of Achaea
 
-The Aetolians, who had been hoping to exploit the situation in their own favor, were now eager to conclude peace because the war was weighing them down and events had gone in a way they had not expected.
+The Aetolians, for their part, were eager to conclude peace because the war was weighing them down and events had gone in a way they had not expected.
 
 For they had assumed that, because of Philip’s youth and inexperience, they would be dealing with a mere child; instead they found him fully grown, not only in the boldness of his plans but in the way he carried them out, while they themselves showed how contemptible and childish they were in both the details and the overall conduct of the war.
 
@@ -1064,7 +1064,7 @@ At first they engaged and tested each other; but when the armies on both sides c
 
 When night fell, Molon reflected that for rebels fighting kings, a battle in daylight and face to face was dangerous and a disadvantage; so he resolved to attack Antiochus by night.
 
-Selecting from the whole camp the men best suited for the task and in the prime of strength, he made a circuit by certain routes, intending to launch his attack from higher ground on the right.
+Selecting from the whole camp the men best suited for the task and in the prime of strength, he made a circuit by certain routes, intending to launch his attack from higher ground.
 
 But during the march he learned that ten young men had deserted in a body to Antiochus, and so he abandoned this plan.
 
@@ -1136,7 +1136,7 @@ Yet when news came that a son had been born to the king, he reasoned that Antioc
 
 He was convinced that, if Antiochus were removed, he himself, as guardian of the child, would hold power over the kingdom.
 
-Once this had been decided, they crossed the Zagros and invaded the territory of Artabazanes, which borders on Media, being separated from it by the mountain chain that lies between; while farther north some parts of it look toward the Pontus in the region above the Phasis, and it stretches to the Hyrcanian Sea.
+Once this had been decided, they crossed the Zagros and invaded the territory of Artabazanes, which borders on Media, being separated from it by the mountain chain that lies between; while above it lie some parts of the Pontus, in the region beyond the Phasis, and it stretches to the Hyrcanian Sea.
 
 It contains a large population of brave men, especially cavalry, and it is self-sufficient in the other equipment needed for war as well.
 
@@ -1178,7 +1178,7 @@ At the same time in Apamea the women stoned Hermeias’ wife to death, and the b
 
 ## Book 5 Chapter 57: Achaeus Attempts Treason
 
-When Antiochus had returned home and distributed his troops into winter quarters, he kept sending messages to Achaeus, reproaching him first for having dared to put on the diadem and act as king, and second for warning him that his dealings with Ptolemy and, in general, his excessive agitation had not escaped notice.
+When Antiochus had returned home and distributed his troops into winter quarters, he kept sending messages to Achaeus, reproaching him first for having dared to put on the diadem and act as king, and second warning him that his dealings with Ptolemy and, in general, his excessive agitation had not escaped notice.
 
 For while the king was campaigning against Artabazanes, Achaeus had convinced himself that Antiochus might suffer some disaster; and even if he did not, Achaeus hoped that, because of the great distance, he would be able to forestall him by invading Syria and, using the Cyrrhestians who had revolted from the king as his allies, quickly gain control of the kingdom’s affairs. With this in mind he set out from Lydia with his whole army.
 
@@ -1362,7 +1362,7 @@ Such, then, in its numbers and in the variety of its components, was the force b
 
 ## Book 5 Chapter 66: Antiochus Puts his Troops in Winter Quarters
 
-such was its character. Antiochus, meanwhile, having undertaken the siege of the city called Dura, was unable to make any progress, both because of the strength of the place and because of the relief brought up by Nicolaus and his men.
+such was its character. Antiochus, meanwhile, having undertaken the siege of the city called Dora, was unable to make any progress, both because of the strength of the place and because of the relief brought up by Nicolaus and his men.
 
 As winter was now setting in, he agreed to the proposals of Ptolemy’s envoys: to make a four-month truce and to come to terms on every point in a friendly spirit regarding the whole dispute.
 
@@ -1756,7 +1756,7 @@ Then, near daybreak, he led out the surviving portion of his army and pushed on 
 
 Of Antiochus’s men the dead numbered not much short of ten thousand infantry and more than three hundred cavalry, while over four thousand were taken alive.
 
-Of his elephants, three died on the spot and two from their wounds. On Ptolemy’s side about fifteen hundred infantry were killed and about seven hundred cavalry; sixteen of his elephants died, but most of them were recaptured.
+Of his elephants, three died on the spot and two from their wounds. On Ptolemy’s side about fifteen hundred infantry were killed and about seven hundred cavalry; sixteen of his elephants died, and most of them were captured.
 
 Such, then, was the outcome of the battle fought at Raphia between the kings over Coele-Syria.
 
@@ -1820,7 +1820,7 @@ Let this, then, be said by me with a twofold purpose: first, for the sake of the
 
 ## Book 5 Chapter 91: Lycurgus Returns to Sparta
 
-Just as the summer season was setting in, with Agetas serving as Strategus of the Aetolians and Aratus having taken over the strategia of the Achaeans—for it was at this point that we broke off into our account of the Social War—Lycurgus the Spartan returned once more from Aetolia.
+Just as the summer season was setting in, with Agetas serving as Strategus of the Aetolians and Aratus having taken over the strategia of the Achaeans—for it was at this point that we broke off our account of the Social War—Lycurgus the Spartan returned once more from Aetolia.
 
 For the ephors, having found false the slander on account of which he had fled, sent for Lycurgus and recalled him once again.
 

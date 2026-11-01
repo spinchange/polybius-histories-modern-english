@@ -1,0 +1,5 @@
+[
+{"id":"F0326","verdict":"ACCEPT","fix":"the armies at once broke camp and withdrew","reason":"ἐξ αὐτῆς is the idiom 'immediately'; ἀνέζευξαν means broke camp. 'From the place' misreads it."},
+{"id":"F0327","verdict":"REVISE","fix":"each of the sailors of the undecked ships","reason":"ἀφρακτῖται are men serving in undecked (aphract) ships, not upper-deck rowers. The gift went to each man, so 'sailors' rather than 'crews'."},
+{"id":"F0328","verdict":"ACCEPT","fix":"when the Lycians seemed on the point of rising again","reason":"ὅσον οὔπω means 'all but, on the point of'. The current English reverses the sense."}
+]

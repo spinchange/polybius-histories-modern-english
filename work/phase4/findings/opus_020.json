@@ -1,0 +1,13 @@
+{"batch":"opus_020","units":[
+{"book":9,"chapter":"22","verdict":"CLEAN","findings":[],"note":"[πρεσβύτου] before Μάγωνος is bracketed by the editor; omission in English is correct."},
+{"book":9,"chapter":"23","verdict":"CLEAN","findings":[],"note":""},
+{"book":9,"chapter":"24","verdict":"FINDINGS","findings":[
+ {"quote":"Hannibal could say nothing against the daring and practical force of the proposal","problem":"The Greek marks a gap after Monomachus' proposal (συνήθεις. ... Ἀννίβας δὲ πρὸς μὲν τὸ τόλμημα); the English runs straight on as if continuous.","proposed_fix":"[...] Hannibal could say nothing against the daring and practical force of the proposal","touches_syntax":false,"confidence":"medium"}
+],"note":"οὐχ ἧττον δὲ καὶ τῶν περιστάσεων = 'and no less of circumstances'; current 'as well' is weaker but not inverted, so not flagged."},
+{"book":9,"chapter":"25","verdict":"FINDINGS","findings":[
+ {"quote":"these men had divided their operations between themselves in a very grand fashion, and although","problem":"γενναιότατα κεκοινωνηκότας ἑαυτοῖς πραγμάτων = 'had been partners with each other in affairs most loyally'. κοινωνέω means to share or be partners, not to divide. 'Divided' cancels the contrast the Greek draws: they had been partners since youth, yet they never took part in the same operation.","proposed_fix":"these men had been partners in affairs with each other most loyally, and although","touches_syntax":false,"confidence":"medium"},
+ {"quote":"And I heard it even more precisely from Masannasus, who","problem":"The Greek has a gap marker after Μασαννάσου (Μασαννάσου... ἀκριβέστερον διήκουσα); the English reads on as though the text were whole. The sense still holds, so this may be a minor gap only.","proposed_fix":"And I heard it even more precisely from Masannasus [...], who","touches_syntax":false,"confidence":"low"}
+],"note":""},
+{"book":9,"chapter":"26","verdict":"CLEAN","findings":[],"note":""},
+{"book":9,"chapter":"26a","verdict":"CLEAN","findings":[],"note":"The numbers check out (50/48 stades, double; 40 vs 100 stades). The closing lacuna is already marked [...]."}
+]}

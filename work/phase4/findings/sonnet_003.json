@@ -1,0 +1,8 @@
+{"batch":"sonnet_003","units":[
+{"book":1,"chapter":"19","verdict":"CLEAN","findings":[],"note":""},
+{"book":1,"chapter":"20","verdict":"FINDINGS","findings":[{"quote":"the Eleans and Neapolitans","problem":"Greek has Ἐλεατῶν, the people of Elea (Velia) in Italy alongside Tarentines, Locrians and Neapolitans; 'Eleans' means the people of Elis in the Peloponnese, a different place.","proposed_fix":"the people of Elea and the Neapolitans","touches_syntax":false,"confidence":"high"}],"note":"Chapter ends in a lacuna/cut (ἂν ἐκωλύ-); English marks it with [...]. Fine."},
+{"book":1,"chapter":"21","verdict":"CLEAN","findings":[],"note":""},
+{"book":1,"chapter":"22","verdict":"FINDINGS","findings":[{"quote":"twenty-four feet high and a foot wide in diameter","problem":"Greek: κατὰ δὲ τὸ πλάτος τριῶν παλαιστῶν ἔχων τὴν διάμετρον, i.e. three palms in diameter (about nine inches), not a foot.","proposed_fix":"twenty-four feet high and three palms (about nine inches) in diameter","touches_syntax":false,"confidence":"medium"}],"note":"The Greek has Γάιον Βίλιον (a manuscript corruption of Duilius); English 'Gaius Duilius' is the correct identity. Bracketed closing clause is supplied from the next chapter's opening and is marked as such."},
+{"book":1,"chapter":"23","verdict":"CLEAN","findings":[],"note":""},
+{"book":1,"chapter":"24","verdict":"CLEAN","findings":[],"note":""}
+]}

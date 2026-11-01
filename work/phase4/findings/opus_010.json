@@ -1,0 +1,7 @@
+{"batch":"opus_010","units":[
+{"book":6,"chapter":"6","verdict":"CLEAN","findings":[],"note":"Greek opens with seam fragment 'δὲ καὶ τῶν ἐναντίων τούτοις' belonging to ch. 5; not a translation error here."},
+{"book":6,"chapter":"7","verdict":"FINDINGS","findings":[
+{"quote":"they came to think that their rulers ought to have distinctive clothing","problem":"ὑπέλαβον δεῖν ἔχειν τοὺς ἡγουμένους τῶν ὑποταττομένων ἐξάλλους ἐσθῆτας: the hereditary kings themselves think that rulers should have dress distinct from (genitive of comparison) that of the subjects. 'their rulers' makes the kings' rulers the object and drops the contrast with the subjects.","proposed_fix":"they came to think that rulers ought to have clothing distinct from that of their subjects","touches_syntax":false,"confidence":"medium"}],"note":""},
+{"book":6,"chapter":"8","verdict":"CLEAN","findings":[],"note":""},
+{"book":6,"chapter":"9","verdict":"CLEAN","findings":[],"note":"Greek opens with seam tail 'μασιν' (ἀτυχήμασιν), already rendered at end of ch. 8."}
+]}

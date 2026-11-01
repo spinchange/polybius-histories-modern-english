@@ -1,0 +1,12 @@
+{"batch":"opus_005","units":[
+{"book":3,"chapter":"50","verdict":"CLEAN","findings":[],"note":""},
+{"book":3,"chapter":"51","verdict":"CLEAN","findings":[],"note":""},
+{"book":3,"chapter":"52","verdict":"FINDINGS","findings":[
+ {"quote":"and attacked, [seizing] a certain gorge that was hard to pass and ringed with cliffs [...]",
+  "problem":"There is no lacuna. The Greek sentence carries across the chapter break: ἐπιτίθενται, φάραγγά τινα δύσβατον καὶ κρημνώδη | (53.1) περαιουμένων αὐτῶν, 'they attack them while they were crossing a certain gorge, hard to pass and precipitous'. The accusative φάραγγα is the object of περαιουμένων. Nothing in the Greek means 'seizing'; the bracketed verb is made up to fill a gap that is not there. Chapter 53 already renders περαιουμένων ('While they were crossing'), so chapter 52 only needs the attack and the place.",
+  "proposed_fix":"and attacked them in a certain gorge that was hard to pass and ringed with cliffs [...]",
+  "touches_syntax":false,"confidence":"high"}],
+ "note":"The closing [...] is kept as the seam marker that runs into 53.1 (περαιουμένων αὐτῶν). Only the invented '[seizing]' is removed."},
+{"book":3,"chapter":"53","verdict":"CLEAN","findings":[],"note":"Last clause 'and rejoined the column' translates καὶ συνάψαι πρὸς τὴν παρεμβολήν, which stands at the start of the Greek of ch. 54 (παρεμβολή = camp). Chapter 54 renders the same clause again; see note there."},
+{"book":3,"chapter":"54","verdict":"CLEAN","findings":[],"note":"The opening '[...] and rejoined the camp.' repeats the clause chapter 53 already renders. It is a seam duplication, not a lacuna or a sense error, so it is left for the apparatus/seam pass. τρί᾽ ἡμιστάδια = 1.5 stades is correct."}
+]}

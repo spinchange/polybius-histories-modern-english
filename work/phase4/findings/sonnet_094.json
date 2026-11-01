@@ -1,0 +1,10 @@
+{"batch":"sonnet_094","units":[
+{"book":15,"chapter":"27","verdict":"CLEAN","findings":[],"note":""},
+{"book":15,"chapter":"28","verdict":"FINDINGS","findings":[{"quote":"escaped half naked into a tent","problem":"Greek says παρέπεσε γυμνὸς εἴς τινα σκηνήν: simply 'naked' (stripped), no 'half'; the English itself later says 'saw him naked' for ὁρῶντες αὐτὸν γυμνόν.","proposed_fix":"escaped naked into a tent","touches_syntax":false,"confidence":"low"}],"note":"Chapter ends mid-sentence by edition split (ἀκμάζειν δὲ νῦν μά|λιστα); not a lacuna."},
+{"book":15,"chapter":"29","verdict":"FINDINGS","findings":[{"quote":"Moeragenes said that what was chiefly needed was only someone to take the lead.","problem":"The sentence continues from ch. 28: ἀκμάζειν δὲ νῦν μάλιστα καὶ προσδεῖσθαι τῶν καταρξομένων. μάλιστα belongs with ἀκμάζειν (already rendered 'now in full strength'); the second clause is just 'and it wanted [only] those who would begin'. 'chiefly needed' misplaces μάλιστα.","proposed_fix":"Moeragenes said that it also still needed people to make the start.","touches_syntax":false,"confidence":"low"}],"note":""},
+{"book":15,"chapter":"30","verdict":"CLEAN","findings":[],"note":""},
+{"book":15,"chapter":"31","verdict":"CLEAN","findings":[],"note":"καθ᾽ ὅσον … κατὰ τοσοῦτον correctly rendered 'to the same degree'."},
+{"book":15,"chapter":"32","verdict":"CLEAN","findings":[],"note":""},
+{"book":15,"chapter":"33","verdict":"CLEAN","findings":[],"note":"τριταῖον ἀπὸ Κυρήνης ('on the third day from Cyrene') is slightly ambiguous; 'three days earlier' is an acceptable reading, so no fix. ἀντίπαιδα = nearly a boy, 'little son' is loose but not in scope."},
+{"book":15,"chapter":"34","verdict":"CLEAN","findings":[],"note":""}
+]}

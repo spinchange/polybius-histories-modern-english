@@ -1,0 +1,9 @@
+{"batch":"sonnet_015","units":[
+{"book":2,"chapter":"8","verdict":"CLEAN","findings":[],"note":""},
+{"book":2,"chapter":"9","verdict":"CLEAN","findings":[],"note":"Greek breaks off at ἐπὶ τῆς Κερ-; English marks the gap with [...]."},
+{"book":2,"chapter":"10","verdict":"CLEAN","findings":[],"note":"Greek opens mid-word (κύρας); English opens mid-sentence accordingly."},
+{"book":2,"chapter":"11","verdict":"CLEAN","findings":[],"note":""},
+{"book":2,"chapter":"12","verdict":"CLEAN","findings":[],"note":""},
+{"book":2,"chapter":"13","verdict":"CLEAN","findings":[],"note":"Greek breaks off at τὸν πρὸς τοὺς κατὰ τὴν-; English marks the gap with [...]."},
+{"book":2,"chapter":"14","verdict":"CLEAN","findings":[],"note":"Numbers checked: 2,200 / 3,600 / over 2,500 stades all correct. Greek breaks off at μὴ πολὺ λείπειν; English marks the gap with [...]."}
+]}

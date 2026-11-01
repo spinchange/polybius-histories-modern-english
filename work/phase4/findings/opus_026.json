@@ -1,0 +1,10 @@
+{"batch":"opus_026","units":[
+{"book":12,"chapter":"25g","verdict":"CLEAN","findings":[],"note":""},
+{"book":12,"chapter":"25h","verdict":"CLEAN","findings":[],"note":"Whether ὁμολογουμένως ('admittedly') belongs to Timaeus's own words or is Polybius's gloss is uncertain; the English keeps it inside the quotation, which is defensible."},
+{"book":12,"chapter":"25i","verdict":"CLEAN","findings":[],"note":"Final clause τὸ δὲ πολλὰ διαθέσθαι καὶ ματαίως τῶν ἐν μέσῳ κειμένων καὶ κοινόν: the Greek reads only 'common' (κοινόν). 'and easy' has no word behind it in this text. It may be an editor's supplement for a suspected gap, but no lacuna is marked here. No fix proposed; flagging for an editor to decide."},
+{"book":12,"chapter":"25k","verdict":"FINDINGS","findings":[
+ {"quote":"he says they had fixed their attention and learned how great a difference war makes from peace","problem":"λοιπόν φησιν αὐτοὺς ἐπιστήσαντας μαθεῖν ἡλίκην ὁ πόλεμος διαφορὰν ἔχει τῆς εἰρήνης: φησί + infinitive here is an exhortation, 'he tells them they must now attend and learn' how great the difference is. That is the absurdity Polybius points out: Hermocrates tells men he has just praised for knowing the difference that they must learn it. The current English makes it a statement of fact that they had already learned it, which takes the point away.","proposed_fix":"he tells them that they must now give their attention and learn how great a difference war makes from peace","touches_syntax":false,"confidence":"medium"}
+],"note":"Lacunae at καθευρεσιλογεῖν... μενον and at the broken-off μει[ράκιον] are correctly marked [...]."},
+{"book":12,"chapter":"26","verdict":"CLEAN","findings":[],"note":"Opening ράκιον continues μει- from 25k; seam marked with [...]."},
+{"book":12,"chapter":"26a","verdict":"CLEAN","findings":[],"note":"Trailing break after τοῖς ὑπεναντίοις... is marked [...]."}
+]}

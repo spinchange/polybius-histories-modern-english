@@ -1,0 +1,10 @@
+{"batch":"sonnet_022","units":[
+{"book":2,"chapter":"59","verdict":"CLEAN","findings":[],"note":"Ends in a lacuna/break (παρίημι ... καὶ), marked [...] in English."},
+{"book":2,"chapter":"60","verdict":"CLEAN","findings":[],"note":""},
+{"book":2,"chapter":"61","verdict":"FINDINGS","findings":[{"quote":"they suffered utter ruin for their homeland because of their loyalty to the Achaeans","problem":"ὁλοσχερῶς ἔπταισαν τῇ πατρίδι: they were utterly ruined/came to grief as regards their country (lost it), because of their choice of the Achaeans. 'For their homeland' reads as on behalf of it, which is not what the dative says.","proposed_fix":"they were utterly ruined in respect of their homeland because of their choice of the Achaeans","touches_syntax":false,"confidence":"low"}],"note":"Minor; rest of chapter accurate."},
+{"book":2,"chapter":"62","verdict":"CLEAN","findings":[],"note":"Numbers checked: 6000, 2000, 10000, 100 triremes, 6000 less 250, 300, 300 all correct."},
+{"book":2,"chapter":"63","verdict":"CLEAN","findings":[],"note":"Ten days, 6000 and 300 talents correct."},
+{"book":2,"chapter":"64","verdict":"CLEAN","findings":[],"note":""},
+{"book":2,"chapter":"65","verdict":"CLEAN","findings":[],"note":"All troop numbers and the totals (28000 foot, 1200 horse; Cleomenes about 20000) correct. English folds in ἀπέγνω from the start of ch. 66, so ch. 66 opens by repeating 'gave up'; not a sense error."},
+{"book":2,"chapter":"66","verdict":"CLEAN","findings":[],"note":"2000 Achaeans, 1000 Achaean infantry and 1000 Megalopolitans correct."}
+]}

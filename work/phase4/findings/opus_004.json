@@ -1,0 +1,11 @@
+{"batch":"opus_004","units":[
+{"book":3,"chapter":"11","verdict":"CLEAN","findings":[],"note":""},
+{"book":3,"chapter":"12","verdict":"CLEAN","findings":[],"note":""},
+{"book":3,"chapter":"47","verdict":"CLEAN","findings":[],"note":"Chapter ends mid-sentence (εἰς ἑκάτερον τῶν προειρημένων | ἁμαρτημάτων ἐμπίπτουσι in ch. 48); English completes the clause here, which is a seam, not a lacuna."},
+{"book":3,"chapter":"48","verdict":"FINDINGS","findings":[
+ {"quote":"because they take their initial premises to be false and irrational","problem":"διὰ τὸ τὰς πρώτας ὑποθέσεις ψευδεῖς καὶ παραλόγους λαμβάνειν = because they adopt initial premises that are false and irrational. The English says the playwrights regard their premises as false, which is not the sense: they adopt false premises without knowing it.","proposed_fix":"because the initial premises they adopt are false and irrational","touches_syntax":false,"confidence":"high"}
+],"note":"[τοὐναντίον] in 48.3 is bracketed (deleted) by the editor; English rightly ignores it."},
+{"book":3,"chapter":"49","verdict":"FINDINGS","findings":[
+ {"quote":"to join in helping him secure the throne, he agreed,","problem":"The Greek has a lacuna marked *** between συμπεριποιῆσαι τὴν ἀρχὴν αὐτῷ and ὑπήκουσε; the English reads straight on as if the text were whole.","proposed_fix":"to join in helping him secure the throne, [...] he agreed,","touches_syntax":false,"confidence":"high"}
+],"note":"Smoothed lacuna only; numbers (three days, four days) and names (Publius, his brother, Rhone, Isère, Allobroges) check out."}
+]}

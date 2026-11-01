@@ -1,0 +1,9 @@
+[
+{"id":"F0330","verdict":"REVISE","fix":"were making a tour of the islands and the cities in Asia [...] and most of all in Rhodes, though in those days the Rhodians had no need of it","reason":"Lacuna after πόλεις; 'spent time' and 'supervision' are invented. προσδεομένων has no expressed object; keep it open. Use [...] convention."},
+{"id":"F0331","verdict":"REVISE","fix":"After the conference with the Romans, [...] of the Greeks, Perseus set down","reason":"Lacuna before τῶν Ἑλλήνων; 'and the Greek states' smooths it. Mark with [...] per convention."},
+{"id":"F0332","verdict":"REVISE","fix":"Antenor and his colleagues did not receive the answer [...]; but, satisfied with the rest","reason":"Lacuna after οὐκ ἔλαβον; the qualifier of the answer is lost. Mark [...] rather than resolving as 'did not accept that answer'."},
+{"id":"F0333","verdict":"ACCEPT","fix":"ordered them and all the other Macedonians who happened to be staying there to leave Rome at once, and Italy within thirty days","reason":"Both datives depend on προσέταξαν; μέν/δέ gives two stages for all: Rome at once, Italy within thirty days."},
+{"id":"F0334","verdict":"HUMAN","fix":"the remaining one to Tenedos, commanded by [...] Timagoras","reason":"Gap before Τιμαγόρας; same name as commander of the five ships. Whether a second Timagoras or a corrupt name is an editorial decision."},
+{"id":"F0335","verdict":"ACCEPT","fix":"whether they were not aware that he himself was fighting fairly","reason":"οὐ συνοίδασιν ... ποιοῦντι τὰ δίκαια: 'do they not know he is fighting fairly'; English drops οὐ and inverts to 'unfairly'."},
+{"id":"F0336","verdict":"REVISE","fix":"in defiance of every principle of justice [...].","reason":"Text breaks off after πρότερος ***; mark with project convention [...], not a bracketed note."}
+]

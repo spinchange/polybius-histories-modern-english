@@ -1,0 +1,9 @@
+{"batch":"sonnet_027","units":[
+{"book":3,"chapter":"31","verdict":"CLEAN","findings":[],"note":""},
+{"book":3,"chapter":"32","verdict":"CLEAN","findings":[],"note":"English omits the bracketed (interpolated) phrase 'καὶ Τίμαιον συγγραφέων καὶ καιρῶν ἐξηγήσεως'; acceptable."},
+{"book":3,"chapter":"33","verdict":"CLEAN","findings":[],"note":"All figures checked against the Greek (1,200 / 13,850 / 870; 4,000; 50/2/5 ships, 32+5 manned; 450/300/1,800; 11,850/300/500; 21 elephants)."},
+{"book":3,"chapter":"34","verdict":"CLEAN","findings":[],"note":""},
+{"book":3,"chapter":"35","verdict":"CLEAN","findings":[],"note":"Numbers match the Greek (90,000 / 12,000; 10,000 + 1,000; 50,000 / ~9,000). The Greek's own arithmetic does not balance (90,000 minus 10,000 minus an equal number sent home is not 50,000); this is a feature of the text, not a translation error."},
+{"book":3,"chapter":"36","verdict":"CLEAN","findings":[],"note":"Chapter breaks off mid-sentence in the Greek (ὑπὲρ τῶν ἀγνώστων καὶ); English marks it with [...]."},
+{"book":3,"chapter":"37","verdict":"CLEAN","findings":[],"note":"Opens mid-sentence (ἀοράτων τόπων) and ends mid-sentence; English marks the end with [...]."}
+]}

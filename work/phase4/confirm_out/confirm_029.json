@@ -1,0 +1,17 @@
+[
+{"id":"F0235","verdict":"ACCEPT","fix":"convinced that he would get the start of them and then sail the rest of the way safely","reason":"καταταχήσειν = outstrip by speed; nothing about confusing the enemy."},
+{"id":"F0236","verdict":"REVISE","fix":"besides [...] undecked ships","reason":"Number of undecked ships lost in lacuna after ἄφρακτα; mark with project convention."},
+{"id":"F0238","verdict":"HUMAN","fix":"but he struck the enemy ship under the [...]","reason":"ὑπὸ τὰ * βίαχα corrupt; 'below the waterline' is inference from ἔξαλον contrast. Translator to decide."},
+{"id":"F0239","verdict":"REVISE","fix":"For by as much as Philip had the advantage in the number of his light craft, by so much Attalus had the advantage in the number of decked ships.","reason":"Proportional correlative καθ᾽ ὅσον … κατὰ τοσοῦτον and γάρ explain the balance; keep original wording otherwise."},
+{"id":"F0240","verdict":"REVISE","fix":"a gulf called [...], but by most the Bargylian Gulf, after the cities built around its inner recess","reason":"First name lost in lacuna (***); English invented 'some call by one name'."},
+{"id":"F0241","verdict":"ACCEPT","fix":"somehow find myself, throughout my whole work, opposing and resenting such declarations by historians","reason":"οὐκ οἶδ᾽ ὅπως = 'somehow'; not 'do not know how to stop'."},
+{"id":"F0242","verdict":"REVISE","fix":"and become altogether deep and unfordable. [...]","reason":"Lacuna *** after βαρύς; use [...] convention."},
+{"id":"F0243","verdict":"ACCEPT","fix":"seized the commanding ground","reason":"ὑπερδέξιοι τόποι = commanding heights; no 'right' side meant here."},
+{"id":"F0244","verdict":"REVISE","fix":"[...] naturally courageous","reason":"Lacuna after καί before ἀνδρώδης; mark with [...] and keep wording."},
+{"id":"F0245","verdict":"ACCEPT","fix":"and by comparison admired Sosibius","reason":"ἐκ παραθέσεως ἐθαύμαζον = admired by comparison; 'increasingly' invented, admiration dropped."},
+{"id":"F0246","verdict":"ACCEPT","fix":"the people of Mylasa, Alabanda, and Magnesia","reason":"Μυλασεῖς = Mylasa in Caria, not Mylae."},
+{"id":"F0247","verdict":"ACCEPT","fix":"against the city of Mylasa","reason":"τὴν Μυλασέων πόλιν = Mylasa."},
+{"id":"F0248","verdict":"HUMAN","fix":"For he was well aware of the embassies being sent to Rome against him, [...] so that affairs in Libya were at an end.","reason":"Lacuna (* **) before διόπερ clause; Libya clause may be stray excerptor matter. Gap must be marked."},
+{"id":"F0250","verdict":"REVISE","fix":"and shattered the sarissas of others, then with the very fragments [...] struck their faces and exposed parts with the spear-points, throwing them into total confusion.","reason":"Lacuna after ἐκ διαλήψεως; ταῖς ἐπιδορατίσι omitted. Keep original wording otherwise."},
+{"id":"F0251","verdict":"ACCEPT","fix":"the Jews living around the sanctuary called Jerusalem also went over to him.","reason":"προσαγορευόμενον agrees with τὸ ἱερόν: the sanctuary is called Jerusalem."}
+]

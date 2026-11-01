@@ -1,0 +1,9 @@
+[
+{"id":"F0379","verdict":"REJECT","fix":"","reason":"ὑπέρθεσις here means surpassing/extraordinary character of the step, not postponement; they act now. Current English conveys that emphasis."},
+{"id":"F0380","verdict":"REJECT","fix":"","reason":"Not a lacuna: chunk seam. source/book_30/chapter_08.md opens 'φοί, παρὰ δὲ Ῥοδίοις Δείνων καὶ Πολυάρατος'; names are in the Greek."},
+{"id":"F0382","verdict":"ACCEPT","fix":"[...] Then, when he made his entrance into the senate","reason":"Greek marks *** before τότε δὲ; lacuna must be shown."},
+{"id":"F0383","verdict":"REVISE","fix":"As though they were generally displeased by visits from kings, they issued a decree","reason":"ὡς + participle gives an ostensible ground, a pretext; 'Because' states it as the real cause. Kept close to the original wording."},
+{"id":"F0385","verdict":"REVISE","fix":"taking up [...] well suited to their own excesses","reason":"Object of λαβόντες lost (***); 'behavior' and 'theatrical' supplied over the gap. Use project [...] convention, not ***."},
+{"id":"F0386","verdict":"REJECT","fix":"","reason":"οὐ δοκοῦσι + infinitive = they think they are not recognized, unless they act oddly; English gives the sense correctly. 'Seem' reading is less coherent."},
+{"id":"F0387","verdict":"REVISE","fix":"then a chariot drawn by elephants and one drawn by a pair of elephants","reason":"ἐλεφάντων governs both ἅρμα and συνωρίς; no horses in Greek. Minimal change from the current wording."}
+]

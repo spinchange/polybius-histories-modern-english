@@ -1,0 +1,7 @@
+[
+{"id":"F0218","verdict":"ACCEPT","fix":"even if they take in the particular actions and speeches only in outline","reason":"ὁλοσχερῶς (broadly, cursorily) contrasts with κατὰ μέρος; no 'gladly', no 'in detail'. Current English inverts the sense."},
+{"id":"F0219","verdict":"ACCEPT","fix":"this seems to me the finest and boldest of all his achievements [...]","reason":"Greek ends with ***; the lacuna has to be marked."},
+{"id":"F0220","verdict":"ACCEPT","fix":"since very soon the general, with his forces [...]","reason":"Chapter seam, not a lacuna: πρὸς αὐτὸν συνάψοντος opens ch. 7, so 'join him' is duplicated here. τοῦ στρατηγοῦ means 'the general' (Hasdrubal)."},
+{"id":"F0221","verdict":"ACCEPT","fix":"they should, without any delay, put even this hope to the test","reason":"ὑπερβολὴν ποιεῖσθαι means to postpone; μηδεμίαν ὑπερβολήν means 'without delay', not 'no extreme measure'."},
+{"id":"F0222","verdict":"REJECT","fix":"","reason":"ἐπίστασις (pause, taking stock) is fairly rendered by 'recover his wits'. 'Make a stand' is less accurate."}
+]

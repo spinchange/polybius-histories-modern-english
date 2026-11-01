@@ -1,0 +1,9 @@
+{"batch":"sonnet_035","units":[
+{"book":3,"chapter":"96","verdict":"FINDINGS","findings":[{"quote":"When the Romans were already close at hand, they gave the signal for battle and put out to sea, having resolved to fight.","problem":"The genitive absolute ἤδη δὲ καὶ τῶν Ῥωμαίων σύνεγγυς ὄντων leaves the subject of σημήναντες ... ἀνήγοντο, κρίναντες ναυμαχεῖν as Hasdrubal's men (οἱ περὶ τὸν Ἀσδρούβαν), i.e. the Carthaginians. The English 'they' after 'the Romans' reads as the Romans putting out, and the following 'before long they began to give way' (πρὸς τὸ κλίνειν ὥρμησαν) is the Carthaginians, so the identity of the subject is inverted.","proposed_fix":"When the Romans were already close at hand, the Carthaginians gave the signal for battle and put out to sea, having resolved to fight.","touches_syntax":false,"confidence":"medium"}],"note":"Remainder checked: numbers (2 ships, 4 ships, 25, 70, 120 quinqueremes) correct; ἐπικυδεστέρας clause begins after a text break in the Greek, English reads acceptably; final lacuna marked."},
+{"book":3,"chapter":"97","verdict":"CLEAN","findings":[],"note":""},
+{"book":3,"chapter":"98","verdict":"CLEAN","findings":[],"note":""},
+{"book":3,"chapter":"99","verdict":"CLEAN","findings":[],"note":""},
+{"book":3,"chapter":"100","verdict":"CLEAN","findings":[],"note":"Greek marks *Λίβυρνον ὄρος with an asterisk (name uncertain/corrupt); English prints 'Mount Liburnum' without flag. No fix proposed; editor may wish to mark the name as uncertain."},
+{"book":3,"chapter":"101","verdict":"CLEAN","findings":[],"note":""},
+{"book":3,"chapter":"102","verdict":"CLEAN","findings":[],"note":""}
+]}

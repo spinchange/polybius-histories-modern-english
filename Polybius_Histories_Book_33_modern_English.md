@@ -24,7 +24,7 @@ As a result, those who had favored postponement for the present joined those who
 
 ## Book 33 Chapter 3: Release of Achaeans Refused
 
-When the ambassadors returned from Rome to Achaea and made it clear that matters had come very close to ending in the return of all the detained men, most people became hopeful and elated, and once again sent Telecles and Anaxidamus of Megalopolis from among themselves. That was the state of affairs in the Peloponnese.
+When the ambassadors returned from Rome to Achaea and made it clear that matters had come very close to ending in the return of all the detained men, most people became hopeful and elated, and at once sent Telecles and Anaxidamus of Megalopolis again. That was the state of affairs in the Peloponnese.
 
 ## Book 33 Chapter 4: Character of Aristocrates
 
@@ -38,7 +38,7 @@ But they were disappointed in their hopes. For when he came to practical action,
 
 ## Book 33 Chapter 5: Suicide of Archias
 
-They were to offer him five hundred talents if he would surrender Cyprus, and to make it clear that other profitable and honorable rewards would also follow from Demetrius if he rendered this service.
+[...] to offer him five hundred talents if he would surrender Cyprus, and to make it clear that other profitable and honorable rewards would also follow from Demetrius if he rendered this service.
 
 When Ptolemy received notice that Archias was present—
 
@@ -52,7 +52,7 @@ So it was with him: imagining that he would gain five hundred talents, he lost b
 
 About this same time the people of Priene also fell into an unexpected disaster.
 
-When Orophernes had seized the throne, they had received from him a deposit of four hundred talents. In the years that followed, Ariarathes, after recovering the kingdom, demanded the money from them.
+When Orophernes had seized the throne, they had received from him a deposit of four hundred talents. In the years that followed, Ariarathes [...], when he recovered the kingdom, demanded the money from them.
 
 In my opinion the Prienians took the right stand, saying that while Orophernes was still alive they would hand over the money to no one except the man who had deposited it.
 
@@ -180,7 +180,7 @@ Prusias was also to make good the damage done in the territory of the Methymnaea
 
 After the treaty had been written out on these terms, the forces under Attalus, both fleet and army, withdrew home.
 
-Such was the course taken by events in the dispute between Attalus and Prusias.
+Such was the course taken by events in the dispute between Attalus and Prusias, and [...]
 
 ## Book 33 Chapter 14: Another Embassy from Achaea
 
@@ -244,7 +244,7 @@ The young man first made a brief and modest speech and asked the Romans to remem
 
 If not, then at least to permit his return and not hinder those who wished to help him recover his ancestral rule.
 
-Then Heracleides took up the speech, spoke at length in praise of Antiochus and in accusation of Demetrius, and came to this point: that in justice they ought to permit the return of the young man and Laodice, since they were the legitimate offspring of King Antiochus.
+Then Heracleides took up the speech, spoke at length in praise of Antiochus and in accusation of Demetrius, and came to this point: that in justice they ought to permit the return of the young man and Laodice, since they were, by birth, the offspring of King Antiochus.
 
 None of this pleased the more sober-minded men; they saw the whole thing as a staged performance and openly loathed Heracleides.
 
@@ -254,11 +254,11 @@ But the majority, won over by Heracleides’ trickery, were carried into draftin
 
 The senate granted them permission to proceed to their ancestral kingdom, and it was resolved to assist them, as they requested.”
 
-Heracleides, taking advantage of this opening, at once began hiring mercenaries and summoning prominent men to join him; and when he arrived at Ephesus, he occupied himself with preparations for the enterprise he had in view.
+Heracleides, taking advantage of this opening, at once began hiring mercenaries and summoning prominent men to join him [...]; and when he arrived at Ephesus, he occupied himself with preparations for the enterprise he had in view.
 
 ## Book 33 Chapter 19: Demetrius’s Intemperance
 
-He also says that Demetrius—the man who escaped from his hostage life at Rome and became king of Syria in his thirty-third year—was a heavy drinker and spent most of the day drunk.
+He also says in the thirty-third book that Demetrius—the man who escaped from his hostage life at Rome and became king of Syria—was a heavy drinker and spent most of the day drunk.
 
 ## Book 33 Chapter 20: The Multitude Will Act on its Feelings
 

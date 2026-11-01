@@ -1,0 +1,7 @@
+{"batch":"opus_019","units":[
+{"book":6,"chapter":"55","verdict":"CLEAN","findings":[],"note":""},
+{"book":6,"chapter":"56","verdict":"CLEAN","findings":[],"note":"καθ᾽ ὅσον … κατὰ τοσοῦτο rendered as proportional ('exactly as far as'); acceptable. Trailing [Cod. Urb. ...] is apparatus, not text."},
+{"book":6,"chapter":"57","verdict":"CLEAN","findings":[],"note":"λήψεται δὲ τὴν ἐπιγραφὴν τῆς μεταβολῆς ὁ δῆμος is idiomatically difficult (the people 'will put the title on / take credit for' the change); current English is a defensible rendering."},
+{"book":6,"chapter":"58","verdict":"CLEAN","findings":[],"note":"Numbers checked: 8,000 (ὀκτακισχιλίων), ten envoys (δέκα), three minae (τρεῖς μνᾶς), nine returned (ἐννέα)."},
+{"book":6,"chapter":"59","verdict":"CLEAN","findings":[],"note":"Greek ἐν #2# ἱστοριῶν: the book numeral is an encoding placeholder in the source text and cannot be read here; English 'in his Histories' omits the book number rather than inventing one. No fix proposed."}
+]}

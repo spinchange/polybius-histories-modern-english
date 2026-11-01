@@ -6,7 +6,7 @@ Modern English translation of the Greek text.
 
 It does not seem to me out of place, in view of the whole plan of this work and the purpose I set out at the beginning, to call my readers’ attention to the greatness of the events and to the ambitious resolve shown by each of the two states—I mean Rome and Carthage.
 
-For who would not be struck by the fact that, while they were engaged in so great a war over Italy, and in another no less serious over Iberia, and while both alike still faced uncertain hopes for the future and dangers equally pressing in the present, they were nevertheless not content with the enterprises already before them, but were disputing over Sardinia and Sicily as well, and were trying to grasp everything, not only in their hopes, but also with money and military preparation?
+For who would not be struck by the fact that, while they were engaged in so great a war over Italy, and in another no less serious over Iberia, and while both alike still faced uncertain hopes for the future and dangers equally pressing in the present, they were nevertheless not content with the enterprises already before them, but were disputing over Sardinia and Sicily as well [...] and were trying to grasp everything, not only in their hopes, but also with money and military preparation?
 
 This becomes even more astonishing when one looks at the details. The Romans had two complete armies in Italy with the consuls, and two in Iberia, of which Gnaeus held the land command and Publius the naval command.
 
@@ -110,7 +110,7 @@ When he had thus lifted the prow and made the ship stand upright on its stern, h
 
 As a result some ships fell over sideways, some even capsized, and most, with their prows dropped from on high, shipped great quantities of seawater and were thrown into complete confusion.
 
-Marcus, hard pressed by the contrivances of Archimedes and watching from within the city his own assaults beaten off with loss to himself and laughter from the defenders, bore the situation badly, though he mocked his own failure by saying that Archimedes was ladling the sea out of his ships, and that the sambucae had been soundly whipped and disgracefully turned away from the feast.
+Marcus, hard pressed by the contrivances of Archimedes and seeing the defenders within beat off his assaults, to his own loss and mockery, bore the situation badly, though he mocked his own failure by saying that Archimedes was using his ships as ladles to dip water out of the sea, and that the sambucae had been soundly whipped and disgracefully turned away from the feast.
 
 Such was the end of the siege by sea.
 
@@ -156,7 +156,7 @@ For that reason some deserve pardon—but not all.
 
 ## Book 8 Chapter 8a: Demetrius Killed at Messene
 
-Demetrius, after rashly and recklessly attempting, with Philip’s approval, to seize the city of the Messenians, was killed in the very crisis of the action. We shall explain the details of this matter when we come to the proper point in the narrative.
+[...] Demetrius, after rashly and recklessly attempting, with Philip’s approval, to seize the city of the Messenians, was killed in the very crisis of the action. We shall explain the details of this matter when we come to the proper point in the narrative.
 
 ## Book 8 Chapter 9: The Assault By Land Repulsed
 
@@ -218,7 +218,7 @@ Nor indeed would anyone approve even the broad design of this writer, since he s
 
 Yet it would have been far nobler and fairer to include Philip’s actions within a history of Greece than to include the affairs of Greece within a history of Philip.
 
-For no one, once preoccupied with the grandeur of Greek history and having advanced some distance in it, would voluntarily exchange that subject for the role and life of a monarch; whereas someone already occupied with a royal court, if chance and opportunity offered, might perhaps shift to the greater and more illustrious name of Greece.
+For no one, once preoccupied with the grandeur of Greek history and having advanced some distance in it, would voluntarily exchange that subject for the role and life of a monarch; whereas no one already occupied with a royal court, given the opportunity, would have hesitated to make a timely change to the name and dignity of Greece.
 
 So what was it that forced Theopompus to overlook contradictions of this scale? Surely only this: that the aim of the first subject was what was honorable, but the aim of the subject centered on Philip was what was advantageous.
 
@@ -340,7 +340,7 @@ Once these arrangements had been made, they parted and each carried out what had
 
 At the first opportunity Cambylus brought the proposal before the king.
 
-Antiochus found the offer both agreeable and astonishing. Delighted at first, he promised everything; but then, in some distrust, he examined in detail the several plans and preparations.
+Antiochus found the offer both agreeable and astonishing. Partly overjoyed, he promised everything; partly distrustful, he examined in detail the several plans and preparations.
 
 Afterward, when he had become convinced and thought that the undertaking seemed to be advancing with divine favor, he urgently begged Cambylus again and again to carry it through.
 
@@ -376,7 +376,7 @@ Therefore Arianus, when leading Achaeus out, was to go in front because he knew 
 
 Bolis was to follow behind the others, so that when they reached the place where, through Cambylus, the ambush was supposed to be ready, he might lay hold of Achaeus and make sure that in the confusion of the night and among wooded ground he neither escaped nor, in desperation, threw himself down a cliff, but instead fell alive into the enemy’s hands according to their design.
 
-After these arrangements had been agreed upon, Cambylus, on the very night Bolis arrived, led him by the same route by which he had come, and brought him alone before Antiochus.
+After these arrangements had been agreed upon, Cambylus, on the very night Bolis arrived, brought him before Antiochus, the two of them alone.
 
 The king received him graciously, gave pledges for the promised rewards, and urged both men at length to delay no further over the matter before them. Then they returned to their own camp, and toward dawn Bolis went up with Arianus and entered the citadel while it was still night.
 
@@ -440,7 +440,7 @@ After this came great uncertainty and confusion among those inside.
 
 Antiochus, having disposed of Achaeus, kept constant pressure on the citadel, persuaded that some opening would be handed to him by the men inside, and especially by the soldiers.
 
-And that is what happened in the end. They quarreled among themselves and split into factions, some joining Ariobazus and others Laodice. Once this had happened and the two sides distrusted one another, both quickly surrendered themselves and the citadels.
+And that is what happened in the end. They quarreled among themselves and split into factions, some joining Aribazus and others Laodice. Once this had happened and the two sides distrusted one another, both quickly surrendered themselves and the citadels.
 
 So Achaeus, after doing everything that reason could suggest, was nevertheless overcome by the faithlessness of those whom he trusted and ended his life, becoming a useful example to posterity in two ways: first, not to trust anyone lightly; and second, not to grow boastful in prosperity, but, being human, to expect everything.
 

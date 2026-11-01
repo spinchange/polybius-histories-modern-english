@@ -26,13 +26,13 @@ This being settled, I could see no time more suitable than the present for pausi
 
 For just as those who form private judgments about whether men are worthless or worthy, whenever they genuinely set out to test them, base their inquiry not on the untroubled ease of ordinary life, but on the reversals of misfortune and the successes of good fortune, regarding this alone as the true touchstone of a complete man—the ability to bear the total reversals of fortune with greatness of soul and nobility—in just the same way one must examine a constitution as well.
 
-For this reason, since I could see no sharper or greater change in our times than the one that befell the Romans, I have reserved for this moment my account of the matters mentioned above; and one may grasp the magnitude of that change from what follows.
+For this reason, since I could see no sharper or greater change in our times than the one that befell the Romans, I have reserved for this moment my account of the matters mentioned above; and one may grasp the magnitude of that change from what follows. [...]
 
 What both engages the mind and brings benefit to lovers of learning is precisely this: the study of causes, and the choice of the better course in each case.
 
 And in every undertaking we must regard the structure of the constitution as the greatest cause both of success and of its opposite; for from it, as from a fountainhead, all the conceptions and undertakings of any enterprise not only spring, but also reach their completion.
 
-For only genuine impossibility offers no excuse to those who fail; and impossibility belongs to the realm of falsehood alone.
+For only in a falsehood does impossibility not even admit of excuse for those who err.
 
 ## Book 6 Chapter 3: Classification of Constitutions
 
@@ -44,7 +44,7 @@ For this reason it calls for no ordinary attention and study, if one is to gain 
 
 Now it happens that most of those who wish to instruct us authoritatively on such matters speak of three kinds of constitutions, of which they call one kingship, another aristocracy, and the third democracy.
 
-But it seems to me that one might quite reasonably raise a question against them: whether they propose these to us as the only constitutions, or, by Zeus, as the best.
+But it seems to me that one might quite reasonably raise a question against them: whether they propose these to us as the only constitutions, or indeed as the best.
 
 For on both counts they seem to me to be mistaken. For it is clear that we must regard as best the constitution composed of all the features just mentioned; and of this we have had proof not in theory only but in practice, since Lycurgus was the first to construct the Spartan constitution on this principle.
 
@@ -126,7 +126,7 @@ In ancient times, then, those who had once been chosen and granted this office g
 
 And while they devoted themselves to these things, they remained free of all slander and envy, because they made no great distinctions in their dress, food, or drink, but lived much like everyone else, always sharing the same way of life as the common people.
 
-But once they began to inherit their positions by succession and birth, and found the means of security already prepared for them, along with more than enough for their sustenance, then, following their appetites because of this abundance, they came to think that their rulers ought to have distinctive clothing, distinctive and elaborate indulgences and provisions at the table, and unchallenged access to the sexual favors and embraces even of those they had no right to.
+But once they began to inherit their positions by succession and birth, and found the means of security already prepared for them, along with more than enough for their sustenance, then, following their appetites because of this abundance, they came to think that rulers ought to have clothing distinct from that of their subjects, distinctive and elaborate indulgences and provisions at the table, and unchallenged access to the sexual favors and embraces even of those they had no right to.
 
 These things gave rise in some cases to envy and offense, in others to a blaze of hatred and bitter anger, so that the kingship turned into a tyranny. The first step toward its dissolution was taken, and a conspiracy began to form against the rulers— a conspiracy that arose not from the worst men, but from the noblest, most high-minded, and most courageous, because such men are least [...]
 
@@ -186,7 +186,7 @@ The Romans, on the other hand, have arrived at the same end—the order of their
 
 ## Book 6 Chapter 11: The Roman Constitution
 
-The Roman state, reckoning from the crossing of Xerxes into Greece and for thirty years after that period, was continually being refined in its particular features, and it reached its finest and most perfect form in the era of the war with Hannibal—the point from which I made this digression.
+The Roman state, reckoning from the crossing of Xerxes into Greece [...] and for thirty years after that period, was continually being refined in its particular features, and it reached its finest and most perfect form in the era of the war with Hannibal—the point from which I made this digression.
 
 Therefore, now that I have given the account of how it came to be put together, I will try to make clear what its character was in those years, in which the Romans, defeated at the battle of Cannae, came to grief in their affairs as a whole.
 
@@ -250,7 +250,7 @@ For it is within their power to impose on the allies whatever they think fit, to
 
 Besides what has been mentioned, they are empowered to punish anyone they wish among those under their command while in the field.
 
-They also have the authority to spend as much of the public funds as they propose, with a quaestor accompanying them who readily carries out every order.
+They also have the authority to spend as much of the public funds as they choose, with a quaestor accompanying them who readily carries out every order.
 
 So that one might reasonably say, whenever one looks at this portion, that the constitution is simply monarchic and kingly.
 
@@ -264,9 +264,9 @@ For the quaestors cannot make any disbursement for the various departments of th
 
 And of the single greatest and most comprehensive item of expenditure by far—the one the censors make every five years for the repair and construction of public works—the Senate has control, and it is through the Senate that the censors are granted these funds.
 
-Likewise, whatever crimes committed in Italy call for a public inquiry—I mean such things as treason, conspiracy, poisoning, and assassination—are the concern of the Senate. And beyond this, if any private individual or any community in Italy needs a dispute settled, or, by Zeus, a penalty imposed, or assistance, or protection, all of these matters are the Senate’s responsibility.
+Likewise, whatever crimes committed in Italy call for a public inquiry—I mean such things as treason, conspiracy, poisoning, and assassination—are the concern of the Senate. And beyond this, if any private individual or any community in Italy needs a dispute settled, or indeed a penalty imposed, or assistance, or protection, all of these matters are the Senate’s responsibility.
 
-So too, if it is necessary to dispatch an embassy to any people outside Italy—whether to reconcile parties, or to issue an appeal, or, by Zeus, to give commands, or to receive a surrender, or to declare war—the Senate is the body that sees to it.
+So too, if it is necessary to dispatch an embassy to any people outside Italy—whether to reconcile parties, or to issue an appeal, or indeed to give commands, or to receive a surrender, or to declare war—the Senate is the body that sees to it.
 
 In the same way, when embassies arrive in Rome, how each is to be dealt with and what answer is to be given them is all handled through the Senate. None of the matters just described involves the people at all.
 
@@ -324,7 +324,7 @@ The Senate, again, for all the great power it possesses, is in the first place o
 
 And it cannot carry out the most far-reaching and serious inquiries into, and corrections of, crimes against the state—those for which the penalty is death—unless the people also ratify what has been resolved.
 
-The same holds for matters that touch the Senate itself: if anyone introduces a law that strips away some part of the authority the Senate holds by custom, or abolishes its privileges of precedence and its honors, or, by Zeus, makes inroads on the senators’ personal property, in all such cases it is the people who have the power to enact it or not.
+The same holds for matters that touch the Senate itself: if anyone introduces a law that strips away some part of the authority the Senate holds by custom, or abolishes its privileges of precedence and its honors, or indeed makes inroads on the senators’ personal property, in all such cases it is the people who have the power to enact it or not.
 
 And the decisive point: if a single one of the tribunes interposes his veto, the Senate not only cannot bring any of its deliberations to a conclusion, but cannot even convene or assemble at all— and the tribunes are always bound to do what the people decide and above all to keep the people’s wishes in view. For all these reasons, then, the Senate fears the multitude and pays heed to the people.
 
@@ -358,7 +358,7 @@ As a result, the distinctive character of this constitution makes it irresistibl
 
 And again, whenever they are freed from external fears and settle into the prosperity and abundance that come from their successes, enjoying their good fortune and growing corrupted by flattery and idleness, and turn toward violence and arrogance—as commonly happens— it is then above all that the constitution can be seen supplying the remedy out of its own resources.
 
-For whenever one of the parts swells up, becomes contentious, and gains more power than it should, it is clear that—since, as just explained, none of them is self-sufficient, and the purpose of each can be counteracted and hindered by the others—none of the parts swells up or grows overbearing.
+For whenever one of the parts begins to swell, becomes contentious, and tends to gain more power than it should, it is clear that—since, as just explained, none of them is self-sufficient, and the purpose of each can be counteracted and hindered by the others—none of the parts swells up or grows overbearing.
 
 For all of them remain within their proper bounds: some are checked in their impulse, while others are restrained from the outset by fear of interference from those beside them.
 
@@ -368,7 +368,7 @@ The dictator differs from the consuls in this respect: whereas each of the two c
 
 After they have elected the consuls, they next appoint military tribunes—fourteen from those who have already completed five years of service, and another ten in addition from those who have completed ten.
 
-As for the rest, a man must by law complete ten campaigns in the cavalry, or sixteen in the infantry, within the forty-six years counted from his coming of age—except for those whose property is assessed below four hundred drachmas.
+As for the rest, a man must by law complete ten campaigns in the cavalry, or sixteen in the infantry, before reaching the age of forty-six—except for those whose property is assessed below four hundred drachmas.
 
 All of these latter are assigned to naval service. But if the pressure of circumstances ever demands it, the infantry are obliged to serve twenty annual campaigns.
 
@@ -458,7 +458,7 @@ On top of all this they adorn themselves with a circlet of feathers and three up
 
 Most of the soldiers, after adding a bronze plate a span square—which they place in front of the chest and call a heart-guard (pectorale)—have their full equipment complete.
 
-But those rated above ten thousand drachmas (asses) wear, instead of the heart-guard and along with the rest, a coat of chain mail (lorica).
+But those rated above ten thousand drachmas wear, instead of the heart-guard and along with the rest, a coat of chain mail (lorica).
 
 The principes and triarii are armed in the same manner, except that instead of the heavy javelins the triarii carry thrusting spears (hastae).
 
@@ -616,7 +616,7 @@ When all four legions and both consuls are gathered into a single camp, one need
 
 In that case the shape becomes oblong, the site twice as large, and the perimeter half as much again.
 
-So whenever both consuls happen to encamp together, they always lay out the camp in this way; but when they camp separately, everything else is the same, except that they place the market-place, quartermaster’s office, and headquarters between the two camps.
+So whenever both consuls happen to encamp together, they always lay out the camp in this way; but when they camp separately, everything else is the same, except that they place the market-place, quartermaster’s office, and headquarters between the two legions.
 
 ## Book 6 Chapter 33: Guard Duty and Other Assignments
 
@@ -634,7 +634,7 @@ Each of those three maniples in turn performs the following services for its tri
 
 They also provide him with two pickets, each of four men, some stationed in front of the tent and others behind it by the horses.
 
-Since each tribune has three maniples, and each maniple contains more than a hundred men—not counting the triarii and velites, who are exempt from this duty— and since the duty falls to each maniple only once every four days, the burden is light, while the arrangement gives the tribunes both the service they need and an impressive dignity.
+Since each tribune has three maniples, and each maniple contains more than a hundred men—not counting the triarii and velites, who are exempt from this duty— and since the duty falls to each maniple only every third day, the burden is light, while the arrangement gives the tribunes both the service they need and an impressive dignity.
 
 The maniples of triarii are excused from attendance on the tribunes, but each maniple supplies a daily guard to the cavalry squadron quartered just behind it.
 
@@ -720,7 +720,7 @@ When an accusation is brought, the tribunes at once convene a court, and if the 
 
 The punishment works like this: the tribune takes a cudgel and merely touches the condemned man with it.
 
-At that signal all the men in the camp attack him with clubs and stones, and most of them are killed on the spot inside the camp itself.
+At that signal all the men in the camp attack him with clubs and stones, and most of those condemned are killed on the spot inside the camp itself.
 
 Even those who manage to escape are not really saved. How could they be? They cannot return to their own country, and no relative would dare receive such a man into his house. So anyone who falls into this misfortune is completely ruined.
 
@@ -1088,7 +1088,7 @@ In matters of money as well, Roman customs and principles are better than those 
 
 Among the Carthaginians nothing connected with profit is considered shameful; among the Romans nothing is more disgraceful than taking bribes and making gain from what one ought not.
 
-For the more one kind of people honors profit from the most successful source, the more the other treats unlawful gain as a reproach.
+For the Romans hold honest profit in honor exactly as far as they hold gain from forbidden sources in reproach.
 
 The proof is this: among the Carthaginians men openly give gifts to obtain office, whereas among the Romans the penalty for such conduct is death.
 

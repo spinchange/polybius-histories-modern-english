@@ -1,0 +1,17 @@
+{"batch":"sonnet_052","units":[
+{"book":5,"chapter":"24","verdict":"FINDINGS","findings":[
+{"quote":"at most two stades from the city","problem":"τόπος ἀπέχων μὲν τῆς πόλεως δύο μάλιστα σταδίους: μάλιστα with a number means 'about', not 'at most'.","proposed_fix":"about two stades from the city","touches_syntax":false,"confidence":"high"},
+{"quote":"As the day was already drawing on","problem":"ἤδη δὲ τῆς ὥρας συναγούσης: ὥρα here is the season of the year (the campaigning season closing, autumn), not the hour of the day.","proposed_fix":"As the season was already drawing to a close","touches_syntax":false,"confidence":"medium"}
+],"note":""},
+{"book":5,"chapter":"25","verdict":"CLEAN","findings":[],"note":""},
+{"book":5,"chapter":"26","verdict":"CLEAN","findings":[],"note":"Greek breaks off mid-sentence at the end (οὗτος μὲν αὖτις ἐξ / Ἐλατείας ἀνέστρεφε in ch. 27); the failure of the king's plan (διαπεσούσης τῆς ἐπιβολῆς) is carried by the opening of ch. 27, not lost."},
+{"book":5,"chapter":"27","verdict":"CLEAN","findings":[],"note":"Opening 'When the expedition failed' completes the sentence begun at end of ch. 26 (διαπεσούσης δ᾽ αὐτῷ τῆς ἐπιβολῆς); acceptable."},
+{"book":5,"chapter":"28","verdict":"FINDINGS","findings":[
+{"quote":"promising that they would bring the Aetolians to agree to whatever was necessary for making peace","problem":"ὑπισχνούμενοι πάντα ποιήσειν τοὺς Αἰτωλοὺς ἐφ᾽ ᾧ συνθέσθαι τὴν εἰρήνην: the Aetolians are the subject of ποιήσειν (the Aetolians would do everything to conclude peace), not the envoys bringing the Aetolians round.","proposed_fix":"promising that the Aetolians would do everything required to conclude the peace","touches_syntax":true,"confidence":"medium"}
+],"note":""},
+{"book":5,"chapter":"29","verdict":"FINDINGS","findings":[
+{"quote":"The Aetolians, who had been hoping to exploit the situation in their own favor, were now eager to conclude peace","problem":"Greek has only οἱ δ᾽ Αἰτωλοὶ τὰ μὲν ἔσπευδον ποιήσασθαι τὴν εἰρήνην (they were, on the one hand, eager for peace, pressed by the war); there is no clause about hoping to exploit the situation. The μὲν is answered by ἅμα δὲ ... παρεῖλκον below.","proposed_fix":"The Aetolians, for their part, were eager to conclude peace","touches_syntax":true,"confidence":"low"}
+],"note":"Remainder checked and accurate."},
+{"book":5,"chapter":"30","verdict":"CLEAN","findings":[],"note":"Numbers (1300 Aetolians, 1000 foot, 200 horse, about 3000) agree with the Greek."},
+{"book":5,"chapter":"31","verdict":"CLEAN","findings":[],"note":"English paragraph 3 ('My reason is that I believe this arrangement will best keep readers...') has no separate Greek counterpart and partly doubles paragraph 4 (which renders τοῦ μὲν γὰρ μὴ ... διαμαρτάνειν); Greek says 'sufficient' (ἱκανήν), not 'best'. Not a sense inversion, so no finding; flag to editor if desired."}
+]}

@@ -1,0 +1,11 @@
+{"batch":"sonnet_043","units":[
+{"book":4,"chapter":"42","verdict":"CLEAN","findings":[],"note":""},
+{"book":4,"chapter":"43","verdict":"CLEAN","findings":[],"note":"Greek breaks off at 'φέρεται'; English marks it with [...]. 'falls short of' for ἀπολιπών (leaving behind) is loose but not a sense error here."},
+{"book":4,"chapter":"44","verdict":"CLEAN","findings":[],"note":"Greek ends mid-sentence ('τὴν κατὰ γῆν'); English marks it with [...]."},
+{"book":4,"chapter":"45","verdict":"CLEAN","findings":[],"note":""},
+{"book":4,"chapter":"46","verdict":"CLEAN","findings":[],"note":"Numbers (3000/5000/10000 gold pieces; 80 talents) match."},
+{"book":4,"chapter":"47","verdict":"CLEAN","findings":[],"note":""},
+{"book":4,"chapter":"48","verdict":"CLEAN","findings":[],"note":""},
+{"book":4,"chapter":"49","verdict":"FINDINGS","findings":[{"quote":"Such, then, was the war of the Rhodians against the Byzantines.","problem":"The Greek stops mid-sentence: 'ὁ μὲν οὖν Ῥοδίων πρὸς Βυζαντίους πόλεμος' with the predicate ('διὰ ταῦτα καὶ τοιαύτην ἔλαβε τὴν ἀρχήν') only in the next chapter. The English closes the sentence as if whole (seam smoothed).","proposed_fix":"Such, then, was the war of the Rhodians against the Byzantines—","touches_syntax":true,"confidence":"low"}],"note":"Chapter-seam only; apply only if ch. 50's opening ('This was how it came about...') is kept consistent."},
+{"book":4,"chapter":"50","verdict":"FINDINGS","findings":[{"quote":"set about practically achieving their aim.","problem":"The Greek breaks off mid-word: 'πρὸς τὸ καθικέσθαι τῆς προθέ' (προθέ[σεως] is a restoration). English completes it as 'their aim' without marking the cut.","proposed_fix":"set about practically achieving their pur[...]","touches_syntax":false,"confidence":"low"}],"note":"Seam only; rest of chapter matches (6+4=10 ships, Xenophantus, Tiboetes as Prusias' father's brother)."}
+]}

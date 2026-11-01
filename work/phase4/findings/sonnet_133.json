@@ -1,0 +1,12 @@
+{"batch":"sonnet_133","units":[
+{"book":29,"chapter":"24","verdict":"FINDINGS","findings":[
+{"quote":"although the present king’s generosity was well known among them","problem":"Greek has καὶ γὰρ ἡ τοῦ τότε βασιλεύοντος μεγαλοψυχία διάδηλος ἐγένετο τοῖς Ἕλλησιν: a γάρ clause (for indeed), not a concessive; it explains the limiting phrase 'in earlier times'. The 'although' reverses the logical link. The Greek here is somewhat compressed and the exact force of the γάρ is debatable.","proposed_fix":"for the generosity of the king then reigning had been plain to the Greeks","touches_syntax":false,"confidence":"low"}
+],"note":"Rest checked: 200 cavalry/1000 infantry, 30-40 myriads (thirty or forty thousand), over thirty, Philippus, kaθ' hoson/kata tosouton all acceptable. Greek opens mid-sentence (fragment Μακεδονίᾳ ποιουμένου) and English starts whole; no gap marker in source."},
+{"book":29,"chapter":"25","verdict":"CLEAN","findings":[],"note":"ἦν δὲ τοῦτο κατὰ τῆς ὑποθέσεως is ambiguous in the Greek; English 'told against their case' is an acceptable rendering. Minor: ἐπιστολὰς is plural (letters) and Arcesilaus is also of Megalopolis, neither misleading enough to change."},
+{"book":29,"chapter":"26","verdict":"FINDINGS","findings":[
+{"quote":"resumed the war against Ptolemy","problem":"Greek ἐξήρτυε πόλεμον κατὰ Πτολεμαίου (imperfect of ἐξαρτύω, equip/prepare): Antiochus was preparing war, not yet resuming fighting.","proposed_fix":"was preparing war against Ptolemy","touches_syntax":false,"confidence":"low"}
+],"note":""},
+{"book":29,"chapter":"27","verdict":"FINDINGS","findings":[
+{"quote":"that the outcome in Alexandria and in the whole of Egypt was decided by it: that is, by the earlier decision of what should be done with Perseus","problem":"Greek: τὰ κατὰ τὴν Ἀλεξάνδρειαν καὶ τὴν ὅλην Αἴγυπτον, καὶ πρὸς τὸν ἔσχατον καιρὸν ἐλθόντα, παρὰ τοῦτο πάλιν ὀρθωθῆναι, παρὰ τὸ φθάσαι κριθέντα τὰ κατὰ τὸν Περσέα πράγματα. Alexandria and Egypt, having come to the last extremity, were set upright again because the affair of Perseus had already been decided (the war ended). English omits the 'last extremity' and 'set upright again' and turns 'had been decided' into 'what should be done with Perseus'.","proposed_fix":"that Alexandria and the whole of Egypt, though brought to the last extremity, were set upright again, simply because the affairs of Perseus had already been decided","touches_syntax":true,"confidence":"high"}
+],"note":"Remainder (Popilius' circle, days granted, Polyaratus, Cyprus) matches the Greek."}
+]}

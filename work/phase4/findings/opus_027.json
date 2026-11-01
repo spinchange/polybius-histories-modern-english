@@ -1,0 +1,8 @@
+{"batch":"opus_027","units":[
+{"book":12,"chapter":"26b","verdict":"CLEAN","findings":[],"note":""},
+{"book":12,"chapter":"26c","verdict":"CLEAN","findings":[],"note":""},
+{"book":12,"chapter":"26d","verdict":"CLEAN","findings":[],"note":""},
+{"book":12,"chapter":"27","verdict":"CLEAN","findings":[],"note":"Lacuna after τοῦ μὲν διὰ τῶν ὑπομνημάτων is marked [...] in the English."},
+{"book":12,"chapter":"27a","verdict":"CLEAN","findings":[],"note":""},
+{"book":12,"chapter":"28","verdict":"FINDINGS","findings":[{"quote":"[he leaves none of them...] [...] [the text breaks off]","problem":"The Greek breaks off at οὐδένα τῶν ('none of the ...'). It has no verb, so 'he leaves' is supplied text; the bracket presents a conjecture as if it were a gloss on the Greek.","proposed_fix":"none of the [...] [the text breaks off]","touches_syntax":false,"confidence":"medium"}],"note":"Lacuna at ἀπερίσπαστοι *** παράσχωνται is correctly marked [...]. Ἐφόρῳ προσπεσεῖν ('brought against' / 'occurred to' Ephorus) is ambiguous; the current rendering is defensible."}
+]}
