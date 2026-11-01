@@ -22,6 +22,86 @@
    "note": "What we have of this chapter is preserved by Athenaeus and Suidas. Athenaeus of Naucratis wrote the *Deipnosophistae*, a banquet dialogue packed with quotations from earlier writers. Suidas is the traditional name of the author of the Suda, a Byzantine encyclopedic lexicon of about 970."
   },
   {
+   "id": "survival/07-2-5",
+   "anchors": [
+    {
+     "book": 7,
+     "from": "2",
+     "to": "5"
+    }
+   ],
+   "annotator": "De legationibus (Constantinian)",
+   "work": "Excerpta de legationibus, page 1",
+   "date": "c. 950",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "These chapters survive in the Constantinian *De legationibus* (Excerpta de legationibus, page 1). This rests on Buettner-Wobst's source note printed after 7.5, which governs everything back to the note for 7.1. Chapter 7.1 has its own entry."
+  },
+  {
+   "id": "survival/07-6",
+   "anchors": [
+    {
+     "book": 7,
+     "from": "6",
+     "to": "6"
+    }
+   ],
+   "annotator": "Excerpta antiqua",
+   "work": "codex Urbinas, folio 96",
+   "date": "uncertain",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter survives in the *Excerpta antiqua* (codex Urbinas, folio 96), a running selection by an unknown compiler that is separate from Constantine's themed collections. This rests on Buettner-Wobst's source note citing codex Urbinas folio 96 and page 193 of the Excerpta antiqua edition."
+  },
+  {
+   "id": "survival/07-7-8",
+   "anchors": [
+    {
+     "book": 7,
+     "from": "7",
+     "to": "8"
+    }
+   ],
+   "annotator": "De virtutibus et vitiis (Constantinian)",
+   "work": "Excerpta Peiresciana, pages 9 and 13",
+   "date": "c. 950",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "These chapters survive in the Constantinian *De virtutibus et vitiis* (Excerpta Peiresciana, page 9). This rests on Buettner-Wobst's source note printed after the paragraph on Hiero's long life. The final paragraph of 7.8, on Gelo, is a separate excerpt in the same collection (page 13), placed here by the editors."
+  },
+  {
+   "id": "survival/07-9",
+   "anchors": [
+    {
+     "book": 7,
+     "from": "9",
+     "to": "9"
+    }
+   ],
+   "annotator": "Excerpta antiqua",
+   "work": "codex Urbinas, folio 96",
+   "date": "uncertain",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter survives in the *Excerpta antiqua* (codex Urbinas, folio 96), a running selection by an unknown compiler that is separate from Constantine's themed collections. This rests on Buettner-Wobst's source note citing codex Urbinas and page 193 of the Excerpta antiqua edition."
+  },
+  {
    "id": "survival/07-10",
    "anchors": [
     {
@@ -59,7 +139,47 @@
    "source_pub": null,
    "pd_basis": "none",
    "quote": "",
-   "note": "This chapter survives in the Constantinian *De virtutibus et vitiis* (Exc. Peir. p. 13). This rests on Buettner-Wobst's source note citing Exc. Peir. p. 13."
+   "note": "This chapter survives in the Constantinian *De virtutibus et vitiis* (Excerpta Peiresciana, page 13). This rests on Buettner-Wobst's source note citing Excerpta Peiresciana, page 13."
+  },
+  {
+   "id": "survival/07-12",
+   "anchors": [
+    {
+     "book": 7,
+     "from": "12",
+     "to": "12"
+    }
+   ],
+   "annotator": "Excerpta antiqua; De sententiis (Constantinian)",
+   "work": "codex Urbinas, folio 98; Excerpta Vaticana (Mai), page 312",
+   "date": "uncertain; c. 950",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter survives both in the *Excerpta antiqua* (codex Urbinas, folio 98) and in the Constantinian *De sententiis* (Excerpta Vaticana, Mai's page 312). This rests on Buettner-Wobst's source note and its apparatus, which show that the excerptor's opening words come from the Vatican text, that the Urbinas omits some words, and that the Vatican text breaks off near the end of the chapter."
+  },
+  {
+   "id": "survival/07-13",
+   "anchors": [
+    {
+     "book": 7,
+     "from": "13",
+     "to": "13"
+    }
+   ],
+   "annotator": "De virtutibus et vitiis (Constantinian)",
+   "work": "Excerpta Peiresciana, page 17",
+   "date": "c. 950",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter survives in the Constantinian *De virtutibus et vitiis* (Excerpta Peiresciana, page 17), in an excerpt that runs on into 7.14. This rests on Buettner-Wobst's source note printed after 7.14, with no other note between the end of 7.12 and that point. The apparatus adds that Suidas quotes the sentence about the wolf and the tyrant."
   },
   {
    "id": "survival/07-14",
@@ -79,7 +199,7 @@
    "source_pub": null,
    "pd_basis": "none",
    "quote": "",
-   "note": "This chapter survives in the Constantinian *De virtutibus et vitiis* (Exc. Peir. p. 17); from the sentence on the weight of advice for young kings onward it is also preserved in *De sententiis* (Exc. Vat., Mai p. 373). This rests on Buettner-Wobst's source note citing Exc. Peir. p. 17 and Mai's Vatican excerpts."
+   "note": "This chapter survives in the Constantinian *De virtutibus et vitiis* (Excerpta Peiresciana, page 17); from the sentence on the weight of advice for young kings onward it is also preserved in *De sententiis* (Excerpta Vaticana, Mai's page 373). This rests on Buettner-Wobst's source note citing Excerpta Peiresciana, page 17 and Mai's Vatican excerpts."
   },
   {
    "id": "survival/07-14b",
@@ -142,6 +262,86 @@
    "note": "What we have of this chapter is preserved by Stephanus of Byzantium. Stephanus of Byzantium compiled the *Ethnica*, a gazetteer of place-names and peoples, in the 6th century."
   },
   {
+   "id": "survival/07-15-18",
+   "anchors": [
+    {
+     "book": 7,
+     "from": "15",
+     "to": "18"
+    }
+   ],
+   "annotator": "Excerpta antiqua",
+   "work": "codex Urbinas, page 194",
+   "date": "uncertain",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "These chapters survive in the *Excerpta antiqua* (codex Urbinas), a running selection by an unknown compiler that is separate from Constantine's themed collections. This rests on Buettner-Wobst's source note printed after 7.18, citing codex Urbinas and page 194 of the Excerpta antiqua edition (the folio figure is illegible in our scan)."
+  },
+  {
+   "id": "survival/08-1-2",
+   "anchors": [
+    {
+     "book": 8,
+     "from": "1",
+     "to": "2"
+    }
+   ],
+   "annotator": "Excerpta antiqua",
+   "work": "codex Urbinas, folio 102",
+   "date": "uncertain",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "These chapters survive in the *Excerpta antiqua* (codex Urbinas, folio 102), a running selection by an unknown compiler that is separate from Constantine's themed collections. This rests on Buettner-Wobst's source note citing codex Urbinas folio 102 and page 196 of the Excerpta antiqua edition."
+  },
+  {
+   "id": "survival/08-3",
+   "anchors": [
+    {
+     "book": 8,
+     "from": "3",
+     "to": "3"
+    }
+   ],
+   "annotator": "Wescher codex (Byzantine military anthology)",
+   "work": "Wescher codex",
+   "date": "uncertain",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter survives in the Byzantine siege-craft collection published by Wescher, whose excerpt opens with the compiler's own summary of the situation. This rests on Buettner-Wobst's source note for the Syracuse siege, which lists the Wescher codex from the first section of chapter 3. From its second sentence the account is also reworked in the Byzantine treatise on resisting sieges ascribed to Hero, and the Excerpta antiqua note appears to begin only at 8.4. Confidence is only medium."
+  },
+  {
+   "id": "survival/08-3a",
+   "anchors": [
+    {
+     "book": 8,
+     "from": "3a",
+     "to": "3a"
+    }
+   ],
+   "annotator": "Excerpta antiqua (margin note)",
+   "work": "codex Urbinas, folio 102, margin",
+   "date": "uncertain",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This saying survives as a marginal note in the Urbino manuscript of the *Excerpta antiqua* (codex Urbinas, folio 102). This rests on Buettner-Wobst's source note marked as a note in the middle margin, which cites Livy 24.24 as a parallel. Its position in the text rests on that Livy parallel. Confidence is only medium."
+  },
+  {
    "id": "survival/08-4",
    "anchors": [
     {
@@ -159,7 +359,27 @@
    "source_pub": null,
    "pd_basis": "none",
    "quote": "",
-   "note": "This chapter survives in the *Excerpta antiqua*, a running selection from the early books by an unknown compiler, kept chiefly in codex Urbinas gr. 102; it is a separate collection, not one of Constantine's themed ones. This rests on Buettner-Wobst's source note citing cod. Urb. fol. 104v. The same passage has a parallel in a Byzantine military anthology (cod. Wescheri) and in the siege treatises cited as Hero."
+   "note": "This chapter survives in the *Excerpta antiqua*, a running selection from the early books by an unknown compiler, kept chiefly in codex Urbinas gr. 102; it is a separate collection, not one of Constantine's themed ones. This rests on Buettner-Wobst's source note citing codex Urbinas, folio 104v. The same passage has a parallel in a Byzantine military anthology (the Wescher codex) and in the siege treatises cited as Hero."
+  },
+  {
+   "id": "survival/08-5-6",
+   "anchors": [
+    {
+     "book": 8,
+     "from": "5",
+     "to": "6"
+    }
+   ],
+   "annotator": "Excerpta antiqua; Wescher codex",
+   "work": "codex Urbinas, folio 104v; Wescher codex",
+   "date": "uncertain",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "These chapters survive in the *Excerpta antiqua* (codex Urbinas, folio 104v) and, up to the capsizing of the ships, in the Wescher codex of Byzantine military excerpts; the Byzantine treatise on resisting sieges ascribed to Hero also reworks the passage. This rests on Buettner-Wobst's source note for the Syracuse siege, whose Urbinas range runs from 8.4 to 8.7. Chapters 8.4 and 8.7 have their own entries."
   },
   {
    "id": "survival/08-7",
@@ -179,7 +399,47 @@
    "source_pub": null,
    "pd_basis": "none",
    "quote": "",
-   "note": "This chapter survives in the *Excerpta antiqua*, a running selection from the early books by an unknown compiler, kept chiefly in codex Urbinas gr. 102; it is a separate collection, not one of Constantine's themed ones. This rests on Buettner-Wobst's source note citing cod. Urb. fol. 104v. Parts also have a parallel in a Byzantine military anthology (cod. Wescheri) and in the siege treatises cited as Hero."
+   "note": "This chapter survives in the *Excerpta antiqua*, a running selection from the early books by an unknown compiler, kept chiefly in codex Urbinas gr. 102; it is a separate collection, not one of Constantine's themed ones. This rests on Buettner-Wobst's source note citing codex Urbinas, folio 104v. Parts also have a parallel in a Byzantine military anthology (the Wescher codex) and in the siege treatises cited as Hero."
+  },
+  {
+   "id": "survival/08-8-9",
+   "anchors": [
+    {
+     "book": 8,
+     "from": "8",
+     "to": "9"
+    }
+   ],
+   "annotator": "De virtutibus et vitiis (Constantinian)",
+   "work": "Excerpta Peiresciana, page 18",
+   "date": "c. 950",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "These chapters survive in the Constantinian *De virtutibus et vitiis* (Excerpta Peiresciana, page 18), in an excerpt that runs on through 8.10 and 8.11 into 8.12. This rests on Buettner-Wobst's source note printed after 8.11. The same note records that Athenaeus quotes part of the Theopompus passage in 8.9 and that the Urbinas has a margin note on one sentence of it."
+  },
+  {
+   "id": "survival/08-8a",
+   "anchors": [
+    {
+     "book": 8,
+     "from": "8a",
+     "to": "8a"
+    }
+   ],
+   "annotator": "Editorial restoration (Buettner-Wobst)",
+   "work": "Polybius 3.19.11",
+   "date": "not applicable",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This is not a preserved fragment of Book 8: the editor prints here Polybius' own forward reference at 3.19.11 in place of the lost account of Demetrius' death. This rests on Buettner-Wobst's apparatus, which cites Book 3 and gives no source note for the passage. The sentence itself survives in the complete text of Book 3."
   },
   {
    "id": "survival/08-10",
@@ -199,7 +459,7 @@
    "source_pub": null,
    "pd_basis": "none",
    "quote": "",
-   "note": "This chapter survives in the Constantinian *De virtutibus et vitiis* (Exc. Peir. p. 18). This rests on Buettner-Wobst's source note citing Exc. Peir. p. 18."
+   "note": "This chapter survives in the Constantinian *De virtutibus et vitiis* (Excerpta Peiresciana, page 18). This rests on Buettner-Wobst's source note citing Excerpta Peiresciana, page 18."
   },
   {
    "id": "survival/08-11",
@@ -219,7 +479,47 @@
    "source_pub": null,
    "pd_basis": "none",
    "quote": "",
-   "note": "This chapter survives in the Constantinian *De virtutibus et vitiis* (Exc. Peir. p. 18). This rests on Buettner-Wobst's source note citing Exc. Peir. p. 18."
+   "note": "This chapter survives in the Constantinian *De virtutibus et vitiis* (Excerpta Peiresciana, page 18). This rests on Buettner-Wobst's source note citing Excerpta Peiresciana, page 18."
+  },
+  {
+   "id": "survival/08-12",
+   "anchors": [
+    {
+     "book": 8,
+     "from": "12",
+     "to": "12"
+    }
+   ],
+   "annotator": "Excerpta antiqua; De virtutibus et vitiis (Constantinian)",
+   "work": "codex Urbinas, folio 106v; Excerpta Peiresciana",
+   "date": "uncertain; c. 950",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter survives in the *Excerpta antiqua* (codex Urbinas, folio 106v); the Peiresciana excerpts, part of the Constantinian *De virtutibus et vitiis*, carry it on without a break from the preceding chapters as far as the honours paid by the Achaean League. This rests on Buettner-Wobst's source note, which says the Peiresciana text is not separated from what precedes it. The last paragraph, on those honours, is in the Urbinas only."
+  },
+  {
+   "id": "survival/08-13",
+   "anchors": [
+    {
+     "book": 8,
+     "from": "13",
+     "to": "13"
+    }
+   ],
+   "annotator": "Excerpta antiqua",
+   "work": "codex Urbinas, page 199",
+   "date": "uncertain",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter survives in the *Excerpta antiqua* (codex Urbinas), a running selection by an unknown compiler that is separate from Constantine's themed collections. This rests on Buettner-Wobst's source note printed after 8.14, citing codex Urbinas and page 199 of the Excerpta antiqua edition. The same excerpt continues through 8.14, which has its own entry."
   },
   {
    "id": "survival/08-14",
@@ -239,7 +539,47 @@
    "source_pub": null,
    "pd_basis": "none",
    "quote": "",
-   "note": "This chapter survives in the *Excerpta antiqua*, a running selection from the early books by an unknown compiler, kept chiefly in codex Urbinas gr. 102; it is a separate collection, not one of Constantine's themed ones. This rests on Buettner-Wobst's source note citing cod. Urb. fol. 107v (the run begins at 8.13)."
+   "note": "This chapter survives in the *Excerpta antiqua*, a running selection from the early books by an unknown compiler, kept chiefly in codex Urbinas gr. 102; it is a separate collection, not one of Constantine's themed ones. This rests on Buettner-Wobst's source note citing codex Urbinas, folio 107v (the run begins at 8.13)."
+  },
+  {
+   "id": "survival/08-14b",
+   "anchors": [
+    {
+     "book": 8,
+     "from": "14b",
+     "to": "14b"
+    }
+   ],
+   "annotator": "Stephanus of Byzantium",
+   "work": "Stephanus of Byzantium, Ethnica",
+   "date": "6th century",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter is quoted by Stephanus of Byzantium in the *Ethnica*, in the entries on the Dassaretae and on Hyscana. This rests on Buettner-Wobst's two source notes, which cite pages 220 and 653 of Meineke's edition."
+  },
+  {
+   "id": "survival/08-15-21",
+   "anchors": [
+    {
+     "book": 8,
+     "from": "15",
+     "to": "21"
+    }
+   ],
+   "annotator": "Excerpta antiqua; De sententiis (Constantinian)",
+   "work": "codex Urbinas, page 199; Excerpta Vaticana (Mai), page 314",
+   "date": "uncertain; c. 950",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "These chapters survive in the *Excerpta antiqua* (codex Urbinas, page 199); from the words 'to trust anyone lightly' to the end, the passage is also preserved in the Constantinian *De sententiis* (Excerpta Vaticana, Mai's page 314), which begins mid-sentence here after a lost leaf. This rests on Buettner-Wobst's source note printed after 8.21."
   },
   {
    "id": "survival/08-22",
@@ -262,6 +602,26 @@
    "note": "This chapter has more than one source: paragraph 2 is quoted by Athenaeus. The unmarked paragraph (1) comes from no quoting author; by this edition's convention they come from the Constantinian excerpts or another collection (see the Phase 6b findings). Athenaeus of Naucratis wrote the *Deipnosophistae*, a banquet dialogue packed with quotations from earlier writers."
   },
   {
+   "id": "survival/08-23",
+   "anchors": [
+    {
+     "book": 8,
+     "from": "23",
+     "to": "23"
+    }
+   ],
+   "annotator": "De virtutibus et vitiis (Constantinian)",
+   "work": "Excerpta Peiresciana, page 26",
+   "date": "c. 950",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter survives in the Constantinian *De virtutibus et vitiis* (Excerpta Peiresciana, page 26). This rests on Buettner-Wobst's source note printed after 8.23."
+  },
+  {
    "id": "survival/08-24",
    "anchors": [
     {
@@ -282,6 +642,46 @@
    "note": "This chapter has more than one source: paragraph 3 is quoted by Suidas. The unmarked paragraphs (1 to 2 and 4 to 12) come from no quoting author; by this edition's convention they come from the Constantinian excerpts or another collection (see the Phase 6b findings). Suidas is the traditional name of the author of the Suda, a Byzantine encyclopedic lexicon of about 970."
   },
   {
+   "id": "survival/08-25-34",
+   "anchors": [
+    {
+     "book": 8,
+     "from": "25",
+     "to": "34"
+    }
+   ],
+   "annotator": "Excerpta antiqua",
+   "work": "codex Urbinas, folio 114, page 202",
+   "date": "uncertain",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "These chapters survive in the *Excerpta antiqua* (codex Urbinas, folio 114, page 202), in an excerpt that begins inside 8.24 and ends with 8.34. This rests on Buettner-Wobst's source note printed after 8.34. Chapter 8.24 has its own entry."
+  },
+  {
+   "id": "survival/08-35-36",
+   "anchors": [
+    {
+     "book": 8,
+     "from": "35",
+     "to": "36"
+    }
+   ],
+   "annotator": "De sententiis (Constantinian); Excerpta antiqua",
+   "work": "Excerpta Vaticana (Mai); codex Urbinas",
+   "date": "c. 950; uncertain",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "The opening sentence on the death of Tiberius survives only in the Vatican excerpts of the Constantinian *De sententiis*, which break off at the start of the following question where a leaf is lost; from 'In cases of this sort' to the end of 8.36 the text comes from the *Excerpta antiqua* (codex Urbinas). This rests on Buettner-Wobst's source note printed after 8.36, whose page and folio figures are illegible in our scan."
+  },
+  {
    "id": "survival/08-37",
    "anchors": [
     {
@@ -290,16 +690,16 @@
      "to": "37"
     }
    ],
-   "annotator": "Suidas",
-   "work": "Suidas, Lexicon",
-   "date": "c. 970",
+   "annotator": "Suidas; Byzantine military anthology (cod. Wescheri)",
+   "work": "Suidas, Lexicon; a Byzantine anthology of military excerpts (the Wescher codex, folio 100v)",
+   "date": "c. 970; date of the anthology uncertain",
    "tags": [
     "survival-story"
    ],
    "source_pub": null,
    "pd_basis": "none",
    "quote": "",
-   "note": "This chapter has more than one source: paragraph 1 is quoted by Suidas; paragraphs 12 to 13 are quoted by Suidas. The unmarked paragraphs (2 to 11) come from no quoting author; by this edition's convention they come from the Constantinian excerpts or another collection (see the Phase 6b findings). Suidas is the traditional name of the author of the Suda, a Byzantine encyclopedic lexicon of about 970."
+   "note": "This chapter has two sources. Paragraph 1 and paragraphs 12 to 13 are quoted by Suidas, the traditional name of the author of the Suda, a Byzantine lexicon of about 970. Paragraphs 2 to 11 survive in a Byzantine anthology of military excerpts (the Wescher codex, folio 100v), which is neither a Constantinian collection nor a quoting author. That is why the italic lines in the text mark only the Suda paragraphs."
   },
   {
    "id": "survival/08-38",
@@ -320,6 +720,26 @@
    "pd_basis": "none",
    "quote": "",
    "note": "What we have of this chapter is preserved by Suidas. Suidas is the traditional name of the author of the Suda, a Byzantine encyclopedic lexicon of about 970."
+  },
+  {
+   "id": "survival/08-38b",
+   "anchors": [
+    {
+     "book": 8,
+     "from": "38b",
+     "to": "38b"
+    }
+   ],
+   "annotator": "Stephanus of Byzantium; De sententiis (Constantinian)",
+   "work": "Stephanus of Byzantium, Ethnica; Excerpta Vaticana (Mai)",
+   "date": "6th century; c. 950",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "The first paragraph is quoted by Stephanus of Byzantium in the *Ethnica*; the second survives in the Constantinian *De sententiis* (Excerpta Vaticana). This rests on Buettner-Wobst's two source notes, printed among his fragments of uncertain position."
   },
   {
    "id": "survival/09-9",
@@ -779,7 +1199,7 @@
    "source_pub": null,
    "pd_basis": "none",
    "quote": "",
-   "note": "This chapter survives in the Constantinian *De virtutibus et vitiis* (codex P, fol. 304 to 306). This rests on Buettner-Wobst's source note."
+   "note": "This chapter survives in the Constantinian *De virtutibus et vitiis* (codex P, folios 304 to 306). This rests on Buettner-Wobst's source note."
   },
   {
    "id": "survival/20-12",
@@ -1606,11 +2026,41 @@
   "7.1": [
    "survival/07-1"
   ],
+  "7.2": [
+   "survival/07-2-5"
+  ],
+  "7.3": [
+   "survival/07-2-5"
+  ],
+  "7.4": [
+   "survival/07-2-5"
+  ],
+  "7.5": [
+   "survival/07-2-5"
+  ],
+  "7.6": [
+   "survival/07-6"
+  ],
+  "7.7": [
+   "survival/07-7-8"
+  ],
+  "7.8": [
+   "survival/07-7-8"
+  ],
+  "7.9": [
+   "survival/07-9"
+  ],
   "7.10": [
    "survival/07-10"
   ],
   "7.11": [
    "survival/07-11"
+  ],
+  "7.12": [
+   "survival/07-12"
+  ],
+  "7.13": [
+   "survival/07-13"
   ],
   "7.14": [
    "survival/07-14"
@@ -1624,11 +2074,51 @@
   "7.14d": [
    "survival/07-14d"
   ],
+  "7.15": [
+   "survival/07-15-18"
+  ],
+  "7.16": [
+   "survival/07-15-18"
+  ],
+  "7.17": [
+   "survival/07-15-18"
+  ],
+  "7.18": [
+   "survival/07-15-18"
+  ],
+  "8.1": [
+   "survival/08-1-2"
+  ],
+  "8.2": [
+   "survival/08-1-2"
+  ],
+  "8.3": [
+   "survival/08-3"
+  ],
+  "8.3a": [
+   "survival/08-3a"
+  ],
   "8.4": [
    "survival/08-4"
   ],
+  "8.5": [
+   "survival/08-5-6"
+  ],
+  "8.6": [
+   "survival/08-5-6"
+  ],
   "8.7": [
    "survival/08-7"
+  ],
+  "8.8": [
+   "survival/08-8-9"
+  ],
+  "8.8a": [
+   "survival/08-8-9",
+   "survival/08-8a"
+  ],
+  "8.9": [
+   "survival/08-8-9"
   ],
   "8.10": [
    "survival/08-10"
@@ -1636,20 +2126,92 @@
   "8.11": [
    "survival/08-11"
   ],
+  "8.12": [
+   "survival/08-12"
+  ],
+  "8.13": [
+   "survival/08-13"
+  ],
   "8.14": [
    "survival/08-14"
+  ],
+  "8.14b": [
+   "survival/08-14b"
+  ],
+  "8.15": [
+   "survival/08-15-21"
+  ],
+  "8.16": [
+   "survival/08-15-21"
+  ],
+  "8.17": [
+   "survival/08-15-21"
+  ],
+  "8.18": [
+   "survival/08-15-21"
+  ],
+  "8.19": [
+   "survival/08-15-21"
+  ],
+  "8.20": [
+   "survival/08-15-21"
+  ],
+  "8.21": [
+   "survival/08-15-21"
   ],
   "8.22": [
    "survival/08-22"
   ],
+  "8.23": [
+   "survival/08-23"
+  ],
   "8.24": [
    "survival/08-24"
+  ],
+  "8.25": [
+   "survival/08-25-34"
+  ],
+  "8.26": [
+   "survival/08-25-34"
+  ],
+  "8.27": [
+   "survival/08-25-34"
+  ],
+  "8.28": [
+   "survival/08-25-34"
+  ],
+  "8.29": [
+   "survival/08-25-34"
+  ],
+  "8.30": [
+   "survival/08-25-34"
+  ],
+  "8.31": [
+   "survival/08-25-34"
+  ],
+  "8.32": [
+   "survival/08-25-34"
+  ],
+  "8.33": [
+   "survival/08-25-34"
+  ],
+  "8.34": [
+   "survival/08-25-34"
+  ],
+  "8.35": [
+   "survival/08-35-36"
+  ],
+  "8.36": [
+   "survival/08-35-36"
   ],
   "8.37": [
    "survival/08-37"
   ],
   "8.38": [
    "survival/08-38"
+  ],
+  "8.38b": [
+   "survival/08-38b"
   ],
   "9.9": [
    "survival/09-9"
