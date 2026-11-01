@@ -2,15 +2,16 @@
 <html lang="en">
 <head>
   <meta charset="utf-8"/>
+  <link rel="cc:license" href="https://creativecommons.org/publicdomain/zero/1.0/"/>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <title>Polybius — The Histories (Modern English Translation)</title>
   <meta property="og:title" content="Polybius — The Histories (Modern English Translation)"/>
-  <meta property="og:description" content="A modern English translation of the extant local source corpus for Polybius, The Histories."/>
+  <meta property="og:description" content="A modern English translation of Polybius, The Histories, from the Greek."/>
   <meta property="og:type" content="book"/>
   <meta property="og:image" content="art/og_default.png"/>
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="Polybius — The Histories (Modern English Translation)"/>
-  <meta name="twitter:description" content="A modern English translation of the extant local source corpus for Polybius, The Histories."/>
+  <meta name="twitter:description" content="A modern English translation of Polybius, The Histories, from the Greek."/>
   <meta name="twitter:image" content="art/og_default.png"/>
   <style>
 :root {
@@ -189,6 +190,7 @@ footer {
   <h1>POLYBIUS</h1>
   <p class="subtitle">The Histories</p>
   <p class="edition">A Modern English Translation &mdash; Books I&ndash;XXXIX</p>
+  <p class="edition">Translated from the Greek by Claude, Anthropic&rsquo;s family of AI models. Directed and edited by spinchange.</p>
   <figure class="hero-banner">
     <picture>
       <source srcset="art/hero_night.png" media="(prefers-color-scheme: dark)"/>
@@ -198,20 +200,32 @@ footer {
   </figure>
 </header>
 <section id="editorial-note">
-  <h2>Editorial Note</h2>
-  <p>This edition is a modern-English working translation of the extant local source corpus for Polybius, <i>The Histories</i>.</p>
-  <p>The source corpus used by this project is stored under <code>source/</code> and currently contains Books 1-39. Book 17 has no chaptered Greek text in the local source set and is represented by the note: &quot;Nothing of this book survives.&quot; Book 40 and any material beyond Book 39 are not present in the current local source corpus and are not treated here as missing translation.</p>
-  <p>Each assembled book file is built from the chunk translations under <code>translations/</code>. The translation process used the Greek source as the basis and older public-domain English material as a reference crib, not as final wording.</p>
-  <p>The resulting edition should be read as a project edition of the digitally available extant corpus represented in this workspace, not as a claim that every historically surviving Polybian fragment from every witness has been independently audited outside this source set.</p>
-  <p>Current verification status:</p>
+  <h2>Translator's Preface</h2>
+  <p><i>Pragmatike Historia</i> presents Polybius&#x27;s <i>Histories</i> — his account of how, in the fifty-three years from 220 to 167 BC, Rome came to rule the Mediterranean world — in a modern English translation of the Greek that survives. The title borrows Polybius&#x27;s own name for his method: pragmatic history, the study of causes and consequences by someone who has seen events at first hand or questioned those who did.</p>
+<h3>The text translated</h3>
+  <p>The translation is made from the Greek text of Büttner-Wobst (Teubner, 1889–1905), as made available through the Perseus Digital Library. It was produced by Claude, Anthropic&#x27;s family of AI models, working chapter by chapter from the Greek. Each chapter was then checked against the Greek by a second pass, and chapters where the first English departed from the Greek were retranslated. An older public-domain English version of 1889 served as a crib for chapter numbering and for hard passages; it was not used as the wording of this edition.</p>
+<h3>What is and is not here</h3>
   <ul>
-    <li>Assembled book files exist for Books 1-39.</li>
-    <li>Source chapter coverage and assembled chapter headings match for all books in the local source corpus.</li>
-    <li>No missing translated chapters were reported by <code>compare_structure.py</code>.</li>
-    <li>Inline numeric marker cleanup reports no remaining changes needed.</li>
-    <li>Book 17 is intentionally a survival note rather than a translated chapter sequence.</li>
+    <li>Books 1–39 are translated in full as far as the Greek survives. Books 1–5 are complete; the later books are in large part fragments preserved by later writers.</li>
+    <li>*<i>Book 17</i>* does not survive; a note says so.</li>
+    <li>*<i>Book 40</i><i>, the index to the </i>Histories*, and the unplaced fragments beyond Book 39 are not included. The closing summary at 39.8 is.</li>
+    <li>Chapters preserved in quotation by other authors are marked with the quoting author where the source names them.</li>
   </ul>
-  <p>The illustrations accompanying this edition—including the front and back covers, website hero banners, social cards, ornamental chapter headpieces, and the thirty-nine book frontispiece plates—were generated using Google&#x27;s Gemini models in a nineteenth-century archaeological folio style, combining fine copperplate engraving and etching linework with restrained watercolor washes on warm parchment. All compositions were directed and verified against third- and second-century BC historical guardrails (concerning Hellenistic Greek, Republican Roman, Carthaginian, Numidian, and Celtic material culture, weaponry, and naval architecture). In harmony with the text of this edition, all original artwork created for this project is dedicated to the public domain under Creative Commons CC0 1.0 Universal.</p>
+<h3>Conventions</h3>
+  <ul>
+    <li>*<i>Gaps.</i>* A gap in the Greek is marked <code>[...]</code>. Nothing is supplied to fill it.</li>
+    <li>*<i>Peoples.</i>* Peoples of Italy and Europe are called Gauls; those who settled in Asia Minor are Galatians. &quot;Celts&quot; appears only in an explicitly ethnographic remark. Spartans appear in narrative; &quot;Lacedaemonians&quot; is kept for treaties, embassies and official language.</li>
+    <li>*<i>Names and dates.</i>* Rivers take their modern names (Ebro, Po, Danube, Rhone); cities and regions keep their ancient names. Years are written <code>215 BC</code>, ranges <code>210–206 BC</code>.</li>
+    <li>*<i>Measures.</i>* Distances are in stades, as in the Greek; the camp chapters of Book 6 keep Polybius&#x27;s feet.</li>
+    <li>*<i>Chapters.</i>* Chapter numbers follow the standard divisions. Where a division breaks a sentence, the unfinished sentence is moved under the next heading.</li>
+  </ul>
+<h3>Limits</h3>
+  <p>This is a translation by a machine, and it makes the errors of one: a lacuna read straight over, a sense inverted, a name mistaken. Many were found and corrected in the checking described above; some will remain. Corrections are welcome.</p>
+<h3>Licence</h3>
+  <p>The text, the illustrations and the apparatus are dedicated to the public domain under the Creative Commons CC0 1.0 Universal dedication. Anyone may copy, adapt and publish them without asking. A courtesy mention of <i>Pragmatike Historia</i> is requested, not required.</p>
+<h3>Illustrations</h3>
+  <p>The covers, website banners, social cards, chapter headpieces and the thirty-nine book frontispieces were generated with Google&#x27;s Gemini models in the manner of a nineteenth-century archaeological folio: copperplate linework with restrained watercolor on parchment. Compositions were directed and checked against third- and second-century BC material culture (Hellenistic Greek, Republican Roman, Carthaginian, Numidian and Gallic dress, arms and ships).</p>
+  <p><i>Translated from the Greek by Claude, Anthropic&#x27;s family of AI models. Directed and edited by spinchange.</i></p>
 </section>
 <nav id="toc">
   <h2>Contents</h2>
@@ -16628,6 +16642,6 @@ footer {
   </section>
 </section>
 </main>
-<footer>Polybius, <i>The Histories</i> &mdash; modern English translation of the extant local source corpus.</footer>
+<footer>Polybius, <i>The Histories</i> &mdash; modern English translation by Claude (Anthropic), edited by spinchange. <a href='https://creativecommons.org/publicdomain/zero/1.0/'>CC0 1.0</a> &middot; <i>Pragmatike Historia</i>.</footer>
 </body>
 </html>

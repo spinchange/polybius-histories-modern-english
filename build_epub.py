@@ -197,8 +197,8 @@ def write_book(book: Book, text_dir: Path, plate_info: dict | None = None) -> No
 
 
 def editorial_note_body() -> str:
-    md = (BASE / "EDITORIAL_NOTE.md").read_text(encoding="utf-8")
-    parts = ['  <section id="editorial-note" epub:type="preface">', "    <h2>Editorial Note</h2>"]
+    md = (BASE / "PREFACE.md").read_text(encoding="utf-8")
+    parts = ['  <section id="editorial-note" epub:type="preface">', "    <h2>Translator's Preface</h2>"]
     in_list = False
     for raw_line in md.splitlines():
         line = raw_line.strip()
@@ -206,6 +206,9 @@ def editorial_note_body() -> str:
             if in_list:
                 parts.append("    </ul>")
                 in_list = False
+            continue
+        if line.startswith("## "):
+            parts.append(f"<h3>{html.escape(line[3:])}</h3>")
             continue
         if line.startswith("#"):
             continue
@@ -242,17 +245,18 @@ def write_frontmatter(
     title_body = """  <section id="titlepage" epub:type="titlepage">
     <h1>Polybius</h1>
     <p class="subtitle">The Histories</p>
-    <p class="edition">Modern English translation of the extant local source corpus</p>
+    <p class="edition">A Modern English Translation</p>
+    <p class="edition">Translated from the Greek by Claude, Anthropic's family of AI models.<br/>Directed and edited by spinchange.</p>
   </section>"""
     (text_dir / "titlepage.xhtml").write_text(xhtml_doc("Titlepage", title_body), encoding="utf-8")
-    (text_dir / "editorial-note.xhtml").write_text(xhtml_doc("Editorial Note", editorial_note_body()), encoding="utf-8")
+    (text_dir / "editorial-note.xhtml").write_text(xhtml_doc("Translator's Preface", editorial_note_body()), encoding="utf-8")
     (text_dir / "nav.xhtml").write_text(xhtml_doc("Table of Contents", nav_body(books)), encoding="utf-8")
 
 
 def nav_body(books: list[Book]) -> str:
     parts = ['  <nav epub:type="toc" id="toc">', "    <h2>Table of Contents</h2>", "    <ol>"]
     parts.append('      <li><a href="titlepage.xhtml">Titlepage</a></li>')
-    parts.append('      <li><a href="editorial-note.xhtml">Editorial Note</a></li>')
+    parts.append('      <li><a href="editorial-note.xhtml">Translator’s Preface</a></li>')
     for book in books:
         parts.append(f'      <li><a href="{book.filename}">{book.title}</a>')
         if book.chapters:
@@ -537,8 +541,13 @@ def write_opf(
     <dc:creator id="creator">Polybius</dc:creator>
     <dc:language>en-US</dc:language>
     <dc:subject>History, Ancient</dc:subject>
-    <dc:description>A modern-English working translation of the extant local source corpus for Polybius, The Histories.</dc:description>
-    <dc:publisher>Hermes local edition</dc:publisher>
+    <dc:contributor id="trl">Claude (Anthropic)</dc:contributor>
+    <meta refines="#trl" property="role" scheme="marc:relators">trl</meta>
+    <dc:contributor id="edt">spinchange</dc:contributor>
+    <meta refines="#edt" property="role" scheme="marc:relators">edt</meta>
+    <dc:description>A modern English translation of Polybius, The Histories (Books 1-39), from the Greek text of Büttner-Wobst.</dc:description>
+    <dc:publisher>Pragmatike Historia (pragmatikehistoria.org)</dc:publisher>
+    <dc:rights>CC0 1.0 Universal — public domain dedication</dc:rights>
     <meta property="dcterms:modified">{modified}</meta>
   </metadata>
   <manifest>
