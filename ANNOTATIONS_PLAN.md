@@ -58,6 +58,13 @@ containment is skipped and fidelity is owned by A4/A6 review. Errors on
 `stub`/`UNVERIFIED` files are reported as warnings; `verified` files must be
 clean or the run exits 1. `ann_build.py` emits only clean `verified` files.
 
+Optional fields: `ocr_fixes: [["bad", "good"], ...]` corrects OCR misreadings
+inside the quoted span; each `bad` must occur in the normalized slice and every
+fix is printed as a warning so a reviewer can audit it. `translation_note:`
+(our-translation only) records any gap or guess in the original-language text.
+Elision must be three *adjacent* dots, so "Hamilcar. ..." keeps its period.
+Spaces around dashes are ignored (OCR often splits "pha- lanx").
+
 Layers:
 1. **readers** — the famous annotations (the thematic heart of the site).
 2. **parallels** — ancient authors retelling the same events (Livy above all);
@@ -172,6 +179,42 @@ Dionysius' dig.
 | A4 | Latin/French/Greek/German showpiece translations | Opus |
 | A5 | survival layer + headnote | Sonnet (Opus for apparatus calls) |
 | A6 | QA | script + Haiku + one Opus/Fable sample |
+
+## Progress and handoff (updated 2026-11-01)
+
+| Phase | State | Commit |
+|---|---|---|
+| A1 schema/validator/builder | done | 83dd957 |
+| A2 17 PD sources + MANIFEST.csv (all OK) | done | 40d4228 |
+| A3 readers (10 English notes) | done, all verified | f99c9c5, 912ec6c |
+| A4 Constantine + Frederick (our translations) | done, verified | b8e7b9c |
+| A3 parallels (10 showpieces, Livy/Plutarch/Appian) | done, all verified | 8dcc4c5 |
+| A5 survival layer + 7.1 headnote | **not started**; blocked on WORK_PLAN Phase 6 ESCALATE attributions in `work/status.csv` | |
+| A6 QA | **not started** | |
+
+How to resume:
+- Check: `cd work/scripts && python ann_validate.py` (expect 22 verified, 0 errors;
+  report in `work/reports/ann_validate.txt`); build: `python ann_build.py`.
+- Refetch sources: `python ann_fetch.py [--force] [file ...]` (untrusted data rules above).
+- New excerptor tasks: hand the agent `work/briefs/excerptor_parallels_brief.md`
+  (adapt `layer:` for readers) plus one task line (anchor, source file, passage).
+  One annotation per agent; review every lede against the Polybius chapter
+  yourself. An agent wrongly claimed Polybius omits the New Carthage
+  fishermen (he has them, 10.8). Treat agent ledes as drafts.
+
+Known items for A6 / the user (not checkable by the validator):
+- A4 translations (Constantine 7.1, Frederick 9.12–20) have had no second-reader
+  check against the Greek/French. Constantine's `translation_note` records an
+  OCR gap filled by reconstruction ("to cut it up into small portions") and one
+  garbled noun rendered from context.
+- Lede claims to fact-check: the Regulus oath as later legend (cicero-officiis-regulus);
+  Adams vol. I reaching Philadelphia during the Convention (adams-defence-...).
+- Every `ocr_fixes` entry is printed as a warning; review them all once.
+- livy-cannae: quote opens a quotation mark the slice never closes. This is
+  intentional, because removing it breaks containment.
+- Unused leads for more parallels: Cannae casualty figures (Polybius 3.117 vs
+  Livy XXII.49); Plutarch's ship-pulley anecdote (Marcellus 14); Livy's scenes
+  after the Isthmian proclamation (XXXIII.33).
 
 ## Open items for the user
 - ~~Approve/trim the seed canon~~ — done 2026-11-01 (A-list / modern-interest rule).

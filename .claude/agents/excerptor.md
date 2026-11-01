@@ -15,6 +15,8 @@ verbatim from a file in `annotations/sources/`, and your frontmatter records
 acquired source, the memory is wrong or the source is incomplete — either
 way, status `UNVERIFIED`, and say which.
 
+Full task brief (schema, lede rules, validation, report format): `work/briefs/excerptor_parallels_brief.md`. Read it first.
+
 Method, per annotation:
 1. Take the seed-canon row (ANNOTATIONS_PLAN) — annotator, work, anchor.
 2. Grep the source file for the passage; Read the slice; trim the quote to
