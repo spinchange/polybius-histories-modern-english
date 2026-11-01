@@ -446,9 +446,9 @@ So Achaeus, after doing everything that reason could suggest, was nevertheless o
 
 ## Book 8 Chapter 22: Capture of Achaeus
 
-Cauarus, king of the Galatians in Thrace, was by nature a truly royal and high-minded man, and he provided great security for the merchants who sailed into the Black Sea, and rendered important services to the Byzantines in their wars against the Thracians and the Bithynians.
+Cauarus, king of the Gauls in Thrace, was by nature a truly royal and high-minded man, and he provided great security for the merchants who sailed into the Black Sea, and rendered important services to the Byzantines in their wars against the Thracians and the Bithynians.
 
-Yet this Cauarus the Galatian, though otherwise an excellent man, was corrupted by a flatterer named Sostratus, a native of Chalcedon.
+Yet this Cauarus the Gaul, though otherwise an excellent man, was corrupted by a flatterer named Sostratus, a native of Chalcedon.
 
 ## Book 8 Chapter 23: Antiochus In Armenia
 
@@ -598,13 +598,13 @@ And when this force as well joined him, Hannibal, delighted that the business wa
 
 ## Book 8 Chapter 30: Hannibal Enters Tarentum
 
-He selected about two thousand Celts, divided them into three bodies, and assigned to each body two of the young men who had managed the plot.
+He selected about two thousand Gauls, divided them into three bodies, and assigned to each body two of the young men who had managed the plot.
 
 He also sent some of his own officers with them, ordering them to occupy the most favorable points along the roads leading into the marketplace.
 
 When they had done this, he ordered the local young men to single out and spare any Tarentine citizens they encountered, crying from a distance that Tarentines should stay where they were, since they were safe.
 
-But to the Carthaginian and Celtic officers he gave orders to kill any Romans they met. With that, they split up and carried out what had been commanded.
+But to the Carthaginian and Gallic officers he gave orders to kill any Romans they met. With that, they split up and carried out what had been commanded.
 
 As the enemy’s entry now became plain to the Tarentines, the city filled with shouting and confusion of every kind.
 
@@ -614,7 +614,7 @@ At this same moment Philemenus and his people, having prepared Roman trumpets an
 
 The Romans, responding in arms by force of habit to the trumpet-call and hurrying toward the citadel, made the affair turn out exactly as the Carthaginians intended.
 
-For as they came through the streets scattered and without formation, some ran into the Carthaginians and others into the Celts, and by being cut down in this manner in separate groups, a very great number perished.
+For as they came through the streets scattered and without formation, some ran into the Carthaginians and others into the Gauls, and by being cut down in this manner in separate groups, a very great number perished.
 
 At daybreak the Tarentines stayed quietly in their houses, still unable to make sense of what was happening.
 
@@ -662,7 +662,7 @@ Inside this again, leaving a suitable interval toward the city, he undertook to 
 
 Leaving behind a sufficient force and a body of cavalry suitable for guarding the city and patrolling along the wall, he encamped about forty stades from the city beside the river called by some the Galaesus but by most the Eurotas, which has that name from the Eurotas flowing by Lacedaemon.
 
-The Tarentines have many such names in both country and city because their colony and kinship with the Lacedaemonians are openly acknowledged.
+The Tarentines have many such names in both country and city because their colony and kinship with the Spartans are openly acknowledged.
 
 And when the wall was quickly nearing completion, thanks to the zeal and eagerness of the Tarentines and the cooperation of the Carthaginians, Hannibal next conceived the idea of taking the citadel as well.
 
@@ -759,6 +759,8 @@ None of the citizens realized what was happening, because of the distance, since
 And the Romans took courage because they held the high ground around Epipolae.
 
 ## Book 8 Chapter 38: Beasts of Burden Used as a Defensive Wall
+
+*Quoted by Suidas, Lexicon.*
 
 He ordered the infantry to take the pack-mules from the rear, baggage and all, and place them in front of themselves. Once this was done, the screen proved safer than any palisade.
 

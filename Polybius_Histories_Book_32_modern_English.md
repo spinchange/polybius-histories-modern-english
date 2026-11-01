@@ -136,8 +136,6 @@ It was on this matter that they had come on embassy at that time, and they recei
 
 ## Book 32 Chapter 8: Eulogy of King Eumenes
 
-II. Affairs at Pergamum.
-
 King Eumenes was crippled in bodily strength, but by the brilliance of his spirit he still held out, a man who in most respects was second to none of the kings of his own age, and in the greatest and noblest matters was greater and more distinguished than they were.
 
 For in the first place, when he inherited from his father a kingdom narrowed down to a few small and meager towns, he made his own power a match for the greatest dynasties of his age, relying not chiefly on fortune or on sudden reversals, but on intelligence, hard work, and his own action.
@@ -177,8 +175,6 @@ For they had the audacity to say absolutely anything on any subject, paying no r
 So, with falsehood winning the day almost without a struggle, they thought the affair was proceeding exactly as they wished.
 
 ## Book 32 Chapter 11: Orophernes’ Ruin and the Oropus Affair
-
-II. Affairs in Asia.
 
 Many men, through their craving for ever more and their overbearing spirit, have been ensnared by wealth; Orophernes, king of Cappadocia, was caught in this trap, ruined, and driven from his kingdom.
 
@@ -223,8 +219,6 @@ At this time envoys arrived from Epirus, both from those who held Phoenice and f
 The senate replied that it would give instructions on these matters to the envoys being sent to Illyria with Gaius Marcius.
 
 ## Book 32 Chapter 15: Prusias Plunders Sanctuaries Around Pergamum
-
-II. War between Prusias and Attalus.
 
 After defeating Attalus, Prusias advanced against Pergamum, prepared a lavish sacrifice, and offered it at the sanctuary of Asclepius.
 

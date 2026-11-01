@@ -28,11 +28,11 @@ For, wisely foreseeing what was to come, they abandoned their country together w
 
 The crisis did indeed do them harm, for the barbarians, once they became masters of Athens, destroyed it without mercy. Yet the Athenians earned no reproach or shame; on the contrary, they won the highest renown among all mankind, because they counted everything else of less importance and chose to share the same fortune as the rest of the Greeks.
 
-Accordingly, because they had made a noble choice, they not only recovered their city and their own territory at once, but soon afterward were contending with the Lacedaemonians for the leadership of the other Greeks.
+Accordingly, because they had made a noble choice, they not only recovered their city and their own territory at once, but soon afterward were contending with the Spartans for the leadership of the other Greeks.
 
 Later, defeated in their turn by the Spartans, they were reduced to such necessity that they pulled down the walls of their own city.
 
-But here too one might say that the blame belongs to the Lacedaemonians, not to the Athenians, because they used too harshly the power that Fortune had given them.
+But here too one might say that the blame belongs to the Spartans, not to the Athenians, because they used too harshly the power that Fortune had given them.
 
 The Spartans, in turn defeated by the Thebans, lost the leadership of the Greeks, and afterward, giving up their rule beyond their borders, were confined within the frontiers of Laconia.
 
@@ -40,7 +40,7 @@ And what is shameful in this, if, while contending for the noblest prizes, they 
 
 These events, therefore, must be called reverses, but by no means should they be termed misfortunes.
 
-The Mantineans were forced to abandon their city when the Lacedaemonians broke it up and scattered them to live in villages; but in this matter everyone condemned the folly not of the Mantineans but of the Lacedaemonians.
+The Mantineans were forced to abandon their city when the Spartans broke it up and scattered them to live in villages; but in this matter everyone condemned the folly not of the Mantineans but of the Spartans.
 
 Some time later the Thebans saw their own city utterly laid waste, when Alexander, intending to cross into Asia, supposed that by punishing the Thebans he would keep the Greeks in check through fear while he was occupied with his own undertakings.
 
@@ -107,7 +107,7 @@ Rather, what moves it is a changing manner and, in general, anything scattered, 
 Likewise one could find that taste cannot remain fixed even on the most luxurious foods, but grows weary of them and delights in changes, often welcoming plain fare more readily than rich fare because of novelty.
 The same thing can be seen in sight as well: for it can least of all remain fixed on a single object, and it is variety and change in what is seen that set it in motion.
 
-Most of all one could see this happening in the soul: changes of attention and concentration are, as it were, rests for those who labor hard...
+Most of all one could see this happening in the soul: changes of attention and concentration are, as it were, rests for those who labor hard [...]
 
 ## Book 38 Chapter 6: Polybius’s Orderly Digressions versus Earlier Historians
 

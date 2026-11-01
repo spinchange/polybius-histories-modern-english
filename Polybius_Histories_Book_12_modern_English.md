@@ -4,7 +4,7 @@ Modern English translation of the Greek text.
 
 ## Book 12 Chapter 1: Geography of Libya
 
-I. African Matters Polybius says, in his twelfth book, that the land of Byzacium lies around the Syrtes: “having a perimeter of two thousand stades, and circular in shape.”
+Polybius says, in his twelfth book, that the land of Byzacium lies around the Syrtes: “having a perimeter of two thousand stades, and circular in shape.”
 
 Hippo, a city of Libya.
 
@@ -38,7 +38,7 @@ It cannot keep for more than ten days; and so they make it only in small quantit
 
 ## Book 12 Chapter 3: Timaeus Wrong about Libya
 
-II. The Errors of Timaeus concerning Africa and Corsica Anyone would marvel at the excellence of the country’s soil, but of Timaeus one would have to say that he has not only failed to investigate the facts about Libya, but is also childish and utterly incapable of reasoning, and still bound fast to those old traditional tales we have inherited—that Libya is wholly sandy, parched, and barren.
+Anyone would marvel at the excellence of the country’s soil, but of Timaeus one would have to say that he has not only failed to investigate the facts about Libya, but is also childish and utterly incapable of reasoning, and still bound fast to those old traditional tales we have inherited—that Libya is wholly sandy, parched, and barren.
 
 The same applies to its animals. For the abundance of horses, cattle, and sheep, and along with these of goats, throughout the country is so great that I doubt whether its match could be found anywhere else in the inhabited world, because many of the tribes in Libya do not rely on cultivated crops, but draw their livelihood from their flocks and live among their flocks.
 
@@ -52,7 +52,7 @@ For in mentioning that island in his second book, he says that there are in it m
 
 But on the island in question there is not so much as a wild goat or ox—nor even a hare, a wolf, a deer, or any other animal of the kind—except foxes, rabbits, and wild sheep.
 
-The rabbit, seen from a distance, looks like a small hare, but when one takes it in hand it shows a great difference both in appearance and in taste; and it lives, for the
+The rabbit, seen from a distance, looks like a small hare, but when one takes it in hand it shows a great difference both in appearance and in taste; and it lives, for the [...]
 
 ## Book 12 Chapter 4: The Errors of Timaeus
 
@@ -84,7 +84,7 @@ And sometimes a thief, lying in wait, drives them off, without the herdsman in c
 
 ## Book 12 Chapter 4a: Timaeus’ Petty Charges against Theopompus and Ephorus
 
-III. On the Other Errors of Timaeus Having torn Timaeus apart on many points, Polybius goes on to say: Who could still grant indulgence for such mistakes, especially to Timaeus, who fastens on others over hangnail-sized trifles like these?
+*Having torn Timaeus apart on many points, Polybius goes on to say:* Who could still grant indulgence for such mistakes, especially to Timaeus, who fastens on others over hangnail-sized trifles like these?
 
 Among these charges he accuses Theopompus on the ground that, although Dionysius made his crossing back from Sicily to Corinth in a warship, Theopompus says that Dionysius arrived in a round-bottomed merchant vessel.
 
@@ -98,7 +98,7 @@ For either Ephorus must have surpassed even Coroebus and Margites in stupidity, 
 
 Moreover, in his account of Pyrrhus he says again that the Romans, even now, keep up a memorial of the destruction at Ilium: on a certain day they spear to death a warhorse in front of the city, in the place called the Campus, because the capture of Troy came about through the horse known as the Wooden Horse—a thing more childish than anything.
 
-For at that rate one would have to say that all barbarians are descendants of the Trojans; since nearly all of them, or if not all, at least the majority, whenever they are about to begin a war or to stake everything in a decisive battle against some enemy, sacrifice a horse beforehand and slaughter it for omens, reading the future
+For at that rate one would have to say that all barbarians are descendants of the Trojans; since nearly all of them, or if not all, at least the majority, whenever they are about to begin a war or to stake everything in a decisive battle against some enemy, sacrifice a horse beforehand and slaughter it for omens, reading the future [...]
 
 ## Book 12 Chapter 4c: Why Timaeus Fails at Inquiry
 
@@ -156,7 +156,7 @@ This, then, is the story told among the Locrians.
 
 From these considerations one would, on reflection, side with Aristotle rather than with Timaeus; and indeed what follows in Timaeus is utterly absurd.
 
-For to suppose, as he suggests, that it was not likely that the servants of those who had fought as allies of the Spartans should transfer their masters’ goodwill to their masters’ friends—that is naïve; for not only the friendships, but also the ties of hospitality and the kinships of their masters, are what former slaves, when they have unexpectedly prospered and time has gone by, try to claim for themselves and to renew, even more than their own natural connections, since by this very means they are eager to wipe out the diminished standing and the disrepute that formerly attached to them, preferring to appear
+For to suppose, as he suggests, that it was not likely that the servants of those who had fought as allies of the Spartans should transfer their masters’ goodwill to their masters’ friends—that is naïve; for not only the friendships, but also the ties of hospitality and the kinships of their masters, are what former slaves, when they have unexpectedly prospered and time has gone by, try to claim for themselves and to renew, even more than their own natural connections, since by this very means they are eager to wipe out the diminished standing and the disrepute that formerly attached to them, preferring to appear [...]
 
 ## Book 12 Chapter 6b: Locrian Wives and Spartan Customs
 
@@ -278,7 +278,7 @@ Against Demetrius that man (Demochares) leveled no ordinary accusation in his hi
 
 For Demetrius, he says, used to boast that many goods were sold cheaply throughout the city and that there was abundance of the necessities of life for everyone—on these things he prided himself; and Demochares relates that a snail moving by itself led Demetrius’s procession, spitting out spittle, and that along with it asses were paraded through the theater—the point being that the country, having surrendered to others all the fair distinctions of Greece, was doing whatever Cassander commanded—and that Demetrius was not ashamed of these things.
 
-But all the same, neither Demetrius nor anyone else ever said
+But all the same, neither Demetrius nor anyone else ever said [...]
 
 ## Book 12 Chapter 14: No Place in History for Abusive Language
 
@@ -438,7 +438,7 @@ Let this, then, be our verdict concerning Ephorus and Callisthenes.
 
 ## Book 12 Chapter 23: Timaeus Exalts Timoleon To Excess
 
-VI. On the historian Timaeus Timaeus mounts a most violent attack against Ephorus, though he is himself guilty of two faults: first, that he bitterly accuses others of the very things to which he is himself liable; and second, that he is thoroughly corrupt in his own mind, setting down such pronouncements in his memoirs and breeding such opinions in those who read them.
+Timaeus mounts a most violent attack against Ephorus, though he is himself guilty of two faults: first, that he bitterly accuses others of the very things to which he is himself liable; and second, that he is thoroughly corrupt in his own mind, setting down such pronouncements in his memoirs and breeding such opinions in those who read them.
 
 But if we are to hold that Callisthenes was justly punished when he met his death, what ought Timaeus to suffer? For the divine power would have far better cause to be indignant with this man than with Callisthenes.
 
@@ -616,13 +616,13 @@ For this man, having praised the people of Gela and of Camarina—first because 
 
 From all this Timaeus would seem to fall short not only of practical ability, but also to come off no little the worse in the very arguments used in the schools of rhetoric.
 
-For everyone surely thinks that proofs ought to be brought forward of things unknown and things disbelieved by the hearers, whereas about matters already known it is the most pointless and most childish thing of all to keep contriving arguments... than what is already known.
+For everyone surely thinks that proofs ought to be brought forward of things unknown and things disbelieved by the hearers, whereas about matters already known it is the most pointless and most childish thing of all to keep contriving arguments [...] than what is already known.
 
-But this man, apart from his whole blunder in directing the greater part of his speech toward things that need no argument at all, has also used assumptions of such a kind that no one could believe Hermocrates used them—the man who fought alongside the Spartans in the sea-battle at Aegospotami, and who with all their crews subdued the forces of the Athenians and their generals in Sicily—nor indeed any boy...
+But this man, apart from his whole blunder in directing the greater part of his speech toward things that need no argument at all, has also used assumptions of such a kind that no one could believe Hermocrates used them—the man who fought alongside the Spartans in the sea-battle at Aegospotami, and who with all their crews subdued the forces of the Athenians and their generals in Sicily—nor indeed any boy [...]
 
 ## Book 12 Chapter 26: Sophistical Commonplaces
 
-...any chance youth? For he, first of all, thinks he ought to remind the delegates that those who sleep at dawn are roused in war by trumpets, but in peacetime by the birds.
+[...] any chance youth? For he, first of all, thinks he ought to remind the delegates that those who sleep at dawn are roused in war by trumpets, but in peacetime by the birds.
 
 After this he says that Heracles established the Olympic games and the truce that goes with them as a demonstration of his own principle, and that, although he harmed all those against whom he made war, he did so under necessity and by another’s command, and was never willingly the cause of harm to any man.
 
@@ -652,7 +652,7 @@ For although the whole of Libya is continuously inhabited and teeming with peopl
 
 And in general, he says, who could be afraid of men who, though nature has given to human beings, as their own special endowment beyond the rest of the animals—I mean their hands—nevertheless go through their whole lives carrying these hands tucked uselessly inside their tunics?
 
-But the crowning point, he says, is that under their tunics they actually wear loincloths, so that not even when they fall in battle should they be exposed to the enemy...
+But the crowning point, he says, is that under their tunics they actually wear loincloths, so that not even when they fall in battle should they be exposed to the enemy [...]
 
 ## Book 12 Chapter 26b: Gelon’s Offer to the Greeks
 
@@ -730,13 +730,13 @@ But Timaeus, so as not to seem to be following Ephorus, on top of misrepresentin
 
 ## Book 12 Chapter 28a: Timaeus on the Dignity of History
 
-...of living men he supposed he would be able to observe this. All the same, in his eagerness to exalt the writing of history, he says first that the difference between history and rhetorical display-pieces is as great as the difference between buildings really constructed and furnished and the scenes and settings that merely appear in stage-paintings.
+[...] of living men he supposed he would be able to observe this. All the same, in his eagerness to exalt the writing of history, he says first that the difference between history and rhetorical display-pieces is as great as the difference between buildings really constructed and furnished and the scenes and settings that merely appear in stage-paintings.
 
 Second, he says that the mere gathering of the materials for history is a greater task than the whole business of composing display-pieces.
 
-He himself, at any rate, claims to have gone to such expense and trouble in collecting the records of the Cyrnians (Corsicans) and in researching the customs of the Ligurians and the Celts, and along with these the Iberians, that he could scarcely have believed it possible himself, nor would others be believed if they were to describe these efforts.
+He himself, at any rate, claims to have gone to such expense and trouble in collecting the records of the Cyrnians (Corsicans) and in researching the customs of the Ligurians and the Gauls, and along with these the Iberians, that he could scarcely have believed it possible himself, nor would others be believed if they were to describe these efforts.
 
-One would gladly put this question to the historian: which does he suppose requires greater expense and hardship—to sit in a city collecting records and researching the customs of the Ligurians and the Celts, or to put most of the nations and places to the test and become an eyewitness oneself?
+One would gladly put this question to the historian: which does he suppose requires greater expense and hardship—to sit in a city collecting records and researching the customs of the Ligurians and the Gauls, or to put most of the nations and places to the test and become an eyewitness oneself?
 
 And again, which is the harder: to inquire about pitched battles, sieges, and naval engagements from those who happened to be present in the moments of danger, or to gain firsthand experience of the perils and of all that goes with them in the actual operations themselves?
 

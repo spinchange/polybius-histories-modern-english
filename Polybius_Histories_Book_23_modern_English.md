@@ -300,7 +300,7 @@ Let this be said by us both for the sake of the glory of these departed men and 
 
 ## Book 23 Chapter 15: Polybius Condemns Ravaging Crops and Trees
 
-It is not right to destroy the crops of those opposed to you. For Polybius says, “For my part I never agree with those who carry their anger against their own people so far that they not only strip their enemies of the year’s produce, but even destroy the trees and the built works, leaving no room for repentance.
+It is not right to destroy the crops of those opposed to you. For *Polybius says,* “For my part I never agree with those who carry their anger against their own people so far that they not only strip their enemies of the year’s produce, but even destroy the trees and the built works, leaving no room for repentance.
 
 Those who do such things seem to me gravely mistaken. For to the same degree that they think they are terrifying their enemies by ravaging the land and taking away not only present means of life but future hopes as well, to that same degree they make men savage and turn the anger of those who have once gone astray into something unchangeable.” —
 

@@ -2,6 +2,8 @@
 
 Modern English translation of the Greek text.
 
+*Chapter 2 of this book is absent from the Greek source and is not translated.*
+
 ## Book 33 Chapter 1: War Against Attalus Prevented
 
 Olympiad 156, year 1. Affairs in Italy.
@@ -144,8 +146,6 @@ And to the allies in Greece and Asia they wrote that they were permitted to assi
 
 ## Book 33 Chapter 12: Roman Commissioners Visit Attalus and Prusias
 
-II. Affairs in Pergamum.
-
 In Asia, Attalus was still, throughout the winter, gathering large forces, since Ariarathes and Mithridates had sent him cavalry and infantry in accordance with their alliance, under the command of Demetrius son of Ariarathes. While he was engaged in these preparations, the ten envoys arrived from Rome, met him near Cadi, discussed the situation with him, and then set out for Prusias.
 
 When they met Prusias, they conveyed the senate’s instructions to him in very severe terms.
@@ -199,8 +199,6 @@ Astymedes of Rhodes, who had been appointed both envoy and admiral, then appeare
 The senate listened attentively and immediately sent envoys under Quintus to settle the war.
 
 ## Book 33 Chapter 16: Crete and Rhodes Ask the Achaeans for Help
-
-II. War between Rhodes and the Cretans.
 
 At this time the Cretans sent envoys to the Achaeans to ask for assistance, headed by Antiphatas son of Telemnastus, a man of Gortyn; and in the same way the Rhodians sent envoys headed by Theophanes.
 
@@ -259,8 +257,6 @@ The senate granted them permission to proceed to their ancestral kingdom, and it
 Heracleides, taking advantage of this opening, at once began hiring mercenaries and summoning prominent men to join him; and when he arrived at Ephesus, he occupied himself with preparations for the enterprise he had in view.
 
 ## Book 33 Chapter 19: Demetrius’s Intemperance
-
-II. Affairs in Syria.
 
 He also says that Demetrius—the man who escaped from his hostage life at Rome and became king of Syria in his thirty-third year—was a heavy drinker and spent most of the day drunk.
 

@@ -66,11 +66,11 @@ Let these remarks stand for those engaged in action, so that they may neither, b
 
 ## Book 11 Chapter 3: The Romans Celebrate a Victory
 
-After winning the battle, the Romans at once plundered the enemy camp, and they slaughtered many of the Celts in their sleeping-places, drunk and helpless like sacrificial victims.
+After winning the battle, the Romans at once plundered the enemy camp, and they slaughtered many of the Gauls in their sleeping-places, drunk and helpless like sacrificial victims.
 
 They also gathered the rest of the captured booty, from which more than three hundred talents were brought into the public treasury.
 
-Of the Carthaginians and Celts together, not fewer than ten thousand fell in the battle, while about two thousand Romans died. Some distinguished Carthaginians were taken alive, but the rest were destroyed.
+Of the Carthaginians and Gauls together, not fewer than ten thousand fell in the battle, while about two thousand Romans died. Some distinguished Carthaginians were taken alive, but the rest were destroyed.
 
 When the report reached Rome, at first they could not believe it, so strongly did they want it to be true.
 
@@ -260,7 +260,7 @@ For when the entire mercenary force had broken the Achaeans and the left wing ha
 
 Instead, in a loss of self-control and with the impulsiveness of a young man, he poured forward with his own mercenaries and pressed hard after the fugitives, as though fear itself were not enough to drive men who had once given way all the way to the gates.
 
-## Book 11 Chapter 15: Defeat of the Lacedaemonians
+## Book 11 Chapter 15: Defeat of the Spartans
 
 The Achaean general, for as long as he could, kept trying to hold the mercenaries in place, calling the officers by name and urging them on.
 
@@ -334,7 +334,7 @@ They had lost only a small number of their own men in the battle, but had killed
 
 ## Book 11 Chapter 18a: The Value of Analyzing Causes
 
-As Polybius says, what use is it for readers to go through wars and battles, the enslavement of cities, and sieges, if they do not understand the causes by which in each case some succeeded and others failed?
+*As Polybius says,* what use is it for readers to go through wars and battles, the enslavement of cities, and sieges, if they do not understand the causes by which in each case some succeeded and others failed?
 
 For the outcomes of actions merely entertain those who hear of them, whereas the analysis of the plans formed beforehand, when properly examined, benefits those who love learning.
 
@@ -344,7 +344,7 @@ And above all, a detailed presentation of the handling of each event helps to co
 
 Who would not pause to admire the man’s leadership, courage, and power in the field, if he reflects on the length of this period, and considers the battles both general and particular, the sieges, the changes of cities, the shifting circumstances, and the sweep of the whole design and action, within which Hannibal, while waging war against the Romans in Italy for sixteen continuous years, never once dismissed his forces from the open field, but kept such great multitudes under his control, like a skilled helmsman, free from mutiny either against himself or among one another, though the army he used was not merely of different nations but not even of the same stock.
 
-For he had Libyans, Iberians, Ligurians, Celts, Phoenicians, Italians, and Greeks, people who by nature shared no law, no custom, no language, and nothing else in common with each other.
+For he had Libyans, Iberians, Ligurians, Gauls, Phoenicians, Italians, and Greeks, people who by nature shared no law, no custom, no language, and nothing else in common with each other.
 
 And yet the commander’s intelligence made such vast and varied differences obey a single order and submit to one purpose, though the circumstances were far from simple and were highly changeable, with Fortune often blowing splendidly in their favor and at other times the reverse.
 

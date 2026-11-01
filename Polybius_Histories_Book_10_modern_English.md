@@ -806,7 +806,7 @@ The Romans, attacking on the wings before the enemy had yet occupied those posit
 
 Hasdrubal, accordingly, reverting to the plan he had formed from the start and seeing his forces wavering and thrown into confusion, rejected the thought of staking everything on a last desperate struggle.
 
-Taking the money and the elephants, and drawing together as many fugitives as he could, he retreated by way of the Tagus toward the passes of the Pyrenees and the Galatians living there.
+Taking the money and the elephants, and drawing together as many fugitives as he could, he retreated by way of the Tagus toward the passes of the Pyrenees and the Gauls living there.
 
 Publius did not think it advantageous to pursue Hasdrubal at once, because he feared an attack by the other commanders; instead, he let his soldiers plunder the enemy camp.
 

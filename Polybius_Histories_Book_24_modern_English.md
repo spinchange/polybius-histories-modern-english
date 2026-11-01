@@ -38,6 +38,8 @@ For because civil wars there are unceasing, and because the savagery they show o
 
 ## Book 24 Chapter 4: Mount Haemus in Thrace
 
+*Quoted by Strabo, Geography.*
+
 Affairs in Macedonia.
 
 Mount Haemus lies toward the Pontus, the greatest and highest of the mountains in that region, dividing Thrace more or less in the middle. Polybius says that from it both seas can be seen, but he is not right; for the distance to the Adriatic is great, and many things obstruct the view.

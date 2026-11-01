@@ -4,6 +4,8 @@ Modern English translation of the Greek text.
 
 ## Book 25 Chapter 1: Destruction of Celtiberian Cities
 
+*Quoted by Strabo, Geography.*
+
 Olympiad 150, year 1. Affairs in Spain.
 
 When Polybius says that Tiberius Gracchus destroyed three hundred Celtiberian cities, Posidonius remarks mockingly that the historian meant to do Gracchus a favor by calling towers “cities,” the way they do in triumphal processions.
@@ -20,7 +22,7 @@ When Eumenes and Ariarathes accepted these proposals and at once sent envoys of 
 
 There was to be peace forever between Eumenes, Prusias, and Ariarathes on the one side, and Pharnaces and Mithridates on the other.
 
-Pharnaces was not to invade Galatia on any pretext whatever; and any earlier treaties between Pharnaces and the Gauls were to be void.
+Pharnaces was not to invade Galatia on any pretext whatever; and any earlier treaties between Pharnaces and the Galatians were to be void.
 
 Likewise he was to withdraw from Paphlagonia, restoring the inhabitants whom he had previously carried off, together with their arms, missiles, and the rest of their equipment.
 

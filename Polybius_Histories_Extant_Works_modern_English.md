@@ -45,7 +45,7 @@ As for how astonishing and great the subject of my work is, nothing will make it
 
 The powers worthy of such comparison are these. The Persians acquired a great empire and dominion for certain periods; but whenever they dared to go beyond the limits of Asia, they endangered not only their empire but their very survival.
 
-The Lacedaemonians disputed the leadership of Greece for many years, but once they gained it, they held it undisputed for barely twelve years.
+The Spartans disputed the leadership of Greece for many years, but once they gained it, they held it undisputed for barely twelve years.
 
 The Macedonians ruled in Europe from the regions by the Adriatic as far as the Danube, and that would appear to be only a very small part of the continent just mentioned.
 
@@ -115,15 +115,15 @@ At that time it was the nineteenth year after the sea battle at Aegospotami and 
 
 The Romans made a treaty and settlement with these Gauls on terms acceptable to them, and, unexpectedly recovering possession of their fatherland, they then took what was in effect the starting point of their rise and in the years that followed made war on their neighboring peoples.
 
-After mastering all the Latins through courage and success in battle, they next fought the Tyrrhenians, then the Celts, and afterward the Samnites, whose territory bordered Latium to the east and north.
+After mastering all the Latins through courage and success in battle, they next fought the Tyrrhenians, then the Gauls, and afterward the Samnites, whose territory bordered Latium to the east and north.
 
 Some time later the Tarentines, because of the outrage they had committed against Roman envoys and the fear this caused them, brought over Pyrrhus—in the year before the Gaulish invasion of the region around Delphi, when some of those Gauls were destroyed and others crossed into Asia.
 
-By this time the Romans had made the Tyrrhenians and Samnites subject to themselves and had already defeated the Celts of Italy in many battles; then for the first time they set out against the remaining parts of Italy, fighting not so much for foreign territory as, for the most part, for lands already their own and rightfully attached to them, since their struggles with the Samnites and Celts had made them true athletes in the labors of war.
+By this time the Romans had made the Tyrrhenians and Samnites subject to themselves and had already defeated the Gauls of Italy in many battles; then for the first time they set out against the remaining parts of Italy, fighting not so much for foreign territory as, for the most part, for lands already their own and rightfully attached to them, since their struggles with the Samnites and Gauls had made them true athletes in the labors of war.
 
 They bore this war nobly, and in the end drove both Pyrrhus and his forces out of Italy. After that they again made war on the peoples who had joined him and subdued them.
 
-Thus, in a remarkable way, they gained control of all Italy’s inhabitants except the Celts; and after this they undertook to besiege the Romans who were then holding Rhegium.
+Thus, in a remarkable way, they gained control of all Italy’s inhabitants except the Gauls; and after this they undertook to besiege the Romans who were then holding Rhegium.
 
 ## Book 1 Chapter 7: Messene and Rhegium
 
@@ -255,7 +255,7 @@ First in order come the events that befell Romans and Carthaginians in the war o
 
 Next comes the Libyan War, followed by the affairs in Iberia carried out by Hamilcar and after him by Hasdrubal on behalf of the Carthaginians.
 
-In the same period occurred the Romans’ first crossing into Illyria and those parts of Europe, and after the events already mentioned their struggles with the Celts in Italy.
+In the same period occurred the Romans’ first crossing into Illyria and those parts of Europe, and after the events already mentioned their struggles with the Gauls in Italy.
 
 At the same time among the Greeks the war called the Cleomenic War was in progress, and with that war I have made the conclusion of the whole introduction and of the second book.
 
@@ -355,7 +355,7 @@ For they reckoned that the war had been made lighter for them, now that the king
 
 The Carthaginians, seeing that Hiero had become their enemy and that the Romans were getting more thoroughly entangled in Sicilian affairs, concluded that they needed a heavier force, one with which they would be able to face the enemy and to hold together their position in Sicily.
 
-So they recruited mercenaries from the country across the sea—many Ligurians and Celts, and still more Iberians than these—and sent them all to Sicily.
+So they recruited mercenaries from the country across the sea—many Ligurians and Gauls, and still more Iberians than these—and sent them all to Sicily.
 
 Seeing that the city of the Agrigentines was excellently suited for their preparations and was at the same time the most important city in their own province, they gathered into it their supplies and forces, deciding to use this city as their base of operations for the war.
 
@@ -401,7 +401,7 @@ And in the end they would indeed have done so, had not Hiero, applying every eff
 
 ## Book 1 Chapter 19: Fall of Agrigentum
 
-...of supplies. After this, the aforementioned man observed that the Romans were in a weakened condition, both from disease and from shortage of food—since a plague-like situation had set in among them—while he reckoned that his own forces were fit to give battle.
+[...] of supplies. After this, the aforementioned man observed that the Romans were in a weakened condition, both from disease and from shortage of food—since a plague-like situation had set in among them—while he reckoned that his own forces were fit to give battle.
 
 He therefore took the elephants, about fifty in number, together with the whole of the rest of his army, and advanced in haste out of Heracleia. He had given orders to the Numidian cavalry to ride ahead, and, on drawing near to the enemy’s stockade, to harass them and try to lure out their cavalry, and then, once the enemy gave chase, to fall back again until they linked up with him.
 
@@ -459,11 +459,11 @@ Rather, they borrowed fifty-oared vessels and triremes from the Tarentines and L
 
 On that occasion, when the Carthaginians put out against them in the strait, one of their decked ships, in its eagerness, pressed too far forward and ran aground, so that it fell into the hands of the Romans; using this ship as a model, they then built their entire fleet on that pattern.
 
-So that, had this not happened, it is plain that through their inexperience they would in the end have been prevented...
+So that, had this not happened, it is plain that through their inexperience they would in the end have been prevented [...]
 
 ## Book 1 Chapter 21: Gn. Cornelius Scipio Asina Surrenders
 
-...from carrying out their plan. Nevertheless, those whose task was the shipbuilding went on with the construction of the vessels, while others gathered the crews and trained them to row on land in the following way: they seated the men on rowing benches on dry ground, in the same arrangement as the seats aboard the actual ships, and, stationing the boatswain in their midst, accustomed them all to lean back together as they drew their hands toward themselves, and to swing forward again as they thrust their hands out, and to begin and end these movements at the boatswain’s commands. Once these preparations had been made, as soon as the ships were finished they launched them, and after practicing for a short while in real conditions at sea, they sailed along the coast of Italy in accordance with the consul’s order.
+[...] from carrying out their plan. Nevertheless, those whose task was the shipbuilding went on with the construction of the vessels, while others gathered the crews and trained them to row on land in the following way: they seated the men on rowing benches on dry ground, in the same arrangement as the seats aboard the actual ships, and, stationing the boatswain in their midst, accustomed them all to lean back together as they drew their hands toward themselves, and to swing forward again as they thrust their hands out, and to begin and end these movements at the boatswain’s commands. Once these preparations had been made, as soon as the ships were finished they launched them, and after practicing for a short while in real conditions at sea, they sailed along the coast of Italy in accordance with the consul’s order.
 
 For Gnaeus Cornelius, who had been put in charge of the Roman naval force, a few days earlier had instructed the ship captains that, as soon as they had fitted out the fleet, they should sail toward the strait; he himself had put to sea with seventeen ships and sailed ahead to Messene, eager to make ready for the fleet the things urgently needed.
 
@@ -507,7 +507,7 @@ Having made use of such a preparation, [the Romans watched for the right moment 
 
 ## Book 1 Chapter 23: Operations in Sicily
 
-[Having made these preparations,] they watched for the right moment to fight at sea. As for Gaius Duilius, as soon as he learned of the misfortune that had overtaken the commander of the naval forces, he handed over the land legions to the military tribunes and crossed over himself to join the fleet.
+they watched for the right moment to fight at sea. As for Gaius Duilius, as soon as he learned of the misfortune that had overtaken the commander of the naval forces, he handed over the land legions to the military tribunes and crossed over himself to join the fleet.
 
 Learning that the enemy was ravaging the territory of Mylae, he sailed against them with his whole fleet.
 
@@ -577,7 +577,7 @@ The Carthaginians, sailing up with three hundred and fifty decked ships, put in 
 
 ## Book 1 Chapter 26: Preparations for Battle
 
-[There they came to anchor.] Now the Romans’ aim was to sail across to Libya and shift the war there, so that the danger for the Carthaginians might concern not Sicily but themselves and their own land.
+Now the Romans’ aim was to sail across to Libya and shift the war there, so that the danger for the Carthaginians might concern not Sicily but themselves and their own land.
 
 The Carthaginians took exactly the opposite view: realizing that Libya was easy to invade, and that its whole population would be easily overcome once an enemy had landed, they were unwilling to allow it, but were eager instead to risk everything and fight at sea.
 
@@ -735,7 +735,7 @@ When the Carthaginian council heard what the Roman general was demanding, althou
 
 ## Book 1 Chapter 32: Xanthippus of Sparta
 
-About this time one of the recruiting officers previously sent to Greece sailed into Carthage, bringing a large number of soldiers, among them a certain Xanthippus, a Lacedaemonian, a man trained in the Spartan discipline and possessed of solid experience in warfare.
+About this time one of the recruiting officers previously sent to Greece sailed into Carthage, bringing a large number of soldiers, among them a certain Xanthippus, a Spartan, a man trained in the Spartan discipline and possessed of solid experience in warfare.
 
 When he heard about the defeat, how it had happened, and in what way, and when he considered the rest of the Carthaginian resources as well as the number of their cavalry and elephants, he quickly concluded and told his friends that the Carthaginians were being beaten not by the Romans but by themselves, through the inexperience of their commanders.
 
@@ -847,7 +847,7 @@ The Romans, at the beginning of summer, launched three hundred and fifty vessels
 
 Falling in with the Carthaginian fleet off Hermaeum, they routed it easily at the first charge and captured a hundred and fourteen ships together with their crews.
 
-Then, taking aboard the young men who had held out in Libya, from Aspis
+Then, taking aboard the young men who had held out in Libya, from Aspis [...]
 
 ## Book 1 Chapter 37: The Roman Fleet Wrecked
 
@@ -889,7 +889,7 @@ Throwing up siege-works at two points and making the other preparations, they br
 
 When the tower by the sea easily fell and the soldiers forced their way in there, what is called the New Town was taken by storm; and the so-called Old Town, endangered by this, was quickly surrendered by its inhabitants.
 
-Having made themselves masters of the place, they sailed back to Rome,
+Having made themselves masters of the place, they sailed back to Rome, [...]
 
 ## Book 1 Chapter 39: The Carthaginians Prosperous
 
@@ -991,7 +991,7 @@ But Alexon the Achaean—the same man who in earlier times had saved the people 
 
 The moment the commander heard of it, he summoned the officers who had remained behind. He appealed to them earnestly, promising large gifts and rewards if they would keep faith with him and not join the plot of those who had left the city.
 
-They eagerly accepted his proposal, and he immediately sent them out together with his own men. To deal with the Celts he sent Hannibal—the son of the Hannibal who had died in Sardinia—because of the familiarity he had built up with them during an earlier campaign; and to the rest of the mercenaries he sent Alexon, because of the regard and trust in which they held him.
+They eagerly accepted his proposal, and he immediately sent them out together with his own men. To deal with the Gauls he sent Hannibal—the son of the Hannibal who had died in Sardinia—because of the familiarity he had built up with them during an earlier campaign; and to the rest of the mercenaries he sent Alexon, because of the regard and trust in which they held him.
 
 These men called the troops together, urged them to stay loyal, and on top of that guaranteed the rewards the commander had promised to each of them. In this way they easily persuaded the men to remain at their posts.
 
@@ -1069,7 +1069,7 @@ But the Rhodian made his departure openly and so far outdid the enemy in both da
 
 And when none of them dared to put out against him, because of the speed of his rowing, he sailed away, having with a single ship defied the entire enemy fleet.
 
-From then on he did the same thing many times over and proved of great service: he kept the Carthaginians constantly informed of urgent matters, kept up the spirits of the besieged, and dismayed the Romans
+From then on he did the same thing many times over and proved of great service: he kept the Carthaginians constantly informed of urgent matters, kept up the spirits of the besieged, and dismayed the Romans [...]
 
 ## Book 1 Chapter 47: The Rhodian is Captured
 
@@ -1159,7 +1159,7 @@ As a result, the Romans were at a great disadvantage right up against the shore 
 
 ## Book 1 Chapter 51: Naval Battle Off Drepana
 
-...joining battle. When the two fleets were close to one another, the signals were raised on each of the flagships and they engaged.
+[...] joining battle. When the two fleets were close to one another, the signals were raised on each of the flagships and they engaged.
 
 At first the contest was evenly matched, since both sides were using the best of their land troops as marines on board; but the Carthaginians steadily gained the upper hand, since throughout the whole engagement they held many advantages.
 
@@ -1267,7 +1267,7 @@ It commands as well a harbor well situated for the run from Drepana and Lilybaeu
 
 It has in all three approaches, all difficult—two from the land and one from the sea. Encamping here at great hazard, Hamilcar, though he had no friendly city of his own and clung to no other hope of any kind, but had thrown himself into the very midst of the enemy, nevertheless made trouble for the Romans in struggles and dangers that were neither small nor trivial.
 
-For, first, using this as his base, he ravaged by sea the coast of Italy as far as the territory of Cumae; and second, on land, when the Romans had encamped opposite him before the city of Panormus at a distance of about five stades, he engaged in many and varied combats on land for nearly three years. About these it is not possible, in writing...
+For, first, using this as his base, he ravaged by sea the coast of Italy as far as the territory of Cumae; and second, on land, when the Romans had encamped opposite him before the city of Panormus at a distance of about five stades, he engaged in many and varied combats on land for nearly three years. About these it is not possible, in writing [...]
 
 ## Book 1 Chapter 57: The Two Sides Evenly Matched
 
@@ -1409,7 +1409,7 @@ From this it is clear—as I proposed at the outset—that it was not by chance,
 
 ## Book 1 Chapter 64: Why Rome is No Longer a Naval Power
 
-…they achieved their purpose. And here one might naturally be puzzled as to the reason why, now that they have mastered the whole world and possess a superiority many times greater than before, they would be unable either to man so many ships or to put to sea with such great fleets as they once did.
+[...] they achieved their purpose. And here one might naturally be puzzled as to the reason why, now that they have mastered the whole world and possess a superiority many times greater than before, they would be unable either to man so many ships or to put to sea with such great fleets as they once did.
 
 The causes of this puzzle, however, will be clearly understood once we come to the account of their constitution—a subject that we must not treat as a mere aside, nor one to which our listeners should give only idle attention.
 
@@ -1461,11 +1461,11 @@ The mercenaries, gathered together at Sicca and having for a long time enjoyed r
 
 And, in their idleness, some of them began to reckon up the wages owed them at an inflated figure, and, totaling it at many times what was actually due, declared that this was what they should demand from the Carthaginians.
 
-And all of them, recalling the promises their generals had made to encourage them in moments of crisis, conceived high hopes and great expectations of the redress that was coming to them…
+And all of them, recalling the promises their generals had made to encourage them in moments of crisis, conceived high hopes and great expectations of the redress that was coming to them [...]
 
 ## Book 1 Chapter 67: The Beginning of the Outbreak
 
-…of the redress they expected. So, as soon as they had all assembled at Sicca, and Hanno—who was then the Carthaginian general in Libya—arrived and, far from fulfilling their hopes and the promises made to them, spoke instead of the weight of the tribute and the general financial straits of the city, and tried to get them to forgo even part of the wages acknowledged to be owed them, at once dissension and faction arose, and continual gatherings took place, sometimes by nationality, sometimes of them all together.
+[...] of the redress they expected. So, as soon as they had all assembled at Sicca, and Hanno—who was then the Carthaginian general in Libya—arrived and, far from fulfilling their hopes and the promises made to them, spoke instead of the weight of the tribute and the general financial straits of the city, and tried to get them to forgo even part of the wages acknowledged to be owed them, at once dissension and faction arose, and continual gatherings took place, sometimes by nationality, sometimes of them all together.
 
 And since they were neither of one race nor of one tongue, the camp was full of disorder, uproar, and what is called sheer confusion.
 
@@ -1473,7 +1473,7 @@ For the Carthaginians, always relying on varied mercenary forces, are right in t
 
 For such forces, once they have fallen into anger and mutual suspicion toward anyone, no longer behave with merely human wickedness, but in the end turn savage like beasts and take on a frenzied disposition.
 
-This is exactly what happened to them on this occasion. For some were Iberians, some Celts, some Ligurians and Balearic Islanders, and not a few were half-Greeks, most of these deserters and slaves; but the largest part of them were Libyans.
+This is exactly what happened to them on this occasion. For some were Iberians, some Gauls, some Ligurians and Balearic Islanders, and not a few were half-Greeks, most of these deserters and slaves; but the largest part of them were Libyans.
 
 So it was impossible to gather them all together into one assembly, or to devise any other means to that end.
 
@@ -1507,11 +1507,11 @@ Even so, with the Carthaginians promising everything in their power, the men agr
 
 Now toward Hamilcar Barcas, alongside whom they had shared the dangers in Sicily, they were ill-disposed, since they thought it was largely because of him that they were being slighted—because he neither came to them as an envoy nor, as it seemed, had voluntarily laid down his command.
 
-But toward Gesco they were very kindly inclined, since he had been a general in Sicily and had taken every possible care for them in other matters and especially in their transport home. So they referred to him the matter of the…
+But toward Gesco they were very kindly inclined, since he had been a general in Sicily and had taken every possible care for them in other matters and especially in their transport home. So they referred to him the matter of the [...]
 
 ## Book 1 Chapter 69: Mathōs and Spendius
 
-…disputed points. He came by sea with the money and put in at Tunes; and at first he met with the officers, and afterward gathered the men together by nationality.
+[...] disputed points. He came by sea with the money and put in at Tunes; and at first he met with the officers, and afterward gathered the men together by nationality.
 
 In part he rebuked them for what had happened, in part he tried to instruct them about the present situation; but most of all he appealed to them regarding the future, asking them to remain well-disposed toward those who had been their paymasters from the start.
 
@@ -1535,11 +1535,11 @@ And the only word they all understood in common was this—“throw”—because
 
 So whenever anyone began to shout “throw,” it came so swiftly and from all sides at once that no one who had once stepped forward could escape.
 
-And so, since for this reason no one any longer dared to offer advice, they appointed for themselves…
+And so, since for this reason no one any longer dared to offer advice, they appointed for themselves [...]
 
 ## Book 1 Chapter 70: Gesco and His Staff Arrested
 
-…as their generals Mathōs and Spendius. Gesco saw the whole disorder and turmoil, but, valuing above all the interest of his country and recognizing that, if these men were driven to savagery, the Carthaginians would clearly be in danger of losing everything, he persisted and held firm, sometimes taking their leaders in hand, sometimes gathering the men by nationality and appealing to them.
+[...] as their generals Mathōs and Spendius. Gesco saw the whole disorder and turmoil, but, valuing above all the interest of his country and recognizing that, if these men were driven to savagery, the Carthaginians would clearly be in danger of losing everything, he persisted and held firm, sometimes taking their leaders in hand, sometimes gathering the men by nationality and appealing to them.
 
 However, the Libyans had not yet received their grain allowances, and, believing that these ought to have been paid to them, they came up insolently; and Gesco, wishing to rebuke their impudence, told them to go and ask their general Mathōs for it.
 
@@ -1553,7 +1553,7 @@ This, then, was how the war against the foreigners—also called the Libyan war�
 
 Mathōs and his men, having accomplished what has been described, at once sent envoys to the cities throughout Libya, urging them to assert their freedom and begging them to help and join in their cause.
 
-After this, when nearly all the peoples of Libya readily heeded their call to revolt from the Carthaginians, and eagerly sent supplies and reinforcements, they divided their forces and undertook to lay siege—some to Utica, others to Hippo Zarytus—because these cities refused to…
+After this, when nearly all the peoples of Libya readily heeded their call to revolt from the Carthaginians, and eagerly sent supplies and reinforcements, they divided their forces and undertook to lay siege—some to Utica, others to Hippo Zarytus—because these cities refused to [...]
 
 ## Book 1 Chapter 71: Despair at Carthage
 
@@ -1571,11 +1571,11 @@ On top of this, they had no abundance of weapons, no naval force, and no fleet i
 
 So it was then that they came to understand clearly how great a difference there is between a foreign war fought across the sea and an internal uprising and upheaval.
 
-And they themselves, more than anyone, had been the cause of such great evils...
+And they themselves, more than anyone, had been the cause of such great evils [...]
 
 ## Book 1 Chapter 72: Revolt in the Country
 
-...and of such grievous troubles. For during the previous war, supposing that they had reasonable grounds for it, they had governed the people of Libya with great harshness.
+[...] and of such grievous troubles. For during the previous war, supposing that they had reasonable grounds for it, they had governed the people of Libya with great harshness.
 
 They had taken half of all the other crops, doubled the tribute imposed on the towns from what it had been before, and granted no pardon or consideration whatever to those in difficulty in any of these exactions.
 
@@ -1601,11 +1601,11 @@ For Carthage itself lies in a gulf, projecting outward like a peninsula by its s
 
 The isthmus that joins it to Libya is about twenty-five stades wide. On the side of this isthmus that faces the open sea, and at no great distance, lies the city of Utica; on the other side, beside the lake, lies Tunes.
 
-Encamping at both of these points, the mercenaries had now cut the Carthaginians off from the countryside and went on to lay plans against the city itself, approaching the wall sometimes by day and sometimes by night, and throwing those inside into utter fear and confusion...
+Encamping at both of these points, the mercenaries had now cut the Carthaginians off from the countryside and went on to lay plans against the city itself, approaching the wall sometimes by day and sometimes by night, and throwing those inside into utter fear and confusion [...]
 
 ## Book 1 Chapter 74: Failures of Hanno
 
-...they struck panic into those within. As for Hanno, he was capable enough when it came to preparations, for he had a natural talent for this side of things; but once he set out with his army he was a different man, for he made poor use of his opportunities and handled affairs as a whole with inexperience and sluggishness.
+[...] they struck panic into those within. As for Hanno, he was capable enough when it came to preparations, for he had a natural talent for this side of things; but once he set out with his army he was a different man, for he made poor use of his opportunities and handled affairs as a whole with inexperience and sluggishness.
 
 Thus, when he first marched to the relief of the besieged at Utica and struck terror into the enemy with the multitude of his beasts—for he had no fewer than a hundred elephants—and then, having gained the beginning of a decisive advantage, he made such bad use of it that he came close to destroying the besieged as well.
 
@@ -1643,11 +1643,11 @@ He had observed that at the river’s mouth, where it discharges into the sea, t
 
 When the moment presented itself, he set out by night and, unobserved by anyone, brought his force across the place just mentioned by daybreak.
 
-The maneuver came as a complete surprise both to those in the city and to the enemy; and Hamilcar advanced across the plain, making his way toward those...
+The maneuver came as a complete surprise both to those in the city and to the enemy; and Hamilcar advanced across the plain, making his way toward those [...]
 
 ## Book 1 Chapter 76: Hamilcar Barcas Defeats Spendius
 
-...who were guarding the bridge. When Spendius and his men realized what had happened, they came out into the plain and moved to support one another: those from the town at the bridge numbered no fewer than ten thousand, and those from Utica more than fifteen thousand.
+[...] who were guarding the bridge. When Spendius and his men realized what had happened, they came out into the plain and moved to support one another: those from the town at the bridge numbered no fewer than ten thousand, and those from Utica more than fifteen thousand.
 
 When they came within sight of one another, supposing that they had caught the Carthaginians between them, they eagerly passed the word along, urging each other on, and engaged the enemy.
 
@@ -1681,11 +1681,11 @@ For the remaining part of their original body had deserted to the Romans during 
 
 When Hamilcar had encamped in a certain plain enclosed on every side by mountains, it happened that at this very moment the reinforcements from the Numidians and Libyans linked up with Spendius’s force.
 
-And so the Carthaginians suddenly found the Libyans encamped in front of them, the Numidians at their rear, and Spendius’s men on their flank, which threw them into great difficulty...
+And so the Carthaginians suddenly found the Libyans encamped in front of them, the Numidians at their rear, and Spendius’s men on their flank, which threw them into great difficulty [...]
 
 ## Book 1 Chapter 78: Narávas Joins Hamilcar
 
-...the situation closed in around them and became difficult to escape. At this very time there was a man named Narávas, one of the most distinguished Numidians and full of warlike energy. He had always been well disposed toward the Carthaginians, having an inherited bond of friendship with them, and at this moment he was all the more spurred on by his admiration for Hamilcar the general.
+[...] the situation closed in around them and became difficult to escape. At this very time there was a man named Narávas, one of the most distinguished Numidians and full of warlike energy. He had always been well disposed toward the Carthaginians, having an inherited bond of friendship with them, and at this moment he was all the more spurred on by his admiration for Hamilcar the general.
 
 He therefore reckoned that he had a favorable opportunity to make contact with him and form an alliance, and he came to the camp with about a hundred Numidians around him.
 
@@ -1739,11 +1739,11 @@ For, he said, it was not out of any wish to spare their lives that Hamilcar had 
 
 In addition, he advised them to take care that, by letting Gesco and his men go, they did not earn the contempt of their enemies and do grave harm to their own cause—by allowing such a man and so capable a general to escape, one who was likely to become their most formidable enemy.
 
-While he was still saying this, another letter-carrier arrived, supposedly sent by the men at Tunes...
+While he was still saying this, another letter-carrier arrived, supposedly sent by the men at Tunes [...]
 
 ## Book 1 Chapter 80: The Murder of Gesco
 
-...bringing a message similar to the one from Sardinia. Following up on this, Autaritus the Gaul declared that there was only one path to safety for their cause: to give up entirely every hope that rested on the Carthaginians.
+[...] bringing a message similar to the one from Sardinia. Following up on this, Autaritus the Gaul declared that there was only one path to safety for their cause: to give up entirely every hope that rested on the Carthaginians.
 
 As long as anyone clung to the prospect of the Carthaginians’ kindness, he said, that man could not become a genuine ally to them.
 
@@ -1819,11 +1819,11 @@ Barcas, meanwhile, took on the general Hannibal—for the citizens had sent this
 
 And so Hamilcar, with Hannibal and Narávas, advanced through the country, cutting off the supply lines of Mathos and Spendius—in this and in everything else receiving the greatest service from Narávas the Numidian.
 
-Such, then, was the situation of the forces in the field...
+Such, then, was the situation of the forces in the field [...]
 
 ## Book 1 Chapter 83: Hippo and Utica Join the Rebels
 
-...this was their state. The Carthaginians, hemmed in on every side, were compelled to fall back on their hopes from the cities allied with them.
+[...] this was their state. The Carthaginians, hemmed in on every side, were compelled to fall back on their hopes from the cities allied with them.
 
 Now Hiero, throughout the present war, had always shown great zeal in everything they asked of him, and at this point he was even more eager, convinced that it was in his own interest—both for his sovereignty in Sicily and for his friendship with Rome—that the Carthaginians should survive, so that the dominant power should not be left entirely free to accomplish its purpose without resistance. His reasoning was thoroughly shrewd and sensible.
 
@@ -1843,11 +1843,11 @@ For this reason they permitted their merchants to export to the Carthaginians wh
 
 And later, when the mercenaries in Sardinia—at the time they revolted from Carthage—tried to draw the Romans onto the island, they did not respond; and when the people of Utica offered to put themselves under Roman control, they did not accept them, keeping faith with the terms of the treaty.
 
-The Carthaginians, then, receiving the support of the friends mentioned above, held out against the...
+The Carthaginians, then, receiving the support of the friends mentioned above, held out against the [...]
 
 ## Book 1 Chapter 84: Hamilcar’s Tactical Superiority
 
-...siege. But Mathos and Spendius found themselves no less besieged than besieging.
+[...] siege. But Mathos and Spendius found themselves no less besieged than besieging.
 
 For Hamilcar reduced them to such a shortage of provisions that in the end they were forced to break off the siege.
 
@@ -1980,7 +1980,7 @@ But when the time for the annual elections drew near, and a new general had to b
 
 But some objected to what he said—above all those who were standing for the office—and urged the assembly not to settle the matter in advance, but to leave it open, so that fortune might bestow this crown on whomever it chose.
 
-In the end the Aetolians decided that whoever was appointed general and captured the city should share with his predecessor both the management
+In the end the Aetolians decided that whoever was appointed general and captured the city should share with his predecessor both the management [...]
 
 ## Book 2 Chapter 3: The Illyrians Relieve Medion
 
@@ -1998,7 +1998,7 @@ Then, charging down from the high ground against the troops drawn up on the plai
 
 They killed many of them and took even more prisoners, and they captured all their arms and baggage.
 
-So the Illyrians, having carried out their king’s orders and brought the baggage and the rest of the plunder down to their boats, at once put to sea, setting
+So the Illyrians, having carried out their king’s orders and brought the baggage and the rest of the plunder down to their boats, at once put to sea, setting [...]
 
 ## Book 2 Chapter 4: Death of Agron of Illyria
 
@@ -2122,7 +2122,7 @@ The Illyrian commanders then put to sea in haste, joined the squadron that had s
 
 At this turn of events the Corcyraeans, hard-pressed and despairing of their whole situation, sent envoys to the Achaeans and the Aetolians—and along with them the Apollonians and Epidamnians did the same—begging them to come to their aid quickly and not to stand by while they were driven from their homes by the Illyrians.
 
-The Achaeans and Aetolians, having heard the envoys and granted their plea, jointly manned the ten decked ships of the Achaeans, and within a few days had them fitted out and sailed for Corcyra,
+The Achaeans and Aetolians, having heard the envoys and granted their plea, jointly manned the ten decked ships of the Achaeans, and within a few days had them fitted out and sailed for Corcyra, [...]
 
 ## Book 2 Chapter 10: Illyrian Victories
 
@@ -2206,11 +2206,11 @@ When the Romans saw this power now growing greater and more formidable, they wer
 
 Finding that in the preceding period they had let themselves doze off and had allowed the Carthaginians to build up a great force, they tried to make up the lost ground as best they could.
 
-For the moment, however, they did not venture either to dictate terms to the Carthaginians or to go to war with them, because the fear of the Celts was hanging over their own affairs and they were all but daily expecting their attack.
+For the moment, however, they did not venture either to dictate terms to the Carthaginians or to go to war with them, because the fear of the Gauls was hanging over their own affairs and they were all but daily expecting their attack.
 
-So, having soothed and conciliated Hasdrubal, they then decided to take on the Celts and bring matters to a decision against them; for they reckoned that, with such men poised on their flank, they would never be able—not merely to hold sway over the rest of Italy—but even to live in safety in their own homeland.
+So, having soothed and conciliated Hasdrubal, they then decided to take on the Gauls and bring matters to a decision against them; for they reckoned that, with such men poised on their flank, they would never be able—not merely to hold sway over the rest of Italy—but even to live in safety in their own homeland.
 
-Accordingly, as soon as they had sent envoys to Hasdrubal and made a treaty with him—in which they passed over the rest of Iberia in silence, but stipulated that the Carthaginians were not to cross the river called the Ebro for the purpose of war—they at once launched their war against the Celts in
+Accordingly, as soon as they had sent envoys to Hasdrubal and made a treaty with him—in which they passed over the rest of Iberia in silence, but stipulated that the Carthaginians were not to cross the river called the Ebro for the purpose of war—they at once launched their war against the Gauls in [...]
 
 ## Book 2 Chapter 14: Cisalpine Gaul
 
@@ -2236,7 +2236,7 @@ The seaboard of the Adriatic gulf serves as the base of the whole figure: the le
 
 ## Book 2 Chapter 15: Grain Production in Cisalpine Gaul
 
-...of the ten thousand stades. As for the fertility of the land, it is not even easy to put into words. Grain is so abundant in these regions that in our own day the Sicilian medimnus of wheat has often gone for four obols, of barley for two, and the metretes of wine for the same price as the barley.
+[...] of the ten thousand stades. As for the fertility of the land, it is not even easy to put into words. Grain is so abundant in these regions that in our own day the Sicilian medimnus of wheat has often gone for four obols, of barley for two, and the metretes of wine for the same price as the barley.
 
 There is, moreover, an utterly overwhelming abundance of panic-grass and millet among them. And as for the quantity of acorns produced by the oak woods scattered at intervals across the plains, one may best judge it from this: although a very great number of pigs are slaughtered in Italy, both for private households and for the provisioning of the armies, by far the fullest supply of them comes from these plains.
 
@@ -2250,11 +2250,11 @@ On each of the two flanks of the Alps—the one inclining toward the river Rhone
 
 The Transalpine are so named not from a difference of race but from a difference of location: for “trans,” translated, means “beyond”; and so they call those who live on the far side of the Alps the Transalpine.
 
-The peaks, both because of their ruggedness and because of the great depth of the [snow]...
+The peaks, both because of their ruggedness and because of the great depth of the [snow] [...]
 
 ## Book 2 Chapter 16: Rivers and Mountains in Northern Italy
 
-...of the snow that lies there always, [the peaks] are utterly uninhabitable. The Apennine, from its beginning above Massalia and its junction with the Alps, is inhabited by the Ligurians—both the flank of it inclining toward the Tyrrhenian Sea and the flank toward the plains— along the sea as far as the city of Pisa, which lies first in Etruria toward the west, and inland as far as the territory of the Arretini.
+[...] of the snow that lies there always, [the peaks] are utterly uninhabitable. The Apennine, from its beginning above Massalia and its junction with the Alps, is inhabited by the Ligurians—both the flank of it inclining toward the Tyrrhenian Sea and the flank toward the plains— along the sea as far as the city of Pisa, which lies first in Etruria toward the west, and inland as far as the territory of the Arretini.
 
 Next come the Etruscans; and continuous with these, on both slopes of the mountains just mentioned, dwell the Umbrians.
 
@@ -2282,15 +2282,15 @@ But when a fitting occasion comes, we shall give them the notice they deserve, e
 
 ## Book 2 Chapter 17: Gallic Settlements in the Valley of the Po
 
-...except that these plains were in ancient times occupied by the Etruscans, at the same period as the so-called Phlegraean plains around Capua and Nola—plains which, just because they lay in many people’s way and so became known, have won a great reputation for fertility.
+[...] except that these plains were in ancient times occupied by the Etruscans, at the same period as the so-called Phlegraean plains around Capua and Nola—plains which, just because they lay in many people’s way and so became known, have won a great reputation for fertility.
 
 For this reason those who record the dominions of the Etruscans should not direct their account to the land now held by them, but to the plains just mentioned and to the resources they drew from these places.
 
-The Celts, mingling with them because they lay alongside one another, and casting envious eyes on the beauty of the country, on a slight pretext unexpectedly attacked with a great army, drove the Etruscans out of the country around the Po, and took possession of the plains themselves.
+The Gauls, mingling with them because they lay alongside one another, and casting envious eyes on the beauty of the country, on a slight pretext unexpectedly attacked with a great army, drove the Etruscans out of the country around the Po, and took possession of the plains themselves.
 
 So the first districts, those lying toward the eastern part of the Po, the Laevi and the Lebecii settled; after these the Insubres, who were the greatest of their peoples; and next to these, along the river, the Cenomani.
 
-The districts already adjoining the Adriatic were held by another, very ancient people: they are called the Veneti, differing little from the Celts in customs and dress, but using a different language.
+The districts already adjoining the Adriatic were held by another, very ancient people: they are called the Veneti, differing little from the Gauls in customs and dress, but using a different language.
 
 About them the tragic poets have made much talk and dealt out much marvel-mongering.
 
@@ -2318,17 +2318,17 @@ After this they were caught up in internal wars; and some of those who lived in 
 
 During this period the Romans recovered their own strength and once more set in order their affairs with the Latins.
 
-When the Celts came again to Alba with a great army, in the thirtieth year after the capture of the city, the Romans did not then dare to lead out their armies against them, because—the assault having come unexpectedly—they were caught off guard and had no time to assemble the mustered forces of their allies.
+When the Gauls came again to Alba with a great army, in the thirtieth year after the capture of the city, the Romans did not then dare to lead out their armies against them, because—the assault having come unexpectedly—they were caught off guard and had no time to assemble the mustered forces of their allies.
 
-But again, on a further expedition twelve years later, when the Celts were advancing with a great army, the Romans, having learned of it beforehand and gathered their allies, went out to meet them with great eagerness, hastening to engage and to risk all in a decisive battle.
+But again, on a further expedition twelve years later, when the Gauls were advancing with a great army, the Romans, having learned of it beforehand and gathered their allies, went out to meet them with great eagerness, hastening to engage and to risk all in a decisive battle.
 
 But the Gauls, dismayed at their approach and falling into discord among themselves, when night came on made their withdrawal homeward in something very like a flight.
 
-After this alarm they kept quiet for thirteen years; and after that, seeing the power of the Romans growing, they made...
+After this alarm they kept quiet for thirteen years; and after that, seeing the power of the Romans growing, they made [...]
 
 ## Book 2 Chapter 19: Gallic Wars
 
-...[peace] and a treaty. Having kept firmly to it for thirty years, when a fresh movement arose among the Transalpine Gauls, the [Cisalpine Gauls], fearing that a heavy war might be stirred up against them, turned the onslaught of the would-be invaders away from themselves by giving gifts and pleading their kinship, but incited them against the Romans and joined in the campaign themselves.
+[...] [peace] and a treaty. Having kept firmly to it for thirty years, when a fresh movement arose among the Transalpine Gauls, the [Cisalpine Gauls], fearing that a heavy war might be stirred up against them, turned the onslaught of the would-be invaders away from themselves by giving gifts and pleading their kinship, but incited them against the Romans and joined in the campaign themselves.
 
 On this campaign they made their attack through Etruria, with the Etruscans joining forces with them, and after gathering a great quantity of plunder they returned safely from the Roman province.
 
@@ -2396,11 +2396,11 @@ They persuaded them easily, since along with the arguments already mentioned the
 
 When the leaders among them heard this, they were so roused to the expedition that never before had more men, or more renowned, or more warlike, gone out from these regions of Gaul.
 
-During this same period the Romans, partly from what they heard and partly from guessing at what was to come, fell into continual fears and disturbances to such a degree that at one time they were enrolling legions and laying in supplies of grain and provisions, and at another were even leading their forces out to the frontiers, as though the enemy were already in their land—though the Celts had not yet stirred from their own country.
+During this same period the Romans, partly from what they heard and partly from guessing at what was to come, fell into continual fears and disturbances to such a degree that at one time they were enrolling legions and laying in supplies of grain and provisions, and at another were even leading their forces out to the frontiers, as though the enemy were already in their land—though the Gauls had not yet stirred from their own country.
 
 This movement also did not least help the Carthaginians toward securing their affairs in Iberia.
 
-For the Romans, as has been said by us before, judging these matters the more pressing because they lay right at their side, were forced to overlook affairs in Iberia, being eager first to put matters with the Celts on a good footing.
+For the Romans, as has been said by us before, judging these matters the more pressing because they lay right at their side, were forced to overlook affairs in Iberia, being eager first to put matters with the Gauls on a good footing.
 
 Therefore, having secured their position with the Carthaginians through the agreements with Hasdrubal, which we have just described, they set about with one accord at this time to deal with the enemy in Italy, considering it to their advantage to settle matters decisively with them.
 
@@ -2410,11 +2410,11 @@ The Gaesatae Gauls, having assembled a costly and heavily armed force, came acro
 
 Now the people of the Insubres and the Boii stood nobly by their original designs, but the Veneti and the Cenomani, after the Romans had sent envoys, chose to ally themselves with the Romans.
 
-On this account the kings of the Celts were compelled to leave behind part of their force to guard their country against the threat from these tribes.
+On this account the kings of the Gauls were compelled to leave behind part of their force to guard their country against the threat from these tribes.
 
 They themselves set out confidently with the whole army, making their march toward Etruria, with about fifty thousand foot and about twenty thousand horse and chariots.
 
-As soon as the Romans heard that the Celts had crossed the Alps, they sent out the consul Lucius Aemilius with a force toward Ariminum to watch for the enemy’s advance by that route, and one of the praetors into Etruria.
+As soon as the Romans heard that the Gauls had crossed the Alps, they sent out the consul Lucius Aemilius with a force toward Ariminum to watch for the enemy’s advance by that route, and one of the praetors into Etruria.
 
 For the other of the consuls, Gaius Atilius, happened to have already gone out to Sardinia with his legions.
 
@@ -2460,7 +2460,7 @@ Against these Hannibal invaded Italy with fewer than twenty thousand men. But on
 
 ## Book 2 Chapter 25: Defeat of the Romans Near Faesulae
 
-The Celts, having descended into Etruria, advanced through the country, plundering it fearlessly; and since no one opposed them, they finally pushed on against Rome itself.
+The Gauls, having descended into Etruria, advanced through the country, plundering it fearlessly; and since no one opposed them, they finally pushed on against Rome itself.
 
 When they were already near a city called Clusium, three days’ march from Rome, news was brought that the Roman forces stationed in Etruria were following close on their rear and were catching up with them.
 
@@ -2468,21 +2468,21 @@ On hearing this, they turned back to meet them, eager to engage.
 
 When the two armies had drawn near each other, already about sunset, both then encamped at a moderate distance apart and bivouacked.
 
-When night came on, the Celts lit fires and left their cavalry behind, instructing them that at daybreak, once they had become visible to the enemy, they should withdraw along the same track.
+When night came on, the Gauls lit fires and left their cavalry behind, instructing them that at daybreak, once they had become visible to the enemy, they should withdraw along the same track.
 
 They themselves made a secret withdrawal toward the city of Faesulae and took up position there, intending both to wait for their own cavalry and to harass the enemy’s advance by surprise.
 
-When day came, the Romans, seeing the cavalry alone and supposing the Celts had fled, eagerly pursued the cavalry along the line of their withdrawal.
+When day came, the Romans, seeing the cavalry alone and supposing the Gauls had fled, eagerly pursued the cavalry along the line of their withdrawal.
 
-As they drew near the enemy, the Celts rose up and fell upon them, and at the outset the struggle on both sides was fierce.
+As they drew near the enemy, the Gauls rose up and fell upon them, and at the outset the struggle on both sides was fierce.
 
-In the end, as the Celts had the upper hand in daring and in numbers, it came about that no fewer than six thousand of the Romans were killed and the rest fled; most of these withdrew to a certain strong position and stayed there.
+In the end, as the Gauls had the upper hand in daring and in numbers, it came about that no fewer than six thousand of the Romans were killed and the rest fled; most of these withdrew to a certain strong position and stayed there.
 
-The Celts at first set about besieging them; but being in a wretched state from the night’s march and their hardship and exhaustion, they turned to rest and recovery, leaving a guard of their own cavalry around the hill, intending on the following day to besiege those who had taken refuge there, unless they should surrender of their own accord.
+The Gauls at first set about besieging them; but being in a wretched state from the night’s march and their hardship and exhaustion, they turned to rest and recovery, leaving a guard of their own cavalry around the hill, intending on the following day to besiege those who had taken refuge there, unless they should surrender of their own accord.
 
 ## Book 2 Chapter 26: Aemilius Deters the Gauls
 
-At this time Lucius Aemilius, who was posted in the regions along the Adriatic, having heard that the Celts had invaded by way of Etruria and were drawing near to Rome, came to the rescue in all haste, arriving fortunately at the critical moment.
+At this time Lucius Aemilius, who was posted in the regions along the Adriatic, having heard that the Gauls had invaded by way of Etruria and were drawing near to Rome, came to the rescue in all haste, arriving fortunately at the critical moment.
 
 When he had encamped close to the enemy, those who had taken refuge on the hill, seeing his fires and grasping what had happened, quickly recovered their courage and sent some of their men, unarmed, by night through the woods to report to the general what had occurred.
 
@@ -2500,15 +2500,15 @@ Lucius, taking up from the hill the surviving part of the army together with his
 
 At this same time the consul Gaius Atilius, having sailed down from Sardinia with his legions to Pisae, was advancing with his force toward Rome, making his march toward the enemy from the opposite direction.
 
-When the Celts were already near Telamon in Etruria, their foragers fell in with the advance party from Gaius’s force and were captured; and on being questioned they made clear to the general what had taken place and reported the presence of both armies, indicating that the Celts were very close at hand and that behind them came the forces of Lucius.
+When the Gauls were already near Telamon in Etruria, their foragers fell in with the advance party from Gaius’s force and were captured; and on being questioned they made clear to the general what had taken place and reported the presence of both armies, indicating that the Gauls were very close at hand and that behind them came the forces of Lucius.
 
-He, partly surprised at this news and partly becoming hopeful at the thought that the Celts had been caught in the middle on the march, ordered the tribunes to draw up the legions and advance at a walk to the front, as far as the ground would allow a frontal advance.
+He, partly surprised at this news and partly becoming hopeful at the thought that the Gauls had been caught in the middle on the march, ordered the tribunes to draw up the legions and advance at a walk to the front, as far as the ground would allow a frontal advance.
 
-He himself, having opportunely spotted a hill lying above the road, beneath which the Celts had to march, took his cavalry and pressed on, eager to seize the crest first and to be the first to open the action, convinced that in this way he would win for himself the greatest share of the credit for the outcome.
+He himself, having opportunely spotted a hill lying above the road, beneath which the Gauls had to march, took his cavalry and pressed on, eager to seize the crest first and to be the first to open the action, convinced that in this way he would win for himself the greatest share of the credit for the outcome.
 
-The Celts at first, unaware of the presence of Atilius’s force and supposing from what was happening that Aemilius’s cavalry had marched around during the night and were seizing the positions ahead of them, immediately sent out their own cavalry and some of the light troops to contest the ground about the hill.
+The Gauls at first, unaware of the presence of Atilius’s force and supposing from what was happening that Aemilius’s cavalry had marched around during the night and were seizing the positions ahead of them, immediately sent out their own cavalry and some of the light troops to contest the ground about the hill.
 
-But on quickly learning of Gaius’s presence from one of the prisoners who had been brought in, they hastily drew up their infantry, forming them up to face both ways at once—both to the rear and to the front; for they knew that one army was following them, while they expected to meet another head-on, judging both from the reports reaching them and from what was
+But on quickly learning of Gaius’s presence from one of the prisoners who had been brought in, they hastily drew up their infantry, forming them up to face both ways at once—both to the rear and to the front; for they knew that one army was following them, while they expected to meet another head-on, judging both from the reports reaching them and from what was [...]
 
 ## Book 2 Chapter 28: The Gauls Defeated On Their Way Home
 
@@ -2516,17 +2516,17 @@ happening at that very moment. Aemilius’s men, who had heard of the legions’
 
 Therefore they at once sent out the cavalry to help those fighting it out on the hill, while they themselves, arranging the infantry in the customary order, advanced against the enemy.
 
-The Celts stationed the so-called Gaesatae from the Alps facing the rear, where they expected Aemilius’s men, and behind these the Insubres; and facing the front they posted the Taurisci and the Boii who dwell on this side of the Po, in the position opposite to the others, looking toward the advance of Gaius’s legions.
+The Gauls stationed the so-called Gaesatae from the Alps facing the rear, where they expected Aemilius’s men, and behind these the Insubres; and facing the front they posted the Taurisci and the Boii who dwell on this side of the Po, in the position opposite to the others, looking toward the advance of Gaius’s legions.
 
 Their wagons and chariots they placed outside each wing, and the booty they collected onto one of the neighboring hills, setting a guard around it.
 
-With the Celtic army thus made double-fronted, the formation proved to be not only striking in appearance but also effective.
+With the Gallic army thus made double-fronted, the formation proved to be not only striking in appearance but also effective.
 
 Now the Insubres and Boii drew up wearing their trousers and their light cloaks; but the Gaesatae, out of love of glory and bravado, threw these off and took their stand at the front of the force naked, with nothing but their weapons, supposing they would thus be most effective, since some of the ground was overgrown with brambles that would catch on clothing and hamper the use of their weapons.
 
 At first the action at the hill itself was the whole of the fighting, plainly visible to all, since so great a number of cavalry from each army had fallen in together in confused combat.
 
-In this engagement it happened that the consul Gaius, fighting recklessly in hand-to-hand combat, lost his life, and his head was carried off to the kings of the Celts; while the Roman cavalry, after struggling stoutly, finally prevailed over both the position and the enemy.
+In this engagement it happened that the consul Gaius, fighting recklessly in hand-to-hand combat, lost his life, and his head was carried off to the kings of the Gauls; while the Roman cavalry, after struggling stoutly, finally prevailed over both the position and the enemy.
 
 After this, when the infantry forces were now close upon one another, the event that took place was remarkable and astonishing—not only to those present at that very moment, but also to those able afterward to bring it before their own eyes from the accounts of it.
 
@@ -2534,11 +2534,11 @@ After this, when the infantry forces were now close upon one another, the event 
 
 This was the way the engagement unfolded. In the first place, since the battle was made up of three separate forces, it is clear that the spectacle, as well as the actual fighting of the troops drawn up in this fashion, must have looked strange and out of the ordinary.
 
-In the second place, one might well be uncertain—both now and at the time, for anyone present at the very moment—whether the Celts held the most perilous position of all, with the enemy pressing in on them from both directions at once, or, on the contrary, the most advantageous one: fighting against both forces simultaneously, yet securing their own safety from either side by means of the men at their backs, and, most important of all, having every avenue of retreat to the rear cut off, along with any hope of survival should they give way. For this is precisely the special quality of a formation that faces two ways.
+In the second place, one might well be uncertain—both now and at the time, for anyone present at the very moment—whether the Gauls held the most perilous position of all, with the enemy pressing in on them from both directions at once, or, on the contrary, the most advantageous one: fighting against both forces simultaneously, yet securing their own safety from either side by means of the men at their backs, and, most important of all, having every avenue of retreat to the rear cut off, along with any hope of survival should they give way. For this is precisely the special quality of a formation that faces two ways.
 
 Such, indeed, is the advantage of a double-fronted line of battle.
 
-As for the Romans, on the one hand they were emboldened by having caught the enemy in the middle and surrounded them on every side; on the other hand they were unnerved by the splendor and the din of the Celtic army.
+As for the Romans, on the one hand they were emboldened by having caught the enemy in the middle and surrounded them on every side; on the other hand they were unnerved by the splendor and the din of the Gallic army.
 
 For the number of horn-blowers and trumpeters was beyond counting, and when, along with these, the whole army joined in raising its war cry together, the clamor that arose was so great and of such a character that not only the trumpets and the men, but even the surrounding country, seemed to echo back and to be giving off a voice of its own.
 
@@ -2546,10 +2546,11 @@ Terrifying too were the appearance and the gestures of the naked warriors who st
 
 And all those who held the foremost companies were adorned with gold torques and armlets.
 
-At the sight of all this the Romans were on the one hand dismayed, but on the other, drawn on by the hope of profit, they were spurred on twice as keenly toward the
+At the sight of all this the Romans were on the one hand dismayed, but on the other, drawn on by the hope of profit, they were spurred on twice as keenly toward the [...]
+
 ## Book 2 Chapter 30: Great Slaughter of the Gauls
 
-danger. But as soon as the javelin-throwers advanced in front of the Roman legions, in keeping with their custom, and let fly with vigorous and densely massed volleys of missiles, the Celts in the rear ranks found their cloaks and trousers of great use to them; but for the naked men standing in front, the outcome turned out contrary to their expectation, and what happened caused them great difficulty and helplessness.
+danger. But as soon as the javelin-throwers advanced in front of the Roman legions, in keeping with their custom, and let fly with vigorous and densely massed volleys of missiles, the Gauls in the rear ranks found their cloaks and trousers of great use to them; but for the naked men standing in front, the outcome turned out contrary to their expectation, and what happened caused them great difficulty and helplessness.
 
 For since the Gallic shield could not cover the whole man, the more the bodies were exposed and the larger they were, the more readily the missiles found their mark.
 
@@ -2563,10 +2564,11 @@ For though they were being cut down, they held firm in spirit on equal terms, in
 
 The Roman shields, that is, offered far greater protection, and their swords were far more effective in action, while the Gallic sword could only deliver a downward cut.
 
-And when the Roman cavalry charged in from higher ground against the flank, riding down from the hill and pressing the attack vigorously, then the Celtic infantry were cut to pieces right where they stood in their line, while their cavalry took to flight.
+And when the Roman cavalry charged in from higher ground against the flank, riding down from the hill and pressing the attack vigorously, then the Gallic infantry were cut to pieces right where they stood in their line, while their cavalry took to flight.
+
 ## Book 2 Chapter 31: Aemilius Returns Victorious
 
-About forty thousand of the Celts were killed, and no fewer than ten thousand taken prisoner, among them one of their kings, Concolitanus.
+About forty thousand of the Gauls were killed, and no fewer than ten thousand taken prisoner, among them one of their kings, Concolitanus.
 
 The other king, Aneroestes, fled with a few men to a certain place and there laid hands on himself and on his close companions.
 
@@ -2576,14 +2578,15 @@ Then, taking up his legions and marching along the very edge of Liguria, he inva
 
 He adorned the Capitol with the standards and the torques—a torque being the gold collar that the Gauls wear around their necks—while the rest of the spoils and the captives he used for his own entry into the city and for the decoration of his triumph.
 
-So this, the most formidable Celtic onslaught, was destroyed in this manner—an invasion that had hung over all the Italians, and especially the Romans, as a great and fearful danger.
+So this, the most formidable Gallic onslaught, was destroyed in this manner—an invasion that had hung over all the Italians, and especially the Romans, as a great and fearful danger.
 
-Emboldened by this success, the Romans came to hope that they would be able to drive the Celts out of the regions around the Po altogether. They therefore sent out both of the consuls appointed for the following year, Quintus Fulvius and Titus Manlius, together with their forces and large-scale preparations, against the Celts.
+Emboldened by this success, the Romans came to hope that they would be able to drive the Gauls out of the regions around the Po altogether. They therefore sent out both of the consuls appointed for the following year, Quintus Fulvius and Titus Manlius, together with their forces and large-scale preparations, against the Gauls.
 
-These consuls, by terrifying the Boii in a sudden assault, forced them to put themselves under Rome’s protection; but for the remainder of the campaign, with extraordinary rainstorms setting in, and on top of that an outbreak of plague befalling them,
+These consuls, by terrifying the Boii in a sudden assault, forced them to put themselves under Rome’s protection; but for the remainder of the campaign, with extraordinary rainstorms setting in, and on top of that an outbreak of plague befalling them, [...]
+
 ## Book 2 Chapter 32: Victory Over the Insubres
 
-they accomplished nothing in the end. After these men, Publius Furius and Gaius Flaminius were appointed and once again invaded Celtic territory, marching through the country of the Anares, who happen to live not far from Massalia.
+they accomplished nothing in the end. After these men, Publius Furius and Gaius Flaminius were appointed and once again invaded Gallic territory, marching through the country of the Anares, who happen to live not far from Massalia.
 
 Having won this people over to friendship, they crossed into the land of the Insubres at the confluence of the rivers Adua and Po.
 
@@ -2595,20 +2598,21 @@ The chiefs of the Insubres, seeing that the Romans’ purpose was unshakable, de
 
 So they gathered all their available forces in one place, took down the golden standards known as “the immovables” from the temple of Athena, made the rest of their preparations as needed, and then, with confidence and in formidable array, encamped opposite the enemy, numbering some fifty thousand men.
 
-The Romans, on the one hand, seeing that they were far outnumbered by their opponents, wished to make use of the forces of the Celts allied with them; but on the other hand, reflecting on Gallic faithlessness and on the fact that they were about to fight against men of the same race as these auxiliaries, they were wary of sharing such a moment and such an undertaking with men of that sort.
+The Romans, on the one hand, seeing that they were far outnumbered by their opponents, wished to make use of the forces of the Gauls allied with them; but on the other hand, reflecting on Gallic faithlessness and on the fact that they were about to fight against men of the same race as these auxiliaries, they were wary of sharing such a moment and such an undertaking with men of that sort.
 
-In the end, then, they themselves remained on their own side of the river, while the Celts who were with them they sent across to the far bank, and then tore up the bridges over the stream—at once securing themselves against those allies, and at the same time leaving themselves only one hope of survival, namely in victory, since the aforementioned river lay impassable at their backs.
+In the end, then, they themselves remained on their own side of the river, while the Gauls who were with them they sent across to the far bank, and then tore up the bridges over the stream—at once securing themselves against those allies, and at the same time leaving themselves only one hope of survival, namely in victory, since the aforementioned river lay impassable at their backs.
 
 Having done this, they were ready to risk the battle.
+
 ## Book 2 Chapter 33: Tactics Against the Gauls
 
 The Romans are thought to have handled this battle intelligently, for the military tribunes showed how the fighting ought to be conducted, both collectively and by each man individually.
 
 For they had observed from earlier engagements that the whole Gallic race is most fearsome in its first charge, in its fury, so long as that fury is still fresh; and that their swords, by their construction, as has been said before, have only one effective downward stroke—the first—but after that they immediately lose their edge, bending both lengthwise and crosswise so badly that, unless the men are given time to straighten them by setting them against the ground with the foot, their second blow is utterly useless.
 
-So the tribunes distributed the spears of the triarii, who stood in reserve behind, to the men in the front companies, and ordered them to use their swords only after switching weapons; and they engaged the Celts in pitched battle, facing them head-on.
+So the tribunes distributed the spears of the triarii, who stood in reserve behind, to the men in the front companies, and ordered them to use their swords only after switching weapons; and they engaged the Gauls in pitched battle, facing them head-on.
 
-As soon as the Gauls made their swords useless by their first downward strokes against the spears, the Romans closed to hand-to-hand range and rendered the Celts helpless, robbing them of their slashing style of fighting—which is peculiar to Gallic warfare—since their sword has no point for thrusting at all.
+As soon as the Gauls made their swords useless by their first downward strokes against the spears, the Romans closed to hand-to-hand range and rendered the Gauls helpless, robbing them of their slashing style of fighting—which is peculiar to Gallic warfare—since their sword has no point for thrusting at all.
 
 The Romans, by contrast, used their swords not for cutting but for thrusting, holding them straight, since the point on them is effective; and striking at the chests and faces and landing blow upon blow, they killed the greater part of those drawn up against them, thanks to the foresight of the tribunes.
 
@@ -2617,11 +2621,12 @@ For the consul Flaminius is thought not to have made good use of the engagement 
 For if the men had been pressed back even slightly from their ground during the battle, they would have had to throw themselves into the river, all because of their commander’s blunder.
 
 Nevertheless, by their own valor they won a decisive victory, as I have said, and after taking abundant plunder and no small amount of spoils, they returned to Rome.
+
 ## Book 2 Chapter 34: Capture of Mediolanum and End of the War
 
-In the following year, when the Celts sent an embassy seeking peace and promising to do anything, the newly appointed consuls Marcus Claudius and Gnaeus Cornelius pressed hard that no peace be granted them.
+In the following year, when the Gauls sent an embassy seeking peace and promising to do anything, the newly appointed consuls Marcus Claudius and Gnaeus Cornelius pressed hard that no peace be granted them.
 
-The Celts, having failed in this and resolving to put their last hopes to the test, once more set about hiring about thirty thousand of the Gaesatae Gauls who live around the Rhone. Having taken these into service, they kept them at the ready and awaited the enemy’s attack.
+The Gauls, having failed in this and resolving to put their last hopes to the test, once more set about hiring about thirty thousand of the Gaesatae Gauls who live around the Rhone. Having taken these into service, they kept them at the ready and awaited the enemy’s attack.
 
 The Roman generals, when the season came, took up their forces and led them into the country of the Insubres.
 
@@ -2629,7 +2634,7 @@ Arriving there and encamping around the city of Acerrae, which lies between the 
 
 The Insubres, unable to bring relief because the favorable positions had already been seized, but eager to break the siege of Acerrae, sent a portion of their force across the Po into the country of the Anares and laid siege to the place called Clastidium. When news of what was happening reached the generals, Marcus Claudius took the cavalry and some of the infantry and hurried off, eager to relieve the besieged.
 
-The Celts, learning of the enemy’s arrival, raised the siege, came out to meet them, and drew up for battle.
+The Gauls, learning of the enemy’s arrival, raised the siege, came out to meet them, and drew up for battle.
 
 When the Romans, with the cavalry alone, boldly charged them in a sudden assault, they held out at first; but afterward, with the enemy surrounding them both at the rear and on the flank, they were hard-pressed in the fighting and were finally routed by the cavalry alone.
 
@@ -2641,12 +2646,13 @@ Gnaeus followed close on their heels and made a sudden assault on Mediolanum; at
 
 The Romans, obeying their general, fought stoutly against those pressing on them.
 
-The Celts, on account of their present success, held their ground confidently for a while, but before long they were routed and fled to the foothills. Gnaeus pursued them, ravaged the countryside, and
+The Gauls, on account of their present success, held their ground confidently for a while, but before long they were routed and fled to the foothills. Gnaeus pursued them, ravaged the countryside, and [...]
+
 ## Book 2 Chapter 35: Character of the Gauls
 
 took Mediolanum by storm. When this happened, the chiefs of the Insubres, despairing of any hope of safety, surrendered everything they had to the Romans.
 
-Such, then, was the outcome of the war against the Celts. In terms of the desperate fury and daring of the men who fought it, and further in terms of the battles and the number of those killed and engaged in them, it was inferior to none recorded in history; but in terms of strategic planning and the lack of judgment in the conduct of its individual stages, it was utterly contemptible—because not the greater part, but absolutely everything the Gauls did was governed by passion rather than by reason.
+Such, then, was the outcome of the war against the Gauls. In terms of the desperate fury and daring of the men who fought it, and further in terms of the battles and the number of those killed and engaged in them, it was inferior to none recorded in history; but in terms of strategic planning and the lack of judgment in the conduct of its individual stages, it was utterly contemptible—because not the greater part, but absolutely everything the Gauls did was governed by passion rather than by reason.
 
 Having observed for myself how these people were driven out of the plains around the Po not long afterward—except for a few localities lying right at the foot of the Alps—I decided that I ought not to leave unrecorded either their original invasion, or their subsequent actions, or their final expulsion, believing it proper to the work of history to bring such episodes of Fortune into memory and to hand them down to those who come after, so that our descendants may not be utterly ignorant of these things and thus be terrified by the sudden and unexpected attacks of the barbarians, but rather, bearing in mind to some degree how short-lived and how easily broken the barbarian host is, may withstand their onslaught—those who face danger with judgment—and may exhaust all their own resources before yielding any of what is essential.
 
@@ -2658,7 +2664,7 @@ And since the dread of the Gauls has dismayed the Greeks repeatedly, not only in
 
 ## Book 2 Chapter 36: Hasdrubal Dies and Hannibal Succeeds Him
 
-Now Hasdrubal, the Carthaginian general—for it was from his affairs that we digressed in our narrative—died after governing the affairs of Iberia for eight years. He was treacherously murdered at night in his own quarters by a certain man of Celtic stock, in revenge for private wrongs.
+Now Hasdrubal, the Carthaginian general—for it was from his affairs that we digressed in our narrative—died after governing the affairs of Iberia for eight years. He was treacherously murdered at night in his own quarters by a certain man of Gallic stock, in revenge for private wrongs.
 
 He had brought about no small but a great advance in the fortunes of Carthage, not so much through his military exploits as through his dealings with the native princes.
 
@@ -2722,11 +2728,11 @@ And it was not only on this occasion that they showed their approval of the Acha
 
 For the people of Croton, Sybaris, and Caulonia, after inviting one another and reaching a common understanding, first established a shared temple and precinct of Zeus Homarios, in which they held their meetings and deliberations, and then, adopting the customs and laws of the Achaeans, undertook to use them and to govern their state accordingly. But under the pressure of the despotic power of Dionysius of Syracuse, and likewise of the domination of the neighboring barbarians, they were hindered, and abandoned these arrangements—not willingly, but under compulsion.
 
-Later, when the Lacedaemonians had suffered their unexpected defeat at the battle of Leuctra, and the Thebans had unexpectedly laid claim to the leadership of Greece, there was great uncertainty among all the Greeks, and especially among the two peoples just named, since the one would not admit it had been beaten, and the other did not believe it had won.
+Later, when the Spartans had suffered their unexpected defeat at the battle of Leuctra, and the Thebans had unexpectedly laid claim to the leadership of Greece, there was great uncertainty among all the Greeks, and especially among the two peoples just named, since the one would not admit it had been beaten, and the other did not believe it had won.
 
-Nevertheless, in their dispute the Thebans and the Lacedaemonians entrusted the points at issue to the Achaeans alone of all the Greeks—not with any regard to their power, for at that time they had perhaps the smallest power of any people in Greece, but chiefly out of regard for their good faith and their general integrity. For that was, by common consent, the reputation everyone then held of them.
+Nevertheless, in their dispute the Thebans and the Spartans entrusted the points at issue to the Achaeans alone of all the Greeks—not with any regard to their power, for at that time they had perhaps the smallest power of any people in Greece, but chiefly out of regard for their good faith and their general integrity. For that was, by common consent, the reputation everyone then held of them.
 
-At that period, then, these qualities of principle existed among them only in bare form; but no achievement or notable action tending to the growth of their own power came about, because they were unable to produce a leader worthy of their principles. Whenever someone gave promise of it, he was overshadowed and held back, at one time by the dominance of the Lacedaemonians, at another, still more, by
+At that period, then, these qualities of principle existed among them only in bare form; but no achievement or notable action tending to the growth of their own power came about, because they were unable to produce a leader worthy of their principles. Whenever someone gave promise of it, he was overshadowed and held back, at one time by the dominance of the Spartans, at another, still more, by [...]
 
 ## Book 2 Chapter 40: Unification of the Peloponnese
 
@@ -2794,7 +2800,7 @@ These events took place in the year before the defeat of the Carthaginians, the 
 
 Having advanced his design so greatly in so short a time, Aratus thereafter continued as leader of the Achaean nation, directing all his plans and actions toward a single goal: namely, to expel the Macedonians from the Peloponnese, to abolish the autocracies, and to secure for each people the common freedom their ancestors had enjoyed.
 
-So long as Antigonus Gonatas lived, then, Aratus persisted in opposing both that king’s meddling and the rapacity of the Aetolians, handling each matter with practical skill—even though the two of them had advanced so far in injustice and reckless daring that they made a formal compact with each other for
+So long as Antigonus Gonatas lived, then, Aratus persisted in opposing both that king’s meddling and the rapacity of the Aetolians, handling each matter with practical skill—even though the two of them had advanced so far in injustice and reckless daring that they made a formal compact with each other for [...]
 
 ## Book 2 Chapter 44: The Death of Demetrius
 
@@ -2818,7 +2824,7 @@ So now, buoyed up by similar hopes, they had the audacity to make common cause a
 
 For they saw that Antigonus held secure control of Macedonia, and that he was an acknowledged and open enemy of the Achaeans because of their plot that had captured the Acrocorinth.
 
-They reckoned that if they brought in the Lacedaemonians as additional partners in the scheme and pushed them first into hostility against the nation, they could easily crush the Achaeans by attacking them at the right moment and surrounding them with war on every side.
+They reckoned that if they brought in the Spartans as additional partners in the scheme and pushed them first into hostility against the nation, they could easily crush the Achaeans by attacking them at the right moment and surrounding them with war on every side.
 
 And in all likelihood they would quickly have accomplished this, had they not overlooked the most crucial point in their plan: they failed to reckon that in their designs they would have Aratus as an opponent—a man capable of meeting every emergency.
 
@@ -2828,17 +2834,17 @@ How the whole affair was managed will become clear from what I am about to relat
 
 ## Book 2 Chapter 46: The Intrigues of the Aetolians
 
-For Aratus observed that the Aetolians were ashamed to take up war against the Achaeans openly, since the favors the Achaeans had done them in the Demetrian War were still very fresh, but that they were conspiring with the Lacedaemonians and envied the Achaeans so deeply that, when Cleomenes had treacherously seized from them Tegea, Mantinea, and Orchomenus—cities that were not only Aetolian allies but at that time actually members of their own league—they were not the least indignant about it, but even confirmed his takeover; and whereas in the past, out of greed, they had treated any pretext as sufficient grounds for going to war against people who had done them no wrong, now Aratus saw them willingly letting their treaties be violated and deliberately giving up their greatest cities for one purpose only—to see Cleomenes become a formidable adversary to the Achaeans.
+For Aratus observed that the Aetolians were ashamed to take up war against the Achaeans openly, since the favors the Achaeans had done them in the Demetrian War were still very fresh, but that they were conspiring with the Spartans and envied the Achaeans so deeply that, when Cleomenes had treacherously seized from them Tegea, Mantinea, and Orchomenus—cities that were not only Aetolian allies but at that time actually members of their own league—they were not the least indignant about it, but even confirmed his takeover; and whereas in the past, out of greed, they had treated any pretext as sufficient grounds for going to war against people who had done them no wrong, now Aratus saw them willingly letting their treaties be violated and deliberately giving up their greatest cities for one purpose only—to see Cleomenes become a formidable adversary to the Achaeans.
 
-Seeing all this, Aratus—and likewise all the leaders of the Achaean state—decided that they should not initiate war against anyone, but should resist the designs of the Lacedaemonians.
+Seeing all this, Aratus—and likewise all the leaders of the Achaean state—decided that they should not initiate war against anyone, but should resist the designs of the Spartans.
 
-At first, then, they held to this view; but as time went on, when they saw Cleomenes boldly building the fort called the Athenaeum in the territory of Megalopolis and openly revealing himself as their bitter enemy, then at last they convened the Achaeans and resolved, together with the council, to take up open hostility against the Lacedaemonians.
+At first, then, they held to this view; but as time went on, when they saw Cleomenes boldly building the fort called the Athenaeum in the territory of Megalopolis and openly revealing himself as their bitter enemy, then at last they convened the Achaeans and resolved, together with the council, to take up open hostility against the Spartans.
 
-This, then, was how the war called the Cleomenic War began, and at about these
+This, then, was how the war called the Cleomenic War began, and at about these [...]
 
 ## Book 2 Chapter 47: The Cleomenic War
 
-times. At first the Achaeans set out to face the Lacedaemonians with their own forces, partly because they thought it most honorable not to obtain their safety through others, but to preserve their cities and territory by themselves, and partly because they wished to maintain their friendship with Ptolemy, on account of the benefits he had bestowed earlier, and not to appear to be reaching out to others for help.
+times. At first the Achaeans set out to face the Spartans with their own forces, partly because they thought it most honorable not to obtain their safety through others, but to preserve their cities and territory by themselves, and partly because they wished to maintain their friendship with Ptolemy, on account of the benefits he had bestowed earlier, and not to appear to be reaching out to others for help.
 
 But when the war had gone on for some time, and Cleomenes had abolished his country’s ancestral constitution and converted its lawful kingship into a tyranny, and was waging the war with energy and reckless daring, Aratus, foreseeing what was to come and fearing the desperate audacity of the Aetolians, decided that he must spoil their plan well in advance.
 
@@ -2870,7 +2876,7 @@ So the Megalopolitans appointed Nicophanes and Cercidas themselves as envoys to 
 
 The Achaeans gave the Megalopolitans permission to send the embassy.
 
-Nicophanes and his colleagues hastened to meet the king, and concerning their own city they spoke only of the essentials, briefly and in summary; but most of what they said, following Aratus’s instructions, concerned
+Nicophanes and his colleagues hastened to meet the king, and concerning their own city they spoke only of the essentials, briefly and in summary; but most of what they said, following Aratus’s instructions, concerned [...]
 
 ## Book 2 Chapter 49: The Message to Antigonus Doson from Aratus
 
@@ -2882,7 +2888,7 @@ For the greed of the Aetolians would never be content to be confined within the 
 
 And that leadership he could not attain without first overthrowing the Macedonian empire.
 
-They therefore asked him to consider, looking ahead to the future, which course better served his own interests: to fight Cleomenes in the Peloponnese for the leadership of Greece alongside the Achaeans and Boeotians, or to abandon the greatest nation and stake the Macedonian empire on a battle in Thessaly against the Aetolians and Boeotians—and the Achaeans and Lacedaemonians as well.
+They therefore asked him to consider, looking ahead to the future, which course better served his own interests: to fight Cleomenes in the Peloponnese for the leadership of Greece alongside the Achaeans and Boeotians, or to abandon the greatest nation and stake the Macedonian empire on a battle in Thessaly against the Aetolians and Boeotians—and the Achaeans and Spartans as well.
 
 If, then, the Aetolians—out of regard for the goodwill the Achaeans had shown them in the time of Demetrius—were to pretend to keep quiet, as they were doing even now, the Achaeans, they said, would wage war against Cleomenes on their own; and if fortune lent its support, they would have no need of anyone to help them. But if fortune turned against them, and the Aetolians joined in the attack, they urged him to keep an eye on developments, so that he might not let the right moment slip, but might come to the aid of the Peloponnesians while they could still be saved.
 
@@ -2900,17 +2906,17 @@ Aratus, having heard privately from Nicophanes about the disposition the king he
 
 He also considered it very much to his advantage that the Megalopolitans were eager to bring the matter to Antigonus through the agency of the Achaeans. For above all, as I said earlier, his goal was to avoid needing the assistance at all; but if it should become unavoidable to fall back on it, he wanted the invitation to come not through himself alone, but still more from all the Achaeans together.
 
-For he was anxious that, should the king come, defeat Cleomenes and the Lacedaemonians in the war, and then adopt some less favorable policy toward their common constitution, he himself might by general agreement bear the blame for whatever followed— since Antigonus would be thought to be acting justly, on account of the wrong previously done by Aratus himself against the house of Macedon in the matter of the Acrocorinth.
+For he was anxious that, should the king come, defeat Cleomenes and the Spartans in the war, and then adopt some less favorable policy toward their common constitution, he himself might by general agreement bear the blame for whatever followed— since Antigonus would be thought to be acting justly, on account of the wrong previously done by Aratus himself against the house of Macedon in the matter of the Acrocorinth.
 
 Therefore, as soon as the Megalopolitans came before the common council, displayed the letters to the Achaeans, made clear the king’s full goodwill, and on top of this asked them to secure Antigonus’s alliance as quickly as possible—and as the assembly too was of the same inclination—
 
-Aratus came forward, welcomed the king’s eagerness and praised the disposition of the majority, but then in a lengthy speech urged them above all to try to preserve their cities and their territory by their own efforts: for nothing, he said, was more honorable or more advantageous than this; and only if fortune turned against them in this effort, he said, should they—after first exhausting every hope that lay within themselves—then
+Aratus came forward, welcomed the king’s eagerness and praised the disposition of the majority, but then in a lengthy speech urged them above all to try to preserve their cities and their territory by their own efforts: for nothing, he said, was more honorable or more advantageous than this; and only if fortune turned against them in this effort, he said, should they—after first exhausting every hope that lay within themselves—then [...]
 
 ## Book 2 Chapter 51: The Achaeans Must Appeal to Antigonus
 
 fall back on the assistance of their friends. The assembly signified its approval, and it was resolved to hold to their present course and to carry through the current war by their own efforts.
 
-But Ptolemy, despairing of the league, set about subsidizing Cleomenes instead—wishing to set him up against Antigonus, because he had greater hopes that the Lacedaemonians, rather than the Achaeans, could hold in check the designs of the Macedonian kings.
+But Ptolemy, despairing of the league, set about subsidizing Cleomenes instead—wishing to set him up against Antigonus, because he had greater hopes that the Spartans, rather than the Achaeans, could hold in check the designs of the Macedonian kings.
 
 The Achaeans, meanwhile, were first worsted at Lycaeum, when they clashed with Cleomenes on the march; secondly they were defeated in a pitched battle at the place called Ladocea in the territory of Megalopolis, where Lydiadas also fell; and a third time they were utterly broken in the territory of Dyme, near the place called Hecatombaeum, where they had risked their whole levy.
 
@@ -2920,7 +2926,7 @@ At that juncture Aratus sent his son as envoy to Antigonus and confirmed the ter
 
 But the greatest difficulty and embarrassment they faced was this: the king did not seem likely to help unless he recovered the Acrocorinth and took the city of the Corinthians as a base of operations for the current war; while the Achaeans, for their part, could not bring themselves to hand the Corinthians over to the Macedonians against their will.
 
-For this reason the deliberation was at first postponed,
+For this reason the deliberation was at first postponed, [...]
 
 ## Book 2 Chapter 52: Antigonus Doson at the Isthmus
 
@@ -2928,7 +2934,7 @@ so that the question of the guarantees might be examined. Cleomenes, meanwhile, 
 
 For when the Corinthians ordered Aratus, who held the office of Strategus, and the Achaeans to leave the city, and sent messages to Cleomenes inviting him in, they handed the Achaeans a starting point and a reasonable pretext.
 
-Aratus seized on it: since the Achaeans then held the place, he offered the Acrocorinth to Antigonus. By this he dissolved the standing grievance against the royal house, furnished a sufficient pledge of partnership for the future, and—what was decisive—provided Antigonus a base of operations for the war against the Lacedaemonians.
+Aratus seized on it: since the Achaeans then held the place, he offered the Acrocorinth to Antigonus. By this he dissolved the standing grievance against the royal house, furnished a sufficient pledge of partnership for the future, and—what was decisive—provided Antigonus a base of operations for the war against the Spartans.
 
 When Cleomenes learned that the Achaeans were coming to terms with Antigonus, he broke camp from Sicyon and encamped near the Isthmus, fencing off with palisade and trench the ground between the Acrocorinth and the mountains called the Onean range, by now firmly embracing in his hopes the whole dominion of the Peloponnese.
 
@@ -2938,7 +2944,7 @@ At that point, reckoning from the reports reaching him that Cleomenes with his a
 
 For the Aetolians, among their other measures and also at this time wishing to prevent Antigonus from bringing aid, had forbidden him to march with an army south of Thermopylae, declaring that otherwise they would oppose his passage by force of arms.
 
-So Antigonus and Cleomenes lay encamped opposite each other, the one striving to enter
+So Antigonus and Cleomenes lay encamped opposite each other, the one striving to enter [...]
 
 ## Book 2 Chapter 53: Cleomenes Returns to Sparta after the Achaeans Take Argos
 
@@ -2950,7 +2956,7 @@ This indeed must be reckoned the chief cause of the recovery of their fortunes. 
 
 For although he held more advantageous positions, enjoyed more lavish supplies than Antigonus, and was driven on by greater daring and ambition, nevertheless, as soon as the news fell upon him that the city of the Argives had been taken by the Achaeans, he was immediately uprooted: abandoning the advantages just described, he made his withdrawal more like a flight, fearing that the enemy might surround him on every side.
 
-He fell back upon Argos and for a while contested the city; but afterward, when the Achaeans resisted nobly and the Argives, out of remorse, fought him off with great zeal, he failed in this attempt as well, and marching by way of Mantinea returned thus to
+He fell back upon Argos and for a while contested the city; but afterward, when the Achaeans resisted nobly and the Argives, out of remorse, fought him off with great zeal, he failed in this attempt as well, and marching by way of Mantinea returned thus to [...]
 
 ## Book 2 Chapter 54: Antigonus Doson Appointed Generalissimo
 
@@ -3034,7 +3040,7 @@ So in every case the final judgment about such things rests not in the deeds the
 
 The people of Mantinea, then, had at the outset abandoned their membership in the Achaean confederacy and of their own free will handed themselves and their homeland over to the Aetolians, and after that to Cleomenes.
 
-Having committed themselves to this course and become participants in the Lacedaemonian polity, in the fourth year before the arrival of Antigonus they were taken by storm by the Achaeans, when Aratus carried off a stroke against their city.
+Having committed themselves to this course and become participants in the Spartan polity, in the fourth year before the arrival of Antigonus they were taken by storm by the Achaeans, when Aratus carried off a stroke against their city.
 
 On that occasion they were so far from suffering any harsh treatment for the offense just described that what happened actually became famous, because of the suddenness with which both sides reversed their attitude toward one another.
 
@@ -3048,21 +3054,21 @@ The very men against whom they had been fighting a little while before—men thr
 
 And they had good reason to act so. For I do not know whether any men ever encountered more reasonable enemies, or whether any ever came through what seemed the greatest of calamities with less harm than the Mantineans did, thanks to the humanity of Aratus and the Achaeans toward them.
 
-## Book 2 Chapter 58: The Mantineans Turn Over their City to the Lacedaemonians
+## Book 2 Chapter 58: The Mantineans Turn Over their City to the Spartans
 
-But afterward, foreseeing the factional strife within their own community and the schemes of the Aetolians and Lacedaemonians, they sent envoys to the Achaeans and requested that a protective garrison be provided for them.
+But afterward, foreseeing the factional strife within their own community and the schemes of the Aetolians and Spartans, they sent envoys to the Achaeans and requested that a protective garrison be provided for them.
 
 The Achaeans agreed and selected by lot three hundred men from their own number. Those on whom the lot fell set out, leaving behind their own cities and livelihoods, and took up residence in Mantinea, guarding the freedom and at the same time the security of its people.
 
 Along with these they also sent out two hundred mercenaries, who together with the Achaeans helped maintain the established order there.
 
-Not long afterward, however, the Mantineans fell into civil strife, drew in the Lacedaemonians, handed over the city to them, and slaughtered the men stationed among them by the Achaeans—a graver and more dreadful breach of faith than one could easily describe.
+Not long afterward, however, the Mantineans fell into civil strife, drew in the Spartans, handed over the city to them, and slaughtered the men stationed among them by the Achaeans—a graver and more dreadful breach of faith than one could easily describe.
 
 For even granted that they had decided to renounce altogether their gratitude and friendship toward the confederacy, they surely ought at least to have spared the men just mentioned and allowed every one of them to depart under a truce.
 
 This much, after all, it is customary to grant even to enemies, by the common laws of mankind.
 
-But they, in order to give Cleomenes and the Lacedaemonians a sufficient pledge of their commitment to the present design, transgressed the common rights of mankind and deliberately carried out the most monstrous act of impiety.
+But they, in order to give Cleomenes and the Spartans a sufficient pledge of their commitment to the present design, transgressed the common rights of mankind and deliberately carried out the most monstrous act of impiety.
 
 For to become the murderers and avengers of men who had earlier taken them by storm yet released them unharmed, and who at that very moment were guarding their freedom and security—how great an indignation does this deserve?
 
@@ -3092,7 +3098,7 @@ And if Aristomachus did endure the most terrible tortures, as this man claims, e
 
 Aristomachus, using this as a pretext and excuse, on the ground that certain men had been complicit in the Achaeans’ entry, tortured and slaughtered the eighty foremost citizens, who had done no wrong, in front of their own relatives.
 
-I pass over the crimes committed throughout the whole of his life and
+I pass over the crimes committed throughout the whole of his life and [...]
 
 ## Book 2 Chapter 60: Crimes of Aristomachus
 
@@ -3126,7 +3132,7 @@ What nobler deed has ever been done, or could be done? To what could a historian
 
 ## Book 2 Chapter 62: The Wealth of Megalopolis
 
-Furthermore, in what follows he says that from the spoils of Megalopolis six thousand talents fell to the Lacedaemonians, of which two thousand were given to Cleomenes according to custom.
+Furthermore, in what follows he says that from the spoils of Megalopolis six thousand talents fell to the Spartans, of which two thousand were given to Cleomenes according to custom.
 
 Here, in the first place, who would not be amazed at his inexperience and his ignorance of the common understanding of the resources and power of Greek affairs—a knowledge that historians above all ought to possess?
 
@@ -3134,7 +3140,7 @@ For I am not even speaking of those earlier times in which the resources of the 
 
 That I make this claim now not at random but on solid reasoning is clear from the following.
 
-For who has not read concerning the Athenians that at the time when, together with the Thebans, they entered upon the war against the Lacedaemonians and sent out ten thousand soldiers and manned a hundred triremes, they then decided to base their war contributions on a property assessment and had the entire territory of Attica valued, along with the houses, and likewise the rest of their property—yet the whole valuation of their wealth fell short of six thousand talents by two hundred and fifty?
+For who has not read concerning the Athenians that at the time when, together with the Thebans, they entered upon the war against the Spartans and sent out ten thousand soldiers and manned a hundred triremes, they then decided to base their war contributions on a property assessment and had the entire territory of Attica valued, along with the houses, and likewise the rest of their property—yet the whole valuation of their wealth fell short of six thousand talents by two hundred and fifty?
 
 From this, what I have just said about the Peloponnesians will appear not unreasonable.
 
@@ -3182,7 +3188,7 @@ Cleomenes, anticipating the attack, had secured the other passes into the countr
 
 He himself, with his army, was encamped at the place called Sellasia, his whole force amounting to about twenty thousand men, having judged from reasonable calculation that the enemy would make their incursion by that route—which is just what came to pass.
 
-Two hills lie right at the entrance of the pass, one called Evas and the other Olympus, with the road between them, running alongside the river Oenus, leading to Sparta. Cleomenes threw a trench and palisade across the front of both hills. On Evas he posted the perioeci and the allies, placing his brother Eucleidas in command of them, while he himself held Olympus with the Lacedaemonians and the mercenaries.
+Two hills lie right at the entrance of the pass, one called Evas and the other Olympus, with the road between them, running alongside the river Oenus, leading to Sparta. Cleomenes threw a trench and palisade across the front of both hills. On Evas he posted the perioeci and the allies, placing his brother Eucleidas in command of them, while he himself held Olympus with the Spartans and the mercenaries.
 
 On the level ground beside the river, on either side of the road, he stationed the cavalry together with a portion of the mercenaries.
 
@@ -3258,9 +3264,9 @@ But when Cleomenes saw that his brother’s troops had fled and that the cavalry
 
 The light-armed troops of both sides were recalled from the ground between by the trumpet, and the phalanxes, raising their war cry together and leveling their pikes, charged one another.
 
-A fierce struggle followed: at one moment the Macedonians fell back step by step, hard pressed by the courage of the Laconians, at another the Lacedaemonians were thrust back by the sheer weight of the Macedonian formation.
+A fierce struggle followed: at one moment the Macedonians fell back step by step, hard pressed by the courage of the Laconians, at another the Spartans were thrust back by the sheer weight of the Macedonian formation.
 
-At last Antigonus’s men locked their pikes together and, employing the special feature of the double phalanx, drove in with force and pushed the Lacedaemonians out of their entrenchments.
+At last Antigonus’s men locked their pikes together and, employing the special feature of the double phalanx, drove in with force and pushed the Spartans out of their entrenchments.
 
 The rest of the army fled headlong, cut down as they went; but Cleomenes, with a few cavalry about him, withdrew safely to Sparta with them.
 
@@ -3268,7 +3274,7 @@ When night came on he went down to Gythium, where the means for a sea voyage had
 
 ## Book 2 Chapter 70: End of the Introductory Period
 
-Antigonus, having taken Sparta at the first assault, treated the Lacedaemonians in everything else with magnanimity and kindness; and after restoring their ancestral constitution, within a few days he marched out of the city with his forces, on receiving word that the Illyrians had invaded Macedonia and were ravaging the country.
+Antigonus, having taken Sparta at the first assault, treated the Spartans in everything else with magnanimity and kindness; and after restoring their ancestral constitution, within a few days he marched out of the city with his forces, on receiving word that the Illyrians had invaded Macedonia and were ravaging the country.
 
 So it is that Fortune always tends to decide the greatest matters contrary to expectation.
 
@@ -3333,7 +3339,7 @@ I shall make my approach to the narrative as follows. First, having pointed out 
 
 Next, I shall try to make clear how, during the same period, Philip of Macedon—after fighting his war with the Aetolians to its end and afterward settling affairs among the Greeks—set out to share these same hopes with the Carthaginians, how Antiochus and Ptolemy Philopator first disputed and finally went to war with each other over Coele-Syria, and how the Rhodians and Prusias took up war against the Byzantines and forced them to stop levying tolls on those sailing into the Pontus.
 
-Pausing my account at this point, I shall put together a discussion of the Roman constitution, in which I shall show in due sequence that the distinctive character of their political system contributed enormously to their success—not only in winning back their dominion over the Italians and Sicilians, and in further acquiring the rule over the Iberians and the Celts, but finally also, after they had defeated the Carthaginians in war, in coming to conceive the idea of universal empire.
+Pausing my account at this point, I shall put together a discussion of the Roman constitution, in which I shall show in due sequence that the distinctive character of their political system contributed enormously to their success—not only in winning back their dominion over the Italians and Sicilians, and in further acquiring the rule over the Iberians and the Gauls, but finally also, after they had defeated the Carthaginians in war, in coming to conceive the idea of universal empire.
 
 Together with this, by way of digression, I shall describe the fall of the dynasty of Hiero of Syracuse.
 
@@ -3389,7 +3395,7 @@ The Romans, too, restored to their own country those Greeks who had been accused
 
 Not long afterward these same Romans laid their hands on the Carthaginians, intending first to compel them to relocate, and then, for reasons to be stated in what follows, to root them out altogether.
 
-Corresponding to these events—as the Macedonians broke away from their friendship with Rome and the Lacedaemonians from their membership in the Achaean confederation—the common calamity of all Greece had at once its beginning and its end.
+Corresponding to these events—as the Macedonians broke away from their friendship with Rome and the Spartans from their membership in the Achaean confederation—the common calamity of all Greece had at once its beginning and its end.
 
 Such, then, is the design of my work.
 
@@ -3475,11 +3481,11 @@ For that man’s spirit had not been broken by the war over Sicily, since he bel
 
 Now, had the upheaval over the mercenaries not broken out among the Carthaginians, he would at once have sought another pretext and begun preparations for action, so far as it lay in his power.
 
-But he was forestalled by the civil disturbances, and in these...
+But he was forestalled by the civil disturbances, and in these [...]
 
 ## Book 3 Chapter 10: Second Cause of the War
 
-...he was occupied, taken up with those events. When the Romans, after the Carthaginians had put down the aforementioned disturbance, declared war on them, the Carthaginians at first were ready to face any extremity, supposing they would prevail on the justice of their cause, as we have explained concerning these matters in the earlier books— without which it would be impossible to follow properly either what is now being said or what we shall say hereafter.
+[...] he was occupied, taken up with those events. When the Romans, after the Carthaginians had put down the aforementioned disturbance, declared war on them, the Carthaginians at first were ready to face any extremity, supposing they would prevail on the justice of their cause, as we have explained concerning these matters in the earlier books— without which it would be impossible to follow properly either what is now being said or what we shall say hereafter.
 
 But since the Romans would not give way, the Carthaginians yielded to the circumstances, and though deeply aggrieved, being unable to do anything, they withdrew from Sardinia and agreed to pay another twelve hundred talents on top of the earlier sum, on condition of not having to take on the war at that time.
 
@@ -3489,11 +3495,11 @@ For Hamilcar, adding to his own private resentment the anger of his fellow citiz
 
 I mean the prosperous course of Carthaginian affairs in Iberia. For it was by relying on the strength gained there that they confidently entered upon the aforementioned war.
 
-That Hamilcar contributed most to bringing about the second war—even though he died ten years before its outbreak—one could find many proofs; but what follows will be just about...
+That Hamilcar contributed most to bringing about the second war—even though he died ten years before its outbreak—one could find many proofs; but what follows will be just about [...]
 
 ## Book 3 Chapter 11: Hannibal’s Oath
 
-...enough to establish the point. For at the time when Hannibal, after being defeated by the Romans, finally left his homeland and was staying at the court of Antiochus, the Romans, now observing the scheming of the Aetolians, sent envoys to Antiochus, wishing not to be left in the dark about the king’s intentions.
+[...] enough to establish the point. For at the time when Hannibal, after being defeated by the Romans, finally left his homeland and was staying at the court of Antiochus, the Romans, now observing the scheming of the Aetolians, sent envoys to Antiochus, wishing not to be left in the dark about the king’s intentions.
 
 These envoys, seeing that Antiochus was inclined toward the Aetolians and eager to make war on the Romans, courted Hannibal, intent on bringing him under suspicion with Antiochus.
 
@@ -3521,11 +3527,11 @@ Hasdrubal, dying before his time, did not make his purpose evident to everyone; 
 
 For this reason, those placed in charge of public affairs ought to attend to nothing more than discerning the true intentions of those who lay aside their enmities or form friendships—whether they are making their agreements as a concession to circumstances or because their spirit has truly been defeated— so that they may be constantly on guard against the former, regarding them as men lying in wait for an opportunity, while trusting the latter as genuine subjects or friends and giving them, without hesitation, whatever orders the occasion may require.
 
-These, then, are to be considered the causes of the war with Hannibal. As for the beginnings, which I am about to relate...
+These, then, are to be considered the causes of the war with Hannibal. As for the beginnings, which I am about to relate [...]
 
 ## Book 3 Chapter 13: Hannibal Succeeds to Command in Spain
 
-...The Carthaginians had taken hard their defeat over Sicily, but their anger was intensified still further, as I said above, by the affair of Sardinia and by the size of the sum of money imposed on them at the end.
+[...] The Carthaginians had taken hard their defeat over Sicily, but their anger was intensified still further, as I said above, by the affair of Sardinia and by the size of the sum of money imposed on them at the end.
 
 For this reason, as soon as they had brought most of Iberia under their control, they were ready to seize on anything that offered a chance against the Romans.
 
@@ -3539,11 +3545,11 @@ After this, by means of vigorous and terrifying assaults, he quickly took the ci
 
 Having exacted money from the cities and gained control of large funds, he came to New Carthage to winter.
 
-Treating those under him generously—paying part of the wages owed to the men serving with him and promising the rest—he instilled in his forces great goodwill and high hopes...
+Treating those under him generously—paying part of the wages owed to the men serving with him and promising the rest—he instilled in his forces great goodwill and high hopes [...]
 
 ## Book 3 Chapter 14: Hannibal Attacks the Vaccaei
 
-...for the future. In the following summer he set out again, this time against the Vaccaei. He took Helmantica (Salmantica) by storm at the first assault, but Arbucala—because of the city’s size, its large population, and the bravery of its inhabitants—he captured by force only after a laborious siege.
+[...] for the future. In the following summer he set out again, this time against the Vaccaei. He took Helmantica (Salmantica) by storm at the first assault, but Arbucala—because of the city’s size, its large population, and the bravery of its inhabitants—he captured by force only after a laborious siege.
 
 After this, on his march back, he unexpectedly found himself in the gravest danger, when the Carpesii—who are just about the strongest tribe in those regions—rushed upon him.
 
@@ -3651,7 +3657,7 @@ When Demetrius and his men caught sight of the ships and, despising their small 
 
 ## Book 3 Chapter 19: Illyrian War Successfully Finished
 
-[The Illyrians rushed out] to prevent the enemy’s landing. As soon as battle was joined and the fighting grew fierce, more and more men kept coming out of the city in support, until at last the whole force had poured out into the engagement.
+As soon as battle was joined and the fighting grew fierce, more and more men kept coming out of the city in support, until at last the whole force had poured out into the engagement.
 
 At that point the Romans who had disembarked during the night joined the battle, having made their way through unobserved ground.
 
@@ -3697,7 +3703,7 @@ Nonetheless, they put forward the ablest man among them and began to plead their
 
 ## Book 3 Chapter 21: Romans Demand Surrender of Hannibal
 
-[The Carthaginians began] to argue their case. As for the agreement made with Hasdrubal, they passed over it in silence, on the grounds that it had never been made, and that even if it had, it was not binding on them, since it had been concluded without their authorization.
+As for the agreement made with Hasdrubal, they passed over it in silence, on the grounds that it had never been made, and that even if it had, it was not binding on them, since it had been concluded without their authorization.
 
 On this point they used a precedent drawn from the Romans themselves: they said that the treaty made by Lutatius during the war over Sicily, after it had already been agreed to by Lutatius, was later annulled by the Roman people on the grounds that it had been made without their authorization.
 
@@ -3721,7 +3727,7 @@ I have translated the treaty and set it down below as accurately as I possibly c
 
 The terms of the treaty run roughly as follows: “On these conditions there shall be friendship between the Romans and the allies of the Romans, and the Carthaginians and the allies of the Carthaginians:
 
-The Romans and their allies shall not sail beyond the Fair Promontory, unless they are forced to by storm or by enemies. If anyone is driven beyond it by necessity, he shall not be permitted to buy or take anything except what is needed for the repair of his ship or for [7;8] sacrifices, and within five days he must depart. Those who come to trade shall pay no duty, except for the fee to the herald or the clerk. Whatever is sold in their presence shall be guaranteed to the seller by the public faith—that is, whatever is sold either in Libya or in Sardinia.
+The Romans and their allies shall not sail beyond the Fair Promontory, unless they are forced to by storm or by enemies. If anyone is driven beyond it by necessity, he shall not be permitted to buy or take anything except what is needed for the repair of his ship or for sacrifices, and within five days he must depart. Those who come to trade shall pay no duty, except for the fee to the herald or the clerk. Whatever is sold in their presence shall be guaranteed to the seller by the public faith—that is, whatever is sold either in Libya or in Sardinia.
 
 If any Roman comes to the part of Sicily that the Carthaginians govern, he shall have rights equal in all respects to the Carthaginians. The Carthaginians shall do no wrong to the people of Ardea, Antium, Laurentum, Circeii, or Tarracina, nor to any other of the Latins who are subject to Rome. From those cities that are not subject to Rome they shall keep their hands; and if they take one, they shall hand it back to the Romans undamaged. They shall build no fortress in Latium. If they enter the territory in arms, they shall not spend a night within that territory.”
 
@@ -3913,19 +3919,19 @@ No one should be surprised at the precision of this enumeration—if I have used
 
 For I myself found this record set down on a bronze tablet at Lacinium, drawn up by Hannibal during the period when he was operating in the regions of Italy, and I judged it to be entirely trustworthy, at least for such matters; and therefore I chose to follow this record.
 
-## Book 3 Chapter 34: Hannibal Contacts the Celts
+## Book 3 Chapter 34: Hannibal Contacts the Gauls
 
-Hannibal, having taken every precaution for the security of affairs both in Libya and in Iberia, now waited expectantly for the messengers being sent to him from the Celts.
+Hannibal, having taken every precaution for the security of affairs both in Libya and in Iberia, now waited expectantly for the messengers being sent to him from the Gauls.
 
 For he had clearly informed himself of the excellence of the land at the foot of the Alps and around the river Po, of the multitude of those who inhabited it, and further of the men’s daring in war, and—most important of all—of the hostility they bore toward the Romans from the earlier war, which I described in the book before this one, so that those who read might be able to follow what is now about to be told.
 
-He therefore clung to this hope and promised everything, sending careful messages to the chieftains of the Celts, both those on the near side of the Alps and those dwelling in the Alps themselves, since he believed that he could establish the war against the Romans within Italy only if he could pass through the difficult country that lay before him, reach the regions just mentioned, and make use of the Celts as helpers and allies for the undertaking he had in view.
+He therefore clung to this hope and promised everything, sending careful messages to the chieftains of the Gauls, both those on the near side of the Alps and those dwelling in the Alps themselves, since he believed that he could establish the war against the Romans within Italy only if he could pass through the difficult country that lay before him, reach the regions just mentioned, and make use of the Gauls as helpers and allies for the undertaking he had in view.
 
-When the messengers arrived and reported the willingness and expectation of the Celts, and declared that the crossing of the Alpine mountains, though very toilsome and difficult, was nevertheless not impossible, he gathered his forces from their winter quarters at the approach of spring.
+When the messengers arrived and reported the willingness and expectation of the Gauls, and declared that the crossing of the Alpine mountains, though very toilsome and difficult, was nevertheless not impossible, he gathered his forces from their winter quarters at the approach of spring.
 
 Since the news from Carthage had also just reached him, his spirit was raised, and, trusting in the goodwill of his fellow citizens, he now openly summoned his forces to the war against the Romans.
 
-He set before them how the Romans had ventured to demand his own surrender and that of all the commanders of the army, and he pointed out the excellence of the country to which they were going, and the goodwill and alliance of the Celts.
+He set before them how the Romans had ventured to demand his own surrender and that of all the commanders of the army, and he pointed out the excellence of the country to which they were going, and the goodwill and alliance of the Gauls.
 
 When the troops eagerly rallied to his side, he praised them, named a fixed day on which he would make the departure, and for the moment dismissed the assembly.
 
@@ -3957,7 +3963,7 @@ We must therefore point out a method by which it will be possible, in speaking o
 
 The first and most important means of knowledge, and one moreover that is common to all people, is the division and ordering of the heaven that surrounds us, by which all of us who are worth anything at all recognize east, west, south, and north.
 
-The second is that, by assigning the regions of the earth to each of these distinctions and always carrying in our minds whatever is mentioned onto one of the directions named above, we arrive at familiar and customary notions about things unknown and
+The second is that, by assigning the regions of the earth to each of these distinctions and always carrying in our minds whatever is mentioned onto one of the directions named above, we arrive at familiar and customary notions about things unknown and [...]
 
 ## Book 3 Chapter 37: Three Geographic Divisions of the World
 
@@ -3977,9 +3983,9 @@ Europe lies opposite both of them, facing toward the north, and stretches contin
 
 Its largest and deepest portion lies directly beneath the north, between the river Don and the Narbo—a river not far to the west of Marseilles and of the mouths of the Rhone, through which the aforesaid river empties into the Sardinian Sea.
 
-From the Narbo and the surrounding country the Celts dwell, as far as the mountains called the Pyrenees, which extend without a break from our sea to the outer sea.
+From the Narbo and the surrounding country the Gauls dwell, as far as the mountains called the Pyrenees, which extend without a break from our sea to the outer sea.
 
-The remaining part of Europe, from those mountains onward—the part adjoining the west and the Pillars of Heracles—is enclosed by our sea and the outer sea; and the portion stretching along our sea as far as the Pillars of Heracles is called Iberia, while the portion lying along the outer sea, which is called the Great Sea, has no common name, because it has only recently been explored. It is inhabited entirely by barbarous and populous peoples, about whom I will give a detailed
+The remaining part of Europe, from those mountains onward—the part adjoining the west and the Pillars of Heracles—is enclosed by our sea and the outer sea; and the portion stretching along our sea as far as the Pillars of Heracles is called Iberia, while the portion lying along the outer sea, which is called the Great Sea, has no common name, because it has only recently been explored. It is inhabited entirely by barbarous and populous peoples, about whom I will give a detailed [...]
 
 ## Book 3 Chapter 38: Unknown Areas in the North and the South
 
@@ -3989,17 +3995,17 @@ And anyone who says or writes anything about these regions otherwise must be reg
 
 Let this much, then, be said by me so that my narrative may not be wholly unintelligible to those unacquainted with the localities, but so that, at least in terms of the broad distinctions, they may grasp something and refer what is said to some point in their minds, judging from the surrounding heaven.
 
-For just as, in the matter of sight, we are accustomed always to turn our faces toward whatever is being pointed out to us, so too with the mind we must constantly direct and incline our thoughts toward the places
+For just as, in the matter of sight, we are accustomed always to turn our faces toward whatever is being pointed out to us, so too with the mind we must constantly direct and incline our thoughts toward the places [...]
 
 ## Book 3 Chapter 39: The Length of Hannibal’s March
 
-...demonstrating these points in the course of my account. But I will set these matters aside and turn back to the continuous thread of the narrative before me.
+[...] demonstrating these points in the course of my account. But I will set these matters aside and turn back to the continuous thread of the narrative before me.
 
 At this time the Carthaginians were masters of all those parts of Libya that face the inner sea, from the Altars of Philaenus, which lie along the Great Syrtis, as far as the Pillars of Heracles.
 
 This stretch of coastline is more than sixteen thousand stades in length.
 
-Having crossed the strait at the Pillars of Heracles, they had likewise gained control of all Iberia as far as the headland on our sea where the Pyrenees range comes to an end—the mountains that form the boundary between the Iberians and the Celts.
+Having crossed the strait at the Pillars of Heracles, they had likewise gained control of all Iberia as far as the headland on our sea where the Pyrenees range comes to an end—the mountains that form the boundary between the Iberians and the Gauls.
 
 This place is about eight thousand stades distant from the mouth at the Pillars of Heracles.
 
@@ -4015,7 +4021,7 @@ Of this territory he had by now covered nearly half in terms of sheer distance, 
 
 ## Book 3 Chapter 40: Gauls Attack the Military Colonies
 
-Hannibal, then, set about forcing the passes over the Pyrenees, full of fear of the Celts because of the strength of the terrain.
+Hannibal, then, set about forcing the passes over the Pyrenees, full of fear of the Gauls because of the strength of the terrain.
 
 The Romans, meanwhile, at this same period had heard from the envoys they had sent to Carthage both the decisions reached and the words that had been spoken; and when news fell upon them, sooner than they expected, that Hannibal had crossed the river Ebro with his army, they resolved to send Publius Cornelius with legions into Iberia, and Tiberius Sempronius into Libya.
 
@@ -4041,17 +4047,17 @@ When news reached Rome that the fourth legion was surrounded by the Boii and bei
 
 ## Book 3 Chapter 41: The Consuls Set Out to Iberia and Libya
 
-Such, then, was the state of Celtic affairs from the beginning down to the arrival of Hannibal, and they had reached the outcome that I have described both earlier and now.
+Such, then, was the state of Gallic affairs from the beginning down to the arrival of Hannibal, and they had reached the outcome that I have described both earlier and now.
 
 The Roman commanders, having made ready everything for their own undertakings, set sail at the start of the season for the operations before them—Publius to Iberia with sixty ships, and Tiberius Sempronius to Libya with a hundred and sixty quinqueremes.
 
 With these he set out to wage war so formidably and made such preparations at Lilybaeum—mustering everyone from every quarter—as though he meant to lay siege to Carthage itself the moment he landed.
 
-Publius, sailing along the Ligurian coast, came on the fifth day from Pisae to the region around Massalia, and, anchoring off the first mouth of the Rhone, the one called the Massaliote mouth, he began disembarking his forces. He had heard that Hannibal was already crossing the Pyrenees, but he was convinced that he was still far off, both because of the difficulty of the terrain and because of the multitude of Celts lying between them.
+Publius, sailing along the Ligurian coast, came on the fifth day from Pisae to the region around Massalia, and, anchoring off the first mouth of the Rhone, the one called the Massaliote mouth, he began disembarking his forces. He had heard that Hannibal was already crossing the Pyrenees, but he was convinced that he was still far off, both because of the difficulty of the terrain and because of the multitude of Gauls lying between them.
 
-Hannibal, however, contrary to expectation, partly winning over the Celts with money and partly forcing his way through them, arrived with his forces at the crossing of the Rhone, keeping the Sardinian Sea on his right.
+Hannibal, however, contrary to expectation, partly winning over the Gauls with money and partly forcing his way through them, arrived with his forces at the crossing of the Rhone, keeping the Sardinian Sea on his right.
 
-When it was made clear to Publius that the enemy were at hand, he partly disbelieved it because of the speed of their arrival and partly wished to learn the precise truth; so while he himself let his troops recover from the voyage and deliberated with the tribunes about which ground to use and how to engage the enemy, he sent out three hundred of his most courageous cavalry, attaching to them as both guides and supporting fighters some Celts who happened to be serving as mercenaries with the Massaliotes.
+When it was made clear to Publius that the enemy were at hand, he partly disbelieved it because of the speed of their arrival and partly wished to learn the precise truth; so while he himself let his troops recover from the voyage and deliberated with the tribunes about which ground to use and how to engage the enemy, he sent out three hundred of his most courageous cavalry, attaching to them as both guides and supporting fighters some Gauls who happened to be serving as mercenaries with the Massaliotes.
 
 ## Book 3 Chapter 42: The Passage of the Rhone
 
@@ -4099,7 +4105,7 @@ The barbarians, finding the situation utterly unexpected, split: some hurried to
 
 Hannibal, with events falling out just as he had planned, immediately formed up the first men as they landed, rallied them with encouragement, and engaged the barbarians.
 
-The Celts, both because of their disorder and because of the unexpected turn of events, were quickly routed and broke into flight.
+The Gauls, both because of their disorder and because of the unexpected turn of events, were quickly routed and broke into flight.
 
 ## Book 3 Chapter 44: Hannibal Addresses His Men
 
@@ -4115,7 +4121,7 @@ Then he himself gathered his forces and brought forward the chieftains in Magilu
 
 Of what was said, the strongest grounds for confidence among the rank and file were, first, the plain fact of the presence of these envoys, who were urging them on and pledging to share in the war against Rome; second, the trustworthiness of their promise that they would guide the army through such country that, without lacking any of their necessities, they would make their march into Italy both swiftly and safely; and besides this, the richness and the vast size of the land they were going to reach, and furthermore the eagerness of the men alongside whom they were about to wage their battles against the Roman forces.
 
-So, having spoken to this effect, the Celts withdrew.
+So, having spoken to this effect, the Gauls withdrew.
 
 After them Hannibal himself came forward and first reminded the troops of their past achievements: in these, he said, though they had undertaken many bold actions and dangers, they had failed in none, so long as they had followed his judgment and counsel.
 
@@ -4129,7 +4135,7 @@ When the men responded with approval and showed great drive and enthusiasm, he p
 
 When the assembly had broken up, the Numidians who had been sent ahead to reconnoiter returned, having lost most of their number, while the rest had fled headlong.
 
-For not far from their own camp they had collided with the Roman cavalry that Publius had dispatched on the same errand, and both sides showed such fierce determination in the clash that of the Romans and Celts about a hundred and forty horsemen were killed, and of the Numidians more than two hundred.
+For not far from their own camp they had collided with the Roman cavalry that Publius had dispatched on the same errand, and both sides showed such fierce determination in the clash that of the Romans and Gauls about a hundred and forty horsemen were killed, and of the Numidians more than two hundred.
 
 After this, the Romans, having pressed close to the Carthaginian stockade in their pursuit and reconnoitered it, turned back and hurried away to report the enemy’s presence to their commander; and when they reached their own camp, they delivered their report.
 
@@ -4169,7 +4175,7 @@ Once the animals had been ferried over, Hannibal took up the elephants and the c
 
 The Rhone has its sources above the head of the Adriatic Gulf, inclining toward the west, in the parts of the Alps that slope toward the north; it flows toward the winter sunset, and empties into the Sardinian Sea.
 
-It runs for a long way through a valley, to the north of which dwell the Ardyan Celts, while the entire southern side of it is bounded by the foothills of the Alps that incline toward the north. As for the plains around the Po, about which I have already spoken at some length, the ridges of the aforementioned mountains separate them from the valley of the Rhone; these ridges take their beginning at Massalia and run as far as the head of the whole Adriatic.
+It runs for a long way through a valley, to the north of which dwell the Ardyan Gauls, while the entire southern side of it is bounded by the foothills of the Alps that incline toward the north. As for the plains around the Po, about which I have already spoken at some length, the ridges of the aforementioned mountains separate them from the valley of the Rhone; these ridges take their beginning at Massalia and run as far as the head of the whole Adriatic.
 
 It was these that Hannibal then crossed over, passing from the region of the Rhone into Italy.
 
@@ -4181,13 +4187,13 @@ For having laid it down that the strongholds and ruggedness of the Alpine mounta
 
 ## Book 3 Chapter 48: Absurd Premises of Other Historians
 
-[They fall into both of these errors.] For, in the first place, what general could be shown to be more devoid of judgment than Hannibal, what commander more inept, if, leading forces so large and resting his greatest hopes of overall success on them, he knew, as these writers claim, neither the roads nor the country, neither where he was going at all nor against whom, and, to crown it, not even whether what he was attempting was generally possible?
+For, in the first place, what general could be shown to be more devoid of judgment than Hannibal, what commander more inept, if, leading forces so large and resting his greatest hopes of overall success on them, he knew, as these writers claim, neither the roads nor the country, neither where he was going at all nor against whom, and, to crown it, not even whether what he was attempting was generally possible?
 
 What men who have utterly failed and are at their wits’ end in every way will not bring themselves to do—namely, to plunge into unscouted country with an army—this the writers attribute to Hannibal, who held the greatest hopes for his cause entirely unimpaired.
 
 Likewise their account of the desolation, and further of the ruggedness and difficulty of the terrain, makes their falsehood plain.
 
-For they failed to inquire into the fact that the Celts living along the Rhone, not once nor twice before Hannibal’s arrival—and not in the distant past but quite recently—had crossed the Alps with great armies, drawn up against the Romans and fought alongside the Celts inhabiting the plains around the Po, as I have shown in the earlier parts of this work; and besides this, they did not know that a very large tribe of people happens to live in the Alps themselves. Instead, ignorant of every one of the things I have mentioned, they claim that some hero appeared and pointed out the roads to them.
+For they failed to inquire into the fact that the Gauls living along the Rhone, not once nor twice before Hannibal’s arrival—and not in the distant past but quite recently—had crossed the Alps with great armies, drawn up against the Romans and fought alongside the Gauls inhabiting the plains around the Po, as I have shown in the earlier parts of this work; and besides this, they did not know that a very large tribe of people happens to live in the Alps themselves. Instead, ignorant of every one of the things I have mentioned, they claim that some hero appeared and pointed out the roads to them.
 
 By this they naturally fall into the same case as the writers of tragedy. For with all of those, the denouements of their dramas require a god and a stage machine, because they take their initial premises to be false and irrational; and so historians too must suffer and do the same—bringing on heroes and gods to appear—once they have set up beginnings that are implausible and false. For how is it possible to set a reasonable ending upon irrational beginnings?
 
@@ -4275,7 +4281,7 @@ They claimed to be well aware both of the town’s capture and of the destructio
 
 For a long time Hannibal remained cautious and distrustful of what they said. But reasoning that if he accepted their offer he might perhaps make these new arrivals more cautious and more peaceable, whereas if he refused he would have them as open enemies, he assented to their proposal and pretended to enter into friendship with them.
 
-When the barbarians had handed over the hostages, supplied cattle in abundance, and altogether put themselves into his hands without reserve, Hannibal’s men came to trust them to a certain extent—so much so that they even used them as guides for the difficult ground that lay ahead. But after these guides had led the way for two days, the people just mentioned gathered their forces, followed close behind, and attacked, [seizing] a certain gorge that was hard to pass and ringed with cliffs
+When the barbarians had handed over the hostages, supplied cattle in abundance, and altogether put themselves into his hands without reserve, Hannibal’s men came to trust them to a certain extent—so much so that they even used them as guides for the difficult ground that lay ahead. But after these guides had led the way for two days, the people just mentioned gathered their forces, followed close behind, and attacked, [seizing] a certain gorge that was hard to pass and ringed with cliffs [...]
 
 ## Book 3 Chapter 53: The White Rock
 
@@ -4297,7 +4303,7 @@ During this time it happened that many of the horses that had bolted in panic an
 
 ## Book 3 Chapter 54: The Descent Into Italy
 
-...and rejoined the camp. By now, since the setting of the Pleiades was drawing near, the snow was already gathering on the peaks; and seeing his men in low spirits, both because of the hardship they had already endured and because of what they still expected to face, Hannibal tried to gather and encourage them, having one single resource for the purpose: the clear sight of Italy. For Italy lies so close beneath the mountains just mentioned that, when both are viewed together, the Alps appear to stand like a citadel over the whole of Italy.
+[...] and rejoined the camp. By now, since the setting of the Pleiades was drawing near, the snow was already gathering on the peaks; and seeing his men in low spirits, both because of the hardship they had already endured and because of what they still expected to face, Hannibal tried to gather and encourage them, having one single resource for the purpose: the clear sight of Italy. For Italy lies so close beneath the mountains just mentioned that, when both are viewed together, the Alps appear to stand like a citadel over the whole of Italy.
 
 Therefore, by pointing out to them the plains around the Po, and by reminding them in general of the goodwill of the Gauls who inhabited them, and at the same time indicating the location of Rome itself, he succeeded to some extent in restoring the men’s confidence.
 
@@ -4309,7 +4315,7 @@ Still, they endured this hardship, being by now accustomed to such troubles.
 
 But when they came to a place that neither the elephants nor the pack animals could get past because of its narrowness—where the cliff face had fallen away for nearly a stade and a half, having been broken before but having now collapsed even more freshly—there once again the men fell into despair and confusion.
 
-At first the Carthaginian general attempted to go around the difficult ground; but when fresh snow fell and made this route also impossible to travel,
+At first the Carthaginian general attempted to go around the difficult ground; but when fresh snow fell and made this route also impossible to travel, [...]
 
 ## Book 3 Chapter 55: Snow
 
@@ -4399,7 +4405,7 @@ At first he invited them into friendship and alliance; but when they would not l
 
 By slaughtering those who had resisted him, he instilled such fear in the neighbouring barbarian tribes that they all came over to him at once, surrendering themselves into his trust.
 
-As for the rest of the Celts inhabiting the plains, they were eager to make common cause with the Carthaginians, in keeping with their original intention.
+As for the rest of the Gauls inhabiting the plains, they were eager to make common cause with the Carthaginians, in keeping with their original intention.
 
 But since the Roman legions had by now advanced past most of them and cut them off, they kept quiet; and some were even compelled to serve alongside the Romans.
 
@@ -4449,7 +4455,7 @@ And when the result of the lottery was announced, those who had been picked were
 
 When the combat took place, the captives who were left behind counted the dead man no less fortunate than the victor, since the one had been released from many great miseries, while they themselves were still left to endure them.
 
-The same view was held by most of the Carthaginians as well: for as they watched, by way of comparison, the wretchedness of those who were being led off still alive, they pitied these men, while the one who had died they accounted
+The same view was held by most of the Carthaginians as well: for as they watched, by way of comparison, the wretchedness of those who were being led off still alive, they pitied these men, while the one who had died they accounted [...]
 
 ## Book 3 Chapter 63: Harangues of Hannibal and Scipio
 
@@ -4535,7 +4541,7 @@ Then, hearing that the rest had already gotten a long way ahead, he turned about
 
 On the second day he halted and bridged the crossing with river boats, and assigned to Hasdrubal the task of bringing the main body across, while he himself crossed at once and dealt with the envoys who had arrived from the neighboring districts.
 
-For as soon as he had gained the advantage, all the neighboring Celts hastened, in keeping with their original intention, to become his friends, to supply him, and to join the Carthaginians on campaign.
+For as soon as he had gained the advantage, all the neighboring Gauls hastened, in keeping with their original intention, to become his friends, to supply him, and to join the Carthaginians on campaign.
 
 After receiving those who had come in a friendly manner and bringing his forces over from the far side, he advanced along the river, taking the opposite direction to his earlier march: for he now made his way downstream, eager to come to grips with the enemy.
 
@@ -4547,9 +4553,9 @@ But when no one came out against him, he pitched camp, leaving an interval of ab
 
 ## Book 3 Chapter 67: The Gauls Join Hannibal
 
-The Celts who were serving alongside the Romans, seeing that the Carthaginians’ prospects were the more promising of the two, made an agreement among themselves and watched for the right moment to strike, each remaining meanwhile in his own tent.
+The Gauls who were serving alongside the Romans, seeing that the Carthaginians’ prospects were the more promising of the two, made an agreement among themselves and watched for the right moment to strike, each remaining meanwhile in his own tent.
 
-After the men in the camp had eaten their supper and gone to sleep, the Celts let most of the night pass, and then, around the time of the morning watch, they armed themselves and fell upon the Romans encamped nearest to them.
+After the men in the camp had eaten their supper and gone to sleep, the Gauls let most of the night pass, and then, around the time of the morning watch, they armed themselves and fell upon the Romans encamped nearest to them.
 
 They killed many of them and wounded a good number more; and in the end, after cutting off the heads of the dead, they withdrew to the Carthaginians, numbering about two thousand infantry and a little under two hundred cavalry.
 
@@ -4561,9 +4567,9 @@ At the same time the Boii also arrived and handed over to him the three men whom
 
 Hannibal welcomed their goodwill and gave pledges of friendship and alliance to those who had come; but he returned the men to them, instructing them to keep them safe, so that through them they might recover their own hostages, in keeping with their original purpose.
 
-Publius, indignant at the treachery that had occurred, reasoned that since the Celts had long been hostile toward the Romans, the defection of these men would cause all the surrounding Gauls to go over to the Carthaginians; and so he decided that he must guard against what was coming.
+Publius, indignant at the treachery that had occurred, reasoned that since the Gauls had long been hostile toward the Romans, the defection of these men would cause all the surrounding Gauls to go over to the Carthaginians; and so he decided that he must guard against what was coming.
 
-For this reason, when night fell, he broke camp toward dawn and set out toward the river Trebia and the hills adjoining it, trusting in the strength of the terrain
+For this reason, when night fell, he broke camp toward dawn and set out toward the river Trebia and the hills adjoining it, trusting in the strength of the terrain [...]
 
 ## Book 3 Chapter 68: Tiberius Sempronius Joins Scipio
 
@@ -4579,11 +4585,11 @@ Publius, then, having crossed the river just mentioned, made camp on the first l
 
 Hannibal pitched his camp about forty stades away from the enemy.
 
-The mass of the Celts who inhabited the plains, having committed themselves to the Carthaginians’ hopes, supplied the army abundantly with provisions and were ready to share in every undertaking and danger alongside Hannibal.
+The mass of the Gauls who inhabited the plains, having committed themselves to the Carthaginians’ hopes, supplied the army abundantly with provisions and were ready to share in every undertaking and danger alongside Hannibal.
 
 The people in Rome, when news of the cavalry engagement reached them, were taken aback that the outcome had run contrary to their expectations; yet they were not at a loss for excuses to convince themselves that what had happened was not a defeat.
 
-Some blamed the rashness of the general, others the deliberate treachery of the Celts, which they inferred from the latter’s recent defection.
+Some blamed the rashness of the general, others the deliberate treachery of the Gauls, which they inferred from the latter’s recent defection.
 
 In general, since their infantry legions remained intact, they reckoned their hopes for the overall outcome were likewise intact.
 
@@ -4601,17 +4607,17 @@ Having become master of the garrison and the stores of grain, he used the grain 
 
 He honored the traitor lavishly, eager to entice those holding positions of authority over toward the Carthaginians’ prospects.
 
-After this, observing that certain Celts who lived between the Po and the river Trebia had made a friendship with him while at the same time sending messages to the Romans—convinced that in this way they would secure their safety from both sides— he sent out two thousand infantry and about a thousand cavalry, both Celts and Numidians, with orders to overrun their territory.
+After this, observing that certain Gauls who lived between the Po and the river Trebia had made a friendship with him while at the same time sending messages to the Romans—convinced that in this way they would secure their safety from both sides— he sent out two thousand infantry and about a thousand cavalry, both Gauls and Numidians, with orders to overrun their territory.
 
-When these men had carried out their orders and gathered a great deal of plunder, the Celts immediately came to the Roman camp begging for help.
+When these men had carried out their orders and gathered a great deal of plunder, the Gauls immediately came to the Roman camp begging for help.
 
 Tiberius, who had long been looking for an opportunity to act, now seized on this as a pretext and sent out the greater part of his cavalry, together with about a thousand javelin-throwers from his infantry.
 
-When these troops quickly came up with the enemy across the Trebia and fought them for the plunder, the Celts and Numidians were put to flight and withdrew toward their own camp.
+When these troops quickly came up with the enemy across the Trebia and fought them for the plunder, the Gauls and Numidians were put to flight and withdrew toward their own camp.
 
 But the troops on guard in front of the Carthaginian camp quickly grasped what was happening and brought up reserves from there to help the hard-pressed men; whereupon the Romans in turn were routed and withdrew back to their own camp.
 
-Tiberius, seeing what was happening, sent out all his cavalry and javelin-throwers. When this happened, the Celts again gave way and retreated to the safety of their own position.
+Tiberius, seeing what was happening, sent out all his cavalry and javelin-throwers. When this happened, the Gauls again gave way and retreated to the safety of their own position.
 
 The Carthaginian general, being unprepared to risk a decisive engagement and believing that one should never bring on a full-scale battle without a settled plan or on the strength of any chance opening—which, it must be said, is the mark of a good commander— checked his own men as they drew near the camp and forced them to halt and turn about, but prevented them from pursuing and engaging the enemy, recalling them through his aides and trumpeters. The Romans, after waiting a short time, withdrew, having lost only a few of their own men while destroying a greater number of the Carthaginians.
 
@@ -4623,7 +4629,7 @@ Now it lay within his power to act on his own judgment in the present circumstan
 
 Publius, however, held the opposite view about the present situation.
 
-For he reckoned that their legions would become better after wintering under arms; that the faithlessness of the Celts would not remain loyal once the Carthaginians were inactive and forced to keep quiet, but would instead make some fresh move against them again; and besides, that once he himself had recovered from his wound, he hoped to be able to render real service to their common cause.
+For he reckoned that their legions would become better after wintering under arms; that the faithlessness of the Gauls would not remain loyal once the Carthaginians were inactive and forced to keep quiet, but would instead make some fresh move against them again; and besides, that once he himself had recovered from his wound, he hoped to be able to render real service to their common cause.
 
 Reasoning along these lines, he urged Tiberius to remain with things as they stood.
 
@@ -4631,17 +4637,17 @@ Tiberius knew that each of these points was being stated truly and properly; but
 
 For this reason, choosing not the moment that the circumstances called for but his own, he was plainly bound to fall short of what was needed.
 
-Hannibal, holding much the same view as Publius about the present situation, was for the opposite reason eager to engage the enemy: first, he wished to make use of the Celts’ fighting spirit while it was still fresh; second, to engage the Roman legions while they were still untrained and newly recruited; third, to fight while Publius was still unable to take the field; and, most important of all, to be doing something and not let the time slip away to no purpose.
+Hannibal, holding much the same view as Publius about the present situation, was for the opposite reason eager to engage the enemy: first, he wished to make use of the Gauls’ fighting spirit while it was still fresh; second, to engage the Roman legions while they were still untrained and newly recruited; third, to fight while Publius was still unable to take the field; and, most important of all, to be doing something and not let the time slip away to no purpose.
 
 For when a general has brought his army into foreign territory and is attempting bold undertakings, this is the one means of safety: continually to keep the hopes of his allies fresh.
 
-Hannibal, then, knowing the attack that was to come
+Hannibal, then, knowing the attack that was to come [...]
 
 ## Book 3 Chapter 71: Hannibal Prepares An Ambush
 
 These were the matters that occupied Tiberius. Hannibal, meanwhile, had long since noticed a stretch of ground between the two camps that was flat and bare of trees, yet well suited for an ambush, because a watercourse ran through it with a raised bank along its edge, and along that bank grew a continuous thicket of thorns and brambles. There he set about laying a trap for the enemy.
 
-He was confident the scheme would easily escape notice. For the Romans were suspicious of wooded ground, since the Celts always set their ambushes in such places, but they felt no distrust of level and open country— not realizing that, both for staying concealed and for keeping the men in ambush from coming to any harm, open ground is in fact better suited than woodland. The reason is that those lying in wait can see everything that is going on from a long way off, while in most such places there is cover enough to hide behind.
+He was confident the scheme would easily escape notice. For the Romans were suspicious of wooded ground, since the Gauls always set their ambushes in such places, but they felt no distrust of level and open country— not realizing that, both for staying concealed and for keeping the men in ambush from coming to any harm, open ground is in fact better suited than woodland. The reason is that those lying in wait can see everything that is going on from a long way off, while in most such places there is cover enough to hide behind.
 
 A chance watercourse with a low bank, or sometimes reeds, ferns, and a kind of thorn-scrub, can conceal not only infantry but at times even cavalry, provided one takes the modest precaution of laying the conspicuous parts of the armor flat against the ground and tucking the helmets in under the shields.
 
@@ -4675,7 +4681,7 @@ The Carthaginians, by contrast, had eaten and drunk in their tents, had got thei
 
 Hannibal, watching for his moment, as soon as he saw that the Romans had crossed the river, threw out his spearmen and Balearic slingers—some eight thousand of them—as a covering force and led out his army.
 
-Advancing about eight stades in front of his camp, he drew up his infantry, about twenty thousand in number—Iberians, Celts, and Libyans—in a single straight line, and dividing his cavalry, he stationed them on either wing—more than ten thousand, counting his Celtic allies—while he split the elephants and posted them in front of both wings.
+Advancing about eight stades in front of his camp, he drew up his infantry, about twenty thousand in number—Iberians, Gauls, and Libyans—in a single straight line, and dividing his cavalry, he stationed them on either wing—more than ten thousand, counting his Gallic allies—while he split the elephants and posted them in front of both wings.
 
 Tiberius at this same moment was recalling his cavalry, since he saw they could make no headway against the enemy. For the Numidians would fall back easily and in scattered fashion, then wheel about and press the attack again boldly and recklessly—this being the characteristic feature of Numidian fighting.
 
@@ -4683,7 +4689,7 @@ His infantry he drew up in the formation customary among the Romans: about sixte
 
 For with them a full army for major operations consists of that many men, whenever circumstances bring both consuls together at once.
 
-After this, placing his cavalry—about four thousand—on either wing, he advanced against the enemy in imposing style, in good order
+After this, placing his cavalry—about four thousand—on either wing, he advanced against the enemy in imposing style, in good order [...]
 
 ## Book 3 Chapter 73: The Battle of the Trebia
 
@@ -4699,7 +4705,7 @@ And so, as soon as the light troops who had fought the opening skirmish had been
 
 As the Roman cavalry gave way and the wings of the phalanx were left exposed, the Carthaginian spearmen and the mass of Numidians, sweeping past their own front ranks and falling upon the Roman flanks, did them great damage and prevented them from fighting the troops facing them.
 
-But the heavy-armed troops on both sides, who held the front and center positions of the whole line, kept up a close, hand-to-hand fight for a long time, evenly matched,
+But the heavy-armed troops on both sides, who held the front and center positions of the whole line, kept up a close, hand-to-hand fight for a long time, evenly matched, [...]
 
 ## Book 3 Chapter 74: The Romans Retreat to Placentia
 
@@ -4707,7 +4713,7 @@ making the contest a fierce one. It was at this point that the Numidians lying i
 
 In the end both of Tiberius’s wings, pressed in front by the elephants and all around—on their flanks—by the light-armed troops, were routed and driven, as the pursuit went on, toward the river that lay behind them.
 
-After this, of the Romans stationed in the center of the action, those positioned in the rear were destroyed and suffered terribly under the attack of the men from the ambush, while those in the foremost ranks, forced to fight on, overpowered the Celts and a portion of the Libyans, killed many of them, and cut their way through the Carthaginian line.
+After this, of the Romans stationed in the center of the action, those positioned in the rear were destroyed and suffered terribly under the attack of the men from the ambush, while those in the foremost ranks, forced to fight on, overpowered the Gauls and a portion of the Libyans, killed many of them, and cut their way through the Carthaginian line.
 
 Seeing that their own wings had been driven off the field, they gave up any thought of going to their aid or of returning to their own camp—wary of the enemy’s superior numbers of cavalry, and hindered by the river and by the driving, swirling downpour beating down on their heads.
 
@@ -4717,7 +4723,7 @@ Of the rest, the greater part perished near the river at the hands of the elepha
 
 The Carthaginian army pursued the enemy as far as the river but, unable to advance any farther because of the storm, returned again to its camp.
 
-They were all overjoyed at the battle, feeling they had won a complete success; for it turned out that few of the Iberians and Libyans had fallen, and that the heaviest losses had been among the Celts.
+They were all overjoyed at the battle, feeling they had won a complete success; for it turned out that few of the Iberians and Libyans had fallen, and that the heaviest losses had been among the Gauls.
 
 But from the rain and the snow that followed, they were so badly affected that the elephants died—all but one—and many of the men and horses perished as well from the cold.
 
@@ -4725,7 +4731,7 @@ But from the rain and the snow that followed, they were so badly affected that t
 
 Tiberius, well aware of what had happened but wishing as far as possible to hide the disaster from the people in Rome, sent messengers to report that a battle had been fought but that the storm had robbed them of the victory.
 
-For the moment the Romans believed the reports that reached them; but before long they learned that the Carthaginians were holding their own camp and that all the Celts had gone over to friendship with them, while their own men had abandoned their camp, had withdrawn from the field, had all gathered together into the cities, and were being supplied with necessities by sea up the river Po. They then understood all too clearly what had really happened in the battle.
+For the moment the Romans believed the reports that reached them; but before long they learned that the Carthaginians were holding their own camp and that all the Gauls had gone over to friendship with them, while their own men had abandoned their camp, had withdrawn from the field, had all gathered together into the cities, and were being supplied with necessities by sea up the river Po. They then understood all too clearly what had really happened in the battle.
 
 And so, since the affair had come upon them as a complete surprise, they devoted themselves with special energy to their remaining preparations and to guarding the regions that lay exposed, sending legions to Sardinia and Sicily, and garrisons to Tarentum and to other places of strategic value; they also fitted out sixty quinqueremes.
 
@@ -4765,7 +4771,7 @@ By dividing the spoils fairly among his soldiers, he won great goodwill from the
 
 Such was the state of affairs in Iberia. As the spring season set in, Gaius Flaminius took up his forces and advanced through Etruria, pitching camp before the city of the Arretines, while Gnaeus Servilius went in the opposite direction, toward Ariminum, to watch there for the enemy’s invasion.
 
-Hannibal, wintering in Celtic territory, kept the Romans among the prisoners from the battle under guard, giving them only modest rations, but their allies he at first treated with every kindness; and afterward he gathered them together and addressed them, declaring that he had not come to make war on them but on the Romans on their behalf. Therefore, he said, if they were sensible, they should hold fast to friendship with him.
+Hannibal, wintering in Gallic territory, kept the Romans among the prisoners from the battle under guard, giving them only modest rations, but their allies he at first treated with every kindness; and afterward he gathered them together and addressed them, declaring that he had not come to make war on them but on the Romans on their behalf. Therefore, he said, if they were sensible, they should hold fast to friendship with him.
 
 For he had come, first, to win back freedom for the peoples of Italy, and likewise to help each of them recover the cities and territory they had lost to the Romans.
 
@@ -4775,19 +4781,19 @@ With these words he released them all without ransom to their own homes, wishing
 
 During his time in winter quarters he also employed a certain stratagem that was thoroughly Phoenician in character.
 
-Because he was anxious about the unreliability of the Celts and about possible plots against his life—the alliance between himself and them being so recently formed—he had a set of false hairpieces made, each one suited to the appearance natural to a different age of life.
+Because he was anxious about the unreliability of the Gauls and about possible plots against his life—the alliance between himself and them being so recently formed—he had a set of false hairpieces made, each one suited to the appearance natural to a different age of life.
 
 These he wore constantly, changing them from one to another, and in the same way he kept changing his clothing as well, always to match whichever wig he was wearing.
 
 By this means he was hard to recognize, not only for those who caught sight of him suddenly, but even for those who were on familiar terms with him.
 
-He observed, however, that the Celts were resentful at the war dragging on in their own territory, and that they were eager and on edge to push into enemy land—ostensibly out of anger toward the Romans, but mostly for the sake of plunder. He therefore decided to break camp as quickly as possible and to satisfy the army’s impulses.
+He observed, however, that the Gauls were resentful at the war dragging on in their own territory, and that they were eager and on edge to push into enemy land—ostensibly out of anger toward the Romans, but mostly for the sake of plunder. He therefore decided to break camp as quickly as possible and to satisfy the army’s impulses.
 
 And so, as soon as the season began to change, he made inquiries of those reputed to have the best knowledge of the country. He found that the other routes for invading enemy territory were long and obvious to the enemy, whereas the one leading through the marshes into Etruria, though difficult, was short and would catch Flaminius and his men completely off guard.
 
 Since he was always by temperament drawn to this kind of approach, he resolved to make his march by this route.
 
-But when word spread through the camp that the general intended to lead them through some marshes, every man grew wary of the march, fearful of pits and
+But when word spread through the camp that the general intended to lead them through some marshes, every man grew wary of the march, fearful of pits and [...]
 
 ## Book 3 Chapter 79: Hannibal Goes Through the Marsh
 
@@ -4795,17 +4801,17 @@ the swampy stretches of the terrain. But Hannibal had carefully reconnoitered th
 
 As for the longer term, he gave no thought at all to the whole baggage train, reasoning that once he reached enemy country, if he were defeated he would have no further need of supplies, and if he held the open field he would have no shortage of provisions.
 
-Behind the troops just mentioned he set the Celts, and behind all of them the cavalry.
+Behind the troops just mentioned he set the Gauls, and behind all of them the cavalry.
 
-He left his brother Mago in charge of the rearguard, both for general reasons and especially because of the softness and aversion to hardship of the Celts, so that if they should suffer and try to turn back, Mago could stop them with the cavalry and lay hands on them.
+He left his brother Mago in charge of the rearguard, both for general reasons and especially because of the softness and aversion to hardship of the Gauls, so that if they should suffer and try to turn back, Mago could stop them with the cavalry and lay hands on them.
 
 Now the Iberians and Libyans, marching through the marshes while these were still untrampled, got through with only moderate hardship, since they were all hardy by nature and accustomed to such ordeals.
 
-But the Celts advanced only with difficulty, since the marshes were now churned up and trodden into deep mire, and they endured the suffering painfully and miserably, being wholly unused to that kind of distress.
+But the Gauls advanced only with difficulty, since the marshes were now churned up and trodden into deep mire, and they endured the suffering painfully and miserably, being wholly unused to that kind of distress.
 
 Yet they were prevented from slipping back to the rear by the cavalry stationed behind them.
 
-All of them suffered, especially from sleeplessness, as they marched continuously through water for four days and three nights on end; but the Celts in particular labored and perished more than the rest.
+All of them suffered, especially from sleeplessness, as they marched continuously through water for four days and three nights on end; but the Gauls in particular labored and perished more than the rest.
 
 Most of his pack animals slipped in the mud, fell, and died, providing a single service to the men in their fall: for the soldiers sat on the carcasses and, piling the baggage in heaps, kept themselves above the water, and in this way snatched a little sleep during a short part of the night.
 
@@ -4857,7 +4863,7 @@ For he had instilled in the crowds such confident expectation that those who tag
 
 Hannibal, for his part, was at the same time advancing forward through Etruria toward Rome, keeping on his left the city called Cortona and its hills, and on his right the lake called Thrasymene.
 
-As he advanced he set fire to the country and laid it waste, wishing to provoke the fury of his opponents. And when he saw that Flaminius was already drawing near, and had observed ground naturally suited to his purpose,
+As he advanced he set fire to the country and laid it waste, wishing to provoke the fury of his opponents. And when he saw that Flaminius was already drawing near, and had observed ground naturally suited to his purpose, [...]
 
 ## Book 3 Chapter 83: Hannibal Takes a Position in the Valley
 
@@ -4867,7 +4873,7 @@ Passing through the valley along the lake, Hannibal seized for himself the hill 
 
 The Balearic slingers and spearmen he led around by the vanguard and posted in concealment beneath the hills lying to the right of the valley, deploying them in a long extended line.
 
-The cavalry and the Celts he likewise led around in a circuit under the hills on the left and stretched them out in a continuous line, so that the outermost of them were right at the entrance—the one running between the lake and the foot of the hills into the place described.
+The cavalry and the Gauls he likewise led around in a circuit under the hills on the left and stretched them out in a continuous line, so that the outermost of them were right at the entrance—the one running between the lake and the foot of the hills into the place described.
 
 So Hannibal, having made these preparations during the night and having ringed the valley with his ambushes, kept quiet.
 
@@ -4887,7 +4893,7 @@ As a result, most of them were cut down still in their order of march, unable to
 
 For while they were still debating what to do, they were being destroyed before they realized it.
 
-At that very moment some of the Celts fell upon Flaminius himself—who was at a loss and in utter distress over the whole situation—and killed him.
+At that very moment some of the Gauls fell upon Flaminius himself—who was at a loss and in utter distress over the whole situation—and killed him.
 
 So of the Romans in the valley nearly fifteen thousand fell, unable either to give way to the circumstances or to do anything at all, but holding to this above all else, in keeping with their training: not to flee or abandon their ranks.
 
@@ -4913,7 +4919,7 @@ He began by making clear that Maharbal had no authority to grant the men who had
 
 When he had finished with that, he distributed all the captives who were Romans among the units of his army to be held under guard, but he released all the allies, without ransom, to return to their own homes, repeating the same declaration he had made before: that he had come to wage war not against the Italians but against the Romans, on behalf of the freedom of the Italians.
 
-He then let his own forces recover their strength, and he buried the most distinguished of the dead from his own army, about thirty in number; for in all about fifteen hundred had fallen, most of whom were Celts.
+He then let his own forces recover their strength, and he buried the most distinguished of the dead from his own army, about thirty in number; for in all about fifteen hundred had fallen, most of whom were Gauls.
 
 Having done this, he began to deliberate with his brother and his friends about where and how he ought to press his advance, since he was now confident about the whole campaign.
 
@@ -4939,7 +4945,7 @@ For this reason they set aside the annual conduct of public business and the ele
 
 Hannibal, now thoroughly confident about the whole campaign, decided against approaching Rome for the present, and instead advanced through the countryside, plundering it without resistance, making his march toward the Adriatic.
 
-Passing through the country called Umbria and that of Picenum, he reached the Adriatic region on the tenth day, having taken so much plunder that the army could neither drive nor carry off the spoils, and having killed a great many people along the way; for, just as in the storming of cities, on this occasion too an order had been given to kill any grown men who fell into their hands. This he did because of the
+Passing through the country called Umbria and that of Picenum, he reached the Adriatic region on the tenth day, having taken so much plunder that the army could neither drive nor carry off the spoils, and having killed a great many people along the way; for, just as in the storming of cities, on this occasion too an order had been given to kill any grown men who fell into their hands. This he did because of the [...]
 
 ## Book 3 Chapter 87: Quintus Fabius Maximus
 
@@ -4995,7 +5001,7 @@ With the Roman army the very opposite of all this was the case.
 
 For this reason Fabius was unable to commit to a decisive engagement, since his inferiority was plain to see. Instead, falling back in his calculations upon his own advantages, he kept to these and conducted the war by their means.
 
-And the Romans’ advantages were inexhaustible resources
+And the Romans’ advantages were inexhaustible resources [...]
 
 ## Book 3 Chapter 90: Hannibal Enters Campania
 
@@ -5061,7 +5067,7 @@ Fabius understood his plan—that he was preparing to make his return by the sam
 
 ## Book 3 Chapter 93: The Cattle With the Burning Fagots
 
-...he encamped. When the Carthaginians arrived and pitched their camp on the level ground right at the foot of the slope, he expected to carry off their plunder without a fight, and even, in all likelihood, to put an end to the whole affair, thanks to the favorable lie of the land.
+[...] he encamped. When the Carthaginians arrived and pitched their camp on the level ground right at the foot of the slope, he expected to carry off their plunder without a fight, and even, in all likelihood, to put an end to the whole affair, thanks to the favorable lie of the land.
 
 So he was occupied with these deliberations and bent upon them, considering where and how he should make use of the terrain, and which men were to begin the attack on the enemy, and from what quarter.
 
@@ -5077,11 +5083,11 @@ As soon as the third part of the night had passed, he at once led out the work c
 
 This was quickly done because of their numbers, and he gave the order to light them all and directed the men to drive the oxen forward and force them up toward the ridge tops, while he posted the spearmen behind them, telling them to help the drivers up to a certain point, but, once the animals had taken their first headlong rush, to run out along the flanks and, raising a din, to make for the high ground and seize the ridge tops in advance, so that they might lend support and engage the enemy if they should meet any at the heights.
 
-At this same moment he himself moved out, taking first the heavy infantry, behind them the cavalry, next the booty, and after all the rest the Iberians and Celts...
+At this same moment he himself moved out, taking first the heavy infantry, behind them the cavalry, next the booty, and after all the rest the Iberians and Gauls [...]
 
 ## Book 3 Chapter 94: Fabius Returns to Rome
 
-...he came to the narrows and the defiles. As for the Romans guarding the narrows, the moment they saw the lights advancing toward the heights, they supposed Hannibal was making his push that way, and so they abandoned the difficult ground and hurried to the help of the heights.
+[...] he came to the narrows and the defiles. As for the Romans guarding the narrows, the moment they saw the lights advancing toward the heights, they supposed Hannibal was making his push that way, and so they abandoned the difficult ground and hurried to the help of the heights.
 
 But as they drew near the oxen they were thrown into confusion by the lights, imagining and expecting something greater and more terrible than what was actually happening. Then, when the Carthaginian spearmen arrived, after the two sides had exchanged a few long-range shots, with the oxen now charging in among them, both parties drew apart and held to the heights, waiting expectantly for the coming of day, since they could not make out what was going on.
 
@@ -5115,7 +5121,7 @@ Coming to anchor about eighty stades from the enemy, he sent ahead two fast-sail
 
 For the people of Massilia, if any others ever did, nobly shared in the fortunes of Rome—often on later occasions, but most of all during the war with Hannibal.
 
-When the men sent out to reconnoiter reported that the enemy’s fleet happened to be lying at anchor off the mouth of the river, Scipio put to sea in haste, wishing to fall upon them suddenly...
+When the men sent out to reconnoiter reported that the enemy’s fleet happened to be lying at anchor off the mouth of the river, Scipio put to sea in haste, wishing to fall upon them suddenly [...]
 
 ## Book 3 Chapter 96: Naval Success of the Romans In Spain
 
@@ -5145,7 +5151,7 @@ He first put in at Lilybaeum in Sicily; after that he sailed down to Libya, to t
 
 On the voyage back he gained control of the island of Cossyrus and, after installing a garrison in its little town, he put in again at Lilybaeum.
 
-For the rest, having moored his fleet there, after no long time he himself
+For the rest, having moored his fleet there, after no long time he himself [...]
 
 ## Book 3 Chapter 97: Spanish Hostages Given Up To the Scipios
 
@@ -5157,7 +5163,7 @@ For this reason, regarding this war too as of great importance, they sent out th
 
 For never before had the Romans ventured to cross the river Ebro—they had been content with the friendship and alliance of the tribes on the near side—but now they crossed it, and for the first time found the courage to lay claim to affairs on the far side, with chance, too, lending them considerable help in the circumstances that surrounded them.
 
-For after overawing the Iberians living about the crossing, they came to the city of the Saguntines and pitched camp about forty stades away, near the temple of Aphrodite, having taken up a position naturally well suited both for safety from the enemy and for the supply of provisions from the sea; for it happened that their fleet was at the same time making its passage along the coast beside them. It was there that
+For after overawing the Iberians living about the crossing, they came to the city of the Saguntines and pitched camp about forty stades away, near the temple of Aphrodite, having taken up a position naturally well suited both for safety from the enemy and for the supply of provisions from the sea; for it happened that their fleet was at the same time making its passage along the coast beside them. It was there that [...]
 
 ## Book 3 Chapter 98: Treason of Abilyx
 
@@ -5173,7 +5179,7 @@ For, by restoring the boys to their cities, he would win over the goodwill not o
 
 He urged Bostar also to expect a host of gifts privately from those who recovered their children; for each of them, unexpectedly regaining the dearest of their kin, would compete in showering benefits on the man in charge of the affair.
 
-By arguing these points and many others like them in the same vein, he persuaded Bostar to agree to
+By arguing these points and many others like them in the same vein, he persuaded Bostar to agree to [...]
 
 ## Book 3 Chapter 99: The Boys are Restored to Their Native Cities
 
@@ -5279,7 +5285,7 @@ And so that they should not be spotted early by the men going out to forage, at 
 
 When Marcus saw what was happening, he thought it a piece of luck and immediately sent out his light-armed troops, ordering them to fight and contend for the position; after them he sent the cavalry.
 
-Next, behind these, he himself led up the heavy infantry in a continuous line, just as before, handling every part of the operation
+Next, behind these, he himself led up the heavy infantry in a continuous line, just as before, handling every part of the operation [...]
 
 ## Book 3 Chapter 105: Cautious Fabius Saves the Day
 
@@ -5313,7 +5319,7 @@ Aemilius and his colleagues, after consulting with the Senate, at once enrolled 
 
 They instructed Gnaeus and his men by no means to risk a general engagement of any kind, but to carry out partial skirmishes as vigorously and as continuously as possible, in order to train the young men and prepare them, full of confidence, for the decisive battles—since they reckoned that their earlier reverses had come about, in no small part, from their having relied on troops that were newly levied and wholly untrained.
 
-They themselves sent Lucius Postumius, a praetor with six lictors, to Gaul with an army, wishing to create a diversion against the Celts who were serving with Hannibal.
+They themselves sent Lucius Postumius, a praetor with six lictors, to Gaul with an army, wishing to create a diversion against the Gauls who were serving with Hannibal.
 
 They also took thought for bringing back the fleet wintering at Lilybaeum, and sent across to the commanders in Iberia everything that was urgently needed for the campaign.
 
@@ -5473,21 +5479,21 @@ Together with the allies there were about eighty thousand infantry and a little 
 
 At the same time Hannibal sent his Balearic slingers and javelin-men across the river and posted them in front of his force; the rest he led out of the camp and, bringing them over the stream at two places, drew them up against the enemy.
 
-Right at the river, on his left, he placed the Iberian and Celtic cavalry facing the Roman cavalry; next to them, half of the Libyan infantry armed in the heavy fashion; next to these, the Iberians and Celts; beside them he placed the remaining portion of the Libyans; and on the right wing he posted the Numidian cavalry.
+Right at the river, on his left, he placed the Iberian and Gallic cavalry facing the Roman cavalry; next to them, half of the Libyan infantry armed in the heavy fashion; next to these, the Iberians and Gauls; beside them he placed the remaining portion of the Libyans; and on the right wing he posted the Numidian cavalry.
 
-Once he had extended everything along a single line, he then took the central units of the Iberians and Celts and pushed them forward, arranging the other units next to them in proportionate gradation, so that the line formed a crescent-shaped bulge and grew thin in its own formation, his intention being that the Libyans should hold the position of a reserve in the battle, while the Iberians and Celts bore the brunt of the first fighting.
+Once he had extended everything along a single line, he then took the central units of the Iberians and Gauls and pushed them forward, arranging the other units next to them in proportionate gradation, so that the line formed a crescent-shaped bulge and grew thin in its own formation, his intention being that the Libyans should hold the position of a reserve in the battle, while the Iberians and Gauls bore the brunt of the first fighting.
 
-## Book 3 Chapter 114: Arms of the Libyans, Iberians, and Celts
+## Book 3 Chapter 114: Arms of the Libyans, Iberians, and Gauls
 
 The Libyans’ equipment was Roman, for Hannibal had armed them all with a selection from the spoils taken in the earlier battle.
 
-As for the Iberians and Celts, their shields were much alike, but their swords were of opposite design.
+As for the Iberians and Gauls, their shields were much alike, but their swords were of opposite design.
 
 For the Iberian sword could thrust just as effectively as it could strike downward, whereas the Gallic blade had only one use, the downward cut, and that one only with room to swing.
 
-Since their companies were drawn up alternately—the Celts naked, the Iberians arrayed in their national fashion in short linen tunics bordered with purple—the sight that resulted was at once strange and terrifying.
+Since their companies were drawn up alternately—the Gauls naked, the Iberians arrayed in their national fashion in short linen tunics bordered with purple—the sight that resulted was at once strange and terrifying.
 
-The whole strength of the Carthaginian cavalry came to about ten thousand, and that of the infantry to not much more than forty thousand, including the Celts. Aemilius held the Roman right, Gaius the left, and the center was held by Marcus and Gnaeus, who had been the commanders of the previous year.
+The whole strength of the Carthaginian cavalry came to about ten thousand, and that of the infantry to not much more than forty thousand, including the Gauls. Aemilius held the Roman right, Gaius the left, and the center was held by Marcus and Gnaeus, who had been the commanders of the previous year.
 
 On the Carthaginian side, Hasdrubal held the left and Hanno the right, while at the center was Hannibal himself, with his brother Mago beside him.
 
@@ -5497,21 +5503,21 @@ Since the Roman line faced south, as I said above, and the Carthaginian line fac
 
 When the first clash had come about between the forward troops, at the outset the fighting among the light-armed themselves was evenly matched.
 
-But as soon as the Iberian and Celtic cavalry on the left closed with the Romans, these men made the battle a real and barbaric one: for the combat did not follow the rules, with wheeling and counter-maneuver, but once they had collided they fought grappling man against man, dismounting from their horses.
+But as soon as the Iberian and Gallic cavalry on the left closed with the Romans, these men made the battle a real and barbaric one: for the combat did not follow the rules, with wheeling and counter-maneuver, but once they had collided they fought grappling man against man, dismounting from their horses.
 
 When the Carthaginian horsemen had won the upper hand and killed most of their opponents in the struggle—for the Romans all fought with passion and courage—and were driving the rest along the river, slaughtering them and laying hands on them without mercy, then the infantry lines took over from the light-armed and engaged one another.
 
-For a short time the ranks of the Iberians and Celts held and fought the Romans gallantly; but after that, crushed by the weight, they gave way and fell back, breaking up the crescent.
+For a short time the ranks of the Iberians and Gauls held and fought the Romans gallantly; but after that, crushed by the weight, they gave way and fell back, breaking up the crescent.
 
-The Roman maniples, following them eagerly, easily cut through the enemy’s line, since the Celts had been drawn up thinly while the Romans had massed together from the wings toward the center and the point of danger.
+The Roman maniples, following them eagerly, easily cut through the enemy’s line, since the Gauls had been drawn up thinly while the Romans had massed together from the wings toward the center and the point of danger.
 
-For the wings and the center did not come into action at the same time; rather the center engaged first, because the Celts, having been arranged in a crescent formation, projected far ahead of the wings, since the convex of the crescent faced the enemy.
+For the wings and the center did not come into action at the same time; rather the center engaged first, because the Gauls, having been arranged in a crescent formation, projected far ahead of the wings, since the convex of the crescent faced the enemy.
 
 But as the Romans pursued these troops and crowded in toward the center and the yielding part of the enemy, they pressed forward so far that on either side, along their exposed flanks, the Libyans in their heavy armor came up against them: those on the right wing wheeled to the left and, charging from the spear side, took position alongside the enemy’s flank, while those on the left made their turn to the right and charged in from the shield side—the situation itself showing them what had to be done.
 
-The result, just as Hannibal had foreseen, was that the Romans were cut off in the middle by the Libyans, caught there by their headlong pursuit of the Celts.
+The result, just as Hannibal had foreseen, was that the Romans were cut off in the middle by the Libyans, caught there by their headlong pursuit of the Gauls.
 
-These men, then, no longer fighting in phalanx formation but turning individually and by maniples against those who were attacking them on the flanks...
+These men, then, no longer fighting in phalanx formation but turning individually and by maniples against those who were attacking them on the flanks [...]
 
 ## Book 3 Chapter 116: The Slaughter at Cannae
 
@@ -5547,7 +5553,7 @@ All the rest, numbering about seventy thousand, died nobly—the throng of caval
 
 And it became clear to later generations that for the occasions of war it is better to have half the number of infantry but be superior in cavalry than to risk a decisive battle with all forces evenly matched against the enemy.
 
-On Hannibal’s side, about four thousand Celts fell, about fifteen hundred Iberians and Libyans, and about two hundred cavalry.
+On Hannibal’s side, about four thousand Gauls fell, about fifteen hundred Iberians and Libyans, and about two hundred cavalry.
 
 The Romans who were taken alive had been outside the main battle, and for the following reason.
 
@@ -5569,7 +5575,7 @@ These had high hopes of becoming masters of Rome itself at the first onset.
 
 The Romans, for their part, at once gave up the rule of Italy on account of the defeat, and were in great fear and danger both for themselves and for the soil of their fatherland, expecting that at any moment Hannibal himself would arrive.
 
-And indeed, as though Fortune were measuring out yet more and joining in the contest against them on top of what had already happened, it came about that a few days later, while fear gripped the city, the general who had been sent to Gaul fell unexpectedly into an ambush and was utterly destroyed, together with his army, by the Celts.
+And indeed, as though Fortune were measuring out yet more and joining in the contest against them on top of what had already happened, it came about that a few days later, while fear gripped the city, the general who had been sent to Gaul fell unexpectedly into an ambush and was utterly destroyed, together with his army, by the Gauls.
 
 Nevertheless the Senate left undone none of the things in its power, but exhorted the people, secured the affairs of the city, and deliberated about the present crisis like men. This became evident from what happened afterward; for although the Romans were on that occasion admittedly beaten and had yielded their claim to excellence in arms, by the distinctive character of their constitution and by deliberating well they not only recovered the rule of Italy, afterward defeating the Carthaginians, but within a few years became masters of the whole inhabited world.
 
@@ -5600,7 +5606,7 @@ Following this, I set out to tell how they began once more to unite in common pu
 
 Next in order I explained by what method and with what policy they went about winning over the cities and undertook to bring all the Peloponnesians under the same name and constitution.
 
-After giving a general account of the plan just described, I then touched continuously on the particular actions, until I came to the downfall of Cleomenes, king of the Lacedaemonians.
+After giving a general account of the plan just described, I then touched continuously on the particular actions, until I came to the downfall of Cleomenes, king of the Spartans.
 
 Having summed up the events of this preliminary survey down to the deaths of Antigonus, Seleucus, and Ptolemy—since all of these passed away at about the same time—I announced, as what remained, that I would make the beginning of my own work the events that follow upon those already described.
 
@@ -5618,11 +5624,11 @@ For Philip, the natural son of Demetrius, while still a boy, had just taken over
 
 At the same time as these, Ariarathes took over the rule of Cappadocia, and Ptolemy Philopator had in the same period become master of affairs in Egypt.
 
-Not long afterward Lycurgus was established as king of the Lacedaemonians, and the Carthaginians had recently chosen Hannibal as their general for the operations already mentioned.
+Not long afterward Lycurgus was established as king of the Spartans, and the Carthaginians had recently chosen Hannibal as their general for the operations already mentioned.
 
 With such a renewal taking place in all the dynasties, there was bound to be the beginning of new affairs; for this is the natural course of things and tends to happen so—and that is just what came about at this time.
 
-For the Romans and the Carthaginians entered upon the war already described; Antiochus and Ptolemy, at the same time as these, the war over Coele-Syria; and the Achaeans and Philip the war against the Aetolians and the Lacedaemonians. The causes of this last came about as follows.
+For the Romans and the Carthaginians entered upon the war already described; Antiochus and Ptolemy, at the same time as these, the war over Coele-Syria; and the Achaeans and Philip the war against the Aetolians and the Spartans. The causes of this last came about as follows.
 
 ## Book 4 Chapter 3: Dorimachus In the Peloponnese
 
@@ -5668,7 +5674,7 @@ At this time the general of the Aetolians was Ariston. Because of certain physic
 
 Now Dorimachus did not dare to urge the Aetolians publicly to take up the war against the Messenians, because he had no pretext worth mentioning. Everyone knew that his impulse arose from his own lawless conduct and from the insult he had suffered.
 
-So he gave up that idea and instead set about privately persuading Scopas to join him in his design against the Messenians. He pointed out that there was no danger from Macedonia, on account of the youth of its ruler—for Philip was then no more than seventeen years old—and he set before him the hostility of the Lacedaemonians toward the Messenians, and reminded him of the goodwill and alliance of the Eleans toward themselves. From all this he argued that their invasion of Messenia would be perfectly safe.
+So he gave up that idea and instead set about privately persuading Scopas to join him in his design against the Messenians. He pointed out that there was no danger from Macedonia, on account of the youth of its ruler—for Philip was then no more than seventeen years old—and he set before him the hostility of the Spartans toward the Messenians, and reminded him of the goodwill and alliance of the Eleans toward themselves. From all this he argued that their invasion of Messenia would be perfectly safe.
 
 But the heart of his Aetolian appeal was that he held before their eyes the profits to be had from the Messenian territory, which was unguarded and had remained the only part of the Peloponnese untouched throughout the Cleomenic war.
 
@@ -5754,7 +5760,7 @@ For the alliance that had been concluded through Antigonus during the period of 
 
 They said, however, that they would march out and come to the Messenians’ aid, provided that the envoys present handed over their own sons as hostages to the city of the Lacedaemonians, as a guarantee that they would not make a settlement with the Aetolians without the consent of the Achaeans.
 
-The Lacedaemonians too were encamped on the borders of Megalopolitan territory, having marched out in accordance with the alliance, though they held the position of reserves and onlookers rather than active allies.
+The Spartans too were encamped on the borders of Megalopolitan territory, having marched out in accordance with the alliance, though they held the position of reserves and onlookers rather than active allies.
 
 Aratus, having settled matters with the Messenians in this way, sent word to the Aetolians, making the decisions known and ordering them to withdraw from Messenian territory and not to set foot in Achaea; otherwise, he warned, he would treat any who entered it as enemies.
 
@@ -5766,7 +5772,7 @@ Two days later they themselves struck camp, laden with booty, and advanced as if
 
 ## Book 4 Chapter 10: Aratus Dismisses the Achaean Troops
 
-Aratus waited two days and, naively believing that they would make their return by the route they had indicated, dismissed all the rest of the Achaeans and the Lacedaemonians to their homes, but keeping three thousand foot and three hundred horse together with the soldiers under Taurion, he advanced along the road to Patrae, intending to march parallel to the Aetolians.
+Aratus waited two days and, naively believing that they would make their return by the route they had indicated, dismissed all the rest of the Achaeans and the Spartans to their homes, but keeping three thousand foot and three hundred horse together with the soldiers under Taurion, he advanced along the road to Patrae, intending to march parallel to the Aetolians.
 
 When Dorimachus and his men learned that Aratus was keeping pace with them and remaining under arms—partly fearing that they might be attacked while they were preoccupied with embarking on the ships, and partly being eager to provoke the war—they sent their booty off to the boats, assigning enough capable men suited to its transport, with instructions to those sent out that the goods should be brought to Rhium, where they intended to make their embarkation.
 
@@ -5774,7 +5780,7 @@ They themselves at first lay in wait, attending to the dispatch of the booty, an
 
 But hearing that Taurion with the aforementioned force was in the neighborhood of Cleitor, and reckoning that even so they would not be able to make the crossing from Rhium without danger and a clash, they decided it was to the advantage of their cause to engage with Aratus’s men as quickly as possible, while they were still few in number and unsuspecting of what was coming, supposing that, if they routed them, they could plunder the country in advance and so make the crossing from Rhium secure, during the time the Achaean levy was hesitating and deliberating about mustering again, while if Aratus’s men were alarmed and avoided battle, unwilling to engage, they could effect their withdrawal without danger whenever it seemed advantageous to them.
 
-So, reasoning along these lines, they advanced and pitched camp near
+So, reasoning along these lines, they advanced and pitched camp near [...]
 
 ## Book 4 Chapter 11: Bad Strategy of Aratus
 
@@ -5792,7 +5798,7 @@ And yet, if an engagement had to be risked at all, they ought not to have come t
 
 For in that way the whole battle would have taken place on flat, level ground, where the Aetolians happened to be at their most ineffective, owing to their equipment and their whole order of arms, while the Achaeans were at their most effective and powerful, for the opposite reasons just stated.
 
-As it was, abandoning the ground and circumstances suited to themselves, they descended into conditions that favored the enemy. The outcome, accordingly,
+As it was, abandoning the ground and circumstances suited to themselves, they descended into conditions that favored the enemy. The outcome, accordingly, [...]
 
 ## Book 4 Chapter 12: The Achaeans Defeated
 
@@ -5818,7 +5824,7 @@ So this, then, was the engagement that took place near Caphyae —
 
 ## Book 4 Chapter 13: Aratus Denounced For His Failure
 
-...in this way it turned out. When the Megalopolitans learned that the Aetolians were encamped near Methydrium, they came at the call of the trumpet, with their whole population, to give aid on the day immediately following the battle.
+[...] in this way it turned out. When the Megalopolitans learned that the Aetolians were encamped near Methydrium, they came at the call of the trumpet, with their whole population, to give aid on the day immediately following the battle.
 
 And the very men alongside whom, while still alive, they had hoped to face the danger against the enemy—these they were now forced to bury, men who had been killed by their foes.
 
@@ -5830,11 +5836,11 @@ During this time they made an attempt on the city of the Pellenians, overran the
 
 These, then, were the cause and the pretext from which the Social War arose; its formal beginning came from the decree that was afterward passed by all the allies.
 
-For they assembled at the city of the Corinthians and ratified the resolution, with Phi-
+For they assembled at the city of the Corinthians and ratified the resolution, with Philip the king presiding.
 
 ## Book 4 Chapter 14: Aratus is Denounced and Defends Himself
 
--lip the king presiding. A few days later the general body of the Achaeans, gathered for their regular assembly, were bitterly hostile—both collectively and individually—toward Aratus, on the grounds that he was, by common agreement, the man responsible for the disaster just described.
+A few days later the general body of the Achaeans, gathered for their regular assembly, were bitterly hostile—both collectively and individually—toward Aratus, on the grounds that he was, by common agreement, the man responsible for the disaster just described.
 
 And so, when his political opponents brought charges against him and presented vivid demonstrations of his guilt, the multitude grew still more angry and incensed.
 
@@ -5864,19 +5870,19 @@ For this very reason they were not angered for long, but voted to keep peace wit
 
 The Aetolians, at any rate, behaving in this manner—constantly plundering Greece and waging undeclared wars upon many peoples—no longer even thought it worth their while to answer those who accused them, but actually mocked anyone who summoned them to arbitration over what had happened, or, by Zeus, over what they intended to do.
 
-And the Lacedaemonians, though they had recently been set free through Antigonus and the generous zeal of the Achaeans, and were bound to do nothing hostile toward the Macedonians and Philip, sent secret messages to the Aetolians and concluded a covert treaty of friendship and alliance with them.
+And the Spartans, though they had recently been set free through Antigonus and the generous zeal of the Achaeans, and were bound to do nothing hostile toward the Macedonians and Philip, sent secret messages to the Aetolians and concluded a covert treaty of friendship and alliance with them.
 
-When the Achaean young men had already been picked out and assigned to the support of the Lacedaemonians and Messenians, Scerdilaidas, together with Demetrius of Pharos, sailed out from Illyria with ninety galleys beyond Lissus, in violation of the treaty with the Romans.
+When the Achaean young men had already been picked out and assigned to the support of the Spartans and Messenians, Scerdilaidas, together with Demetrius of Pharos, sailed out from Illyria with ninety galleys beyond Lissus, in violation of the treaty with the Romans.
 
 These men first put in at Pylos and, after making assaults upon it, were beaten off; afterward Demetrius, taking fifty of the galleys, set out for the islands, and sailing around them exacted money from some of the Cyclades and plundered others; while Scerdilaidas, making his voyage homeward, put in at Naupactus with forty galleys, persuaded by Amynas, king of the Athamanians, who happened to be his brother-in-law.
 
 Having made an agreement with the Aetolians, through Agelaus, concerning the division of the spoils, he promised to join the Aetolians in invading Achaea together with them.
 
-Having concluded this agreement with Scerdilaidas, Agelaus, Dorimachus, and Scopas—since the city of the Cynaethians was being intrigued into their hands—mustered the Aetolians with their whole force and invaded...
+Having concluded this agreement with Scerdilaidas, Agelaus, Dorimachus, and Scopas—since the city of the Cynaethians was being intrigued into their hands—mustered the Aetolians with their whole force and invaded [...]
 
 ## Book 4 Chapter 17: Factions At Cynaetha
 
-...Achaea, together with the Illyrians. Meanwhile Ariston, the general of the Aetolians, pretended to take no notice of any of these events and stayed quietly at home, claiming that he was not making war on the Achaeans but keeping the peace—a foolish and childish way to behave.
+[...] Achaea, together with the Illyrians. Meanwhile Ariston, the general of the Aetolians, pretended to take no notice of any of these events and stayed quietly at home, claiming that he was not making war on the Achaeans but keeping the peace—a foolish and childish way to behave.
 
 For it is plain that a man of this sort is bound to look silly and absurd whenever he imagines that mere words can hide what the facts make obvious.
 
@@ -5900,7 +5906,7 @@ For as soon as they were admitted to citizenship, they at once began drawing in 
 
 ## Book 4 Chapter 18: Treason of the Cynaethans
 
-...to destroy it root and branch. The deed they carried out with the following piece of daring, and in the following way.
+[...] to destroy it root and branch. The deed they carried out with the following piece of daring, and in the following way.
 
 Some of the returned exiles had been appointed polemarchs. It is the duty of this office to close the gates, to keep custody of the keys during the time they remain shut, and to spend the day on station at the gatehouses.
 
@@ -5940,7 +5946,7 @@ Demetrius, who had made his return from the islands profitable but inglorious—
 
 So Demetrius hauled his ships over the Isthmus but arrived two days too late for the Aetolian crossing; after raiding some places along the Aetolian coast in advance, he sailed back to Corinth.
 
-As for the Lacedaemonians, they shirked sending the relief force as arranged, dispatching only a very small body of cavalry and infantry, merely to keep up appearances.
+As for the Spartans, they shirked sending the relief force as arranged, dispatching only a very small body of cavalry and infantry, merely to keep up appearances.
 
 Aratus, though he had his Achaean troops, dealt with the situation more as a politician than as a general.
 
@@ -6006,9 +6012,9 @@ When, owing to the suddenness of it, a crowd had quickly gathered, Adeimantus, d
 
 But while he was still pressing this argument, the young men who had been suborned fell upon him and stabbed him to death, and with him Sthenelaus, Alcamenes, Thyestes, Bionidas, and a good many other citizens.
 
-But Polyphontas and certain men with him, prudently foreseeing what was to come,
+But Polyphontas and certain men with him, prudently foreseeing what was to come, [...]
 
-## Book 4 Chapter 23: Differences of Opinion Among the Lacedaemonians
+## Book 4 Chapter 23: Differences of Opinion Among the Spartans
 
 withdrew to join Philip. Having done this, the ephors now in control of affairs at once sent men to denounce to Philip those who had been killed and to urge him to hold back his approach until the city’s affairs, after the disturbance that had occurred, had returned to their settled state—and meanwhile to be assured that it was their fixed intention to maintain toward the Macedonians everything that was just and friendly.
 
@@ -6022,7 +6028,7 @@ So the Spartans, having spoken these things and others like them, withdrew, and 
 
 Some, knowing the malice of those in Sparta and convinced both that the party of Adeimantus had perished because of their loyalty to the Macedonians and that the Spartans had set their minds on making common cause with the Aetolians, advised Philip to make an example of the Spartans, treating them in the same way that Alexander had treated the Thebans immediately after taking power.
 
-But others, the older men, declared that such anger was too severe for what had happened, and that the right course was to censure those responsible, depose them, and put the government and the magistracies into the hands of his own
+But others, the older men, declared that such anger was too severe for what had happened, and that the right course was to censure those responsible, depose them, and put the government and the magistracies into the hands of his own [...]
 
 ## Book 4 Chapter 24: The King Decides Not to Punish Sparta
 
@@ -6078,7 +6084,7 @@ About these matters I scarcely know how one ought to speak. For to pass a public
 
 For what else could one call such wickedness? My meaning will be made clear from the following examples.
 
-When Phoebidas treacherously seized the Cadmeia in violation of the treaty, the Lacedaemonians penalized the man responsible, but did not withdraw the garrison—as though the wrong were undone by the punishment of the man who committed it, when in fact the opposite course was open to them; for it was the garrison that mattered to the Thebans.
+When Phoebidas treacherously seized the Cadmeia in violation of the treaty, the Spartans penalized the man responsible, but did not withdraw the garrison—as though the wrong were undone by the punishment of the man who committed it, when in fact the opposite course was open to them; for it was the garrison that mattered to the Thebans.
 
 Again, they proclaimed that they were leaving the cities free and self-governing in accordance with the peace concluded under Antalcidas, yet they did not withdraw their governors from the cities.
 
@@ -6150,11 +6156,11 @@ The oligarchs who led the Messenians, aiming at their own immediate private adva
 
 Because of this, although they had many opportunities and favourable moments, they let them slip, and at times escaped from fears and dangers as well; but along with this policy the reckoning against them was always mounting up, and in the end they made their country wrestle with the gravest disasters.
 
-For my own part, I think the cause was this: that they bordered on two of the most powerful peoples in the Peloponnese—indeed almost in all of Greece—I mean the Arcadians and the Laconians, of whom the one had been hostile and irreconcilable toward them ever since they had occupied the land, while the other was friendly and protective; yet they neither nobly took up their enmity against the Lacedaemonians nor their friendship with the Arcadians.
+For my own part, I think the cause was this: that they bordered on two of the most powerful peoples in the Peloponnese—indeed almost in all of Greece—I mean the Arcadians and the Laconians, of whom the one had been hostile and irreconcilable toward them ever since they had occupied the land, while the other was friendly and protective; yet they neither nobly took up their enmity against the Spartans nor their friendship with the Arcadians.
 
 The result was that whenever these peoples were preoccupied in war against one another or against others, things went well for the Messenians; for they always enjoyed peace and fine weather, as it were, because their country lay off to one side.
 
-But whenever the Lacedaemonians, having leisure and nothing to distract them, turned to doing them harm, the Messenians were neither able by themselves to look the weight of Lacedaemon in the face, nor had they prepared in advance true friends who would stand by them in everything; and so they were forced either to be slaves to the Lacedaemonians, bearing their burdens, or, in fleeing that slavery, to be driven from their homes and made fugitives, abandoning their country together with their children and wives— which is just what has now befallen them more than once, and not so very long ago.
+But whenever the Spartans, having leisure and nothing to distract them, turned to doing them harm, the Messenians were neither able by themselves to look the weight of Lacedaemon in the face, nor had they prepared in advance true friends who would stand by them in everything; and so they were forced either to be slaves to the Spartans, bearing their burdens, or, in fleeing that slavery, to be driven from their homes and made fugitives, abandoning their country together with their children and wives— which is just what has now befallen them more than once, and not so very long ago.
 
 Now it would be best if the present state of affairs among the Peloponnesians could grow together into something permanent, so that there should be no need of what I am about to say.
 
@@ -6178,11 +6184,11 @@ For at the time when the battle near Mantinea had left the victory of the Greeks
 
 Considering all this, what man of later times could fail to judge that what I set out a little earlier has been rightly said?
 
-Let this, then, be said by me for the sake of the Arcadians and Messenians, so that, remembering the disasters that have befallen their homelands at the hands of the Lacedaemonians, they may hold genuinely fast to their goodwill and loyalty toward one another, and may neither, out of dread of some danger nor out of longing for peace, abandon each other in the gravest crises.
+Let this, then, be said by me for the sake of the Arcadians and Messenians, so that, remembering the disasters that have befallen their homelands at the hands of the Spartans, they may hold genuinely fast to their goodwill and loyalty toward one another, and may neither, out of dread of some danger nor out of longing for peace, abandon each other in the gravest crises.
 
 ## Book 4 Chapter 34: Machatas Addresses the Spartan Public
 
-The Lacedaemonians, for their part, behaved exactly as was their habit—this being of a piece with what came before—for in the end they sent the envoys of the allies away without any answer. Such was the impasse into which their own folly and bad faith had driven them.
+The Spartans, for their part, behaved exactly as was their habit—this being of a piece with what came before—for in the end they sent the envoys of the allies away without any answer. Such was the impasse into which their own folly and bad faith had driven them.
 
 And this, it seems to me, proves the truth of the saying that excessive daring often ends in senselessness and comes to nothing.
 
@@ -6200,7 +6206,7 @@ When he had withdrawn, the matter became the subject of great dispute: some spok
 
 But when some of the older men brought the people’s attention to bear on the benefactions of Antigonus and the Macedonians, and on the harm done through Charixenus and Timaeus—when the Aetolians had marched out in full force and ravaged their land, enslaved the inhabitants of the surrounding country, and plotted against Sparta itself by bringing back the exiles through trickery and force—the people came round to a different view, and in the end were persuaded to maintain the alliance with Philip and the Macedonians.
 
-This being so, Machatas departed again without having achieved anything
+This being so, Machatas departed again without having achieved anything [...]
 
 ## Book 4 Chapter 35: Restoration of Royalty In Sparta
 
@@ -6230,7 +6236,7 @@ So cheap, everywhere, has nobility become. And so it was that not the children�
 
 ## Book 4 Chapter 36: Machatas Proposes Foreign War to Quell Domestic Strife
 
-Machatas, learning what had taken place among the Lacedaemonians, turned back once more and came to Sparta, and urged the ephors and the kings to carry the war to the Achaeans; for only in this way, he said, could an end be put to the contentiousness of those Lacedaemonians who were trying by every means to sever the alliance with the Aetolians, and likewise of those in Aetolia who were acting in the same fashion.
+Machatas, learning what had taken place among the Spartans, turned back once more and came to Sparta, and urged the ephors and the kings to carry the war to the Achaeans; for only in this way, he said, could an end be put to the contentiousness of those Spartans who were trying by every means to sever the alliance with the Aetolians, and likewise of those in Aetolia who were acting in the same fashion.
 
 The ephors and the kings were persuaded, and Machatas departed, having accomplished his aim through the blindness of those who worked with him.
 
@@ -6242,7 +6248,7 @@ After he had done this, the Lacedaemonians proclaimed the right of plunder again
 
 Since matters had advanced for the Aetolians beyond expectation and to their liking, they entered upon the war with confidence, while the Achaeans were in the opposite case.
 
-For Philip, on whom their hopes rested, was still occupied with his preparations; the Epirotes were only about to go to war; the Messenians remained inactive; and the Aetolians, having now added the folly of the Eleans and Lacedaemonians to their cause, were hemming them in with war from every side.
+For Philip, on whom their hopes rested, was still occupied with his preparations; the Epirotes were only about to go to war; the Messenians remained inactive; and the Aetolians, having now added the folly of the Eleans and Spartans to their cause, were hemming them in with war from every side.
 
 ## Book 4 Chapter 37: Universal War
 
@@ -6260,7 +6266,7 @@ Lycurgus, wishing to begin in the same manner as Cleomenes, had encamped before 
 
 Philip, meanwhile, set out from Macedonia with his army, having ten thousand Macedonian phalangites, five thousand peltasts, and along with these eight hundred cavalry.
 
-All these matters, then, were in such a state of undertaking and preparation. And about this same time the Rhodians declared war on the Byzantines for certain
+All these matters, then, were in such a state of undertaking and preparation. And about this same time the Rhodians declared war on the Byzantines for certain [...]
 
 ## Book 4 Chapter 38: Byzantium
 
@@ -6324,7 +6330,7 @@ And this is indeed seen to be happening. The Maeotis, then, has already become s
 
 And although from the beginning it was a sea flowing together with the Pontus, as the ancients agree, it is now a freshwater lake, the sea-water having been pressed out by the silt deposits, and the inflow of the rivers having prevailed.
 
-The same will happen with the Pontus, and is in fact happening now; but it is not very evident to most people, because of the size of the basin. To those, however, who have given even a little attention, even now
+The same will happen with the Pontus, and is in fact happening now; but it is not very evident to most people, because of the size of the basin. To those, however, who have given even a little attention, even now [...]
 
 ## Book 4 Chapter 41: Flow of the Danube into the Black Sea
 
@@ -6380,7 +6386,7 @@ It is no longer strong enough, however, to reach the land opposite, on which Cal
 
 For having made its returns back and forth many times, and since the channel here is broad, the current has by now spent its force at this point and no longer makes short reflections at a sharp angle toward the far shore, but rather at an obtuse one.
 
-For this reason it falls short of the city of the Calchedonians and runs
+For this reason it falls short of the city of the Calchedonians and runs [...]
 
 ## Book 4 Chapter 44: Contrast between Byzantium and Calchedon
 
@@ -6404,7 +6410,7 @@ Likewise, again, for a ship sailing out, to run straight for Thrace is utterly i
 
 For the south wind carries ships into the Pontus and the north wind out of it, and one must use these very winds for each of the two voyages.
 
-These, then, are the things that give the Byzantines their advantage by sea; the matters concerning the land
+These, then, are the things that give the Byzantines their advantage by sea; the matters concerning the land [...]
 
 ## Book 4 Chapter 45: Disadvantages of Byzantium On Land
 
@@ -6544,7 +6550,7 @@ Such, then, were the beginnings the war of the Rhodians and Prusias against the 
 
 ## Book 4 Chapter 53: War In Crete
 
-…the end. At about this time the Cnossians sent envoys to the Rhodians and persuaded them to dispatch the ships under Polemocles’ command, together with three more undecked vessels which they were to launch and send in addition.
+[...] the end. At about this time the Cnossians sent envoys to the Rhodians and persuaded them to dispatch the ships under Polemocles’ command, together with three more undecked vessels which they were to launch and send in addition.
 
 When this had been done and the ships had arrived in Crete, the people of Eleutherna, suspecting that Polemocles and his men had put to death their fellow-citizen Timarchus as a favor to the Cnossians, first proclaimed a right of reprisal against the Rhodians, and after that went to open war.
 
@@ -6558,7 +6564,7 @@ The Polyrrhenians, the Ceraïtae, and the Lappaeans, and with them the Horii tog
 
 The Cnossians, since this upheaval among their allies had come upon them unexpectedly, called in a thousand men from Aetolia in accordance with their alliance.
 
-As soon as this had happened, the older men of the Gortynians seized the citadel and brought in the Cnossians and the Aetolians; and some of the young men they expelled, and others they killed,
+As soon as this had happened, the older men of the Gortynians seized the citadel and brought in the Cnossians and the Aetolians; and some of the young men they expelled, and others they killed, [...]
 
 ## Book 4 Chapter 54: The Fall of Lyttos
 
@@ -6570,7 +6576,7 @@ The Lyttians, arriving back at their city from the expedition and seeing what ha
 
 The Lappaeans received them kindly and with all eagerness; and these men, who in a single day had become cityless strangers instead of citizens, joined their allies in making war against the Cnossians.
 
-Thus Lyttos—a colony and kinswoman of the Lacedaemonians, the most ancient of the cities of Crete, and by common consent the constant nurse of the bravest men among the Cretans—was utterly and unexpectedly swept away.
+Thus Lyttos—a colony and kinswoman of the Spartans, the most ancient of the cities of Crete, and by common consent the constant nurse of the bravest men among the Cretans—was utterly and unexpectedly swept away.
 
 ## Book 4 Chapter 55: Polyrrhen and Lappa Join the Alliance
 
@@ -6624,7 +6630,7 @@ Having cut them down while they were still in their beds, and having hacked thro
 
 These rushed in, but then handled the situation with conspicuous lack of forethought—which proved to be a contributing cause of the Aegiratans’ salvation and of the Aetolians’ destruction.
 
-For supposing that getting inside the gates was the whole point of taking an enemy’s city, in this manner
+For supposing that getting inside the gates was the whole point of taking an enemy’s city, in this manner [...]
 
 ## Book 4 Chapter 58: The Aetolians Repulsed At Aegira
 
@@ -6696,7 +6702,7 @@ For the Epirotes, placing their own interest above the common interest of the al
 
 For Ambracus is a stronghold well fortified with both outworks and a wall, and it lies amid marshes, having a single narrow, raised causeway as its approach from the land; and it is conveniently situated so as to command both the territory of the Ambracians and the city.
 
-Philip, then, won over by the Epirotes and having encamped around Ambracus, set about
+Philip, then, won over by the Epirotes and having encamped around Ambracus, set about [...]
 
 ## Book 4 Chapter 62: Scopas Destroys Dium
 
@@ -6752,11 +6758,11 @@ Philip, having crossed over with his army and fearlessly ravaged this district t
 
 As he drew near, the garrison, terror-stricken, abandoned the place; and the king, having gained mastery of it, razed it to the ground.
 
-In the same way he ordered his foraging parties to deal likewise with the remaining towers throughout the country
+In the same way he ordered his foraging parties to deal likewise with the remaining towers throughout the country [...]
 
 ## Book 4 Chapter 65: Philip Takes Paeanium
 
-...to bring it down. Once he had passed through the narrows, he made the rest of the march at an easy, unhurried pace, allowing his army the chance to gather plunder from the countryside.
+[...] to bring it down. Once he had passed through the narrows, he made the rest of the march at an easy, unhurried pace, allowing his army the chance to gather plunder from the countryside.
 
 When the camp was fully stocked with every kind of provision, he came to Oeniadae.
 
@@ -6796,7 +6802,7 @@ It was around this time that Aemilius brought his triumph into Rome in splendid 
 
 I have set out the particulars of these matters in the previous book; but I have now brought them forward by way of reminder, in keeping with my original undertaking, so that the corresponding events may be known.
 
-And so the first year of the present...
+And so the first year of the present [...]
 
 ## Book 4 Chapter 67: Philip Returns To the Peloponnese
 
@@ -6814,7 +6820,7 @@ He moved them across from Thessaly into Euboea, and from there to Cynos, and cam
 
 He closed the gates of Corinth, posted guards to control the roads, and on the very next day summoned Aratus the elder to come to him from Sicyon. He also sent off dispatches to the general of the Achaeans and to the cities, in which he made clear when and where they must all assemble under arms.
 
-Having arranged these matters, he broke camp and advanced, and pitched camp
+Having arranged these matters, he broke camp and advanced, and pitched camp [...]
 
 ## Book 4 Chapter 68: Euripidas Intends to Attack Sicyon
 
@@ -6826,11 +6832,11 @@ But some of Philip’s Cretans, who had left their ranks and were ranging about 
 
 He questioned them, and so learned of the presence of the Macedonians. Without revealing to anyone any of what had happened, he took up his force, turned about, and withdrew again by the same road along which he had come, wishing—and indeed hoping—to outstrip the Macedonians by getting through Stymphalia and reaching the difficult country that lay beyond it.
 
-The king, knowing nothing of the enemy’s doings, broke camp at dawn in accordance with his own plan and advanced, having resolved to make his march past Stymphalus itself in the direction of Caphyae; for it was there that he had written to the Achaeans to assemble
+The king, knowing nothing of the enemy’s doings, broke camp at dawn in accordance with his own plan and advanced, having resolved to make his march past Stymphalus itself in the direction of Caphyae; for it was there that he had written to the Achaeans to assemble [...]
 
 ## Book 4 Chapter 69: Euripidas Deserts the Eleans
 
-...were gathering under arms. As the vanguard of the Macedonians reached the top of the pass near the place called Apelaurus—which lies about ten stades in front of the city of Stymphalus—it happened that at that very moment the vanguard of the Eleans also came up onto the same pass.
+[...] were gathering under arms. As the vanguard of the Macedonians reached the top of the pass near the place called Apelaurus—which lies about ten stades in front of the city of Stymphalus—it happened that at that very moment the vanguard of the Eleans also came up onto the same pass.
 
 Euripidas, realizing from the reports brought to him what had occurred, took some of the cavalry with him, slipped away from the immediate crisis, and made his retreat to Psophis by the trackless cross-country routes.
 
@@ -6922,7 +6928,7 @@ Such was the conclusion of the affair at Psophis.
 
 ## Book 4 Chapter 73: The Wealth of Elis
 
-...in this fashion. The Eleans who were keeping watch over Lasion, learning of the Macedonians’ arrival and having also heard of what had happened at Psophis, immediately abandoned the town.
+[...] in this fashion. The Eleans who were keeping watch over Lasion, learning of the Macedonians’ arrival and having also heard of what had happened at Psophis, immediately abandoned the town.
 
 So as soon as the king arrived, he took the place at his first approach; and, furthering the goodwill he felt toward the Achaean nation, he handed Lasion over to them as well. In the same way, when the Eleans evacuated Stratus too, he restored it to the people of Telphusa.
 
@@ -6938,11 +6944,11 @@ Indeed, some of them are so devoted to life on the land that there are men who, 
 
 This comes about because those who manage public affairs take great care and forethought for the people living in the countryside, so that justice may be administered to them on the spot and they may lack nothing for the necessities of life.
 
-It seems to me that they devised and enacted all these arrangements in ancient times both because of the great extent of their land and, above all, because of the sacred manner of life they once enjoyed, when, having received from the Greeks a concession on account of the contest of the Olympic Games, they inhabited Elis as a land sacred and inviolate, untouched by any...
+It seems to me that they devised and enacted all these arrangements in ancient times both because of the great extent of their land and, above all, because of the sacred manner of life they once enjoyed, when, having received from the Greeks a concession on account of the contest of the Olympic Games, they inhabited Elis as a land sacred and inviolate, untouched by any [...]
 
 ## Book 4 Chapter 74: Peace the Only Unquestioned Blessing
 
-...terror or any circumstance of war. But afterward, when the dispute with the Arcadians over Lasion and the whole of Pisatis forced them to defend their territory and to change their ways of living, they no longer took even ordinary trouble to recover from the Greeks their ancient and ancestral immunity from pillage, but remained as they were—not, in my judgment at least, making correct provision for the future.
+[...] terror or any circumstance of war. But afterward, when the dispute with the Arcadians over Lasion and the whole of Pisatis forced them to defend their territory and to change their ways of living, they no longer took even ordinary trouble to recover from the Greeks their ancient and ancestral immunity from pillage, but remained as they were—not, in my judgment at least, making correct provision for the future.
 
 For consider: there is one thing that we all pray to the gods to obtain, and for the sake of which we endure anything in our longing to share in it—the one thing among our reckoned goods that is beyond all dispute among men—I mean peace. If, then, certain people who are able to acquire this from the Greeks, with justice and propriety and uncontested for all time, neglect it or treat something else as more important than it, how could they fail to seem, by common consent, to be blind to their own interest? “Yes, by Zeus,” someone may object, “but perhaps by such a manner of life they become an easy target for those who set out to make war and to violate treaties.”
 
@@ -6952,11 +6958,11 @@ And as for the lesser, particular injustices, given the means that would have ac
 
 As it is, fearing the rare and the unexpected, they hold their land and their livelihoods amid continual wars and devastations.
 
-Let this, then, be said by us for the sake of admonishing the Eleans, since the circumstances of the times have never before offered a more favorable disposition than the present for them to acquire, by the agreement of all, their immunity from pillage. As for their country, as I said above, since some sparks, as it were, of the old custom still remain...
+Let this, then, be said by us for the sake of admonishing the Eleans, since the circumstances of the times have never before offered a more favorable disposition than the present for them to acquire, by the agreement of all, their immunity from pillage. As for their country, as I said above, since some sparks, as it were, of the old custom still remain [...]
 
 ## Book 4 Chapter 75: Capture of Thalamae
 
-...among them, the Eleans dwell exceptionally well off. For this reason, during Philip’s presence the number of those captured was vast, and still greater the number of those who had fled for refuge.
+[...] among them, the Eleans dwell exceptionally well off. For this reason, during Philip’s presence the number of those captured was vast, and still greater the number of those who had fled for refuge.
 
 The greatest quantity of movable goods and the greatest throng of people and livestock had been gathered into the place they call Thalamae, because the country around it was narrow and hard to penetrate, and the place itself was inaccessible and difficult to approach.
 
@@ -7046,13 +7052,13 @@ The Phigalians then sent an embassy to Philip and put themselves and their city 
 
 ## Book 4 Chapter 80: The People of Lepreum Evict the Garrisons
 
-While these affairs were still in progress, the people of Lepreum seized a certain quarter of their city and demanded that the Eleans, the Aetolians, and likewise the troops from the Lacedaemonians evacuate both the citadel and the city—for a relief force had come to them from the Lacedaemonians as well.
+While these affairs were still in progress, the people of Lepreum seized a certain quarter of their city and demanded that the Eleans, the Aetolians, and likewise the troops from the Spartans evacuate both the citadel and the city—for a relief force had come to them from the Spartans as well.
 
 At first Phillidas and his men paid no heed but stayed put, expecting to overawe those in the city; but when the king dispatched Taurion with soldiers to Phigalia and himself advanced toward Lepreum, drawing close to the city, Phillidas and his men, realizing the situation, were cowed, while the Lepreates were further emboldened in their resolve.
 
-It was indeed a fine feat that the Lepreates accomplished: although there were within the walls a thousand Eleans, a thousand Aetolians together with the pirates, five hundred mercenaries, and two hundred Lacedaemonians, and although the citadel was held by these troops, they nonetheless made a stand for their own homeland and refused to give up their hopes.
+It was indeed a fine feat that the Lepreates accomplished: although there were within the walls a thousand Eleans, a thousand Aetolians together with the pirates, five hundred mercenaries, and two hundred Spartans, and although the citadel was held by these troops, they nonetheless made a stand for their own homeland and refused to give up their hopes.
 
-Phillidas, seeing the Lepreates holding their ground like men and the Macedonians drawing near, withdrew from the city along with the Eleans and the troops from the Lacedaemonians.
+Phillidas, seeing the Lepreates holding their ground like men and the Macedonians drawing near, withdrew from the city along with the Eleans and the troops from the Spartans.
 
 So the Cretans sent by the Spartans returned home through Messenia, while Phillidas and his men made their retreat in the direction of Samicum. The mass of the Lepreates, now in control of their homeland, sent out ambassadors to put their city into Philip’s hands.
 
@@ -7076,7 +7082,7 @@ On reaching the aforementioned city, he distributed all the spoils, then took up
 
 ## Book 4 Chapter 81: Chilon’s Fruitless Attempts In Sparta
 
-At about this same time, while Philip was occupied with affairs in Triphylia, Chilon the Lacedaemonian—holding that the kingship belonged to him by right of birth, and bitterly resenting the slight that the Ephors had shown him in the decision regarding the kingship, when they awarded it to Lycurgus—set out to overturn the established order.
+At about this same time, while Philip was occupied with affairs in Triphylia, Chilon the Spartan—holding that the kingship belonged to him by right of birth, and bitterly resenting the slight that the Ephors had shown him in the decision regarding the kingship, when they awarded it to Lycurgus—set out to overturn the established order.
 
 He reasoned that if he followed the same path as Cleomenes and held out to the common people the hope of land allotments and a redistribution of property, the masses would quickly fall in behind him; and so he launched into the enterprise.
 
@@ -7094,9 +7100,9 @@ Chilon, having been foiled in the most crucial point of his attempt, was thoroug
 
 So he burst into the marketplace, laid violent hands on his enemies, appealed to his kinsmen and friends, and held out to the rest the hopes just described.
 
-But when no one paid him any heed, and the people instead began to band together against him, he grasped what was happening, slipped away in secret, and making his way across the country arrived alone in Achaea, an exile. As for the Lacedaemonians, terrified at the approach of Philip, they cleared away everything from the countryside, and after demolishing the Athenaeum of the Megalopolitans, abandoned it.
+But when no one paid him any heed, and the people instead began to band together against him, he grasped what was happening, slipped away in secret, and making his way across the country arrived alone in Achaea, an exile. As for the Spartans, terrified at the approach of Philip, they cleared away everything from the countryside, and after demolishing the Athenaeum of the Megalopolitans, abandoned it.
 
-So then the Lacedaemonians— who from the time of Lycurgus’s legislation had enjoyed a most admirable constitution and held very great power down to the battle of Leuctra, but after whom Fortune turned against them, their political condition steadily and ever more sliding toward the worse— in the end experienced a great many hardships and civil factions, struggled through countless redistributions of land and banishments, and tasted the most bitter servitude down to the tyranny of Nabis; they who in former days could scarcely bear to hear even the word “tyrant.”
+So then the Spartans— who from the time of Lycurgus’s legislation had enjoyed a most admirable constitution and held very great power down to the battle of Leuctra, but after whom Fortune turned against them, their political condition steadily and ever more sliding toward the worse— in the end experienced a great many hardships and civil factions, struggled through countless redistributions of land and banishments, and tasted the most bitter servitude down to the tyranny of Nabis; they who in former days could scarcely bear to hear even the word “tyrant.”
 
 Now the ancient history of Sparta, and most of its later history, has been recounted by many writers on both sides of the question. But the clearest part of it begins from the point at which Cleomenes utterly abolished the ancestral constitution; and this I shall relate at the appropriate moments as they arise.
 
@@ -7233,7 +7239,7 @@ After that, for as long as he remained in the Peloponnese and campaigned as thei
 
 After these measures had been approved, the Achaeans dispersed to their cities. The king, after consulting with his friends, decided, once the forces had come together from winter quarters, to wage the war by sea.
 
-He was convinced that only in this way would he be able to appear quickly against the enemy at every point, while his opponents would be least able to come to one another’s aid, since they were separated by their territories and each would be anxious for his own safety because of the uncertainty and speed with which an enemy could arrive by sea. For he was at war with the Aetolians, the Lacedaemonians, and the Eleans as well.
+He was convinced that only in this way would he be able to appear quickly against the enemy at every point, while his opponents would be least able to come to one another’s aid, since they were separated by their territories and each would be anxious for his own safety because of the uncertainty and speed with which an enemy could arrive by sea. For he was at war with the Aetolians, the Spartans, and the Eleans as well.
 
 Once this decision had been made, he assembled both the Achaean ships and his own at Lechaeum, and by repeatedly putting out to sea he trained the phalanx troops and got them used to the oars, the Macedonians responding eagerly to every order he gave.
 
@@ -7481,7 +7487,7 @@ For Philip had encamped near Metapa and was there waiting for the men from the r
 
 On the following day, as he advanced, he ravaged the countryside and, after encamping near Conope, remained there through the next day.
 
-On the day after that he broke camp again and marched along the Achelous as far as Stratus. After crossing the river, he drew up his force out of missile range,
+On the day after that he broke camp again and marched along the Achelous as far as Stratus. After crossing the river, he drew up his force out of missile range, [...]
 
 ## Book 5 Chapter 14: Skirmish at Stratus
 
@@ -7575,11 +7581,11 @@ After mooring his ships at Lechaeum, he disembarked his troops and sent messenge
 
 After making these arrangements and spending no time at all in Corinth, he gave the Macedonians orders to break camp. Marching by way of Argos, he reached Tegea on the second day.
 
-There he took with him the Achaeans who had assembled and advanced by the mountain road, eager to enter Laconian territory without the Lacedaemonians noticing.
+There he took with him the Achaeans who had assembled and advanced by the mountain road, eager to enter Laconian territory without the Spartans noticing.
 
 After going around through the deserted country, on the fourth day he came upon the hills opposite the city and passed along toward Amyclae itself, keeping the Menelaeum on his right.
 
-The Lacedaemonians, watching from the city as the army moved along, were struck with panic and fear, marveling at what was happening.
+The Spartans, watching from the city as the army moved along, were struck with panic and fear, marveling at what was happening.
 
 For their minds were still unsettled by the reports that had come in about Philip’s destruction of Thermus and, in general, about his actions in Aetolia; and there was even a rumor among them that Lycurgus would be sent out to aid the Aetolians.
 
@@ -7593,7 +7599,7 @@ He stayed there two days, and on the third, putting out before dawn, reached Lec
 
 After this he continued his marches without interruption, and on the seventh day came upon the hills above the city near the Menelaeum, so that most people who saw what had happened could hardly believe it.
 
-So the Lacedaemonians, thrown into fear by the unexpected nature of the event, were at a loss and in a difficult position for the moment.
+So the Spartans, thrown into fear by the unexpected nature of the event, were at a loss and in a difficult position for the moment.
 
 ## Book 5 Chapter 19: Philip Marches Through Laconia
 
@@ -7607,7 +7613,7 @@ On the following day, ravaging the countryside as he went, he descended to the s
 
 After raiding and laying waste the neighboring districts for the next two days, he encamped near Carnium. Setting out from there, he marched on Asine; and after making assaults on it but accomplishing nothing of importance, he broke camp again. From that point on, as he continued his advance, he devastated all the country facing the Cretan Sea as far as Taenarum.
 
-Then, changing direction once more, he marched past the Lacedaemonian naval station, which is called Gythium, has a secure harbor, and lies about two hundred and thirty stades from the city.
+Then, changing direction once more, he marched past the Spartan naval station, which is called Gythium, has a secure harbor, and lies about two hundred and thirty stades from the city.
 
 Leaving this on his right as he marched, he encamped near Helos, which, viewed as a district, is the largest and finest stretch of land in Laconia.
 
@@ -7625,7 +7631,7 @@ When they reached a place called Glympes, which lies on the borders of Argolis a
 
 For they neither dug a trench nor put up a palisade around their camp, nor did they choose a naturally advantageous site; instead, trusting in the goodwill of the people who lived in the place, they encamped unsuspectingly in front of its wall.
 
-But when the arrival of the Messenians was reported to Lycurgus, he took his mercenaries and some of the Lacedaemonians, advanced to the place, and at daybreak boldly attacked their camp.
+But when the arrival of the Messenians was reported to Lycurgus, he took his mercenaries and some of the Spartans, advanced to the place, and at daybreak boldly attacked their camp.
 
 The Messenians had made bad decisions in every respect, and especially in marching out from Tegea without a force strong enough in numbers and without relying on experienced advisers; yet when the danger actually came upon them, they still did the best that circumstances allowed for their own safety.
 
@@ -7645,7 +7651,7 @@ After giving instructions to the commanders and his friends about the coming dan
 
 He arranged with those in the city to keep watch, so that whenever he raised the signal they would quickly lead the troops out in front of the city from several points at once and draw them up facing the Eurotas, where the river comes nearest to the city.
 
-Such were the measures of Lycurgus and the Lacedaemonians.
+Such were the measures of Lycurgus and the Spartans.
 
 But lest unfamiliarity with the ground make what I say obscure and hard to follow, I should also explain the nature and arrangement of the place, which indeed is what I try to do throughout this work, always connecting places that are unknown and making them familiar by comparison with places already known and described.
 
@@ -7665,9 +7671,9 @@ So it happens that the hills on which the Menelaeum stands lie beyond the river,
 
 Through this strip the river just mentioned flows along the very foot of the hill, and the whole width there is no more than a stade and a half.
 
-Through this Philip was necessarily obliged to make his return march, with the city and the Lacedaemonians, ready and drawn up for battle, on his left, and on his right the river and Lycurgus’s men standing on the hills.
+Through this Philip was necessarily obliged to make his return march, with the city and the Spartans, ready and drawn up for battle, on his left, and on his right the river and Lycurgus’s men standing on the hills.
 
-The Lacedaemonians had also devised the following in addition to these advantages: by damming the river upstream they diverted it into the ground between the city and the hills, and once that area had been soaked through, it was impossible for not only horses but even infantry to enter it.
+The Spartans had also devised the following in addition to these advantages: by damming the river upstream they diverted it into the ground between the city and the hills, and once that area had been soaked through, it was impossible for not only horses but even infantry to enter it.
 
 So the only course left was to lead the army close under the foothills, thus exposing themselves to the enemy in a long marching column in which they could scarcely support one another.
 
@@ -7683,7 +7689,7 @@ When this was done, the magistrates responsible immediately led out the citizen 
 
 When Philip came near Lycurgus’s men, he first sent the mercenaries against them.
 
-As a result, the Lacedaemonians had the advantage at the outset and fought with greater confidence, since both their equipment and the ground contributed greatly in their favor.
+As a result, the Spartans had the advantage at the outset and fought with greater confidence, since both their equipment and the ground contributed greatly in their favor.
 
 But when Philip brought up the peltasts to support those engaged, keeping them in reserve formation, and launched the Illyrians in a flank attack, the mercenaries under Philip, encouraged by the support of the Illyrians and peltasts, were much more strongly emboldened for the fight, while Lycurgus’s men, alarmed by the attack of the heavy-armed troops, gave way and fled.
 
@@ -7697,7 +7703,7 @@ So the king, after crossing the river, remained in support with the light-armed 
 
 When the troops from the city tried to attack the cavalry serving as the covering force, and the engagement became more general, the peltasts fought with courage.
 
-And about this time Philip gained an acknowledged advantage, and after joining in the pursuit and chasing the Lacedaemonian cavalry to the gates, he then crossed the Eurotas safely and brought up the rear of his phalanx.
+And about this time Philip gained an acknowledged advantage, and after joining in the pursuit and chasing the Spartan cavalry to the gates, he then crossed the Eurotas safely and brought up the rear of his phalanx.
 
 ## Book 5 Chapter 24: Philip Proceeds to Tegea
 
@@ -7941,7 +7947,7 @@ At the time, then, Sosibius was pleased to hear this and was doubly encouraged i
 
 But afterward, as he observed the king’s slackness, he kept renewing the thought in his mind, and kept before his eyes both the boldness of Cleomenes and the goodwill that the foreign troops felt toward him. Therefore it was especially then that he urged the king and his friends to act first and shut Cleomenes up.
 
-To carry out this plan...
+To carry out this plan [...]
 
 ## Book 5 Chapter 37: Sosibius Plots Against Cleomenes
 
@@ -8273,7 +8279,7 @@ Quickly reversing course, he returned to his own entrenchment and arrived around
 
 For the men posted by the palisade, startled from sleep by the rush of those approaching, nearly bolted from the camp.
 
-Molon, for his part, did what he could to calm the disturbance...
+Molon, for his part, did what he could to calm the disturbance [...]
 
 ## Book 5 Chapter 53: Disposition of Troops
 
@@ -8479,7 +8485,7 @@ Learning that Nicolaus, Ptolemy’s general, was encamped before Ptolemais besie
 
 But Nicolaus, having already learned beforehand of the king’s approach, withdrew himself, and sent out Lagoras the Cretan and Dorymenes the Aetolian to seize in advance the narrows near Berytus.
 
-The king attacked these men in his first assault and
+The king attacked these men in his first assault and [...]
 
 ## Book 5 Chapter 62: Invasion of Coele-Syria
 
@@ -8535,7 +8541,7 @@ They also held assemblies under arms and gave exhortations, in which the most us
 
 Polycrates all the more so, both because of the antiquity of his house and because of the fame his father Mnasiades had won as an athlete.
 
-These men, exhorting the troops both privately and in public, instilled in them an eagerness and zeal for the coming struggle
+These men, exhorting the troops both privately and in public, instilled in them an eagerness and zeal for the coming struggle [...]
 
 ## Book 5 Chapter 65: Reform of the Egyptian Army
 
@@ -8559,7 +8565,7 @@ The body of Egyptians amounted to about twenty thousand phalangites and was subo
 
 A body of Thracians and Gauls was also assembled: about four thousand from the settlers and their descendants, while those recently brought in numbered about two thousand. These were commanded by Dionysius the Thracian.
 
-Such, then, in its numbers and in the variety of its components, was the force being prepared for Ptolemy, and
+Such, then, in its numbers and in the variety of its components, was the force being prepared for Ptolemy, and [...]
 
 ## Book 5 Chapter 66: Antiochus Puts his Troops in Winter Quarters
 
@@ -8615,7 +8621,7 @@ From there he sent Nicarchus and Theodotus ahead, ordering them to seize beforeh
 
 Taking up again from there Theodotus and Nicarchus with the light-armed troops of the army, he set out to reconnoitre the difficult ground already held by Nicolaus’s men.
 
-After thoroughly surveying the peculiarities of the terrain, he withdrew for that day to his camp; but on the following day, leaving his heavy arms there and Nicarchus in charge of them, he advanced with the rest of his force
+After thoroughly surveying the peculiarities of the terrain, he withdrew for that day to his camp; but on the following day, leaving his heavy arms there and Nicarchus in charge of them, he advanced with the rest of his force [...]
 
 ## Book 5 Chapter 69: Antiochus Forces the Pass of Porphyrion
 
@@ -8655,7 +8661,7 @@ He drew the men of the town out into a skirmish and lured their front-line fight
 
 About this same time Ceraeas, one of the officers serving under Ptolemy, deserted to Antiochus. By receiving him with great honor, Antiochus stirred the hopes of many other commanders on the enemy’s side; indeed, not long afterward Hippolochus the Thessalian came over to him with four hundred cavalry from Ptolemy’s forces.
 
-Having secured Atabyrium as well, he broke camp and, advancing, took over Pella and
+Having secured Atabyrium as well, he broke camp and, advancing, took over Pella and [...]
 
 ## Book 5 Chapter 71: Continued Success of Antiochus
 
@@ -8761,7 +8767,7 @@ In any case, Achaeus arrived in good time, and the Selgians, on meeting with him
 
 But Logbasis, during this same period, had little by little gathered into his own house some of the soldiers slipping in from the camp, and he advised his fellow citizens not to let the opportunity pass, but to act with their eyes on the goodwill being displayed by Achaeus, and to put the finishing touch to the agreement after deliberating about the situation with the whole people present.
 
-The assembly was quickly convened, and they began to deliberate, having summoned in as well all the men from the guard posts, so as to bring matters to completion
+The assembly was quickly convened, and they began to deliberate, having summoned in as well all the men from the guard posts, so as to bring matters to completion [...]
 
 ## Book 5 Chapter 76: Death of Logbasis
 
@@ -8815,7 +8821,7 @@ So Attalus, having restored the Aegosagae to the Hellespont and dealt kindly wit
 
 ## Book 5 Chapter 79: Forces Available to Antiochus and Ptolemy
 
-[He withdrew] with his army to Pergamum. Antiochus and Ptolemy, as the spring season was setting in and their preparations were ready, set about deciding the conflict by battle.
+Antiochus and Ptolemy, as the spring season was setting in and their preparations were ready, set about deciding the conflict by battle.
 
 Ptolemy’s forces, then, set out from Alexandria with some seventy thousand infantry, five thousand cavalry, and seventy-three elephants.
 
@@ -9001,7 +9007,7 @@ And finally, after giving so much, as though they still owed gratitude, they set
 
 ## Book 5 Chapter 89: Royal Gifts
 
-…of the Syracusans. Ptolemy too promised them three hundred talents of silver and a million artabae of grain; ship timber for ten quinqueremes and ten triremes, amounting to forty thousand cubits, by measure, of squared pine planking; a thousand talents of bronze coinage, three thousand talents of tow, three thousand bolts of sailcloth; for the rebuilding of the Colossus, three thousand talents, a hundred master builders and three hundred and fifty laborers, and for these, each year, fourteen talents toward their wages; and besides this, for the games and the sacrifices, twelve thousand artabae of grain, and moreover, for the provisioning of ten triremes, twenty thousand artabae.
+[...] of the Syracusans. Ptolemy too promised them three hundred talents of silver and a million artabae of grain; ship timber for ten quinqueremes and ten triremes, amounting to forty thousand cubits, by measure, of squared pine planking; a thousand talents of bronze coinage, three thousand talents of tow, three thousand bolts of sailcloth; for the rebuilding of the Colossus, three thousand talents, a hundred master builders and three hundred and fifty laborers, and for these, each year, fourteen talents toward their wages; and besides this, for the games and the sacrifices, twelve thousand artabae of grain, and moreover, for the provisioning of ten triremes, twenty thousand artabae.
 
 Of all this he gave the greater part at once, and a third of the entire sum of silver.
 
@@ -9047,7 +9053,7 @@ But Pyrrhias, who had marched out of Elis entirely lightly equipped and was at o
 
 Therefore Lycurgus, being unable to join up with Pyrrhias’ force and not being strong enough on his own, after making brief assaults on Andania, withdrew again to Sparta without having accomplished anything.
 
-Aratus, now that the enemy’s plan had collapsed, acting sensibly and taking thought for the future, arranged with Taurion to provide fifty cavalry and five hundred infantry, and with the Messenians that they should send out an equal number of cavalry and infantry, intending to use these men to guard the territory of the Messenians, the Megalopolitans, the Tegeans, and also the Argives— for these lands, bordering on Laconia, lie exposed, ahead of the rest of the Peloponnesians, to the war waged by the Lacedaemonians— while with the Achaean picked troops and the mercenaries he would guard the parts of Achaea facing toward Elis and Aetolia.
+Aratus, now that the enemy’s plan had collapsed, acting sensibly and taking thought for the future, arranged with Taurion to provide fifty cavalry and five hundred infantry, and with the Messenians that they should send out an equal number of cavalry and infantry, intending to use these men to guard the territory of the Messenians, the Megalopolitans, the Tegeans, and also the Argives— for these lands, bordering on Laconia, lie exposed, ahead of the rest of the Peloponnesians, to the war waged by the Spartans— while with the Achaean picked troops and the mercenaries he would guard the parts of Achaea facing toward Elis and Aetolia.
 
 ## Book 5 Chapter 93: Condition of Megalopolis
 
@@ -9217,7 +9223,7 @@ For the moment he showed the dispatch to Demetrius of Pharos alone, charging him
 
 Demetrius seized this opening and urged that Philip ought to throw off the war against the Aetolians as quickly as possible and instead hold fast to affairs in Illyria and to a crossing into Italy.
 
-For all of Greece, he said, was already doing Philip’s bidding and would continue to do so afterward—the Achaeans out of genuine goodwill, the Aetolians cowed by what had befallen them in the present war— while Italy and the crossing there, he said, were the beginning of the design for universal dominion, to which no one had a better claim than Philip;
+For all of Greece, he said, was already doing Philip’s bidding and would continue to do so afterward—the Achaeans out of genuine goodwill, the Aetolians cowed by what had befallen them in the present war— while Italy and the crossing there, he said, were the beginning of the design for universal dominion, to which no one had a better claim than Philip; [...]
 
 ## Book 5 Chapter 102: Philip and the Aetolians Discuss Peace
 
@@ -9233,7 +9239,7 @@ After this, when Cleonicus had gone back and forth two or three times, and the A
 
 He himself crossed over with his force and encamped near Panormus—a harbor of the Peloponnese lying directly opposite the city of Naupactus—and waited for the delegates of the allies.
 
-During the time in which these delegates were to assemble, he sailed to Zacynthus and on his own authority settled the affairs of the island, and then returned,
+During the time in which these delegates were to assemble, he sailed to Zacynthus and on his own authority settled the affairs of the island, and then returned, [...]
 
 ## Book 5 Chapter 103: Philip Goes to Naupactus
 
@@ -9251,7 +9257,7 @@ The Aetolians came in full numbers but without their arms, and keeping about two
 
 At first the king sent out all the delegates who had come from the allies, instructing them to propose peace to the Aetolians on these terms: that both sides keep what they now held.
 
-The Aetolians readily accepted this, and from then on there was a continuous exchange of messages between them about the particulars. Most of these I shall pass over, since they contain nothing worth recording, but I shall make mention of the exhortation of Agelaus of Naupactus, which he delivered at the first meeting before both
+The Aetolians readily accepted this, and from then on there was a continuous exchange of messages between them about the particulars. Most of these I shall pass over, since they contain nothing worth recording, but I shall make mention of the exhortation of Agelaus of Naupactus, which he delivered at the first meeting before both [...]
 
 ## Book 5 Chapter 104: The Cloud in the West
 
@@ -9406,7 +9412,7 @@ Modern English translation of the Greek text.
 
 ## Book 6 Chapter 1: Preface: Political Constitutions
 
-Having halted our narrative at this point, we will set out our account of the Roman constitution, in which we will show, step by step, that the distinctive character of their political system contributed more than anything else not only to their winning dominion over the Italians and Sicilians, but also to their further acquisition of rule over the Iberians and the Celts, and finally, after they had defeated the Carthaginians in war, to their conceiving the design of universal empire.
+Having halted our narrative at this point, we will set out our account of the Roman constitution, in which we will show, step by step, that the distinctive character of their political system contributed more than anything else not only to their winning dominion over the Italians and Sicilians, but also to their further acquisition of rule over the Iberians and the Gauls, and finally, after they had defeated the Carthaginians in war, to their conceiving the design of universal empire.
 
 But when, in working through the Greek affairs that took place during the same Olympiad, we reach this period, then at last, taking it up as a subject in its own right, we will give our account of the Roman constitution itself, believing that an exposition of it is not only suited to the design of our history, but also contributes greatly to the reform and construction of constitutions, for those men who are eager to learn and active in public affairs.
 
@@ -9530,7 +9536,7 @@ And while they devoted themselves to these things, they remained free of all sla
 
 But once they began to inherit their positions by succession and birth, and found the means of security already prepared for them, along with more than enough for their sustenance, then, following their appetites because of this abundance, they came to think that their rulers ought to have distinctive clothing, distinctive and elaborate indulgences and provisions at the table, and unchallenged access to the sexual favors and embraces even of those they had no right to.
 
-These things gave rise in some cases to envy and offense, in others to a blaze of hatred and bitter anger, so that the kingship turned into a tyranny. The first step toward its dissolution was taken, and a conspiracy began to form against the rulers— a conspiracy that arose not from the worst men, but from the noblest, most high-minded, and most courageous, because such men are least
+These things gave rise in some cases to envy and offense, in others to a blaze of hatred and bitter anger, so that the kingship turned into a tyranny. The first step toward its dissolution was taken, and a conspiracy began to form against the rulers— a conspiracy that arose not from the worst men, but from the noblest, most high-minded, and most courageous, because such men are least [...]
 
 ## Book 6 Chapter 8: Degeneration of Constitutions
 
@@ -9580,7 +9586,7 @@ For that man, having taken to heart that each of the developments described abov
 
 Foreseeing this, Lycurgus did not make his constitution simple or of a single type, but gathered together all at once the virtues and distinctive features of the best forms of government, so that no element, growing beyond what was due, should be perverted into the vices that are akin to it; but rather, with the power of each held in check by the others, none of them should incline anywhere or weigh down too far, but the constitution should remain in equilibrium and balanced for a long time, like a ship beating against the wind— the kingship being prevented from growing arrogant by fear of the people, since the people too had been given a sufficient share in the constitution; and the people in turn not daring to despise the kings, out of fear of the elders, who, having been chosen by selection on the grounds of merit, were always bound to attach themselves to what was just, so that the party of those at a disadvantage, by holding fast to established custom, always became greater and weightier through the leaning and support of the elders.
 
-And so, having framed it in this way, he preserved freedom for the Lacedaemonians for the longest time of any people we know of.
+And so, having framed it in this way, he preserved freedom for the Spartans for the longest time of any people we know of.
 
 He, then, foreseeing by a process of reasoning the source and manner in which each thing naturally comes about, established the aforesaid constitution without harm.
 
@@ -9768,7 +9774,7 @@ The dictator differs from the consuls in this respect: whereas each of the two c
 
 ## Book 6 Chapter 19: On the Roman Army
 
-VI. On the Roman Military After they have elected the consuls, they next appoint military tribunes—fourteen from those who have already completed five years of service, and another ten in addition from those who have completed ten.
+After they have elected the consuls, they next appoint military tribunes—fourteen from those who have already completed five years of service, and another ten in addition from those who have completed ten.
 
 As for the rest, a man must by law complete ten campaigns in the cavalry, or sixteen in the infantry, within the forty-six years counted from his coming of age—except for those whose property is assessed below four hundred drachmas.
 
@@ -10575,6 +10581,8 @@ Modern English translation of the Greek text.
 
 ## Book 7 Chapter 1: Capua and Petelia
 
+*Quoted by Athenaeus, Deipnosophistae.*
+
 Polybius says in the seventh book that the people of Capua in Campania, made wealthy by the excellence of their land, drifted into luxury and extravagance, surpassing even the famous reputation of Croton and Sybaris.
 
 So, he says, being unable to bear their present prosperity, they called in Hannibal. For that reason they later suffered irreparable disasters at Roman hands.
@@ -10681,7 +10689,7 @@ It seems to me that writers of histories about particular episodes, once they ha
 
 How much more reasonably could someone have spent the space used to pad out books and spin the narrative out at length on Hiero and Gelo, leaving Hieronymus aside.
 
-For such a subject is more pleasing to those who enjoy hearing history,
+For such a subject is more pleasing to those who enjoy hearing history, [...]
 
 ## Book 7 Chapter 8: Character of Hiero II
 
@@ -10733,6 +10741,8 @@ And if it seems good to us to remove anything from this oath or to add anything 
 
 ## Book 7 Chapter 10: Messene and Philip V. in 215 BC
 
+*Quoted by Suidas, Lexicon.*
+
 While democracy was in force among the Messenians, the notable men had been driven into exile, and those who had received allotments of their property held power in the state; so the members of the old citizen body who remained found it hard to endure these men’s equality of speech.
 
 Gorgus of Messene was second to no Messenian in wealth or birth, and in the prime of life he had become the most distinguished of all those who sought crowns in athletic contests.
@@ -10751,7 +10761,7 @@ For both because the beginning of his career was so conspicuous and because his 
 
 That after he succeeded to the kingship Thessaly, Macedonia, and in general all the regions under his own rule were more loyal and better disposed toward him than they had been toward any former king, though he took over the Macedonian power while still a young man, can easily be learned from the following facts.
 
-For though he was constantly drawn away from Macedonia by the war against the Aetolians and Lacedaemonians, not only did none of the peoples just mentioned break into civil disorder, but none of the neighboring barbarians even dared to touch Macedonia.
+For though he was constantly drawn away from Macedonia by the war against the Aetolians and Spartans, not only did none of the peoples just mentioned break into civil disorder, but none of the neighboring barbarians even dared to touch Macedonia.
 
 And it would not be possible to speak adequately of the affection and eagerness shown toward him by Alexander, Chrysogonus, and his other friends.
 
@@ -10799,11 +10809,11 @@ And we promised to make this clear from what would be recounted later, postponin
 
 And as if, after tasting human blood and the murder and betrayal of allies, he had been changed—not from a man into a wolf, as in the Arcadian myth cited by Plato, but from a king into a savage tyrant.
 
-An even clearer proof of the character of the two men is the advice given about the citadel, helping us not to remain uncertain even about the events concerning the...
+An even clearer proof of the character of the two men is the advice given about the citadel, helping us not to remain uncertain even about the events concerning the [...]
 
 ## Book 7 Chapter 14: Aratus a Moderating Influence on Philip
 
-...Aetolians. Once these points are admitted, it is already easy to reckon up the difference in the policy of the two men.
+[...] Aetolians. Once these points are admitted, it is already easy to reckon up the difference in the policy of the two men.
 
 For just as now, when Philip listened to Aratus, he kept faith with the Messenians in the matter of the citadel, and, as the saying goes, applied a small remedy to the great wound created by the earlier slaughter, so in the Aetolian affair, when he followed Demetrius, he sinned against the gods by destroying consecrated offerings, wronged men by transgressing the laws of war, and missed the mark of his proper policy, making himself an implacable and bitter enemy to those who differed with him.
 
@@ -10815,13 +10825,19 @@ So great is the weight for young kings, both toward the ruin and toward the rest
 
 ## Book 7 Chapter 14b: A Forged Letter and the Cretans
 
+*Quoted by Suidas, Lexicon.*
+
 They sent out some of the Cretans as if for a raid, after giving them a forged letter.
 
 ## Book 7 Chapter 14c: The Massylians of Libya
 
+*Quoted by Stephanus of Byzantium, Ethnica.*
+
 The Massylians are a Libyan people. Polybius in the seventh book calls them the Massyleis.
 
 ## Book 7 Chapter 14d: Oricus on the Adriatic
+
+*Quoted by Stephanus of Byzantium, Ethnica.*
 
 The name is used in the masculine, as Polybius has it in the seventh book: “those who inhabit Oricus, who are also the first to lie on the right for a man sailing in toward the Adriatic.”
 
@@ -10845,11 +10861,11 @@ Observing this, the man I mentioned noticed that when the birds had eaten their 
 
 After that he approached by night with care and examined the possible routes of access and the positions for ladders.
 
-And finding that at one place, along one of the cliffs, an ascent was possible, he laid the matter before the...
+And finding that at one place, along one of the cliffs, an ascent was possible, he laid the matter before the [...]
 
 ## Book 7 Chapter 16: Antiochus Takes Sardis
 
-...king. When the king took up the hope and urged Lagoras to carry out the attempt, the latter promised to do what he could, but asked the king to assign to him Theodotus the Aetolian and Dionysius, the commander of the bodyguard, so that they might join him, lend their aid, and share in the enterprise, since each of them seemed to possess enough strength and daring for the plan in hand.
+[...] king. When the king took up the hope and urged Lagoras to carry out the attempt, the latter promised to do what he could, but asked the king to assign to him Theodotus the Aetolian and Dionysius, the commander of the bodyguard, so that they might join him, lend their aid, and share in the enterprise, since each of them seemed to possess enough strength and daring for the plan in hand.
 
 The king immediately did as he asked, and the men mentioned, after coming to an understanding and sharing all the details among themselves, waited for a moonless night in the hours before dawn.
 
@@ -11354,9 +11370,9 @@ So Achaeus, after doing everything that reason could suggest, was nevertheless o
 
 ## Book 8 Chapter 22: Capture of Achaeus
 
-Cauarus, king of the Galatians in Thrace, was by nature a truly royal and high-minded man, and he provided great security for the merchants who sailed into the Black Sea, and rendered important services to the Byzantines in their wars against the Thracians and the Bithynians.
+Cauarus, king of the Gauls in Thrace, was by nature a truly royal and high-minded man, and he provided great security for the merchants who sailed into the Black Sea, and rendered important services to the Byzantines in their wars against the Thracians and the Bithynians.
 
-Yet this Cauarus the Galatian, though otherwise an excellent man, was corrupted by a flatterer named Sostratus, a native of Chalcedon.
+Yet this Cauarus the Gaul, though otherwise an excellent man, was corrupted by a flatterer named Sostratus, a native of Chalcedon.
 
 ## Book 8 Chapter 23: Antiochus In Armenia
 
@@ -11506,13 +11522,13 @@ And when this force as well joined him, Hannibal, delighted that the business wa
 
 ## Book 8 Chapter 30: Hannibal Enters Tarentum
 
-He selected about two thousand Celts, divided them into three bodies, and assigned to each body two of the young men who had managed the plot.
+He selected about two thousand Gauls, divided them into three bodies, and assigned to each body two of the young men who had managed the plot.
 
 He also sent some of his own officers with them, ordering them to occupy the most favorable points along the roads leading into the marketplace.
 
 When they had done this, he ordered the local young men to single out and spare any Tarentine citizens they encountered, crying from a distance that Tarentines should stay where they were, since they were safe.
 
-But to the Carthaginian and Celtic officers he gave orders to kill any Romans they met. With that, they split up and carried out what had been commanded.
+But to the Carthaginian and Gallic officers he gave orders to kill any Romans they met. With that, they split up and carried out what had been commanded.
 
 As the enemy’s entry now became plain to the Tarentines, the city filled with shouting and confusion of every kind.
 
@@ -11522,7 +11538,7 @@ At this same moment Philemenus and his people, having prepared Roman trumpets an
 
 The Romans, responding in arms by force of habit to the trumpet-call and hurrying toward the citadel, made the affair turn out exactly as the Carthaginians intended.
 
-For as they came through the streets scattered and without formation, some ran into the Carthaginians and others into the Celts, and by being cut down in this manner in separate groups, a very great number perished.
+For as they came through the streets scattered and without formation, some ran into the Carthaginians and others into the Gauls, and by being cut down in this manner in separate groups, a very great number perished.
 
 At daybreak the Tarentines stayed quietly in their houses, still unable to make sense of what was happening.
 
@@ -11570,7 +11586,7 @@ Inside this again, leaving a suitable interval toward the city, he undertook to 
 
 Leaving behind a sufficient force and a body of cavalry suitable for guarding the city and patrolling along the wall, he encamped about forty stades from the city beside the river called by some the Galaesus but by most the Eurotas, which has that name from the Eurotas flowing by Lacedaemon.
 
-The Tarentines have many such names in both country and city because their colony and kinship with the Lacedaemonians are openly acknowledged.
+The Tarentines have many such names in both country and city because their colony and kinship with the Spartans are openly acknowledged.
 
 And when the wall was quickly nearing completion, thanks to the zeal and eagerness of the Tarentines and the cooperation of the Carthaginians, Hannibal next conceived the idea of taking the citadel as well.
 
@@ -11667,6 +11683,8 @@ None of the citizens realized what was happening, because of the distance, since
 And the Romans took courage because they held the high ground around Epipolae.
 
 ## Book 8 Chapter 38: Beasts of Burden Used as a Defensive Wall
+
+*Quoted by Suidas, Lexicon.*
 
 He ordered the infantry to take the pack-mules from the rear, baggage and all, and place them in front of themselves. Once this was done, the screen proved safer than any palisade.
 
@@ -11817,11 +11835,11 @@ Instead he marched through Daunia and Bruttium and suddenly appeared in the regi
 
 At this point, I think, one may fairly pause to note the courage and ambition both of the Carthaginians and of the Romans in war.
 
-For just as everyone admires the Theban Epaminondas because, after coming to Tegea with the allies and observing that the Lacedaemonians themselves had all assembled at Mantinea, together with their allies, in order to fight the Thebans, he ordered his own men to take supper early and led out the army as night was just coming on, pretending that he was hurrying to seize certain advantageous positions for the coming battle, but after creating that impression among the rank and file actually marched straight toward Sparta itself, and, arriving unexpectedly at about the third hour, found Sparta empty of defenders, forced his way as far as the marketplace, and occupied the parts of the city that slope toward the river, yet then suffered a reversal because some deserter got through during the night to Mantinea and informed King Agesilaus what was happening, and help arrived just at the critical moment when the city was on the point of being taken, so that he failed in that hope; but afterward, having had breakfast by the Eurotas and allowed his troops to recover from their exertions, he again set out by the same road in the opposite direction, calculating that since the Lacedaemonians and their allies had gone off to help Sparta, Mantinea would in turn be left undefended—which is exactly what happened.
+For just as everyone admires the Theban Epaminondas because, after coming to Tegea with the allies and observing that the Spartans themselves had all assembled at Mantinea, together with their allies, in order to fight the Thebans, he ordered his own men to take supper early and led out the army as night was just coming on, pretending that he was hurrying to seize certain advantageous positions for the coming battle, but after creating that impression among the rank and file actually marched straight toward Sparta itself, and, arriving unexpectedly at about the third hour, found Sparta empty of defenders, forced his way as far as the marketplace, and occupied the parts of the city that slope toward the river, yet then suffered a reversal because some deserter got through during the night to Mantinea and informed King Agesilaus what was happening, and help arrived just at the critical moment when the city was on the point of being taken, so that he failed in that hope; but afterward, having had breakfast by the Eurotas and allowed his troops to recover from their exertions, he again set out by the same road in the opposite direction, calculating that since the Spartans and their allies had gone off to help Sparta, Mantinea would in turn be left undefended—which is exactly what happened.
 
 So he encouraged the Thebans, pushed on with a vigorous night march, and came up to Mantinea about midday, when it was completely abandoned by those who might have defended it.
 
-But at this very moment the Athenians, eager under their alliance to take part with the Lacedaemonians in the struggle against the Thebans, arrived.
+But at this very moment the Athenians, eager under their alliance to take part with the Spartans in the struggle against the Thebans, arrived.
 
 And just as the Theban vanguard was reaching the sanctuary of Poseidon, which lies seven stades in front of the city, it so happened that the Athenians appeared on the hill above Mantinea.
 
@@ -11841,9 +11859,9 @@ And finally, without abandoning his design, he flung himself against the enemy t
 
 Who would not mark such a commander out for admiration?
 
-And yet at this moment one might judge the Romans superior to the Lacedaemonians.
+And yet at this moment one might judge the Romans superior to the Spartans.
 
-For the Lacedaemonians, thrown into confusion at the first message, saved Sparta indeed, but so far as they were concerned they lost Mantinea.
+For the Spartans, thrown into confusion at the first message, saved Sparta indeed, but so far as they were concerned they lost Mantinea.
 
 The Romans, however, both preserved their own country and did not raise the siege. Instead, they remained steadfast and immovable in their original resolve, and from then on pressed the Capuans with still greater confidence.
 
@@ -11923,7 +11941,7 @@ Every action has its definite opportunity, duration, and place, and requires sec
 
 It is therefore plain that the man who gets each of these points right will not fail in his enterprise, whereas one who neglects even a single point will ruin the whole design.
 
-So much has nature made even one small detail enough to bring an intended plan to failure...
+So much has nature made even one small detail enough to bring an intended plan to failure [...]
 
 ## Book 9 Chapter 13: Scientific Strategy
 
@@ -11997,7 +12015,7 @@ On cloudy nights one must pay attention to the moon, because by reason of its si
 
 Sometimes one must estimate from the times and places of its rising, and sometimes again from those of its setting, provided one has enough understanding in this matter to keep pace with the daily changes in those risings.
 
-There is an easy way to observe this as well, for one month marks out a single evident cycle, perceptible to the senses...
+There is an easy way to observe this as well, for one month marks out a single evident cycle, perceptible to the senses [...]
 
 ## Book 9 Chapter 16: Example: Ulysses
 
@@ -12127,7 +12145,7 @@ The same thing is accustomed to happen through the influence of friends, not onl
 
 Thus one may find that the Athenians committed few harsh acts and many noble and honorable ones when Aristides and Pericles led the state, but the opposite when Cleon and Chares did so.
 
-And when the Lacedaemonians held supremacy in Greece, everything done under King Cleombrotus had an allied and cooperative character, while what was done under Agesilaus had the opposite tendency.
+And when the Spartans held supremacy in Greece, everything done under King Cleombrotus had an allied and cooperative character, while what was done under Agesilaus had the opposite tendency.
 
 So even the character of cities changes with the differences among their leaders.
 
@@ -12191,13 +12209,13 @@ The common report, however, was that among the Carthaginians he had the reputati
 
 Most people judge the size of the places just mentioned from the mere length of their perimeter.
 
-So if someone says that the city of the Megalopolitans has a circuit of fifty stades, while that of the Lacedaemonians is forty-eight, and yet that Sparta is twice as large in area as Megalopolis, the statement seems unbelievable to them.
+So if someone says that the city of the Megalopolitans has a circuit of fifty stades, while that of the Spartans is forty-eight, and yet that Sparta is twice as large in area as Megalopolis, the statement seems unbelievable to them.
 
 And if, wanting to increase their perplexity, someone adds that a city or a camp whose circuit is forty stades can be twice as large as one whose perimeter is a hundred stades, what is said appears altogether astonishing to them.
 
 The reason for this is that we do not remember the lessons taught us in childhood through geometry.
 
-I have been led to speak about these matters because not only ordinary people, but also some of those engaged in public life and in positions of command, are bewildered, sometimes wondering whether the city of the Lacedaemonians can really be larger—indeed much larger—than that of the Megalopolitans, though it has the smaller circuit, and sometimes trying to estimate the number of men in camps by guessing from the perimeter alone.
+I have been led to speak about these matters because not only ordinary people, but also some of those engaged in public life and in positions of command, are bewildered, sometimes wondering whether the city of the Spartans can really be larger—indeed much larger—than that of the Megalopolitans, though it has the smaller circuit, and sometimes trying to estimate the number of men in camps by guessing from the perimeter alone.
 
 A similar mistake also happens in judging the appearance of cities. Most people suppose that cities full of bends and hills contain more houses than level cities.
 
@@ -12207,7 +12225,7 @@ Still, one can grasp the point in a simple way from what is visible.
 
 For if one imagines the houses on slopes rising upward so that all of them are of equal height, it is clear that the single plane formed at the level of the roofs will be equal and parallel to the plane lying beneath the hills and beneath the foundations of the walls.
 
-As for those who wish to command and take part in public life, yet are ignorant of such matters...
+As for those who wish to command and take part in public life, yet are ignorant of such matters [...]
 
 ## Book 9 Chapter 27: Agrigentum
 
@@ -12487,7 +12505,7 @@ For the Athenian city always wishes to preserve that kind of character.
 
 For zeal shown by friends at the right moment gives great help, but if it drags behind and comes too late it makes assistance altogether useless.
 
-At least if they wish to keep their alliance not merely in writing, but in deeds as well...
+At least if they wish to keep their alliance not merely in writing, but in deeds as well [...]
 
 The Acarnanians, when they learned of the Aetolian attack against them, partly despairing in their expectations and partly fighting with their anger, came to a terrible resolve.
 
@@ -13378,7 +13396,7 @@ The Romans, attacking on the wings before the enemy had yet occupied those posit
 
 Hasdrubal, accordingly, reverting to the plan he had formed from the start and seeing his forces wavering and thrown into confusion, rejected the thought of staking everything on a last desperate struggle.
 
-Taking the money and the elephants, and drawing together as many fugitives as he could, he retreated by way of the Tagus toward the passes of the Pyrenees and the Galatians living there.
+Taking the money and the elephants, and drawing together as many fugitives as he could, he retreated by way of the Tagus toward the passes of the Pyrenees and the Gauls living there.
 
 Publius did not think it advantageous to pursue Hasdrubal at once, because he feared an attack by the other commanders; instead, he let his soldiers plunder the enemy camp.
 
@@ -13677,11 +13695,11 @@ Let these remarks stand for those engaged in action, so that they may neither, b
 
 ## Book 11 Chapter 3: The Romans Celebrate a Victory
 
-After winning the battle, the Romans at once plundered the enemy camp, and they slaughtered many of the Celts in their sleeping-places, drunk and helpless like sacrificial victims.
+After winning the battle, the Romans at once plundered the enemy camp, and they slaughtered many of the Gauls in their sleeping-places, drunk and helpless like sacrificial victims.
 
 They also gathered the rest of the captured booty, from which more than three hundred talents were brought into the public treasury.
 
-Of the Carthaginians and Celts together, not fewer than ten thousand fell in the battle, while about two thousand Romans died. Some distinguished Carthaginians were taken alive, but the rest were destroyed.
+Of the Carthaginians and Gauls together, not fewer than ten thousand fell in the battle, while about two thousand Romans died. Some distinguished Carthaginians were taken alive, but the rest were destroyed.
 
 When the report reached Rome, at first they could not believe it, so strongly did they want it to be true.
 
@@ -13871,7 +13889,7 @@ For when the entire mercenary force had broken the Achaeans and the left wing ha
 
 Instead, in a loss of self-control and with the impulsiveness of a young man, he poured forward with his own mercenaries and pressed hard after the fugitives, as though fear itself were not enough to drive men who had once given way all the way to the gates.
 
-## Book 11 Chapter 15: Defeat of the Lacedaemonians
+## Book 11 Chapter 15: Defeat of the Spartans
 
 The Achaean general, for as long as he could, kept trying to hold the mercenaries in place, calling the officers by name and urging them on.
 
@@ -13945,7 +13963,7 @@ They had lost only a small number of their own men in the battle, but had killed
 
 ## Book 11 Chapter 18a: The Value of Analyzing Causes
 
-As Polybius says, what use is it for readers to go through wars and battles, the enslavement of cities, and sieges, if they do not understand the causes by which in each case some succeeded and others failed?
+*As Polybius says,* what use is it for readers to go through wars and battles, the enslavement of cities, and sieges, if they do not understand the causes by which in each case some succeeded and others failed?
 
 For the outcomes of actions merely entertain those who hear of them, whereas the analysis of the plans formed beforehand, when properly examined, benefits those who love learning.
 
@@ -13955,7 +13973,7 @@ And above all, a detailed presentation of the handling of each event helps to co
 
 Who would not pause to admire the man’s leadership, courage, and power in the field, if he reflects on the length of this period, and considers the battles both general and particular, the sieges, the changes of cities, the shifting circumstances, and the sweep of the whole design and action, within which Hannibal, while waging war against the Romans in Italy for sixteen continuous years, never once dismissed his forces from the open field, but kept such great multitudes under his control, like a skilled helmsman, free from mutiny either against himself or among one another, though the army he used was not merely of different nations but not even of the same stock.
 
-For he had Libyans, Iberians, Ligurians, Celts, Phoenicians, Italians, and Greeks, people who by nature shared no law, no custom, no language, and nothing else in common with each other.
+For he had Libyans, Iberians, Ligurians, Gauls, Phoenicians, Italians, and Greeks, people who by nature shared no law, no custom, no language, and nothing else in common with each other.
 
 And yet the commander’s intelligence made such vast and varied differences obey a single order and submit to one purpose, though the circumstances were far from simple and were highly changeable, with Fortune often blowing splendidly in their favor and at other times the reverse.
 
@@ -14256,7 +14274,7 @@ Modern English translation of the Greek text.
 
 ## Book 12 Chapter 1: Geography of Libya
 
-I. African Matters Polybius says, in his twelfth book, that the land of Byzacium lies around the Syrtes: “having a perimeter of two thousand stades, and circular in shape.”
+Polybius says, in his twelfth book, that the land of Byzacium lies around the Syrtes: “having a perimeter of two thousand stades, and circular in shape.”
 
 Hippo, a city of Libya.
 
@@ -14290,7 +14308,7 @@ It cannot keep for more than ten days; and so they make it only in small quantit
 
 ## Book 12 Chapter 3: Timaeus Wrong about Libya
 
-II. The Errors of Timaeus concerning Africa and Corsica Anyone would marvel at the excellence of the country’s soil, but of Timaeus one would have to say that he has not only failed to investigate the facts about Libya, but is also childish and utterly incapable of reasoning, and still bound fast to those old traditional tales we have inherited—that Libya is wholly sandy, parched, and barren.
+Anyone would marvel at the excellence of the country’s soil, but of Timaeus one would have to say that he has not only failed to investigate the facts about Libya, but is also childish and utterly incapable of reasoning, and still bound fast to those old traditional tales we have inherited—that Libya is wholly sandy, parched, and barren.
 
 The same applies to its animals. For the abundance of horses, cattle, and sheep, and along with these of goats, throughout the country is so great that I doubt whether its match could be found anywhere else in the inhabited world, because many of the tribes in Libya do not rely on cultivated crops, but draw their livelihood from their flocks and live among their flocks.
 
@@ -14304,7 +14322,7 @@ For in mentioning that island in his second book, he says that there are in it m
 
 But on the island in question there is not so much as a wild goat or ox—nor even a hare, a wolf, a deer, or any other animal of the kind—except foxes, rabbits, and wild sheep.
 
-The rabbit, seen from a distance, looks like a small hare, but when one takes it in hand it shows a great difference both in appearance and in taste; and it lives, for the
+The rabbit, seen from a distance, looks like a small hare, but when one takes it in hand it shows a great difference both in appearance and in taste; and it lives, for the [...]
 
 ## Book 12 Chapter 4: The Errors of Timaeus
 
@@ -14336,7 +14354,7 @@ And sometimes a thief, lying in wait, drives them off, without the herdsman in c
 
 ## Book 12 Chapter 4a: Timaeus’ Petty Charges against Theopompus and Ephorus
 
-III. On the Other Errors of Timaeus Having torn Timaeus apart on many points, Polybius goes on to say: Who could still grant indulgence for such mistakes, especially to Timaeus, who fastens on others over hangnail-sized trifles like these?
+*Having torn Timaeus apart on many points, Polybius goes on to say:* Who could still grant indulgence for such mistakes, especially to Timaeus, who fastens on others over hangnail-sized trifles like these?
 
 Among these charges he accuses Theopompus on the ground that, although Dionysius made his crossing back from Sicily to Corinth in a warship, Theopompus says that Dionysius arrived in a round-bottomed merchant vessel.
 
@@ -14350,7 +14368,7 @@ For either Ephorus must have surpassed even Coroebus and Margites in stupidity, 
 
 Moreover, in his account of Pyrrhus he says again that the Romans, even now, keep up a memorial of the destruction at Ilium: on a certain day they spear to death a warhorse in front of the city, in the place called the Campus, because the capture of Troy came about through the horse known as the Wooden Horse—a thing more childish than anything.
 
-For at that rate one would have to say that all barbarians are descendants of the Trojans; since nearly all of them, or if not all, at least the majority, whenever they are about to begin a war or to stake everything in a decisive battle against some enemy, sacrifice a horse beforehand and slaughter it for omens, reading the future
+For at that rate one would have to say that all barbarians are descendants of the Trojans; since nearly all of them, or if not all, at least the majority, whenever they are about to begin a war or to stake everything in a decisive battle against some enemy, sacrifice a horse beforehand and slaughter it for omens, reading the future [...]
 
 ## Book 12 Chapter 4c: Why Timaeus Fails at Inquiry
 
@@ -14408,7 +14426,7 @@ This, then, is the story told among the Locrians.
 
 From these considerations one would, on reflection, side with Aristotle rather than with Timaeus; and indeed what follows in Timaeus is utterly absurd.
 
-For to suppose, as he suggests, that it was not likely that the servants of those who had fought as allies of the Spartans should transfer their masters’ goodwill to their masters’ friends—that is naïve; for not only the friendships, but also the ties of hospitality and the kinships of their masters, are what former slaves, when they have unexpectedly prospered and time has gone by, try to claim for themselves and to renew, even more than their own natural connections, since by this very means they are eager to wipe out the diminished standing and the disrepute that formerly attached to them, preferring to appear
+For to suppose, as he suggests, that it was not likely that the servants of those who had fought as allies of the Spartans should transfer their masters’ goodwill to their masters’ friends—that is naïve; for not only the friendships, but also the ties of hospitality and the kinships of their masters, are what former slaves, when they have unexpectedly prospered and time has gone by, try to claim for themselves and to renew, even more than their own natural connections, since by this very means they are eager to wipe out the diminished standing and the disrepute that formerly attached to them, preferring to appear [...]
 
 ## Book 12 Chapter 6b: Locrian Wives and Spartan Customs
 
@@ -14530,7 +14548,7 @@ Against Demetrius that man (Demochares) leveled no ordinary accusation in his hi
 
 For Demetrius, he says, used to boast that many goods were sold cheaply throughout the city and that there was abundance of the necessities of life for everyone—on these things he prided himself; and Demochares relates that a snail moving by itself led Demetrius’s procession, spitting out spittle, and that along with it asses were paraded through the theater—the point being that the country, having surrendered to others all the fair distinctions of Greece, was doing whatever Cassander commanded—and that Demetrius was not ashamed of these things.
 
-But all the same, neither Demetrius nor anyone else ever said
+But all the same, neither Demetrius nor anyone else ever said [...]
 
 ## Book 12 Chapter 14: No Place in History for Abusive Language
 
@@ -14690,7 +14708,7 @@ Let this, then, be our verdict concerning Ephorus and Callisthenes.
 
 ## Book 12 Chapter 23: Timaeus Exalts Timoleon To Excess
 
-VI. On the historian Timaeus Timaeus mounts a most violent attack against Ephorus, though he is himself guilty of two faults: first, that he bitterly accuses others of the very things to which he is himself liable; and second, that he is thoroughly corrupt in his own mind, setting down such pronouncements in his memoirs and breeding such opinions in those who read them.
+Timaeus mounts a most violent attack against Ephorus, though he is himself guilty of two faults: first, that he bitterly accuses others of the very things to which he is himself liable; and second, that he is thoroughly corrupt in his own mind, setting down such pronouncements in his memoirs and breeding such opinions in those who read them.
 
 But if we are to hold that Callisthenes was justly punished when he met his death, what ought Timaeus to suffer? For the divine power would have far better cause to be indignant with this man than with Callisthenes.
 
@@ -14868,13 +14886,13 @@ For this man, having praised the people of Gela and of Camarina—first because 
 
 From all this Timaeus would seem to fall short not only of practical ability, but also to come off no little the worse in the very arguments used in the schools of rhetoric.
 
-For everyone surely thinks that proofs ought to be brought forward of things unknown and things disbelieved by the hearers, whereas about matters already known it is the most pointless and most childish thing of all to keep contriving arguments... than what is already known.
+For everyone surely thinks that proofs ought to be brought forward of things unknown and things disbelieved by the hearers, whereas about matters already known it is the most pointless and most childish thing of all to keep contriving arguments [...] than what is already known.
 
-But this man, apart from his whole blunder in directing the greater part of his speech toward things that need no argument at all, has also used assumptions of such a kind that no one could believe Hermocrates used them—the man who fought alongside the Spartans in the sea-battle at Aegospotami, and who with all their crews subdued the forces of the Athenians and their generals in Sicily—nor indeed any boy...
+But this man, apart from his whole blunder in directing the greater part of his speech toward things that need no argument at all, has also used assumptions of such a kind that no one could believe Hermocrates used them—the man who fought alongside the Spartans in the sea-battle at Aegospotami, and who with all their crews subdued the forces of the Athenians and their generals in Sicily—nor indeed any boy [...]
 
 ## Book 12 Chapter 26: Sophistical Commonplaces
 
-...any chance youth? For he, first of all, thinks he ought to remind the delegates that those who sleep at dawn are roused in war by trumpets, but in peacetime by the birds.
+[...] any chance youth? For he, first of all, thinks he ought to remind the delegates that those who sleep at dawn are roused in war by trumpets, but in peacetime by the birds.
 
 After this he says that Heracles established the Olympic games and the truce that goes with them as a demonstration of his own principle, and that, although he harmed all those against whom he made war, he did so under necessity and by another’s command, and was never willingly the cause of harm to any man.
 
@@ -14904,7 +14922,7 @@ For although the whole of Libya is continuously inhabited and teeming with peopl
 
 And in general, he says, who could be afraid of men who, though nature has given to human beings, as their own special endowment beyond the rest of the animals—I mean their hands—nevertheless go through their whole lives carrying these hands tucked uselessly inside their tunics?
 
-But the crowning point, he says, is that under their tunics they actually wear loincloths, so that not even when they fall in battle should they be exposed to the enemy...
+But the crowning point, he says, is that under their tunics they actually wear loincloths, so that not even when they fall in battle should they be exposed to the enemy [...]
 
 ## Book 12 Chapter 26b: Gelon’s Offer to the Greeks
 
@@ -14982,13 +15000,13 @@ But Timaeus, so as not to seem to be following Ephorus, on top of misrepresentin
 
 ## Book 12 Chapter 28a: Timaeus on the Dignity of History
 
-...of living men he supposed he would be able to observe this. All the same, in his eagerness to exalt the writing of history, he says first that the difference between history and rhetorical display-pieces is as great as the difference between buildings really constructed and furnished and the scenes and settings that merely appear in stage-paintings.
+[...] of living men he supposed he would be able to observe this. All the same, in his eagerness to exalt the writing of history, he says first that the difference between history and rhetorical display-pieces is as great as the difference between buildings really constructed and furnished and the scenes and settings that merely appear in stage-paintings.
 
 Second, he says that the mere gathering of the materials for history is a greater task than the whole business of composing display-pieces.
 
-He himself, at any rate, claims to have gone to such expense and trouble in collecting the records of the Cyrnians (Corsicans) and in researching the customs of the Ligurians and the Celts, and along with these the Iberians, that he could scarcely have believed it possible himself, nor would others be believed if they were to describe these efforts.
+He himself, at any rate, claims to have gone to such expense and trouble in collecting the records of the Cyrnians (Corsicans) and in researching the customs of the Ligurians and the Gauls, and along with these the Iberians, that he could scarcely have believed it possible himself, nor would others be believed if they were to describe these efforts.
 
-One would gladly put this question to the historian: which does he suppose requires greater expense and hardship—to sit in a city collecting records and researching the customs of the Ligurians and the Celts, or to put most of the nations and places to the test and become an eyewitness oneself?
+One would gladly put this question to the historian: which does he suppose requires greater expense and hardship—to sit in a city collecting records and researching the customs of the Ligurians and the Gauls, or to put most of the nations and places to the test and become an eyewitness oneself?
 
 And again, which is the harder: to inquire about pitched battles, sieges, and naval engagements from those who happened to be present in the moments of danger, or to gain firsthand experience of the perils and of all that goes with them in the actual operations themselves?
 
@@ -15011,7 +15029,7 @@ Modern English translation of the Greek text.
 
 ## Book 13 Chapter 1: The Aetolians
 
-I. Greek Affairs Because of the unbroken succession of wars and the extravagance of their way of life, the Aetolians had slipped into debt without realizing it themselves, much less anyone else.
+Because of the unbroken succession of wars and the extravagance of their way of life, the Aetolians had slipped into debt without realizing it themselves, much less anyone else.
 
 So, being naturally inclined toward a change in their own constitution, they chose Dorimachus and Scopas to draft laws for them, thinking that these men were, by temperament, eager for upheaval and were also deeply entangled in many ordinary financial obligations. After receiving this authority, they wrote the laws.
 
@@ -15079,7 +15097,7 @@ Damocles, who was sent with Pythion as a spy to the Romans, was a capable instru
 
 ## Book 13 Chapter 6: Nabis, Tyrant of Sparta, 207–192 BC
 
-Nabis, the tyrant of the Lacedaemonians, now in the third year of his rule, did not yet venture to undertake or attempt anything on a grand scale, because the defeat of Machanidas by the Achaeans was still recent, but he was laying the groundwork and setting the foundation for a tyranny that would be long-lasting and oppressive.
+Nabis, the tyrant of the Spartans, now in the third year of his rule, did not yet venture to undertake or attempt anything on a grand scale, because the defeat of Machanidas by the Achaeans was still recent, but he was laying the groundwork and setting the foundation for a tyranny that would be long-lasting and oppressive.
 
 He destroyed outright what remained in Sparta, drove into exile those who stood out most in wealth or ancestral distinction, and distributed their property and wives among the most prominent of the others and among his mercenaries.
 
@@ -15091,9 +15109,9 @@ Nor, apart from what has already been mentioned, was he satisfied with merely ba
 
 Some he had murdered by sending men after them on the roads; others he killed by dragging them back from the places to which they had fled.
 
-In the end, in whatever cities one of the exiles happened to be living, he secretly rented the neighboring houses through men unlikely to arouse suspicion, and sent Cretans into them; these made openings in the walls and, shooting through existing windows, destroyed some of the exiles while they were standing and others while they were lying in their own houses, so that there was no place of escape and no moment of safety for the wretched Lacedaemonians.
+In the end, in whatever cities one of the exiles happened to be living, he secretly rented the neighboring houses through men unlikely to arouse suspicion, and sent Cretans into them; these made openings in the walls and, shooting through existing windows, destroyed some of the exiles while they were standing and others while they were lying in their own houses, so that there was no place of escape and no moment of safety for the wretched Spartans.
 
-And so this was the sort of...
+And so this was the sort of [...]
 
 ## Book 13 Chapter 7: Nabis’s Wife
 
@@ -15133,7 +15151,7 @@ Nabis, who had long been looking for grounds of accusation and a plausible prete
 
 ## Book 13 Chapter 9: Antiochus in Arabia, 205–204 BC
 
-II. Asian Affairs Labae, like Sabae, is a city of Chattenia, as Polybius says in his thirteenth book. The ethnic is Labaean, just as from Sabae comes Sabaean. Both belong to the same region, for Chattenia is territory of the Gerrhaeans.
+Labae, like Sabae, is a city of Chattenia, as Polybius says in his thirteenth book. The ethnic is Labaean, just as from Sabae comes Sabaean. Both belong to the same region, for Chattenia is territory of the Gerrhaeans.
 
 Chattenia is the third district of the Gerrhaeans.
 
@@ -15147,13 +15165,13 @@ When freedom had been confirmed for the Gerrhaeans, they immediately honored Kin
 
 ## Book 13 Chapter 10: Geographical Fragments from Italy and Greece
 
-III. Miscellaneous Geographical Fragments A. Italian Affairs Badiza, a city of Bruttium, mentioned by Polybius in his thirteenth book.
+Badiza, a city of Bruttium, mentioned by Polybius in his thirteenth book.
 
 Lampeteia, a city of Bruttium, mentioned by Polybius in his thirteenth book.
 
 There is also Temese, both a city of Italy and a river. But Polybius, in the thirteenth book, calls the city Temeseia.
 
-B. Greek and Macedonian Affairs Allaria, a city of Crete, mentioned by Polybius in the thirteenth book. The ethnic is Allariates, as he himself says.
+Allaria, a city of Crete, mentioned by Polybius in the thirteenth book. The ethnic is Allariates, as he himself says.
 
 Ilattia, a city of Crete, mentioned by Polybius in his thirteenth book.
 
@@ -15167,7 +15185,7 @@ Digeroi, a Thracian people, mentioned by Polybius in Book 13.
 
 Cabyle, a city of Thrace not far from the territory of the Astae, mentioned by Polybius in the thirteenth book.
 
-C. Fragment of Uncertain Location Melitoussa, a city of Illyria, mentioned by Polybius in the thirteenth book.
+Melitoussa, a city of Illyria, mentioned by Polybius in the thirteenth book.
 
 
 ---
@@ -15178,7 +15196,7 @@ Modern English translation of the Greek text.
 
 ## Book 14 Chapter 1: Scipio Plans To Attack the Punic Camp
 
-II. Scipio’s Actions in Africa While the consuls were occupied with these matters, Publius in Libya, during the winter quarters, learned that the Carthaginians were equipping a fleet. He therefore gave attention both to that preparation and no less to the siege of Utica.
+While the consuls were occupied with these matters, Publius in Libya, during the winter quarters, learned that the Carthaginians were equipping a fleet. He therefore gave attention both to that preparation and no less to the siege of Utica.
 
 Yet he had not completely abandoned hope in regard to Syphax. Since their forces were not far apart, he kept sending messages, convinced that he would draw him away from the alliance with the Carthaginians.
 
@@ -15206,7 +15224,7 @@ This latter camp was easier to approach and its huts were especially fit to be b
 
 ## Book 14 Chapter 1a: Preface
 
-I. From the Preface Polybius says of himself and of the plan of his books: perhaps, then, the summaries prefixed to each Olympiad bring readers to understanding both because of the number and because of the greatness of the events, since deeds from the whole inhabited world are being brought under one general view.
+*Polybius says of himself and of the plan of his books:* perhaps, then, the summaries prefixed to each Olympiad bring readers to understanding both because of the number and because of the greatness of the events, since deeds from the whole inhabited world are being brought under one general view.
 
 Yet I think the events of this Olympiad especially will make an impression on readers, first because in this period the wars in Italy and Libya reached their conclusion. And who would not wish to learn what sort of outcome and ending they had?
 
@@ -15434,7 +15452,7 @@ Then he took down the masts and yards and lashed the ships forcibly together by 
 
 ## Book 14 Chapter 11: Women at Alexandria
 
-III. Egyptian Affairs Polybius says in his fourteenth book that Philo became the flatterer of Agathocles, son of Oenanthe and companion of King Philopator.
+Polybius says in his fourteenth book that Philo became the flatterer of Agathocles, son of Oenanthe and companion of King Philopator.
 
 Polybius also says in the fourteenth book of the Histories that many statues of Cleino, who served Ptolemy Philadelphus as his wine-pourer, were set up throughout Alexandria, dressed in a single tunic and holding a drinking horn in their hands.
 
@@ -15465,7 +15483,7 @@ Modern English translation of the Greek text.
 
 ## Book 15 Chapter 1: Speech of Roman Envoys At Carthage
 
-I. Affairs in Italy and Africa When the Carthaginians seized the Roman transport ships, along with a vast quantity of supplies, Scipio was deeply angered, not only because those provisions had been taken from his own side, but because the enemy had been furnished with an abundant store of necessities.
+When the Carthaginians seized the Roman transport ships, along with a vast quantity of supplies, Scipio was deeply angered, not only because those provisions had been taken from his own side, but because the enemy had been furnished with an abundant store of necessities.
 
 He was even more indignant because the Carthaginians had broken their oaths and their treaty, and had started the war again from the beginning.
 
@@ -15697,7 +15715,7 @@ For men who hold such a resolve, he said, necessarily defeat those drawn up agai
 
 ## Book 15 Chapter 11: Hannibal’s Preparations and Speech
 
-Such was Scipio’s exhortation. Hannibal, for his part, placed the elephants—more than eighty of them—in front of his entire army; after them he stationed the mercenaries, about twelve thousand in number, consisting of Ligurians, Celts, Balearians, and Mauretanians.
+Such was Scipio’s exhortation. Hannibal, for his part, placed the elephants—more than eighty of them—in front of his entire army; after them he stationed the mercenaries, about twelve thousand in number, consisting of Ligurians, Gauls, Balearians, and Mauretanians.
 
 Behind these he drew up the native Libyans and Carthaginians, and behind all the rest, at a distance of more than a stade from the troops in front, the men who had come with him from Italy.
 
@@ -15867,7 +15885,7 @@ The council immediately sent envoys to agree formally to them.
 
 ## Book 15 Chapter 20: League Against Ptolemy Epiphanes
 
-II. Affairs of Macedonia and Greece Who would not marvel at this: while Ptolemy himself was alive and did not need their help, these kings were ready to assist him, but when he died and left behind a mere infant, whose kingdom both of them were naturally bound to preserve, then they invited one another to divide the child’s dominion between themselves and remove the heir he had left.
+Who would not marvel at this: while Ptolemy himself was alive and did not need their help, these kings were ready to assist him, but when he died and left behind a mere infant, whose kingdom both of them were naturally bound to preserve, then they invited one another to divide the child’s dominion between themselves and remove the heir he had left.
 
 And they did not, like tyrants, put forward even some small pretext to veil their shame; rather they acted openly and brutally, in a way so savage that it calls to mind the life attributed to fish, among whom the destruction of the smaller becomes food and sustenance for the larger, though they are of the same kind.
 
@@ -15939,7 +15957,7 @@ But when a king is attempting the greatest enterprises, embracing the whole inha
 
 ## Book 15 Chapter 24a: Egypt
 
-III. Affairs of Egypt Since in each year we recount the events that happened in the various parts of the inhabited world in their proper sequence, it is plain that in some cases the end must be presented before the beginning, whenever that section first falls into place in the division of the whole work and, in the progress of the narrative, the event containing the conclusion naturally comes before the one containing the beginning and first design.
+Since in each year we recount the events that happened in the various parts of the inhabited world in their proper sequence, it is plain that in some cases the end must be presented before the beginning, whenever that section first falls into place in the division of the whole work and, in the progress of the narrative, the event containing the conclusion naturally comes before the one containing the beginning and first design.
 
 ## Book 15 Chapter 25: Ptolemy Epiphanes Succeeds To the Crown
 
@@ -16013,7 +16031,7 @@ He found many plausible arguments for this, twisting some from actual events and
 
 He did this because he wished to provoke the crowd against Tlepolemus. But the result was the opposite. For since the people had long fixed their hopes on Tlepolemus, they were delighted to see the quarrel growing hot.
 
-The beginning of the popular movement, however, arose from certain such causes as these. Nicon, a kinsman of Agathocles, had while the king was still alive been placed in command of the fleet...
+The beginning of the popular movement, however, arose from certain such causes as these. Nicon, a kinsman of Agathocles, had while the king was still alive been placed in command of the fleet [...]
 
 ## Book 15 Chapter 26: Another Murder Committed by Agathocles
 
@@ -16267,7 +16285,7 @@ Accordingly they do not notice that they are spending too much speech on things 
 
 ## Book 15 Chapter 37: Antiochus
 
-IV. Affairs of Asia King Antiochus at the beginning of his reign seemed a man of vast designs, boldness, and energetic execution.
+King Antiochus at the beginning of his reign seemed a man of vast designs, boldness, and energetic execution.
 
 But as he advanced in age he proved far inferior both to his earlier self and to the expectation others had formed of him.
 
@@ -16280,7 +16298,7 @@ Modern English translation of the Greek text.
 
 ## Book 16 Chapter 1: Philip V. Wages War with Attalus, King of Pergamum, and the Rhodians.
 
-I. Affairs in Macedonia When King Philip reached Pergamum and thought he had, as good as with his own hands, finished off Attalus, he gave free rein to every kind of outrage.
+When King Philip reached Pergamum and thought he had, as good as with his own hands, finished off Attalus, he gave free rein to every kind of outrage.
 
 In indulging a temper almost like madness, he directed most of his anger not against men but against the gods.
 
@@ -16478,6 +16496,8 @@ Nothing but the natural course of events.
 
 For people often pursue impossible aims when they view them from far off, because the greatness of their hopes overpowers their reason; but when they come close to the actual business, they abandon their plans just as irrationally, since their calculations are thrown into confusion by the difficulty and awkwardness of the obstacles they meet.
 
+*Compare Livy 31.14: “Jam cum Rhodiis et Attalo navalibus certaminibus, neutro feliciter, vires expertus.”*
+
 ## Book 16 Chapter 11: Philip’s Operations in Caria, 201 BC
 
 After this Philip made some attacks that came to nothing because the town was so strong, and then withdrew again, plundering the forts and settlements in the countryside.
@@ -16512,7 +16532,7 @@ But excess must not be permitted. It may be difficult to mark the exact measure 
 
 ## Book 16 Chapter 13: Affairs in Greece
 
-II. Affairs in Greece I have already explained what policy Nabis, tyrant of the Lacedaemonians, adopted from the beginning, and how, after driving out the citizens, he freed the slaves and married them to their masters’ wives and daughters.
+I have already explained what policy Nabis, tyrant of the Lacedaemonians, adopted from the beginning, and how, after driving out the citizens, he freed the slaves and married them to their masters’ wives and daughters.
 
 I have also shown how he built up his power by making Sparta a kind of inviolable refuge for those who fled their own countries because of impiety or wickedness, and so gathered there a crowd of lawless men.
 
@@ -16664,7 +16684,7 @@ And in the same spirit I would ask my readers now and in time to come: if ever I
 
 ## Book 16 Chapter 21: Egypt — Character of Tlepolemus
 
-III. Affairs in Egypt Tlepolemus, who had charge of the royal government in Egypt, was young in years and had spent his life continuously in military service, with a certain distinction.
+Tlepolemus, who had charge of the royal government in Egypt, was young in years and had spent his life continuously in military service, with a certain distinction.
 
 By nature he was high-strung and ambitious, and in general he brought many qualities useful for action, but many harmful ones as well.
 
@@ -16712,7 +16732,7 @@ After this public speech he also took the seal away from Sosibius, and once he h
 
 ## Book 16 Chapter 22a: Polybius Praises the Loyalty of Gaza
 
-IV. Affairs in Syria When King Antiochus sacked the city of the Gazans, Polybius says:
+When King Antiochus sacked the city of the Gazans, Polybius says:
 
 “It seems to me both just and fitting to give the people of Gaza the testimony they deserve.
 
@@ -16728,7 +16748,7 @@ Therefore, just as we single out good men for honorable mention in our histories
 
 ## Book 16 Chapter 23: Scipio’s Triumph
 
-V. Affairs in Italy Publius Scipio returned from Libya not long after the events just described.
+Publius Scipio returned from Libya not long after the events just described.
 
 Since the expectation of the multitude matched the greatness of his achievements, the splendor surrounding the man and the goodwill of the people toward him were correspondingly great.
 
@@ -16742,7 +16762,7 @@ After all this was over, the people in Rome kept celebrating splendid games and 
 
 ## Book 16 Chapter 24: War Between Rome and Philip V
 
-VI. Affairs in Macedonia and Greece At the beginning of winter, in the year when Publius Sulpicius became consul at Rome, King Philip was staying at Bargylia. Seeing that the Rhodians and Attalus were not disbanding their fleet, but actually filling up their crews and watching the coast with even greater energy, he was in a very troubled state and had many and varied thoughts about the future.
+At the beginning of winter, in the year when Publius Sulpicius became consul at Rome, King Philip was staying at Bargylia. Seeing that the Rhodians and Attalus were not disbanding their fleet, but actually filling up their crews and watching the coast with even greater energy, he was in a very troubled state and had many and varied thoughts about the future.
 
 He was anxious at once about getting out from Bargylia and foresaw danger by sea, and at the same time he distrusted the situation in Macedonia and by no means wanted to winter in Asia, being afraid of both the Aetolians and the Romans.
 
@@ -16986,7 +17006,7 @@ Philip saw that the Achaeans were acting cautiously about the war with Rome, and
 
 ## Book 16 Chapter 39: Coele-Syria
 
-VII. Affairs in Asia Polybius of Megalopolis gives witness to what we have said. For in the sixteenth book of his Histories he says as follows: “Scopas, the general of Ptolemy, marched into the upper country and during the winter subdued the nation of the Jews.”
+Polybius of Megalopolis gives witness to what we have said. For in the sixteenth book of his Histories he says as follows: “Scopas, the general of Ptolemy, marched into the upper country and during the winter subdued the nation of the Jews.”
 
 But since the siege had been conducted in a wandering and ineffective way, Scopas came under disrepute and was attacked with youthful recklessness.
 
@@ -16998,7 +17018,7 @@ We have more to say about this place, and especially about the renowned manifest
 
 ## Book 16 Chapter 40: Geographical Fragments of Uncertain Place
 
-VIII. Fragments of Uncertain Place Babrantion, a place near Chios. Polybius, book sixteen.
+Babrantion, a place near Chios. Polybius, book sixteen.
 
 Gitta, a city of Palestine.
 
@@ -17041,7 +17061,7 @@ Modern English translation of the Greek text.
 
 ## Book 18 Chapter 1: The War with Philip
 
-I. Affairs in Macedonia and Greece When the appointed time came, Philip sailed out from Demetrias into the Melian Gulf with five light galleys and one pristis, the ship on which he himself was sailing.
+When the appointed time came, Philip sailed out from Demetrias into the Melian Gulf with five light galleys and one pristis, the ship on which he himself was sailing.
 
 With him were the Macedonians Apollodorus and Demosthenes, his secretaries; Brachylles from Boeotia; and Cycliadas the Achaean, who had been driven from the Peloponnese for the reasons I mentioned earlier.
 
@@ -17221,7 +17241,7 @@ On behalf of the Aetolians the envoys were Alexander Isius, Damocritus of Calydo
 
 These envoys arrived in Rome before the Senate had settled the matter of the consuls appointed for that year—whether it would be necessary to send both to Gaul, or one of the two against Philip.
 
-But once the friends of Titus had made sure that both consuls would remain in Italy because of the fear of the Celts, all the envoys came before the Senate and brought sharp charges against Philip.
+But once the friends of Titus had made sure that both consuls would remain in Italy because of the fear of the Gauls, all the envoys came before the Senate and brought sharp charges against Philip.
 
 Most of their accusations were similar to those they had earlier stated to the king himself; but they all tried diligently to implant this idea in the Senate: that so long as Chalcis, Corinth, and Demetrias were under the control of the Macedonian, it was impossible for the Greeks to entertain any notion of freedom.
 
@@ -17281,7 +17301,7 @@ For he declared that in Arcadia the circle of Cercidas, Hieronymus, and Eucampid
 
 Together with these he reckons up still more besides, naming them city by city—and yet all the men just mentioned had much to say, and that plausibly, in defense of what was right for their own situation, and most of all those of Arcadia and Messene.
 
-For it was they who, by drawing Philip into the Peloponnese and humbling the Lacedaemonians, first of all enabled all the inhabitants of the Peloponnese to breathe again and to conceive the idea of freedom; and then, by recovering the territory and the cities that the Lacedaemonians had seized in their hour of opportunity from the Messenians, the Megalopolitans, the Tegeans, and the Argives, they unquestionably increased the power of their own native lands.
+For it was they who, by drawing Philip into the Peloponnese and humbling the Spartans, first of all enabled all the inhabitants of the Peloponnese to breathe again and to conceive the idea of freedom; and then, by recovering the territory and the cities that the Spartans had seized in their hour of opportunity from the Messenians, the Megalopolitans, the Tegeans, and the Argives, they unquestionably increased the power of their own native lands.
 
 In return for this they were bound not to make war on Philip and the Macedonians, but to do everything in their power that tended to his glory and honor.
 
@@ -17295,7 +17315,7 @@ And this is all the more so since the events that then befell the Greeks bore wi
 
 For the upshot of the Athenians’ resistance to Philip turned out to be that they tasted the greatest of calamities when they stumbled in the battle at Chaeronea; and had it not been for the king’s magnanimity and love of glory, their misfortunes would have gone even further, thanks to the policy of Demosthenes.
 
-But thanks to the men named above, security and ease from the Lacedaemonians were secured for the Arcadians and Messenians in common, while for their own native cities in particular many advantages followed besides.
+But thanks to the men named above, security and ease from the Spartans were secured for the Arcadians and Messenians in common, while for their own native cities in particular many advantages followed besides.
 
 ## Book 18 Chapter 15: The Fate of Traitors
 
@@ -17607,7 +17627,7 @@ For if it stays on the ground suited to itself, it cannot help its friends—ind
 
 The convoys of its supplies will easily be cut off by the enemy, who hold the open country unopposed; while if it leaves its own ground in order to take some action, it will be easy prey for the enemy.
 
-And further, even if a general does come down into level ground, but does not commit his whole army at once to a single charge of the phalanx and one decisive moment, but holds back from battle even briefly at the very moment of the engagement, it is easy to foresee what will follow from what
+And further, even if a general does come down into level ground, but does not commit his whole army at once to a single charge of the phalanx and one decisive moment, but holds back from battle even briefly at the very moment of the engagement, it is easy to foresee what will follow from what [...]
 
 ## Book 18 Chapter 32: How the Romans Fight Against a Phalanx
 
@@ -17781,7 +17801,7 @@ For it breeds both envy and conspiracies, and it carries the greatest tendencies
 
 Therefore the greatness of spirit of the man we are speaking of is worthy of admiration, because he set out to use his resources for nothing else but the winning of a kingdom, than which nothing greater or nobler can even be named— a man who laid the foundation of the design just mentioned not only through generosity and goodwill toward his friends, but also through his achievements in war.
 
-For after defeating the Gauls in battle—the most formidable and most warlike nation in Asia at that time—he made this his beginning and then for the first time showed himself a king.
+For after defeating the Galatians in battle—the most formidable and most warlike nation in Asia at that time—he made this his beginning and then for the first time showed himself a king.
 
 Having obtained this honor and lived seventy-two years, of which he reigned forty-four, he lived a most temperate and dignified life toward his wife and children; he kept faith with all his allies and friends, and he died in the very midst of the noblest of deeds, while struggling for the freedom of the Greeks.
 
@@ -17789,13 +17809,13 @@ And greatest of all, having left four sons in the prime of life, he so well orde
 
 ## Book 18 Chapter 41a: Antiochus Covets Ephesus
 
-II. Affairs of Asia They tried to prevent Antiochus from sailing along the coast, not out of hostility toward him, but because they feared that, if he strengthened Philip, he would become an obstacle to the freedom of the Greeks.
+They tried to prevent Antiochus from sailing along the coast, not out of hostility toward him, but because they feared that, if he strengthened Philip, he would become an obstacle to the freedom of the Greeks.
 
 King Antiochus was especially eager to gain Ephesus because of its strategic position: it seemed to give him, by land and by sea alike, a commanding post against Ionia and the cities on the Hellespont, and for the kings of Asia it offered an exceptionally useful defensive base against Europe.
 
 ## Book 18 Chapter 42: Italy: Treaty with Philip Confirmed
 
-III. Affairs of Italy When Claudius Marcellus had taken up the consulship, there came to Rome the envoys from Philip and those from Titus and the allies, to deal with the treaty with Philip.
+When Claudius Marcellus had taken up the consulship, there came to Rome the envoys from Philip and those from Titus and the allies, to deal with the treaty with Philip.
 
 After much discussion in the Senate, the Senate resolved to confirm the agreement; but when the proposal was brought before the people, Marcus—himself eager to cross over into Greece—spoke against it and made great efforts to break off the treaty.
 
@@ -17809,7 +17829,7 @@ Such, then, was the state of affairs in the Senate.
 
 ## Book 18 Chapter 43: Greece: Murder of Brachylles
 
-IV. Affairs of Greece In Greece, after the battle, while Titus was wintering at Elateia, the Boeotians, being eager to bring back the men of theirs who had served in Philip’s army, sent an embassy to Titus concerning their safe return.
+In Greece, after the battle, while Titus was wintering at Elateia, the Boeotians, being eager to bring back the men of theirs who had served in Philip’s army, sent an embassy to Titus concerning their safe return.
 
 Wishing to draw the Boeotians toward goodwill for himself—because he was already looking ahead to Antiochus—he readily consented.
 
@@ -17925,7 +17945,7 @@ And such was the outcome of the war against Philip.
 
 ## Book 18 Chapter 49: Asia: Roman Envoys To Antiochus
 
-V. Affairs of Asia If, as the saying goes, they are driven to the very last extremity, they will take refuge with the Romans and put themselves and their city into Roman hands. —
+If, as the saying goes, they are driven to the very last extremity, they will take refuge with the Romans and put themselves and their city into Roman hands. —
 
 While Antiochus’ undertaking was advancing just as he wished, and Antiochus himself was present in Thrace, Lucius Cornelius and his colleagues put in by sea at Selymbria.
 
@@ -17933,7 +17953,7 @@ These men were envoys dispatched by the Senate to arrange the settlement between
 
 ## Book 18 Chapter 50: Conference Between Roman Legates and Antiochus
 
-[Ptolemy]. At about the same time there also arrived two of the ten commissioners: Publius Lentulus from Bargylia, and Lucius Terentius and Publius Villius from Thasos.
+At about the same time there also arrived two of the ten commissioners: Publius Lentulus from Bargylia, and Lucius Terentius and Publius Villius from Thasos.
 
 When the king was quickly informed of their arrival, within a few days they all gathered together at Lysimacheia.
 
@@ -17945,7 +17965,7 @@ For Lucius Cornelius demanded that Antiochus withdraw from all the cities subjec
 
 He further urged him to keep his hands off the autonomous cities.
 
-And in general he said he was astonished on what grounds Antiochus had made his crossing into Europe with such great land forces and such great naval forces; for, apart from the supposition that he intended to attack the Romans, no other explanation remained to anyone who reasoned correctly. With these words the Romans
+And in general he said he was astonished on what grounds Antiochus had made his crossing into Europe with such great land forces and such great naval forces; for, apart from the supposition that he intended to attack the Romans, no other explanation remained to anyone who reasoned correctly. With these words the Romans [...]
 
 ## Book 18 Chapter 51: The King’s Reply
 
@@ -18050,11 +18070,13 @@ Modern English translation of the Greek text.
 
 ## Book 19 Chapter 1: Summary Based on Livy
 
-I. Affairs of Italy Polybius says that he ordered the walls of all the cities on this side of the Baetis to be pulled down in a single day; there were a great many such cities, and they were full of fighting men.
+*Quoted by Plutarch.*
+
+Polybius says that he ordered the walls of all the cities on this side of the Baetis to be pulled down in a single day; there were a great many such cities, and they were full of fighting men.
 
 ## Book 19 Chapter 2: Hannibal Sells His Prisoners
 
-II. Affairs of Greece There was a vast number of prisoners taken in the Punic War. When their own people did not ransom them, Hannibal sold them. The scale of the matter is shown by what Polybius writes: it cost the Achaeans one hundred talents, since they fixed the payment to be returned to the owners at five hundred denarii for each man.
+There was a vast number of prisoners taken in the Punic War. When their own people did not ransom them, Hannibal sold them. The scale of the matter is shown by what Polybius writes: it cost the Achaeans one hundred talents, since they fixed the payment to be returned to the owners at five hundred denarii for each man.
 
 
 ---
@@ -18261,13 +18283,13 @@ Aperanteia: a city of Thessaly. Polybius, Book 20.
 
 ## Book 20 Chapter 12: Philopoemen’s Disinterestedness
 
-...one of their own number to speak to him about these matters; but whereas, in the case of most men who undertake public work for profit, there are many ready to offer such favors and to make this the beginning of friendship and alliance, in the case of Philopoemen no one at all could be found willing to convey this favor to him, until at last, being wholly at a loss, they chose by vote Timolaus. He, being both a hereditary guest-friend and long on familiar terms with Philopoemen, traveled twice to Megalopolis for this very purpose, yet did not dare to utter a word about the matter—until, spurring himself on and coming a third time, he found the courage to mention the gift.
+[...] one of their own number to speak to him about these matters; but whereas, in the case of most men who undertake public work for profit, there are many ready to offer such favors and to make this the beginning of friendship and alliance, in the case of Philopoemen no one at all could be found willing to convey this favor to him, until at last, being wholly at a loss, they chose by vote Timolaus. He, being both a hereditary guest-friend and long on familiar terms with Philopoemen, traveled twice to Megalopolis for this very purpose, yet did not dare to utter a word about the matter—until, spurring himself on and coming a third time, he found the courage to mention the gift.
 
 Philopoemen, against all expectation, received him on this point graciously and kindly, and Timolaus was overjoyed, supposing that he had achieved his aim. But Philopoemen said that he would come to Sparta himself within a few days, since he wished to thank all the magistrates for this honor.
 
 He came afterward, and being invited into the council, he said that he had long known the goodwill of the Lacedaemonians toward him, but knew it best of all from the crown now being offered to him and from such an honor.
 
-He said, then, that he accepted their intention, but was uneasy at the manner of it. For such honors and crowns, he said, ought not to be given to one’s friends—since the man who puts on such a crown can never wash off its poison—but much rather to one’s enemies, so that friends, keeping their freedom of speech, may be trusted among the Achaeans whenever they propose to come to the city’s aid, while enemies, having swallowed the bait, may be forced either to plead the Spartans’ cause or, by keeping silent, be unable to do them any harm.
+He said, then, that he accepted their intention, but was uneasy at the manner of it. For such honors and crowns, he said, ought not to be given to one’s friends—since the man who puts on such a crown can never wash off its poison—but much rather to one’s enemies, so that friends, keeping their freedom of speech, may be trusted among the Achaeans whenever they propose to come to the city’s aid, while enemies, having swallowed the bait, may be forced either to plead the Spartans’ cause or, by keeping silent, be unable to do them any harm. [...]
 
 ## II. Fragment of Uncertain Place
 
@@ -19048,7 +19070,7 @@ Yet Philopoemen made this his aim and accomplished it. For it was noble to bring
 
 And seeing that money is the source from which every monarchy recovers itself, and being by nature a shrewd and statesmanlike man, he took measures to prevent any importation of funds gathered from outside.
 
-## Book 21 Chapter 33: The War with the Gauls of Asia
+## Book 21 Chapter 33: The War with the Galatians of Asia
 
 Affairs in Asia.
 
@@ -19102,7 +19124,7 @@ Gnaeus accepted them, invaded the territory of the Sagalassians, drove off a lar
 
 When envoys came to him, he received them and, after taking a crown worth fifty talents, twenty thousand medimni of barley, and twenty thousand medimni of wheat, admitted them to friendship.
 
-## Book 21 Chapter 37: The Gauls of Asia
+## Book 21 Chapter 37: The Galatians of Asia
 
 Gnaeus, the Roman commander, sent envoys to the Galatian Eposognatus, asking him to negotiate with the Galatian kings.
 
@@ -19116,7 +19138,7 @@ Gnaeus received them kindly.
 
 Later, when Gnaeus was near the little town called Gordium, envoys came from Eposognatus announcing that he had gone and spoken with the Galatian kings, but that they would not agree to any friendly arrangement at all. Instead, they had gathered their children, women, and all their possessions on the mountain called Olympus and stood ready for battle.
 
-## Book 21 Chapter 38: A Gallic Woman Takes Vengeance
+## Book 21 Chapter 38: A Galatian Woman Takes Vengeance
 
 Chiomara, the wife of Ortiagon, was among the prisoners taken together with the other women when Gnaeus and the Romans defeated the Galatians in Asia.
 
@@ -19132,7 +19154,7 @@ When she came to her husband and laid the head before him, he marveled and said,
 
 Polybius says that he himself met and spoke with this woman at Sardis and admired both her spirit and her intelligence.
 
-## Book 21 Chapter 39: Attempted Treachery By the Gauls
+## Book 21 Chapter 39: Attempted Treachery By the Galatians
 
 After the Romans had won their victory over the Galatians and were encamped near the city of Ancyra, with Gnaeus the commander preparing to advance farther, envoys came from the Tectosages asking Gnaeus to leave his forces where they were, but on the following day to come himself to the space between the camps. Their kings, they said, would also come and discuss terms of settlement.
 
@@ -19308,7 +19330,7 @@ When most of the necessary and important arrangements had thus been completed, t
 
 ## Book 21 Chapter 47: Thracians Attack the Returning Romans
 
-On the Romans’ return journey they suffered many terrible things at the hands of the Thracians...
+On the Romans’ return journey they suffered many terrible things at the hands of the Thracians [...]
 
 The surviving Greek here is badly mutilated; only the opening sense can be translated with confidence.
 
@@ -19443,7 +19465,7 @@ And it happened that the people of Aenus had long been torn by civil strife, and
 
 ## Book 22 Chapter 7: Embassies Gather at the Achaean Assembly
 
-In the Peloponnese, says Polybius, we have already explained how, while Philopoemen was still general, the Achaean nation sent envoys both to Rome on behalf of the city of the Spartans and to King Ptolemy to renew the alliance that already existed with him.
+In the Peloponnese, *says Polybius,* we have already explained how, while Philopoemen was still general, the Achaean nation sent envoys both to Rome on behalf of the city of the Spartans and to King Ptolemy to renew the alliance that already existed with him.
 
 At the present time, when Aristaenus was general, envoys from King Ptolemy arrived while the Achaean assembly was in session at Megalopolis.
 
@@ -19701,7 +19723,7 @@ If this is true, then this too is clear: the causes cannot have arisen later tha
 
 Philopoemen had some disagreement in argument with Archon the general. Philopoemen, however, being pleased at the moment by what had been said and changing his mind, praised Archon warmly as a man who had handled the occasion with both skill and cunning.
 
-But for my own part, says Polybius, the remark did not please me then when I was present, since it amounted to praising a man while at the same time doing him moral harm; nor has it pleased me since, as my years have advanced.
+But for my own part, *says Polybius,* the remark did not please me then when I was present, since it amounted to praising a man while at the same time doing him moral harm; nor has it pleased me since, as my years have advanced.
 
 For it seems to me that there is a very great difference in moral choice between a practical statesman and a mischievous intriguer, just as there is a similar difference between genuine dexterity and mere clever roguery. The one set of qualities is, so to speak, among the noblest of human things; the other is the very opposite.
 
@@ -19727,15 +19749,15 @@ They welcomed and honored the young men, and recalling the story of Cleobis and 
 
 This happened at Cyzicus after the settlement with King Prusias.
 
-## Book 22 Chapter 21: Ostiagon Tries to Become King of All the Gauls
+## Book 22 Chapter 21: Ostiagon Tries to Become King of All the Galatians
 
-Ostiagon the Galatian, king of the Gauls in Asia, set his mind on transferring to himself the sovereignty of all the Gauls.
+Ostiagon the Galatian, king of the Galatians in Asia, set his mind on transferring to himself the sovereignty of all the Galatians.
 
 He possessed many resources for this aim, both by nature and by experience.
 
 For he was generous, high-minded, gracious in personal dealings, and intelligent.
 
-And what counted most among the Gauls, he was manly and capable in matters of war.
+And what counted most among the Galatians, he was manly and capable in matters of war.
 
 ## Book 22 Chapter 22: Aristonicus
 
@@ -20056,7 +20078,7 @@ Let this be said by us both for the sake of the glory of these departed men and 
 
 ## Book 23 Chapter 15: Polybius Condemns Ravaging Crops and Trees
 
-It is not right to destroy the crops of those opposed to you. For Polybius says, “For my part I never agree with those who carry their anger against their own people so far that they not only strip their enemies of the year’s produce, but even destroy the trees and the built works, leaving no room for repentance.
+It is not right to destroy the crops of those opposed to you. For *Polybius says,* “For my part I never agree with those who carry their anger against their own people so far that they not only strip their enemies of the year’s produce, but even destroy the trees and the built works, leaving no room for repentance.
 
 Those who do such things seem to me gravely mistaken. For to the same degree that they think they are terrifying their enemies by ravaging the land and taking away not only present means of life but future hopes as well, to that same degree they make men savage and turn the anger of those who have once gone astray into something unchangeable.” —
 
@@ -20154,6 +20176,8 @@ In Crete the beginning of serious troubles was being set in motion—if indeed o
 For because civil wars there are unceasing, and because the savagery they show one another is extreme, beginning and end are the same thing in Crete; and what some people might think a paradoxical statement can there be seen happening constantly.
 
 ## Book 24 Chapter 4: Mount Haemus in Thrace
+
+*Quoted by Strabo, Geography.*
 
 Affairs in Macedonia.
 
@@ -20386,6 +20410,8 @@ Modern English translation of the Greek text.
 
 ## Book 25 Chapter 1: Destruction of Celtiberian Cities
 
+*Quoted by Strabo, Geography.*
+
 Olympiad 150, year 1. Affairs in Spain.
 
 When Polybius says that Tiberius Gracchus destroyed three hundred Celtiberian cities, Posidonius remarks mockingly that the historian meant to do Gracchus a favor by calling towers “cities,” the way they do in triumphal processions.
@@ -20402,7 +20428,7 @@ When Eumenes and Ariarathes accepted these proposals and at once sent envoys of 
 
 There was to be peace forever between Eumenes, Prusias, and Ariarathes on the one side, and Pharnaces and Mithridates on the other.
 
-Pharnaces was not to invade Galatia on any pretext whatever; and any earlier treaties between Pharnaces and the Gauls were to be void.
+Pharnaces was not to invade Galatia on any pretext whatever; and any earlier treaties between Pharnaces and the Galatians were to be void.
 
 Likewise he was to withdraw from Paphlagonia, restoring the inhabitants whom he had previously carried off, together with their arms, missiles, and the rest of their equipment.
 
@@ -20520,6 +20546,8 @@ He even bathed in the public baths when they were crowded with ordinary townsmen
 Once, when someone said, “How fortunate you kings are, to use such things and smell so sweet,” he said nothing to the man; but on the next day, when that fellow was bathing, Antiochus came in and had a very large jar of the most expensive perfume, the kind called stacte, poured over his head, with the result that all the bathers jumped up and rolled themselves in the perfume, then kept slipping and falling because it was so sticky, providing laughter for everyone, including the king himself.
 
 ## Book 26 Chapter 1a: Why Polybius Calls Antiochus Epimanes
+
+*This passage repeats chapter 1 as preserved by a second quoting author.*
 
 Olympiad 151. Affairs of Antiochus.
 
@@ -20754,8 +20782,6 @@ For he was temperate, and he showed a gentleness and depth of spirit worthy of a
 
 ## Book 27 Chapter 13: Ptolemy’s Frugal Rule in Cyprus
 
-II. Affairs in Egypt.
-
 Ptolemy, the commander in Cyprus, was not Egyptian in his ways at all, but a sensible and capable man.
 
 For when he took over the island, while the king was still an infant, he applied himself diligently to raising money, but he gave absolutely nothing to anyone, though the royal administrators often asked him for funds and bitterly criticized him for never releasing anything.
@@ -20886,8 +20912,6 @@ After that it gave a similar answer to all the other envoys who had arrived from
 Such was the state of affairs in Italy.
 
 ## Book 28 Chapter 3: Pressure Put On Achaea and Aetolia
-
-II. The war with Perseus.
 
 At this time Aulus, serving as proconsul and wintering in Thessaly with the army, sent envoys to the regions of Greece, Gaius Popilius and Gnaeus Octavius.
 
@@ -21039,7 +21063,7 @@ The first locked their shields together above their heads, so that by the close-
 
 ## Book 28 Chapter 12: Achaeans Resolve to Fight Beside Rome
 
-III. Greek Affairs Because Perseus intended to come into Thessaly with an army and decide the whole issue by force of arms, Archon and his colleagues thought it best to answer the suspicions and slanders against them once again by their actions themselves.
+Because Perseus intended to come into Thessaly with an army and decide the whole issue by force of arms, Archon and his colleagues thought it best to answer the suspicions and slanders against them once again by their actions themselves.
 
 So they introduced before the Achaeans a decree that they should make a general levy and march into Thessaly, taking their full part in the struggle alongside the Romans.
 
@@ -21235,8 +21259,6 @@ Because the senate learned that Antiochus had become master of Egypt and had com
 Such, then, was the situation in Italy.
 
 ## Book 29 Chapter 3: Gentius Forms an Alliance with Perseus
-
-II. War against Perseus.
 
 When Hippias and his companions, whom Perseus had sent as envoys to Gentius about the alliance, arrived before winter, and explained that the king was ready to undertake war against the Romans if he were given three hundred talents and the proper guarantees for the whole agreement, Perseus, when he heard this and judged Gentius’ cooperation necessary, chose Pantauchus, one of his chief friends, and sent him off with instructions first to settle the matter of the money and to exchange sworn pledges for the alliance, then to take whatever hostages from Gentius Pantauchus thought fit and send them on, and to receive from Perseus whatever hostages Gentius should specify in the written terms, and besides this to arrange the transport of the three hundred talents.
 
@@ -22190,8 +22212,6 @@ Trusting their report, the senators gave the envoys a gracious reception and lik
 
 ## Book 31 Chapter 4: Rhodes Seeks Calynda and Votes a Colossus
 
-II. Affairs in Greece.
-
 The Rhodians, having recovered from the distress that had overtaken them, sent envoys to Rome headed by Cleagoras, to ask that Calynda should be granted to them, and also, concerning those who possessed property in Lycia and Caria, to request from the Senate that they might be allowed to hold it, as they had before.
 
 They also voted to set up in the sanctuary of Athena a colossal statue of the Roman people, thirty cubits high.
@@ -22207,8 +22227,6 @@ The Rhodians sent support both by land and by sea, raised the siege, and took ov
 It so happened that the Senate also confirmed their possession of Calynda.
 
 ## Book 31 Chapter 6: Complaints Against Eumenes
-
-III. Affairs in Asia.
 
 Gaius Gallus, apart from the irrational conduct just mentioned, when he arrived in Asia posted notices in the most prominent cities, ordering anyone who wished to accuse King Eumenes to appear at Sardis at an appointed time.
 
@@ -22400,15 +22418,11 @@ Demetrius, meanwhile, was intent on the arrival of the man who was to be sent to
 
 ## Book 31 Chapter 16: Artaxias Spared at Ariarathes’ Urging
 
-II. Affairs in Asia.
-
 Artaxias wanted to recover [text missing]; but at Ariarathes’ urging he did not do so, and instead treated the man with greater honor than before. So great is the power that belongs to justice by its very nature, and so great too are the judgments and counsels of good men, that they often save not only friends but even enemies and change their characters for the better.
 
 The finest quality of any letter is its power to establish goodwill.
 
 ## Book 31 Chapter 17: Ptolemy Disbands His Mercenaries
-
-III. Affairs in Africa.
 
 After this, the younger Ptolemy arrived in Greece with the envoys and began gathering a substantial force of mercenaries. Among those he enlisted was the Macedonian Damasippus, who had butchered the members of the council at Phacus and then fled from Macedonia with his wife and children.
 
@@ -22700,7 +22714,7 @@ Having carried this digression far enough, I now return again to the main thread
 
 ## Book 31 Chapter 31: The Rhodians Accept Grain from Eumenes
 
-II. Greek Affairs In other respects the Rhodians preserved the dignity of their constitution, but at this time they slipped a little, in my judgment. For they accepted from Eumenes two hundred and eighty thousand measures of grain, so that the money realized from it might be lent out, and the interest used to pay the salaries of the instructors and teachers of their sons.
+In other respects the Rhodians preserved the dignity of their constitution, but at this time they slipped a little, in my judgment. For they accepted from Eumenes two hundred and eighty thousand measures of grain, so that the money realized from it might be lent out, and the interest used to pay the salaries of the instructors and teachers of their sons.
 
 If a private household had fallen into real difficulty, one might perhaps accept such help from friends, rather than see one’s children grow up without education because of poverty. But if one were well provided for, one would endure anything sooner than go collecting from friends the money used to pay teachers.
 
@@ -22708,7 +22722,7 @@ And in proportion as a state ought to think on a larger scale than a private per
 
 ## Book 31 Chapter 32: Embassies to Rome Against Eumenes
 
-III. Asian Affairs In Asia, Prusias sent envoys to Rome together with Galatians to bring accusations against Eumenes.
+In Asia, Prusias sent envoys to Rome together with Galatians to bring accusations against Eumenes.
 
 Eumenes in turn sent his brother Attalus to answer the charges.
 
@@ -22865,8 +22879,6 @@ It was on this matter that they had come on embassy at that time, and they recei
 
 ## Book 32 Chapter 8: Eulogy of King Eumenes
 
-II. Affairs at Pergamum.
-
 King Eumenes was crippled in bodily strength, but by the brilliance of his spirit he still held out, a man who in most respects was second to none of the kings of his own age, and in the greatest and noblest matters was greater and more distinguished than they were.
 
 For in the first place, when he inherited from his father a kingdom narrowed down to a few small and meager towns, he made his own power a match for the greatest dynasties of his age, relying not chiefly on fortune or on sudden reversals, but on intelligence, hard work, and his own action.
@@ -22906,8 +22918,6 @@ For they had the audacity to say absolutely anything on any subject, paying no r
 So, with falsehood winning the day almost without a struggle, they thought the affair was proceeding exactly as they wished.
 
 ## Book 32 Chapter 11: Orophernes’ Ruin and the Oropus Affair
-
-II. Affairs in Asia.
 
 Many men, through their craving for ever more and their overbearing spirit, have been ensnared by wealth; Orophernes, king of Cappadocia, was caught in this trap, ruined, and driven from his kingdom.
 
@@ -22953,8 +22963,6 @@ The senate replied that it would give instructions on these matters to the envoy
 
 ## Book 32 Chapter 15: Prusias Plunders Sanctuaries Around Pergamum
 
-II. War between Prusias and Attalus.
-
 After defeating Attalus, Prusias advanced against Pergamum, prepared a lavish sacrifice, and offered it at the sanctuary of Asclepius.
 
 After sacrificing oxen and obtaining favorable omens, he then returned to camp.
@@ -22995,6 +23003,8 @@ But after some time, when the matter became clearer, the senate, being uncertain
 # Polybius — The Histories, Book XXXIII
 
 Modern English translation of the Greek text.
+
+*Chapter 2 of this book is absent from the Greek source and is not translated.*
 
 ## Book 33 Chapter 1: War Against Attalus Prevented
 
@@ -23138,8 +23148,6 @@ And to the allies in Greece and Asia they wrote that they were permitted to assi
 
 ## Book 33 Chapter 12: Roman Commissioners Visit Attalus and Prusias
 
-II. Affairs in Pergamum.
-
 In Asia, Attalus was still, throughout the winter, gathering large forces, since Ariarathes and Mithridates had sent him cavalry and infantry in accordance with their alliance, under the command of Demetrius son of Ariarathes. While he was engaged in these preparations, the ten envoys arrived from Rome, met him near Cadi, discussed the situation with him, and then set out for Prusias.
 
 When they met Prusias, they conveyed the senate’s instructions to him in very severe terms.
@@ -23193,8 +23201,6 @@ Astymedes of Rhodes, who had been appointed both envoy and admiral, then appeare
 The senate listened attentively and immediately sent envoys under Quintus to settle the war.
 
 ## Book 33 Chapter 16: Crete and Rhodes Ask the Achaeans for Help
-
-II. War between Rhodes and the Cretans.
 
 At this time the Cretans sent envoys to the Achaeans to ask for assistance, headed by Antiphatas son of Telemnastus, a man of Gortyn; and in the same way the Rhodians sent envoys headed by Theophanes.
 
@@ -23254,8 +23260,6 @@ Heracleides, taking advantage of this opening, at once began hiring mercenaries 
 
 ## Book 33 Chapter 19: Demetrius’s Intemperance
 
-II. Affairs in Syria.
-
 He also says that Demetrius—the man who escaped from his hostage life at Rome and became king of Syria in his thirty-third year—was a heavy drinker and spent most of the day drunk.
 
 ## Book 33 Chapter 20: The Multitude Will Act on its Feelings
@@ -23276,6 +23280,8 @@ So it is completely pointless to speak about such matters, unless someone wants 
 # Polybius — The Histories, Book XXXIV
 
 Modern English translation of the Greek text.
+
+*Book 34, Polybius's treatise on geography, survives only in quotations by later authors, chiefly Strabo.*
 
 ## Book 34 Chapter 1: Polybius on Life beneath the Equator
 
@@ -23381,7 +23387,9 @@ And to those who ask how Odysseus could have come to Sicily three times and yet 
 
 ## Book 34 Chapter 5: Polybius Attacks Pytheas’ Tales
 
-III. Polybius argues against earlier geographical writers When Polybius describes Europe, he says that he will pass over the ancient writers and instead examine those who criticize them: Dicaearchus, Eratosthenes, the most recent author to write on geography, and Pytheas, by whom, he says, many have been misled, since he claimed to have gone over the whole of Britain on foot and gave the island a perimeter of more than forty thousand stades, and also told stories about Thule and those regions where there was no longer land by itself, nor sea, nor air, but some compound made from all of them, like a sea-lung, in which, he says, earth and sea and everything together are suspended, and that this serves as a sort of bond holding the whole together, being neither passable on foot nor navigable by ship.
+*Quoted by Strabo, Geography.*
+
+When Polybius describes Europe, he says that he will pass over the ancient writers and instead examine those who criticize them: Dicaearchus, Eratosthenes, the most recent author to write on geography, and Pytheas, by whom, he says, many have been misled, since he claimed to have gone over the whole of Britain on foot and gave the island a perimeter of more than forty thousand stades, and also told stories about Thule and those regions where there was no longer land by itself, nor sea, nor air, but some compound made from all of them, like a sea-lung, in which, he says, earth and sea and everything together are suspended, and that this serves as a sort of bond holding the whole together, being neither passable on foot nor navigable by ship.
 
 He says that he saw for himself the thing that resembled a sea-lung, but that he reports the rest from hearsay. Such, then, are the tales of Pytheas, including his further claim that after returning from there he traveled all along the ocean-facing coast of Europe from Gades to the Tanais.
 
@@ -23399,9 +23407,11 @@ The ignorance of Eratosthenes about the western and northern parts of Europe has
 
 But Eratosthenes and Dicaearchus may be excused, since they had not seen those regions. But who could excuse Polybius and Posidonius?
 
-And yet Polybius is precisely the man who calls such pronouncements mere popular guesswork, the sort people make about distances in these regions and in many others, but not even in...
+And yet Polybius is precisely the man who calls such pronouncements mere popular guesswork, the sort people make about distances in these regions and in many others, but not even in [...]
 
 ## Book 34 Chapter 6: Polybius Corrects Dicaearchus on Distances
+
+*Quoted by Strabo, Geography.*
 
 With arguments of this kind he refutes those earlier writers while claiming precision. For example, Dicaearchus said that from the Peloponnese to the Pillars there were ten thousand stades, and that the distance from the Peloponnese to the head of the Adriatic was greater than this; and since he gave the distance from the Peloponnese to the strait as three thousand, the remainder from the strait to the Pillars came to seven thousand, Polybius says that he will let the three thousand stand, whether it is correctly reckoned or not, but that the seven thousand works in neither way, neither for someone measuring along the coast nor for someone measuring straight through the open sea.
 
@@ -23453,7 +23463,7 @@ Polybius likewise sets out the first two, but makes a third at Malea and Sunium,
 
 ## Book 34 Chapter 8: Lusitania’s Acorn-Fed Tunny and Cheap Prices
 
-IV. On Lusitania Polybius of Megalopolis, in the thirty-fourth book of his Histories, while discussing the land of Lusitania in Iberia, says that acorn-bearing trees are rooted deep in the sea there, and that tunny grow fat by feeding on their fruit.
+Polybius of Megalopolis, in the thirty-fourth book of his Histories, while discussing the land of Lusitania in Iberia, says that acorn-bearing trees are rooted deep in the sea there, and that tunny grow fat by feeding on their fruit.
 
 For that reason, one would not be wrong to call the tunny sea-pigs.
 
@@ -23471,7 +23481,7 @@ The meat of wild animals was considered hardly worth setting a price on at all; 
 
 ## Book 34 Chapter 9: Spain: Springs, Silver Mines, and Iberian Peoples
 
-V. Spain The inhabitants are called the Turdetani and the Turduli; some think these are the same people, others that they are different.
+The inhabitants are called the Turdetani and the Turduli; some think these are the same people, others that they are different.
 
 Polybius is among those who say that the Turduli live to the north of the Turdetani as their neighbors.
 
@@ -23503,7 +23513,7 @@ He says that this king rivaled the luxury of the Phaeacians, except that the mix
 
 ## Book 34 Chapter 10: Gaul and the Alps: Fish, Gold, and Lakes
 
-VI. Gaul Polybius, in the thirty-fourth book of his Histories, says that from the Pyrenees to the river Narbo there is a plain, through which flow the rivers Illeberis and Rhoscynus, passing by cities of the same names inhabited by Celts.
+Polybius, in the thirty-fourth book of his Histories, says that from the Pyrenees to the river Narbo there is a plain, through which flow the rivers Illeberis and Rhoscynus, passing by cities of the same names inhabited by Gauls.
 
 In this plain are found what are called underground fish.
 
@@ -23547,7 +23557,9 @@ The third, Verbanus, is nearly three hundred stades long and thirty wide, and it
 
 ## Book 34 Chapter 11: Italy: Coasts, Campania, and the Lipari Volcanoes
 
-VII. Italy Polybius says that at Capua a remarkable wine is produced, called Anadendrites, with which no other can be compared.
+*Quoted by Strabo, Geography.*
+
+Polybius says that at Capua a remarkable wine is produced, called Anadendrites, with which no other can be compared.
 
 He says that the coast from Iapygia to the strait is three thousand stades by land, washed by the Sicilian Sea, but by sea voyage it is less than five hundred.
 
@@ -23589,7 +23601,9 @@ So it appears that what seems most mythical in the poet was not spoken in vain, 
 
 ## Book 34 Chapter 12: Roads and Distances from Apollonia to Byzantium
 
-VIII. Thrace, Macedonia, Greece He also says other things that are not trustworthy: that the seas are connected by channels because Chian and Thasian pottery is found in the Naro; that both seas can be seen from a certain mountain; that among the Liburnian islands is Titheis, with a circuit of five hundred stades; and that the Danube pours one of its mouths into the Adriatic.
+*Quoted by Strabo, Geography.*
+
+He also says other things that are not trustworthy: that the seas are connected by channels because Chian and Thasian pottery is found in the Naro; that both seas can be seen from a certain mountain; that among the Liburnian islands is Titheis, with a circuit of five hundred stades; and that the Danube pours one of its mouths into the Adriatic.
 
 Some statements of Eratosthenes too are misunderstandings shaped by popular talk, as Polybius says when discussing him and other historians.
 
@@ -23615,11 +23629,11 @@ When Polybius said that the distance from Malea northward to the Danube was abou
 
 ## Book 34 Chapter 13: Eratosthenes as the Authority on Asia
 
-IX. Asia As for the regions lying directly beyond these as far as India, Artemidorus gives the same account as Eratosthenes. Polybius too says that, on matters concerning those lands, Eratosthenes is the authority one should trust most.
+As for the regions lying directly beyond these as far as India, Artemidorus gives the same account as Eratosthenes. Polybius too says that, on matters concerning those lands, Eratosthenes is the authority one should trust most.
 
 ## Book 34 Chapter 14: Polybius Disgusted by Alexandria’s Three Peoples
 
-X. Alexandria, City of Egypt Polybius, who had himself been in the city, says that he was disgusted by its condition at that time.
+Polybius, who had himself been in the city, says that he was disgusted by its condition at that time.
 
 He says that three groups lived in the city: first, the Egyptian and native population, sharp-witted and fit for civic life; a second, the mercenary class, a heavy, numerous, and unruly body. For from ancient custom they maintained foreign men under arms, men trained to rule rather than obey because of the weakness of the kings.
 
@@ -23860,6 +23874,7 @@ For when Marcus Porcius Cato heard in Rome of Scipio’s achievements, he said, 
 The Romans were altogether delighted with Scipio’s statement and his handling of the situation: [...]
 
 ## Book 36 Chapter 9: Opinions on Rome’s Treatment of Carthage
+
 In matters concerning the Carthaginians, after the Romans had defeated them, and in matters concerning the so-called Pseudo-Philip in Greece, there were many and varied opinions; at first these opinions concerned the Carthaginians, and afterward again the Pseudo-Philip.
 
 The judgments and discussions about the Carthaginians were in fact divided and uncertain.
@@ -23893,6 +23908,7 @@ For impiety is wrongdoing against the gods, parents, or the dead; breach of fait
 Nor did they overthrow laws or customs or private trust: for when the Carthaginians had handed themselves over, the Romans had simply done what they wished, since those surrendering were no longer obeying orders, and had thus brought necessity upon them.
 
 ## Book 36 Chapter 10: Rumors of the Pseudo-Philip
+
 So much, then, was said about the Romans and the Carthaginians.
 
 As for the Pseudo-Philip, at first the story seemed hardly believable: a sort of airborne Philip had appeared in Macedonia, contemptuous not only of the Macedonians but also of the Romans, and having no reasonable basis at all for his claim.
@@ -23908,6 +23924,7 @@ For there was no appearance of probability or any reasonable explanation for wha
 —
 
 ## Book 36 Chapter 11: Polybius Summoned to Lilybaeum
+
 When letters from Manilius reached the Achaeans in the Peloponnese, informing them that they would be doing well to send Polybius of Megalopolis at once to Lilybaeum, since he was needed for public business, the Achaeans decided to send him in accordance with the consul’s instructions.
 
 But we thought it right, in many ways, to obey the Romans, and so set aside all other concerns and sailed off when summer was beginning.
@@ -23915,6 +23932,7 @@ But we thought it right, in many ways, to obey the Romans, and so set aside all 
 When we reached Corcyra and found there letters from the consuls that had arrived for the Corcyraeans, in which they explained that the Carthaginians had already handed over their hostages to them and were entirely ready to obey their orders, we thought that the war was over and that we no longer had any need at all, and so we sailed back again to the Peloponnese.
 
 ## Book 36 Chapter 12: Polybius Writing of Himself
+
 One should not be surprised if at times we refer to ourselves by name, and at other times by more general expressions, as when we say, “after I had said this” or again, “when we had agreed.” For since we are so deeply involved in the events that are later to be narrated, it is necessary to use references to ourselves, so that we do not keep repeating our name and become tedious through tautology, nor again say “I” and “for my part” at every turn and fall into an irritating manner.
 
 Rather, by using all such forms and changing among them as the occasion requires, we should avoid, as far as possible, the heavy and burdensome habit of speaking too much about ourselves.
@@ -23926,6 +23944,7 @@ And indeed, as it happened, we were helped in this respect by a kind of fortunat
 —
 
 ## Book 36 Chapter 13: Fortune Reverses Callicrates and Lycortas
+
 Through an unusual coincidence, the images of Callicrates were being brought in under cover of darkness while those of Lycortas were on the same day being carried out into the light, exactly as the original arrangement had intended.
 
 This compelled everyone to remark that one must never use prosperity insolently against one’s neighbors, knowing that this is especially the habit of Fortune: to overturn, by one’s own devices and laws, the very men who established them.
@@ -23933,6 +23952,7 @@ This compelled everyone to remark that one must never use prosperity insolently 
 The natural love of novelty in human beings is itself enough to bring about every kind of change.
 
 ## Book 36 Chapter 14: The Ill-Chosen Roman Envoys
+
 The Romans sent envoys to restrain Nicomedes from his rashness and to prevent Attalus from making war on Prusias, and they appointed Marcus Licinius, a man crippled by gout and completely unable to use his feet, then Aulus Maninus, who had such large scars across his head from a roof tile falling on him that it was astonishing he survived, and Lucius Malloelus, who was thought by all Romans to be the dullest of men.
 
 Since the business required speed and boldness, those appointed seemed utterly unfitted for the task.
@@ -23942,6 +23962,7 @@ For this reason, it is said that Marcus Porcius Cato remarked in the Senate that
 For how could they possibly move quickly, or what could their embassy accomplish if it had neither feet nor head nor heart?
 
 ## Book 36 Chapter 15: The Character of Prusias
+
 King Prusias, though repellent in appearance and, by reasoned judgment, not without some better qualities, was in outward form only half a man and in military matters ignoble and womanish.
 
 For he was not merely cowardly, but also a stranger to hardship and altogether unmanly in both body and soul throughout his whole life.
@@ -23957,6 +23978,7 @@ In short, he had no conception at all of what the good is, and lived a barbarous
 Accordingly, once the people under his rule caught a little hope, they immediately formed an unalterable resolve not only to think differently from the king, but also to seek punishment from him.
 
 ## Book 36 Chapter 16: Masinissa, Fortunate King of Numidia
+
 Masinissa, king of the Numidians in Libya, was the best and happiest of the kings of our own time.
 
 He reigned for more than sixty years and was exceptionally healthy and long-lived, having reached ninety years of age.
@@ -23980,6 +24002,7 @@ Polybius records that Masinissa died at ninety, leaving behind a four-year-old c
 A little before his death, after defeating the Carthaginians in a great battle, he was seen the next day in front of his tent eating coarse bread and, when people wondered at this, saying that he did this [...]
 
 ## Book 36 Chapter 17: Fortune, Causes, and Greek Depopulation
+
 Polybius says: in criticizing those who attribute events, whether public affairs or private reversals, to Fortune and Fate, I now wish to distinguish this matter as far as the method of factual history allows.
 
 Where a human being cannot, God knows, discover the causes because they are either impossible or extremely difficult to grasp, one may perhaps have recourse to God and Fortune—for example, in the case of extraordinary and continuous rains or snowstorms, or, by contrast, droughts and frosts that ruin the crops, or similarly with recurring pestilences and other things like these, whose cause is not easy to discover.
@@ -24021,8 +24044,6 @@ Modern English translation of the Greek text.
 
 ## Book 37 Chapter 1: Mouseion, a Place near Olympus
 
-Olympiad 158, year 1. Macedonian War.
-
 Mouseion, a place near Olympus in Macedonia: Polybius in his thirty-seventh book.
 
 
@@ -24058,11 +24079,11 @@ For, wisely foreseeing what was to come, they abandoned their country together w
 
 The crisis did indeed do them harm, for the barbarians, once they became masters of Athens, destroyed it without mercy. Yet the Athenians earned no reproach or shame; on the contrary, they won the highest renown among all mankind, because they counted everything else of less importance and chose to share the same fortune as the rest of the Greeks.
 
-Accordingly, because they had made a noble choice, they not only recovered their city and their own territory at once, but soon afterward were contending with the Lacedaemonians for the leadership of the other Greeks.
+Accordingly, because they had made a noble choice, they not only recovered their city and their own territory at once, but soon afterward were contending with the Spartans for the leadership of the other Greeks.
 
 Later, defeated in their turn by the Spartans, they were reduced to such necessity that they pulled down the walls of their own city.
 
-But here too one might say that the blame belongs to the Lacedaemonians, not to the Athenians, because they used too harshly the power that Fortune had given them.
+But here too one might say that the blame belongs to the Spartans, not to the Athenians, because they used too harshly the power that Fortune had given them.
 
 The Spartans, in turn defeated by the Thebans, lost the leadership of the Greeks, and afterward, giving up their rule beyond their borders, were confined within the frontiers of Laconia.
 
@@ -24070,7 +24091,7 @@ And what is shameful in this, if, while contending for the noblest prizes, they 
 
 These events, therefore, must be called reverses, but by no means should they be termed misfortunes.
 
-The Mantineans were forced to abandon their city when the Lacedaemonians broke it up and scattered them to live in villages; but in this matter everyone condemned the folly not of the Mantineans but of the Lacedaemonians.
+The Mantineans were forced to abandon their city when the Spartans broke it up and scattered them to live in villages; but in this matter everyone condemned the folly not of the Mantineans but of the Spartans.
 
 Some time later the Thebans saw their own city utterly laid waste, when Alexander, intending to cross into Asia, supposed that by punishing the Thebans he would keep the Greeks in check through fear while he was occupied with his own undertakings.
 
@@ -24137,7 +24158,7 @@ Rather, what moves it is a changing manner and, in general, anything scattered, 
 Likewise one could find that taste cannot remain fixed even on the most luxurious foods, but grows weary of them and delights in changes, often welcoming plain fare more readily than rich fare because of novelty.
 The same thing can be seen in sight as well: for it can least of all remain fixed on a single object, and it is variety and change in what is seen that set it in motion.
 
-Most of all one could see this happening in the soul: changes of attention and concentration are, as it were, rests for those who labor hard...
+Most of all one could see this happening in the soul: changes of attention and concentration are, as it were, rests for those who labor hard [...]
 
 ## Book 38 Chapter 6: Polybius’s Orderly Digressions versus Earlier Historians
 

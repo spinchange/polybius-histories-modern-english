@@ -127,6 +127,7 @@ For when Marcus Porcius Cato heard in Rome of Scipio’s achievements, he said, 
 The Romans were altogether delighted with Scipio’s statement and his handling of the situation: [...]
 
 ## Book 36 Chapter 9: Opinions on Rome’s Treatment of Carthage
+
 In matters concerning the Carthaginians, after the Romans had defeated them, and in matters concerning the so-called Pseudo-Philip in Greece, there were many and varied opinions; at first these opinions concerned the Carthaginians, and afterward again the Pseudo-Philip.
 
 The judgments and discussions about the Carthaginians were in fact divided and uncertain.
@@ -160,6 +161,7 @@ For impiety is wrongdoing against the gods, parents, or the dead; breach of fait
 Nor did they overthrow laws or customs or private trust: for when the Carthaginians had handed themselves over, the Romans had simply done what they wished, since those surrendering were no longer obeying orders, and had thus brought necessity upon them.
 
 ## Book 36 Chapter 10: Rumors of the Pseudo-Philip
+
 So much, then, was said about the Romans and the Carthaginians.
 
 As for the Pseudo-Philip, at first the story seemed hardly believable: a sort of airborne Philip had appeared in Macedonia, contemptuous not only of the Macedonians but also of the Romans, and having no reasonable basis at all for his claim.
@@ -175,6 +177,7 @@ For there was no appearance of probability or any reasonable explanation for wha
 —
 
 ## Book 36 Chapter 11: Polybius Summoned to Lilybaeum
+
 When letters from Manilius reached the Achaeans in the Peloponnese, informing them that they would be doing well to send Polybius of Megalopolis at once to Lilybaeum, since he was needed for public business, the Achaeans decided to send him in accordance with the consul’s instructions.
 
 But we thought it right, in many ways, to obey the Romans, and so set aside all other concerns and sailed off when summer was beginning.
@@ -182,6 +185,7 @@ But we thought it right, in many ways, to obey the Romans, and so set aside all 
 When we reached Corcyra and found there letters from the consuls that had arrived for the Corcyraeans, in which they explained that the Carthaginians had already handed over their hostages to them and were entirely ready to obey their orders, we thought that the war was over and that we no longer had any need at all, and so we sailed back again to the Peloponnese.
 
 ## Book 36 Chapter 12: Polybius Writing of Himself
+
 One should not be surprised if at times we refer to ourselves by name, and at other times by more general expressions, as when we say, “after I had said this” or again, “when we had agreed.” For since we are so deeply involved in the events that are later to be narrated, it is necessary to use references to ourselves, so that we do not keep repeating our name and become tedious through tautology, nor again say “I” and “for my part” at every turn and fall into an irritating manner.
 
 Rather, by using all such forms and changing among them as the occasion requires, we should avoid, as far as possible, the heavy and burdensome habit of speaking too much about ourselves.
@@ -193,6 +197,7 @@ And indeed, as it happened, we were helped in this respect by a kind of fortunat
 —
 
 ## Book 36 Chapter 13: Fortune Reverses Callicrates and Lycortas
+
 Through an unusual coincidence, the images of Callicrates were being brought in under cover of darkness while those of Lycortas were on the same day being carried out into the light, exactly as the original arrangement had intended.
 
 This compelled everyone to remark that one must never use prosperity insolently against one’s neighbors, knowing that this is especially the habit of Fortune: to overturn, by one’s own devices and laws, the very men who established them.
@@ -200,6 +205,7 @@ This compelled everyone to remark that one must never use prosperity insolently 
 The natural love of novelty in human beings is itself enough to bring about every kind of change.
 
 ## Book 36 Chapter 14: The Ill-Chosen Roman Envoys
+
 The Romans sent envoys to restrain Nicomedes from his rashness and to prevent Attalus from making war on Prusias, and they appointed Marcus Licinius, a man crippled by gout and completely unable to use his feet, then Aulus Maninus, who had such large scars across his head from a roof tile falling on him that it was astonishing he survived, and Lucius Malloelus, who was thought by all Romans to be the dullest of men.
 
 Since the business required speed and boldness, those appointed seemed utterly unfitted for the task.
@@ -209,6 +215,7 @@ For this reason, it is said that Marcus Porcius Cato remarked in the Senate that
 For how could they possibly move quickly, or what could their embassy accomplish if it had neither feet nor head nor heart?
 
 ## Book 36 Chapter 15: The Character of Prusias
+
 King Prusias, though repellent in appearance and, by reasoned judgment, not without some better qualities, was in outward form only half a man and in military matters ignoble and womanish.
 
 For he was not merely cowardly, but also a stranger to hardship and altogether unmanly in both body and soul throughout his whole life.
@@ -224,6 +231,7 @@ In short, he had no conception at all of what the good is, and lived a barbarous
 Accordingly, once the people under his rule caught a little hope, they immediately formed an unalterable resolve not only to think differently from the king, but also to seek punishment from him.
 
 ## Book 36 Chapter 16: Masinissa, Fortunate King of Numidia
+
 Masinissa, king of the Numidians in Libya, was the best and happiest of the kings of our own time.
 
 He reigned for more than sixty years and was exceptionally healthy and long-lived, having reached ninety years of age.
@@ -247,6 +255,7 @@ Polybius records that Masinissa died at ninety, leaving behind a four-year-old c
 A little before his death, after defeating the Carthaginians in a great battle, he was seen the next day in front of his tent eating coarse bread and, when people wondered at this, saying that he did this [...]
 
 ## Book 36 Chapter 17: Fortune, Causes, and Greek Depopulation
+
 Polybius says: in criticizing those who attribute events, whether public affairs or private reversals, to Fortune and Fate, I now wish to distinguish this matter as far as the method of factual history allows.
 
 Where a human being cannot, God knows, discover the causes because they are either impossible or extremely difficult to grasp, one may perhaps have recourse to God and Fortune—for example, in the case of extraordinary and continuous rains or snowstorms, or, by contrast, droughts and frosts that ruin the crops, or similarly with recurring pestilences and other things like these, whose cause is not easy to discover.

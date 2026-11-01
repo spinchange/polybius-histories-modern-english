@@ -200,13 +200,13 @@ Aperanteia: a city of Thessaly. Polybius, Book 20.
 
 ## Book 20 Chapter 12: Philopoemen’s Disinterestedness
 
-...one of their own number to speak to him about these matters; but whereas, in the case of most men who undertake public work for profit, there are many ready to offer such favors and to make this the beginning of friendship and alliance, in the case of Philopoemen no one at all could be found willing to convey this favor to him, until at last, being wholly at a loss, they chose by vote Timolaus. He, being both a hereditary guest-friend and long on familiar terms with Philopoemen, traveled twice to Megalopolis for this very purpose, yet did not dare to utter a word about the matter—until, spurring himself on and coming a third time, he found the courage to mention the gift.
+[...] one of their own number to speak to him about these matters; but whereas, in the case of most men who undertake public work for profit, there are many ready to offer such favors and to make this the beginning of friendship and alliance, in the case of Philopoemen no one at all could be found willing to convey this favor to him, until at last, being wholly at a loss, they chose by vote Timolaus. He, being both a hereditary guest-friend and long on familiar terms with Philopoemen, traveled twice to Megalopolis for this very purpose, yet did not dare to utter a word about the matter—until, spurring himself on and coming a third time, he found the courage to mention the gift.
 
 Philopoemen, against all expectation, received him on this point graciously and kindly, and Timolaus was overjoyed, supposing that he had achieved his aim. But Philopoemen said that he would come to Sparta himself within a few days, since he wished to thank all the magistrates for this honor.
 
 He came afterward, and being invited into the council, he said that he had long known the goodwill of the Lacedaemonians toward him, but knew it best of all from the crown now being offered to him and from such an honor.
 
-He said, then, that he accepted their intention, but was uneasy at the manner of it. For such honors and crowns, he said, ought not to be given to one’s friends—since the man who puts on such a crown can never wash off its poison—but much rather to one’s enemies, so that friends, keeping their freedom of speech, may be trusted among the Achaeans whenever they propose to come to the city’s aid, while enemies, having swallowed the bait, may be forced either to plead the Spartans’ cause or, by keeping silent, be unable to do them any harm.
+He said, then, that he accepted their intention, but was uneasy at the manner of it. For such honors and crowns, he said, ought not to be given to one’s friends—since the man who puts on such a crown can never wash off its poison—but much rather to one’s enemies, so that friends, keeping their freedom of speech, may be trusted among the Achaeans whenever they propose to come to the city’s aid, while enemies, having swallowed the bait, may be forced either to plead the Spartans’ cause or, by keeping silent, be unable to do them any harm. [...]
 
 ## II. Fragment of Uncertain Place
 

@@ -4,7 +4,7 @@ Modern English translation of the Greek text.
 
 ## Book 18 Chapter 1: The War with Philip
 
-I. Affairs in Macedonia and Greece When the appointed time came, Philip sailed out from Demetrias into the Melian Gulf with five light galleys and one pristis, the ship on which he himself was sailing.
+When the appointed time came, Philip sailed out from Demetrias into the Melian Gulf with five light galleys and one pristis, the ship on which he himself was sailing.
 
 With him were the Macedonians Apollodorus and Demosthenes, his secretaries; Brachylles from Boeotia; and Cycliadas the Achaean, who had been driven from the Peloponnese for the reasons I mentioned earlier.
 
@@ -184,7 +184,7 @@ On behalf of the Aetolians the envoys were Alexander Isius, Damocritus of Calydo
 
 These envoys arrived in Rome before the Senate had settled the matter of the consuls appointed for that year—whether it would be necessary to send both to Gaul, or one of the two against Philip.
 
-But once the friends of Titus had made sure that both consuls would remain in Italy because of the fear of the Celts, all the envoys came before the Senate and brought sharp charges against Philip.
+But once the friends of Titus had made sure that both consuls would remain in Italy because of the fear of the Gauls, all the envoys came before the Senate and brought sharp charges against Philip.
 
 Most of their accusations were similar to those they had earlier stated to the king himself; but they all tried diligently to implant this idea in the Senate: that so long as Chalcis, Corinth, and Demetrias were under the control of the Macedonian, it was impossible for the Greeks to entertain any notion of freedom.
 
@@ -244,7 +244,7 @@ For he declared that in Arcadia the circle of Cercidas, Hieronymus, and Eucampid
 
 Together with these he reckons up still more besides, naming them city by city—and yet all the men just mentioned had much to say, and that plausibly, in defense of what was right for their own situation, and most of all those of Arcadia and Messene.
 
-For it was they who, by drawing Philip into the Peloponnese and humbling the Lacedaemonians, first of all enabled all the inhabitants of the Peloponnese to breathe again and to conceive the idea of freedom; and then, by recovering the territory and the cities that the Lacedaemonians had seized in their hour of opportunity from the Messenians, the Megalopolitans, the Tegeans, and the Argives, they unquestionably increased the power of their own native lands.
+For it was they who, by drawing Philip into the Peloponnese and humbling the Spartans, first of all enabled all the inhabitants of the Peloponnese to breathe again and to conceive the idea of freedom; and then, by recovering the territory and the cities that the Spartans had seized in their hour of opportunity from the Messenians, the Megalopolitans, the Tegeans, and the Argives, they unquestionably increased the power of their own native lands.
 
 In return for this they were bound not to make war on Philip and the Macedonians, but to do everything in their power that tended to his glory and honor.
 
@@ -258,7 +258,7 @@ And this is all the more so since the events that then befell the Greeks bore wi
 
 For the upshot of the Athenians’ resistance to Philip turned out to be that they tasted the greatest of calamities when they stumbled in the battle at Chaeronea; and had it not been for the king’s magnanimity and love of glory, their misfortunes would have gone even further, thanks to the policy of Demosthenes.
 
-But thanks to the men named above, security and ease from the Lacedaemonians were secured for the Arcadians and Messenians in common, while for their own native cities in particular many advantages followed besides.
+But thanks to the men named above, security and ease from the Spartans were secured for the Arcadians and Messenians in common, while for their own native cities in particular many advantages followed besides.
 
 ## Book 18 Chapter 15: The Fate of Traitors
 
@@ -570,7 +570,7 @@ For if it stays on the ground suited to itself, it cannot help its friends—ind
 
 The convoys of its supplies will easily be cut off by the enemy, who hold the open country unopposed; while if it leaves its own ground in order to take some action, it will be easy prey for the enemy.
 
-And further, even if a general does come down into level ground, but does not commit his whole army at once to a single charge of the phalanx and one decisive moment, but holds back from battle even briefly at the very moment of the engagement, it is easy to foresee what will follow from what
+And further, even if a general does come down into level ground, but does not commit his whole army at once to a single charge of the phalanx and one decisive moment, but holds back from battle even briefly at the very moment of the engagement, it is easy to foresee what will follow from what [...]
 
 ## Book 18 Chapter 32: How the Romans Fight Against a Phalanx
 
@@ -744,7 +744,7 @@ For it breeds both envy and conspiracies, and it carries the greatest tendencies
 
 Therefore the greatness of spirit of the man we are speaking of is worthy of admiration, because he set out to use his resources for nothing else but the winning of a kingdom, than which nothing greater or nobler can even be named— a man who laid the foundation of the design just mentioned not only through generosity and goodwill toward his friends, but also through his achievements in war.
 
-For after defeating the Gauls in battle—the most formidable and most warlike nation in Asia at that time—he made this his beginning and then for the first time showed himself a king.
+For after defeating the Galatians in battle—the most formidable and most warlike nation in Asia at that time—he made this his beginning and then for the first time showed himself a king.
 
 Having obtained this honor and lived seventy-two years, of which he reigned forty-four, he lived a most temperate and dignified life toward his wife and children; he kept faith with all his allies and friends, and he died in the very midst of the noblest of deeds, while struggling for the freedom of the Greeks.
 
@@ -752,13 +752,13 @@ And greatest of all, having left four sons in the prime of life, he so well orde
 
 ## Book 18 Chapter 41a: Antiochus Covets Ephesus
 
-II. Affairs of Asia They tried to prevent Antiochus from sailing along the coast, not out of hostility toward him, but because they feared that, if he strengthened Philip, he would become an obstacle to the freedom of the Greeks.
+They tried to prevent Antiochus from sailing along the coast, not out of hostility toward him, but because they feared that, if he strengthened Philip, he would become an obstacle to the freedom of the Greeks.
 
 King Antiochus was especially eager to gain Ephesus because of its strategic position: it seemed to give him, by land and by sea alike, a commanding post against Ionia and the cities on the Hellespont, and for the kings of Asia it offered an exceptionally useful defensive base against Europe.
 
 ## Book 18 Chapter 42: Italy: Treaty with Philip Confirmed
 
-III. Affairs of Italy When Claudius Marcellus had taken up the consulship, there came to Rome the envoys from Philip and those from Titus and the allies, to deal with the treaty with Philip.
+When Claudius Marcellus had taken up the consulship, there came to Rome the envoys from Philip and those from Titus and the allies, to deal with the treaty with Philip.
 
 After much discussion in the Senate, the Senate resolved to confirm the agreement; but when the proposal was brought before the people, Marcus—himself eager to cross over into Greece—spoke against it and made great efforts to break off the treaty.
 
@@ -772,7 +772,7 @@ Such, then, was the state of affairs in the Senate.
 
 ## Book 18 Chapter 43: Greece: Murder of Brachylles
 
-IV. Affairs of Greece In Greece, after the battle, while Titus was wintering at Elateia, the Boeotians, being eager to bring back the men of theirs who had served in Philip’s army, sent an embassy to Titus concerning their safe return.
+In Greece, after the battle, while Titus was wintering at Elateia, the Boeotians, being eager to bring back the men of theirs who had served in Philip’s army, sent an embassy to Titus concerning their safe return.
 
 Wishing to draw the Boeotians toward goodwill for himself—because he was already looking ahead to Antiochus—he readily consented.
 
@@ -888,7 +888,7 @@ And such was the outcome of the war against Philip.
 
 ## Book 18 Chapter 49: Asia: Roman Envoys To Antiochus
 
-V. Affairs of Asia If, as the saying goes, they are driven to the very last extremity, they will take refuge with the Romans and put themselves and their city into Roman hands. —
+If, as the saying goes, they are driven to the very last extremity, they will take refuge with the Romans and put themselves and their city into Roman hands. —
 
 While Antiochus’ undertaking was advancing just as he wished, and Antiochus himself was present in Thrace, Lucius Cornelius and his colleagues put in by sea at Selymbria.
 
@@ -896,7 +896,7 @@ These men were envoys dispatched by the Senate to arrange the settlement between
 
 ## Book 18 Chapter 50: Conference Between Roman Legates and Antiochus
 
-[Ptolemy]. At about the same time there also arrived two of the ten commissioners: Publius Lentulus from Bargylia, and Lucius Terentius and Publius Villius from Thasos.
+At about the same time there also arrived two of the ten commissioners: Publius Lentulus from Bargylia, and Lucius Terentius and Publius Villius from Thasos.
 
 When the king was quickly informed of their arrival, within a few days they all gathered together at Lysimacheia.
 
@@ -908,7 +908,7 @@ For Lucius Cornelius demanded that Antiochus withdraw from all the cities subjec
 
 He further urged him to keep his hands off the autonomous cities.
 
-And in general he said he was astonished on what grounds Antiochus had made his crossing into Europe with such great land forces and such great naval forces; for, apart from the supposition that he intended to attack the Romans, no other explanation remained to anyone who reasoned correctly. With these words the Romans
+And in general he said he was astonished on what grounds Antiochus had made his crossing into Europe with such great land forces and such great naval forces; for, apart from the supposition that he intended to attack the Romans, no other explanation remained to anyone who reasoned correctly. With these words the Romans [...]
 
 ## Book 18 Chapter 51: The King’s Reply
 

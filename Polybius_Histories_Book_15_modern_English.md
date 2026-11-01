@@ -4,7 +4,7 @@ Modern English translation of the Greek text.
 
 ## Book 15 Chapter 1: Speech of Roman Envoys At Carthage
 
-I. Affairs in Italy and Africa When the Carthaginians seized the Roman transport ships, along with a vast quantity of supplies, Scipio was deeply angered, not only because those provisions had been taken from his own side, but because the enemy had been furnished with an abundant store of necessities.
+When the Carthaginians seized the Roman transport ships, along with a vast quantity of supplies, Scipio was deeply angered, not only because those provisions had been taken from his own side, but because the enemy had been furnished with an abundant store of necessities.
 
 He was even more indignant because the Carthaginians had broken their oaths and their treaty, and had started the war again from the beginning.
 
@@ -236,7 +236,7 @@ For men who hold such a resolve, he said, necessarily defeat those drawn up agai
 
 ## Book 15 Chapter 11: Hannibal’s Preparations and Speech
 
-Such was Scipio’s exhortation. Hannibal, for his part, placed the elephants—more than eighty of them—in front of his entire army; after them he stationed the mercenaries, about twelve thousand in number, consisting of Ligurians, Celts, Balearians, and Mauretanians.
+Such was Scipio’s exhortation. Hannibal, for his part, placed the elephants—more than eighty of them—in front of his entire army; after them he stationed the mercenaries, about twelve thousand in number, consisting of Ligurians, Gauls, Balearians, and Mauretanians.
 
 Behind these he drew up the native Libyans and Carthaginians, and behind all the rest, at a distance of more than a stade from the troops in front, the men who had come with him from Italy.
 
@@ -406,7 +406,7 @@ The council immediately sent envoys to agree formally to them.
 
 ## Book 15 Chapter 20: League Against Ptolemy Epiphanes
 
-II. Affairs of Macedonia and Greece Who would not marvel at this: while Ptolemy himself was alive and did not need their help, these kings were ready to assist him, but when he died and left behind a mere infant, whose kingdom both of them were naturally bound to preserve, then they invited one another to divide the child’s dominion between themselves and remove the heir he had left.
+Who would not marvel at this: while Ptolemy himself was alive and did not need their help, these kings were ready to assist him, but when he died and left behind a mere infant, whose kingdom both of them were naturally bound to preserve, then they invited one another to divide the child’s dominion between themselves and remove the heir he had left.
 
 And they did not, like tyrants, put forward even some small pretext to veil their shame; rather they acted openly and brutally, in a way so savage that it calls to mind the life attributed to fish, among whom the destruction of the smaller becomes food and sustenance for the larger, though they are of the same kind.
 
@@ -478,7 +478,7 @@ But when a king is attempting the greatest enterprises, embracing the whole inha
 
 ## Book 15 Chapter 24a: Egypt
 
-III. Affairs of Egypt Since in each year we recount the events that happened in the various parts of the inhabited world in their proper sequence, it is plain that in some cases the end must be presented before the beginning, whenever that section first falls into place in the division of the whole work and, in the progress of the narrative, the event containing the conclusion naturally comes before the one containing the beginning and first design.
+Since in each year we recount the events that happened in the various parts of the inhabited world in their proper sequence, it is plain that in some cases the end must be presented before the beginning, whenever that section first falls into place in the division of the whole work and, in the progress of the narrative, the event containing the conclusion naturally comes before the one containing the beginning and first design.
 
 ## Book 15 Chapter 25: Ptolemy Epiphanes Succeeds To the Crown
 
@@ -552,7 +552,7 @@ He found many plausible arguments for this, twisting some from actual events and
 
 He did this because he wished to provoke the crowd against Tlepolemus. But the result was the opposite. For since the people had long fixed their hopes on Tlepolemus, they were delighted to see the quarrel growing hot.
 
-The beginning of the popular movement, however, arose from certain such causes as these. Nicon, a kinsman of Agathocles, had while the king was still alive been placed in command of the fleet...
+The beginning of the popular movement, however, arose from certain such causes as these. Nicon, a kinsman of Agathocles, had while the king was still alive been placed in command of the fleet [...]
 
 ## Book 15 Chapter 26: Another Murder Committed by Agathocles
 
@@ -806,6 +806,6 @@ Accordingly they do not notice that they are spending too much speech on things 
 
 ## Book 15 Chapter 37: Antiochus
 
-IV. Affairs of Asia King Antiochus at the beginning of his reign seemed a man of vast designs, boldness, and energetic execution.
+King Antiochus at the beginning of his reign seemed a man of vast designs, boldness, and energetic execution.
 
 But as he advanced in age he proved far inferior both to his earlier self and to the expectation others had formed of him.

@@ -4,7 +4,7 @@ Modern English translation of the Greek text.
 
 ## Book 14 Chapter 1: Scipio Plans To Attack the Punic Camp
 
-II. Scipio’s Actions in Africa While the consuls were occupied with these matters, Publius in Libya, during the winter quarters, learned that the Carthaginians were equipping a fleet. He therefore gave attention both to that preparation and no less to the siege of Utica.
+While the consuls were occupied with these matters, Publius in Libya, during the winter quarters, learned that the Carthaginians were equipping a fleet. He therefore gave attention both to that preparation and no less to the siege of Utica.
 
 Yet he had not completely abandoned hope in regard to Syphax. Since their forces were not far apart, he kept sending messages, convinced that he would draw him away from the alliance with the Carthaginians.
 
@@ -32,7 +32,7 @@ This latter camp was easier to approach and its huts were especially fit to be b
 
 ## Book 14 Chapter 1a: Preface
 
-I. From the Preface Polybius says of himself and of the plan of his books: perhaps, then, the summaries prefixed to each Olympiad bring readers to understanding both because of the number and because of the greatness of the events, since deeds from the whole inhabited world are being brought under one general view.
+*Polybius says of himself and of the plan of his books:* perhaps, then, the summaries prefixed to each Olympiad bring readers to understanding both because of the number and because of the greatness of the events, since deeds from the whole inhabited world are being brought under one general view.
 
 Yet I think the events of this Olympiad especially will make an impression on readers, first because in this period the wars in Italy and Libya reached their conclusion. And who would not wish to learn what sort of outcome and ending they had?
 
@@ -260,7 +260,7 @@ Then he took down the masts and yards and lashed the ships forcibly together by 
 
 ## Book 14 Chapter 11: Women at Alexandria
 
-III. Egyptian Affairs Polybius says in his fourteenth book that Philo became the flatterer of Agathocles, son of Oenanthe and companion of King Philopator.
+Polybius says in his fourteenth book that Philo became the flatterer of Agathocles, son of Oenanthe and companion of King Philopator.
 
 Polybius also says in the fourteenth book of the Histories that many statues of Cleino, who served Ptolemy Philadelphus as his wine-pourer, were set up throughout Alexandria, dressed in a single tunic and holding a drinking horn in their hands.
 

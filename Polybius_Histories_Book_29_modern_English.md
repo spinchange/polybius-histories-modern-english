@@ -20,8 +20,6 @@ Such, then, was the situation in Italy.
 
 ## Book 29 Chapter 3: Gentius Forms an Alliance with Perseus
 
-II. War against Perseus.
-
 When Hippias and his companions, whom Perseus had sent as envoys to Gentius about the alliance, arrived before winter, and explained that the king was ready to undertake war against the Romans if he were given three hundred talents and the proper guarantees for the whole agreement, Perseus, when he heard this and judged Gentius’ cooperation necessary, chose Pantauchus, one of his chief friends, and sent him off with instructions first to settle the matter of the money and to exchange sworn pledges for the alliance, then to take whatever hostages from Gentius Pantauchus thought fit and send them on, and to receive from Perseus whatever hostages Gentius should specify in the written terms, and besides this to arrange the transport of the three hundred talents.
 
 Pantauchus at once set out and, arriving at Meteon in the land of the Labeatae, met Gentius there and quickly brought the young king round to sharing Perseus’ hopes.

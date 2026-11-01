@@ -42,8 +42,6 @@ Such was the state of affairs in Italy.
 
 ## Book 28 Chapter 3: Pressure Put On Achaea and Aetolia
 
-II. The war with Perseus.
-
 At this time Aulus, serving as proconsul and wintering in Thessaly with the army, sent envoys to the regions of Greece, Gaius Popilius and Gnaeus Octavius.
 
 They first came to Thebes, where they praised the Thebans and urged them to preserve their goodwill toward the Romans.
@@ -194,7 +192,7 @@ The first locked their shields together above their heads, so that by the close-
 
 ## Book 28 Chapter 12: Achaeans Resolve to Fight Beside Rome
 
-III. Greek Affairs Because Perseus intended to come into Thessaly with an army and decide the whole issue by force of arms, Archon and his colleagues thought it best to answer the suspicions and slanders against them once again by their actions themselves.
+Because Perseus intended to come into Thessaly with an army and decide the whole issue by force of arms, Archon and his colleagues thought it best to answer the suspicions and slanders against them once again by their actions themselves.
 
 So they introduced before the Achaeans a decree that they should make a general levy and march into Thessaly, taking their full part in the struggle alongside the Romans.
 

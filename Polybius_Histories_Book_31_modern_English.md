@@ -56,8 +56,6 @@ Trusting their report, the senators gave the envoys a gracious reception and lik
 
 ## Book 31 Chapter 4: Rhodes Seeks Calynda and Votes a Colossus
 
-II. Affairs in Greece.
-
 The Rhodians, having recovered from the distress that had overtaken them, sent envoys to Rome headed by Cleagoras, to ask that Calynda should be granted to them, and also, concerning those who possessed property in Lycia and Caria, to request from the Senate that they might be allowed to hold it, as they had before.
 
 They also voted to set up in the sanctuary of Athena a colossal statue of the Roman people, thirty cubits high.
@@ -73,8 +71,6 @@ The Rhodians sent support both by land and by sea, raised the siege, and took ov
 It so happened that the Senate also confirmed their possession of Calynda.
 
 ## Book 31 Chapter 6: Complaints Against Eumenes
-
-III. Affairs in Asia.
 
 Gaius Gallus, apart from the irrational conduct just mentioned, when he arrived in Asia posted notices in the most prominent cities, ordering anyone who wished to accuse King Eumenes to appear at Sardis at an appointed time.
 
@@ -266,15 +262,11 @@ Demetrius, meanwhile, was intent on the arrival of the man who was to be sent to
 
 ## Book 31 Chapter 16: Artaxias Spared at Ariarathes’ Urging
 
-II. Affairs in Asia.
-
 Artaxias wanted to recover [text missing]; but at Ariarathes’ urging he did not do so, and instead treated the man with greater honor than before. So great is the power that belongs to justice by its very nature, and so great too are the judgments and counsels of good men, that they often save not only friends but even enemies and change their characters for the better.
 
 The finest quality of any letter is its power to establish goodwill.
 
 ## Book 31 Chapter 17: Ptolemy Disbands His Mercenaries
-
-III. Affairs in Africa.
 
 After this, the younger Ptolemy arrived in Greece with the envoys and began gathering a substantial force of mercenaries. Among those he enlisted was the Macedonian Damasippus, who had butchered the members of the council at Phacus and then fled from Macedonia with his wife and children.
 
@@ -566,7 +558,7 @@ Having carried this digression far enough, I now return again to the main thread
 
 ## Book 31 Chapter 31: The Rhodians Accept Grain from Eumenes
 
-II. Greek Affairs In other respects the Rhodians preserved the dignity of their constitution, but at this time they slipped a little, in my judgment. For they accepted from Eumenes two hundred and eighty thousand measures of grain, so that the money realized from it might be lent out, and the interest used to pay the salaries of the instructors and teachers of their sons.
+In other respects the Rhodians preserved the dignity of their constitution, but at this time they slipped a little, in my judgment. For they accepted from Eumenes two hundred and eighty thousand measures of grain, so that the money realized from it might be lent out, and the interest used to pay the salaries of the instructors and teachers of their sons.
 
 If a private household had fallen into real difficulty, one might perhaps accept such help from friends, rather than see one’s children grow up without education because of poverty. But if one were well provided for, one would endure anything sooner than go collecting from friends the money used to pay teachers.
 
@@ -574,7 +566,7 @@ And in proportion as a state ought to think on a larger scale than a private per
 
 ## Book 31 Chapter 32: Embassies to Rome Against Eumenes
 
-III. Asian Affairs In Asia, Prusias sent envoys to Rome together with Galatians to bring accusations against Eumenes.
+In Asia, Prusias sent envoys to Rome together with Galatians to bring accusations against Eumenes.
 
 Eumenes in turn sent his brother Attalus to answer the charges.
 

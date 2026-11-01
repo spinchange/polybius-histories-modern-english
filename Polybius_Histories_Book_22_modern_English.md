@@ -126,7 +126,7 @@ And it happened that the people of Aenus had long been torn by civil strife, and
 
 ## Book 22 Chapter 7: Embassies Gather at the Achaean Assembly
 
-In the Peloponnese, says Polybius, we have already explained how, while Philopoemen was still general, the Achaean nation sent envoys both to Rome on behalf of the city of the Spartans and to King Ptolemy to renew the alliance that already existed with him.
+In the Peloponnese, *says Polybius,* we have already explained how, while Philopoemen was still general, the Achaean nation sent envoys both to Rome on behalf of the city of the Spartans and to King Ptolemy to renew the alliance that already existed with him.
 
 At the present time, when Aristaenus was general, envoys from King Ptolemy arrived while the Achaean assembly was in session at Megalopolis.
 
@@ -384,7 +384,7 @@ If this is true, then this too is clear: the causes cannot have arisen later tha
 
 Philopoemen had some disagreement in argument with Archon the general. Philopoemen, however, being pleased at the moment by what had been said and changing his mind, praised Archon warmly as a man who had handled the occasion with both skill and cunning.
 
-But for my own part, says Polybius, the remark did not please me then when I was present, since it amounted to praising a man while at the same time doing him moral harm; nor has it pleased me since, as my years have advanced.
+But for my own part, *says Polybius,* the remark did not please me then when I was present, since it amounted to praising a man while at the same time doing him moral harm; nor has it pleased me since, as my years have advanced.
 
 For it seems to me that there is a very great difference in moral choice between a practical statesman and a mischievous intriguer, just as there is a similar difference between genuine dexterity and mere clever roguery. The one set of qualities is, so to speak, among the noblest of human things; the other is the very opposite.
 
@@ -410,15 +410,15 @@ They welcomed and honored the young men, and recalling the story of Cleobis and 
 
 This happened at Cyzicus after the settlement with King Prusias.
 
-## Book 22 Chapter 21: Ostiagon Tries to Become King of All the Gauls
+## Book 22 Chapter 21: Ostiagon Tries to Become King of All the Galatians
 
-Ostiagon the Galatian, king of the Gauls in Asia, set his mind on transferring to himself the sovereignty of all the Gauls.
+Ostiagon the Galatian, king of the Galatians in Asia, set his mind on transferring to himself the sovereignty of all the Galatians.
 
 He possessed many resources for this aim, both by nature and by experience.
 
 For he was generous, high-minded, gracious in personal dealings, and intelligent.
 
-And what counted most among the Gauls, he was manly and capable in matters of war.
+And what counted most among the Galatians, he was manly and capable in matters of war.
 
 ## Book 22 Chapter 22: Aristonicus
 

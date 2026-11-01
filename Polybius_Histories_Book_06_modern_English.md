@@ -4,7 +4,7 @@ Modern English translation of the Greek text.
 
 ## Book 6 Chapter 1: Preface: Political Constitutions
 
-Having halted our narrative at this point, we will set out our account of the Roman constitution, in which we will show, step by step, that the distinctive character of their political system contributed more than anything else not only to their winning dominion over the Italians and Sicilians, but also to their further acquisition of rule over the Iberians and the Celts, and finally, after they had defeated the Carthaginians in war, to their conceiving the design of universal empire.
+Having halted our narrative at this point, we will set out our account of the Roman constitution, in which we will show, step by step, that the distinctive character of their political system contributed more than anything else not only to their winning dominion over the Italians and Sicilians, but also to their further acquisition of rule over the Iberians and the Gauls, and finally, after they had defeated the Carthaginians in war, to their conceiving the design of universal empire.
 
 But when, in working through the Greek affairs that took place during the same Olympiad, we reach this period, then at last, taking it up as a subject in its own right, we will give our account of the Roman constitution itself, believing that an exposition of it is not only suited to the design of our history, but also contributes greatly to the reform and construction of constitutions, for those men who are eager to learn and active in public affairs.
 
@@ -128,7 +128,7 @@ And while they devoted themselves to these things, they remained free of all sla
 
 But once they began to inherit their positions by succession and birth, and found the means of security already prepared for them, along with more than enough for their sustenance, then, following their appetites because of this abundance, they came to think that their rulers ought to have distinctive clothing, distinctive and elaborate indulgences and provisions at the table, and unchallenged access to the sexual favors and embraces even of those they had no right to.
 
-These things gave rise in some cases to envy and offense, in others to a blaze of hatred and bitter anger, so that the kingship turned into a tyranny. The first step toward its dissolution was taken, and a conspiracy began to form against the rulers— a conspiracy that arose not from the worst men, but from the noblest, most high-minded, and most courageous, because such men are least
+These things gave rise in some cases to envy and offense, in others to a blaze of hatred and bitter anger, so that the kingship turned into a tyranny. The first step toward its dissolution was taken, and a conspiracy began to form against the rulers— a conspiracy that arose not from the worst men, but from the noblest, most high-minded, and most courageous, because such men are least [...]
 
 ## Book 6 Chapter 8: Degeneration of Constitutions
 
@@ -178,7 +178,7 @@ For that man, having taken to heart that each of the developments described abov
 
 Foreseeing this, Lycurgus did not make his constitution simple or of a single type, but gathered together all at once the virtues and distinctive features of the best forms of government, so that no element, growing beyond what was due, should be perverted into the vices that are akin to it; but rather, with the power of each held in check by the others, none of them should incline anywhere or weigh down too far, but the constitution should remain in equilibrium and balanced for a long time, like a ship beating against the wind— the kingship being prevented from growing arrogant by fear of the people, since the people too had been given a sufficient share in the constitution; and the people in turn not daring to despise the kings, out of fear of the elders, who, having been chosen by selection on the grounds of merit, were always bound to attach themselves to what was just, so that the party of those at a disadvantage, by holding fast to established custom, always became greater and weightier through the leaning and support of the elders.
 
-And so, having framed it in this way, he preserved freedom for the Lacedaemonians for the longest time of any people we know of.
+And so, having framed it in this way, he preserved freedom for the Spartans for the longest time of any people we know of.
 
 He, then, foreseeing by a process of reasoning the source and manner in which each thing naturally comes about, established the aforesaid constitution without harm.
 
@@ -366,7 +366,7 @@ The dictator differs from the consuls in this respect: whereas each of the two c
 
 ## Book 6 Chapter 19: On the Roman Army
 
-VI. On the Roman Military After they have elected the consuls, they next appoint military tribunes—fourteen from those who have already completed five years of service, and another ten in addition from those who have completed ten.
+After they have elected the consuls, they next appoint military tribunes—fourteen from those who have already completed five years of service, and another ten in addition from those who have completed ten.
 
 As for the rest, a man must by law complete ten campaigns in the cavalry, or sixteen in the infantry, within the forty-six years counted from his coming of age—except for those whose property is assessed below four hundred drachmas.
 

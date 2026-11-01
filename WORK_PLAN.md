@@ -312,3 +312,26 @@ Sonnet drafts; the user signs off (this is the one phase that is mostly human):
 - Soft calls to eyeball: 1.25, 24.4, 32.4, 38.21, 39.6, 39.7; 33.8 uses "Massalia" (style
   sheet to decide Marseilles/Massalia).
 - Haiku title-case pass was replaced by the script check (no model needed).
+
+## Phase 6 outcome (2026-10-31)
+
+- 11 apparatus-clerk agents, one book-set each, driven by `work/scripts/phase6_prep.py` →
+  `work/phase6/book_NN.md` and the shared conventions in `work/phase6/RULES.md`
+  (STYLE_SHEET.md does not exist yet; RULES.md carries the decided rules).
+- Done: leftover crib rubrics deleted; bracket-repeats deleted; truncated paragraphs and
+  gap ellipses normalized to `[...]`; Celts→Gauls, Lacedaemonians→Spartans (formal uses kept),
+  Gauls→Galatians for Asia Minor (incl. 4 Book 21 headings); Book 33/34 headnotes; 26.1a note;
+  16.10 Livy note restored; 37.1 rubric dropped; 4.13/14 split word "Phi-/-lip" rejoined.
+- **Attributions: only 13 added**, where the source explicitly shows the quoting author
+  (Strabo in 24.4, 25.1, 34.5/6/11/12; Suidas 8.38, 7.10, 7.14b; Stephanus 7.14c/d; Athenaeus 7.1;
+  Plutarch 19.1 — work title not known). The plan's premise that the crib "usually names the
+  quoting author" did not hold (≈40 of 774 chapters). Remaining candidates are listed, not
+  guessed, in `work/reports/phase6_escalations.md` — resolving them needs an outside source
+  (e.g. the Büttner-Wobst apparatus), a Phase 4/7 decision, or acceptance without attribution.
+- Open decisions: (a) chapter breaks that cut a sentence (2.13/14, 4.x, 18.31/32, 18.50/51 …)
+  now end with ` [...]` — the sentence really continues in the next chapter; consider rejoining or
+  dropping the marker; (b) translator markers `[text missing]` / `[Text breaks.]` (31–32) vs the
+  `[...]` convention; (c) 8.24 heading doesn't fit its content (Books 7–19 were not screened);
+  (d) Book 20 `## II. Fragment of Uncertain Place` still has no chapter number.
+- Log note: one clerk's status.csv rewrite clobbered ~16 concurrent rows; book-file edits are
+  intact (the diff is the record). Lesson: parallel agents append only.

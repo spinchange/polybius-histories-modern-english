@@ -136,11 +136,11 @@ Instead he marched through Daunia and Bruttium and suddenly appeared in the regi
 
 At this point, I think, one may fairly pause to note the courage and ambition both of the Carthaginians and of the Romans in war.
 
-For just as everyone admires the Theban Epaminondas because, after coming to Tegea with the allies and observing that the Lacedaemonians themselves had all assembled at Mantinea, together with their allies, in order to fight the Thebans, he ordered his own men to take supper early and led out the army as night was just coming on, pretending that he was hurrying to seize certain advantageous positions for the coming battle, but after creating that impression among the rank and file actually marched straight toward Sparta itself, and, arriving unexpectedly at about the third hour, found Sparta empty of defenders, forced his way as far as the marketplace, and occupied the parts of the city that slope toward the river, yet then suffered a reversal because some deserter got through during the night to Mantinea and informed King Agesilaus what was happening, and help arrived just at the critical moment when the city was on the point of being taken, so that he failed in that hope; but afterward, having had breakfast by the Eurotas and allowed his troops to recover from their exertions, he again set out by the same road in the opposite direction, calculating that since the Lacedaemonians and their allies had gone off to help Sparta, Mantinea would in turn be left undefended—which is exactly what happened.
+For just as everyone admires the Theban Epaminondas because, after coming to Tegea with the allies and observing that the Spartans themselves had all assembled at Mantinea, together with their allies, in order to fight the Thebans, he ordered his own men to take supper early and led out the army as night was just coming on, pretending that he was hurrying to seize certain advantageous positions for the coming battle, but after creating that impression among the rank and file actually marched straight toward Sparta itself, and, arriving unexpectedly at about the third hour, found Sparta empty of defenders, forced his way as far as the marketplace, and occupied the parts of the city that slope toward the river, yet then suffered a reversal because some deserter got through during the night to Mantinea and informed King Agesilaus what was happening, and help arrived just at the critical moment when the city was on the point of being taken, so that he failed in that hope; but afterward, having had breakfast by the Eurotas and allowed his troops to recover from their exertions, he again set out by the same road in the opposite direction, calculating that since the Spartans and their allies had gone off to help Sparta, Mantinea would in turn be left undefended—which is exactly what happened.
 
 So he encouraged the Thebans, pushed on with a vigorous night march, and came up to Mantinea about midday, when it was completely abandoned by those who might have defended it.
 
-But at this very moment the Athenians, eager under their alliance to take part with the Lacedaemonians in the struggle against the Thebans, arrived.
+But at this very moment the Athenians, eager under their alliance to take part with the Spartans in the struggle against the Thebans, arrived.
 
 And just as the Theban vanguard was reaching the sanctuary of Poseidon, which lies seven stades in front of the city, it so happened that the Athenians appeared on the hill above Mantinea.
 
@@ -160,9 +160,9 @@ And finally, without abandoning his design, he flung himself against the enemy t
 
 Who would not mark such a commander out for admiration?
 
-And yet at this moment one might judge the Romans superior to the Lacedaemonians.
+And yet at this moment one might judge the Romans superior to the Spartans.
 
-For the Lacedaemonians, thrown into confusion at the first message, saved Sparta indeed, but so far as they were concerned they lost Mantinea.
+For the Spartans, thrown into confusion at the first message, saved Sparta indeed, but so far as they were concerned they lost Mantinea.
 
 The Romans, however, both preserved their own country and did not raise the siege. Instead, they remained steadfast and immovable in their original resolve, and from then on pressed the Capuans with still greater confidence.
 
@@ -242,7 +242,7 @@ Every action has its definite opportunity, duration, and place, and requires sec
 
 It is therefore plain that the man who gets each of these points right will not fail in his enterprise, whereas one who neglects even a single point will ruin the whole design.
 
-So much has nature made even one small detail enough to bring an intended plan to failure...
+So much has nature made even one small detail enough to bring an intended plan to failure [...]
 
 ## Book 9 Chapter 13: Scientific Strategy
 
@@ -316,7 +316,7 @@ On cloudy nights one must pay attention to the moon, because by reason of its si
 
 Sometimes one must estimate from the times and places of its rising, and sometimes again from those of its setting, provided one has enough understanding in this matter to keep pace with the daily changes in those risings.
 
-There is an easy way to observe this as well, for one month marks out a single evident cycle, perceptible to the senses...
+There is an easy way to observe this as well, for one month marks out a single evident cycle, perceptible to the senses [...]
 
 ## Book 9 Chapter 16: Example: Ulysses
 
@@ -446,7 +446,7 @@ The same thing is accustomed to happen through the influence of friends, not onl
 
 Thus one may find that the Athenians committed few harsh acts and many noble and honorable ones when Aristides and Pericles led the state, but the opposite when Cleon and Chares did so.
 
-And when the Lacedaemonians held supremacy in Greece, everything done under King Cleombrotus had an allied and cooperative character, while what was done under Agesilaus had the opposite tendency.
+And when the Spartans held supremacy in Greece, everything done under King Cleombrotus had an allied and cooperative character, while what was done under Agesilaus had the opposite tendency.
 
 So even the character of cities changes with the differences among their leaders.
 
@@ -510,13 +510,13 @@ The common report, however, was that among the Carthaginians he had the reputati
 
 Most people judge the size of the places just mentioned from the mere length of their perimeter.
 
-So if someone says that the city of the Megalopolitans has a circuit of fifty stades, while that of the Lacedaemonians is forty-eight, and yet that Sparta is twice as large in area as Megalopolis, the statement seems unbelievable to them.
+So if someone says that the city of the Megalopolitans has a circuit of fifty stades, while that of the Spartans is forty-eight, and yet that Sparta is twice as large in area as Megalopolis, the statement seems unbelievable to them.
 
 And if, wanting to increase their perplexity, someone adds that a city or a camp whose circuit is forty stades can be twice as large as one whose perimeter is a hundred stades, what is said appears altogether astonishing to them.
 
 The reason for this is that we do not remember the lessons taught us in childhood through geometry.
 
-I have been led to speak about these matters because not only ordinary people, but also some of those engaged in public life and in positions of command, are bewildered, sometimes wondering whether the city of the Lacedaemonians can really be larger—indeed much larger—than that of the Megalopolitans, though it has the smaller circuit, and sometimes trying to estimate the number of men in camps by guessing from the perimeter alone.
+I have been led to speak about these matters because not only ordinary people, but also some of those engaged in public life and in positions of command, are bewildered, sometimes wondering whether the city of the Spartans can really be larger—indeed much larger—than that of the Megalopolitans, though it has the smaller circuit, and sometimes trying to estimate the number of men in camps by guessing from the perimeter alone.
 
 A similar mistake also happens in judging the appearance of cities. Most people suppose that cities full of bends and hills contain more houses than level cities.
 
@@ -526,7 +526,7 @@ Still, one can grasp the point in a simple way from what is visible.
 
 For if one imagines the houses on slopes rising upward so that all of them are of equal height, it is clear that the single plane formed at the level of the roofs will be equal and parallel to the plane lying beneath the hills and beneath the foundations of the walls.
 
-As for those who wish to command and take part in public life, yet are ignorant of such matters...
+As for those who wish to command and take part in public life, yet are ignorant of such matters [...]
 
 ## Book 9 Chapter 27: Agrigentum
 
@@ -806,7 +806,7 @@ For the Athenian city always wishes to preserve that kind of character.
 
 For zeal shown by friends at the right moment gives great help, but if it drags behind and comes too late it makes assistance altogether useless.
 
-At least if they wish to keep their alliance not merely in writing, but in deeds as well...
+At least if they wish to keep their alliance not merely in writing, but in deeds as well [...]
 
 The Acarnanians, when they learned of the Aetolian attack against them, partly despairing in their expectations and partly fighting with their anger, came to a terrible resolve.
 
