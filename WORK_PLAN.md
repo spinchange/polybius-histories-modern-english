@@ -74,6 +74,22 @@ Known one-off fixes to fold into the seam list: `Book_03` lines ~395/445/479/
 `Book_16:207` (footnote fused into heading), `Book_22:111` full-width parens,
 `Book_35:121` stray ellipsis.
 
+**Phase 1 outcome (done 2026-10-31, merged to main):**
+- 1,527 merges, 118 name replacements, 37 files repunctuated; EPUBCheck green.
+  Pre-cleanup seam baseline kept as `seam_report.baseline_precleanup.csv`
+  (line numbers there match the one-off list above).
+- **Book files are now canonical.** The per-book markdown files carry the
+  Phase 1 edits; the Hermes-cache assemble/extract scripts are historical.
+  Never regenerate book files from the cache — it would destroy all fixes.
+- The verification dry-run overwrote the real diff reports before commit; the
+  authoritative Phase 1 diff is `git diff 97e72d5..a1af861`. Before any rerun
+  of the mutating scripts, scriptwright should make reports timestamped (or
+  refuse to overwrite a non-empty report).
+- Only standalone `***`/`****`/`...`/`…` became `[...]`; attached ellipses
+  (`[snow]...`) were left for Phase 6 judgment.
+- The unparseable heading `## II. Fragment of Uncertain Place in Book 20`
+  goes to the Phase 6 seam queue.
+
 ## Phase 2 — Alignment screen, Books 20–39 (+ Books 7–19 cheaply)
 
 Root cause on record: `source/` pairs Büttner-Wobst Greek with a Shuckburgh-
@@ -169,7 +185,10 @@ correlatives, wrong historical identities.
   Voice-switch sentences ("Polybius says: I have already…") get the quote set
   off or the frame italicized — pick one convention and keep it.
 - **Seams:** work through `work/reports/seam_report` + the known list in
-  Phase 1. Each task gets both chapters' tails/heads inline. Bracket-repeats are
+  Phase 1, plus `work/reports/quote_balance.txt` (39 paragraphs with unbalanced
+  curly quotes — some are legitimate multi-paragraph speeches; judge, don't
+  script) and attached-ellipsis lacunae left by Phase 1. Each task gets both
+  chapters' tails/heads inline. Bracket-repeats are
   deleted or merged; truncated sentences get a marked lacuna, never invented text.
 - **26.1a**: add a note that it repeats 26.1 via a second quoting author.
 - **Book 33**: note the missing ch. 2 (absent in source) in the book headnote.
@@ -203,6 +222,9 @@ Sonnet drafts; the user signs off (this is the one phase that is mostly human):
      existing Rhone/Danube usage and modern-translation convention). Cities and
      regions stay ancient (New Carthage, Iberia). Deterministic — done in
      Phase 1.
+   - **Dates — DECIDED by the user 2026-10-31:** `215 BC` (no periods, BC
+     after), en-dash ranges `210–206 BC`, headings included. Applied in
+     Phase 1; state in the style sheet.
    - **License: CC0 1.0 public-domain dedication** with a courtesy-attribution
      request naming the edition. Rationale: AI-generated text is of doubtful
      copyrightability, and the edition is in the free-classics spirit.
@@ -221,7 +243,11 @@ Sonnet drafts; the user signs off (this is the one phase that is mostly human):
 ## Phase 8 — QA pyramid
 
 1. **Scripts:** heading_report + seam_report rerun clean; epubcheck green;
-   `compare_structure.py` clean.
+   a **coverage check** replacing the retired `compare_structure.py` (its 1:1
+   English-paragraph-to-Greek-block test is broken by design after Phase 1's
+   merges, and it points at the Hermes cache): new script reads `source/`
+   in-repo and verifies every Greek chapter is represented in the right book
+   and order — no paragraph-count parity.
 2. **Haiku, per book:** checklist — every heading titled and formatted; no
    paragraph starts lowercase; no `[` bracket-repeat pattern; quotes balanced;
    one lacuna convention; attribution line present in testimonia chapters.
