@@ -1,0 +1,382 @@
+{
+  "title": "Polybius: The Histories (Modern English Edition) Art Manifest",
+  "edition": "Modern English Translation",
+  "style": {
+    "medium": "19th-century archaeological copperplate engraving with restrained watercolour washes",
+    "palette": {
+      "parchment_ground": "#FAF6EC",
+      "iron_gall_ink": "#2B2117",
+      "oxblood_umber": "#5B3B2B",
+      "burnished_gold": "#D7BD82",
+      "muted_earth": "#7A6A55",
+      "dark_ground": "#1D1813",
+      "dark_ink_gold": "#D7BD82",
+      "dark_ink_cream": "#E8DDC8"
+    },
+    "license": "CC0 1.0 Universal Public Domain Dedication"
+  },
+  "flagships": {
+    "cover_front": {
+      "filename": "art/cover_front.png",
+      "title": "The Historian Between Two Worlds",
+      "aspect": "2:3",
+      "ref": "Front Cover",
+      "alt_text": "Polybius of Megalopolis stands upon an Aegean headland at dusk with papyrus scroll and bronze Arcadian helmet, his gaze directed between distant Greek temple ruins and approaching Roman warships.",
+      "caption": "Polybius of Megalopolis between the Greek and Roman worlds."
+    },
+    "cover_back": {
+      "filename": "art/cover_back.png",
+      "title": "Ionic Column Fragment and Scroll",
+      "aspect": "1:2.2",
+      "ref": "Back Cover",
+      "alt_text": "An antique engraving of a fluted Ionic column fragment embraced by an unrolled papyrus scroll, an olive branch, and a broken Roman pilum across its base against warm parchment.",
+      "caption": "Ionic column fragment with unrolled scroll, olive branch, and broken Roman spear."
+    },
+    "hero_day": {
+      "filename": "art/hero_day.png",
+      "title": "The Fifty-Three Years",
+      "aspect": "21:9",
+      "ref": "Website Hero Banner",
+      "alt_text": "A continuous engraved panoramic frieze chronicling Rome's rise across the Mediterranean, passing from quinqueremes boarding enemy galleys to Alpine elephant crossings, phalanxes, senatorial debates, and the burning of Carthage.",
+      "caption": "The Fifty-Three Years (264–146 BC): Rome's rise from regional Italian republic to Mediterranean master."
+    },
+    "hero_night": {
+      "filename": "art/hero_night.png",
+      "title": "The Fifty-Three Years (Night Variant)",
+      "aspect": "21:9",
+      "ref": "Website Hero Banner (Night Variant)",
+      "alt_text": "A panoramic night variant rendered in gold and cream engraving linework upon a deep umber background, depicting the historical sequence of Roman conquest across the Mediterranean basin.",
+      "caption": "The Fifty-Three Years: Night variant rendered in gold and cream engraving linework."
+    },
+    "og_default": {
+      "filename": "art/og_default.png",
+      "title": "Polybius at His Desk",
+      "aspect": "1.91:1",
+      "ref": "Social / Open Graph Card",
+      "alt_text": "An engraved portrait of the historian Polybius writing with a reed pen at a stone desk beside a terracotta oil lamp and astrolabe, with empty parchment space on the left.",
+      "caption": "Polybius of Megalopolis drafting his Histories."
+    },
+    "headpiece": {
+      "filename": "art/headpiece.png",
+      "title": "Greek Meander and Olive Wreath Headpiece",
+      "aspect": "4:1",
+      "ref": "Chapter Headpiece",
+      "alt_text": "A classical ornamental headpiece band featuring Greek meander borders and acanthus scrolls flanking a central roundel with an olive wreath encircling a crossed Macedonian sarissa and Roman pilum.",
+      "caption": "Greek meander ornamental headpiece with olive wreath, crossed Macedonian pike, and Roman javelin."
+    }
+  },
+  "books": [
+    {
+      "book": 1,
+      "filename": "art/book_01_plate.png",
+      "scene": "The corvus at Mylae",
+      "ref": "1.22–23",
+      "caption": "The Roman corvus boarding bridge in action at the Battle of Mylae (260 BC). Book I, 22–23.",
+      "alt_text": "A Roman quinquereme drops its spiked corvus boarding bridge across the deck of a Carthaginian galley, allowing legionaries with tall scuta to charge aboard amid splintered oars and sea spray."
+    },
+    {
+      "book": 2,
+      "filename": "art/book_02_plate.png",
+      "scene": "Telamon: Gauls caught between two Roman armies",
+      "ref": "2.27–31",
+      "caption": "The Battle of Telamon (225 BC): Celtic warriors surrounded by consular armies in Etruria. Book II, 27–31.",
+      "alt_text": "An aerial view of an Etruscan coastal valley where bare-chested Gaesatae warriors with gold torcs and raised carnyx trumpets form a double-fronted battle line against encircling Roman legions."
+    },
+    {
+      "book": 3,
+      "filename": "art/book_03_plate.png",
+      "scene": "Hannibal's army descends the Alps in snow",
+      "ref": "3.50–56",
+      "caption": "Hannibal pointing out the fertile plains of Italy to his exhausted army descending the snowbound Alps (218 BC). Book III, 50–56.",
+      "alt_text": "A Carthaginian military column with pack mules and gaunt African war elephants winds down a snow-covered Alpine precipice while Hannibal gestures toward the sunlit Italian plains far below."
+    },
+    {
+      "book": 4,
+      "filename": "art/book_04_plate.png",
+      "scene": "Byzantium and the Bosporus",
+      "ref": "4.38–45",
+      "caption": "Topographical view of Byzantium and the currents of the Bosporus. Book IV, 38–45.",
+      "alt_text": "A detailed topographical panorama of ancient Byzantium perched upon its promontory, where merchant galleys navigate the swirling currents of the Bosporus between Europe and the distant Asian shore."
+    },
+    {
+      "book": 5,
+      "filename": "art/book_05_plate.png",
+      "scene": "Raphia: African vs Indian elephants",
+      "ref": "5.82–86",
+      "caption": "The clash of African and Indian war elephants at the Battle of Raphia (217 BC). Book V, 82–86.",
+      "alt_text": "Towered Seleucid Indian war elephants collide in a desert dust storm with smaller Ptolemaic African forest elephants, whose trunks and tusks entangle while archers exchange fire from wooden towers."
+    },
+    {
+      "book": 6,
+      "filename": "art/book_06_plate.png",
+      "scene": "Roman funeral with ancestral masks",
+      "ref": "6.53–54",
+      "caption": "Actors wearing ancestral wax portrait masks (imagines) at a Roman aristocratic funeral in the Forum. Book VI, 53–54.",
+      "alt_text": "In the Republican Roman Forum, actors impersonating illustrious ancestors sit upon ivory curule chairs wearing realistic wax masks and purple-bordered togas, observed with reverence by a young citizen."
+    },
+    {
+      "book": 7,
+      "filename": "art/book_07_plate.png",
+      "scene": "The scaling of Sardis citadel",
+      "ref": "7.15–18",
+      "caption": "Lagoras and his commandos scaling the sheer rock of the citadel of Sardis (214 BC). Book VII, 15–18.",
+      "alt_text": "Under cover of dawn mist, a daring assault party climbs ladders up the supposedly impregnable cliff of Sardis beneath roosting vultures, while oblivious sentries pace the ramparts above."
+    },
+    {
+      "book": 8,
+      "filename": "art/book_08_plate.png",
+      "scene": "Archimedes' claw at Syracuse",
+      "ref": "8.5–8",
+      "caption": "Archimedes' mechanical grappling claw lifting a Roman warship from the sea at the siege of Syracuse (213–212 BC). Book VIII, 5–8.",
+      "alt_text": "A massive timber crane atop the sea wall of Syracuse hoists a Roman quinquereme upright out of the water by its prow, while Archimedes observes calmly from the battlements."
+    },
+    {
+      "book": 9,
+      "filename": "art/book_09_plate.png",
+      "scene": "Hannibal before the walls of Rome",
+      "ref": "9.5–7",
+      "caption": "Hannibal and the Carthaginian cavalry reconnoitring outside the Servian walls of Rome (211 BC). Book IX, 5–7.",
+      "alt_text": "Hannibal leads a vanguard of Numidian and Carthaginian horsemen along the imposing stone ramparts of Rome at sunset, observing the anxious citizens and defenders manning the Servian walls."
+    },
+    {
+      "book": 10,
+      "filename": "art/book_10_plate.png",
+      "scene": "Scipio wades the lagoon at New Carthage",
+      "ref": "10.8–15",
+      "caption": "Publius Cornelius Scipio directing the amphibious assault across the low-tide lagoon at New Carthage (209 BC). Book X, 8–15.",
+      "alt_text": "Roman legionaries carrying scaling ladders wade through the shallow saltwater lagoon at ebb tide toward an uncrested city wall, while the youthful Scipio directs operations from an elevated rise."
+    },
+    {
+      "book": 11,
+      "filename": "art/book_11_plate.png",
+      "scene": "Death of Hasdrubal at the Metaurus",
+      "ref": "11.1–3",
+      "caption": "The heroic death of Hasdrubal Barca, charging into the Roman ranks at the Battle of the Metaurus (207 BC). Book XI, 1–3.",
+      "alt_text": "On a riverbank strewn with fallen soldiers and wounded elephants, Hasdrubal Barca spurs his horse alone into the closing ranks of Roman legionaries, choosing a soldier's death over captivity."
+    },
+    {
+      "book": 12,
+      "filename": "art/book_12_plate.png",
+      "scene": "The historian's craft: Polybius vs Timaeus",
+      "ref": "12 passim",
+      "caption": "The contrast of historical methods: the library scholar Timaeus versus the eyewitness explorer Polybius. Book XII passim.",
+      "alt_text": "A split allegorical composition showing an ivory-tower historian reading scrolls by lamplight on the left, contrasted with Polybius interviewing an ancient veteran on a wind-swept battlefield on the right."
+    },
+    {
+      "book": 13,
+      "filename": "art/book_13_plate.png",
+      "scene": "Nabis and the mechanical \"Apega\"",
+      "ref": "13.7",
+      "caption": "The Spartan tyrant Nabis presenting his mechanical torture device constructed in the image of Queen Apega. Book XIII, 7.",
+      "alt_text": "Within a dim Spartan chamber, the tyrant Nabis reveals a life-sized mechanical automaton dressed in royal robes, its outstretched wooden arms concealing sharp iron spikes beneath lavish drapery."
+    },
+    {
+      "book": 14,
+      "filename": "art/book_14_plate.png",
+      "scene": "Night burning of Syphax's camps",
+      "ref": "14.4–5",
+      "caption": "The surprise night assault and burning of the Numidian and Carthaginian camps (203 BC). Book XIV, 4–5.",
+      "alt_text": "Flames devour the thatched huts of a vast North African encampment under a night sky, sending panic-stricken warriors fleeing into the surrounding darkness where armed Roman troops wait in silence."
+    },
+    {
+      "book": 15,
+      "filename": "art/book_15_plate.png",
+      "scene": "Zama: the elephant lanes",
+      "ref": "15.9–14",
+      "caption": "The Battle of Zama (202 BC): Roman maniples opening lanes to channel charging Carthaginian war elephants. Book XV, 9–14.",
+      "alt_text": "Roman infantry maniples open clear vertical lanes through their battle lines, allowing Carthaginian war elephants to plunge harmlessly through the gaps under a hail of javelins and sounding horns."
+    },
+    {
+      "book": 16,
+      "filename": "art/book_16_plate.png",
+      "scene": "The sea fight off Chios",
+      "ref": "16.2–7",
+      "caption": "The naval battle off Chios between Philip V of Macedon and the allied fleets of Rhodes and Pergamum (201 BC). Book XVI, 2–7.",
+      "alt_text": "Oared warships clash amidst churning waters off Chios as a sleek Rhodian quadrireme shears through enemy oars and King Attalus runs his royal flagship ashore to escape Macedonian pursuers."
+    },
+    {
+      "book": 17,
+      "filename": "art/book_17_plate.png",
+      "scene": "(lost) The empty scroll",
+      "ref": "—",
+      "caption": "Book XVII — Lost. Nothing of this book survives.",
+      "alt_text": "A melancholy archival still life of an unrolled papyrus scroll with a completely blank, aged surface crumbling into dust beside a single green olive branch on a weathered stone plinth."
+    },
+    {
+      "book": 18,
+      "filename": "art/book_18_plate.png",
+      "scene": "Freedom of the Greeks proclaimed at the Isthmus",
+      "ref": "18.46",
+      "caption": "Titus Quinctius Flamininus proclaiming the freedom of the Greeks at the Isthmian Games (196 BC). Book XVIII, 46.",
+      "alt_text": "A crowded Isthmian stadium erupts in ecstatic jubilation as thousands of Greeks leap up and shower garlands onto a herald and the young Roman general Flamininus upon a stone podium."
+    },
+    {
+      "book": 19,
+      "filename": "art/book_19_plate.png",
+      "scene": "(fragment) Shards and a torn scroll",
+      "ref": "19.1–2",
+      "caption": "Fragments of Book XIX: papyrus scraps and archaeological shards. Book XIX, 1–2.",
+      "alt_text": "An archival arrangement of three torn Greek papyrus fragments and a chipped red-figure pottery sherd bearing a painted elephant silhouette, resting upon warm parchment with fine engraved shadows."
+    },
+    {
+      "book": 20,
+      "filename": "art/book_20_plate.png",
+      "scene": "Antiochus's winter wedding at Chalcis",
+      "ref": "20.8",
+      "caption": "The luxurious winter wedding of Antiochus III at Chalcis while his army idles in quarters (192–191 BC). Book XX, 8.",
+      "alt_text": "Inside a festive colonnade on the Euboean coast, an elderly diademed King Antiochus feasts with his young bride while his idle soldiers drink around campfires outside by the cold winter sea."
+    },
+    {
+      "book": 21,
+      "filename": "art/book_21_plate.png",
+      "scene": "Smoking out the mines at Ambracia",
+      "ref": "21.28",
+      "caption": "The underground siege warfare at Ambracia: defenders smoking out Roman sappers with charcoal and feathers (189 BC). Book XXI, 28.",
+      "alt_text": "An architectural cutaway view beneath city walls showing Greek defenders using a bellows to blow thick, suffocating smoke from burning charcoal and feathers into a Roman subterranean assault tunnel."
+    },
+    {
+      "book": 22,
+      "filename": "art/book_22_plate.png",
+      "scene": "The Achaean League assembly",
+      "ref": "22.7–10",
+      "caption": "The federal assembly of the Achaean League in session before visiting Mediterranean embassies. Book XXII, 7–10.",
+      "alt_text": "Achaean delegates in woollen himatia sit on stone tiers in an open-air sanctuary as a statesman addresses the assembly, flanked by silent envoys from Rome, Pergamum, and Alexandria."
+    },
+    {
+      "book": 23,
+      "filename": "art/book_23_plate.png",
+      "scene": "Philopoemen's last night",
+      "ref": "23.12",
+      "caption": "The death of Philopoemen, 'the last of the Greeks', in the treasury dungeon of Messene (183 BC). Book XXIII, 12.",
+      "alt_text": "Chained within a dark underground stone vault, the venerable Achaean general Philopoemen calmly receives a cup of hemlock from a remorseful jailer beneath the flickering glow of a single oil lamp."
+    },
+    {
+      "book": 24,
+      "filename": "art/book_24_plate.png",
+      "scene": "Callicrates before the Senate",
+      "ref": "24.9",
+      "caption": "Callicrates of Leontion addressing the Roman Senate to urge Roman intervention in Greece (180 BC). Book XXIV, 9.",
+      "alt_text": "The persuasive Achaean diplomat Callicrates delivers an impassioned address before rows of seated Roman senators in togas inside the Curia, while an older Greek delegate watches from the shadows in despair."
+    },
+    {
+      "book": 25,
+      "filename": "art/book_25_plate.png",
+      "scene": "(fragment) Lycian envoys at Rome",
+      "ref": "25.4",
+      "caption": "Lycian envoys departing from their coastal tombs to plead their cause before Rome. Book XXV, 4.",
+      "alt_text": "Two cloaked Lycian ambassadors stand before monumental rock-cut cliff tombs overlooking the Mediterranean Sea, pausing in somber contemplation before embarking on their diplomatic mission to the Roman Senate."
+    },
+    {
+      "book": 26,
+      "filename": "art/book_26_plate.png",
+      "scene": "Antiochus \"Epimanes\" in the streets",
+      "ref": "26.1",
+      "caption": "King Antiochus IV Epiphanes wandering the streets of Antioch incognito in a candidate's toga. Book XXVI, 1.",
+      "alt_text": "A flamboyant King Antiochus IV wearing a Roman candidate's white toga over royal robes mingles with astonished citizens in a bustling Antioch market, tossing coins and bantering with common artisans."
+    },
+    {
+      "book": 27,
+      "filename": "art/book_27_plate.png",
+      "scene": "The cestros dart",
+      "ref": "27.11",
+      "caption": "The Macedonian cestros: a heavy catapult-dart launched from a sling during the Third Macedonian War (168 BC). Book XXVII, 11.",
+      "alt_text": "An engraved technical demonstration showing a Macedonian slinger whirling a two-thonged sling to launch the winged cestros dart, accompanied by an exploded anatomical diagram of the wooden shaft and iron point."
+    },
+    {
+      "book": 28,
+      "filename": "art/book_28_plate.png",
+      "scene": "Polybius speaks to the Achaeans",
+      "ref": "28.7",
+      "caption": "Polybius as Hipparch addressing the Achaean council in defense of moderate neutrality (169 BC). Book XXVIII, 7.",
+      "alt_text": "A thirty-year-old Polybius in his Achaean cavalry commander's cloak stands before an assembly of elder statesmen and a watchful Roman commissioner, arguing with measured conviction for diplomatic caution."
+    },
+    {
+      "book": 29,
+      "filename": "art/book_29_plate.png",
+      "scene": "Popilius draws the circle in the sand",
+      "ref": "29.27",
+      "caption": "Gaius Popilius Laenas drawing a circle around King Antiochus IV Epiphanes at Eleusis (168 BC). Book XXIX, 27.",
+      "alt_text": "In the dusty sand outside Alexandria, an unarmed Roman legate traces a circle around the armoured Seleucid king Antiochus IV with a vine staff, demanding a treaty decision before he steps out."
+    },
+    {
+      "book": 30,
+      "filename": "art/book_30_plate.png",
+      "scene": "The procession at Daphne",
+      "ref": "30.25–26",
+      "caption": "The opulent military and religious procession staged by Antiochus IV at Daphne near Antioch (166 BC). Book XXX, 25–26.",
+      "alt_text": "A magnificent royal pageant winds through the sacred laurel groves of Daphne, featuring silver-shielded phalangites, caparisoned elephants, gilded ceremonial chariots, and women casting perfume from golden urns."
+    },
+    {
+      "book": 31,
+      "filename": "art/book_31_plate.png",
+      "scene": "Demetrius slips away from Rome by night",
+      "ref": "31.12–15",
+      "caption": "Prince Demetrius escaping from Italy by night to claim the Seleucid throne, assisted by Polybius (162 BC). Book XXXI, 12–15.",
+      "alt_text": "By the pale light of a dockside lantern, the disguised Syrian prince Demetrius boards a waiting Carthaginian merchant ship at Ostia while Polybius observes discreetly from the moonlit harbor quay."
+    },
+    {
+      "book": 32,
+      "filename": "art/book_32_plate.png",
+      "scene": "Ariarathes' crown / Pergamum",
+      "ref": "32.1, 32.12",
+      "caption": "The restoration of King Ariarathes V of Cappadocia on the acropolis of Pergamum. Book XXXII, 1, 12.",
+      "alt_text": "Upon a towering terrace of the Pergamene acropolis overlooking the steep theatre and altar, King Attalus invests his ally Ariarathes with the royal diadem against a sweeping panoramic mountain horizon."
+    },
+    {
+      "book": 33,
+      "filename": "art/book_33_plate.png",
+      "scene": "The goat-milker and the sieve",
+      "ref": "33.21",
+      "caption": "The Greek proverb of the goat-milker and the sieve, symbolizing futile political labor. Book XXXIII, 21.",
+      "alt_text": "An engraved circular emblem vignette depicting an ancient fable where one foolish rustic vigorously milks a male goat while another kneels patiently below holding an open wicker sieve."
+    },
+    {
+      "book": 34,
+      "filename": "art/book_34_plate.png",
+      "scene": "Swordfish hunting at Scyllaeum",
+      "ref": "34.3",
+      "caption": "Harpooning swordfish in the treacherous currents of the Strait of Messina. Book XXXIV, 3.",
+      "alt_text": "In the dawn waters of the Strait of Messina, a lookout perched on a high sea crag signals to fishermen as a bowman braces with a barbed harpoon above a leaping swordfish."
+    },
+    {
+      "book": 35,
+      "filename": "art/book_35_plate.png",
+      "scene": "The \"fiery war\" in Celtiberia",
+      "ref": "35.1",
+      "caption": "The 'Fiery War' in Celtiberia: Spanish warriors resisting Roman legions in the mountain passes (153–151 BC). Book XXXV, 1.",
+      "alt_text": "Celtiberian warriors armed with curved falcatas and round shields ambush a Roman infantry column in a rocky mountain defile beneath a sky filled with smoke from burning hilltop citadels."
+    },
+    {
+      "book": 36,
+      "filename": "art/book_36_plate.png",
+      "scene": "Carthage surrenders its arms",
+      "ref": "36.4–7",
+      "caption": "The elders of Carthage surrendering their armour and catapults to the Roman consuls (149 BC). Book XXXVI, 4–7.",
+      "alt_text": "Outside the majestic walls of Carthage, long lines of wagons deposit thousands of bronze breastplates, shields, and catapults before seated Roman consuls, while bareheaded Punic magistrates stand in silent mourning."
+    },
+    {
+      "book": 37,
+      "filename": "art/book_37_plate.png",
+      "scene": "(fragment) Mouseion beneath Olympus",
+      "ref": "37.1",
+      "caption": "The sanctuary of the Muses at the foot of Mount Olympus. Book XXXVII, 1.",
+      "alt_text": "A serene classical landscape showing the snow-crowned peaks of Mount Olympus rising through ethereal clouds above an intimate Doric sanctuary and sacred laurel grove dedicated to the Muses."
+    },
+    {
+      "book": 38,
+      "filename": "art/book_38_plate.png",
+      "scene": "Scipio weeps over Carthage",
+      "ref": "38.22",
+      "caption": "Scipio Aemilianus weeping over the destruction of Carthage and quoting Homer to Polybius (146 BC). Book XXXVIII, 22.",
+      "alt_text": "Standing upon an overlooking hill at twilight, a grieving Scipio Aemilianus clasps the hand of his friend Polybius as smoke and flames consume the circular naval harbour and citadel of Carthage."
+    },
+    {
+      "book": 39,
+      "filename": "art/book_39_plate.png",
+      "scene": "Soldiers playing draughts on Corinth's paintings",
+      "ref": "39.2",
+      "caption": "Roman soldiers playing draughts upon discarded panel paintings after the sack of Corinth (146 BC). Book XXXIX, 2.",
+      "alt_text": "In a devastated courtyard beneath the scorched Acrocorinth, indifferent Roman legionaries sit on stone ruins playing draughts upon priceless Greek panel paintings laid flat in the dirt, while Polybius watches aghast."
+    }
+  ]
+}

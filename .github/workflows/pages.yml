@@ -20,6 +20,7 @@ jobs:
           mkdir -p site
           cp dist/polybius-the-histories-modern-english.html site/index.html
           cp dist/polybius-the-histories-modern-english.epub dist/polybius-the-histories-modern-english.pdf site/
+          if [ -d dist/art ]; then cp -r dist/art site/; elif [ -d art ]; then cp -r art site/; fi
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site
