@@ -60,25 +60,29 @@ Layers:
 Tags cut across layers for site filtering: `constitutional`, `military`,
 `historiographical`, `fortune`, `survival-story`.
 
-## Seed canon (curated 2026-10-31 — extend, don't re-derive)
+## Seed canon (curated 2026-10-31; trimmed 2026-11-01 — extend, don't re-derive)
+
+Selection rule (user, 2026-11-01): **A-list names and/or what a modern reader
+finds most interesting.** Scholars' scholars don't make the cut; a name a
+general reader recognizes, or a hook they'd repeat at dinner, does.
 
 ### readers layer
 | Annotator | Work (PD source) | Anchor in Polybius | The hook |
 |---|---|---|---|
-| Marcus Junius Brutus | Plutarch, *Brutus* 4 (Perrin or Dryden tr.) | 1.1 (site epigraph) | Epitomizing Polybius on the eve of Pharsalus |
+| Marcus Junius Brutus | Plutarch, *Brutus* 4 (Perrin or Dryden tr.) | 1.1 (site epigraph) | Epitomizing Polybius in his tent on the eve of Pharsalus |
 | Cicero | *De Re Publica* II (PD tr.); *De Officiis* III on Regulus | 6.3–18; 1.31–35 | Rome's mixed constitution, explicitly after Polybius; the Regulus story |
 | Dionysius of Halicarnassus | *De Compositione Verborum* 4 | 1.4 or colophon | The famous dig: among authors "no one reads to the end" — own it |
 | Livy | see parallels layer | — | — |
 | Constantine VII | *Excerpta* prefaces (tr. ours) | Book 7 headnote + survival layer | The emperor whose scissors saved the book |
 | Machiavelli | *Discourses* I.2 (Detmold 1882 tr.) | 6.3–10 | Anacyclosis lifted nearly whole |
-| Justus Lipsius | *De Militia Romana* (Latin, tr. ours, excerpts) | 6.19–42 | Built his Roman-army treatise on Book 6 |
-| Isaac Casaubon | 1609 edition preface (Latin, tr. ours, excerpts) | 1.1–1.4 | Classic case for why statesmen read Polybius |
-| Chevalier de Folard | *Commentaire* (French, tr. ours, excerpts) | 3.107–118 (Cannae); 11.21–24; 18.28–32 (legion vs phalanx) | The 18th century read Polybius through Folard |
 | Frederick the Great | preface to the Folard abridgment (tr. ours) | 3.107–118 | A king assigning Polybius homework |
 | Montesquieu | *Spirit of the Laws* XI; *Considérations* (PD tr.) | 6.11–18 | Separation of powers' Polybian ancestry |
 | John Adams | *Defence of the Constitutions* I (founders.archives.gov) | 6.3–18 | Quotes Book 6 at length; line to the U.S. Constitution |
 | Madison | *Federalist* 18 | 2.37–44 | The Achaean League argued into the Constitution |
-| Niebuhr / Mommsen | lectures / *History of Rome* (PD Eng. tr.) | 1.1; 12 (method) | 19th-c. verdicts, pro and con |
+
+Cut 2026-11-01 (scholarly interest only): Justus Lipsius, Isaac Casaubon,
+Chevalier de Folard (his commentary survives only as the thing Frederick
+prefaced), Niebuhr, Mommsen. Additions must clear the same bar.
 
 ### parallels layer
 - **Livy** is the backbone: Pol 3 ↔ Livy 21–22 (Hannibal, Alps, Cannae);
@@ -129,9 +133,8 @@ Haiku (does the Livy passage actually describe the same event — yes/no on
 provided excerpts).
 
 ### Phase A4 — Translation showpieces (Opus)
-Casaubon preface excerpts (Latin), Folard excerpts (French), Constantine
-excerpta prefaces (Greek), Lipsius excerpts (Latin), Frederick's preface
-(French), Mommsen if no PD English serves (German). These are the only
+Constantine excerpta prefaces (Greek) and Frederick's preface (French) — plus
+any reader whose PD English translation turns out unusable. These are the only
 newly-translated texts in the apparatus and will be read as showpieces —
 Opus, one excerpt per task, source text in the prompt, same register note as
 the main translation. Our translations are CC0 like everything else.
@@ -146,8 +149,8 @@ drafts, user reads — it's a marquee page). Büttner-Wobst apparatus questions
 Validators green; Haiku sweeps every annotation: quote matches source slice,
 anchor chapter actually relates (yes/no), lede under 5 sentences, tags from
 the allowed set. Final: Opus (or Fable if quota allows) reads the 10 showpiece
-annotations end-to-end — Brutus, Constantine headnote, Machiavelli, Casaubon,
-Folard-at-Cannae, Adams, Federalist 18, Marcellus/Archimedes, Appian/38.22,
+annotations end-to-end — Brutus, Constantine headnote, Machiavelli, Cicero,
+Frederick-at-Cannae, Adams, Federalist 18, Marcellus/Archimedes, Appian/38.22,
 Dionysius' dig.
 
 ## Model routing summary
@@ -162,7 +165,6 @@ Dionysius' dig.
 | A6 | QA | script + Haiku + one Opus/Fable sample |
 
 ## Open items for the user
-- Approve/trim the seed canon (anything you'd cut or add — e.g., keep or drop
-  Niebuhr/Mommsen).
+- ~~Approve/trim the seed canon~~ — done 2026-11-01 (A-list / modern-interest rule).
 - Site UX decision eventually: margin layer-toggles vs. per-chapter endnotes
   (affects only `ann_build.py` output shape, not collection).
