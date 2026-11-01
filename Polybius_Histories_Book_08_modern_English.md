@@ -472,7 +472,7 @@ Whatever is still in the future always seems better than what is present.
 
 *Quoted by Suidas, Lexicon.*
 
-When these troubles fell upon Tarentum and Thurii, the mass of the people grew indignant.
+When news of this reached Tarentum and Thurii, the mass of the people grew indignant.
 
 At first the conspirators set out from the city under the pretext of a raid, and when they came near Hannibal’s camp by night, the others sat down and waited in a wooded place by the road, while Philemenus and Nicon went on to the camp.
 

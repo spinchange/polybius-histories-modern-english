@@ -186,7 +186,7 @@ For though he was constantly drawn away from Macedonia by the war against the Ae
 
 And it would not be possible to speak adequately of the affection and eagerness shown toward him by Alexander, Chrysogonus, and his other friends.
 
-The same may be said of the Peloponnesians and Boeotians, and likewise of the Epirotes and Acarnanians [...] and of how many benefits he was in a short time the cause to each of them.
+As for the goodwill of the Peloponnesians and Boeotians, and with them of the Epirotes and Acarnanians [...] and how many benefits he was in a short time the cause to each of them.
 
 Indeed, if one may put it somewhat boldly, I think this description suited Philip very well: by the beneficence of his policy he became something like the common darling of the Greeks.
 

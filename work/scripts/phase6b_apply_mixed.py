@@ -19,7 +19,7 @@ def q(src, n=0):
 # (book, chapter, paragraph prefix, line)
 ITEMS = [
     (8, "22", "Yet this Cauarus the Gaul", q(A)),
-    (8, "24", "When these troubles fell upon Tarentum", q(SU)),
+    (8, "24", "When news of this reached Tarentum", q(SU)),
     (8, "37", "He counted the courses of stone", q(SU)),
     (8, "37", "None of the citizens realized", q(SU, 1)),
     (9, "9", "Atella is a city of the Opici", q(ST)),
