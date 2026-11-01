@@ -262,7 +262,7 @@ Demetrius, meanwhile, was intent on the arrival of the man who was to be sent to
 
 ## Book 31 Chapter 16: Artaxias Spared at Ariarathes’ Urging
 
-Artaxias wanted to recover [text missing]; but at Ariarathes’ urging he did not do so, and instead treated the man with greater honor than before. So great is the power that belongs to justice by its very nature, and so great too are the judgments and counsels of good men, that they often save not only friends but even enemies and change their characters for the better.
+Artaxias wanted to recover [...]; but at Ariarathes’ urging he did not do so, and instead treated the man with greater honor than before. So great is the power that belongs to justice by its very nature, and so great too are the judgments and counsels of good men, that they often save not only friends but even enemies and change their characters for the better.
 
 Beauty is a stronger recommendation than any letter of introduction.
 
@@ -514,7 +514,7 @@ His brother wanted to give gladiatorial games in honor of their father, but was 
 
 And the total expense is not less than thirty talents, if a man puts on the show magnificently.
 
-[text missing] while the report of his character was spreading abroad, his mother died.
+[...] while the report of his character was spreading abroad, his mother died.
 
 He was so far from reclaiming anything that he had previously given her, about which I have just spoken, that he handed over both those gifts and all the rest of his mother’s property to his sisters, although by law none of it belonged to them.
 

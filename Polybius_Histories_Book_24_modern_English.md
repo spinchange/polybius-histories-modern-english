@@ -236,11 +236,9 @@ There Ariarathes, king of the Cappadocians, joined them with his own forces, and
 
 Just as they had encamped, news came that Roman envoys had arrived to negotiate a settlement.
 
-When king Eumenes heard this, he sent Attalus to receive them, while he himself doubled his forces and carefully put them in order, both to meet the actual demands of the campaign and because he wished to show the Romans that he was capable, by his own power, of defending himself against Pharnaces—
-
 ## Book 24 Chapter 15: Peace Talks with Pharnaces Fail
 
-—and of defeating him in war. When the envoys arrived and urged that the war be ended, Eumenes and Ariarathes said that they were ready for anything asked of them, but they requested the Romans, if possible, to bring them together in conference with Pharnaces, so that by hearing the arguments face to face they might see more fully his faithlessness and cruelty.
+When king Eumenes heard this, he sent Attalus to receive them, while he himself doubled his forces and carefully put them in order, both to meet the actual demands of the campaign and because he wished to show the Romans that he was capable, by his own power, of defending himself against Pharnaces and of defeating him in war. When the envoys arrived and urged that the war be ended, Eumenes and Ariarathes said that they were ready for anything asked of them, but they requested the Romans, if possible, to bring them together in conference with Pharnaces, so that by hearing the arguments face to face they might see more fully his faithlessness and cruelty.
 
 If that was not possible, they asked the Romans themselves to act as fair and impartial judges of the dispute.
 

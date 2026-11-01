@@ -434,11 +434,9 @@ Rather, they borrowed fifty-oared vessels and triremes from the Tarentines and L
 
 On that occasion, when the Carthaginians put out against them in the strait, one of their decked ships, in its eagerness, pressed too far forward and ran aground, so that it fell into the hands of the Romans; using this ship as a model, they then built their entire fleet on that pattern.
 
-So that, had this not happened, it is plain that through their inexperience they would in the end have been prevented [...]
-
 ## Book 1 Chapter 21: Gn. Cornelius Scipio Asina Surrenders
 
-[...] from carrying out their plan. Nevertheless, those whose task was the shipbuilding went on with the construction of the vessels, while others gathered the crews and trained them to row on land in the following way: they seated the men on rowing benches on dry ground, in the same arrangement as the seats aboard the actual ships, and, stationing the boatswain in their midst, accustomed them all to lean back together as they drew their hands toward themselves, and to swing forward again as they thrust their hands out, and to begin and end these movements at the boatswain’s commands. Once these preparations had been made, as soon as the ships were finished they launched them, and after practicing for a short while in real conditions at sea, they sailed along the coast of Italy in accordance with the consul’s order.
+So that, had this not happened, it is plain that through their inexperience they would in the end have been prevented from carrying out their plan. Nevertheless, those whose task was the shipbuilding went on with the construction of the vessels, while others gathered the crews and trained them to row on land in the following way: they seated the men on rowing benches on dry ground, in the same arrangement as the seats aboard the actual ships, and, stationing the boatswain in their midst, accustomed them all to lean back together as they drew their hands toward themselves, and to swing forward again as they thrust their hands out, and to begin and end these movements at the boatswain’s commands. Once these preparations had been made, as soon as the ships were finished they launched them, and after practicing for a short while in real conditions at sea, they sailed along the coast of Italy in accordance with the consul’s order.
 
 For Gnaeus Cornelius, who had been put in charge of the Roman naval force, a few days earlier had instructed the ship captains that, as soon as they had fitted out the fleet, they should sail toward the strait; he himself had put to sea with seventeen ships and sailed ahead to Messene, eager to make ready for the fleet the things urgently needed.
 
@@ -478,11 +476,9 @@ Once the “ravens” had bitten into the planks of the decks and lashed the shi
 
 The leading pair shielded their front by holding their shields before them, while those who followed protected the flanks by resting the rims of their shields on the railing.
 
-Having made use of such a preparation, [the Romans watched for the right moment to fight at sea.]
-
 ## Book 1 Chapter 23: Operations in Sicily
 
-they watched for the right moment to fight at sea. As for Gaius Duilius, as soon as he learned of the misfortune that had overtaken the commander of the naval forces, he handed over the land legions to the military tribunes and crossed over himself to join the fleet.
+Having made use of such a preparation, they watched for the right moment to fight at sea. As for Gaius Duilius, as soon as he learned of the misfortune that had overtaken the commander of the naval forces, he handed over the land legions to the military tribunes and crossed over himself to join the fleet.
 
 Learning that the enemy was ravaging the territory of Mylae, he sailed against them with his whole fleet.
 
@@ -822,15 +818,13 @@ The Romans, at the beginning of summer, launched three hundred and fifty vessels
 
 Falling in with the Carthaginian fleet off Hermaeum, they routed it easily at the first charge and captured a hundred and fourteen ships together with their crews.
 
-Then, taking aboard the young men who had held out in Libya, from Aspis [...]
-
 ## Book 1 Chapter 37: The Roman Fleet Wrecked
 
-they sailed back once more toward Sicily. They crossed the strait safely, but on reaching the territory of Camarina they were caught in so great a storm and so great a disaster that one could not even describe it adequately, so far did the catastrophe surpass all bounds.
+Then, taking aboard the young men who had held out in Libya, from Aspis they sailed back once more toward Sicily. They crossed the strait safely, but on reaching the territory of Camarina they were caught in so great a storm and so great a disaster that one could not even describe it adequately, so far did the catastrophe surpass all bounds.
 
 For out of their three hundred and sixty-four ships, only eighty survived; of the rest, some went down beneath the waves, while others, dashed by the surf against the reefs and headlands, were broken to pieces, filling the shore with corpses and wreckage.
 
-No greater catastrophe at sea, occurring all at once, is even recorded in history. The blame for it must be laid not so much on fortune as on the commanders.
+No greater catastrophe at sea, occurring all at once, is even recorded in history. The blame for it must be laid not so much on Fortune as on the commanders.
 
 For although the pilots had repeatedly protested against sailing along the outer coast of Sicily, the side facing the Libyan sea, because it was rough and offered no safe anchorage, and because, too, one spell of stormy weather had not yet ended while another was coming on—for they were making the voyage between the rising of Orion and that of the Dog Star—the commanders heeded none of these warnings and sailed out into the open sea, eager to overawe some of the cities along the coast by the impression of their recent success and so to win them over.
 
@@ -864,11 +858,9 @@ Throwing up siege-works at two points and making the other preparations, they br
 
 When the tower by the sea easily fell and the soldiers forced their way in there, what is called the New Town was taken by storm; and the so-called Old Town, endangered by this, was quickly surrendered by its inhabitants.
 
-Having made themselves masters of the place, they sailed back to Rome, [...]
-
 ## Book 1 Chapter 39: The Carthaginians Prosperous
 
-leaving a garrison in the city. After this, when summer came on, the newly appointed magistrates Gnaeus Servilius and Gaius Sempronius put to sea with the whole fleet, crossed to Sicily, and set out from there for Libya.
+Having made themselves masters of the place, they sailed back to Rome, leaving a garrison in the city. After this, when summer came on, the newly appointed magistrates Gnaeus Servilius and Gaius Sempronius put to sea with the whole fleet, crossed to Sicily, and set out from there for Libya.
 
 Coasting along the country, they made very many landings, but accomplished nothing worth mentioning in any of them, and came to the island of the Lotus-eaters, which is called Mēninx and lies not far from the Lesser Syrtis.
 
@@ -1044,11 +1036,9 @@ But the Rhodian made his departure openly and so far outdid the enemy in both da
 
 And when none of them dared to put out against him, because of the speed of his rowing, he sailed away, having with a single ship defied the entire enemy fleet.
 
-From then on he did the same thing many times over and proved of great service: he kept the Carthaginians constantly informed of urgent matters, kept up the spirits of the besieged, and dismayed the Romans [...]
-
 ## Book 1 Chapter 47: The Rhodian is Captured
 
-by his recklessness. What contributed most to his boldness was that, from experience, he had carefully marked out the entrance by means of the shoals.
+From then on he did the same thing many times over and proved of great service: he kept the Carthaginians constantly informed of urgent matters, kept up the spirits of the besieged, and dismayed the Romans by his recklessness. What contributed most to his boldness was that, from experience, he had carefully marked out the entrance by means of the shoals.
 
 For after crossing the open sea and coming into view, he would take his bearings from the Italian side and bring the tower by the sea onto his bow in such a way that it covered all the towers of the city facing toward Libya—and this is the only way it is possible, with a following wind, to aim accurately at the mouth of the entrance channel.
 
@@ -1280,11 +1270,9 @@ Such, then, was the situation at Eryx and among the land forces. The two states 
 
 Such birds, when through exhaustion they have often lost the use of their wings yet hold on by sheer spirit, keep dealing out blows until at last, by chance closing with each other, they seize one another at a vital moment, and once this happens it falls out that one of the two drops first.
 
-So too the Romans and Carthaginians, worn out by their labors through the unbroken succession of dangers, were utterly past feeling, their strength sapped and their resolve undone—
-
 ## Book 1 Chapter 59: The Romans Once More Build a Fleet
 
-—by the long years of taxes and expenses. The Romans were fighting on with the same desperate spirit. For nearly five years now they had entirely withdrawn from operations at sea, both because of their reverses there and because they had become convinced they would decide the war by their land forces alone.
+So too the Romans and Carthaginians, worn out by their labors through the unbroken succession of dangers, were utterly past feeling, their strength sapped and their resolve undone by the long years of taxes and expenses. The Romans were fighting on with the same desperate spirit. For nearly five years now they had entirely withdrawn from operations at sea, both because of their reverses there and because they had become convinced they would decide the war by their land forces alone.
 
 But seeing now that the matter was not going forward as they had reckoned—chiefly because of the daring of the Carthaginian commander—they resolved for a third time to stake their hopes on naval power, believing that by this plan, if they seized the right moment for the attempt, they could in this way alone bring the war to a successful close. And so in the end they did.
 
@@ -1322,11 +1310,9 @@ But he reasoned that if he risked battle while the storm held, he would be fight
 
 He therefore decided not to let the present opportunity slip; and seeing the enemy’s ships running under sail, he put out in haste.
 
-His crews, with their fine physical condition, rode the swell with ease, and he quickly drew up his fleet in a single line, prow facing—
-
 ## Book 1 Chapter 61: The Battle of Aegusa
 
-—the enemy. The Carthaginians, seeing that the Romans were blocking their crossing, lowered their masts and, after each ship’s company had exhorted one another, closed with their opponents.
+His crews, with their fine physical condition, rode the swell with ease, and he quickly drew up his fleet in a single line, prow facing the enemy. The Carthaginians, seeing that the Romans were blocking their crossing, lowered their masts and, after each ship’s company had exhorted one another, closed with their opponents.
 
 Since the state of preparation on each side was the exact opposite of what it had been in the sea-battle off Drepana, the outcome of the fight for each side naturally turned out the opposite as well.
 
@@ -1380,11 +1366,9 @@ So that those who marvel at the sea-battles and fleets of Antigonus, Ptolemy, an
 
 And if one cared to weigh the difference in size between quinqueremes and the triremes with which the Persians fought the Greeks, and again the Athenians and Spartans fought one another, one would find that nowhere in all history have such great forces contended at sea.
 
-From this it is clear—as I proposed at the outset—that it was not by chance, as some of the Greeks suppose, nor by accident, but with very good reason that the Romans, having trained themselves in such great affairs, not only set their hands boldly to the rule and dominion of the whole world, but also—
-
 ## Book 1 Chapter 64: Why Rome is No Longer a Naval Power
 
-[...] they achieved their purpose. And here one might naturally be puzzled as to the reason why, now that they have mastered the whole world and possess a superiority many times greater than before, they would be unable either to man so many ships or to put to sea with such great fleets as they once did.
+From this it is clear—as I proposed at the outset—that it was not by chance, as some of the Greeks suppose, nor by accident, but with very good reason that the Romans, having trained themselves in such great affairs, not only set their hands boldly to the rule and dominion of the whole world, but also achieved their purpose. And here one might naturally be puzzled as to the reason why, now that they have mastered the whole world and possess a superiority many times greater than before, they would be unable either to man so many ships or to put to sea with such great fleets as they once did.
 
 The causes of this puzzle, however, will be clearly understood once we come to the account of their constitution—a subject that we must not treat as a mere aside, nor one to which our listeners should give only idle attention.
 
@@ -1436,11 +1420,9 @@ The mercenaries, gathered together at Sicca and having for a long time enjoyed r
 
 And, in their idleness, some of them began to reckon up the wages owed them at an inflated figure, and, totaling it at many times what was actually due, declared that this was what they should demand from the Carthaginians.
 
-And all of them, recalling the promises their generals had made to encourage them in moments of crisis, conceived high hopes and great expectations of the redress that was coming to them [...]
-
 ## Book 1 Chapter 67: The Beginning of the Outbreak
 
-[...] of the redress they expected. So, as soon as they had all assembled at Sicca, and Hanno—who was then the Carthaginian general in Libya—arrived and, far from fulfilling their hopes and the promises made to them, spoke instead of the weight of the tribute and the general financial straits of the city, and tried to get them to forgo even part of the wages acknowledged to be owed them, at once dissension and faction arose, and continual gatherings took place, sometimes by nationality, sometimes of them all together.
+And all of them, recalling the promises their generals had made to encourage them in moments of crisis, conceived high hopes and great expectations of the redress that was coming to them. So, as soon as they had all assembled at Sicca, and Hanno—who was then the Carthaginian general in Libya—arrived and, far from fulfilling their hopes and the promises made to them, spoke instead of the weight of the tribute and the general financial straits of the city, and tried to get them to forgo even part of the wages acknowledged to be owed them, at once dissension and faction arose, and continual gatherings took place, sometimes by nationality, sometimes of them all together.
 
 And since they were neither of one race nor of one tongue, the camp was full of disorder, uproar, and what is called sheer confusion.
 
@@ -1482,11 +1464,11 @@ Even so, with the Carthaginians promising everything in their power, the men agr
 
 Now toward Hamilcar Barcas, alongside whom they had shared the dangers in Sicily, they were ill-disposed, since they thought it was largely because of him that they were being slighted—because he neither came to them as an envoy nor, as it seemed, had voluntarily laid down his command.
 
-But toward Gesco they were very kindly inclined, since he had been a general in Sicily and had taken every possible care for them in other matters and especially in their transport home. So they referred to him the matter of the [...]
+But toward Gesco they were very kindly inclined, since he had been a general in Sicily and had taken every possible care for them in other matters and especially in their transport home.
 
 ## Book 1 Chapter 69: Mathōs and Spendius
 
-[...] disputed points. He came by sea with the money and put in at Tunes; and at first he met with the officers, and afterward gathered the men together by nationality.
+So they referred to him the matter of the disputed points. He came by sea with the money and put in at Tunes; and at first he met with the officers, and afterward gathered the men together by nationality.
 
 In part he rebuked them for what had happened, in part he tried to instruct them about the present situation; but most of all he appealed to them regarding the future, asking them to remain well-disposed toward those who had been their paymasters from the start.
 
@@ -1510,11 +1492,9 @@ And the only word they all understood in common was this—“throw”—because
 
 So whenever anyone began to shout “throw,” it came so swiftly and from all sides at once that no one who had once stepped forward could escape.
 
-And so, since for this reason no one any longer dared to offer advice, they appointed for themselves [...]
-
 ## Book 1 Chapter 70: Gesco and His Staff Arrested
 
-[...] as their generals Mathōs and Spendius. Gesco saw the whole disorder and turmoil, but, valuing above all the interest of his country and recognizing that, if these men were driven to savagery, the Carthaginians would clearly be in danger of losing everything, he persisted and held firm, sometimes taking their leaders in hand, sometimes gathering the men by nationality and appealing to them.
+And so, since for this reason no one any longer dared to offer advice, they appointed for themselves as their generals Mathōs and Spendius. Gesco saw the whole disorder and turmoil, but, valuing above all the interest of his country and recognizing that, if these men were driven to savagery, the Carthaginians would clearly be in danger of losing everything, he persisted and held firm, sometimes taking their leaders in hand, sometimes gathering the men by nationality and appealing to them.
 
 However, the Libyans had not yet received their grain allowances, and, believing that these ought to have been paid to them, they came up insolently; and Gesco, wishing to rebuke their impudence, told them to go and ask their general Mathōs for it.
 
@@ -1546,11 +1526,9 @@ On top of this, they had no abundance of weapons, no naval force, and no fleet i
 
 So it was then that they came to understand clearly how great a difference there is between a foreign war fought across the sea and an internal uprising and upheaval.
 
-And they themselves, more than anyone, had been the cause of such great evils [...]
-
 ## Book 1 Chapter 72: Revolt in the Country
 
-[...] and of such grievous troubles. For during the previous war, supposing that they had reasonable grounds for it, they had governed the people of Libya with great harshness.
+And they themselves, more than anyone, had been the cause of such great evils. For during the previous war, supposing that they had reasonable grounds for it, they had governed the people of Libya with great harshness.
 
 They had taken half of all the other crops, doubled the tribute imposed on the towns from what it had been before, and granted no pardon or consideration whatever to those in difficulty in any of these exactions.
 
@@ -1576,11 +1554,9 @@ For Carthage itself lies in a gulf, projecting outward like a peninsula by its s
 
 The isthmus that joins it to Libya is about twenty-five stades wide. On the side of this isthmus that faces the open sea, and at no great distance, lies the city of Utica; on the other side, beside the lake, lies Tunes.
 
-Encamping at both of these points, the mercenaries had now cut the Carthaginians off from the countryside and went on to lay plans against the city itself, approaching the wall sometimes by day and sometimes by night, and throwing those inside into utter fear and confusion [...]
-
 ## Book 1 Chapter 74: Failures of Hanno
 
-[...] they struck panic into those within. As for Hanno, he was capable enough when it came to preparations, for he had a natural talent for this side of things; but once he set out with his army he was a different man, for he made poor use of his opportunities and handled affairs as a whole with inexperience and sluggishness.
+Encamping at both of these points, the mercenaries had now cut the Carthaginians off from the countryside and went on to lay plans against the city itself, approaching the wall sometimes by day and sometimes by night, and throwing those inside into utter fear and confusion. As for Hanno, he was capable enough when it came to preparations, for he had a natural talent for this side of things; but once he set out with his army he was a different man, for he made poor use of his opportunities and handled affairs as a whole with inexperience and sluggishness.
 
 Thus, when he first marched to the relief of the besieged at Utica and struck terror into the enemy with the multitude of his beasts—for he had no fewer than a hundred elephants—and then, having gained the beginning of a decisive advantage, he made such bad use of it that he came close to destroying the besieged as well.
 
@@ -1618,11 +1594,9 @@ He had observed that at the river’s mouth, where it discharges into the sea, t
 
 When the moment presented itself, he set out by night and, unobserved by anyone, brought his force across the place just mentioned by daybreak.
 
-The maneuver came as a complete surprise both to those in the city and to the enemy; and Hamilcar advanced across the plain, making his way toward those [...]
-
 ## Book 1 Chapter 76: Hamilcar Barcas Defeats Spendius
 
-[...] who were guarding the bridge. When Spendius and his men realized what had happened, they came out into the plain and moved to support one another: those from the town at the bridge numbered no fewer than ten thousand, and those from Utica more than fifteen thousand.
+The maneuver came as a complete surprise both to those in the city and to the enemy; and Hamilcar advanced across the plain, making his way toward those who were guarding the bridge. When Spendius and his men realized what had happened, they came out into the plain and moved to support one another: those from the town at the bridge numbered no fewer than ten thousand, and those from Utica more than fifteen thousand.
 
 When they came within sight of one another, supposing that they had caught the Carthaginians between them, they eagerly passed the word along, urging each other on, and engaged the enemy.
 
@@ -1656,11 +1630,9 @@ For the remaining part of their original body had deserted to the Romans during 
 
 When Hamilcar had encamped in a certain plain enclosed on every side by mountains, it happened that at this very moment the reinforcements from the Numidians and Libyans linked up with Spendius’s force.
 
-And so the Carthaginians suddenly found the Libyans encamped in front of them, the Numidians at their rear, and Spendius’s men on their flank, which threw them into great difficulty [...]
-
 ## Book 1 Chapter 78: Narávas Joins Hamilcar
 
-[...] the situation closed in around them and became difficult to escape. At this very time there was a man named Narávas, one of the most distinguished Numidians and full of warlike energy. He had always been well disposed toward the Carthaginians, having an inherited bond of friendship with them, and at this moment he was all the more spurred on by his admiration for Hamilcar the general.
+And so the Carthaginians suddenly found the Libyans encamped in front of them, the Numidians at their rear, and Spendius’s men on their flank, which threw them into great difficulty and left them hard to escape. At this very time there was a man named Narávas, one of the most distinguished Numidians and full of warlike energy. He had always been well disposed toward the Carthaginians, having an inherited bond of friendship with them, and at this moment he was all the more spurred on by his admiration for Hamilcar the general.
 
 He therefore reckoned that he had a favorable opportunity to make contact with him and form an alliance, and he came to the camp with about a hundred Numidians around him.
 
@@ -1714,11 +1686,9 @@ For, he said, it was not out of any wish to spare their lives that Hamilcar had 
 
 In addition, he advised them to take care that, by letting Gesco and his men go, they did not earn the contempt of their enemies and do grave harm to their own cause—by allowing such a man and so capable a general to escape, one who was likely to become their most formidable enemy.
 
-While he was still saying this, another letter-carrier arrived, supposedly sent by the men at Tunes [...]
-
 ## Book 1 Chapter 80: The Murder of Gesco
 
-[...] bringing a message similar to the one from Sardinia. Following up on this, Autaritus the Gaul declared that there was only one path to safety for their cause: to give up entirely every hope that rested on the Carthaginians.
+While he was still saying this, another letter-carrier arrived, supposedly sent by the men at Tunes bringing a message similar to the one from Sardinia. Following up on this, Autaritus the Gaul declared that there was only one path to safety for their cause: to give up entirely every hope that rested on the Carthaginians.
 
 As long as anyone clung to the prospect of the Carthaginians’ kindness, he said, that man could not become a genuine ally to them.
 
@@ -1794,11 +1764,9 @@ Barcas, meanwhile, took on the general Hannibal—for the citizens had sent this
 
 And so Hamilcar, with Hannibal and Narávas, advanced through the country, cutting off the supply lines of Mathos and Spendius—in this and in everything else receiving the greatest service from Narávas the Numidian.
 
-Such, then, was the situation of the forces in the field [...]
-
 ## Book 1 Chapter 83: Hippo and Utica Join the Rebels
 
-[...] this was their state. The Carthaginians, hemmed in on every side, were compelled to fall back on their hopes from the cities allied with them.
+Such, then, was the situation of the forces in the field. The Carthaginians, hemmed in on every side, were compelled to fall back on their hopes from the cities allied with them.
 
 Now Hiero, throughout the present war, had always shown great zeal in everything they asked of him, and at this point he was even more eager, convinced that it was in his own interest—both for his sovereignty in Sicily and for his friendship with Rome—that the Carthaginians should survive, so that the dominant power should not be left entirely free to accomplish its purpose without resistance. His reasoning was thoroughly shrewd and sensible.
 
@@ -1818,11 +1786,9 @@ For this reason they permitted their merchants to export to the Carthaginians wh
 
 And later, when the mercenaries in Sardinia—at the time they revolted from Carthage—tried to draw the Romans onto the island, they did not respond; and when the people of Utica offered to put themselves under Roman control, they did not accept them, keeping faith with the terms of the treaty.
 
-The Carthaginians, then, receiving the support of the friends mentioned above, held out against the [...]
-
 ## Book 1 Chapter 84: Hamilcar’s Tactical Superiority
 
-[...] siege. But Mathos and Spendius found themselves no less besieged than besieging.
+The Carthaginians, then, receiving the support of the friends mentioned above, held out against the siege. But Mathos and Spendius found themselves no less besieged than besieging.
 
 For Hamilcar reduced them to such a shortage of provisions that in the end they were forced to break off the siege.
 

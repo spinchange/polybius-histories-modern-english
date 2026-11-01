@@ -1,0 +1,16 @@
+[
+{"book":7,"chapter":"11","class":"EXCERPT","author":"","work":"","evidence":"[Exc. Peir. p. 13.] (Plutarch, Arat. 49-50 is only a crib cross-reference)"},
+{"book":8,"chapter":"22","class":"UNKNOWN","author":"","work":"","evidence":"mixed sources: [Exc. Peir. p. 26.] paragraph plus 'Πολύβιος. ἐν ὀγδόῃ ἱστοριῶν, Καύαρος, φησίν' [Athenaeus VI, 60 p. 252c.]"},
+{"book":9,"chapter":"27","class":"UNKNOWN","author":"","work":"","evidence":"mixed: verbatim Agrigentum description, then lexicon-style notices 'Πολύβιος δὲ τὸν ποταμὸν καὶ τὴν πόλιν ... ὠνομάσθαι' and 'Ἀγάθυρνα, πόλις Σικελίας, ὡς Πολύβιος ἀνάτῃ' (no lexicographer named), then the Marcus narrative; crib cites only Livy cross-references"},
+{"book":11,"chapter":"18a","class":"EXCERPT","author":"","work":"","evidence":"anonymous excerpt frame 'ὅτι φησὶν ὁ Πολύβιος'; no later author named in Greek or crib"},
+{"book":13,"chapter":"5","class":"EXCERPT","author":"","work":"","evidence":"verbatim excerpt pieces separated by '—'; crib 'Diodor. fr. xxviii.' and 'Polyaen. 5, 17, 2.' are explanatory footnotes, not the source of this text"},
+{"book":16,"chapter":"14","class":"EXCERPT","author":"","work":"","evidence":"anonymous excerpt frame 'ὅτι φησὶ Πολύβιος', then first-person Polybius text; no later author named"},
+{"book":18,"chapter":"41","class":"EXCERPT","author":"","work":"","evidence":"anonymous excerpt frame 'ὅτι φησὶν ὁ Πολύβιος ἐν τῷ ιη# λόγῳ'; crib cites only 'Livy, 33, 21' as a cross-reference"},
+{"book":21,"chapter":"31","class":"EXCERPT","author":"","work":"","evidence":"verbatim Polybian narrative; 'According to Suidas, Damis was a philosopher' is a crib note on a name, not the source of this text"},
+{"book":22,"chapter":"19","class":"EXCERPT","author":"","work":"","evidence":"anonymous excerpt 'ὅτι Φιλοποίμην ...' with 'φησὶν ὁ Πολύβιος' frame; no later author named"},
+{"book":23,"chapter":"15","class":"EXCERPT","author":"","work":"","evidence":"anonymous excerpt 'ὅτι οὐ καλὸν ... φησὶ γὰρ ὁ Πολύβιος'; no later author named"},
+{"book":29,"chapter":"15","class":"QUOTATION","author":"Plutarch","work":"Life of Aemilius Paullus","evidence":"crib footnote: 'From Plutarch, who again contradicts this last statement, on the authority of Nasica'; Greek: 'τούτοις ὁ μὲν Πολύβιος φησιν ἔτι κοιμωμένοις ἐπιπεσεῖν τοὺς Ῥωμαίους, ὁ δὲ Νασικᾶς ὀξὺν ἀγῶνα ... γενέσθαι' (work not named in source; the Greek is Plut. Aem. 16)"},
+{"book":30,"chapter":"14","class":"EXCERPT","author":"","work":"","evidence":"single 'ὅτι τῆς αὐτῆς ψυχῆς ἐστιν ...' sentence; crib 'From Athenaeus, xiv. 4, p. 615' refers to the crib's different anecdote (Anicius' triumph), not this Greek"},
+{"book":31,"chapter":"4","class":"EXCERPT","author":"","work":"","evidence":"'ὅτι Ῥόδιοι διαπεπνευκότες ...' (Rhodian embassy, Calynda); crib's Athenaeus/Diodorus parallel-columns note belongs to the crib's different passage (Antiochus' festival), not this Greek"},
+{"book":39,"chapter":"2","class":"UNKNOWN","author":"","work":"","evidence":"Greek is a later author's report ('Πολύβιος δὲ ... προστίθησι ... φησὶ γὰρ ἰδεῖν παρὼν') but no author is named in Greek or crib; crib is a different chapter ('Digressions in History')"}
+]

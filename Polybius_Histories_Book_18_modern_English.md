@@ -570,11 +570,9 @@ For if it stays on the ground suited to itself, it cannot help its friends—ind
 
 The convoys of its supplies will easily be cut off by the enemy, who hold the open country unopposed; while if it leaves its own ground in order to take some action, it will be easy prey for the enemy.
 
-And further, even if a general does come down into level ground, but does not commit his whole army at once to a single charge of the phalanx and one decisive moment, but holds back from battle even briefly at the very moment of the engagement, it is easy to foresee what will follow from what [...]
-
 ## Book 18 Chapter 32: How the Romans Fight Against a Phalanx
 
-the Romans now do. For there is no longer any need to judge what I am saying by argument; it can be judged from what has already happened.
+And further, even if a general does come down into level ground, but does not commit his whole army at once to a single charge of the phalanx and one decisive moment, but holds back from battle even briefly at the very moment of the engagement, it is easy to foresee what will follow from what the Romans now do. For there is no longer any need to judge what I am saying by argument; it can be judged from what has already happened.
 
 The Romans do not make their line equal in length to the enemy’s and then engage all their forces at once, front to front, against the phalanxes. Instead, part of their forces is held in reserve, while part closes with the enemy.
 
@@ -908,11 +906,11 @@ For Lucius Cornelius demanded that Antiochus withdraw from all the cities subjec
 
 He further urged him to keep his hands off the autonomous cities.
 
-And in general he said he was astonished on what grounds Antiochus had made his crossing into Europe with such great land forces and such great naval forces; for, apart from the supposition that he intended to attack the Romans, no other explanation remained to anyone who reasoned correctly. With these words the Romans [...]
+And in general he said he was astonished on what grounds Antiochus had made his crossing into Europe with such great land forces and such great naval forces; for, apart from the supposition that he intended to attack the Romans, no other explanation remained to anyone who reasoned correctly.
 
 ## Book 18 Chapter 51: The King’s Reply
 
-finished speaking. The king began his reply by saying that, first of all, he was at a loss to understand on what grounds they were disputing with him over the cities of Asia; for it befitted anyone in the world rather than the Romans to do so.
+With these words the Romans finished speaking. The king began his reply by saying that, first of all, he was at a loss to understand on what grounds they were disputing with him over the cities of Asia; for it befitted anyone in the world rather than the Romans to do so.
 
 Secondly, he asked that they not meddle at all in the affairs of Asia, since he, for his part, did not in the slightest interfere with the affairs of Italy.
 

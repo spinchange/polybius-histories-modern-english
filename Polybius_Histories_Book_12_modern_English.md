@@ -52,11 +52,9 @@ For in mentioning that island in his second book, he says that there are in it m
 
 But on the island in question there is not so much as a wild goat or ox—nor even a hare, a wolf, a deer, or any other animal of the kind—except foxes, rabbits, and wild sheep.
 
-The rabbit, seen from a distance, looks like a small hare, but when one takes it in hand it shows a great difference both in appearance and in taste; and it lives, for the [...]
-
 ## Book 12 Chapter 4: The Errors of Timaeus
 
-greater part, underground. All the animals on the island, however, do seem to be wild, for the following reason.
+The rabbit, seen from a distance, looks like a small hare, but when one takes it in hand it shows a great difference both in appearance and in taste; and it lives, for the greater part, underground. All the animals on the island, however, do seem to be wild, for the following reason.
 
 The herdsmen cannot follow alongside their flocks at pasture, because the island is wooded, precipitous, and rugged; but whenever they wish to gather them, they take their stand at convenient spots and call the animals together with a trumpet, and every one of them runs unfailingly to its own trumpet.
 
@@ -98,11 +96,9 @@ For either Ephorus must have surpassed even Coroebus and Margites in stupidity, 
 
 Moreover, in his account of Pyrrhus he says again that the Romans, even now, keep up a memorial of the destruction at Ilium: on a certain day they spear to death a warhorse in front of the city, in the place called the Campus, because the capture of Troy came about through the horse known as the Wooden Horse—a thing more childish than anything.
 
-For at that rate one would have to say that all barbarians are descendants of the Trojans; since nearly all of them, or if not all, at least the majority, whenever they are about to begin a war or to stake everything in a decisive battle against some enemy, sacrifice a horse beforehand and slaughter it for omens, reading the future [...]
-
 ## Book 12 Chapter 4c: Why Timaeus Fails at Inquiry
 
-from the way the animal falls. As for Timaeus, in this matter of irrationality he seems to me to display not only inexperience but, even more, the great pretentiousness of a late and shallow learner, since, just because they sacrifice a horse, he immediately supposed that they do so because Troy is thought to have been captured by means of a horse.
+For at that rate one would have to say that all barbarians are descendants of the Trojans; since nearly all of them, or if not all, at least the majority, whenever they are about to begin a war or to stake everything in a decisive battle against some enemy, sacrifice a horse beforehand and slaughter it for omens, reading the future from the way the animal falls. As for Timaeus, in this matter of irrationality he seems to me to display not only inexperience but, even more, the great pretentiousness of a late and shallow learner, since, just because they sacrifice a horse, he immediately supposed that they do so because Troy is thought to have been captured by means of a horse.
 
 But that he has given a poor account both of the affairs of Libya and of those of Sardinia, and most of all of those concerning Italy, is evident from these instances; and in general that the part of his work dealing with inquiry and the gathering of evidence has been utterly slovenly with him—though this is the most essential part of history.
 
@@ -156,11 +152,9 @@ This, then, is the story told among the Locrians.
 
 From these considerations one would, on reflection, side with Aristotle rather than with Timaeus; and indeed what follows in Timaeus is utterly absurd.
 
-For to suppose, as he suggests, that it was not likely that the servants of those who had fought as allies of the Spartans should transfer their masters’ goodwill to their masters’ friends—that is naïve; for not only the friendships, but also the ties of hospitality and the kinships of their masters, are what former slaves, when they have unexpectedly prospered and time has gone by, try to claim for themselves and to renew, even more than their own natural connections, since by this very means they are eager to wipe out the diminished standing and the disrepute that formerly attached to them, preferring to appear [...]
-
 ## Book 12 Chapter 6b: Locrian Wives and Spartan Customs
 
-descendants of their masters rather than freedmen. And this is most likely to have happened in the case of the Locrians; for, having moved far away from those who knew the facts and having taken time as their accomplice, they were not so foolish as to pursue practices by which they would only renew the memory of their own shortcomings, rather than, on the contrary, the practices by which they would cover them up.
+For to suppose, as he suggests, that it was not likely that the servants of those who had fought as allies of the Spartans should transfer their masters’ goodwill to their masters’ friends—that is naïve; for not only the friendships, but also the ties of hospitality and the kinships of their masters, are what former slaves, when they have unexpectedly prospered and time has gone by, try to claim for themselves and to renew, even more than their own natural connections, since by this very means they are eager to wipe out the diminished standing and the disrepute that formerly attached to them, preferring to appear descendants of their masters rather than freedmen. And this is most likely to have happened in the case of the Locrians; for, having moved far away from those who knew the facts and having taken time as their accomplice, they were not so foolish as to pursue practices by which they would only renew the memory of their own shortcomings, rather than, on the contrary, the practices by which they would cover them up.
 
 That is why they reasonably gave the city its name from the women, and claimed kinship through the women, and furthermore kept renewing the ancestral friendships and alliances that came down through the women.
 
@@ -226,11 +220,9 @@ By passing over all this, he plainly shows that he is conscious of having lied o
 
 For he is the man who rested his case, by name, on the authority of Echecrates, with whom he says he held his conversation about the Locrians in Italy, and from whom he says he learned these things; and who took the further trouble, so as not to appear to have heard them from some chance informant, of adding that this man’s father had earlier been thought worthy of an embassy by Dionysius.
 
-Would such a man, then, surely, had he laid hold of a public record or an ancestrally transmitted inscribed pillar—
-
 ## Book 12 Chapter 11: Timaeus’s Use of Chronological Records
 
-—have passed it over in silence? For this is the very man who draws up his comparative tables, tracing the line of the ephors back to its origins and setting them against the kings at Lacedaemon and the archons at Athens, and matching the priestesses at Argos against the Olympic victors, and who convicts the cities of error in these records when they show a discrepancy of as little as three months—this is he.
+Would such a man, then, surely, had he laid hold of a public record or an ancestrally transmitted inscribed pillar, have passed it over in silence? For this is the very man who draws up his comparative tables, tracing the line of the ephors back to its origins and setting them against the kings at Lacedaemon and the archons at Athens, and matching the priestesses at Argos against the Olympic victors, and who convicts the cities of error in these records when they show a discrepancy of as little as three months—this is he.
 
 And indeed it is Timaeus who hunted out the inscribed pillars in the rear chambers of the temples and the records of guest-friendship on the doorposts of the shrines.
 
@@ -278,11 +270,9 @@ Against Demetrius that man (Demochares) leveled no ordinary accusation in his hi
 
 For Demetrius, he says, used to boast that many goods were sold cheaply throughout the city and that there was abundance of the necessities of life for everyone—on these things he prided himself; and Demochares relates that a snail moving by itself led Demetrius’s procession, spitting out spittle, and that along with it asses were paraded through the theater—the point being that the country, having surrendered to others all the fair distinctions of Greece, was doing whatever Cassander commanded—and that Demetrius was not ashamed of these things.
 
-But all the same, neither Demetrius nor anyone else ever said [...]
-
 ## Book 12 Chapter 14: No Place in History for Abusive Language
 
-anything of the kind about Demochares. And so I, holding the testimony of his own country to be more reliable than the bitterness of Timaeus, confidently declare that the life of Demochares is liable to none of these accusations.
+But all the same, neither Demetrius nor anyone else ever said anything of the kind about Demochares. And so I, holding the testimony of his own country to be more reliable than the bitterness of Timaeus, confidently declare that the life of Demochares is liable to none of these accusations.
 
 And even if some such disgrace had truly attached to Demochares, what occasion or what circumstance compelled Timaeus to enter these matters into his history?
 
@@ -476,7 +466,7 @@ For in his twenty-first book, and at the very end of it, in the exhortation of T
 
 That Timaeus could have said such a thing no one would believe—no, not even of that proverbial Margites.
 
-For who is so ignorant, I do not say among those who have applied themselves to written records, [...] [the text breaks off]
+For who is so ignorant, I do not say among those who have applied themselves to written records, [...]
 
 ## Book 12 Chapter 25a: Timaeus’s Invented Speeches
 
@@ -618,11 +608,9 @@ From all this Timaeus would seem to fall short not only of practical ability, bu
 
 For everyone surely thinks that proofs ought to be brought forward of things unknown and things disbelieved by the hearers, whereas about matters already known it is the most pointless and most childish thing of all to keep contriving arguments [...] than what is already known.
 
-But this man, apart from his whole blunder in directing the greater part of his speech toward things that need no argument at all, has also used assumptions of such a kind that no one could believe Hermocrates used them—the man who fought alongside the Spartans in the sea-battle at Aegospotami, and who with all their crews subdued the forces of the Athenians and their generals in Sicily—nor indeed any boy [...]
-
 ## Book 12 Chapter 26: Sophistical Commonplaces
 
-[...] any chance youth? For he, first of all, thinks he ought to remind the delegates that those who sleep at dawn are roused in war by trumpets, but in peacetime by the birds.
+But this man, apart from his whole blunder in directing the greater part of his speech toward things that need no argument at all, has also used assumptions of such a kind that no one could believe Hermocrates used them—the man who fought alongside the Spartans in the sea-battle at Aegospotami, and who with all their crews subdued the forces of the Athenians and their generals in Sicily—nor indeed any chance youth? For he, first of all, thinks he ought to remind the delegates that those who sleep at dawn are roused in war by trumpets, but in peacetime by the birds.
 
 After this he says that Heracles established the Olympic games and the truce that goes with them as a demonstration of his own principle, and that, although he harmed all those against whom he made war, he did so under necessity and by another’s command, and was never willingly the cause of harm to any man.
 
@@ -726,11 +714,9 @@ And that he is of this character it is easy to demonstrate from Timaeus’ own a
 
 For in the preface to his sixth book he says that some people suppose that the genre of display oratory requires greater natural talent, industry, and preparation than that of history, and that these opinions had earlier been brought against Ephorus; and since that writer had been unable to answer adequately those who said such things, he himself attempts to set history side by side with display oratory in a comparison—doing the most absurd thing of all, first in misrepresenting that writer. For Ephorus, admirable throughout his whole work in his style, in his treatment, and in the conception of his material, is at his most masterly in his digressions and in the maxims he contributes of his own—in short, whenever he sets out some supplementary observation; and, as it happens, it is on this very subject—the comparison of historians with speech-writers—that he has spoken most agreeably and most persuasively.
 
-But Timaeus, so as not to seem to be following Ephorus, on top of misrepresenting him has at the same time condemned the rest as well: for, expounding at length, obscurely, and in every way worse the matters that had been properly handled by others, none of the [...]
-
 ## Book 12 Chapter 28a: Timaeus on the Dignity of History
 
-[...] of living men he supposed he would be able to observe this. All the same, in his eagerness to exalt the writing of history, he says first that the difference between history and rhetorical display-pieces is as great as the difference between buildings really constructed and furnished and the scenes and settings that merely appear in stage-paintings.
+But Timaeus, so as not to seem to be following Ephorus, on top of misrepresenting him has at the same time condemned the rest as well: for, expounding at length, obscurely, and in every way worse the matters that had been properly handled by others, he supposed that none of the living would be able to observe this. All the same, in his eagerness to exalt the writing of history, he says first that the difference between history and rhetorical display-pieces is as great as the difference between buildings really constructed and furnished and the scenes and settings that merely appear in stage-paintings.
 
 Second, he says that the mere gathering of the materials for history is a greater task than the whole business of composing display-pieces.
 

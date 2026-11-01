@@ -40,11 +40,9 @@ But when the time for the annual elections drew near, and a new general had to b
 
 But some objected to what he said—above all those who were standing for the office—and urged the assembly not to settle the matter in advance, but to leave it open, so that fortune might bestow this crown on whomever it chose.
 
-In the end the Aetolians decided that whoever was appointed general and captured the city should share with his predecessor both the management [...]
-
 ## Book 2 Chapter 3: The Illyrians Relieve Medion
 
-of the spoils and the inscribing of the arms. This had been resolved, and on the very next day the election and the transfer of office were due to take place, as is the custom among the Aetolians, when during the night a hundred boats sailed up to the territory of Medion, to the places nearest the city, carrying five thousand Illyrians.
+In the end the Aetolians decided that whoever was appointed general and captured the city should share with his predecessor both the management of the spoils and the inscribing of the arms. This had been resolved, and on the very next day the election and the transfer of office were due to take place, as is the custom among the Aetolians, when during the night a hundred boats sailed up to the territory of Medion, to the places nearest the city, carrying five thousand Illyrians.
 
 They put in to shore, and when day came they made their landing swiftly and unobserved, and forming up in the order customary among them, advanced in companies against the Aetolian camp.
 
@@ -58,11 +56,9 @@ Then, charging down from the high ground against the troops drawn up on the plai
 
 They killed many of them and took even more prisoners, and they captured all their arms and baggage.
 
-So the Illyrians, having carried out their king’s orders and brought the baggage and the rest of the plunder down to their boats, at once put to sea, setting [...]
-
 ## Book 2 Chapter 4: Death of Agron of Illyria
 
-their course for home. The Medionians, having won an unexpected deliverance, gathered in assembly and deliberated on their affairs in general and, in particular, on the inscribing of the arms.
+So the Illyrians, having carried out their king’s orders and brought the baggage and the rest of the plunder down to their boats, at once put to sea, setting their course for home. The Medionians, having won an unexpected deliverance, gathered in assembly and deliberated on their affairs in general and, in particular, on the inscribing of the arms.
 
 They resolved to make the inscription a joint one, naming both the man who had held the office of Aetolian general and those who were standing for it for the coming year, in accordance with the Aetolians’ own decree— as though Fortune were deliberately demonstrating her power to the rest of mankind through what had happened to these men.
 
@@ -182,11 +178,9 @@ The Illyrian commanders then put to sea in haste, joined the squadron that had s
 
 At this turn of events the Corcyraeans, hard-pressed and despairing of their whole situation, sent envoys to the Achaeans and the Aetolians—and along with them the Apollonians and Epidamnians did the same—begging them to come to their aid quickly and not to stand by while they were driven from their homes by the Illyrians.
 
-The Achaeans and Aetolians, having heard the envoys and granted their plea, jointly manned the ten decked ships of the Achaeans, and within a few days had them fitted out and sailed for Corcyra, [...]
-
 ## Book 2 Chapter 10: Illyrian Victories
 
-hoping to break the siege. But the Illyrians, having taken on seven decked ships supplied by the Acarnanians under the terms of their alliance, put out to meet them and engaged the Achaean vessels off the islands called Paxi.
+The Achaeans and Aetolians, having heard the envoys and granted their plea, jointly manned the ten decked ships of the Achaeans, and within a few days had them fitted out and sailed for Corcyra, hoping to break the siege. But the Illyrians, having taken on seven decked ships supplied by the Acarnanians under the terms of their alliance, put out to meet them and engaged the Achaean vessels off the islands called Paxi.
 
 Now the Acarnanians, and the Achaean ships posted opposite them, kept the fight even and came through the clashes unscathed, apart from wounds among the men themselves.
 
@@ -292,11 +286,9 @@ The overall shape, and that of the line enclosing these plains, is likewise tria
 
 As for its sides: along the northern one, as I said above, the Alps themselves extend for two thousand two hundred stades, while along the southern one the Apennines extend for three thousand six hundred.
 
-The seaboard of the Adriatic gulf serves as the base of the whole figure: the length of this base, from the city of Sena to the head of the gulf, is more than two thousand five hundred stades, so that the entire perimeter of the plains just described comes to little short of [...]
-
 ## Book 2 Chapter 15: Grain Production in Cisalpine Gaul
 
-[...] of the ten thousand stades. As for the fertility of the land, it is not even easy to put into words. Grain is so abundant in these regions that in our own day the Sicilian medimnus of wheat has often gone for four obols, of barley for two, and the metretes of wine for the same price as the barley.
+The seaboard of the Adriatic gulf serves as the base of the whole figure: the length of this base, from the city of Sena to the head of the gulf, is more than two thousand five hundred stades, so that the entire perimeter of the plains just described comes to little short of ten thousand stades. As for the fertility of the land, it is not even easy to put into words. Grain is so abundant in these regions that in our own day the Sicilian medimnus of wheat has often gone for four obols, of barley for two, and the metretes of wine for the same price as the barley.
 
 There is, moreover, an utterly overwhelming abundance of panic-grass and millet among them. And as for the quantity of acorns produced by the oak woods scattered at intervals across the plains, one may best judge it from this: although a very great number of pigs are slaughtered in Italy, both for private households and for the provisioning of the armies, by far the fullest supply of them comes from these plains.
 
@@ -310,11 +302,9 @@ On each of the two flanks of the Alps—the one inclining toward the river Rhone
 
 The Transalpine are so named not from a difference of race but from a difference of location: for “trans,” translated, means “beyond”; and so they call those who live on the far side of the Alps the Transalpine.
 
-The peaks, both because of their ruggedness and because of the great depth of the [snow] [...]
-
 ## Book 2 Chapter 16: Rivers and Mountains in Northern Italy
 
-[...] of the snow that lies there always, [the peaks] are utterly uninhabitable. The Apennine, from its beginning above Massalia and its junction with the Alps, is inhabited by the Ligurians—both the flank of it inclining toward the Tyrrhenian Sea and the flank toward the plains— along the sea as far as the city of Pisa, which lies first in Etruria toward the west, and inland as far as the territory of the Arretini.
+The peaks, both because of their ruggedness and because of the great depth of the snow that lies there always, are utterly uninhabitable. The Apennine, from its beginning above Massalia and its junction with the Alps, is inhabited by the Ligurians—both the flank of it inclining toward the Tyrrhenian Sea and the flank toward the plains— along the sea as far as the city of Pisa, which lies first in Etruria toward the west, and inland as far as the territory of the Arretini.
 
 Next come the Etruscans; and continuous with these, on both slopes of the mountains just mentioned, dwell the Umbrians.
 
@@ -568,11 +558,9 @@ He himself, having opportunely spotted a hill lying above the road, beneath whic
 
 The Gauls at first, unaware of the presence of Atilius’s force and supposing from what was happening that Aemilius’s cavalry had marched around during the night and were seizing the positions ahead of them, immediately sent out their own cavalry and some of the light troops to contest the ground about the hill.
 
-But on quickly learning of Gaius’s presence from one of the prisoners who had been brought in, they hastily drew up their infantry, forming them up to face both ways at once—both to the rear and to the front; for they knew that one army was following them, while they expected to meet another head-on, judging both from the reports reaching them and from what was [...]
-
 ## Book 2 Chapter 28: The Gauls Defeated On Their Way Home
 
-happening at that very moment. Aemilius’s men, who had heard of the legions’ landing at Pisae but did not yet expect them to be drawing near, now recognized clearly, from the struggle around the hill, that their own forces had come quite close.
+But on quickly learning of Gaius’s presence from one of the prisoners who had been brought in, they hastily drew up their infantry, forming them up to face both ways at once—both to the rear and to the front; for they knew that one army was following them, while they expected to meet another head-on, judging both from the reports reaching them and from what was happening at that very moment. Aemilius’s men, who had heard of the legions’ landing at Pisae but did not yet expect them to be drawing near, now recognized clearly, from the struggle around the hill, that their own forces had come quite close.
 
 Therefore they at once sent out the cavalry to help those fighting it out on the hill, while they themselves, arranging the infantry in the customary order, advanced against the enemy.
 
@@ -606,11 +594,9 @@ Terrifying too were the appearance and the gestures of the naked warriors who st
 
 And all those who held the foremost companies were adorned with gold torques and armlets.
 
-At the sight of all this the Romans were on the one hand dismayed, but on the other, drawn on by the hope of profit, they were spurred on twice as keenly toward the [...]
-
 ## Book 2 Chapter 30: Great Slaughter of the Gauls
 
-danger. But as soon as the javelin-throwers advanced in front of the Roman legions, in keeping with their custom, and let fly with vigorous and densely massed volleys of missiles, the Gauls in the rear ranks found their cloaks and trousers of great use to them; but for the naked men standing in front, the outcome turned out contrary to their expectation, and what happened caused them great difficulty and helplessness.
+At the sight of all this the Romans were on the one hand dismayed, but on the other, drawn on by the hope of profit, they were spurred on twice as keenly toward the danger. But as soon as the javelin-throwers advanced in front of the Roman legions, in keeping with their custom, and let fly with vigorous and densely massed volleys of missiles, the Gauls in the rear ranks found their cloaks and trousers of great use to them; but for the naked men standing in front, the outcome turned out contrary to their expectation, and what happened caused them great difficulty and helplessness.
 
 For since the Gallic shield could not cover the whole man, the more the bodies were exposed and the larger they were, the more readily the missiles found their mark.
 
@@ -642,11 +628,9 @@ So this, the most formidable Gallic onslaught, was destroyed in this manner—an
 
 Emboldened by this success, the Romans came to hope that they would be able to drive the Gauls out of the regions around the Po altogether. They therefore sent out both of the consuls appointed for the following year, Quintus Fulvius and Titus Manlius, together with their forces and large-scale preparations, against the Gauls.
 
-These consuls, by terrifying the Boii in a sudden assault, forced them to put themselves under Rome’s protection; but for the remainder of the campaign, with extraordinary rainstorms setting in, and on top of that an outbreak of plague befalling them, [...]
-
 ## Book 2 Chapter 32: Victory Over the Insubres
 
-they accomplished nothing in the end. After these men, Publius Furius and Gaius Flaminius were appointed and once again invaded Gallic territory, marching through the country of the Anares, who happen to live not far from Massalia.
+These consuls, by terrifying the Boii in a sudden assault, forced them to put themselves under Rome’s protection; but for the remainder of the campaign, with extraordinary rainstorms setting in, and on top of that an outbreak of plague befalling them, they accomplished nothing in the end. After these men, Publius Furius and Gaius Flaminius were appointed and once again invaded Gallic territory, marching through the country of the Anares, who happen to live not far from Massalia.
 
 Having won this people over to friendship, they crossed into the land of the Insubres at the confluence of the rivers Adua and Po.
 
@@ -706,11 +690,11 @@ Gnaeus followed close on their heels and made a sudden assault on Mediolanum; at
 
 The Romans, obeying their general, fought stoutly against those pressing on them.
 
-The Gauls, on account of their present success, held their ground confidently for a while, but before long they were routed and fled to the foothills. Gnaeus pursued them, ravaged the countryside, and [...]
+The Gauls, on account of their present success, held their ground confidently for a while, but before long they were routed and fled to the foothills.
 
 ## Book 2 Chapter 35: Character of the Gauls
 
-took Mediolanum by storm. When this happened, the chiefs of the Insubres, despairing of any hope of safety, surrendered everything they had to the Romans.
+Gnaeus pursued them, ravaged the countryside, and took Mediolanum by storm. When this happened, the chiefs of the Insubres, despairing of any hope of safety, surrendered everything they had to the Romans.
 
 Such, then, was the outcome of the war against the Gauls. In terms of the desperate fury and daring of the men who fought it, and further in terms of the battles and the number of those killed and engaged in them, it was inferior to none recorded in history; but in terms of strategic planning and the lack of judgment in the conduct of its individual stages, it was utterly contemptible—because not the greater part, but absolutely everything the Gauls did was governed by passion rather than by reason.
 
@@ -792,11 +776,11 @@ Later, when the Spartans had suffered their unexpected defeat at the battle of L
 
 Nevertheless, in their dispute the Thebans and the Spartans entrusted the points at issue to the Achaeans alone of all the Greeks—not with any regard to their power, for at that time they had perhaps the smallest power of any people in Greece, but chiefly out of regard for their good faith and their general integrity. For that was, by common consent, the reputation everyone then held of them.
 
-At that period, then, these qualities of principle existed among them only in bare form; but no achievement or notable action tending to the growth of their own power came about, because they were unable to produce a leader worthy of their principles. Whenever someone gave promise of it, he was overshadowed and held back, at one time by the dominance of the Spartans, at another, still more, by [...]
+At that period, then, these qualities of principle existed among them only in bare form; but no achievement or notable action tending to the growth of their own power came about, because they were unable to produce a leader worthy of their principles.
 
 ## Book 2 Chapter 40: Unification of the Peloponnese
 
-that of the Macedonians. But when at last, in due time, the nation found leaders of sufficient worth, it quickly made its own power manifest by accomplishing that most glorious of works—the concord of the Peloponnesians.
+Whenever someone gave promise of it, he was overshadowed and held back, at one time by the dominance of the Spartans, at another, still more, by that of the Macedonians. But when at last, in due time, the nation found leaders of sufficient worth, it quickly made its own power manifest by accomplishing that most glorious of works—the concord of the Peloponnesians.
 
 As the originator and prime mover of the whole undertaking we must reckon Aratus of Sicyon; as the champion who carried the work through to completion, Philopoemen of Megalopolis; and as the man who secured its lasting permanence for a time, Lycortas and those who shared his policy.
 
@@ -860,11 +844,9 @@ These events took place in the year before the defeat of the Carthaginians, the 
 
 Having advanced his design so greatly in so short a time, Aratus thereafter continued as leader of the Achaean nation, directing all his plans and actions toward a single goal: namely, to expel the Macedonians from the Peloponnese, to abolish the autocracies, and to secure for each people the common freedom their ancestors had enjoyed.
 
-So long as Antigonus Gonatas lived, then, Aratus persisted in opposing both that king’s meddling and the rapacity of the Aetolians, handling each matter with practical skill—even though the two of them had advanced so far in injustice and reckless daring that they made a formal compact with each other for [...]
-
 ## Book 2 Chapter 44: The Death of Demetrius
 
-the dismemberment of the Achaean nation. But when Antigonus died, the Achaeans came to terms and made an alliance with the Aetolians, who joined them honorably in the war against Demetrius; and so, for the time being, the estrangement and ill will were set aside, and a sense of partnership and friendship grew up between them.
+So long as Antigonus Gonatas lived, then, Aratus persisted in opposing both that king’s meddling and the rapacity of the Aetolians, handling each matter with practical skill—even though the two of them had advanced so far in injustice and reckless daring that they made a formal compact with each other for the dismemberment of the Achaean nation. But when Antigonus died, the Achaeans came to terms and made an alliance with the Aetolians, who joined them honorably in the war against Demetrius; and so, for the time being, the estrangement and ill will were set aside, and a sense of partnership and friendship grew up between them.
 
 When Demetrius, after a reign of only ten years, died at about the time of the Romans’ first crossing into Illyria, events flowed favorably toward the Achaeans’ original design.
 
@@ -900,11 +882,9 @@ Seeing all this, Aratus—and likewise all the leaders of the Achaean state—de
 
 At first, then, they held to this view; but as time went on, when they saw Cleomenes boldly building the fort called the Athenaeum in the territory of Megalopolis and openly revealing himself as their bitter enemy, then at last they convened the Achaeans and resolved, together with the council, to take up open hostility against the Spartans.
 
-This, then, was how the war called the Cleomenic War began, and at about these [...]
-
 ## Book 2 Chapter 47: The Cleomenic War
 
-times. At first the Achaeans set out to face the Spartans with their own forces, partly because they thought it most honorable not to obtain their safety through others, but to preserve their cities and territory by themselves, and partly because they wished to maintain their friendship with Ptolemy, on account of the benefits he had bestowed earlier, and not to appear to be reaching out to others for help.
+This, then, was how the war called the Cleomenic War began, and at about these times. At first the Achaeans set out to face the Spartans with their own forces, partly because they thought it most honorable not to obtain their safety through others, but to preserve their cities and territory by themselves, and partly because they wished to maintain their friendship with Ptolemy, on account of the benefits he had bestowed earlier, and not to appear to be reaching out to others for help.
 
 But when the war had gone on for some time, and Cleomenes had abolished his country’s ancestral constitution and converted its lawful kingship into a tyranny, and was waging the war with energy and reckless daring, Aratus, foreseeing what was to come and fearing the desperate audacity of the Aetolians, decided that he must spoil their plan well in advance.
 
@@ -936,11 +916,9 @@ So the Megalopolitans appointed Nicophanes and Cercidas themselves as envoys to 
 
 The Achaeans gave the Megalopolitans permission to send the embassy.
 
-Nicophanes and his colleagues hastened to meet the king, and concerning their own city they spoke only of the essentials, briefly and in summary; but most of what they said, following Aratus’s instructions, concerned [...]
-
 ## Book 2 Chapter 49: The Message to Antigonus Doson from Aratus
 
-the broader situation, in accordance with his directions. These were: to point out what the collaboration between the Aetolians and Cleomenes amounted to and where it was heading, and to make clear that the Achaeans themselves had primarily to be on their guard, but next—and even more so—Antigonus.
+Nicophanes and his colleagues hastened to meet the king, and concerning their own city they spoke only of the essentials, briefly and in summary; but most of what they said, following Aratus’s instructions, concerned the broader situation, in accordance with his directions. These were: to point out what the collaboration between the Aetolians and Cleomenes amounted to and where it was heading, and to make clear that the Achaeans themselves had primarily to be on their guard, but next—and even more so—Antigonus.
 
 For one thing, it was plain to everyone that the Achaeans could not withstand a war from both sides at once; and for another, that if the Aetolians and Cleomenes prevailed over the Achaeans, they would not rest content nor stop at the present situation—and this was even easier for a sensible man to see than the first point.
 
@@ -970,11 +948,9 @@ For he was anxious that, should the king come, defeat Cleomenes and the Spartans
 
 Therefore, as soon as the Megalopolitans came before the common council, displayed the letters to the Achaeans, made clear the king’s full goodwill, and on top of this asked them to secure Antigonus’s alliance as quickly as possible—and as the assembly too was of the same inclination—
 
-Aratus came forward, welcomed the king’s eagerness and praised the disposition of the majority, but then in a lengthy speech urged them above all to try to preserve their cities and their territory by their own efforts: for nothing, he said, was more honorable or more advantageous than this; and only if fortune turned against them in this effort, he said, should they—after first exhausting every hope that lay within themselves—then [...]
-
 ## Book 2 Chapter 51: The Achaeans Must Appeal to Antigonus
 
-fall back on the assistance of their friends. The assembly signified its approval, and it was resolved to hold to their present course and to carry through the current war by their own efforts.
+Aratus came forward, welcomed the king’s eagerness and praised the disposition of the majority, but then in a lengthy speech urged them above all to try to preserve their cities and their territory by their own efforts: for nothing, he said, was more honorable or more advantageous than this; and only if fortune turned against them in this effort, he said, should they—after first exhausting every hope that lay within themselves—then fall back on the assistance of their friends. The assembly signified its approval, and it was resolved to hold to their present course and to carry through the current war by their own efforts.
 
 But Ptolemy, despairing of the league, set about subsidizing Cleomenes instead—wishing to set him up against Antigonus, because he had greater hopes that the Spartans, rather than the Achaeans, could hold in check the designs of the Macedonian kings.
 
@@ -986,11 +962,9 @@ At that juncture Aratus sent his son as envoy to Antigonus and confirmed the ter
 
 But the greatest difficulty and embarrassment they faced was this: the king did not seem likely to help unless he recovered the Acrocorinth and took the city of the Corinthians as a base of operations for the current war; while the Achaeans, for their part, could not bring themselves to hand the Corinthians over to the Macedonians against their will.
 
-For this reason the deliberation was at first postponed, [...]
-
 ## Book 2 Chapter 52: Antigonus Doson at the Isthmus
 
-so that the question of the guarantees might be examined. Cleomenes, meanwhile, having struck terror with the successes already described, now made his way fearlessly through the cities, winning some by persuasion and over others holding the threat of force. In this manner he took over Caphyae, Pellene, Pheneus, Argos, Phlius, Cleonae, Epidaurus, Hermione, Troezen, and last of all Corinth; and he personally laid siege to the city of the Sicyonians. But in doing so he in fact relieved the Achaeans of their gravest problem.
+For this reason the deliberation was at first postponed, so that the question of the guarantees might be examined. Cleomenes, meanwhile, having struck terror with the successes already described, now made his way fearlessly through the cities, winning some by persuasion and over others holding the threat of force. In this manner he took over Caphyae, Pellene, Pheneus, Argos, Phlius, Cleonae, Epidaurus, Hermione, Troezen, and last of all Corinth; and he personally laid siege to the city of the Sicyonians. But in doing so he in fact relieved the Achaeans of their gravest problem.
 
 For when the Corinthians ordered Aratus, who held the office of Strategus, and the Achaeans to leave the city, and sent messages to Cleomenes inviting him in, they handed the Achaeans a starting point and a reasonable pretext.
 
@@ -1004,11 +978,9 @@ At that point, reckoning from the reports reaching him that Cleomenes with his a
 
 For the Aetolians, among their other measures and also at this time wishing to prevent Antigonus from bringing aid, had forbidden him to march with an army south of Thermopylae, declaring that otherwise they would oppose his passage by force of arms.
 
-So Antigonus and Cleomenes lay encamped opposite each other, the one striving to enter [...]
-
 ## Book 2 Chapter 53: Cleomenes Returns to Sparta after the Achaeans Take Argos
 
-the Peloponnese, Cleomenes determined to bar Antigonus’s way in. The Achaeans, although they had suffered no small reverses in the war as a whole, nevertheless did not abandon their resolve or give up the hopes that lay in their own efforts.
+So Antigonus and Cleomenes lay encamped opposite each other, the one striving to enter the Peloponnese, Cleomenes determined to bar Antigonus’s way in. The Achaeans, although they had suffered no small reverses in the war as a whole, nevertheless did not abandon their resolve or give up the hopes that lay in their own efforts.
 
 Rather, the moment that Aristotle of Argos rose in revolt against the Cleomenists, they came to his aid, broke into the city with Timoxenus the Strategus, and seized the city of the Argives.
 
@@ -1158,11 +1130,9 @@ And if Aristomachus did endure the most terrible tortures, as this man claims, e
 
 Aristomachus, using this as a pretext and excuse, on the ground that certain men had been complicit in the Achaeans’ entry, tortured and slaughtered the eighty foremost citizens, who had done no wrong, in front of their own relatives.
 
-I pass over the crimes committed throughout the whole of his life and [...]
-
 ## Book 2 Chapter 60: Crimes of Aristomachus
 
-those of his ancestors, for that would be a long story. And so one should not regard it as a terrible thing if he met with some such fate himself; far more terrible would it have been if he had died scot-free without experiencing any of this.
+I pass over the crimes committed throughout the whole of his life and those of his ancestors, for that would be a long story. And so one should not regard it as a terrible thing if he met with some such fate himself; far more terrible would it have been if he had died scot-free without experiencing any of this.
 
 Nor should any lawlessness be charged against Antigonus or Aratus because they took a tyrant captive in war, tortured him, and put him to death—a man for killing and punishing whom, even in time of peace, praise and honor would have followed from all who reason rightly.
 

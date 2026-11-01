@@ -178,6 +178,8 @@ The Romans were holding their own stoutly against the force of the parma shields
 
 ## Book 29 Chapter 15: A Cretan Deserter Brings Intelligence to Perseus
 
+*Quoted by Plutarch, Aemilius Paullus.*
+
 Meanwhile Perseus, seeing that Aemilius was staying still and not reckoning with what was happening, when a Cretan deserter slipped away from the road and came to him with news of the Roman outflanking move, was thrown into confusion. He did not move his camp, but handed over ten thousand mercenary foreigners and two thousand Macedonians to Milo and sent them off, urging them to hurry and seize the mountain passes.
 
 Polybius says that the Romans fell on them while they were still asleep, but Nasica says there was a sharp fight and real danger on the heights.

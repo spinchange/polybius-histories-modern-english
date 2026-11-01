@@ -52,11 +52,9 @@ Nor again must we accept these as the only forms: for we have already seen certa
 
 And again, there have been many oligarchic governments that seem to bear some resemblance to aristocratic ones, from which, one might almost say, they differ as widely as possible.
 
-And the same argument applies also to—
-
 ## Book 6 Chapter 4: The Rotation of Polities
 
-—democracy. That what I say is true is evident from the following.
+And the same argument applies also to democracy. That what I say is true is evident from the following.
 
 For surely not every monarchy is to be called a kingship outright, but only the one that is accepted by willing subjects and is governed more by reason than by fear and force; nor, again, is every oligarchy to be considered an aristocracy, but only the one that is directed, through deliberate selection, by the most just and most prudent men.
 
@@ -128,11 +126,11 @@ And while they devoted themselves to these things, they remained free of all sla
 
 But once they began to inherit their positions by succession and birth, and found the means of security already prepared for them, along with more than enough for their sustenance, then, following their appetites because of this abundance, they came to think that rulers ought to have clothing distinct from that of their subjects, distinctive and elaborate indulgences and provisions at the table, and unchallenged access to the sexual favors and embraces even of those they had no right to.
 
-These things gave rise in some cases to envy and offense, in others to a blaze of hatred and bitter anger, so that the kingship turned into a tyranny. The first step toward its dissolution was taken, and a conspiracy began to form against the rulers— a conspiracy that arose not from the worst men, but from the noblest, most high-minded, and most courageous, because such men are least [...]
+These things gave rise in some cases to envy and offense, in others to a blaze of hatred and bitter anger, so that the kingship turned into a tyranny.
 
 ## Book 6 Chapter 8: Degeneration of Constitutions
 
-able to endure the abuses of those in power. And when the people gained leaders and joined forces with them against the rulers for the reasons already described, the form of kingship and monarchy was utterly destroyed, while aristocracy in turn took its beginning and origin.
+The first step toward its dissolution was taken, and a conspiracy began to form against the rulers— a conspiracy that arose not from the worst men, but from the noblest, most high-minded, and most courageous, because such men are least able to endure the abuses of those in power. And when the people gained leaders and joined forces with them against the rulers for the reasons already described, the form of kingship and monarchy was utterly destroyed, while aristocracy in turn took its beginning and origin.
 
 For the people, as though repaying an immediate debt of gratitude to those who had overthrown the monarchs, employed them as their leaders and entrusted their affairs to them.
 

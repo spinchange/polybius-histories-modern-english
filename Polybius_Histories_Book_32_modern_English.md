@@ -192,7 +192,7 @@ For when even the whole story can scarcely seem worth close attention to the hea
 
 For the most part, when they are successful, people are generally of one mind; but in failure, becoming irritated by events, they turn touchy and hard to deal with even toward their friends.
 
-This is what happened in the case of Orophernes too: when events turned against him, he and Theotimus began blaming one another. [Text missing.]
+This is what happened in the case of Orophernes too: when events turned against him, he and Theotimus began blaming one another. [...]
 
 Polybius says in Book 32 that after ruling Cappadocia for only a short time and casting aside the customs of his fathers, Orophernes introduced a life of revelry and theatrical extravagance.
 
@@ -242,7 +242,7 @@ In the same way, near Temnus, he not only plundered the precinct of Apollo Cynne
 
 After doing this he returned home, having made war not only on men but on the gods as well.
 
-And on the return journey Prusias’ infantry also suffered terribly from famine and dysentery, so that the vengeance that met him at once for these acts seemed to have been sent by heaven. [Text breaks.]
+And on the return journey Prusias’ infantry also suffered terribly from famine and dysentery, so that the vengeance that met him at once for these acts seemed to have been sent by heaven. [...]
 
 ## Book 32 Chapter 16: Attalus Sends Athenaeus to the Senate
 

@@ -14,7 +14,7 @@ If he learned that some young men were feasting together, he would appear among 
 
 He would often lay aside his royal dress, put on a toga-like robe, and walk about the marketplace canvassing for office, shaking hands with some men and even embracing others as he asked for their vote, sometimes as though he were seeking the aedileship and sometimes the tribunate.
 
-And when he had won the office, he would sit down on the ivory curule chair in the Roman manner, hear the business cases conducted in the marketplace, and decide them with great seriousness and eagerness. By this he left sensible people perplexed: some thought him a simple, guileless man, while others thought him mad. His conduct in giving presents was similar. To some he gave knucklebones made from gazelle horn, to others dates, and to others gold.
+And when he had won the office, he would sit down on the ivory curule chair in the Roman manner, hear the business cases conducted in the marketplace, and decide them with great seriousness and eagerness. By this he left sensible people perplexed: some thought him a simple, guileless man, while others thought him mad. His conduct in giving presents was similar. To some he gave gazelle knucklebones, to others dates, and to others gold.
 
 He would even encounter certain men by chance whom he had never seen before and give them unexpected gifts.
 

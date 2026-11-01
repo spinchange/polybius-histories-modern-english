@@ -1,0 +1,99 @@
+[
+ {
+  "key": "4:52>53",
+  "verdict": "FIX",
+  "new_head_para": "Such, then, were the beginnings that the war of the Rhodians and Prusias against the Byzantines took, and such its end. At about this time the Cnossians sent envoys to the Rhodians and persuaded them to dispatch the ships under Polemocles’ command, together with three more undecked vessels which they were to launch and send in addition.",
+  "note": "Greek: ἔλαβε τὰς ἀρχὰς καὶ τὸ τέλος, 'beginnings and end'; join 'took— the end' ungrammatical."
+ },
+ {
+  "key": "4:53>54",
+  "verdict": "OK",
+  "note": "Greek runs on (τῶν νέων); one sentence; join grammatical."
+ },
+ {
+  "key": "4:57>58",
+  "verdict": "OK",
+  "note": "Greek τοῦτον τὸν τρόπον | ἐχρῶντο τοῖς πράγμασι runs on; join fine."
+ },
+ {
+  "key": "4:61>62",
+  "verdict": "OK",
+  "note": "Greek ἐγίνετο περὶ | τὴν παρασκευήν continuous; join fine."
+ },
+ {
+  "key": "4:64>65",
+  "verdict": "FIX",
+  "new_head_para": "In the same way he ordered his foraging parties to bring down the remaining towers throughout the country. Once he had passed through the narrows, he made the rest of the march at an easy, unhurried pace, allowing his army the chance to gather plunder from the countryside.",
+  "note": "Greek: towers (plural) καταφέρειν; joined 'deal likewise ... to bring it down' is redundant and 'it' wrong."
+ },
+ {
+  "key": "4:66>67",
+  "verdict": "FIX",
+  "new_head_para": "And so the first year of the present Olympiad was coming to its close. Among the Aetolians, the time of the elections having now arrived, Dorimachus was chosen general. He at once took up his office, gathered the Aetolians under arms, and invaded the upland regions of Epirus, ravaging the country and pursuing its destruction with unusual ferocity.",
+  "note": "Greek ἔληγε τῆς ὑποκειμένης ὀλυμπιάδος; join 'present of the Olympiad' lacks verb, ungrammatical."
+ },
+ {
+  "key": "4:67>68",
+  "verdict": "OK",
+  "note": "Greek κατεστρατο|πέδευσε τῆς Φλιασίας continuous; join fine."
+ },
+ {
+  "key": "4:68>69",
+  "verdict": "FIX",
+  "new_head_para": "The king, knowing nothing of the enemy’s doings, broke camp at dawn in accordance with his own plan and advanced, having resolved to make his march past Stymphalus itself in the direction of Caphyae; for it was there that he had written to the Achaeans to assemble under arms. As the vanguard of the Macedonians reached the top of the pass near the place called Apelaurus—which lies about ten stades in front of the city of Stymphalus—it happened that at that very moment the vanguard of the Eleans also came up onto the same pass.",
+  "note": "Greek συνα|θροίζεσθαι μετὰ τῶν ὅπλων; join repeats 'assemble ... were gathering under arms'."
+ },
+ {
+  "key": "4:73>74",
+  "verdict": "OK",
+  "note": "Greek ἄπειροι παντὸς | δεινοῦ runs on; one sentence; join fine."
+ },
+ {
+  "key": "4:74>75",
+  "verdict": "FIX",
+  "new_head_para": "As for their country, as I said above, since some sparks, as it were, of the old custom still remain, the Eleans inhabit it to an exceptional degree. For this reason, during Philip’s presence the number of those captured was vast, and still greater the number of those who had fled for refuge.",
+  "note": "Greek genitive absolute ἐμμενόντων closed off before οἰκοῦσι; join needs comma after 'remain'."
+ },
+ {
+  "key": "5:13>14",
+  "verdict": "OK",
+  "note": "Greek ἐκτὸς βέλους, ἀποπειρώμενος continuous; join fine."
+ },
+ {
+  "key": "5:61>62",
+  "verdict": "OK",
+  "note": "Greek ἐξ ἐφόδου καὶ | τρεψάμενος continuous; join fine."
+ },
+ {
+  "key": "5:65>66",
+  "verdict": "OK",
+  "note": "Greek τοσαύτη καὶ | τοιαύτη τις ἦν continuous; join fine."
+ },
+ {
+  "key": "5:75>76",
+  "verdict": "FIX",
+  "new_head_para": "The assembly was quickly convened, and they began to deliberate, having summoned in as well all the men from the guard posts, so as to bring the business before them to completion. But Logbasis, having given the enemy the signal for the moment, was making ready the men gathered in his house, and was himself, together with his sons, arming and equipping himself for the fight.",
+  "note": "Greek τέλος ἐπιθήσοντας τοῖς προκειμένοις; join 'matters ... on the business' redundant/ungrammatical."
+ },
+ {
+  "key": "5:101>102",
+  "verdict": "OK",
+  "note": "Greek ἢ ’κείνῳ τὸν | δὲ καιρὸν continuous; moved text is one sentence."
+ },
+ {
+  "key": "5:102>103",
+  "verdict": "OK",
+  "note": "Greek καὶ παρῆν | αὖθις ἀναπλέων; 'returned, sailing back again' is redundant but mirrors the Greek."
+ },
+ {
+  "key": "5:103>104",
+  "verdict": "OK",
+  "note": "Greek ἐχρήσατο πρός τε τὸν | βασιλέα runs on; join fine."
+ },
+ {
+  "key": "6:3>4",
+  "verdict": "FIX",
+  "new_head_para": "And the same argument applies also to democracy. That what I say is true is evident from the following.",
+  "note": "Greek ὁ δ᾽ αὐτὸς λόγος καὶ περὶ | δημοκρατίας; the dashes at the join must go."
+ }
+]
