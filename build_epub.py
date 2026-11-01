@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import html
+import json
 import re
 import shutil
 import uuid
@@ -39,6 +40,16 @@ class Book:
     title: str
     chapters: list[Chapter] = field(default_factory=list)
     note: str | None = None
+
+
+def load_manifest() -> dict:
+    manifest_path = BASE / "work" / "art" / "manifest.json"
+    if manifest_path.exists():
+        try:
+            return json.loads(manifest_path.read_text(encoding="utf-8"))
+        except Exception:
+            return {}
+    return {}
 
 
 def roman(n: int) -> str:
@@ -156,8 +167,13 @@ def inline_note_markup(text: str) -> str:
     return escaped
 
 
-def write_book(book: Book, text_dir: Path) -> None:
+def write_book(book: Book, text_dir: Path, plate_info: dict | None = None) -> None:
     parts = [f'  <section id="{book_id(book.number)}" epub:type="chapter">', f"    <h2>{book.title}</h2>"]
+    if plate_info:
+        parts.append('    <figure class="book-plate">')
+        parts.append(f'      <img src="../images/{plate_info["filename"]}" alt="{html.escape(plate_info["alt_text"])}"/>')
+        parts.append(f'      <figcaption>{html.escape(plate_info["caption"])}</figcaption>')
+        parts.append('    </figure>')
     if book.note is not None:
         parts.append(f"    <p>{html.escape(book.note)}</p>")
     else:
@@ -209,11 +225,16 @@ def editorial_note_body() -> str:
     return "\n".join(parts)
 
 
-def write_frontmatter(text_dir: Path, books: list[Book]) -> None:
-    cover_body = """  <section id="cover" epub:type="cover">
+def write_frontmatter(
+    text_dir: Path,
+    books: list[Book],
+    cover_src: str = "../images/cover.svg",
+    cover_alt: str = "Cover for Polybius, The Histories",
+) -> None:
+    cover_body = f"""  <section id="cover" epub:type="cover">
     <h1>Cover</h1>
     <figure>
-      <img src="../images/cover.svg" alt="Cover for Polybius, The Histories"/>
+      <img src="{cover_src}" alt="{html.escape(cover_alt)}"/>
     </figure>
   </section>"""
     (text_dir / "cover.xhtml").write_text(xhtml_doc("Cover", cover_body), encoding="utf-8")
@@ -411,6 +432,26 @@ code {
   max-height: 100%;
   max-width: 100%;
 }
+
+.book-plate {
+  margin: 1.5em auto 2em auto;
+  text-align: center;
+  page-break-inside: avoid;
+}
+
+.book-plate img {
+  max-width: 100%;
+  max-height: 70vh;
+  height: auto;
+}
+
+.book-plate figcaption {
+  font-size: 0.85em;
+  font-style: italic;
+  color: #5b3b2b;
+  margin-top: 0.5em;
+  text-indent: 0;
+}
 """
     (css_dir / "core.css").write_text(core, encoding="utf-8")
     (css_dir / "local.css").write_text(local, encoding="utf-8")
@@ -454,7 +495,13 @@ def write_container(root: Path) -> None:
     (meta_inf / "container.xml").write_text(container, encoding="utf-8")
 
 
-def write_opf(epub_dir: Path, books: list[Book], identifier: str) -> None:
+def write_opf(
+    epub_dir: Path,
+    books: list[Book],
+    identifier: str,
+    cover_image: tuple[str, str] = ("images/cover.svg", "image/svg+xml"),
+    plates: dict[int, dict] | None = None,
+) -> None:
     modified = datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
     manifest_items = [
         '<item id="nav" href="text/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>',
@@ -464,8 +511,13 @@ def write_opf(epub_dir: Path, books: list[Book], identifier: str) -> None:
         '<item id="editorial-note" href="text/editorial-note.xhtml" media-type="application/xhtml+xml"/>',
         '<item id="core-css" href="css/core.css" media-type="text/css"/>',
         '<item id="local-css" href="css/local.css" media-type="text/css"/>',
-        '<item id="cover-image" href="images/cover.svg" media-type="image/svg+xml" properties="cover-image"/>',
+        f'<item id="cover-image" href="{cover_image[0]}" media-type="{cover_image[1]}" properties="cover-image"/>',
     ]
+    if plates:
+        for bnum in sorted(plates):
+            manifest_items.append(
+                f'<item id="book-{bnum:02d}-plate" href="images/{plates[bnum]["filename"]}" media-type="image/png"/>'
+            )
     spine_items = [
         '<itemref idref="cover"/>',
         '<itemref idref="titlepage"/>',
@@ -545,7 +597,9 @@ def validate_xml(root: Path) -> None:
     ET.parse(root / "META-INF" / "container.xml")
     ET.parse(root / "EPUB" / "content.opf")
     ET.parse(root / "EPUB" / "toc.ncx")
-    ET.parse(root / "EPUB" / "images" / "cover.svg")
+    cover_svg = root / "EPUB" / "images" / "cover.svg"
+    if cover_svg.exists():
+        ET.parse(cover_svg)
 
 
 def build() -> dict[str, object]:
@@ -565,14 +619,44 @@ def build() -> dict[str, object]:
     css_dir.mkdir()
     images_dir.mkdir()
 
+    manifest = load_manifest()
+    manifest_flags = manifest.get("flagships", {})
+    manifest_books = {b["book"]: b for b in manifest.get("books", []) if "book" in b}
+
+    cover_png = BASE / "art" / "cover_front.png"
+    if cover_png.exists():
+        shutil.copy2(cover_png, images_dir / "cover_front.png")
+        cover_image = ("images/cover_front.png", "image/png")
+        cover_src = "../images/cover_front.png"
+        cover_alt = manifest_flags.get("cover_front", {}).get(
+            "alt_text", "Cover for Polybius, The Histories"
+        )
+    else:
+        write_cover(images_dir)
+        cover_image = ("images/cover.svg", "image/svg+xml")
+        cover_src = "../images/cover.svg"
+        cover_alt = "Cover for Polybius, The Histories"
+
+    plates: dict[int, dict] = {}
+    for book in books:
+        plate_file = BASE / "art" / f"book_{book.number:02d}_plate.png"
+        if plate_file.exists():
+            dst_name = f"book_{book.number:02d}_plate.png"
+            shutil.copy2(plate_file, images_dir / dst_name)
+            meta = manifest_books.get(book.number, {})
+            plates[book.number] = {
+                "filename": dst_name,
+                "alt_text": meta.get("alt_text", f"Frontispiece illustration for {book.title}"),
+                "caption": meta.get("caption", book.title),
+            }
+
     identifier = str(uuid.uuid5(uuid.NAMESPACE_URL, "hermes-polybius-histories-modern-english"))
     write_container(EPUB_SRC)
     write_css(css_dir)
-    write_cover(images_dir)
-    write_frontmatter(text_dir, books)
+    write_frontmatter(text_dir, books, cover_src=cover_src, cover_alt=cover_alt)
     for book in books:
-        write_book(book, text_dir)
-    write_opf(epub_dir, books, identifier)
+        write_book(book, text_dir, plate_info=plates.get(book.number))
+    write_opf(epub_dir, books, identifier, cover_image=cover_image, plates=plates)
     write_ncx(epub_dir, books, identifier)
     validate_xml(EPUB_SRC)
     zip_epub(EPUB_SRC, EPUB_OUT)
@@ -582,6 +666,7 @@ def build() -> dict[str, object]:
         "epub": str(EPUB_OUT),
         "books": len(books),
         "chapters": sum(len(book.chapters) for book in books),
+        "plates": len(plates),
         "bytes": EPUB_OUT.stat().st_size,
     }
 

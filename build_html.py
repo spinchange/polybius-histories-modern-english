@@ -5,15 +5,18 @@ edition always reflects the same book files as the EPUB. Output:
 
     dist/polybius-the-histories-modern-english.html
 
-The page is self-contained (embedded CSS, no external assets), works in
-light and dark color schemes, and carries print styles so the same file
-renders cleanly to PDF (each book starts on a new page; the chapter
+The page is self-contained (embedded CSS, no external assets except art),
+works in light and dark color schemes, and carries print styles so the same
+file renders cleanly to PDF (each book starts on a new page; the chapter
 lists in the table of contents collapse to book links only).
 """
 
 from __future__ import annotations
 
 import html
+import json
+import shutil
+from pathlib import Path
 
 import build_epub as eb
 
@@ -58,6 +61,26 @@ header#titlepage h1 {
 }
 header#titlepage .subtitle { font-size: 1.6rem; margin: 0 0 1rem; }
 header#titlepage .edition { color: var(--muted); margin: 0; }
+.hero-banner {
+  margin: 2.5rem auto 0;
+  max-width: 52rem;
+  padding: 0;
+}
+.hero-banner img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border: 1px solid var(--rule);
+  border-radius: 2px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+}
+.hero-banner figcaption {
+  font-size: 0.88rem;
+  font-style: italic;
+  color: var(--muted);
+  margin-top: 0.75rem;
+  line-height: 1.4;
+}
 main, section#editorial-note, nav#toc {
   max-width: 44rem;
   margin: 0 auto;
@@ -69,6 +92,28 @@ h2 {
   border-bottom: 1px solid var(--rule);
   padding-bottom: 0.3rem;
   margin: 3.5rem 0 1.5rem;
+}
+.book-plate {
+  margin: 2rem auto 2.5rem;
+  text-align: center;
+  max-width: 36rem;
+  padding: 0;
+}
+.book-plate img {
+  max-width: 100%;
+  max-height: 70vh;
+  height: auto;
+  display: inline-block;
+  border: 1px solid var(--rule);
+  border-radius: 2px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+}
+.book-plate figcaption {
+  font-size: 0.88rem;
+  font-style: italic;
+  color: var(--muted);
+  margin-top: 0.65rem;
+  line-height: 1.4;
 }
 h3 { font-size: 1.15rem; margin: 2.2rem 0 0.8rem; }
 h3 .label {
@@ -115,13 +160,92 @@ footer {
     --muted: #444444;
   }
   body { font-size: 11pt; }
-  header#titlepage { padding: 38vh 0 0; border: none; page-break-after: always; }
+  header#titlepage { padding: 12vh 0 0; border: none; page-break-after: always; }
   section.book { page-break-before: always; }
   nav#toc details { display: none; }
   h2 { margin-top: 0; }
   a { color: inherit; text-decoration: none; }
+  .hero-banner {
+    max-width: 100%;
+    margin: 2rem auto 0;
+    page-break-inside: avoid;
+  }
+  .hero-banner img {
+    max-width: 100%;
+    max-height: 35vh;
+    border: none;
+    box-shadow: none;
+  }
+  .book-plate {
+    margin: 1.5rem auto 2rem;
+    page-break-inside: avoid;
+  }
+  .book-plate img {
+    max-width: 80%;
+    max-height: 50vh;
+    border: none;
+    box-shadow: none;
+  }
+  .book-plate figcaption,
+  .hero-banner figcaption {
+    color: #333333;
+    font-size: 8.5pt;
+  }
 }
 """
+
+
+def load_manifest() -> dict:
+    return eb.load_manifest()
+
+
+def sync_art_to_dist() -> list[str]:
+    art_dir = eb.BASE / "art"
+    dist_art_dir = eb.DIST / "art"
+    copied = []
+    if not art_dir.exists():
+        return copied
+    dist_art_dir.mkdir(parents=True, exist_ok=True)
+    for png_path in sorted(art_dir.glob("*.png")):
+        dst_path = dist_art_dir / png_path.name
+        if (
+            not dst_path.exists()
+            or dst_path.stat().st_size != png_path.stat().st_size
+            or dst_path.stat().st_mtime < png_path.stat().st_mtime
+        ):
+            shutil.copy2(png_path, dst_path)
+        copied.append(png_path.name)
+    return copied
+
+
+def hero_banner_html(manifest: dict) -> str:
+    hero_day = eb.BASE / "art" / "hero_day.png"
+    if not hero_day.exists():
+        return ""
+    hero_night = eb.BASE / "art" / "hero_night.png"
+    flagships = manifest.get("flagships", {})
+    hero_meta = flagships.get("hero_day", {})
+    alt_text = hero_meta.get(
+        "alt_text",
+        "A continuous engraved panoramic frieze chronicling Rome's rise across the Mediterranean.",
+    )
+    caption = hero_meta.get(
+        "caption",
+        "The Fifty-Three Years (264–146 BC): Rome's rise from regional Italian republic to Mediterranean master.",
+    )
+
+    parts = ['  <figure class="hero-banner">']
+    if hero_night.exists():
+        parts.append("    <picture>")
+        parts.append('      <source srcset="art/hero_night.png" media="(prefers-color-scheme: dark)"/>')
+        parts.append(f'      <img src="art/hero_day.png" alt="{html.escape(alt_text)}"/>')
+        parts.append("    </picture>")
+    else:
+        parts.append(f'    <img src="art/hero_day.png" alt="{html.escape(alt_text)}"/>')
+    if caption:
+        parts.append(f'    <figcaption>{html.escape(caption)}</figcaption>')
+    parts.append("  </figure>")
+    return "\n".join(parts)
 
 
 def editorial_note_html() -> str:
@@ -180,8 +304,20 @@ def toc_html(books: list[eb.Book]) -> str:
     return "\n".join(parts)
 
 
-def book_html(book: eb.Book) -> str:
+def book_html(book: eb.Book, manifest_books: dict[int, dict] | None = None) -> str:
     parts = [f'<section class="book" id="{eb.book_id(book.number)}">', f"  <h2>{book.title}</h2>"]
+    plate_file = eb.BASE / "art" / f"book_{book.number:02d}_plate.png"
+    if plate_file.exists():
+        meta = (manifest_books or {}).get(book.number, {})
+        alt_text = meta.get("alt_text", f"Frontispiece illustration for {book.title}")
+        caption = meta.get("caption", book.title)
+        parts.append('  <figure class="book-plate">')
+        parts.append(
+            f'    <img src="art/book_{book.number:02d}_plate.png" alt="{html.escape(alt_text)}" loading="lazy"/>'
+        )
+        if caption:
+            parts.append(f'    <figcaption>{html.escape(caption)}</figcaption>')
+        parts.append("  </figure>")
     if book.note is not None:
         parts.append(f'  <p class="book-note">{html.escape(book.note)}</p>')
     else:
@@ -202,37 +338,56 @@ def build() -> dict[str, object]:
         raise RuntimeError(f"Expected 39 book files, found {len(books)}")
 
     eb.DIST.mkdir(exist_ok=True)
-    doc = "\n".join(
-        [
-            "<!doctype html>",
-            '<html lang="en">',
-            "<head>",
-            '  <meta charset="utf-8"/>',
-            '  <meta name="viewport" content="width=device-width, initial-scale=1"/>',
-            "  <title>Polybius — The Histories (Modern English Translation)</title>",
-            f"  <style>{CSS}</style>",
-            "</head>",
-            "<body>",
-            '<header id="titlepage">',
-            "  <h1>POLYBIUS</h1>",
-            '  <p class="subtitle">The Histories</p>',
-            '  <p class="edition">A Modern English Translation &mdash; Books I&ndash;XXXIX</p>',
-            "</header>",
-            editorial_note_html(),
-            toc_html(books),
-            "<main>",
-            "\n".join(book_html(book) for book in books),
-            "</main>",
-            "<footer>Polybius, <i>The Histories</i> &mdash; modern English translation of the extant local source corpus.</footer>",
-            "</body>",
-            "</html>",
-        ]
-    )
+    copied_art = sync_art_to_dist()
+    manifest = load_manifest()
+    manifest_books = {b["book"]: b for b in manifest.get("books", []) if "book" in b}
+
+    header_parts = [
+        '<header id="titlepage">',
+        "  <h1>POLYBIUS</h1>",
+        '  <p class="subtitle">The Histories</p>',
+        '  <p class="edition">A Modern English Translation &mdash; Books I&ndash;XXXIX</p>',
+    ]
+    hero = hero_banner_html(manifest)
+    if hero:
+        header_parts.append(hero)
+    header_parts.append("</header>")
+
+    doc_parts = [
+        "<!doctype html>",
+        '<html lang="en">',
+        "<head>",
+        '  <meta charset="utf-8"/>',
+        '  <meta name="viewport" content="width=device-width, initial-scale=1"/>',
+        "  <title>Polybius — The Histories (Modern English Translation)</title>",
+        '  <meta property="og:title" content="Polybius — The Histories (Modern English Translation)"/>',
+        '  <meta property="og:description" content="A modern English translation of the extant local source corpus for Polybius, The Histories."/>',
+        '  <meta property="og:type" content="book"/>',
+        '  <meta property="og:image" content="art/og_default.png"/>',
+        '  <meta name="twitter:card" content="summary_large_image"/>',
+        '  <meta name="twitter:title" content="Polybius — The Histories (Modern English Translation)"/>',
+        '  <meta name="twitter:description" content="A modern English translation of the extant local source corpus for Polybius, The Histories."/>',
+        '  <meta name="twitter:image" content="art/og_default.png"/>',
+        f"  <style>{CSS}</style>",
+        "</head>",
+        "<body>",
+        "\n".join(header_parts),
+        editorial_note_html(),
+        toc_html(books),
+        "<main>",
+        "\n".join(book_html(book, manifest_books=manifest_books) for book in books),
+        "</main>",
+        "<footer>Polybius, <i>The Histories</i> &mdash; modern English translation of the extant local source corpus.</footer>",
+        "</body>",
+        "</html>",
+    ]
+    doc = "\n".join(doc_parts)
     HTML_OUT.write_text(doc, encoding="utf-8")
     return {
         "html": str(HTML_OUT),
         "books": len(books),
         "chapters": sum(len(book.chapters) for book in books),
+        "art_synced": len(copied_art),
         "bytes": HTML_OUT.stat().st_size,
     }
 

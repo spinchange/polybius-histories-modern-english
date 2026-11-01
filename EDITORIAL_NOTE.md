@@ -16,3 +16,6 @@ Current verification status:
 - Inline numeric marker cleanup reports no remaining changes needed.
 - Book 17 is intentionally a survival note rather than a translated chapter sequence.
 
+## Illustrations and Art Colophon
+
+The illustrations accompanying this edition—including the front and back covers, website hero banners, social cards, ornamental chapter headpieces, and the thirty-nine book frontispiece plates—were generated using Google's Gemini models in a nineteenth-century archaeological folio style, combining fine copperplate engraving and etching linework with restrained watercolor washes on warm parchment. All compositions were directed and verified against third- and second-century BC historical guardrails (concerning Hellenistic Greek, Republican Roman, Carthaginian, Numidian, and Celtic material culture, weaponry, and naval architecture). In harmony with the text of this edition, all original artwork created for this project is dedicated to the public domain under Creative Commons CC0 1.0 Universal.
