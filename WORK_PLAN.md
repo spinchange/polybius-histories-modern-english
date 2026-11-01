@@ -406,3 +406,12 @@ Sonnet drafts; the user signs off (this is the one phase that is mostly human):
 - **Verification:** heading/seam reports clean except 4 `olympiad-rubric-missing` (4.2, 4.15, 11.1, 21.43; left for Phase 8) and known false-positive `case` flags; status.csv valid; isolated-worktree build, EPUBCheck 0/0/0.
 - **dist/ not regenerated** on this branch: build scripts carry another session's uncommitted changes. Rebuild after those are committed.
 - Phases 7 and 8 not started.
+
+
+## Edition art outcome (branch feat/edition-art)
+
+- 45 Gemini-generated assets in `art/` (cover front/back, hero day/night, og card, headpiece, 39 book plates) with `work/art/manifest.json` (captions, alt text). Colophon and CC0 dedication added to `EDITORIAL_NOTE.md`. Generator: `work/scripts/generate_art_api.py`.
+- `build_epub.py` embeds the cover and 39 plates; `build_html.py` syncs art to `dist/art/`, adds Open Graph metadata, light/dark hero and plates. `pages.yml` copies `dist/art`, falling back to `art/` (dist/art is not tracked).
+- `dist/` rebuilt from main's current book files, so it now includes the Phase 4-4c text fixes. EPUBCheck 0/0/0/0. EPUB is ~81 MB (plates).
+- Domain pragmatikehistoria.org is owned. Not wired up here.
+- Untracked and left out: `work/audio/`, ElevenLabs notes and podcast scripts (separate podcast work).

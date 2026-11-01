@@ -1,5 +1,5 @@
-Headings: 1311
-Issue counts: {'case': 11, 'olympiad-rubric-missing': 4, 'unparsed-heading': 1}
+Headings: 1310
+Issue counts: {'case': 11, 'olympiad-rubric-missing': 4}
 
 Duplicate titles within a book:
 
