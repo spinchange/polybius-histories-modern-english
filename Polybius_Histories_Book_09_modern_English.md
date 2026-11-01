@@ -170,7 +170,11 @@ I do not say this so much for the sake of praising either Romans or Carthaginian
 
 By remembering such actions, or by having them set before their eyes, they may become eager to imitate them [...]. For what seems rash and dangerous often turns out, on the contrary, to be real safety; and boldness of conception, if only it is guided by reason, remains admirable, noble, and worthy of remembrance whether it succeeds or fails.
 
+*Quoted by Stephanus of Byzantium, Ethnica.*
+
 Atella is a city of the Opici in Italy, lying between Capua and Neapolis. The ethnic name is Atellanus, as Polybius says in the ninth book: “The Atellani surrendered themselves.”
+
+*Quoted by Hero of Byzantium, Poliorcetica.*
 
 When the Romans were besieging Tarentum, Bomilcar the Carthaginian admiral came to help with a very large force. But since he could do nothing to assist those inside, because the Romans had secured their camp and blockade so well, he consumed his supplies without accomplishing anything. Though he had first been compelled to come by urgent appeals and great promises, he was later forced by the entreaties of the people within the city to sail away.
 
@@ -548,7 +552,11 @@ For since Acragas was colonized by Rhodians, it is natural that this god should 
 
 The rest of the city too is splendidly adorned with temples and colonnades. And though the temple of Olympian Zeus has not been completely finished, in conception and size it seems inferior to none of those in Greece.
 
+*Quoted by Stephanus of Byzantium, Ethnica.*
+
 Polybius says that both the river and the city were called Acragas from the fertility of the land.
+
+*Quoted by Suidas, Lexicon.*
 
 Marcus, after giving guarantees of safety, persuaded them to withdraw to Italy, on the condition that they should receive rations from the people of Rhegium while they ravaged Bruttium, and that they should keep whatever profit they won from enemy territory.
 
@@ -880,7 +888,11 @@ And it is true, as I have often said, that it is impossible to comprehend or gra
 
 ## Book 9 Chapter 45: Cyathus, Arsinoe, Xynia, and Phorunna
 
+*Quoted by Athenaeus, Deipnosophistae.*
+
 Polybius in the ninth book of his Histories also records a river called Cyathus near the city of Arsinoe in Aetolia.
+
+*Quoted by Stephanus of Byzantium, Ethnica (this and the next paragraph).*
 
 Arsinoe is a city of Libya. [...] The ethnic is Arsinoites, and in the Aetolian case Arsinoeus, as Polybius says in the ninth book.
 

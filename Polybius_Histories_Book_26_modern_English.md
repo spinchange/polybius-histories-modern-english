@@ -4,6 +4,8 @@ Modern English translation of the Greek text.
 
 ## Book 26 Chapter 1: Antiochus Epiphanes
 
+*Quoted by Athenaeus, Deipnosophistae.*
+
 Antiochus, though called Epiphanes, was nicknamed Epimanes from his conduct. Polybius says of him that he would sometimes slip away from the court, eluding his attendants, and then be seen wandering about aimlessly in some quarter of the city with only one or two companions.
 
 Most often he was found at the silversmiths’ and goldsmiths’ shops, chatting and showing his enthusiasm for craftsmanship with the metalworkers and other artisans.
@@ -27,6 +29,8 @@ He even bathed in the public baths when they were crowded with ordinary townsmen
 Once, when someone said, “How fortunate you kings are, to use such things and smell so sweet,” he said nothing to the man; but on the next day, when that fellow was bathing, Antiochus came in and had a very large jar of the most expensive perfume, the kind called stacte, poured over his head, with the result that all the bathers jumped up and rolled themselves in the perfume, then kept slipping and falling because it was so sticky, providing laughter for everyone, including the king himself.
 
 ## Book 26 Chapter 1a: Why Polybius Calls Antiochus Epimanes
+
+*Quoted by Athenaeus, Deipnosophistae.*
 
 *This passage repeats chapter 1 as preserved by a second quoting author.*
 

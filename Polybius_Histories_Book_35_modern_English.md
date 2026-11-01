@@ -78,6 +78,8 @@ This offer, unexpected from every point of view because of Scipio’s age and hi
 
 ## Book 35 Chapter 5: Scipio’s Spanish Campaign
 
+*Quoted by Suidas, Lexicon.*
+
 A certain surge of feeling and a hesitation rose in Scipio’s mind, as to whether he ought to join battle with the barbarian and fight him in single combat.
 
 Elsewhere Polybius says that Scipio’s horse was troubled by the blow, but did not completely collapse; so Scipio fell to the ground upright.

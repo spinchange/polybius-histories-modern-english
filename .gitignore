@@ -15,3 +15,8 @@ chunks_small/
 
 # Local Claude Code settings (machine-specific)
 .claude/settings.local.json
+
+# Phase 6b downloaded OCR scans and derived packets (untrusted, ~33 MB; regenerable)
+work/phase6b/raw_*/
+work/phase6b/packets/
+work/phase6b/*.json

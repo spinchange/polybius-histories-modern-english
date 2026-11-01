@@ -28,6 +28,8 @@ This will be clear from the facts themselves: for he was the first man to be pre
 
 ## Book 39 Chapter 2: Soldiers’ Contempt for Corinth’s Artworks
 
+*Quoted by Strabo, Geography.*
+
 Polybius, speaking with pity of what happened at the capture of the city, adds an account of the soldiers’ contempt for works of art and for the dedicated offerings.
 
 For he says that he was present and saw paintings thrown on the ground, and the soldiers playing draughts on them.

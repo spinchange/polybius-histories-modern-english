@@ -264,6 +264,8 @@ Yet, though you heard all this, you did not take it to heart; on the contrary, a
 
 Affairs in Greece.
 
+*Quoted by Suidas, Lexicon (this and the next paragraph).*
+
 Polybius says that he rose and went on ahead, weighed down partly by sickness and partly by age, for he was in his seventieth year.
 
 But mastering his weakness by force of his old habit, he came from Argos to Megalopolis in a single day. —

@@ -712,9 +712,15 @@ Philip saw that the Achaeans were acting cautiously about the war with Rome, and
 
 ## Book 16 Chapter 39: Coele-Syria
 
+*Quoted by Josephus, Jewish Antiquities.*
+
 Polybius of Megalopolis gives witness to what we have said. For in the sixteenth book of his Histories he says as follows: “Scopas, the general of Ptolemy, marched into the upper country and during the winter subdued the nation of the Jews.”
 
+*Quoted by Suidas, Lexicon.*
+
 But since the siege had been conducted in a wandering and ineffective way, Scopas came under disrepute and was attacked with youthful recklessness.
+
+*Quoted by Josephus, Jewish Antiquities (this and the next two paragraphs).*
 
 And in the same book Polybius says that “when Scopas was defeated by Antiochus, Antiochus took Batanaea, Samaria, Abila, and Gadara.
 

@@ -106,6 +106,8 @@ The agreements were drawn up in writing. Manius then raised the siege, handed ov
 
 Affairs in Asia.
 
+*Quoted by Suidas, Lexicon.*
+
 At Phocaea there was civil strife, partly because the Romans left on board the ships were quartered there, and partly because the people resented the orders laid upon them.
 
 At the same time the magistrates of Phocaea, fearing both the impulse of the crowd because of the grain shortage and the agitation of the supporters of Antiochus, sent envoys to Seleucus, who was near their frontier.
@@ -117,6 +119,8 @@ Among the envoys, Aristarchus, Cassander, and Rhodon were personally attached to
 When they met him, Seleucus at once gave his attention to Aristarchus and his party, while he ignored Hegias and his associates.
 
 But when he learned how the crowd felt and how scarce grain was, he dropped further discussion and audience with the envoys and advanced on the city.
+
+*Quoted by Suidas, Lexicon.*
 
 Then two Galli came out carrying their sacred emblems and breast-images and begged him not to take any irreparable step against the city.
 
@@ -207,6 +211,8 @@ After hearing these arguments Prusias changed his mind. And when envoys headed b
 Antiochus, having failed in this hope, came to Ephesus; and reflecting that only in this way could he prevent the crossing of the land army and in general keep the war away from Asia [...] if he securely commanded the sea, he resolved to fight a naval battle and decide the issue by a contest at sea.
 
 ## Book 21 Chapter 12: Pirates
+
+*Quoted by Suidas, Lexicon.*
 
 Polybius says that when the pirates caught sight of the Roman ships sailing toward them, they suddenly turned and made their retreat.
 

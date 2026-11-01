@@ -194,6 +194,8 @@ For the most part, when they are successful, people are generally of one mind; b
 
 This is what happened in the case of Orophernes too: when events turned against him, he and Theotimus began blaming one another. [...]
 
+*Quoted by Athenaeus, Deipnosophistae.*
+
 Polybius says in Book 32 that after ruling Cappadocia for only a short time and casting aside the customs of his fathers, Orophernes introduced a life of revelry and theatrical extravagance.
 
 ## Book 32 Chapter 12: Attalus Restores Ariarathes to His Kingdom

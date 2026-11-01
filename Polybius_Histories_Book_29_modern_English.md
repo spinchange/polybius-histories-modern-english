@@ -164,15 +164,21 @@ The same judgment should apply to our treatment of battles and speeches, and lik
 
 ## Book 29 Chapter 13: Character of Gentius
 
+*Quoted by Athenaeus, Deipnosophistae.*
+
 In the twenty-ninth book, the same writer says that Gentius, king of the Illyrians, committed many shameful acts in his life because of his heavy drinking, being drunk night and day alike: and after killing his brother Plator, who was about to marry the daughter of Monunius, he himself married the girl and treated his subjects with savage cruelty.
 
 ## Book 29 Chapter 14: Scipio Nasica and Fabius Maximus Volunteer to Outflank the Macedonians
+
+*Quoted by Plutarch, Aemilius Paullus (this and the next two paragraphs).*
 
 The first man to volunteer to lead the outflanking movement was Nasica, also called Scipio, the son-in-law of Scipio Africanus; later he became a man of great influence in the Senate.
 
 The second was Fabius Maximus, the oldest of Aemilius’ sons, still only a youth, who stood up eagerly.
 
 Aemilius was pleased and gave them not as many men as Polybius says, but as many as Nasica himself says he received, in a letter he wrote to one of the kings, about these events.
+
+*Quoted by Suidas, Lexicon.*
 
 The Romans were holding their own stoutly against the force of the parma shields and the Ligurian shields.
 
@@ -185,6 +191,8 @@ Meanwhile Perseus, seeing that Aemilius was staying still and not reckoning with
 Polybius says that the Romans fell on them while they were still asleep, but Nasica says there was a sharp fight and real danger on the heights.
 
 ## Book 29 Chapter 16: Battle of Pydna
+
+*Quoted by Suidas, Lexicon.*
 
 Polybius says that when the moon was eclipsed, the rumor prevailed among the multitude, in the time of Perseus the Macedonian, that it signified the eclipse of a king.
 
@@ -203,6 +211,8 @@ Perseus, with only one thought in mind—either to win or to die—did not hold 
 As time went on and the strain grew heavier, Perseus’ spirit gave way, like athletes in poor condition; for when danger drew near and everything had to be decided, he could not keep his courage firm.
 
 ## Book 29 Chapter 18: Perseus Flees the Battle to “Sacrifice”
+
+*Quoted by Plutarch, Aemilius Paullus.*
 
 The Macedonian king, as Polybius says, lost his nerve just as the battle was getting under way and rode off to the city, pretending that he was sacrificing to Heracles, a god who does not accept cowardly offerings from cowards or fulfill unlawful prayers.
 

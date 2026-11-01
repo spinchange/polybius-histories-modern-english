@@ -38,6 +38,12 @@ quoted context — line numbers shift as you edit. Do not use git.
   for this passage (e.g. the Greek says `Ἀθήναιος…`, or a Strabo passage introduced as
   `Polybius says…`). A scholar's cross-reference in the 1889 crib ("cf. Plutarch,
   Is. et Osir. 23") is NOT attribution. English-says-pattern alone is NOT evidence.
+- Mixed chapters (paragraphs from different witnesses; decided 2026-11-01): put the line
+  before each quoted paragraph instead of under the heading. Such a line governs that one
+  paragraph unless it states a longer scope: `*Quoted by Suidas, Lexicon (this and the next
+  paragraph).*` Unmarked paragraphs there are Constantinian excerpts. Byzantine excerpt
+  collections (and Wescher's siege codex) never get a line. Further forms in use: Livy,
+  *History of Rome*; Hero of Byzantium, *Poliorcetica*; Harpocration, *Lexicon of the Ten Orators*.
 - No evidence → do NOT guess. Append an ESCALATE row (see logging) and move on.
 - Voice-switch sentences inside a quoting author's text ("Polybius says: I have already…"):
   italicize the frame words only (`*Polybius says:*`), keep the quotation roman.

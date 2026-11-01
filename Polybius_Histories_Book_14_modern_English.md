@@ -256,6 +256,8 @@ Then he took down the masts and yards and lashed the ships forcibly together by 
 
 ## Book 14 Chapter 11: Women at Alexandria
 
+*Quoted by Athenaeus, Deipnosophistae.*
+
 Polybius says in his fourteenth book that Philo became the flatterer of Agathocles, son of Oenanthe and companion of King Philopator.
 
 Polybius also says in the fourteenth book of the Histories that many statues of Cleino, who served Ptolemy Philadelphus as his wine-pourer, were set up throughout Alexandria, dressed in a single tunic and holding a drinking horn in their hands.

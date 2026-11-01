@@ -58,7 +58,11 @@ There he gained such credit and influence that he became one of the chief causes
 
 ## Book 13 Chapter 5: Distrust between Philip and the Rhodians
 
+*Quoted by Suidas, Lexicon, and Harpocration, Lexicon of the Ten Orators.*
+
 The prytaneis, already distrustful of Philip because of his misconduct in Cretan affairs, also suspected that Heracleides was an agent planted among them.
+
+*Quoted by Suidas, Lexicon (this and the next paragraph).*
 
 But when he came before them, he explained the reasons for which he had fled from Philip.
 
@@ -126,6 +130,8 @@ Nabis, who had long been looking for grounds of accusation and a plausible prete
 
 ## Book 13 Chapter 9: Antiochus in Arabia, 205–204 BC
 
+*Quoted by Stephanus of Byzantium, Ethnica (this and the next three paragraphs).*
+
 Labae, like Sabae, is a city of Chattenia, as Polybius says in his thirteenth book. The ethnic is Labaean, just as from Sabae comes Sabaean. Both belong to the same region, for Chattenia is territory of the Gerrhaeans.
 
 Chattenia is the third district of the Gerrhaeans.
@@ -133,6 +139,8 @@ Chattenia is the third district of the Gerrhaeans.
 Polybius, Book 13: “Chattenia is otherwise a bleak land, but because of the prosperity of the Gerrhaeans it has been furnished with villages and towers; for they are the ones who occupy it.”
 
 It lies on the Erythraean Sea. The inhabitants are called Chattenians, as he himself says: “For to these men he gave orders to spare the land of the Chattenians.”
+
+*Quoted by Suidas, Lexicon (this and the next paragraph).*
 
 The Gerrhaeans asked the king not to destroy what the gods had given them—that is, perpetual peace and freedom. When their letter had been interpreted to him, he said that he granted what they requested.
 

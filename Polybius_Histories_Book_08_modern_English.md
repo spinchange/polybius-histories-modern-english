@@ -448,6 +448,8 @@ So Achaeus, after doing everything that reason could suggest, was nevertheless o
 
 Cauarus, king of the Gauls in Thrace, was by nature a truly royal and high-minded man, and he provided great security for the merchants who sailed into the Black Sea, and rendered important services to the Byzantines in their wars against the Thracians and the Bithynians.
 
+*Quoted by Athenaeus, Deipnosophistae.*
+
 Yet this Cauarus the Gaul, though otherwise an excellent man, was corrupted by a flatterer named Sostratus, a native of Chalcedon.
 
 ## Book 8 Chapter 23: Antiochus In Armenia
@@ -467,6 +469,8 @@ Receiving at once from Xerxes three hundred talents, a thousand horses, and a th
 The Tarentines, in the arrogance bred by prosperity, invited Pyrrhus the Epirote. For every freedom that has enjoyed unchecked license for a long time naturally grows weary of what lies before it and then looks for a master; yet when it gets one, it quickly hates him again, because the change for the worse appears so great. And this is exactly what happened to the Tarentines then.
 
 Whatever is still in the future always seems better than what is present.
+
+*Quoted by Suidas, Lexicon.*
 
 When these troubles fell upon Tarentum and Thurii, the mass of the people grew indignant.
 
@@ -732,6 +736,8 @@ Yet what happened won pity and pardon from outsiders for the sufferer, and broug
 
 ## Book 8 Chapter 37: Fall of Syracuse, 212 BC
 
+*Quoted by Suidas, Lexicon.*
+
 He counted the courses of stone; for the tower was built of regular blocks, so that it was quite easy to calculate from the ground the height of the battlements.
 
 Some days later a deserter reported that the people in the city had now for three days been holding a public sacrifice to Artemis, and that, though they were using scanty food because of scarcity, they had wine in abundance, a large supply having been provided both by Epicydes and by the Syracusans. Marcus then selected a section of wall where it was lower, and, thinking it likely that the men would be drunk because of the festivity and the lack of solid food, decided to test the hope he had formed.
@@ -753,6 +759,8 @@ At first, as they advanced along the wall, they found the guard-posts deserted. 
 Therefore the Romans came suddenly upon the first and then the next groups and quietly killed most of them before they knew what was happening.
 
 Then, when they came near the Hexapylae and descended, they broke open the first postern gate built into the wall, through which they admitted the general and the rest of the army. In this way the Romans took Syracuse.
+
+*Quoted by Suidas, Lexicon (this and the next paragraph).*
 
 None of the citizens realized what was happening, because of the distance, since the city was large.
 

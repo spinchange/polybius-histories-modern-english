@@ -276,6 +276,8 @@ It takes the same kind of spirit to stage contests well, to manage lavish prepar
 
 ## Book 30 Chapter 15: Paulus Destroys Seventy Cities of Epirus
 
+*Quoted by Strabo, Geography.*
+
 Polybius says that Paulus destroyed seventy cities of the Epirotes after the overthrow of the Macedonians and of Perseus. Most of them belonged to the Molossians, and he enslaved a hundred and fifty thousand people.
 
 ## Book 30 Chapter 16: The Egyptian Kings Thank Rome
@@ -361,6 +363,8 @@ Then exiles from both Caunus and Stratoniceia came to Rome and were admitted bef
 Philophron, Astymedes, and their colleagues, after receiving this reply, sailed home in haste, fearing that if the Rhodians failed to comply with the order to remove the garrisons, they would create fresh grounds for accusation.
 
 ## Book 30 Chapter 22: Anicius’s Ridiculous Victory Games
+
+*Quoted by Athenaeus, Deipnosophistae.*
 
 Lucius Anicius, who had also served as a Roman general, after defeating the Illyrians and bringing Gentius, the king of the Illyrians, captive along with his children, celebrated victory games at Rome and did things that were utterly ridiculous, as Polybius relates in Book 30.
 

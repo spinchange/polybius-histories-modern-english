@@ -4,6 +4,8 @@ Modern English translation of the Greek text.
 
 ## Book 12 Chapter 1: Geography of Libya
 
+*Quoted by Stephanus of Byzantium, Ethnica.*
+
 Polybius says, in his twelfth book, that the land of Byzacium lies around the Syrtes: “having a perimeter of two thousand stades, and circular in shape.”
 
 Hippo, a city of Libya.
