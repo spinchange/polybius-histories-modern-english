@@ -231,7 +231,7 @@ Sonnet drafts; the user signs off (this is the one phase that is mostly human):
 3. **Metadata — DECIDED:** credit the model family as translator and the user
    as editor.
    - Preface/title page line: "Translated from the Greek by Claude, Anthropic's
-     family of AI models. Directed and edited by Christopher Duffy, Sr.." (The editor name
+     family of AI models. Directed and edited by Christopher Duffy, Sr." (The editor name
      can be swapped for a personal name before print.)
    - OPF: `<dc:contributor id="trl">Claude (Anthropic)</dc:contributor>` with
      `role=trl`; a second contributor entry for the editor (`role=edt`);

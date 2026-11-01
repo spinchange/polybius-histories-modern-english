@@ -40,4 +40,4 @@ Status: FINAL (Phase 7). Rules marked **DECIDED** were fixed by the editor (2026
 
 ## Licence — DECIDED
 - **CC0 1.0 Universal public-domain dedication**, with a courtesy request that reuse name the edition (*Pragmatike Historia*, pragmatikehistoria.org).
-- Credit line: "Translated from the Greek by Claude, Anthropic's family of AI models. Directed and edited by Christopher Duffy, Sr.."
+- Credit line: "Translated from the Greek by Claude, Anthropic's family of AI models. Directed and edited by Christopher Duffy, Sr."

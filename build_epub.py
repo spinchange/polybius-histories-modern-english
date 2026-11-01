@@ -247,7 +247,7 @@ def write_frontmatter(
     <h1>Polybius</h1>
     <p class="subtitle">The Histories</p>
     <p class="edition">A Modern English Translation</p>
-    <p class="edition">Translated from the Greek by Claude, Anthropic's family of AI models.<br/>Directed and edited by Christopher Duffy, Sr..</p>
+    <p class="edition">Translated from the Greek by Claude, Anthropic's family of AI models.<br/>Directed and edited by Christopher Duffy, Sr.</p>
   </section>"""
     (text_dir / "titlepage.xhtml").write_text(xhtml_doc("Titlepage", title_body), encoding="utf-8")
     (text_dir / "editorial-note.xhtml").write_text(xhtml_doc("Translator's Preface", editorial_note_body()), encoding="utf-8")
