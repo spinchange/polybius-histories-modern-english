@@ -25,11 +25,15 @@ PD_BASES = {
     "pre-1930",         # published before 1930 (US public domain)
     "us-gov",           # US government / founders' papers
     "our-translation",  # our own CC0 translation of a public-domain original
+    "none",             # provenance record / editorial prose: no quoted text, no source slice
 }
 REQUIRED = (
     "id", "layer", "anchor", "annotator", "work", "date", "tags",
     "source_file", "source_lines", "source_pub", "pd_basis", "status",
 )
+# pd_basis "none" (survival-layer provenance entries, essay headnotes) quotes
+# nothing, so it needs no source slice; its whole body is the **Note:**.
+REQUIRED_NONE = tuple(k for k in REQUIRED if not k.startswith("source_"))
 MAX_NOTE_SENTENCES = 4
 
 # "6.3", "6.3-18", "6.11a", "7.14b-14d"
@@ -179,7 +183,7 @@ def check(a: Annotation) -> Annotation:
 
 def _check(a: Annotation) -> None:
     m = a.meta
-    for k in REQUIRED:
+    for k in (REQUIRED_NONE if m.get("pd_basis") == "none" else REQUIRED):
         if k not in m or m[k] in (None, "", []):
             a.errors.append(f"missing field: {k}")
     if a.errors:
@@ -208,6 +212,17 @@ def _check(a: Annotation) -> None:
             a.anchors.append(parse_anchor(s))
         except ValueError as e:
             a.errors.append(str(e))
+
+    if m["pd_basis"] == "none":
+        if a.quote:
+            a.errors.append("pd_basis none quotes nothing: body must be only the **Note:**")
+        if not a.note:
+            a.errors.append("missing **Note:** body")
+        elif m.get("form") != "essay":
+            n = sentence_count(a.note)
+            if n > MAX_NOTE_SENTENCES:
+                a.warnings.append(f"note has {n} sentences (max {MAX_NOTE_SENTENCES}; set form: essay for headnotes)")
+        return
 
     # source file + line slice
     src = (ANN / str(m["source_file"])).resolve()

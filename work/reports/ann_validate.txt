@@ -1,4 +1,4 @@
-22 annotations: verified=22
+23 annotations: UNVERIFIED=1, verified=22
 
 annotations/readers/adams-defence-checks-and-balances.md  [verified]
   warn  ocr_fix applied: 'dif- ferent' -> 'different'

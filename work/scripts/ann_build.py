@@ -40,7 +40,7 @@ def main() -> int:
                 "anchors": [{"book": b, "from": s, "to": e} for b, s, e in a.anchors],
                 "annotator": m["annotator"], "work": m["work"], "date": m["date"],
                 "tags": m["tags"] if isinstance(m["tags"], list) else [m["tags"]],
-                "source_pub": m["source_pub"], "pd_basis": m["pd_basis"],
+                "source_pub": m.get("source_pub"), "pd_basis": m["pd_basis"],
                 "quote": a.quote, "note": a.note,
             })
             for b, s, e in a.anchors:
