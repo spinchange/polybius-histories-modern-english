@@ -2,7 +2,7 @@
 
 Modern English translation of the Greek text.
 
-## Book 18 Chapter 1: The War with Philip
+## Book 18 Chapter 1: Philip and Titus Meet on the Shore
 
 When the appointed time came, Philip sailed out from Demetrias into the Melian Gulf with five light galleys and one pristis, the ship on which he himself was sailing.
 
@@ -130,7 +130,7 @@ And so for the time being they all, having handed Philip their own positions in 
 
 But on the morrow Titus and his party all came to the appointed place at the agreed hour, while Philip did not appear.
 
-## Book 18 Chapter 8: The Dispute Referred To the Senate
+## Book 18 Chapter 8: Philip Confers Privately with Titus
 
 When the day was already far advanced and Titus and his party had nearly given up hope, Philip arrived late in the afternoon, appearing with the same companions as before, having used up the whole day—as he himself claimed, because of his difficulty and embarrassment over the demands being imposed, but as it seemed to everyone else, because he wished to use the lateness of the hour to shut out the accusations of both the Achaeans and the Aetolians.
 
@@ -162,7 +162,7 @@ But the Roman commander said that he too was well aware that Philip was unlikely
 
 For none of the things now being discussed could be ratified without the Senate in any case, and the approaching season was well suited for testing the Senate’s mind: since the armies were unable to accomplish anything during the winter anyway, to set this time aside for referring the present circumstances to the Senate was not out of place but advantageous for everyone.
 
-## Book 18 Chapter 10: Pleadings Before the Senate
+## Book 18 Chapter 10: Titus Sends Amynander and Envoys to Rome
 
 When they all quickly agreed, seeing that Titus was not opposed to referring the matter to the Senate, it was resolved to allow Philip to send an embassy to Rome, and likewise that each party should send envoys of their own to address the Senate and bring charges against Philip.
 
@@ -236,7 +236,7 @@ As it is, quite apart from the safety that each man gained at that very crisis, 
 
 The same account would hold for all the others too who, amid the pressures of the times, pursue a policy and conduct very like theirs.
 
-## Book 18 Chapter 14: Comparison with Philip II and Demosthenes
+## Book 18 Chapter 14: Demosthenes Wrongly Brands Greeks as Traitors
 
 On this very ground one might, while praising Demosthenes on many counts, find fault with him in this: that he flung a most bitter reproach, carelessly and without proper judgment, at the most distinguished of the Greeks.
 
@@ -252,7 +252,7 @@ Now if they had been acting in this way while also admitting a garrison from Phi
 
 But if, while preserving their obligations to their own countries, they merely differed in their judgment of affairs, holding that the same thing was not in the interest of the Athenians and of their own cities, then surely there was no reason for Demosthenes to call them traitors on that account.
 
-The man who measures everything against the interest of his own particular country, and who thinks that all the Greeks ought to keep their eyes fixed on the Athenians—and, failing that, brands them as traitors—seems to me to be ignorant and to be straying far wide of the truth [in what he has done].
+The man who measures everything against the interest of his own particular country, and who thinks that all the Greeks ought to keep their eyes fixed on the Athenians—and, failing that, brands them as traitors—seems to me to be ignorant and to be straying far wide of the truth [as Demosthenes has done].
 
 And this is all the more so since the events that then befell the Greeks bore witness not that Demosthenes had taken good forethought for the future, but rather Eucampidas, Hieronymus, Cercidas, and the sons of Philiades.
 
@@ -276,7 +276,7 @@ For no one who has betrayed a city, an army, or a fortress has ever yet gone und
 
 Nor, once found out, has any of them ever led a blessed life; rather, as a rule, they meet the punishment they deserve at the hands of the very men they sought to gratify.
 
-For generals and princes often make use of traitors out of self-interest; but once they have squeezed everything from them, they then treat them as traitors, just as Demosthenes says— and very reasonably, reckoning that a man who has put his country and his original friends into the hands of their enemies could never become loyal to themselves nor keep faith with them.
+For generals and princes often make use of traitors out of self-interest; but once they have squeezed everything from them, they then treat them as traitors, just as Demosthenes says—and very reasonably, reckoning that a man who has put his country and his original friends into the hands of their enemies could never become loyal to themselves nor keep faith with them.
 
 And yet, even if such men escape the hands of these, they do not easily escape the vengeance of those whom they have betrayed in violation of treaty.
 
@@ -320,7 +320,7 @@ There is also a great difference in the stakes themselves.
 
 The Greeks reckon the best stake to be one that has the most numerous and largest shoots growing all around the stem, while among the Romans the stakes have two or three prongs, or at most four—and stakes having these [...] are chosen [...] not alternately.
 
-As a result, carrying them becomes thoroughly easy—for a single man carries three or four stacked one upon another— and their use in service is exceptionally secure. For the Greek stake, when set in front of the camp, is in the first place easy to tear out: since the part that grips and is held fast by the ground is a single one, while the shoots branching from it are many and large, two or three men can take hold of the same stake by its shoots and pull it up easily.
+As a result, carrying them becomes thoroughly easy—for a single man carries three or four stacked one upon another—and their use in service is exceptionally secure. For the Greek stake, when set in front of the camp, is in the first place easy to tear out: since the part that grips and is held fast by the ground is a single one, while the shoots branching from it are many and large, two or three men can take hold of the same stake by its shoots and pull it up easily.
 
 Once that happens, a gateway is at once created, because of the stake’s size, and the stakes beside it are loosened too, since in such a palisade the interlacing and overlapping of the stakes with one another is slight.
 
@@ -344,7 +344,7 @@ When he was about thirty stades away, he encamped on the spot for the time being
 
 The advance parties of both armies came within a little of colliding with one another near the passes; for, catching sight of each other in the gloom from a very short distance, they halted, and both quickly sent word, reporting to their commanders what had happened and asking what they ought to do.
 
-[...] [The orders were] to fall back to the camps below and to recall those advance parties as well.
+[...] at the camps below, and to recall those advance parties as well.
 
 The next day both sides sent out, for reconnaissance, about three hundred each of their cavalry and light troops; among them Titus also dispatched two squadrons of Aetolians, because of their familiarity with the terrain.
 
@@ -444,7 +444,7 @@ Receiving the men who had been engaged, he gathered them all onto the right wing
 
 At the same moment Titus, after receiving his vanguard troops into the gaps between the maniples, launched his attack on the enemy.
 
-## Book 18 Chapter 25: The Battle
+## Book 18 Chapter 25: Titus and the Elephants Turn the Battle
 
 When the two sides collided with great force and an overwhelming roar—both armies raising their war cry together, while those outside the fighting shouted encouragement to the combatants—the scene was terrifying and charged with the tension of struggle.
 
@@ -454,7 +454,7 @@ But as for the rest of his forces, the part next to those already engaged was st
 
 Titus, seeing that his own men could not withstand the charge of the phalanx but were being crushed on the left wing—some already dead, the rest slowly giving ground and retreating—and that what hopes of survival remained lay with his right, quickly rode over to that wing. Observing that of the enemy’s force one part, adjoining those fighting, [...], another was at that very moment descending from the heights, and another was still posted up on the heights, he put the elephants in front and led the standards against the enemy.
 
-The Macedonians, having no one to give them orders and unable to close up and assume the phalanx’s proper formation—both because of the difficulty of the terrain and because, in following those already engaged, they were in the disposition of a marching column rather than a battle line— did not even let the Romans come to close quarters with them, but, panicked by the elephants alone and torn apart, they gave way.
+The Macedonians, having no one to give them orders and unable to close up and assume the phalanx’s proper formation—both because of the difficulty of the terrain and because, in following those already engaged, they were in the disposition of a marching column rather than a battle line—did not even let the Romans come to close quarters with them, but, panicked by the elephants alone and torn apart, they gave way.
 
 ## Book 18 Chapter 26: Philip’s Defeat and Flight
 
@@ -470,7 +470,7 @@ But when he suddenly saw the Macedonians flinging away their arms and the enemy 
 
 Realizing that the Romans, in their pursuit of his left wing, were already drawing close to the heights, he turned to flight, gathering on the spur of the moment as many Thracians and Macedonians as he could.
 
-Titus, following the fugitives and coming upon the left-wing units of the Macedonians just as they were reaching the heights in the passes, at first [...] halted, since the enemy held their pikes upright— which is the custom of the Macedonians whenever they surrender or go over to the other side.
+Titus, following the fugitives and coming upon the left-wing units of the Macedonians just as they were reaching the heights in the passes, at first [...] halted, since the enemy held their pikes upright—which is the custom of the Macedonians whenever they surrender or go over to the other side.
 
 Afterward, on learning the reason for what was happening, he held back his men, deciding to spare those who had lost heart.
 
@@ -512,7 +512,7 @@ Yet even so he could not win; somehow the outcomes of his engagements always tur
 
 It was necessary to say these things first, so that nothing should appear to contradict my conclusions. Now I return to the comparison before me.
 
-## Book 18 Chapter 29: A Well-Formed Phalanx is Irresistible
+## Book 18 Chapter 29: A Well-Formed Phalanx Is Irresistible
 
 It is easy to gather from many considerations that, so long as the phalanx keeps its peculiar character and full strength, nothing can stand against it face to face or hold its ground against its charge.
 
@@ -610,7 +610,7 @@ For just as I clearly set out his early impulses toward what was right, and agai
 
 As for Titus, after the battle he made the appropriate arrangements regarding the prisoners and the rest of the spoils, and then proceeded toward Larisa.
 
-## Book 18 Chapter 34: Flamininus and the Aetolians At Odds
+## Book 18 Chapter 34: Flamininus and the Aetolians at Odds
 
 [...] in general, by the greed of the Aetolians over the spoils [...] or because he did not wish, having driven Philip from power, to leave the Aetolians as masters of the Greeks.
 
@@ -624,7 +624,7 @@ After conferring with them at length together with his military tribunes, Titus 
 
 And since this meeting was conducted in a friendly spirit, the suspicions against Titus blazed up twice as fiercely.
 
-For by now bribery had become rampant throughout Greece, and no one did anything for free; and since this practice was the accepted standard among the Aetolians, they could not believe that so great a change in Titus’s attitude toward Philip had come about without bribes— not knowing the Roman customs and principles in this regard, but judging and reasoning from their own conduct, they concluded that Philip would, given the crisis, naturally offer a large sum of money, and that Titus would be unable to resist it.
+For by now bribery had become rampant throughout Greece, and no one did anything for free; and since this practice was the accepted standard among the Aetolians, they could not believe that so great a change in Titus’s attitude toward Philip had come about without bribes—not knowing the Roman customs and principles in this regard, but judging and reasoning from their own conduct, they concluded that Philip would, given the crisis, naturally offer a large sum of money, and that Titus would be unable to resist it.
 
 ## Book 18 Chapter 35: Comparative Incorruptibility of Romans
 
@@ -634,7 +634,7 @@ In the present age, however, I would not dare to say this of them all; yet priva
 
 By way of evidence, two universally acknowledged names [...] so that I may not seem to be claiming the impossible.
 
-Take Lucius Aemilius, the man who defeated Perseus: when he became master of the Macedonian kingdom—where, apart from all its other furnishings and resources, more than six thousand talents of silver and gold were found in the treasuries alone— so far from coveting any of it, he refused even to set eyes on it and had others handle the matter, even though in his own life he was by no means well supplied with means but rather fell short.
+Take Lucius Aemilius, the man who defeated Perseus: when he became master of the Macedonian kingdom—where, apart from all its other furnishings and resources, more than six thousand talents of silver and gold were found in the treasuries alone—so far from coveting any of it, he refused even to set eyes on it and had others handle the matter, even though in his own life he was by no means well supplied with means but rather fell short.
 
 At any rate, when he died not long after the war, his sons by birth, Publius Scipio and Quintus Maximus, wanted to repay his wife her dowry of twenty-five talents; and they were so hard-pressed that they could not have managed it at all had they not sold off the household goods, the slaves, and on top of these some of the property as well.
 
@@ -652,7 +652,7 @@ But on these matters I will take a more fitting occasion to enlarge at greater l
 
 When the allies had gathered and a council had been formed from their own number, the Roman general rose and called on each to state the terms on which peace should be made with Philip.
 
-King Amynandros, then, spoke briefly and moderately and ended his remarks: he asked that they all take thought for him, so that, once the Romans had withdrawn from Greece, Philip would not vent his anger upon him; for the Athamanians, he said, were always easy prey for the Macedonians, owing both to their weakness and to the nearness of their territory.
+King Amynander, then, spoke briefly and moderately and ended his remarks: he asked that they all take thought for him, so that, once the Romans had withdrawn from Greece, Philip would not vent his anger upon him; for the Athamanians, he said, were always easy prey for the Macedonians, owing both to their weakness and to the nearness of their territory.
 
 After him Alexander the Aetolian rose. As to the fact that Titus had assembled the allies to deliberate about the settlement and was now inviting each to state his view, he praised Titus; but on the whole matter he said Titus was mistaken and going astray if he was convinced that by coming to terms with Philip he would leave either peace secure for the Romans or freedom secure for the Greeks—for neither of these was possible.
 
@@ -662,7 +662,7 @@ And this would be quite easy to do, provided he did not let the present opportun
 
 After arguing at greater length in support of this proposal, he ended his speech.
 
-## Book 18 Chapter 37: Debate In the Congress At Tempe
+## Book 18 Chapter 37: Debate in the Congress at Tempe
 
 Titus then took up the argument and said that Alexander was wide of the mark—not only regarding Rome’s policy, but also regarding his own intentions, and above all regarding the true interests of the Greeks.
 
@@ -736,11 +736,11 @@ Polybius, Book Eighteen.
 
 Polybius says in his eighteenth book: Attalus came to the end of his life. Concerning him it is right—just as we are accustomed to do in the case of others—now to add a fitting word as well.
 
-For from the start he possessed no other external advantage toward kingship than wealth alone— which, when managed with intelligence and daring, truly provides great usefulness toward every undertaking, but, without the qualities just mentioned, by its nature becomes for most people a cause of evils and, in a word, of ruin.
+For from the start he possessed no other external advantage toward kingship than wealth alone—which, when managed with intelligence and daring, truly provides great usefulness toward every undertaking, but, without the qualities just mentioned, by its nature becomes for most people a cause of evils and, in a word, of ruin.
 
 For it breeds both envy and conspiracies, and it carries the greatest tendencies toward the corruption of body and soul. Very few indeed are the souls that are able by the power of wealth to thrust such things away.
 
-Therefore the greatness of spirit of the man we are speaking of is worthy of admiration, because he set out to use his resources for nothing else but the winning of a kingdom, than which nothing greater or nobler can even be named— a man who laid the foundation of the design just mentioned not only through generosity and goodwill toward his friends, but also through his achievements in war.
+Therefore the greatness of spirit of the man we are speaking of is worthy of admiration, because he set out to use his resources for nothing else but the winning of a kingdom, than which nothing greater or nobler can even be named—a man who laid the foundation of the design just mentioned not only through generosity and goodwill toward his friends, but also through his achievements in war.
 
 For after defeating the Galatians in battle—the most formidable and most warlike nation in Asia at that time—he made this his beginning and then for the first time showed himself a king.
 
@@ -798,7 +798,7 @@ At about this time the ten commissioners arrived from Rome, through whom the aff
 
 The main provisions of the decree were these: that all the other Greeks, both those in Asia and those in Europe, should be free and use their own laws; that those subject to Philip, and the garrisoned cities, Philip should hand over to the Romans before the festival of the Isthmian games; that he should set free Euromus, Pedasa, Bargylia, and the city of the Iaseans, and likewise Abydos, Thasos, Myrina, and Perinthus, removing his garrisons from them; that concerning the liberation of the Cians, Titus should write to Prusias in accordance with the decree of the Senate; that Philip should restore to the Romans, within the same period, all the captives and all the deserters, and likewise the decked warships, except for five vessels and the sixteen-banked ship; and that he should also pay a thousand talents, half of these at once, and half in installments over ten years.
 
-## Book 18 Chapter 45: The Freedom of Greece
+## Book 18 Chapter 45: The Aetolians Dispute the Decree
 
 When this decree had been made known throughout Greece, everyone else was confident and overjoyed; only the Aetolians, vexed at not obtaining what they had hoped for, ran the decree down, claiming that it had substance only on paper and not in fact.
 
@@ -812,7 +812,7 @@ From this it should be plain to everyone that the Romans were taking over the �
 
 This, then, was harped on incessantly by the Aetolians.
 
-Titus, meanwhile, set out from Elatea with the ten commissioners, put in at Anticyra, and at once crossed over to Corinth; arriving there, he sat in council with them and deliberated about the whole settlement.
+Titus, meanwhile, set out from Elateia with the ten commissioners, put in at Anticyra, and at once crossed over to Corinth; arriving there, he sat in council with them and deliberated about the whole settlement.
 
 But since the Aetolians’ slander was spreading and was believed by some, Titus was compelled to make many varied arguments in the council, showing that, if they really wished to win for themselves the entire credit of the Greeks’ goodwill and to be universally trusted as having made their original crossing not for their own advantage but for the freedom of Greece, they would have to evacuate every position and set free all the cities now garrisoned by Philip.
 
@@ -820,7 +820,7 @@ This was the source of the deadlock in the council: with regard to all the other
 
 Nevertheless, Titus persuaded the council to free Corinth at once and put it into the hands of the Achaeans, in keeping with the original agreements, but he held on to the Acrocorinth, Demetrias, and Chalcis.
 
-## Book 18 Chapter 46: Proclamation At the Isthmian Games
+## Book 18 Chapter 46: Proclamation at the Isthmian Games
 
 These decisions having been reached, the festival of the Isthmian games came round, and since the most distinguished men from nearly all the world had gathered in anticipation of how things would turn out, much varied talk circulated throughout the whole assembly.
 
@@ -884,13 +884,13 @@ Gnaeus and his colleagues declined to make a defense against each of these charg
 
 And such was the outcome of the war against Philip.
 
-## Book 18 Chapter 49: Asia: Roman Envoys To Antiochus
+## Book 18 Chapter 49: Asia: Roman Envoys to Antiochus
 
 If, as the saying goes, they are driven to the very last extremity, they will take refuge with the Romans and put themselves and their city into Roman hands.
 
 While Antiochus’ undertaking was advancing just as he wished, and Antiochus himself was present in Thrace, Lucius Cornelius and his colleagues put in by sea at Selymbria.
 
-These men were envoys dispatched by the Senate to arrange the settlement between Antiochus and [Ptolemy]—
+These men were envoys dispatched by the Senate to arrange the settlement between Antiochus and Ptolemy.
 
 ## Book 18 Chapter 50: Conference Between Roman Legates and Antiochus
 
@@ -950,7 +950,7 @@ Scopas, on the other hand, although he had both a strong arm to help him and the
 
 For when Aristomenes and his men learned that he was gathering his friends at his own house and holding council with them, they sent some of the royal guards to summon him to the council.
 
-But he was so out of his wits that he neither dared to carry out any of his next steps nor, when summoned by the king, was able to bring himself to obey—which is the most extreme failing of all— until Aristomenes and his men, recognizing his irrationality, stationed the soldiers and the elephants around the house, and sent Ptolemy son of Eumenes with a band of young men, ordering him to bring Scopas in—peacefully if he was willing to obey, and if not, by force.
+But he was so out of his wits that he neither dared to carry out any of his next steps nor, when summoned by the king, was able to bring himself to obey—which is the most extreme failing of all—until Aristomenes and his men, recognizing his irrationality, stationed the soldiers and the elephants around the house, and sent Ptolemy son of Eumenes with a band of young men, ordering him to bring Scopas in—peacefully if he was willing to obey, and if not, by force.
 
 When Ptolemy made his way into the house and announced that the king was summoning Scopas, at first Scopas paid no attention to what was said, but kept staring fixedly at Ptolemy for some time, as if menacing him and marveling at his audacity.
 

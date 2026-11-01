@@ -1,5 +1,5 @@
 Headings: 1310
-Issue counts: {'case': 11}
+Issue counts: {'case': 10}
 
 Duplicate titles within a book:
 

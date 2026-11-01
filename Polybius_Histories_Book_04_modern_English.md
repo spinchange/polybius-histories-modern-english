@@ -42,7 +42,7 @@ With such a renewal taking place in all the dynasties, there was bound to be the
 
 For the Romans and the Carthaginians entered upon the war already described; Antiochus and Ptolemy, at the same time as these, the war over Coele-Syria; and the Achaeans and Philip the war against the Aetolians and the Spartans. The causes of this last came about as follows.
 
-## Book 4 Chapter 3: Dorimachus In the Peloponnese
+## Book 4 Chapter 3: Dorimachus in the Peloponnese
 
 The Aetolians had long chafed at peace and at having to meet expenses from their own resources, since they were accustomed to live off their neighbors and needed lavish means to support their ingrained arrogance. Enslaved to it, they always live a grasping, beast-like life, regarding nothing as friendly and everything as hostile.
 
@@ -52,7 +52,7 @@ But when he departed this life, leaving behind the boy Philip, they grew contemp
 
 While they were set on this purpose, chance gave them a little assistance, and they got the following openings for their design.
 
-Dorimachus of Trichonium was the son of that Nicostratus who broke the truce at the festival of the Pamboeotia. Being young and full of Aetolian impetuosity and greed, he was sent out by public authority to the city of the Phigaleans, which lies in the Peloponnese, on the borders of the Messenians, and which at that time happened to be in political union with the Aetolians— ostensibly to guard the territory and city of the Phigaleans, but in fact holding the post of a spy upon affairs in the Peloponnese.
+Dorimachus of Trichonium was the son of that Nicostratus who broke the truce at the festival of the Pamboeotia. Being young and full of Aetolian impetuosity and greed, he was sent out by public authority to the city of the Phigaleans, which lies in the Peloponnese, on the borders of the Messenians, and which at that time happened to be in political union with the Aetolians—ostensibly to guard the territory and city of the Phigaleans, but in fact holding the post of a spy upon affairs in the Peloponnese.
 
 When a band of pirates gathered and came to him at Phigalea, he had no way of providing them with plunder by lawful means, since the general peace among the Greeks that had been concluded under Antigonus was still in force.
 
@@ -164,7 +164,7 @@ The Cretans, both by land and by sea, are irresistible at ambushes, raids, theft
 
 Let this be said by me so that my readers may not distrust what I say, if at some point I make contradictory statements about the same men in regard to closely similar pursuits.
 
-## Book 4 Chapter 9: Dorimachus Consents To Depart
+## Book 4 Chapter 9: Dorimachus Consents to Depart
 
 When the men of military age had assembled under arms at Megalopolis in accordance with the decree of the Achaeans—for it was from this point that I digressed—and when the Messenians once again came before the assembly and begged them not to look on while they were so flagrantly being wronged in violation of the treaty, declaring also their wish to join the common alliance and their eagerness to be enrolled together with the rest, the leaders of the Achaeans rejected the request for alliance, saying that it was not possible to admit anyone without Philip and the allies.
 
@@ -192,11 +192,9 @@ They themselves at first lay in wait, attending to the dispatch of the booty, an
 
 But hearing that Taurion with the aforementioned force was in the neighborhood of Cleitor, and reckoning that even so they would not be able to make the crossing from Rhium without danger and a clash, they decided it was to the advantage of their cause to engage with Aratus’s men as quickly as possible, while they were still few in number and unsuspecting of what was coming, supposing that, if they routed them, they could plunder the country in advance and so make the crossing from Rhium secure, during the time the Achaean levy was hesitating and deliberating about mustering again, while if Aratus’s men were alarmed and avoided battle, unwilling to engage, they could effect their withdrawal without danger whenever it seemed advantageous to them.
 
-So, reasoning along these lines, they advanced and pitched camp near [...]
-
 ## Book 4 Chapter 11: Bad Strategy of Aratus
 
-Methydrium in Megalopolitan territory. The Achaean commanders, perceiving the presence of the Aetolians, handled the situation so badly that they left no room for greater folly.
+So, reasoning along these lines, they advanced and pitched camp near Methydrium in Megalopolitan territory. The Achaean commanders, perceiving the presence of the Aetolians, handled the situation so badly that they left no room for greater folly.
 
 For having turned back from Cleitor, they encamped near Caphyae.
 
@@ -232,7 +230,7 @@ As the Achaeans made their withdrawal toward their heavy infantry, on the assump
 
 But when they saw that these troops too had abandoned the safety of their position and were strung out and broken up on the march, some of them at once dispersed and made their retreat in disorder to the neighboring towns, while others, colliding head-on with the phalangites advancing toward them, had no need of the enemy at all, but threw themselves into a panic and forced one another into headlong flight. They directed their flight, during the withdrawal, as I said before, toward the towns; for Orchomenus and Caphyae, being close by, were the salvation of many. Had this not been so, they would all have been in danger of being destroyed in an unexpected disaster.
 
-## Book 4 Chapter 13: Aratus Denounced For His Failure
+## Book 4 Chapter 13: The Origin of the Social War
 
 So the engagement that took place near Caphyae, then, turned out in this way. When the Megalopolitans learned that the Aetolians were encamped near Methydrium, they came at the call of the trumpet, with their whole population, to give aid on the day immediately following the battle.
 
@@ -264,13 +262,13 @@ His last and greatest error was that, having decided to fight, he conducted matt
 
 Nevertheless, as soon as Aratus came forward and reminded them of his earlier political career and of what he had accomplished before, and offered his defense on the charges—arguing that he was not responsible for what had happened, and asking their pardon if he had indeed overlooked something during the engagement, and urging that they should consider the whole matter not with bitterness, but with humanity—the multitude so quickly and so magnanimously changed their minds that they became thoroughly displeased with those of his political opponents who had joined in attacking him, and resolved all subsequent measures in accordance with Aratus’ judgment. These events, then, fell in the earlier Olympiad, while what follows fell in the one hundred and fortieth.
 
-## Book 4 Chapter 15: Lukewarmness of the Allies
+## Book 4 Chapter 15: Achaean Appeals and Aetolian Duplicity
 
 The Achaeans’ resolutions were these: to send envoys to the Epirotes, the Boeotians, the Phocians, the Acarnanians, and to Philip, and to make clear in what manner the Aetolians, in violation of the treaties, had already twice invaded Achaea under arms; to call upon them for aid in accordance with the agreements; and also to receive the Messenians into the alliance; and that the general of the Achaeans should pick out five thousand foot and five hundred horse from among the Achaeans and go to the support of the Messenians, should the Aetolians set foot in their territory; and to arrange with both the Lacedaemonians and the Messenians how many horse and foot were to be furnished by each for the common needs. When these measures had been resolved upon, the Achaeans, bearing what had happened nobly, abandoned neither the Messenians nor their own purpose; and those appointed as envoys to the allies carried out their missions, while the general picked out the men from Achaea in accordance with the decree, and arranged with the Lacedaemonians and the Messenians that each should furnish two thousand five hundred foot and two hundred and fifty horse, so that the whole combined force for the needs that would arise should be ten thousand foot and a thousand horse.
 
 The Aetolians, meanwhile, when their regular assembly had come around, met and resolved to keep peace with the Lacedaemonians, the Messenians, and all the rest—acting in bad faith and wishing to ruin and injure the allies of the Achaeans; but with the Achaeans themselves they voted to keep peace on condition that they withdraw from the alliance with the Messenians, and otherwise to make war—a thing utterly absurd.
 
-For being themselves allies of both the Achaeans and the Messenians, if these two should maintain friendship and alliance with each other, they declared war on the Achaeans; whereas if the Achaeans chose enmity toward the Messenians, they would grant them peace separately— so that their injustice could not even be brought within the bounds of reason, because of the perversity of their very schemes.
+For being themselves allies of both the Achaeans and the Messenians, if these two should maintain friendship and alliance with each other, they declared war on the Achaeans; whereas if the Achaeans chose enmity toward the Messenians, they would grant them peace separately—so that their injustice could not even be brought within the bounds of reason, because of the perversity of their very schemes.
 
 ## Book 4 Chapter 16: The Aetolians and Illyrians Invade Achaea
 
@@ -288,11 +286,9 @@ These men first put in at Pylos and, after making assaults upon it, were beaten 
 
 Having made an agreement with the Aetolians, through Agelaus, concerning the division of the spoils, he promised to join the Aetolians in invading Achaea together with them.
 
-Having concluded this agreement with Scerdilaidas, Agelaus, Dorimachus, and Scopas—since the city of the Cynaethians was being intrigued into their hands—mustered the Aetolians with their whole force and invaded [...]
+## Book 4 Chapter 17: Factions at Cynaetha
 
-## Book 4 Chapter 17: Factions At Cynaetha
-
-[...] Achaea, together with the Illyrians. Meanwhile Ariston, the general of the Aetolians, pretended to take no notice of any of these events and stayed quietly at home, claiming that he was not making war on the Achaeans but keeping the peace—a foolish and childish way to behave.
+Having concluded this agreement with Scerdilaidas, Agelaus, Dorimachus, and Scopas—since the city of the Cynaethians was being intrigued into their hands—mustered the Aetolians with their whole force and invaded Achaea, together with the Illyrians. Meanwhile Ariston, the general of the Aetolians, pretended to take no notice of any of these events and stayed quietly at home, claiming that he was not making war on the Achaeans but keeping the peace—a foolish and childish way to behave.
 
 For it is plain that a man of this sort is bound to look silly and absurd whenever he imagines that mere words can hide what the facts make obvious.
 
@@ -366,9 +362,9 @@ As for the Cynaethans, although they had fallen into great misfortunes and great
 
 ## Book 4 Chapter 20: Music in Arcadia
 
-Since the Arcadian nation as a whole enjoys a certain reputation for virtue among all the Greeks—not only for the hospitality and kindness of their character and way of life, but above all for their reverence toward the gods— it is worth pausing briefly to consider the savagery of the Cynaethans, and to ask how it was that, while admittedly Arcadians, they so far surpassed the rest of the Greeks at that time in cruelty and lawlessness.
+Since the Arcadian nation as a whole enjoys a certain reputation for virtue among all the Greeks—not only for the hospitality and kindness of their character and way of life, but above all for their reverence toward the gods—it is worth pausing briefly to consider the savagery of the Cynaethans, and to ask how it was that, while admittedly Arcadians, they so far surpassed the rest of the Greeks at that time in cruelty and lawlessness.
 
-In my view it was because they were the first and only Arcadians to abandon those practices which their ancestors had wisely devised and thoughtfully adapted, in keeping with nature, to all the inhabitants of Arcadia. I mean music— genuine music, that is—which it is beneficial for all people to practice, but for Arcadians is positively essential. For we must not suppose, as Ephorus does— who, in the preface to his whole work, tossed off a remark utterly unworthy of him—that music was introduced among mankind to deceive and bewitch them.
+In my view it was because they were the first and only Arcadians to abandon those practices which their ancestors had wisely devised and thoughtfully adapted, in keeping with nature, to all the inhabitants of Arcadia. I mean music—genuine music, that is—which it is beneficial for all people to practice, but for Arcadians is positively essential. For we must not suppose, as Ephorus does—who, in the preface to his whole work, tossed off a remark utterly unworthy of him—that music was introduced among mankind to deceive and bewitch them.
 
 Nor should we imagine that the ancient Cretans and Spartans had no good reason for substituting the pipe and rhythmic movement for the trumpet in war, or that the early Arcadians acted without purpose in giving music so prominent a place in their whole constitution that they made it a compulsory part of upbringing not only for children but for young men up to the age of thirty, though in all other respects they led the most austere of lives.
 
@@ -400,7 +396,7 @@ Let this much, then, be said by me so that the common character of the Arcadians
 
 Now that we have set out what came to mind concerning the Cynaethans, let us return once more to our digression.
 
-## Book 4 Chapter 22: Philip V. In the Peloponnese
+## Book 4 Chapter 22: Philip V. in the Peloponnese
 
 So the Aetolians, having done such things throughout the Peloponnese, returned home safely.
 
@@ -506,11 +502,11 @@ These events were taking place at the same time as when Hannibal, who had by now
 
 Now, if it had happened that Hannibal’s first undertakings were from the very outset interwoven with affairs in Greece, it would clearly have been my duty to have given an account of them in the previous book, alternating and setting them side by side with the affairs in Iberia, following the order of the dates.
 
-But since the wars in Italy, in Greece, and in Asia had their beginnings separately, while their conclusions were shared, I have decided to give my account of them separately as well, until we arrive at the point at which the aforementioned events became interwoven with one another and began to tend toward a single end— for in this way both the account of the several beginnings will be clear and the interweaving evident (the very interweaving I indicated at the start, showing when, how, and for what causes it came about)—and from then on it remains to make my history of them all a single, common one.
+But since the wars in Italy, in Greece, and in Asia had their beginnings separately, while their conclusions were shared, I have decided to give my account of them separately as well, until we arrive at the point at which the aforementioned events became interwoven with one another and began to tend toward a single end—for in this way both the account of the several beginnings will be clear and the interweaving evident (the very interweaving I indicated at the start, showing when, how, and for what causes it came about)—and from then on it remains to make my history of them all a single, common one.
 
 The interweaving of events occurred near the conclusion of the war, in the third year of the 140th Olympiad. Therefore, from that point onward I shall give my account following the dates in a common narrative, but I shall treat the events before it separately, as I have said, merely calling to mind those events of the same period that have been related in the previous book, so that my narrative may become not only easy to follow but also striking to those who attend to it.
 
-## Book 4 Chapter 29: The Illyrians and Acarnanians Join
+## Book 4 Chapter 29: Philip Wins Scerdilaidas
 
 While wintering in Macedonia, Philip carefully enrolled his forces for the campaign ahead, and at the same time secured his position against the barbarians who lived above Macedonia.
 
@@ -566,13 +562,13 @@ For my own part, I think the cause was this: that they bordered on two of the mo
 
 The result was that whenever these peoples were preoccupied in war against one another or against others, things went well for the Messenians; for they always enjoyed peace and fine weather, as it were, because their country lay off to one side.
 
-But whenever the Spartans, having leisure and nothing to distract them, turned to doing them harm, the Messenians were neither able by themselves to look the weight of Lacedaemon in the face, nor had they prepared in advance true friends who would stand by them in everything; and so they were forced either to be slaves to the Spartans, bearing their burdens, or, in fleeing that slavery, to be driven from their homes and made fugitives, abandoning their country together with their children and wives— which is just what has now befallen them more than once, and not so very long ago.
+But whenever the Spartans, having leisure and nothing to distract them, turned to doing them harm, the Messenians were neither able by themselves to look the weight of Lacedaemon in the face, nor had they prepared in advance true friends who would stand by them in everything; and so they were forced either to be slaves to the Spartans, bearing their burdens, or, in fleeing that slavery, to be driven from their homes and made fugitives, abandoning their country together with their children and wives—which is just what has now befallen them more than once, and not so very long ago.
 
 Now it would be best if the present state of affairs among the Peloponnesians could grow together into something permanent, so that there should be no need of what I am about to say.
 
 But should these arrangements ever undergo upheaval and change, I see only one hope for the Messenians and the Megalopolitans of being able to keep possession of their own land for the longer term: namely, that they come to a common mind in accordance with the judgement of Epaminondas, and choose to share with one another truly in every crisis and every undertaking.
 
-## Book 4 Chapter 33: Troubles In Sparta
+## Book 4 Chapter 33: The Bond between Arcadians and Messenians
 
 This observation of mine may perhaps find some confirmation in events of long ago as well.
 
@@ -602,7 +598,7 @@ Afterward, however, once new ephors had been installed, the men who had set the 
 
 The Aetolians readily complied, and a little later Machatas arrived at Lacedaemon as their ambassador.
 
-He at once approached the ephors [...], the men holding that Machatas ought to be granted access to the people, that kings should be appointed in accordance with ancestral custom, and that the rule of the Heraclidae should no longer be allowed to remain abolished in defiance of the laws.
+He at once approached the ephors [...] thinking that Machatas ought to be granted access to the people, that kings should be appointed in accordance with ancestral custom, and that the rule of the Heraclidae should no longer be allowed to remain abolished in defiance of the laws.
 
 The ephors, though displeased with the whole business and unable to face down the agitation, but fearful of the band of young men, said that they would deliberate about the kings later, but granted Machatas the assembly.
 
@@ -612,7 +608,7 @@ When he had withdrawn, the matter became the subject of great dispute: some spok
 
 But when some of the older men brought the people’s attention to bear on the benefactions of Antigonus and the Macedonians, and on the harm done through Charixenus and Timaeus—when the Aetolians had marched out in full force and ravaged their land, enslaved the inhabitants of the surrounding country, and plotted against Sparta itself by bringing back the exiles through trickery and force—the people came round to a different view, and in the end were persuaded to maintain the alliance with Philip and the Macedonians.
 
-## Book 4 Chapter 35: Restoration of Royalty In Sparta
+## Book 4 Chapter 35: Restoration of Royalty in Sparta
 
 This being so, Machatas departed again without having achieved anything and returned home; but those who had been the original authors of the upheaval, wholly unable to yield to the present circumstances, once more set about doing a thing more impious than anything else, having first corrupted some of the young men.
 
@@ -694,7 +690,7 @@ For everything that is surplus among them finds a ready and profitable export, a
 
 Yet, as we have said, many useful things also come to other peoples through them. Therefore, being in a way common benefactors of all, they would reasonably deserve from the Greeks not only gratitude but also a shared defense in times of crisis brought on by the barbarians.
 
-But since it has come about that the special character and natural advantage of the place are unknown to most people—because it lies a little outside the parts of the inhabited world that are commonly surveyed— and since we all wish to know such things, and above all to become eyewitnesses of places that have something exceptional or distinctive, or, if that is not possible, at least to hold in our minds notions and impressions of them as close to the truth as may be, it would be right to state what the circumstance is, and what it is that produces such great and such remarkable abundance for the aforementioned city.
+But since it has come about that the special character and natural advantage of the place are unknown to most people—because it lies a little outside the parts of the inhabited world that are commonly surveyed—and since we all wish to know such things, and above all to become eyewitnesses of places that have something exceptional or distinctive, or, if that is not possible, at least to hold in our minds notions and impressions of them as close to the truth as may be, it would be right to state what the circumstance is, and what it is that produces such great and such remarkable abundance for the aforementioned city.
 
 ## Book 4 Chapter 39: The Black Sea
 
@@ -718,7 +714,7 @@ And since the silting and the inflow from the rivers are unceasing and continuou
 
 These, then, are the true causes of the outflow of the Pontus, deriving their credibility not from merchants’ tales, but from observation according to nature—than which it is not easy to find a more accurate method. And since we have settled on this topic, we must leave nothing idle or resting on mere assertion—as most writers are accustomed to do—but must employ a more demonstrative manner of exposition, so that we leave none of the points under inquiry unresolved for our attentive readers.
 
-For this is the peculiar mark of the present age, in which, all seas and lands having become navigable and passable, it would no longer be fitting to use poets and myth-writers as witnesses concerning things unknown— which is what our predecessors did about most matters, offering, as Heraclitus says, untrustworthy guarantors for disputed points. We must rather try, through history itself, to present sufficient credibility to our hearers.
+For this is the peculiar mark of the present age, in which, all seas and lands having become navigable and passable, it would no longer be fitting to use poets and myth-writers as witnesses concerning things unknown—which is what our predecessors did about most matters, offering, as Heraclitus says, untrustworthy guarantors for disputed points. We must rather try, through history itself, to present sufficient credibility to our hearers.
 
 We assert, then, that the Pontus has been silting up both in the past and now, and that in time both the Maeotis and the Pontus will be entirely filled up—provided the same arrangement of the regions remains, and the causes of the silting continue to operate without interruption.
 
@@ -748,7 +744,7 @@ This is why, in the case of violent and great rivers, the deposits build up far 
 
 This becomes especially evident during heavy rains: for then even the most ordinary streams, once they overpower the surf at their mouths, drive the silt out to sea to such an extent that the distance is proportional in each case to the force of the streams pouring in.
 
-## Book 4 Chapter 42: Concentration of Salt
+## Book 4 Chapter 42: Rivers Will Fill the Pontus
 
 And as to the size of the bank just described, and in general the quantity of stones, timber, and earth carried down by the rivers, there is no reason whatever to be skeptical—for that would be foolish—when we see before our own eyes how some chance torrent in a short time will often gouge out and cut through sheer places, carry off every kind of timber, earth, and stone, and pile up such mounds that at times it alters those same places and makes them unrecognizable in a brief span of time. From all this it is not reasonable to wonder how rivers of such size and such character, flowing continuously, accomplish some of the effects described and in the end fill up the Pontus.
 
@@ -810,7 +806,7 @@ For the south wind carries ships into the Pontus and the north wind out of it, a
 
 These, then, are the things that give the Byzantines their advantage by sea; the matters concerning the land [...]
 
-## Book 4 Chapter 45: Disadvantages of Byzantium On Land
+## Book 4 Chapter 45: Disadvantages of Byzantium on Land
 
 What I am about to describe is the source of their difficulties. Since Thrace surrounds their territory on every side, running from one sea to the other, the Byzantines are locked in a perpetual and grueling war against the Thracians.
 
@@ -830,7 +826,7 @@ And so, on top of the lost labor and expense, they look on at the devastation an
 
 Still, since they were accustomed to enduring the war with the Thracians, they kept it within its usual bounds and held to their original fair dealings with the other Greeks.
 
-## Book 4 Chapter 46: Byzantium, The Gauls, And Rhodians
+## Book 4 Chapter 46: The Gauls Press the Byzantines
 
 But when, on top of all this, the Gauls under Comontorius fell upon them as well, they were brought to the very brink of ruin. These Gauls had set out from their homeland together with Brennus; but having escaped the disaster at Delphi and reached the Hellespont, they did not cross over into Asia. Instead they stayed where they were, drawn to the region around Byzantium for its appeal.
 
@@ -848,7 +844,7 @@ But since most of the Greeks paid no attention, the Byzantines, driven by necess
 
 For the Rhodians, roused to action partly by the injury done to themselves and partly by the loss falling on their neighbors, at first took their allies along and sent an embassy to the Byzantines, demanding that they abolish the transit toll.
 
-But the Byzantines would not yield at all on the matter; they were convinced that they had justice on their side, on the strength of the rebuttal delivered before them by Hecatodorus and Olympiodorus to the Rhodian envoys— for these men were at that time at the head of the Byzantine government—and so on that occasion the Rhodians went away having accomplished nothing.
+But the Byzantines would not yield at all on the matter; they were convinced that they had justice on their side, on the strength of the rebuttal delivered before them by Hecatodorus and Olympiodorus to the Rhodian envoys—for these men were at that time at the head of the Byzantine government—and so on that occasion the Rhodians went away having accomplished nothing.
 
 On their return home, they voted for war against the Byzantines for the reasons stated above.
 
@@ -890,11 +886,9 @@ He was further irritated by the fact that the Byzantines, as it appeared, had se
 
 And so, with his anger quietly smoldering on account of all these things, he gladly seized upon the opening the Rhodians offered him. Coming to terms with their ambassadors, he agreed that they should wage the war by sea, while he himself reckoned he would do the enemy no less harm by land.
 
-The war of the Rhodians against the Byzantines, then—
-
 ## Book 4 Chapter 50: The War between Rhodes and Byzantium Begins
 
-This was how it came about and how it began. At first the Byzantines fought the war vigorously, convinced that Achaeus would come to their aid, and that they themselves, by bringing Tiboetes over from Macedonia, would in turn confront Prusias with fears and dangers.
+The war of the Rhodians against the Byzantines, then, came about for these reasons and began in this way. At first the Byzantines fought the war vigorously, convinced that Achaeus would come to their aid, and that they themselves, by bringing Tiboetes over from Macedonia, would in turn confront Prusias with fears and dangers.
 
 But Prusias, prosecuting the war with the determination already described, took from them the place called Hieron at the mouth of the strait, which the Byzantines had purchased at great expense a little while before and made their own because of the convenient position of the spot, for they wished to leave no one any base from which to operate—neither against the merchants sailing into the Pontus, nor with respect to the slave trade and the fisheries of that very sea.
 
@@ -910,13 +904,13 @@ The Byzantines meanwhile sent to Achaeus, asking him to help, and dispatched men
 
 But the Rhodians, observing the firm stand of the Byzantines, set about practically achieving their aim.
 
-## Book 4 Chapter 51: Byzantium, Rhodes, and Prusias Treaties
+## Book 4 Chapter 51: The Byzantines Appeal for Andromachus
 
 For seeing that the mainstay of the Byzantines’ endurance in the war lay in their hopes resting on Achaeus, and observing that Achaeus’ father was being held at Alexandria while Achaeus himself set the highest store by his father’s safety, they resolved to send an embassy to Ptolemy and to ask for the release of Andromachus.
 
 They had made this request before only as a side matter, but now they pressed for it in earnest, so that by rendering Achaeus this favor they might put him under such an obligation to them that he would grant whatever they asked.
 
-When the ambassadors arrived, Ptolemy at first considered keeping Andromachus back, in the hope of using him at an opportune moment, both because his own disputes with Antiochus remained unresolved and because Achaeus, having recently proclaimed himself king, now controlled a domain of considerable importance— for Andromachus was the father of Achaeus and the brother of Laodice, the wife of Seleucus.
+When the ambassadors arrived, Ptolemy at first considered keeping Andromachus back, in the hope of using him at an opportune moment, both because his own disputes with Antiochus remained unresolved and because Achaeus, having recently proclaimed himself king, now controlled a domain of considerable importance—for Andromachus was the father of Achaeus and the brother of Laodice, the wife of Seleucus.
 
 Nevertheless, since Ptolemy was inclined toward the Rhodians in his whole policy and was eager to oblige them in everything, he gave his consent and handed Andromachus over to them to convey to his son.
 
@@ -934,9 +928,9 @@ When the Rhodians learned of Cavarus’ eagerness and of Prusias’ compliance, 
 
 With the Rhodians the terms were straightforward: the Byzantines were to levy no toll on those sailing into the Pontus, and, this being done, the Rhodians and their allies were to be at peace with the Byzantines.
 
-With Prusias the terms were roughly these: that there should be peace and friendship between Prusias and the Byzantines for all time, and that neither the Byzantines should make war on Prusias in any way nor Prusias on the Byzantines; that Prusias should restore to the Byzantines their lands, their forts, their populations, and their prisoners of war without ransom, and, in addition to these, the vessels captured at the start of the war and the missiles seized in the strongholds, and likewise the timber, the stonework, and the roof tiles from the place called Hieron— for Prusias, in his anxiety over the return of Tiboetes, had demolished all the forts that seemed conveniently situated for any purpose— and that Prusias should also compel those among the Bithynians who held any property taken from the territory of Mysia that was subject to the Byzantines to give it back to the farmers.
+With Prusias the terms were roughly these: that there should be peace and friendship between Prusias and the Byzantines for all time, and that neither the Byzantines should make war on Prusias in any way nor Prusias on the Byzantines; that Prusias should restore to the Byzantines their lands, their forts, their populations, and their prisoners of war without ransom, and, in addition to these, the vessels captured at the start of the war and the missiles seized in the strongholds, and likewise the timber, the stonework, and the roof tiles from the place called Hieron—for Prusias, in his anxiety over the return of Tiboetes, had demolished all the forts that seemed conveniently situated for any purpose—and that Prusias should also compel those among the Bithynians who held any property taken from the territory of Mysia that was subject to the Byzantines to give it back to the farmers.
 
-## Book 4 Chapter 53: War In Crete
+## Book 4 Chapter 53: War in Crete
 
 Such, then, were the beginnings that the war of the Rhodians and Prusias against the Byzantines took, and such its end. At about this time the Cnossians sent envoys to the Rhodians and persuaded them to dispatch the ships under Polemocles’ command, together with three more undecked vessels which they were to launch and send in addition.
 
@@ -964,7 +958,7 @@ The Lappaeans received them kindly and with all eagerness; and these men, who in
 
 Thus Lyttos—a colony and kinswoman of the Spartans, the most ancient of the cities of Crete, and by common consent the constant nurse of the bravest men among the Cretans—was utterly and unexpectedly swept away.
 
-## Book 4 Chapter 55: Polyrrhen and Lappa Join the Alliance
+## Book 4 Chapter 55: Polyrrhenia and Lappa Join the Alliance
 
 The people of Polyrrhenia and Lappa, together with all their allies, observed that the Cnossians were holding fast to their alliance with the Aetolians, and they saw that the Aetolians were at war with both King Philip and the Achaeans. They therefore sent envoys to the king and to the Achaeans to ask for military aid and for admission into alliance.
 
@@ -976,7 +970,7 @@ For in a very short span of time they penned the Eleuthernaeans and the Cydonian
 
 Meanwhile the Gortynian exiles also seized the harbor of Phaestus, and likewise held the harbor of Gortyn itself by a daring stroke; and using these places as their bases of operations, they made war on the party within the city.
 
-## Book 4 Chapter 56: Raid of Aetolians In the Peloponnese
+## Book 4 Chapter 56: Sinope Seeks Aid against Mithridates
 
 Such, then, was the state of affairs in Crete. Around this same time Mithridates also opened war against the people of Sinope, and this became, as it were, the beginning and the pretext of the misfortune that was ultimately brought upon the Sinopeans.
 
@@ -1016,7 +1010,7 @@ Having cut them down while they were still in their beds, and having hacked thro
 
 These rushed in, but then handled the situation with conspicuous lack of forethought—which proved to be a contributing cause of the Aegiratans’ salvation and of the Aetolians’ destruction.
 
-## Book 4 Chapter 58: The Aetolians Repulsed At Aegira
+## Book 4 Chapter 58: The Aetolians Repulsed at Aegira
 
 For supposing that getting inside the gates was the whole point of taking an enemy’s city, in this manner they handled their affairs. And so, after staying together only a very short time around the marketplace, they then, in their passion for plunder, drifted apart, broke into the houses, and began carrying off the people’s property—and by now it was broad daylight.
 
@@ -1052,7 +1046,7 @@ Pressing too eagerly upon the retreating force, however, he ran into an ambush a
 
 Euripidas, then, having won this advantage and being elated at what had happened, marched out again a few days later and seized, near the Araxus, a well-placed fort of the Dymaeans called the Wall—which the myths say Heracles built long ago, when he was at war with the Eleans, wishing to use it as a base of operations against them.
 
-## Book 4 Chapter 60: Philip Advances Southward
+## Book 4 Chapter 60: Aratus Fails Dyme, Pharae, and Tritaea
 
 The peoples of Dyme, Pharae, and Tritaea, having come off the worse in their attempt at relief and fearing what was to come from the seizure of the fort, at first sent messengers to the general of the Achaeans, reporting what had happened and asking him to help them; afterwards they dispatched envoys to make the same request.
 
@@ -1108,7 +1102,7 @@ He let the garrison—some five hundred Aetolians—depart under truce, and so f
 
 He himself, taking up his force, advanced past Charadra, eager to cross the so-called Ambracian gulf where it is narrowest, near the Acarnanian temple called Actium.
 
-For the aforementioned gulf issues from the Sicilian sea between Epirus and Acarnania through an altogether narrow mouth—less than five stades wide— but as it advances inland it stretches to a breadth of a hundred stades, while in length it runs in from the sea about three hundred stades; and it forms the boundary between Epirus and Acarnania, having Epirus on the north and Acarnania on the south.
+For the aforementioned gulf issues from the Sicilian sea between Epirus and Acarnania through an altogether narrow mouth—less than five stades wide—but as it advances inland it stretches to a breadth of a hundred stades, while in length it runs in from the sea about three hundred stades; and it forms the boundary between Epirus and Acarnania, having Epirus on the north and Acarnania on the south.
 
 Having ferried his force across at the aforementioned mouth, and having passed through Acarnania, he came to the Aetolian city called Phoeteiae, having taken along on the way two thousand Acarnanian infantry and two hundred cavalry.
 
@@ -1162,7 +1156,7 @@ For Oeniadae happens to lie by the sea, at the edge of Acarnania where it border
 
 The town is positioned opposite the coastline of the Dymaeans in the Peloponnese, and lies nearest to the region around Araxus, for it is no more than a hundred stades distant. With his eye on these advantages, he fortified the citadel by itself, and, throwing a wall around the harbor and the dockyards together, he undertook to connect them to the citadel, using the materials from Paeanium to manage the work.
 
-## Book 4 Chapter 66: Philip Recalled To Macedonia
+## Book 4 Chapter 66: Philip Recalled to Macedonia
 
 While the king was still occupied with this work, a messenger arrived from Macedonia making it clear that the Dardani, suspecting his intended expedition into the Peloponnese, were gathering forces and making great preparations, having resolved to invade Macedonia.
 
@@ -1182,7 +1176,7 @@ It was around this time that Aemilius brought his triumph into Rome in splendid 
 
 I have set out the particulars of these matters in the previous book; but I have now brought them forward by way of reminder, in keeping with my original undertaking, so that the corresponding events may be known.
 
-## Book 4 Chapter 67: Philip Returns To the Peloponnese
+## Book 4 Chapter 67: Philip Returns to the Peloponnese
 
 And so the first year of the present Olympiad was coming to its close. Among the Aetolians, the time of the elections having now arrived, Dorimachus was chosen general. He at once took up his office, gathered the Aetolians under arms, and invaded the upland regions of Epirus, ravaging the country and pursuing its destruction with unusual ferocity.
 
@@ -1228,7 +1222,7 @@ Philip sent the spoils and the prisoners off to Corinth and pressed on with the 
 
 To all the Peloponnesians what had happened seemed beyond belief, for they learned of the king’s arrival and of his victory in one and the same moment.
 
-## Book 4 Chapter 70: Philip In Arcadia
+## Book 4 Chapter 70: Philip in Arcadia
 
 Marching through Arcadia and enduring heavy snow and great hardship in the passes around Mount Olygyrtus, he came down on the third day, by night, to Caphyae.
 
@@ -1302,7 +1296,7 @@ Such was the conclusion of the affair at Psophis.
 
 ## Book 4 Chapter 73: The Wealth of Elis
 
-[...] in this fashion. The Eleans who were keeping watch over Lasion, learning of the Macedonians’ arrival and having also heard of what had happened at Psophis, immediately abandoned the town.
+The Eleans who were keeping watch over Lasion, learning of the Macedonians’ arrival and having also heard of what had happened at Psophis, immediately abandoned the town.
 
 So as soon as the king arrived, he took the place at his first approach; and, furthering the goodwill he felt toward the Achaean nation, he handed Lasion over to them as well. In the same way, when the Eleans evacuated Stratus too, he restored it to the people of Telphusa.
 
@@ -1346,7 +1340,7 @@ Philip, having become master of a great quantity of goods and of more than five 
 
 But afterward, since his army was overloaded with spoils of every kind and had thereby become heavy and unwieldy, he withdrew on that account and marched back again to Olympia.
 
-## Book 4 Chapter 76: Popularity of Philip In the Peloponnese
+## Book 4 Chapter 76: Apelles Plots against the Achaeans
 
 Now Apelles—who was one of the guardians of the boy left in charge by Antigonus, and who at that time happened to have more influence than anyone else with the king—wishing to bring the Achaean nation into a condition like that of the Thessalians, set about doing a wicked thing.
 
@@ -1380,13 +1374,13 @@ This district has received its name from Triphylus, one of the sons of Arcas. It
 
 It contains the following cities: Samicum, Lepreum, Hypana, Typaneae, Pyrgos, Aepium, Bolax, Stylangium, and Phrixa.
 
-A short time before this the Eleans had gained control of these and had also annexed the city of the Aliphereans, which had originally belonged to Arcadia [and Megalopolis], after Lydiadas the Megalopolitan, during his tyranny, had handed it over to the Eleans in an exchange to serve certain private purposes of his own.
+A short time before this the Eleans had gained control of these and had also annexed the city of the Aliphereans, which had originally belonged to Arcadia and Megalopolis, after Lydiadas the Megalopolitan, during his tyranny, had handed it over to the Eleans in an exchange to serve certain private purposes of his own.
 
 ## Book 4 Chapter 78: Continued Success of Philip
 
 Phillidas, however, sent the Eleans off to Lepreum and the mercenaries to Aliphera, while he himself, keeping the Aetolians with him at Typaneae, waited to see what would come of it.
 
-The king, meanwhile, having set aside his baggage train and crossed the river Alpheus by the bridge—the river that flows right past the city of the Heraeans— came to Aliphera. This town lies on a hill that is sheer on every side, with an ascent of more than ten stades, and it has a citadel on the very summit of the whole hill, together with a bronze statue of Athena, outstanding in beauty and size.
+The king, meanwhile, having set aside his baggage train and crossed the river Alpheus by the bridge—the river that flows right past the city of the Heraeans—came to Aliphera. This town lies on a hill that is sheer on every side, with an ascent of more than ten stades, and it has a citadel on the very summit of the whole hill, together with a bronze statue of Athena, outstanding in beauty and size.
 
 As for this statue—from what intention or with what funding the work was first undertaken—it happens to be a matter of dispute even among the local people, for it cannot be clearly established either from where or by whom it was dedicated.
 
@@ -1452,7 +1446,7 @@ After exhorting the Lepreates as the occasion required and installing a garrison
 
 On reaching the aforementioned city, he distributed all the spoils, then took up his baggage and, leaving Heraea, arrived at the height of winter at Megalopolis.
 
-## Book 4 Chapter 81: Chilon’s Fruitless Attempts In Sparta
+## Book 4 Chapter 81: Chilon’s Fruitless Attempts in Sparta
 
 At about this same time, while Philip was occupied with affairs in Triphylia, Chilon the Spartan—holding that the kingship belonged to him by right of birth, and bitterly resenting the slight that the Ephors had shown him in the decision regarding the kingship, when they awarded it to Lycurgus—set out to overturn the established order.
 
@@ -1474,7 +1468,7 @@ So he burst into the marketplace, laid violent hands on his enemies, appealed to
 
 But when no one paid him any heed, and the people instead began to band together against him, he grasped what was happening, slipped away in secret, and making his way across the country arrived alone in Achaea, an exile. As for the Spartans, terrified at the approach of Philip, they cleared away everything from the countryside, and after demolishing the Athenaeum of the Megalopolitans, abandoned it.
 
-So then the Spartans— who from the time of Lycurgus’s legislation had enjoyed a most admirable constitution and held very great power down to the battle of Leuctra, but then Fortune turned against them, their political condition steadily and ever more sliding toward the worse— in the end experienced a great many hardships and civil factions, struggled through countless redistributions of land and banishments, and tasted the most bitter servitude down to the tyranny of Nabis; they who in former days could scarcely bear to hear even the word “tyrant.”
+So then the Spartans—who from the time of Lycurgus’s legislation had enjoyed a most admirable constitution and held very great power down to the battle of Leuctra, but then Fortune turned against them, their political condition steadily and ever more sliding toward the worse—in the end experienced a great many hardships and civil factions, struggled through countless redistributions of land and banishments, and tasted the most bitter servitude down to the tyranny of Nabis; they who in former days could scarcely bear to hear even the word “tyrant.”
 
 Now the ancient history of Sparta, and most of its later history, has been recounted by many writers on both sides of the question. But the clearest part of it begins from the point at which Cleomenes utterly abolished the ancestral constitution; and this I shall relate at the appropriate moments as they arise.
 
@@ -1506,7 +1500,7 @@ The Elean garrison, struck with alarm, surrendered the fortress to Philip—a pl
 
 Having handed it over to the Dymaeans, he advanced and ravaged the territory of the Eleans; and after devastating it and carrying off a great quantity of plunder, he returned with his army to Dyme.
 
-## Book 4 Chapter 84: Aratus Defends Himself
+## Book 4 Chapter 84: Apelles Slanders Aratus to Philip
 
 Meanwhile Apelles, supposing that he had accomplished part of his purpose now that the Achaean strategus had been installed through his own efforts, again set to work against Aratus and his circle, wishing to detach Philip entirely from his friendship with them. He set about fabricating his slander by means of a contrivance of the following kind.
 
@@ -1550,7 +1544,7 @@ For this reason, from that day onward, he received and esteemed Aratus ever more
 
 ## Book 4 Chapter 87: Further Intrigues of Apelles
 
-But Apelles in no way abandoned his purpose. Rather, he set about slandering Taurion, who had been appointed over affairs in the Peloponnese— not by faulting him, but by praising him and asserting that he was the right man to spend his time in the field at the king’s side; his real aim being to have someone else, of his own choosing, set over affairs in the Peloponnese.
+But Apelles in no way abandoned his purpose. Rather, he set about slandering Taurion, who had been appointed over affairs in the Peloponnese—not by faulting him, but by praising him and asserting that he was the right man to spend his time in the field at the king’s side; his real aim being to have someone else, of his own choosing, set over affairs in the Peloponnese.
 
 For this is indeed a novel kind of slander that has been devised: to injure those around one not by blaming them, but by praising them.
 

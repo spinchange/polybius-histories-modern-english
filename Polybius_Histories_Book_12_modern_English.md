@@ -198,7 +198,7 @@ But a writer of public affairs and a true champion of history would never so muc
 
 ## Book 12 Chapter 9: Timaeus’s Statement of Method
 
-Let us now examine Timaeus’s own method as well, and set side by side for comparison the statements he has made about this same colony, so that we may learn which of the two better deserves such censure. In the same book, then, he says— no longer using the same kind of merely probable reasoning in his refutations, but claiming that he himself had genuinely gone in person to the Locrians in Greece to investigate the matters concerning the colony.
+Let us now examine Timaeus’s own method as well, and set side by side for comparison the statements he has made about this same colony, so that we may learn which of the two better deserves such censure. In the same book, then, he says—no longer using the same kind of merely probable reasoning in his refutations, but claiming that he himself had genuinely gone in person to the Locrians in Greece to investigate the matters concerning the colony.
 
 These Locrians, he says, first showed him written agreements, still preserved even today, made with the original settlers who had been sent out—agreements at the head of which the relationship was set down in these terms: “as parents to their children.”
 
@@ -236,7 +236,7 @@ That Timaeus says the greatest fault in history is falsehood: hence he also advi
 
 ## Book 12 Chapter 12: Falsehood from Ignorance and from Intent
 
-For just as with a carpenter’s rule—even if it be shorter in length or narrower in width, yet so long as it possesses the essential property of a rule, he says it must still be called a rule, but when it falls away from straightness and from kinship with the straight line, it must be called anything rather than a rule— in just the same way, he says, with written works: however much they may go astray in their diction, or in their handling, or in any other of their particular parts, yet if they hold fast to the truth, the books may lay claim to the name of history; but when they fall away from truth, they ought no longer to be called history.
+For just as with a carpenter’s rule—even if it be shorter in length or narrower in width, yet so long as it possesses the essential property of a rule, he says it must still be called a rule, but when it falls away from straightness and from kinship with the straight line, it must be called anything rather than a rule—in just the same way, he says, with written works: however much they may go astray in their diction, or in their handling, or in any other of their particular parts, yet if they hold fast to the truth, the books may lay claim to the name of history; but when they fall away from truth, they ought no longer to be called history.
 
 Now, that truth must be regarded as the guiding principle of such works, I myself agree—and somewhere in my own work I have said as much, putting it thus: that just as, when the eyes are removed from a living body, the whole is rendered useless, so, if you take away truth from history, what is left of it becomes a worthless tale.—
 
@@ -254,7 +254,7 @@ Of those who break their agreements we say, by way of this proverb, “the Locri
 
 For he says that Callisthenes was a flatterer for writing such things, and that he was very far from philosophy, attending instead to vulgar dances and to women in Corybantic frenzy; and that he justly met with punishment at Alexander’s hands for having corrupted that man’s soul as far as he was able; and he praises Demosthenes and the other orators who flourished in that period and says they were worthy of Greece, because they opposed the godlike honors paid to Alexander, whereas the philosopher, by investing a mortal nature with the aegis and the thunderbolt, justly met at the hands of the divine power with the very fate that he met.
 
-## Book 12 Chapter 13: Timaeus On Demochares and Agathocles
+## Book 12 Chapter 13: Timaeus Slanders Demochares
 
 Timaeus claims that Demochares prostituted the upper parts of his body, that he was not fit to blow upon the sacred fire, and that in his practices he had outdone the writings of Botrys and Philaenis and all the other authors of shameless filth.
 
@@ -428,7 +428,7 @@ Now such an absurdity ought not to be charged against Alexander, since it is agr
 
 Let this, then, be our verdict concerning Ephorus and Callisthenes.
 
-## Book 12 Chapter 23: Timaeus Exalts Timoleon To Excess
+## Book 12 Chapter 23: Timaeus Exalts Timoleon to Excess
 
 Timaeus mounts a most violent attack against Ephorus, though he is himself guilty of two faults: first, that he bitterly accuses others of the very things to which he is himself liable; and second, that he is thoroughly corrupt in his own mind, setting down such pronouncements in his memoirs and breeding such opinions in those who read them.
 
@@ -460,7 +460,9 @@ And yet that it does happen, through inexperience and poor judgment, that many m
 
 Concerning the bronze bull that was made by Phalaris at Acragas, into which he used to put men and then, by kindling a fire beneath, exact such a punishment from his subjects that, as the bronze was heated white-hot, the man, roasted and scorched on every side, was destroyed; and in the extremity of his agony, whenever he cried out, the sound that issued from the device struck the ears of those listening like the bellowing of a bull.
 
-This bull, when the Carthaginians gained the upper hand, was carried off from Acragas to Carthage, and the little door between the shoulders—through which those condemned to punishment used to be let down—still remained; and although no other reason why such a bull should have been built at Carthage could be discovered at all, Timaeus nevertheless set out both to demolish the common report and to brand as false the statements of the poets and historians, asserting that the bull at Carthage had not come from Acragas and that no such thing had ever existed in that city; and he has devoted a great many arguments to this point.—What term and what word must one apply to Timaeus? It seems to me that his kind deserves all the most bitter names, the very ones he himself has used against those around him.
+This bull, when the Carthaginians gained the upper hand, was carried off from Acragas to Carthage, and the little door between the shoulders—through which those condemned to punishment used to be let down—still remained; and although no other reason why such a bull should have been built at Carthage could be discovered at all, Timaeus nevertheless set out both to demolish the common report and to brand as false the statements of the poets and historians, asserting that the bull at Carthage had not come from Acragas and that no such thing had ever existed in that city; and he has devoted a great many arguments to this point.—
+
+What term and what word must one apply to Timaeus? It seems to me that his kind deserves all the most bitter names, the very ones he himself has used against those around him.
 
 That he is quarrelsome, a liar, and reckless has been shown well enough, I think, from what has already been said; but that he is unphilosophical and, in a word, an ill-bred writer will become clear from what is about to be said.
 
@@ -594,15 +596,15 @@ But the trouble is, I think, that to explain causes is hard, while to coin speec
 
 ## Book 12 Chapter 25k: Timaeus’s Speeches at Gela
 
-In order that we may confirm our verdict on Timaeus in these matters too, just as we have done concerning his ignorance and his deliberate falsification of the record, I will set out briefly a few of his speeches that are acknowledged to be his, citing them by name.
+In order that we may confirm our verdict on Timaeus in these matters too, just as we have done concerning his ignorance and his deliberate falsification of the record, I will set out briefly a few of his speeches that are acknowledged to be his, citing them by name.—
 
-—Of those who held power in Sicily after Gelon the elder, we have received as the most statesmanlike men Hermocrates, Timoleon, and Pyrrhus of Epirus—men to whom one would least of all wish to attach juvenile, lecture-room speeches.
+Of those who held power in Sicily after Gelon the elder, we have received as the most statesmanlike men Hermocrates, Timoleon, and Pyrrhus of Epirus—men to whom one would least of all wish to attach juvenile, lecture-room speeches.
 
 Now Timaeus says, in his twenty-first book, that at the time when Eurymedon arrived in Sicily and was urging the cities to join the war against the Syracusans, the people of Gela, worn out by the war, then sent envoys to the people of Camarina to propose a truce; and when these readily accepted, each side afterward sent embassies to their own allies, urging them to dispatch trustworthy men who should come to Gela to deliberate about a settlement and the common interests.
 
 When the delegates had assembled and a debate had been laid before them, he brings on Hermocrates using speeches of some such tenor.
 
-For this man, having praised the people of Gela and of Camarina—first because they were the ones who had made the truce, second because they had been responsible for the discussions about a settlement coming about, and third because they had taken care that it should not be the masses who deliberated about the settlements, but the leading citizens, who knew clearly what difference war makes from peace— and then, after taking up two or three practical arguments, he tells them that they must now give their attention and learn how great a difference war makes from peace—though only a little earlier he had said that on this very account Hermocrates was grateful to the people of Gela that the discussions were not taking place before the multitude, but in a council that well understood such reversals of fortune.
+For this man, having praised the people of Gela and of Camarina—first because they were the ones who had made the truce, second because they had been responsible for the discussions about a settlement coming about, and third because they had taken care that it should not be the masses who deliberated about the settlements, but the leading citizens, who knew clearly what difference war makes from peace—and then, after taking up two or three practical arguments, he tells them that they must now give their attention and learn how great a difference war makes from peace—though only a little earlier he had said that on this very account Hermocrates was grateful to the people of Gela that the discussions were not taking place before the multitude, but in a council that well understood such reversals of fortune.
 
 From all this Timaeus would seem to fall short not only of practical ability, but also to come off no little the worse in the very arguments used in the schools of rhetoric.
 
@@ -706,7 +708,7 @@ For he does appear to have equipped himself with both a practical command of eac
 
 It seems to me that the very dignity of history calls for such a man.
 
-Now Plato says that human affairs will go well only when either philosophers become kings or kings take up philosophy; and I too would say that history will be in a good state only when either men of action undertake to write histories— not, as they do now, as a secondary matter, but considering this too to be among their most necessary and finest pursuits, and devoting themselves undistracted [...] to this branch of work throughout their lives— or when those who set out to write come to regard the experience gained from affairs themselves as indispensable for history. Until that happens there will be no end to the ignorance of historians.
+Now Plato says that human affairs will go well only when either philosophers become kings or kings take up philosophy; and I too would say that history will be in a good state only when either men of action undertake to write histories—not, as they do now, as a secondary matter, but considering this too to be among their most necessary and finest pursuits, and devoting themselves undistracted [...] to this branch of work throughout their lives—or when those who set out to write come to regard the experience gained from affairs themselves as indispensable for history. Until that happens there will be no end to the ignorance of historians.
 
 Of all this Timaeus took not the slightest forethought, but having lived out his life in a single place as a resident alien, and having, almost as if on purpose, renounced both active engagement in military and political affairs and the firsthand experience that comes from travel and observation, he somehow or other carries off the reputation of one who lays claim to the foremost rank among writers.
 

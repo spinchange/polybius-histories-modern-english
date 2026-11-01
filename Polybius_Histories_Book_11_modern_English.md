@@ -2,7 +2,7 @@
 
 Modern English translation of the Greek text.
 
-## Book 11 Chapter 1: Death of Hasdrubal
+## Book 11 Chapter 1: Hasdrubal Is Forced to Give Battle
 
 Hasdrubal’s arrival in Italy proved much easier and quicker than had been expected.
 
@@ -80,7 +80,7 @@ In general they were brought to such confidence and courage that all thought Han
 
 But he declared that such words had only the appearance of truth, while the reality was otherwise—indeed the opposite.
 
-## Book 11 Chapter 4: A Plea For Union In Greece
+## Book 11 Chapter 4: A Plea for Union in Greece
 
 “I think the facts themselves have made it clear, men of Aetolia, that neither King Ptolemy nor the city of Rhodes nor the peoples of Byzantium, Chios, and Mytilene treat a reconciliation with you as a minor matter.
 
@@ -118,7 +118,7 @@ Such are the origins of the war and such the things already happening. And if ev
 
 ## Book 11 Chapter 6: Philip’s Envoys Reply to the Aetolians
 
-“For anyone can see that if the Romans put an end to the war in Italy—and that moment is close at hand now that Hannibal has been shut up within a very narrow corner of Bruttium— they will next hurl their full force at Greece, claiming in words that they are helping the Aetolians against Philip, but in truth intending to bring everything there under their own power. I think this is perfectly plain.
+“For anyone can see that if the Romans put an end to the war in Italy—and that moment is close at hand now that Hannibal has been shut up within a very narrow corner of Bruttium—they will next hurl their full force at Greece, claiming in words that they are helping the Aetolians against Philip, but in truth intending to bring everything there under their own power. I think this is perfectly plain.
 
 And whether, once masters, they govern well or badly, the credit and title will belong to them if they act well, while if they act badly, the profits from those they ruin and the authority over those they spare will likewise belong to them.
 
@@ -143,12 +143,14 @@ Then, after marching to Lake Trichonis and arriving at Thermus, where there was 
 For when a man is angry with human beings and in his anger becomes impious toward the divine, that is a sign of utter irrationality.
 
 Ellopion, a city of Aetolia.
+Polybius, book eleven.
 
 Phytaion, a city of Aetolia.
+Polybius, book eleven.
 
 ## Book 11 Chapter 8: Faults of the Achaean Officers
 
-Since there are three methods by which all sensible men who apply themselves to generalship try to attain it—first by memoirs and the preparation derived from them, second by systematic instruction and the teaching handed down by experienced men, and third by practice and familiarity in real operations— the Achaean commanders were in general ignorant of all three.
+Since there are three methods by which all sensible men who apply themselves to generalship try to attain it—first by memoirs and the preparation derived from them, second by systematic instruction and the teaching handed down by experienced men, and third by practice and familiarity in real operations—the Achaean commanders were in general ignorant of all three.
 
 Most of them were infected with an unhappy rivalry produced by the boastfulness and bad taste of others.
 
@@ -516,7 +518,7 @@ For there are three causes, he said, for which men dare to revolt against their 
 
 But that was not a charge against me, for during my command none of your pay was lacking.
 
-If the fault came from Rome, because old arrears were not now being settled— was it right to bring this complaint by becoming deserters from your fatherland and enemies of the power that reared you, or to come to me in person, state the matter, and ask your friends to help and support you?
+If the fault came from Rome, because old arrears were not now being settled—was it right to bring this complaint by becoming deserters from your fatherland and enemies of the power that reared you, or to come to me in person, state the matter, and ask your friends to help and support you?
 
 I think the latter was better. For men serving some master for wages may perhaps sometimes be excused for revolting against those who pay them, but men fighting for themselves and for their own wives and children cannot be excused at all.
 
@@ -578,7 +580,7 @@ Having said this, he urged them to be of one mind and of good courage, and to go
 
 This inspired such eagerness and confidence in the troops that, simply from their appearance, they looked like men who already saw the enemy before them and were just about to engage.
 
-## Book 11 Chapter 32: Scipio Defeats Andobales
+## Book 11 Chapter 32: The Skirmish in the Valley
 
 After saying this, he dismissed the assembly. On the next day he broke camp and advanced; reaching the Ebro on the tenth day and crossing it, he encamped on the fourth day after that near the enemy, with a certain valley lying between his camp and theirs.
 
@@ -592,7 +594,7 @@ This enraged the barbarians; and fearing that, because of their earlier defeat, 
 
 Publius was ready for the engagement, but when he saw that the Iberians were descending irrationally into the valley and posting not only their cavalry but even their infantry on the level ground, he waited, wanting as many of them as possible to make use of this position. He trusted his own cavalry, and still more his infantry, because in regular, close hand-to-hand fighting both the equipment and the men on his side were far superior to the Iberians.
 
-## Book 11 Chapter 33: Scipio’s Return To Rome
+## Book 11 Chapter 33: Scipio Wins in the Valley and Sails Home
 
 When it seemed to him that the proper moment had come, he drew up [...] against the enemy stationed on the foothills, but against those who had descended into the valley he led out the main body from the camp and attacked the enemy infantry with four cohorts.
 
@@ -612,7 +614,7 @@ Then, eager not to miss the settlement of the consuls at Rome, he put all Iberia
 
 ## Book 11 Chapter 34: Antiochus Moves from Bactria Through Interior Asia
 
-For Euthydemus himself was a Magnesian, and in his reply he said that Antiochus was wrong to be so eager to drive him from his kingdom.
+For Euthydemus was himself a Magnesian too, and in making his defense to him he said that Antiochus was wrong to be so eager to drive him from his kingdom.
 
 For he had not himself revolted from the king; rather, after others had revolted, he had overthrown their descendants and in that way gained control of the Bactrian realm.
 

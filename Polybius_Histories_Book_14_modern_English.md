@@ -2,7 +2,7 @@
 
 Modern English translation of the Greek text.
 
-## Book 14 Chapter 1: Scipio Plans To Attack the Punic Camp
+## Book 14 Chapter 1: Scipio Plans to Attack the Punic Camp
 
 While the consuls were occupied with these matters, Publius in Libya, during the winter quarters, learned that the Carthaginians were equipping a fleet. He therefore gave attention both to that preparation and no less to the siege of Utica.
 
@@ -102,7 +102,7 @@ So some sprang from sleep without any suspicion, while others were still drinkin
 
 Many were trampled down by their own people at the camp exits; many, hemmed in by the blaze, were burned alive; and those who did escape the flames all fell into the hands of the enemy and were destroyed, knowing neither what they were suffering nor what they were doing.
 
-## Book 14 Chapter 5: Dreadful Scene In the Burning Camps
+## Book 14 Chapter 5: Dreadful Scene in the Burning Camps
 
 At this same moment the Carthaginians, seeing the mass of the fire and the greatness of the flame leaping up, supposed that the Numidians’ palisade had caught fire by accident. Some of them therefore ran straight out to help, while all the rest poured unarmed out of their camp and gathered before their own encampment, astonished at what was happening.
 
@@ -132,7 +132,7 @@ Therefore no one alive could, even by exaggeration, adequately match what happen
 
 For that reason, although Scipio accomplished many great and noble deeds, this seems to me the finest and boldest of all his achievements [...]
 
-## Book 14 Chapter 6: Anda Surrenders to Rome
+## Book 14 Chapter 6: Scipio’s Pursuit and Carthage’s Dismay
 
 Yet when day came, and the enemy were either destroyed or in headlong flight, he exhorted the tribunes and at once pressed on in pursuit.
 
@@ -278,4 +278,4 @@ King Ptolemy, the one now under discussion, Philopator, after the war over Coele
 
 Late and only under compulsion from events, he became involved in the war now mentioned, which, apart from the mutual cruelty and lawlessness shown by the two sides, had neither pitched battle, nor sea fight, nor siege, nor anything else worthy of record.
 
-Therefore it seemed to me, the writer, that the narrative would be easier and also clearer for readers if I did not touch year by year on small matters unworthy of serious attention, but instead, by presenting the king’s disposition in one single body, should report on it once for all.
+Therefore it seemed to me that the narrative would be easier for me, the writer, and also clearer for readers if I did not touch year by year on small matters unworthy of serious attention, but instead, by presenting the king’s disposition in one single body, should report on it once for all.

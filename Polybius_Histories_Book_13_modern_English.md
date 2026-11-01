@@ -12,7 +12,7 @@ So, being naturally inclined toward a change in their own constitution, they cho
 
 Alexander the Aetolian opposed the legislation being drafted by Dorimachus and Scopas, showing by many examples that wherever this growth had once taken root, it never stopped until it had brought great disasters on those who had made use of it.
 
-Therefore he urged them to look not only at the present—whether they would get relief from their current obligations— but also at the future.
+Therefore he urged them to look not only at the present—whether they would get relief from their current obligations—but also at the future.
 
 For, he said, it was absurd that men should be ready in war to give up even their breath for the safety of their children, yet when they were deliberating, take no thought at all for the time that would come afterward.
 
@@ -92,7 +92,7 @@ In the end, in whatever cities one of the exiles happened to be living, he secre
 
 And so this was the sort of [...]
 
-## Book 13 Chapter 7: Nabis’s Wife
+## Book 13 Chapter 7: The Effigy of Nabis’s Wife
 
 By this method he did away with most of them. He also had a certain device constructed—if indeed one ought to call it a device.
 
@@ -102,7 +102,7 @@ Whenever he summoned one of the leading citizens because he wanted to extract mo
 
 If by such arguments they gave way, that was enough for his purpose.
 
-But if any of them refused and tried to put off his demand, he would make a speech like this: “Perhaps I am not able to persuade you, but I think this Apéga here will persuade you.” Apéga was the name of Nabis’s wife.
+But if any of them refused and tried to put off his demand, he would make a speech like this: “Perhaps I am not able to persuade you, but I think this Apega here will persuade you.” Apega was the name of Nabis’s wife.
 
 When he had said this, the figure I mentioned a little earlier was brought in.
 
@@ -146,7 +146,7 @@ The Gerrhaeans asked the king not to destroy what the gods had given them—that
 
 When freedom had been confirmed for the Gerrhaeans, they immediately honored King Antiochus with gifts of five hundred talents of silver, a thousand of frankincense, and two hundred of the substance called stacte. He then sailed on to the island of Tylos and from there departed for Seleuceia. These aromatic products came from the Erythraean Sea.
 
-## Book 13 Chapter 10: Geographical Fragments from Italy and Greece
+## Book 13 Chapter 10: Geographical Fragments from Italy, Crete, Thrace, and Illyria
 
 Badiza, a city of Bruttium, mentioned by Polybius in his thirteenth book.
 

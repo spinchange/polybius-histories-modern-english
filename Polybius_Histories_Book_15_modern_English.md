@@ -2,7 +2,7 @@
 
 Modern English translation of the Greek text.
 
-## Book 15 Chapter 1: Speech of Roman Envoys At Carthage
+## Book 15 Chapter 1: Speech of Roman Envoys at Carthage
 
 When the Carthaginians seized the Roman transport ships, along with a vast quantity of supplies, Scipio was deeply angered, not only because those provisions had been taken from his own side, but because the enemy had been furnished with an abundant store of necessities.
 
@@ -62,7 +62,7 @@ At last the Romans saw men from their own camp, who had been foraging along the 
 
 Most of those aboard were killed, but the envoys themselves were saved in a most unexpected way.
 
-## Book 15 Chapter 3: Last Year of the Second Punic War
+## Book 15 Chapter 3: War Renews as Hannibal Summons Tychaeus
 
 These events gave the war a new beginning, harsher and more bitter than before.
 
@@ -104,7 +104,7 @@ So, restraining his own anger and the bitterness caused by what had happened, he
 
 In this way he conquered all the Carthaginians in spirit, and Hannibal himself as well, by setting Roman nobility above their folly.
 
-## Book 15 Chapter 5: Both Sides Prepare For Battle
+## Book 15 Chapter 5: Both Sides Prepare for Battle
 
 When the Carthaginians saw their cities being sacked, they sent to Hannibal, begging him not to delay but to come to close quarters with the enemy and decide the matter by battle.
 
@@ -166,7 +166,7 @@ That everything over which we previously disputed should belong to the Romans—
 
 For I am convinced that these terms would be the safest for the future of Carthage, and the most honorable for you and for all the Romans.
 
-## Book 15 Chapter 8: Scipio’s reply
+## Book 15 Chapter 8: Scipio’s Reply
 
 Such was Hannibal’s speech. Scipio answered that in neither the war over Sicily nor that over Iberia had the Romans been the aggressors; plainly the Carthaginians had been, and no one knew that better than Hannibal himself.
 
@@ -196,7 +196,7 @@ In such circumstances, he said, if even harsher terms were imposed, it might sti
 
 So this was his conclusion: the Carthaginians must place themselves and their fatherland at Roman discretion, or else win by fighting.
 
-## Book 15 Chapter 9: Dispositions For the Battle of Zama
+## Book 15 Chapter 9: Dispositions for the Battle of Zama
 
 After this exchange Hannibal and Scipio parted, their conference having ended without agreement.
 
@@ -476,7 +476,7 @@ So such people are deceived in the honorable position they expected, though they
 
 But when a king is attempting the greatest enterprises, embracing the whole inhabited world in his ambitions, and still has all his hopes intact, how can it seem anything but irrational and mad to proclaim his own faithlessness and instability at the very first and smallest opportunities that present themselves?
 
-## Book 15 Chapter 24a: Egypt
+## Book 15 Chapter 24a: Telling the End Before the Beginning
 
 Since in each year we recount the events that happened in the various parts of the inhabited world in their proper sequence, it is plain that in some cases the end must be presented before the beginning, whenever that section first falls into place in the division of the whole work and, in the progress of the narrative, the event containing the conclusion naturally comes before the one containing the beginning and first design.
 
@@ -626,7 +626,7 @@ For, he said, destruction was plain to all unless they seized the moment when th
 
 And that moment, he said, was now in full strength.
 
-## Book 15 Chapter 29: A Revolt Decided Upon By the Army
+## Book 15 Chapter 29: A Revolt Decided Upon by the Army
 
 Moeragenes said that it needed only someone to take the lead. When the Macedonians heard this, they were stirred to anger, and in the end they were persuaded by him. They immediately went first to the Macedonian tents and then to those of the other soldiers.
 
@@ -678,7 +678,7 @@ By this time the crowd had assembled from the whole city, so that not only the o
 
 For in disturbances of this kind, both in Carthage and in Alexandria, the children play no smaller a part than the men.
 
-## Book 15 Chapter 31: The King Surrendered To the Soldiers
+## Book 15 Chapter 31: The King Surrendered to the Soldiers
 
 As day was already beginning to show, the shouting was still confused, but one demand stood out clearly from it: they were calling for the king.
 
@@ -782,7 +782,7 @@ That is why they say that Publius Scipio, the first conqueror of the Carthaginia
 
 With men like those, it is fitting to draw readers to attention, perhaps also to speak of Fortune and of human affairs, and to add an instructive reflection. But with the men we have been discussing, that is wholly out of place.
 
-## Book 15 Chapter 36: Agathocles Was Not An Important Person
+## Book 15 Chapter 36: Dwelling on Disasters Belongs to Tragedy
 
 For these reasons we have rejected any expanded treatment of Agathocles.
 

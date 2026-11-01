@@ -84,7 +84,7 @@ And if my general overview should seem to leave anything out, the detailed discu
 
 What, then, are the origins I mean, and from what source do I say constitutions first arise?
 
-Whenever floods, outbreaks of plague, crop failures, or other causes of this kind bring about a destruction of the human race—such as tradition tells us has happened before, and as reason tells us will happen again and again— then, with all customs and skills perishing together, and when in the course of time a multitude of people grows up once more from the survivors, as though from seeds, then, as with the other animals, these people too gather together. And it is only natural that they too, in their natural weakness, should band together with their own kind. In such circumstances it is inevitable that the one who excels in bodily strength and boldness of spirit should lead and rule the rest, just as we observe among the other species of animals that lack reason—and this we must regard as the truest work of nature, since among them we see, by common agreement, the strongest taking the lead: I mean bulls, boars, cocks, and creatures like them.
+Whenever floods, outbreaks of plague, crop failures, or other causes of this kind bring about a destruction of the human race—such as tradition tells us has happened before, and as reason tells us will happen again and again—then, with all customs and skills perishing together, and when in the course of time a multitude of people grows up once more from the survivors, as though from seeds, then, as with the other animals, these people too gather together. And it is only natural that they too, in their natural weakness, should band together with their own kind. In such circumstances it is inevitable that the one who excels in bodily strength and boldness of spirit should lead and rule the rest, just as we observe among the other species of animals that lack reason—and this we must regard as the truest work of nature, since among them we see, by common agreement, the strongest taking the lead: I mean bulls, boars, cocks, and creatures like them.
 
 It is likely, then, that in the beginning the lives of human beings were of this sort: gathering together like animals and following the most vigorous and powerful among them, whose authority was bounded only by strength, and whose rule one might call monarchy.
 
@@ -130,13 +130,13 @@ These things gave rise in some cases to envy and offense, in others to a blaze o
 
 ## Book 6 Chapter 8: Degeneration of Constitutions
 
-The first step toward its dissolution was taken, and a conspiracy began to form against the rulers— a conspiracy that arose not from the worst men, but from the noblest, most high-minded, and most courageous, because such men are least able to endure the abuses of those in power. And when the people gained leaders and joined forces with them against the rulers for the reasons already described, the form of kingship and monarchy was utterly destroyed, while aristocracy in turn took its beginning and origin.
+The first step toward its dissolution was taken, and a conspiracy began to form against the rulers—a conspiracy that arose not from the worst men, but from the noblest, most high-minded, and most courageous, because such men are least able to endure the abuses of those in power. And when the people gained leaders and joined forces with them against the rulers for the reasons already described, the form of kingship and monarchy was utterly destroyed, while aristocracy in turn took its beginning and origin.
 
 For the people, as though repaying an immediate debt of gratitude to those who had overthrown the monarchs, employed them as their leaders and entrusted their affairs to them.
 
 At first these men gladly accepted the charge and put nothing ahead of the common good, managing every matter—both private and public—with care and watchfulness on behalf of the people.
 
-But when their children inherited this same authority from their fathers—having no experience of hardship, no experience at all of civic equality and freedom of speech, and having been raised from the start amid their fathers’ power and privileges— some of them turned to greed and unjust love of money, others to drunkenness and the insatiable feasting that goes with it, and others to the violation of women and the abduction of boys. And so they transformed the aristocracy into an oligarchy, and they quickly stirred up among the people feelings much like those just described. For this reason the end of their downfall turned out to be much like the misfortune that befell the tyrants.
+But when their children inherited this same authority from their fathers—having no experience of hardship, no experience at all of civic equality and freedom of speech, and having been raised from the start amid their fathers’ power and privileges—some of them turned to greed and unjust love of money, others to drunkenness and the insatiable feasting that goes with it, and others to the violation of women and the abduction of boys. And so they transformed the aristocracy into an oligarchy, and they quickly stirred up among the people feelings much like those just described. For this reason the end of their downfall turned out to be much like the misfortune that befell the tyrants.
 
 ## Book 6 Chapter 9: How Democracy Arises and Degenerates
 
@@ -172,15 +172,15 @@ This will be possible to observe through what is to be said hereafter.
 
 For now I will make a brief mention of the legislation of Lycurgus, since this discussion is not foreign to my purpose.
 
-For that man, having taken to heart that each of the developments described above comes about necessarily and naturally, and having reasoned that every form of constitution that is simple and rests on a single kind of power is precarious—because it is quickly perverted into the vice that is its own and that follows it by nature— just as rust is the dissolvent inborn in iron, and woodworms and grubs in timber, by which, even if they escape all external harm, they are destroyed by the very things that grow up within them— in the same way, in each of the constitutions there is by nature bred and attendant some particular vice: in kingship, the form called monarchic (despotism); in aristocracy, that of oligarchy; and in democracy, the bestial and mob-ruled form. Into these it is impossible that all the aforementioned constitutions should not, in the course of time, undergo their transformations, according to the argument just given.
+For that man, having taken to heart that each of the developments described above comes about necessarily and naturally, and having reasoned that every form of constitution that is simple and rests on a single kind of power is precarious—because it is quickly perverted into the vice that is its own and that follows it by nature—just as rust is the dissolvent inborn in iron, and woodworms and grubs in timber, by which, even if they escape all external harm, they are destroyed by the very things that grow up within them—in the same way, in each of the constitutions there is by nature bred and attendant some particular vice: in kingship, the form called monarchic (despotism); in aristocracy, that of oligarchy; and in democracy, the bestial and mob-ruled form. Into these it is impossible that all the aforementioned constitutions should not, in the course of time, undergo their transformations, according to the argument just given.
 
-Foreseeing this, Lycurgus did not make his constitution simple or of a single type, but gathered together all at once the virtues and distinctive features of the best forms of government, so that no element, growing beyond what was due, should be perverted into the vices that are akin to it; but rather, with the power of each held in check by the others, none of them should incline anywhere or weigh down too far, but the constitution should remain in equilibrium and balanced for a long time, like a ship beating against the wind— the kingship being prevented from growing arrogant by fear of the people, since the people too had been given a sufficient share in the constitution; and the people in turn not daring to despise the kings, out of fear of the elders, who, having been chosen by selection on the grounds of merit, were always bound to attach themselves to what was just, so that the party of those at a disadvantage, by holding fast to established custom, always became greater and weightier through the leaning and support of the elders.
+Foreseeing this, Lycurgus did not make his constitution simple or of a single type, but gathered together all at once the virtues and distinctive features of the best forms of government, so that no element, growing beyond what was due, should be perverted into the vices that are akin to it; but rather, with the power of each held in check by the others, none of them should incline anywhere or weigh down too far, but the constitution should remain in equilibrium and balanced for a long time, like a ship beating against the wind—the kingship being prevented from growing arrogant by fear of the people, since the people too had been given a sufficient share in the constitution; and the people in turn not daring to despise the kings, out of fear of the elders, who, having been chosen by selection on the grounds of merit, were always bound to attach themselves to what was just, so that the party of those at a disadvantage, by holding fast to established custom, always became greater and weightier through the leaning and support of the elders.
 
 And so, having framed it in this way, he preserved freedom for the Spartans for the longest time of any people we know of.
 
 He, then, foreseeing by a process of reasoning the source and manner in which each thing naturally comes about, established the aforesaid constitution without harm.
 
-The Romans, on the other hand, have arrived at the same end—the order of their own state— yet not through reasoning, but through many struggles and difficulties, ever choosing the better course from the very knowledge gained amid reverses; and thus they came to the same end as Lycurgus, the finest political system of any in our time.
+The Romans, on the other hand, have arrived at the same end—the order of their own state—yet not through reasoning, but through many struggles and difficulties, ever choosing the better course from the very knowledge gained amid reverses; and thus they came to the same end as Lycurgus, the finest political system of any in our time.
 
 ## Book 6 Chapter 11: The Roman Constitution
 
@@ -296,7 +296,7 @@ And in matters of alliance, the cessation of hostilities, and treaties, it is th
 
 So that here again one might reasonably say that the people hold the greatest share of power and that the constitution is a democracy.
 
-## Book 6 Chapter 15: Division of Political Power At Rome
+## Book 6 Chapter 15: Division of Political Power at Rome
 
 We have now described how the powers of the state are divided among each of its elements. We will now explain how each of these parts can, when it chooses, work against the others or cooperate with them.
 
@@ -324,7 +324,7 @@ And it cannot carry out the most far-reaching and serious inquiries into, and co
 
 The same holds for matters that touch the Senate itself: if anyone introduces a law that strips away some part of the authority the Senate holds by custom, or abolishes its privileges of precedence and its honors, or indeed makes inroads on the senators’ personal property, in all such cases it is the people who have the power to enact it or not.
 
-And the decisive point: if a single one of the tribunes interposes his veto, the Senate not only cannot bring any of its deliberations to a conclusion, but cannot even convene or assemble at all— and the tribunes are always bound to do what the people decide and above all to keep the people’s wishes in view. For all these reasons, then, the Senate fears the multitude and pays heed to the people.
+And the decisive point: if a single one of the tribunes interposes his veto, the Senate not only cannot bring any of its deliberations to a conclusion, but cannot even convene or assemble at all—and the tribunes are always bound to do what the people decide and above all to keep the people’s wishes in view. For all these reasons, then, the Senate fears the multitude and pays heed to the people.
 
 ## Book 6 Chapter 17: Powers of the Senate
 
@@ -354,7 +354,7 @@ For whenever some common danger from outside presses upon them and forces them t
 
 As a result, the distinctive character of this constitution makes it irresistible and able to achieve anything it has resolved upon.
 
-And again, whenever they are freed from external fears and settle into the prosperity and abundance that come from their successes, enjoying their good fortune and growing corrupted by flattery and idleness, and turn toward violence and arrogance—as commonly happens— it is then above all that the constitution can be seen supplying the remedy out of its own resources.
+And again, whenever they are freed from external fears and settle into the prosperity and abundance that come from their successes, enjoying their good fortune and growing corrupted by flattery and idleness, and turn toward violence and arrogance—as commonly happens—it is then above all that the constitution can be seen supplying the remedy out of its own resources.
 
 For whenever one of the parts begins to swell, becomes contentious, and tends to gain more power than it should, it is clear that—since, as just explained, none of them is self-sufficient, and the purpose of each can be counteracted and hindered by the others—none of the parts swells up or grows overbearing.
 
@@ -374,7 +374,7 @@ No one is permitted to hold any civil office until he has completed ten annual c
 
 When the holders of the consular office are about to carry out the enrollment of soldiers, they announce in advance before the people the day on which all Romans of military age must present themselves. They do this every year.
 
-When the day has come and the men eligible for service have arrived in Rome, and then assembled on the Capitol, the junior military tribunes divide themselves up— in whatever order they have been appointed by the people or by the commanders—into four groups, because the basic, primary division of their forces is made into four legions.
+When the day has come and the men eligible for service have arrived in Rome, and then assembled on the Capitol, the junior military tribunes divide themselves up—in whatever order they have been appointed by the people or by the commanders—into four groups, because the basic, primary division of their forces is made into four legions.
 
 They assigned the first four appointed to the legion called the first, the next three to the second, the four following these to the third, and the last three to the fourth.
 
@@ -394,7 +394,7 @@ After this, when yet another four are brought forward, the officers of the third
 
 With the selection proceeding by rotation in this regular way throughout, it turns out that the men taken into each of the legions are closely comparable.
 
-When they have selected the prescribed number—which is sometimes four thousand two hundred infantry for each legion, and at other times five thousand, whenever some greater danger looms before them— after this they pass the cavalry. In the old days they used to review the cavalry afterward, following the four thousand two hundred infantry, but now they do it beforehand, since the selection of the cavalry is now made by the censor on the basis of wealth; and they enroll three hundred for each legion.
+When they have selected the prescribed number—which is sometimes four thousand two hundred infantry for each legion, and at other times five thousand, whenever some greater danger looms before them—after this they pass the cavalry. In the old days they used to review the cavalry afterward, following the four thousand two hundred infantry, but now they do it beforehand, since the selection of the cavalry is now made by the censor on the basis of wealth; and they enroll three hundred for each legion.
 
 ## Book 6 Chapter 21: Fourfold Division of the Legionaries
 
@@ -632,7 +632,7 @@ Each of those three maniples in turn performs the following services for its tri
 
 They also provide him with two pickets, each of four men, some stationed in front of the tent and others behind it by the horses.
 
-Since each tribune has three maniples, and each maniple contains more than a hundred men—not counting the triarii and velites, who are exempt from this duty— and since the duty falls to each maniple only every third day, the burden is light, while the arrangement gives the tribunes both the service they need and an impressive dignity.
+Since each tribune has three maniples, and each maniple contains more than a hundred men—not counting the triarii and velites, who are exempt from this duty—and since the duty falls to each maniple only every third day, the burden is light, while the arrangement gives the tribunes both the service they need and an impressive dignity.
 
 The maniples of triarii are excused from attendance on the tribunes, but each maniple supplies a daily guard to the cavalry squadron quartered just behind it.
 
@@ -780,7 +780,7 @@ Among the allies, the infantry receive the same amount, while the cavalry receiv
 
 For the allies this ration is a free grant, but from the Romans the quaestor deducts at a fixed rate the cost of grain, clothing, and any additional weapons they may need, taking it out of their pay.
 
-## Book 6 Chapter 40: The Army On the March
+## Book 6 Chapter 40: The Army on the March
 
 Their method of striking camp and marching is as follows.
 
@@ -848,7 +848,7 @@ The Romans, by contrast, choose to endure the labor of digging and the other har
 
 These, then, are the principal features of the Roman system of camps, and especially of the way they lay them out.
 
-## Book 6 Chapter 43: The Roman Republic Compared with Others
+## Book 6 Chapter 43: Thebes Owed Its Rise to Its Leaders
 
 Nearly all historians have handed down to us a reputation for excellence in the constitutions of Sparta, Crete, Mantinea, and Carthage; some have also mentioned those of Athens and Thebes.
 
@@ -1070,7 +1070,7 @@ There have even been magistrates who put their own sons to death, against every 
 
 Many such stories are told of many Roman men, but one example named specifically will be enough for the present, both as proof and as illustration.
 
-## Book 6 Chapter 55: Patriotism and Purity At Rome
+## Book 6 Chapter 55: Horatius Cocles Holds the Bridge
 
 They tell the story of Horatius, surnamed Cocles. While he was fighting against two of the enemy at the far end of the bridge over the Tiber, the bridge that stands before the city, he saw a large body coming up to support them and feared that they would force their way across into the city.
 

@@ -68,7 +68,7 @@ The Carthaginians saw perfectly well the complete instability and madness of the
 
 So they assented to all his demands, and, having already prepared ships and soldiers beforehand, they proceeded with plans to transport their forces to Sicily.
 
-## Book 7 Chapter 5: Hieronymus Decides For War
+## Book 7 Chapter 5: Hieronymus Decides for War
 
 When the Romans learned of this, they again sent envoys to him, protesting that he must not violate the treaties made with his forefathers.
 
@@ -160,7 +160,7 @@ The same shall hold if any others do so, apart from those kings, cities, and nat
 
 And if it seems good to us to remove anything from this oath or to add anything to it, we shall remove or add it as seems good to both of us.
 
-## Book 7 Chapter 10: Messene and Philip V. in 215 BC
+## Book 7 Chapter 10: Gorgus of Messene
 
 *Quoted by Suidas, Lexicon.*
 
@@ -210,7 +210,7 @@ Philip turned to Aratus and said, “And do you advise the same?” When Aratus 
 
 After some uncertainty Aratus said, “If you can hold this place without breaking faith with the Messenians, I advise you to hold it.
 
-But if by occupying this place with a garrison you mean to destroy every acropolis and the very guard —meaning good faith—by which the allies you received from Antigonus were protected, consider whether it is not better now to lead your men out and leave their trust behind, and by that trust to guard the Messenians, and likewise the rest of your allies.”
+But if by occupying this place with a garrison you mean to destroy every acropolis and the very guard—meaning good faith—by which the allies you received from Antigonus were protected, consider whether it is not better now to lead your men out and leave their trust behind, and by that trust to guard the Messenians, and likewise the rest of your allies.”
 
 Philip by his own inclination was ready to break faith, as later events made clear.
 
@@ -228,13 +228,13 @@ For when, in narrating the Aetolian War, we paused at the point where we said th
 
 And we promised to make this clear from what would be recounted later, postponing until this point the proof of that earlier judgment, the moment when, with Demetrius present, as we have just shown in the affair at Messene, and Aratus delayed by only a single day, Philip began to lay hands on the gravest acts of impiety.
 
-And as if, after tasting human blood and the murder and betrayal of allies, he had been changed—not from a man into a wolf, as in the Arcadian myth cited by Plato, but from a king into a savage tyrant.
+And as if he had tasted human blood and the murder and betrayal of allies, he was changed—not from a man into a wolf, as in the Arcadian myth cited by Plato, but from a king into a savage tyrant.
 
-An even clearer proof of the character of the two men is the advice given about the citadel, helping us not to remain uncertain even about the events concerning the [...]
+An even clearer proof of the character of the two men is the advice given about the citadel, helping us not to remain uncertain even about the events concerning the Aetolians.
 
 ## Book 7 Chapter 14: Aratus a Moderating Influence on Philip
 
-[...] Aetolians. Once these points are admitted, it is already easy to reckon up the difference in the policy of the two men.
+Once these points are admitted, it is already easy to reckon up the difference in the policy of the two men.
 
 For just as now, when Philip listened to Aratus, he kept faith with the Messenians in the matter of the citadel, and, as the saying goes, applied a small remedy to the great wound created by the earlier slaughter, so in the Aetolian affair, when he followed Demetrius, he sinned against the gods by destroying consecrated offerings, wronged men by transgressing the laws of war, and missed the mark of his proper policy, making himself an implacable and bitter enemy to those who differed with him.
 
@@ -282,7 +282,7 @@ Observing this, the man I mentioned noticed that when the birds had eaten their 
 
 After that he approached by night with care and examined the possible routes of access and the positions for ladders.
 
-## Book 7 Chapter 16: Antiochus Takes Sardis
+## Book 7 Chapter 16: The Plan to Scale the Cliffs of Sardis
 
 And finding that at one place, along one of the cliffs, an ascent was possible, he laid the matter before the king. When the king took up the hope and urged Lagoras to carry out the attempt, the latter promised to do what he could, but asked the king to assign to him Theodotus the Aetolian and Dionysius, the commander of the bodyguard, so that they might join him, lend their aid, and share in the enterprise, since each of them seemed to possess enough strength and daring for the plan in hand.
 
@@ -296,7 +296,7 @@ They also appointed two thousand men to follow after these, who, once they had b
 
 And so that the selection of the men might not arouse any suspicion of the truth, the king spread the story that the Aetolians were about to force an entry into the city through a certain ravine, and that energetic precautions had to be taken in view of that report.
 
-## Book 7 Chapter 17: The Sack of Sardis
+## Book 7 Chapter 17: The Ladders Go Up at Sardis
 
 When everything was ready for them, as soon as the moon had gone down, Lagoras and his party came secretly to the cliffs with their ladders and hid themselves under an overhanging ledge.
 

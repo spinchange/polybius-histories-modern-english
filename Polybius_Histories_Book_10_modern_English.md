@@ -2,7 +2,7 @@
 
 Modern English translation of the Greek text.
 
-## Book 10 Chapter 1: The Hannibalian War — The Recovery of Tarentum
+## Book 10 Chapter 1: The Strategic Importance of Tarentum
 
 The distance from the strait and the city of Rhegium to Tarentum is more than two thousand stades, and as a result this whole side of Italy has no harbor at all except those at Tarentum.
 
@@ -68,13 +68,13 @@ Then, once the others too were compelled to charge in, the enemy, struck with pa
 
 After winning an acknowledged reputation for courage through this exploit, he henceforth always gave himself without reserve to personal danger whenever his country placed the hopes of all upon him. That is the mark not of a commander trusting to luck, but of one with a mind fit to lead.
 
-## Book 10 Chapter 4: His Election To the Aedileship
+## Book 10 Chapter 4: His Election to the Aedileship
 
-After this, when he had an elder brother, Lucius, and Lucius was standing for the aedileship—which among the Romans is considered almost the most distinguished office open to a young man— and when it was customary for two patricians to be chosen, while on this occasion several candidates were seeking the office, Publius for a long time did not dare to stand for the same magistracy as his brother.
+After this, when he had an elder brother, Lucius, and Lucius was standing for the aedileship—which among the Romans is considered almost the most distinguished office open to a young man—and when it was customary for two patricians to be chosen, while on this occasion several candidates were seeking the office, Publius for a long time did not dare to stand for the same magistracy as his brother.
 
 But as the election drew near, judging from the temper of the crowd that his brother would not easily gain the office, and seeing that the people felt great goodwill toward himself, he concluded that Lucius could achieve his aim only if the two of them made their bid together in full agreement. So he devised the following plan.
 
-He saw his mother going about the temples and sacrificing to the gods for his brother, full of expectation about the outcome; and she was the only parent whose feelings mattered to him at the time— for his father had by then sailed to Iberia after being appointed general for the operations already described. So he told his mother that he had now seen the same dream twice.
+He saw his mother going about the temples and sacrificing to the gods for his brother, full of expectation about the outcome; and she was the only parent whose feelings mattered to him at the time—for his father had by then sailed to Iberia after being appointed general for the operations already described. So he told his mother that he had now seen the same dream twice.
 
 In the dream, he said, he and his brother had both been elected aediles and were coming up from the Forum toward their house, when she met them at the doorway and embraced and kissed them.
 
@@ -128,7 +128,7 @@ Second, once he had undertaken it, he passed over the obvious and commonplace me
 
 None of this was done apart from the most exact calculation.
 
-## Book 10 Chapter 7: He Determines To Attack New Carthage
+## Book 10 Chapter 7: He Determines to Attack New Carthage
 
 From the very beginning, while still at Rome, he investigated carefully and learned about the treachery of the Celtiberians and the separation of the Roman camps, and from this he reasoned that the disaster that had overtaken his father had happened because of exactly those causes.
 
@@ -252,7 +252,7 @@ When that happened, the whole crowd inside the city was so panic-stricken that e
 
 So the Romans came very close at that moment to bursting in together with the fugitives; in any case, they were able to plant their ladders against the wall in complete safety.
 
-## Book 10 Chapter 13: Double Assault By The Romans
+## Book 10 Chapter 13: Scaling Ladders Fail at New Carthage
 
 Publius threw himself into the danger, yet he did so with as much safety as circumstances allowed.
 
@@ -380,7 +380,7 @@ To these men too he promised freedom on similar terms, if they showed loyalty an
 
 By handling the prisoners in this way he inspired the citizens with strong goodwill and confidence both toward himself and toward Roman policy, while he stirred great eagerness in the craftsmen by the hope of freedom.
 
-And by increasing his naval strength by half at just the right moment through his foresight—
+And by increasing his naval strength by half at just the right moment through his foresight [...]
 
 ## Book 10 Chapter 18: Scipio’s Treatment of Women
 
@@ -494,7 +494,7 @@ After laying these instructions before both the rank and file and their officers
 
 For he judged that nothing was more necessary in practice than experienced leadership in the subordinate officers.
 
-## Book 10 Chapter 24: How to Drill a Large Company
+## Book 10 Chapter 24: A Hipparch Drills the Cavalry
 
 After making these preliminary arrangements in the way described, he assembled the cavalry from the cities into one place, and himself carried out the maneuvers and personally directed the whole handling of the drill.
 
@@ -530,7 +530,7 @@ When King Philip of Macedon had finished presiding over the Nemean games, he ret
 
 But the more democratic the dress he put on, the greater and more monarchical was the power he claimed.
 
-For he was no longer merely trying widows, nor content with seducing married women; any woman who pleased him he now summoned by direct order, and those who did not readily obey he insulted by leading drunken revels to their houses.
+For he was no longer merely making advances to widows, nor content with seducing married women; any woman who pleased him he now summoned by direct order, and those who did not readily obey he insulted by leading drunken revels to their houses.
 
 He would summon some women’s sons and others’ husbands on absurd pretexts and bully them, displaying great licentiousness and lawlessness.
 
@@ -572,7 +572,7 @@ Yet even when Antiochus arrived, the temple itself, called that of Aene, still h
 
 From all these objects the coined royal money that was struck came to a sum little short of four thousand talents.
 
-## Book 10 Chapter 28: Antiochus the Great In Media
+## Book 10 Chapter 28: Antiochus the Great in Media
 
 Arsaces expected that Antiochus would come as far as these regions, but would not dare to push across the desert adjoining them with so large an army, especially because of the lack of water.
 
@@ -632,7 +632,7 @@ The king, however, with great urgency checked any prolonged pursuit by sounding 
 
 Having arranged the march as he wished and coming to Tambrax, an unwalled city that nevertheless possessed a royal palace and considerable size, he encamped there.
 
-Most of the people, having withdrawn from the battle and from the surrounding countryside into the city called Syrinx—which lay not far from Tambrax and served as something like the capital of Hyrcania because of its strength and general convenience— he determined to take this place by force. So he gathered the army, advanced, and after encamping around it began the siege.
+Most of the people, having withdrawn from the battle and from the surrounding countryside into the city called Syrinx—which lay not far from Tambrax and served as something like the capital of Hyrcania because of its strength and general convenience—he determined to take this place by force. So he gathered the army, advanced, and after encamping around it began the siege.
 
 The main part of the attack lay in the use of covered sheds for filling operations. There were three ditches, each no less than thirty cubits broad and fifteen deep; on the edge of each stood double palisades, and finally a strong outer wall in front.
 
@@ -834,7 +834,7 @@ Afterward, taking over the Carthaginian camp because the site was so favorable, 
 
 Later, as the season was already drawing to its close, he withdrew with the army to Tarraco to winter in that region.
 
-## Book 10 Chapter 41: Affairs in Greece: Philip V. Called In Against the Aetolians
+## Book 10 Chapter 41: Affairs in Greece: Philip V. Called in Against the Aetolians
 
 The Aetolians, recently elated by the arrival of the Romans and King Attalus, were alarming everyone and pressing hard against all by land, while Attalus and Publius did the same by sea.
 
@@ -886,7 +886,7 @@ For the system had to operate by fixed conventions, while most events are indefi
 
 That a fleet had arrived at Oreus or Peparethus or Chalcis could indeed be made clear to those who had agreed on such a signal.
 
-But if certain citizens are changing sides, or betraying the city, or a massacre has occurred, or any other such thing—events which often happen, but for which it is impossible to make prior provision, though such unexpected developments especially demand prompt deliberation and aid— all such matters escaped the use of fire-signals. For where no prior foresight is possible, no agreed sign for the event can be devised either.
+But if certain citizens are changing sides, or betraying the city, or a massacre has occurred, or any other such thing—events which often happen, but for which it is impossible to make prior provision, though such unexpected developments especially demand prompt deliberation and aid—all such matters escaped the use of fire-signals. For where no prior foresight is possible, no agreed sign for the event can be devised either.
 
 ## Book 10 Chapter 44: Methods of Signalling
 
@@ -938,7 +938,7 @@ When those are lowered, the signaller next raises torches on the left to show wh
 
 Then he raises torches on the right according to the same principle to show which letter on that tablet the receiver must write down.
 
-## Book 10 Chapter 46: Improvements In Signalling
+## Book 10 Chapter 46: Improvements in Signalling
 
 Once these arrangements have been agreed on and the parties have gone apart, each side at its station should first have a sighting device with two tubes, so that the observer receiving the returning signal may see through one the right-hand position and through the other the left.
 

@@ -2,7 +2,7 @@
 
 Modern English translation of the Greek text.
 
-## Book 19 Chapter 1: Walls of the Cities Beyond the Baetis
+## Book 19 Chapter 1: Walls of the Cities on This Side of the Baetis
 
 *Quoted by Plutarch.*
 

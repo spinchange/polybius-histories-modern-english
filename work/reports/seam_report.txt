@@ -1,12 +1,12 @@
 Seam report
   known: 9
 
-B03 L395 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | They pointed out that the Saguntines were not at that time allies of Rome, and to prove th
-B03 L445 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | ## Book 3 Chapter 25: The Third Treaty
-B03 L479 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | When the war over Sicily had been brought to an end, then, they made another treaty, in wh
-B03 L1043 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | For the dangers by sea were then many and hard to reckon, and those by land many times gre
-B03 L1579 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | So that affair was brought to its conclusion. Hannibal, once the men who had surrendered u
-B04 L1435 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | So the Cretans sent by the Spartans returned home through Messenia, while Phillidas and hi
+B03 L395 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | The first treaty between Rome and Carthage was concluded in the consulship of Lucius Juniu
+B03 L445 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | Whichever of the two has need of the assistance, the Carthaginians shall furnish the ships
+B03 L479 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | The Carthaginians shall return all their prisoners to the Romans without ransom.”
+B03 L1043 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | Since, then, a true account of the matters just mentioned was, in former times at least, n
+B03 L1579 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | When news of the disaster that had occurred reached Rome, the leaders of the state were un
+B04 L1435 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | Encamping before the place and bringing up the rest of his force from Lepreum, he made it 
 B06 L449 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | Of the heavier ones, the round-shafted have a diameter of a palm’s breadth, and the square
 B16 L207 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | ## Book 16 Chapter 11: Philip’s Operations in Caria, 201 BC
-B22 L111 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | ## Book 22 Chapter 6: Envoys Accuse Philip Before the Senate
+B22 L111 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | But when the Lycian envoys entered the assembly and began speaking about an alliance, and 

@@ -10,7 +10,7 @@ In that same book I also explained the reasons why, going back in time to the pe
 
 Now, after a few preliminary remarks about my own undertaking, I shall attempt to give a demonstrated account of the wars mentioned above, of the causes from which they arose, and of the reasons why they grew to such proportions.
 
-Since the whole subject I have set my hand to write about is in fact a single action and a single spectacle—namely, how, when, and why all the known parts of the inhabited world fell under the dominion of Rome— and since this event has a recognizable beginning, a fixed span of time, and an acknowledged conclusion, I think it useful to give in summary form a preliminary account of the greatest of its parts, all those that lie between the beginning and the end.
+Since the whole subject I have set my hand to write about is in fact a single action and a single spectacle—namely, how, when, and why all the known parts of the inhabited world fell under the dominion of Rome—and since this event has a recognizable beginning, a fixed span of time, and an acknowledged conclusion, I think it useful to give in summary form a preliminary account of the greatest of its parts, all those that lie between the beginning and the end.
 
 For I believe that in this way I shall best furnish to those eager to learn an adequate grasp of the whole design.
 
@@ -40,9 +40,7 @@ To these I shall append the disturbances in Egypt: how, after King Ptolemy depar
 
 After this, having summarized the operations of the Romans and Carthaginians in Iberia, Libya, and Sicily, I shall, along with the shift in events, move my narrative entirely to the regions of Greece.
 
-Having recounted the naval battles of Attalus and the Rhodians against Philip, and also the war between Rome and Philip—how it was conducted, by whom, and what end it had—
-
-I shall join to this in unbroken sequence the account of the resentment of the Aetolians, in the course of which they drew in Antiochus from Asia and kindled the war against the Achaeans and the Romans.
+Having recounted the naval battles of Attalus and the Rhodians against Philip, and also the war between Rome and Philip—how it was conducted, by whom, and what end it had—I shall join to this in unbroken sequence the account of the resentment of the Aetolians, in the course of which they drew in Antiochus from Asia and kindled the war against the Achaeans and the Romans.
 
 After explaining its causes and the crossing of Antiochus into Europe, I shall make clear, first, how he was driven out of Greece; second, how, after being defeated, he withdrew from all the territory on this side of the Taurus; and third, how the Romans, after crushing the insolence of the Galatians, secured for themselves undisputed mastery over Asia and freed those dwelling on this side of the Taurus from their fear of the barbarians and from the lawlessness of the Galatians.
 
@@ -58,9 +56,7 @@ Now, if it were possible to form an adequate judgment about which men and politi
 
 For the fifty-three years came to their end at this point, and the growth and advance of Roman power had reached completion; and besides, it seemed an accepted fact, forced upon everyone, that from then on all that remained was to listen to the Romans and to obey their commands.
 
-But since judgments based purely on the contests themselves are not conclusive, whether about the victors or about the defeated, because to many what seemed the greatest of successes has, when not used as it should be, brought the greatest disasters, while not a few who have met the most shattering reverses, when they bore them nobly, have often turned them to their advantage—
-
-I ought therefore to add to the events already described an account of the policy of the victors: what it was afterward, and how they presided over the whole; and also the reactions and judgments of the others—how many and what kind there were concerning the leading power; and besides these I must set out the impulses and ambitions that prevailed and held sway among each people, both in their private lives and in their public affairs.
+But since judgments based purely on the contests themselves are not conclusive, whether about the victors or about the defeated, because to many what seemed the greatest of successes has, when not used as it should be, brought the greatest disasters, while not a few who have met the most shattering reverses, when they bore them nobly, have often turned them to their advantage—I ought therefore to add to the events already described an account of the policy of the victors: what it was afterward, and how they presided over the whole; and also the reactions and judgments of the others—how many and what kind there were concerning the leading power; and besides these I must set out the impulses and ambitions that prevailed and held sway among each people, both in their private lives and in their public affairs.
 
 For it is clear that from these things it will become evident to people now living whether the rule of Rome is to be avoided or, on the contrary, to be welcomed, and to later generations whether their empire is to be considered praiseworthy and enviable or blameworthy.
 
@@ -76,9 +72,9 @@ Therefore the crowning achievement of this work will be to learn the condition o
 
 Because of the magnitude of the events involved, the unexpected character of what happened, and—most of all—because I was not only an eyewitness to most of it but in some cases a participant and in others the very director, I was led to begin, as it were, a new work.
 
-## Book 3 Chapter 5: The True Theory of Historical Causes
+## Book 3 Chapter 5: The Plan of the Work Summarized
 
-—as if making this the beginning of a fresh narrative to write. The upheaval I have spoken of was that in which the Romans waged war against the Celtiberians and the Vaccaei, and the Carthaginians against Massinissa, king of the Libyans; while in Asia Attalus and Prusias made war on each other, and Ariarathes, king of the Cappadocians, having been driven from his throne by Orophernes through the agency of King Demetrius, recovered his ancestral kingdom again with the help of Attalus.
+The upheaval I have spoken of was that in which the Romans waged war against the Celtiberians and the Vaccaei, and the Carthaginians against Massinissa, king of the Libyans; while in Asia Attalus and Prusias made war on each other, and Ariarathes, king of the Cappadocians, having been driven from his throne by Orophernes through the agency of King Demetrius, recovered his ancestral kingdom again with the help of Attalus.
 
 Demetrius, son of Seleucus, after holding the throne of Syria for twelve years, was robbed at once of his life and his rule when the other kings combined against him.
 
@@ -100,7 +96,7 @@ Now that I have gone through the most notable events in summary—wishing to giv
 
 Some of those who have written accounts of the deeds of Hannibal, wishing to point out to us the causes from which the aforementioned war between the Romans and the Carthaginians arose, name as the first the siege of Saguntum by the Carthaginians, and as the second their crossing, in violation of the treaties, of the river called by the local inhabitants the Ebro.
 
-For my part, I would say that these were the beginnings of the war, but I would by no means concede that they were its causes. Far from it— unless one is also going to say that Alexander’s crossing into Asia was the cause of the war against the Persians, and that Antiochus’ landing at Demetrias was the cause of his war with the Romans: neither of which is either probable or true.
+For my part, I would say that these were the beginnings of the war, but I would by no means concede that they were its causes. Far from it—unless one is also going to say that Alexander’s crossing into Asia was the cause of the war against the Persians, and that Antiochus’ landing at Demetrias was the cause of his war with the Romans: neither of which is either probable or true.
 
 For who could suppose these to be causes, when Alexander earlier, and Philip while still alive, had done and prepared a great deal for the war against the Persians, and likewise the Aetolians had done much before the arrival of Antiochus for the war against the Romans?
 
@@ -116,7 +112,7 @@ The first was the return march of the Greeks under Xenophon from the upper satra
 
 From these things Philip perceived and reckoned up the cowardice and laziness of the Persians, as well as his own excellence and that of the Macedonians in matters of war; and setting before his eyes, too, the magnitude and splendor of the prizes that would come from the war, while at the same time securing the acknowledged goodwill of the Greeks, he at once made use of the pretext that he was eager to avenge the lawless treatment the Greeks had suffered from the Persians, conceived an eagerness for the enterprise, resolved to make war, and began preparing everything toward this end.
 
-## Book 3 Chapter 7: Fabius Pictor on the Cause of the Punic War
+## Book 3 Chapter 7: Cause, Pretext, and Beginning of a War
 
 Accordingly, the first set of circumstances mentioned should be regarded as the causes of the war against the Persians, the second as the pretext, and the beginning as Alexander’s crossing into Asia. And so too, in the case of the war between Antiochus and the Romans, it is clear that the cause must be considered the resentment of the Aetolians.
 
@@ -158,7 +154,7 @@ For so far were the Carthaginians from doing any of the things just described th
 
 For what reason, then, have I brought up Fabius and what he has written?
 
-Not out of any worry that his account is so plausible it might win belief among some readers—for the absurdity of his claims can be seen on its own, even without any explanation from me, by those who come across it— but rather for the sake of warning those who take up his books, so that they may look not to the author’s reputation but to the facts.
+Not out of any worry that his account is so plausible it might win belief among some readers—for the absurdity of his claims can be seen on its own, even without any explanation from me, by those who come across it—but rather for the sake of warning those who take up his books, so that they may look not to the author’s reputation but to the facts.
 
 For there are some who do not fix their attention on what is said but on the man who says it, and who, bearing in mind that the writer lived through those times and was a member of the Roman Senate, at once assume that everything he says is to be trusted.
 
@@ -206,13 +202,11 @@ For he prepared such enemies of the Romans in Hasdrubal, his daughter’s husban
 
 Hasdrubal, dying before his time, did not make his purpose evident to everyone; but circumstances gave Hannibal abundant opportunity to display, all too fully, the hatred of Rome he had inherited from his father.
 
-For this reason, those placed in charge of public affairs ought to attend to nothing more than discerning the true intentions of those who lay aside their enmities or form friendships—whether they are making their agreements as a concession to circumstances or because their spirit has truly been defeated— so that they may be constantly on guard against the former, regarding them as men lying in wait for an opportunity, while trusting the latter as genuine subjects or friends and giving them, without hesitation, whatever orders the occasion may require.
-
-These, then, are to be considered the causes of the war with Hannibal. As for the beginnings, which I am about to relate [...]
+For this reason, those placed in charge of public affairs ought to attend to nothing more than discerning the true intentions of those who lay aside their enmities or form friendships—whether they are making their agreements as a concession to circumstances or because their spirit has truly been defeated—so that they may be constantly on guard against the former, regarding them as men lying in wait for an opportunity, while trusting the latter as genuine subjects or friends and giving them, without hesitation, whatever orders the occasion may require.
 
 ## Book 3 Chapter 13: Hannibal Succeeds to Command in Spain
 
-[...] The Carthaginians had taken hard their defeat over Sicily, but their anger was intensified still further, as I said above, by the affair of Sardinia and by the size of the sum of money imposed on them at the end.
+These, then, are to be considered the causes of the war with Hannibal; its beginnings are those I am about to relate. The Carthaginians had taken hard their defeat over Sicily, but their anger was intensified still further, as I said above, by the affair of Sardinia and by the size of the sum of money imposed on them at the end.
 
 For this reason, as soon as they had brought most of Iberia under their control, they were ready to seize on anything that offered a chance against the Romans.
 
@@ -258,7 +252,7 @@ There he found the embassy from Rome, granted it an audience, and heard out what
 
 The Romans, for their part, solemnly warned him to keep his hands off the Saguntines—since they were under Roman protection—and not to cross the river Ebro, in keeping with the agreement made in Hasdrubal’s time.
 
-But Hannibal—being young, full of warlike energy, successful in his ventures, and long since driven by his hatred of Rome— answered the envoys by posing as the protector of the Saguntines. He charged the Romans with having, a short time before, when civil strife broke out in the city, taken on the role of arbitrators and unjustly put some of the leading men to death; he said the Carthaginians would not stand by while the Saguntines were treated treacherously like this, for it was Carthage’s ancestral policy to overlook no one who was being wronged.
+But Hannibal—being young, full of warlike energy, successful in his ventures, and long since driven by his hatred of Rome—answered the envoys by posing as the protector of the Saguntines. He charged the Romans with having, a short time before, when civil strife broke out in the city, taken on the role of arbitrators and unjustly put some of the leading men to death; he said the Carthaginians would not stand by while the Saguntines were treated treacherously like this, for it was Carthage’s ancestral policy to overlook no one who was being wronged.
 
 At the same time he sent word to Carthage asking what he should do, on the grounds that the Saguntines, trusting in their alliance with Rome, were committing injustices against some of the peoples subject to Carthage.
 
@@ -276,7 +270,7 @@ They expected, however, that they would be fighting the war not in Italy but in 
 
 For this reason, the Senate, in adapting its plans to this situation, decided to secure its interests in Illyria, foreseeing that the war would be a major and protracted one, fought far from home.
 
-For it so happened that at this time Demetrius of Pharos had forgotten the benefits he had previously received from the Romans, and—having come to despise them, first because of the threat surrounding them from the Gauls and then because of the threat from the Carthaginians— placing all his hopes in the royal house of Macedonia (because he had fought alongside Antigonus and shared in the campaigns against Cleomenes), was plundering and subjugating the cities of Illyria that were subject to Rome, and had sailed beyond Lissus with fifty galleys, in violation of the treaty, and had ravaged many of the Cyclades islands.
+For it so happened that at this time Demetrius of Pharos had forgotten the benefits he had previously received from the Romans, and—having come to despise them, first because of the threat surrounding them from the Gauls and then because of the threat from the Carthaginians—placing all his hopes in the royal house of Macedonia (because he had fought alongside Antigonus and shared in the campaigns against Cleomenes), was plundering and subjugating the cities of Illyria that were subject to Rome, and had sailed beyond Lissus with fifty galleys, in violation of the treaty, and had ravaged many of the Cyclades islands.
 
 In view of this, and seeing that the royal house of Macedonia was flourishing, the Romans were eager to secure their interests east of Italy, convinced that they had ample time to set right the folly of the Illyrians and to censure and punish the ingratitude and recklessness of Demetrius.
 
@@ -350,7 +344,7 @@ At the same time, the men who had made the landing from the ships, seeing what w
 
 So, with some of them in difficulty to their front and others to their rear, in the end Demetrius and his men were routed. Some of them fled toward the city, but most scattered across the island by trackless ways.
 
-Demetrius, who kept galleys ready for whatever might happen, lying at anchor at certain deserted spots, made his escape to these. Boarding them when night came on, he sailed away and, against all expectation, made his way to King Philip, with whom he spent the rest of his life— a man who possessed daring and boldness, but daring of an irrational and utterly undiscerning kind.
+Demetrius, who kept galleys ready for whatever might happen, lying at anchor at certain deserted spots, made his escape to these. Boarding them when night came on, he sailed away and, against all expectation, made his way to King Philip, with whom he spent the rest of his life—a man who possessed daring and boldness, but daring of an irrational and utterly undiscerning kind.
 
 And so it came about that his death matched the character of his whole life.
 
@@ -380,7 +374,7 @@ When the Romans arrived, came before the Senate, and made these demands clear, t
 
 Nonetheless, they put forward the ablest man among them and began to plead their case.
 
-## Book 3 Chapter 21: Romans Demand Surrender of Hannibal
+## Book 3 Chapter 21: Carthage Answers the Roman Embassy
 
 As for the agreement made with Hasdrubal, they passed over it in silence, on the grounds that it had never been made, and that even if it had, it was not binding on them, since it had been concluded without their authorization.
 
@@ -392,7 +386,7 @@ In it, they said, there was no clause in writing concerning Iberia, but it was e
 
 They pointed out that the Saguntines were not at that time allies of Rome, and to prove this they read out the treaty aloud several times.
 
-The Romans, however, refused outright to engage in legal argument, declaring that while the city of the Saguntines remained intact, the matter admitted of legal pleading and it was possible to settle the disputed points by discussion; but now that the city had been treacherously destroyed, either the guilty parties had to be surrendered to them—whereby it would be clear to all that the Carthaginians had had no share in the wrongdoing, but that the deed had been done without their authorization— or, if they were unwilling to do this and admitted that they shared in the wrongdoing, they had to take on the war as well. So the two sides argued in these rather general terms.
+The Romans, however, refused outright to engage in legal argument, declaring that while the city of the Saguntines remained intact, the matter admitted of legal pleading and it was possible to settle the disputed points by discussion; but now that the city had been treacherously destroyed, either the guilty parties had to be surrendered to them—whereby it would be clear to all that the Carthaginians had had no share in the wrongdoing, but that the deed had been done without their authorization—or, if they were unwilling to do this and admitted that they shared in the wrongdoing, they had to take on the war as well. So the two sides argued in these rather general terms.
 
 But it seems necessary to me not to leave this matter unexamined, so that neither those whose duty and concern it is to know the precise truth of these things may stray from the truth in deliberations of the utmost importance, nor those who study these matters out of love of learning may go astray, misled along with the errors and partisan ambitions of the historians; but rather that there may be some agreed-upon survey of the rights that existed between the Romans and the Carthaginians toward one another, from the beginning down to our own times.
 
@@ -464,7 +458,7 @@ And having said this, he throws the stone from his hand.
 
 ## Book 3 Chapter 26: Philinus and the Treaties
 
-Since such treaties exist, and are still preserved even now, engraved on bronze tablets beside the temple of Jupiter Capitolinus in the treasury of the aediles, who would not reasonably feel astonishment at the historian Philinus? Not because he was ignorant of these documents—that is no wonder, since even in our own day the oldest men among both the Romans and the Carthaginians, and those reputed to take the greatest interest in public affairs, were unaware of them— but rather, how or on what grounds did he have the boldness to write the very opposite of these facts: namely, that there existed treaties between the Romans and the Carthaginians by which the Romans were bound to keep away from the whole of Sicily and the Carthaginians from the whole of Italy, and that the Romans violated the treaties and their oaths when they made their first crossing into Sicily—when in fact no such written document was ever drawn up or ever existed at all.
+Since such treaties exist, and are still preserved even now, engraved on bronze tablets beside the temple of Jupiter Capitolinus in the treasury of the aediles, who would not reasonably feel astonishment at the historian Philinus? Not because he was ignorant of these documents—that is no wonder, since even in our own day the oldest men among both the Romans and the Carthaginians, and those reputed to take the greatest interest in public affairs, were unaware of them—but rather, how or on what grounds did he have the boldness to write the very opposite of these facts: namely, that there existed treaties between the Romans and the Carthaginians by which the Romans were bound to keep away from the whole of Sicily and the Carthaginians from the whole of Italy, and that the Romans violated the treaties and their oaths when they made their first crossing into Sicily—when in fact no such written document was ever drawn up or ever existed at all.
 
 For he states this in his second book in explicit terms. I mentioned these matters in the introductory part of my own work, but I deferred treating them in detail until the present occasion, because a good many people too have been led away from the truth in this matter by trusting Philinus’s account.
 
@@ -500,13 +494,11 @@ I have set out these matters in detail in the book before this one.
 
 Since this is how things stand, it remains to examine and determine carefully, concerning the war of Hannibal’s time, to which of the two parties the responsibility for it is to be assigned.
 
-## Book 3 Chapter 29: The Roman Case For War
+## Book 3 Chapter 29: The Roman Case for War
 
 I have now set out what the Carthaginians said on that occasion; next I will give the arguments put forward by the Romans. They did not in fact make use of these at the time, because of their anger at the destruction of Saguntum, but the arguments were voiced often and by many men among them.
 
-First, they said that the agreement made with Hasdrubal could not be set aside, as the Carthaginians presumed to claim it could. For it did not include the clause—
-
-—that the treaty of Lutatius had included, namely that “these terms shall be binding only if the Roman people also approve them.” Instead, Hasdrubal made the agreement on his own full authority, and in it stood the provision that “the Carthaginians shall not cross the river Ebro for the purpose of war.”
+First, they said that the agreement made with Hasdrubal could not be set aside, as the Carthaginians presumed to claim it could. For it did not include the clause that the treaty of Lutatius had included, namely that “these terms shall be binding only if the Roman people also approve them.” Instead, Hasdrubal made the agreement on his own full authority, and in it stood the provision that “the Carthaginians shall not cross the river Ebro for the purpose of war.”
 
 Furthermore, in the treaty concerning Sicily there was a written clause—as the Carthaginians themselves admit—that “the allies of each party shall enjoy security from the other.” This did not apply only to those who were allies at that time, as the Carthaginians construed it.
 
@@ -564,7 +556,7 @@ For we maintain that by far the most essential parts of history are the conseque
 
 Thus we observe that the war with Antiochus took its origin from the war with Philip, the war with Philip from the war with Hannibal, and the war with Hannibal from the war over Sicily; and that the many and varied developments that lay between these wars all converged upon one and the same end.
 
-Now all of this can be recognized and learned from those who write universal history, but it cannot be learned from those who write of the wars themselves in isolation—the Persian War, say, or the war with Philip— unless a man, by reading the accounts of the pitched battles that those writers give, imagines that he has thereby gained a clear understanding of the whole conduct and design of the war.
+Now all of this can be recognized and learned from those who write universal history, but it cannot be learned from those who write of the wars themselves in isolation—the Persian War, say, or the war with Philip—unless a man, by reading the accounts of the pitched battles that those writers give, imagines that he has thereby gained a clear understanding of the whole conduct and design of the war.
 
 But that is not so at all. Rather, by as much as understanding surpasses mere hearing, by so much, I hold, does my history surpass the compositions that treat only of particular events.
 
@@ -620,7 +612,7 @@ Having carried out the measures described during the winter quarters, and having
 
 Crossing the river Ebro, he subdued the nation of the Ilurgetes and the Bargusii, and also the Aerenosii and the Andosini, as far as the place called the Pyrenees.
 
-When he had brought all of them under his control and taken some cities by storm—quickly and beyond expectation, but only after many great struggles and heavy loss of men— he left Hanno as governor over all the country on the near side of the river, and as master over the Bargusii in particular; for he distrusted these people most of all, on account of their goodwill toward the Romans.
+When he had brought all of them under his control and taken some cities by storm—quickly and beyond expectation, but only after many great struggles and heavy loss of men—he left Hanno as governor over all the country on the near side of the river, and as master over the Bargusii in particular; for he distrusted these people most of all, on account of their goodwill toward the Romans.
 
 He also assigned to Hanno a portion of the forces he had: ten thousand infantry and a thousand cavalry, and he left with him the baggage of those who were setting out with himself.
 
@@ -704,7 +696,7 @@ While these commanders were busy with the enrolment of their legions and the res
 
 They fortified the towns vigorously, and ordered the settlers to be on the spot within thirty days, their number amounting to six thousand for each of the two cities; one of these they founded on the near side of the river Po, naming it Placentia, and the other on the far side, calling it Cremona.
 
-These colonies had just been settled when the Gauls called the Boii—who had long been lying in wait, as it were, to throw off their friendship with the Romans, but had until then lacked an opportunity— now grew excited and, trusting in the presence of the Carthaginians on the strength of the reports passing among them, revolted from the Romans, abandoning the hostages they had given when they came out of the earlier war, which I described in the previous book.
+These colonies had just been settled when the Gauls called the Boii—who had long been lying in wait, as it were, to throw off their friendship with the Romans, but had until then lacked an opportunity—now grew excited and, trusting in the presence of the Carthaginians on the strength of the reports passing among them, revolted from the Romans, abandoning the hostages they had given when they came out of the earlier war, which I described in the previous book.
 
 They appealed to the Insubres and, joining forces in keeping with their long-standing anger, overran the land that had been parcelled out by the Romans; pursuing the fleeing colonists, they shut them up in Mutina, a Roman colony, and laid siege to it.
 
@@ -878,7 +870,7 @@ For he had clearly investigated both the fertility of the land into which he int
 
 I speak about these things with confidence because I have inquired into the events from men who were themselves present at the time, and have surveyed the country and used the Alpine route myself, for the sake of knowledge and of seeing it firsthand.
 
-## Book 3 Chapter 49: Scipio Is Too Late To Stop Hannibal
+## Book 3 Chapter 49: Scipio Is Too Late to Stop Hannibal
 
 Nevertheless, Publius, the Roman general, arriving at the river crossing three days after the Carthaginians had broken camp, and finding that the enemy had already set out, was as thoroughly astonished as could be, since he had been convinced that they would never dare to make their march into Italy by this route, because of the numbers and the faithlessness of the barbarians inhabiting those regions.
 
@@ -902,7 +894,7 @@ For this man not only supplied the army lavishly with grain and the other provis
 
 But most important of all, since the Carthaginians were apprehensive about the march through the territory of the Gauls called Allobroges, he brought up the rear with his own force and secured them a safe passage until they drew near to the crossing of the Alps.
 
-## Book 3 Chapter 50: Hannibal Harassed By the Natives
+## Book 3 Chapter 50: Hannibal Harassed by the Natives
 
 After marching for ten days along the river, covering some eight hundred stades, Hannibal began the climb up toward the Alps, and it was now that he fell into the gravest dangers.
 
@@ -1050,7 +1042,7 @@ And even if someone did gain such understanding, it was harder still than any of
 
 Since, then, a true account of the matters just mentioned was, in former times at least, not merely difficult but very nearly impossible, it is not right to censure the historians if they omitted something or made mistakes; rather, it is just to praise and admire them for whatever knowledge they did gain and for the way they advanced our experience of these matters in such an age.
 
-But in our own day, the regions of Asia have become accessible through the empire of Alexander, and the remaining regions through the supremacy of the Romans, so that nearly all of them can now be reached by sea and by land; and since men of action, released from their ambitions in military and political affairs, have through these means gained many great opportunities for investigation and for the pursuit of knowledge about the matters just mentioned, it would only be fitting that we should have both better and truer knowledge concerning what was formerly unknown. This is what I myself will also try to do, taking a fitting place in my work for this subject, and I will wish to inform those eager to learn more fully about the matters just mentioned; for it was largely for this purpose that I undertook the dangers [and the hardships] that befell me in my wanderings through Libya and Iberia, and also Gaul and the sea that lies beyond these countries and borders upon them, in order that, by correcting the ignorance of those who came before, I might make these parts of the inhabited world too familiar to the Greeks.
+But in our own day, the regions of Asia have become accessible through the empire of Alexander, and the remaining regions through the supremacy of the Romans, so that nearly all of them can now be reached by sea and by land; and since men of action, released from their ambitions in military and political affairs, have through these means gained many great opportunities for investigation and for the pursuit of knowledge about the matters just mentioned, it would only be fitting that we should have both better and truer knowledge concerning what was formerly unknown. This is what I myself will also try to do, taking a fitting place in my work for this subject, and I will wish to inform those eager to learn more fully about the matters just mentioned; for it was largely for this purpose that I undertook the dangers and the hardships that befell me in my wanderings through Libya and Iberia, and also Gaul and the sea that lies beyond these countries and borders upon them, in order that, by correcting the ignorance of those who came before, I might make these parts of the inhabited world too familiar to the Greeks.
 
 But now, returning from this digression to the narrative, I will try to set out the pitched battles that took place in Italy between the Romans and the Carthaginians.
 
@@ -1126,7 +1118,7 @@ And when the result of the lottery was announced, those who had been picked were
 
 When the combat took place, the captives who were left behind counted the dead man no less fortunate than the victor, since the one had been released from many great miseries, while they themselves were still left to endure them.
 
-## Book 3 Chapter 63: Harangues of Hannibal and Scipio
+## Book 3 Chapter 63: Hannibal Exhorts His Troops
 
 The same view was held by most of the Carthaginians as well: for as they watched, by way of comparison, the wretchedness of those who were being led off still alive, they pitied these men, while the one who had died they all called fortunate. Having by these means worked the desired disposition into the spirits of his troops, Hannibal then came forward himself and declared that this was why he had brought in the captives: so that, seeing vividly in the misfortunes of others what was at stake, his men might make better plans regarding their own situation.
 
@@ -1274,7 +1266,7 @@ Having become master of the garrison and the stores of grain, he used the grain 
 
 He honored the traitor lavishly, eager to entice those holding positions of authority over toward the Carthaginians’ prospects.
 
-After this, observing that certain Gauls who lived between the Po and the river Trebia had made a friendship with him while at the same time sending messages to the Romans—convinced that in this way they would secure their safety from both sides— he sent out two thousand infantry and about a thousand cavalry, both Gauls and Numidians, with orders to overrun their territory.
+After this, observing that certain Gauls who lived between the Po and the river Trebia had made a friendship with him while at the same time sending messages to the Romans—convinced that in this way they would secure their safety from both sides—he sent out two thousand infantry and about a thousand cavalry, both Gauls and Numidians, with orders to overrun their territory.
 
 When these men had carried out their orders and gathered a great deal of plunder, the Gauls immediately came to the Roman camp begging for help.
 
@@ -1286,7 +1278,7 @@ But the troops on guard in front of the Carthaginian camp quickly grasped what w
 
 Tiberius, seeing what was happening, sent out all his cavalry and javelin-throwers. When this happened, the Gauls again gave way and retreated to the safety of their own position.
 
-The Carthaginian general, being unprepared to risk a decisive engagement and believing that one should never bring on a full-scale battle without a settled plan or on the strength of any chance opening—which, it must be said, is the mark of a good commander— checked his own men as they drew near the camp and forced them to halt and turn about, but prevented them from pursuing and engaging the enemy, recalling them through his aides and trumpeters. The Romans, after waiting a short time, withdrew, having lost only a few of their own men while destroying a greater number of the Carthaginians.
+The Carthaginian general, being unprepared to risk a decisive engagement and believing that one should never bring on a full-scale battle without a settled plan or on the strength of any chance opening—which, it must be said, is the mark of a good commander—checked his own men as they drew near the camp and forced them to halt and turn about, but prevented them from pursuing and engaging the enemy, recalling them through his aides and trumpeters. The Romans, after waiting a short time, withdrew, having lost only a few of their own men while destroying a greater number of the Carthaginians.
 
 ## Book 3 Chapter 70: Tiberius Sempronius Plans to Attack
 
@@ -1314,7 +1306,7 @@ Hannibal, then, knowing the attack that was to come [...]
 
 These were the matters that occupied Tiberius. Hannibal, meanwhile, had long since noticed a stretch of ground between the two camps that was flat and bare of trees, yet well suited for an ambush, because a watercourse ran through it with a raised bank along its edge, and along that bank grew a continuous thicket of thorns and brambles. There he set about laying a trap for the enemy.
 
-He was confident the scheme would easily escape notice. For the Romans were suspicious of wooded ground, since the Gauls always set their ambushes in such places, but they felt no distrust of level and open country— not realizing that, both for staying concealed and for keeping the men in ambush from coming to any harm, open ground is in fact better suited than woodland. The reason is that those lying in wait can see everything that is going on from a long way off, while in most such places there is cover enough to hide behind.
+He was confident the scheme would easily escape notice. For the Romans were suspicious of wooded ground, since the Gauls always set their ambushes in such places, but they felt no distrust of level and open country—not realizing that, both for staying concealed and for keeping the men in ambush from coming to any harm, open ground is in fact better suited than woodland. The reason is that those lying in wait can see everything that is going on from a long way off, while in most such places there is cover enough to hide behind.
 
 A chance watercourse with a low bank, or sometimes reeds, ferns, and a kind of thorn-scrub, can conceal not only infantry but at times even cavalry, provided one takes the modest precaution of laying the conspicuous parts of the armor flat against the ground and tucking the helmets in under the shields.
 
@@ -1390,7 +1382,7 @@ They were all overjoyed at the battle, feeling they had won a complete success; 
 
 But from the rain and the snow that followed, they were so badly affected that the elephants died—all but one—and many of the men and horses perished as well from the cold.
 
-## Book 3 Chapter 75: Better Success in Spain
+## Book 3 Chapter 75: Rome Conceals Defeat and Prepares
 
 Tiberius, well aware of what had happened but wishing as far as possible to hide the disaster from the people in Rome, sent messengers to report that a battle had been fought but that the storm had robbed them of the victory.
 
@@ -1542,7 +1534,7 @@ Flaminius followed close behind, eager to close with the enemy.
 
 He had pitched camp the day before right beside the lake at a very late hour, and when day broke afterward he immediately, at dawn, led his vanguard along the lake into the valley below, intending to engage the enemy.
 
-## Book 3 Chapter 84: The Disaster At the Thrasymene Lake
+## Book 3 Chapter 84: The Disaster at the Thrasymene Lake
 
 The day being exceptionally foggy, Hannibal—once the greater part of the marching column had entered the valley and the enemy’s vanguard was already drawing close to him—gave the signals and sent word to the men in the ambushes, and launched his attack on the enemy from every side at once.
 
@@ -1780,7 +1772,7 @@ For the people of Massilia, if any others ever did, nobly shared in the fortunes
 
 When the men sent out to reconnoiter reported that the enemy’s fleet happened to be lying at anchor off the mouth of the river, Scipio put to sea in haste, wishing to fall upon them suddenly [...]
 
-## Book 3 Chapter 96: Naval Success of the Romans In Spain
+## Book 3 Chapter 96: Naval Success of the Romans in Spain
 
 Hasdrubal and his men, having been warned well in advance by their scouts that the enemy was bearing down on them, drew up their land forces along the shore and at the same time ordered the crews to embark in the ships.
 
@@ -1808,7 +1800,7 @@ He first put in at Lilybaeum in Sicily; after that he sailed down to Libya, to t
 
 On the voyage back he gained control of the island of Cossyrus and, after installing a garrison in its little town, he put in again at Lilybaeum.
 
-## Book 3 Chapter 97: Spanish Hostages Given Up To the Scipios
+## Book 3 Chapter 97: The Scipios Cross the Ebro
 
 For the rest, having moored his fleet there, after no long time he himself went back to the land forces. Meanwhile the Senate, learning of the advantage that Gnaeus had won in the sea battle, and considering it useful—or rather essential—not to abandon affairs in Iberia, but to make a stand against the Carthaginians and to press the war forward, made ready twenty ships and put Publius Scipio in command of them, in accordance with the plan formed at the outset, and dispatched him in haste to his brother Gnaeus, to manage the campaign in Iberia jointly with him.
 
@@ -1828,7 +1820,7 @@ This man, observing how affairs stood and judging that the prospects of the Roma
 
 For, convinced that he could rise to great power among the Romans if he offered, at the critical moment, a proof of loyalty together with a useful service, he set about breaking faith with the Carthaginians and handing the hostages over to the Romans.
 
-He observed that Bostar, the Carthaginian general—who had been sent by Hasdrubal to stop the Romans from crossing the river, but, not daring to do this, had withdrawn and was encamped in the parts of Saguntum facing the sea—was a guileless man, gentle by nature, and well-disposed and trusting toward himself; so he opened the matter of the hostages to Bostar, saying that, now that the Romans had crossed the river, the Carthaginians could no longer hold Iberia together by fear, but that the situation called for the goodwill of their subjects; now therefore, with the Romans drawn near and laying siege to Saguntum, and the city in danger, if Bostar were to bring out the hostages and restore them to their parents and their cities, he would frustrate the ambition of the Romans—for this was the very thing they were most eager to accomplish, by getting control of the hostages— and he would call forth the goodwill of all the Iberians toward the Carthaginians, since he had foreseen what was coming and had taken thought for the safety of the hostages. And he said that he would multiply the favor many times over by personally taking charge of the affair.
+He observed that Bostar, the Carthaginian general—who had been sent by Hasdrubal to stop the Romans from crossing the river, but, not daring to do this, had withdrawn and was encamped in the parts of Saguntum facing the sea—was a guileless man, gentle by nature, and well-disposed and trusting toward himself; so he opened the matter of the hostages to Bostar, saying that, now that the Romans had crossed the river, the Carthaginians could no longer hold Iberia together by fear, but that the situation called for the goodwill of their subjects; now therefore, with the Romans drawn near and laying siege to Saguntum, and the city in danger, if Bostar were to bring out the hostages and restore them to their parents and their cities, he would frustrate the ambition of the Romans—for this was the very thing they were most eager to accomplish, by getting control of the hostages—and he would call forth the goodwill of all the Iberians toward the Carthaginians, since he had foreseen what was coming and had taken thought for the safety of the hostages. And he said that he would multiply the favor many times over by personally taking charge of the affair.
 
 For, by restoring the boys to their cities, he would win over the goodwill not only of those who had fathered them but also of the people at large, setting before their eyes, through what was happening, the chosen policy and magnanimity of the Carthaginians toward their allies.
 
@@ -1854,7 +1846,7 @@ Bostar, having shown himself, in handing the hostages over to the enemy, more ch
 
 For the present, with the season now pressing, both sides broke up their forces into winter quarters, the affair of the boys having proved a considerable piece of luck for the Romans in view of the designs that lay before them. Such was the state of affairs in Iberia.
 
-## Book 3 Chapter 100: Hannibal In Apulia
+## Book 3 Chapter 100: Hannibal in Apulia
 
 The general Hannibal—to pick up where we left off—learned from his scouts that there was a very large supply of grain in the territory around Luceria and the place called Geronium, and that Geronium was well suited for collecting it.
 
@@ -1924,7 +1916,7 @@ Seeing that Marcus was puffed up, contending against him at every turn, and on t
 
 Marcus accepted the division all too gladly, and so they split the troops and encamped apart from one another, about twelve stades apart.
 
-## Book 3 Chapter 104: Minucius In Difficulties
+## Book 3 Chapter 104: Minucius in Difficulties
 
 Hannibal, partly from what he heard from the prisoners taken and partly from what he observed of what was being done, came to understand the rivalry between the two commanders, as well as the impetuosity and ambition of Marcus.
 
@@ -2072,9 +2064,7 @@ The Romans withstood the first onslaught by putting forward some of their heavy-
 
 For the moment, then, with night coming on, the two sides separated, the attack having turned out for the Carthaginians otherwise than they had hoped.
 
-But on the next day Lucius, judging it best neither to fight nor any longer able to lead the army away safely, encamped with two-thirds of it beside the river called the Aufidus—the only river that cuts right through the Apennines—
-
-(this being a continuous mountain range that separates all the watercourses of Italy, sending some to the Tyrrhenian Sea and others to the Adriatic; the Aufidus runs through it, having its sources in the regions of Italy facing the Tyrrhenian side and discharging into the Adriatic)— while with the remaining third he set up a fortified camp across the river, eastward from the crossing, about ten stades from his own camp and a little more from the enemy’s, intending that these men should both cover the foraging parties from the camp on the far side and harass those of the Carthaginians.
+But on the next day Lucius, judging it best neither to fight nor any longer able to lead the army away safely, encamped with two-thirds of it beside the river called the Aufidus—the only river that cuts right through the Apennines (this being a continuous mountain range that separates all the watercourses of Italy, sending some to the Tyrrhenian Sea and others to the Adriatic; the Aufidus runs through it, having its sources in the regions of Italy facing the Tyrrhenian side and discharging into the Adriatic), while with the remaining third he set up a fortified camp across the river, eastward from the crossing, about ten stades from his own camp and a little more from the enemy’s, intending that these men should both cover the foraging parties from the camp on the far side and harass those of the Carthaginians.
 
 ## Book 3 Chapter 111: Hannibal Encourages his Troops
 
@@ -2098,7 +2088,7 @@ Therefore there is no longer any need for words, but for deeds; for, if the gods
 
 Having said this and things much like it, while the men eagerly signaled their approval, he praised them, welcomed their enthusiasm, and dismissed the assembly. He at once made camp, setting his palisade along the same side of the river as the larger camp of the enemy.
 
-## Book 3 Chapter 112: The Armies Face To Face
+## Book 3 Chapter 112: The Armies Face to Face
 
 On the following day he ordered everyone to busy themselves with their equipment and with getting into condition. The day after that he drew up his troops along the river and made it clear that he was eager to fight the enemy.
 

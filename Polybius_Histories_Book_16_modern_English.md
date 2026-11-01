@@ -2,7 +2,7 @@
 
 Modern English translation of the Greek text.
 
-## Book 16 Chapter 1: Philip V. Wages War with Attalus, King of Pergamum, and the Rhodians.
+## Book 16 Chapter 1: Philip Ravages Pergamum
 
 When King Philip reached Pergamum and thought he had, as good as with his own hands, finished off Attalus, he gave free rein to every kind of outrage.
 
@@ -42,7 +42,7 @@ The ships engaged on Philip’s side were fifty-three decked vessels, besides [.
 
 The enemy had sixty-five decked ships, including those from Byzantium, together with nine triemioliai and three triremes.
 
-## Book 16 Chapter 3: Incidents of the Sea-Fight
+## Book 16 Chapter 3: Incidents of the Sea Battle
 
 The fighting began from the ship on which Attalus sailed, and at once all the nearby ships engaged each other without waiting for orders.
 
@@ -68,7 +68,7 @@ Once this happened, the enemy surrounded him on every side.
 
 In the uproar and confusion that followed, all the rest of his marines were lost with the ship, but Dionysodorus himself, with only two others, managed to swim off to the triemiolia that was coming to help him.
 
-## Book 16 Chapter 4: The Sea-Battle Undecided
+## Book 16 Chapter 4: The Sea Battle Undecided
 
 The fight among the rest of the ships was evenly matched.
 
@@ -98,7 +98,7 @@ Most often the Rhodians would row through the enemy formation and shear off thei
 
 By this method of fighting they destroyed a great number of the enemy ships.
 
-## Book 16 Chapter 5: Attalus Barely Escapes Capture
+## Book 16 Chapter 5: Three Rhodian Quinqueremes in the Thick of Battle
 
 The most brilliant and dangerous fighting was done by three Rhodian quinqueremes: the flagship on which Theophiliscus sailed, the ship commanded by Philostratus, and a third steered by Autolycus with Nicostratus aboard.
 
@@ -158,7 +158,7 @@ Of the men, the Rhodians lost about sixty, Attalus about seventy, while Philip l
 
 About two thousand of Philip’s Macedonians and allies were taken alive, while of their opponents about seven hundred were captured.
 
-## Book 16 Chapter 8: Philip Vainly Claims the Victory At Chios
+## Book 16 Chapter 8: Philip Vainly Claims the Victory at Chios
 
 Such was the outcome of the naval battle off Chios.
 
@@ -236,7 +236,7 @@ When such tales help preserve the reverence of the common people toward the gods
 
 But excess must not be permitted. It may be difficult to mark the exact measure in every case, but it is not impossible. So if such ignorance and false opinion stay within narrow bounds, let them be excused; but anything excessive should, in my judgment, be rejected.
 
-## Book 16 Chapter 13: Affairs in Greece
+## Book 16 Chapter 13: Nabis Plots Against Messene
 
 I have already explained what policy Nabis, tyrant of the Lacedaemonians, adopted from the beginning, and how, after driving out the citizens, he freed the slaves and married them to their masters’ wives and daughters.
 
@@ -388,7 +388,7 @@ When he received the letter and saw that it was impossible to revise the passage
 
 And in the same spirit I would ask my readers now and in time to come: if ever I am found knowingly falsifying matters in this work and overlooking the truth, let them censure me without pardon, but if I err through ignorance, let them grant me indulgence, especially because of the size of my history and the vast compass of the events it covers.
 
-## Book 16 Chapter 21: Egypt — Character of Tlepolemus
+## Book 16 Chapter 21: The Character of Tlepolemus
 
 Tlepolemus, who had charge of the royal government in Egypt, was young in years and had spent his life continuously in military service, with a certain distinction.
 
@@ -414,7 +414,7 @@ For everyone who unexpectedly received a favor from him poured out extravagant t
 
 And when he heard the universal praise lavished on him, the toasts drunk to him at banquets, the inscriptions in his honor, and the songs and jests sung about him through the whole city, he became at last soft and foolish, more and more puffed up and more and more reckless in dispensing favors to foreigners and soldiers.
 
-## Book 16 Chapter 22: Intrigues At Alexandria
+## Book 16 Chapter 22: Intrigues at Alexandria
 
 These foreign and military favors irritated the people at court, and they watched everything closely, resented his arrogance, and by comparison admired Sosibius.
 
@@ -466,7 +466,7 @@ For Syphax, king of the Masaesylii, was led through the city at that time in the
 
 After all this was over, the people in Rome kept celebrating splendid games and festivals for many days, with Scipio’s own generosity providing the means.
 
-## Book 16 Chapter 24: War Between Rome and Philip V
+## Book 16 Chapter 24: Philip Winters at Bargylia
 
 At the beginning of winter, in the year when Publius Sulpicius became consul at Rome, King Philip was staying at Bargylia. Seeing that the Rhodians and Attalus were not disbanding their fleet, but actually filling up their crews and watching the coast with even greater energy, he was in a very troubled state and had many and varied thoughts about the future.
 
@@ -484,7 +484,7 @@ As for the territory of the Alabandians, he ravaged it like enemy land, saying t
 
 Polybius of Megalopolis also says in the sixteenth book of his Histories: “Philip, the father of Perseus, when he was overrunning Asia and was in want of provisions for his soldiers, received figs from the Magnesians because they had no grain. For that reason, when he got possession of Myus, he granted the place to the Magnesians in return for the figs.”
 
-## Book 16 Chapter 25: King Attalus At Athens
+## Book 16 Chapter 25: King Attalus at Athens
 
 The people of Athens sent envoys to King Attalus both to thank him for what had already happened and to urge him to come to Athens so that they could consult together about the present crisis.
 
@@ -552,7 +552,7 @@ For stung by his losses, and acting largely out of anger and passion, he adapted
 
 I was led to say this because some men, like bad runners in a race, give up their purpose near the finish, while others win over their rivals most of all at that very point.
 
-## Book 16 Chapter 29: The Hellespont Compared with Gibraltar
+## Book 16 Chapter 29: The Hellespont Compared with the Pillars of Heracles
 
 Philip wanted to deprive the Romans of their bases and landing points in that region.
 

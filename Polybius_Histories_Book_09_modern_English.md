@@ -30,7 +30,7 @@ Therefore I aimed not so much at giving pleasure to casual readers as at benefit
 
 Those who read my work with care from beginning to end will be the surest witnesses to the truth of what I say here.
 
-## Book 9 Chapter 3: The Hannibalian War
+## Book 9 Chapter 3: The Romans Hold Firm Against Hannibal
 
 Hannibal surrounded Appius’s camp on every side and at first confined himself to skirmishing and testing the Romans, wanting to draw them out into battle.
 
@@ -110,7 +110,7 @@ At first the Carthaginians pushed forward, not altogether despairing of taking R
 
 At the beginning they gathered into their camp an immense quantity of plunder, as though they had come upon a hunting ground of exactly the kind no one had ever expected an enemy to enter.
 
-## Book 9 Chapter 7: Hannibal In Sight of Rome
+## Book 9 Chapter 7: Hannibal in Sight of Rome
 
 But afterward, when the consuls boldly ventured to encamp only ten stades away, Hannibal—having now amassed a great quantity of booty, having lost hope of any success against the city, and above all calculating that by this time Appius ought, according to the original plan, to have learned of Rome’s danger and either to have raised the siege altogether and come to help, or at least to have left part of his force behind and hurried off with the greater part—broke camp at dawn.
 
@@ -178,7 +178,7 @@ Atella is a city of the Opici in Italy, lying between Capua and Neapolis. The et
 
 When the Romans were besieging Tarentum, Bomilcar the Carthaginian admiral came to help with a very large force. But since he could do nothing to assist those inside, because the Romans had secured their camp and blockade so well, he consumed his supplies without accomplishing anything. Though he had first been compelled to come by urgent appeals and great promises, he was later forced by the entreaties of the people within the city to sail away.
 
-## Book 9 Chapter 10: The Spoils of Syracuse: Works of Art Taken To Rome
+## Book 9 Chapter 10: The Spoils of Syracuse: Works of Art Taken to Rome
 
 A city is not adorned by things brought in from outside, but by the virtue of its inhabitants.
 
@@ -206,7 +206,7 @@ But the things that lie outside this kind of power ought to have been left in th
 
 Let me say this for the sake of those who continually inherit positions of power, so that when they plunder cities they may not suppose that other people’s disasters are an ornament to their own fatherlands. The Romans, however, after transferring these objects, used them to decorate private life in individual households and to embellish the public spaces of the city.
 
-## Book 9 Chapter 11: Spain
+## Book 9 Chapter 11: Hasdrubal Son of Gesco Wrongs Andobales
 
 The Carthaginian commanders, though they had mastered their enemies, could not master themselves.
 
@@ -322,7 +322,7 @@ Sometimes one must estimate from the times and places of its rising, and sometim
 
 There is an easy way to observe this as well, for one month marks out a single evident cycle, perceptible to the senses [...]
 
-## Book 9 Chapter 16: Example: Ulysses
+## Book 9 Chapter 16: Example: Odysseus
 
 For this reason one may praise the poet for representing Odysseus, that most capable of leaders, as drawing inferences from the stars not only for navigation, but also for operations on land.
 
@@ -638,7 +638,7 @@ What remains is either to show that some wrong has since been done to you by the
 
 With words like these Chlaeneas ended his speech, having spoken, it seemed, in a way that left little room for reply.
 
-## Book 9 Chapter 32: Lyciscus Replies To Chlaeneas
+## Book 9 Chapter 32: Lyciscus Replies to Chlaeneas
 
 After this Lyciscus, envoy of the Acarnanians, came forward. At first he paused, seeing that most of the audience were talking among themselves about what had just been said.
 
@@ -710,7 +710,7 @@ Pharycus and Polycritus robbed, one the precinct of Hera at Argos, the other tha
 
 And what of Lattabus and Nicostratus? Did they not, in time of peace, violate their agreement at the assembly of the Pam-Boeotians, carrying out deeds worthy of Scythians and Gauls? Nothing of this kind was done by the Successors.
 
-## Book 9 Chapter 35: Services of Macedonians To Greece
+## Book 9 Chapter 35: Services of Macedonians to Greece
 
 And though you can make no defense against any of these charges, you still speak grandly of how you resisted the barbarians in their attack on Delphi, and claim that for this Greece ought to be grateful to you.
 
