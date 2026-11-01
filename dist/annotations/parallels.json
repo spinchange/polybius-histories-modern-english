@@ -39,7 +39,7 @@
    "source_pub": "Livy, The History of Rome, Books 9-26, tr. D. Spillan & Cyrus Edmonds (Bohn's Classical Library, 1849-50) (PD)",
    "pd_basis": "pre-1930",
    "quote": "Cneius Lentulus, a military tribune, seeing, as he rode by, the consul sitting upon a stone and covered with blood, said to him: \"Lucius Aemilius! the only man whom the gods ought to regard as being guiltless of this day's disaster, take this horse, while you have any strength remaining, and I am with you to raise you up and protect you. Make not this battle more calamitous by the death of a consul. ... Go and tell the fathers publicly, to fortify the city of Rome ... Allow me to expire amid these heaps of my slaughtered troops, that I may not a second time be accused after my consulate ... they overwhelm the consul with their weapons, not knowing who he was: in the confusion his horse rescued Lentulus.",
-   "note": "Polybius gives Aemilius Paullus one sentence (3.116): after \"violent blows in the thick of hand-to-hand fighting\" he \"ended his life,\" a man who served his country to the last hour. Livy, writing nearly two centuries after the battle, gives him a scene instead: the wounded consul on a stone, the tribune with a spare horse, a refusal, and a last message for the senate and for Fabius. The speeches, the stone and the death in the confusion are not in Polybius' account; whatever Livy's source, the battle report has become a tragedy."
+   "note": "Polybius gives Aemilius Paullus only a brief notice (3.116): after \"violent blows in the thick of hand-to-hand fighting\" he \"ended his life,\" a man who served his country to the last hour. Livy, writing nearly two centuries after the battle, gives him a scene instead: the wounded consul on a stone, the tribune with a spare horse, a refusal, and a last message for the senate and for Fabius. The speeches, the stone and the death in the confusion are not in Polybius' account; whatever Livy's source, the battle report has become a tragedy."
   },
   {
    "id": "parallels/plutarch-marcellus-archimedes",
@@ -47,7 +47,7 @@
     {
      "book": 8,
      "from": "5",
-     "to": "9"
+     "to": "7"
     }
    ],
    "annotator": "Plutarch",
@@ -59,7 +59,7 @@
    "source_pub": "Plutarch's Lives, tr. Aubrey Stewart & George Long, vol. 2 (London, 1899 printing) (PD)",
    "pd_basis": "pre-1930",
    "quote": "Others they caught by irons like hands or claws suspended from cranes, and first pulled them up by their bows till they stood upright upon their sterns, and then cast down into the water ... Often was seen the fearful sight of a ship lifted out of the sea into the air, swaying and balancing about, until the men were all thrown out or overwhelmed with stones from slings, when the empty vessel would either be dashed against the fortifications, or dropped into the sea by the claws being let go. ... he would not condescend to leave behind him any writings upon the subject, regarding the whole business of mechanics and the useful arts as base and vulgar",
-   "note": "Plutarch's iron hands and upended prows are the engine Polybius describes (8.6), and both have the Romans beaten back until they give up any direct assault. Plutarch adds what Polybius' purely military account leaves out: the picture of the ship swaying in mid-air, and the portrait of a geometer who thought his machines beneath writing down. Polybius' point is that one man's mind could hold a city (8.7); Plutarch makes that man a philosopher who thought his own machines beneath him."
+   "note": "Plutarch's iron hands and upended prows are the engine Polybius describes (8.6), and in both the Romans are beaten back until they give up any direct assault (8.7). Both even give Marcellus a joke at his own expense: in Polybius the ships are ladles, in Plutarch Archimedes is a Briareus of geometry. Plutarch adds the ship swaying in mid-air, and a geometer who thought his machines too vulgar to write about. Polybius' point is that one mind could hold a city; Plutarch agrees, and makes that mind a philosopher's."
   },
   {
    "id": "parallels/livy-new-carthage-lagoon",
@@ -139,7 +139,7 @@
    "source_pub": "Livy, The History of Rome, Books 27-36, tr. Cyrus Edmonds (Bohn's Classical Library, 1850) (PD)",
    "pd_basis": "pre-1930",
    "quote": "a herald, preceded by a trumpeter, according to custom, advanced into the centre of the theatre ... Silence being commanded by sound of trumpet, he uttered aloud the following proclamation: THE SENATE AND PEOPLE OF ROME, AND TITUS QUINCTIUS, THEIR GENERAL, HAVING SUBDUED KING PHILIP AND THE MACEDONIANS, DO HEREBY ORDER, THAT THE FOLLOWING STATES BE FREE, INDEPENDENT, AND RULED BY THEIR OWN LAWS ... Scarcely could they believe that they had heard them; and they looked at each other, marvelling as at the empty illusion of a dream. ... As everyone desired not only to hear, but to see the messenger of liberty, the herald was called out again; and he again repeated the proclamation.",
-   "note": "Livy tells the scene in the same order as Polybius (18.46): the herald and trumpeter, the proclamation, the crowd's disbelief \"as at a dream,\" the call for the herald to come out and say it again so that they might see as well as hear. He changes the setting from the stadium to a theatre, drops Polybius' \"without garrison, without tribute\" from the herald's words (though a later phrase of the crowd's gratitude echoes Polybius' \"single proclamation\"), and puts \"the Senate and People of Rome\" where Polybius has the Senate alone. Polybius' own aside, \"as it seems to me,\" about why the crowd wanted to see the herald has become plain narration in Livy."
+   "note": "Livy tells the scene in the same order as Polybius (18.46): the herald and trumpeter, the proclamation, the crowd's disbelief \"as at a dream,\" the call for the herald to come out and say it again so that they might see as well as hear. He changes the setting from the stadium to a theatre, drops Polybius' \"without garrison, without tribute\" from the herald's words, and puts \"the Senate and People of Rome\" where Polybius has the Senate alone. Polybius' own aside, \"as it seems to me,\" about why the crowd wanted to see the herald has become plain narration in Livy."
   },
   {
    "id": "parallels/plutarch-philopoemen-death",
@@ -199,7 +199,7 @@
    "source_pub": "The Roman History of Appian of Alexandria, tr. Horace White, vol. 1 (New York/London, 1899) (PD)",
    "pd_basis": "pre-1930",
    "quote": "Scipio, beholding this spectacle, is said to have shed tears and publicly lamented the fortune of the enemy. After meditating by himself a long time and reflecting on the rise and fall of cities, nations, and empires, as well as of individuals, ... Polybius wrote this down just as he heard it.",
-   "note": "Appian, writing some three centuries later, tells the scene that survives only in tatters in Polybius (38.21-22): Scipio weeping over the burning city, the Homeric line about the fall of Troy, the fear that Rome's turn would come. He adds a roll of fallen empires (Troy, Assyria, Media, Persia, Macedon) and closes by naming his source: Polybius \"wrote this down just as he heard it.\" Polybius' own broken fragment confirms it in the first person, with Scipio \"turning at once and grasping my right hand.\""
+   "note": "The fullest account of this scene is not Polybius' own but Appian's, writing some three centuries later. Editors print it among the fragments as 38.22 because it names Polybius as its source: he \"wrote this down just as he heard it.\" What survives in Polybius' own words is the broken 38.21, where the Homeric line itself is lost but the witness speaks in the first person: Scipio, \"turning at once and grasping my right hand,\" fears that the same order will one day be given about Rome. Whether the roll of fallen empires (Troy, Assyria, Media, Persia, Macedon) was Polybius' or Appian's, we cannot tell."
   }
  ],
  "by_chapter": {
@@ -228,15 +228,6 @@
    "parallels/plutarch-marcellus-archimedes"
   ],
   "8.7": [
-   "parallels/plutarch-marcellus-archimedes"
-  ],
-  "8.8": [
-   "parallels/plutarch-marcellus-archimedes"
-  ],
-  "8.8a": [
-   "parallels/plutarch-marcellus-archimedes"
-  ],
-  "8.9": [
    "parallels/plutarch-marcellus-archimedes"
   ],
   "10.10": [

@@ -2839,3 +2839,4 @@ A6,,,annotation-qa-showpieces,FIXED,"Opus read of 10 showpieces 2026-11-01: Appi
 6b,23,12,attribution,done,"MIXED resolved: per-paragraph Quoted-by lines (convention a, work/scripts/phase6b_apply_mixed.py)"
 6b,29,14,attribution,done,"MIXED resolved: per-paragraph Quoted-by lines (convention a, work/scripts/phase6b_apply_mixed.py)"
 6b,32,11,attribution,done,"MIXED resolved: per-paragraph Quoted-by lines (convention a, work/scripts/phase6b_apply_mixed.py)"
+A5,,,survival-constantinian,done,"38 EXCERPT chapters from Phase 6b findings via work/survival_witnesses.csv + ann_survival_gen.py; Opus resolved 11.18a 12.26c 14.1a (Vat. palimpsest = De sententiis); open: 8.37 category, 13.10 EDITOR, 38.22 Appian line; options b/c await user"

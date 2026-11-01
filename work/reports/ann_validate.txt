@@ -1,4 +1,4 @@
-65 annotations: UNVERIFIED=1, verified=64
+103 annotations: UNVERIFIED=1, verified=102
 
 annotations/readers/adams-defence-checks-and-balances.md  [verified]
   warn  ocr_fix applied: 'dif- ferent' -> 'different'
@@ -22,3 +22,19 @@ annotations/readers/montesquieu-legion-and-phalanx.md  [verified]
   warn  ocr_fix applied: 'pha- lanx' -> 'phalanx'
 annotations/parallels/appian-scipio-weeps-over-carthage.md  [verified]
   warn  ocr_fix applied: 're- flecting' -> 'reflecting'
+annotations/survival/07-11.md  [verified]
+  warn  note has 8 sentences (max 4; set form: essay for headnotes)
+annotations/survival/07-14.md  [verified]
+  warn  note has 10 sentences (max 4; set form: essay for headnotes)
+annotations/survival/08-10.md  [verified]
+  warn  note has 8 sentences (max 4; set form: essay for headnotes)
+annotations/survival/08-11.md  [verified]
+  warn  note has 8 sentences (max 4; set form: essay for headnotes)
+annotations/survival/08-14.md  [verified]
+  warn  note has 6 sentences (max 4; set form: essay for headnotes)
+annotations/survival/08-37.md  [verified]
+  warn  note has 6 sentences (max 4; set form: essay for headnotes)
+annotations/survival/08-4.md  [verified]
+  warn  note has 8 sentences (max 4; set form: essay for headnotes)
+annotations/survival/08-7.md  [verified]
+  warn  note has 8 sentences (max 4; set form: essay for headnotes)

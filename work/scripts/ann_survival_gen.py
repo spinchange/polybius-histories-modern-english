@@ -8,17 +8,23 @@ WORK_PLAN Phase 6b) are picked up by simply running again.
 
     python work/scripts/ann_survival_gen.py [--force] [--dry-run]
 
+Chapters preserved by the Constantinian collections or the Excerpta antiqua carry no
+italic line; they are read from work/survival_witnesses.csv (Phase 6b findings,
+Buettner-Wobst source notes) by render_witness().
+
 Only facts present in the book files are used for *which* author preserved a
 chapter; author blurbs below are standard reference facts, kept deliberately
 short and approximate.
 """
 from __future__ import annotations
 
+import csv
 import re
 import sys
 
 from ann_common import ANN, ROOT
 
+WITNESS_CSV = ROOT / "work" / "survival_witnesses.csv"
 BOOK_GLOB = "Polybius_Histories_Book_*_modern_English.md"
 HEAD_RE = re.compile(r"^## Book (\d+) Chapter (\d+[a-z]?): (.+?)\s*$")
 QUOTE_RE = re.compile(r"^\*Quoted by (.+?)\.?\*\s*$")
@@ -152,6 +158,39 @@ generated: ann_survival_gen.py
 """
 
 
+def render_witness(row: dict) -> str:
+    """Entry for a chapter preserved by a Constantinian collection or the Excerpta antiqua.
+
+    Columns of work/survival_witnesses.csv: book, chapter, collection (annotator),
+    witness (work), date, lead (first sentence), evidence (what the apparatus note
+    says, in plain words), confidence, extra (optional further sentence).
+    """
+    body = [row["lead"].strip(), f"This rests on {row['evidence'].strip()}."]
+    if row["extra"].strip():
+        body.append(row["extra"].strip())
+    if row["confidence"].strip().lower().startswith("medium"):
+        body.append("Confidence is only medium.")
+    book, ch = int(row["book"]), row["chapter"].strip()
+    return f"""---
+id: survival/{book:02d}-{ch}
+layer: survival
+anchor: ["{book}.{ch}"]
+annotator: {row['collection'].strip()}
+work: {row['witness'].strip()}
+date: {row['date'].strip()}
+tags: [survival-story]
+pd_basis: none
+status: verified
+generated: ann_survival_gen.py
+---
+**Note:** {" ".join(body)}
+"""
+
+
+def chapter_key(book: int, ch: str):
+    return (book, int(re.match(r"\d+", ch).group()), ch)
+
+
 def main(argv: list[str]) -> int:
     force, dry = "--force" in argv, "--dry-run" in argv
     out = ANN / "survival"
@@ -162,9 +201,26 @@ def main(argv: list[str]) -> int:
         if path.exists() and not force:
             kept += 1
             continue
+        if path.exists() and "generated: ann_survival_gen.py" not in path.read_text(encoding="utf-8"):
+            kept += 1   # --force never destroys a hand-edited entry
+            continue
         made += 1
         if not dry:
             path.write_text(render(book, ch, info, 0), encoding="utf-8", newline="\n")
+    if WITNESS_CSV.exists():
+        with WITNESS_CSV.open(encoding="utf-8", newline="") as fh:
+            rows = list(csv.DictReader(fh))
+        for row in sorted(rows, key=lambda r: chapter_key(int(r["book"]), r["chapter"])):
+            path = out / f"{int(row['book']):02d}-{row['chapter'].strip()}.md"
+            if path.exists() and not force:
+                kept += 1
+                continue
+            if path.exists() and "generated: ann_survival_gen.py" not in path.read_text(encoding="utf-8"):
+                kept += 1   # --force never destroys a hand-edited entry
+                continue
+            made += 1
+            if not dry:
+                path.write_text(render_witness(row), encoding="utf-8", newline="\n")
     print(f"survival entries: {made} written, {kept} kept{' (dry run)' if dry else ''}")
     return 0
 

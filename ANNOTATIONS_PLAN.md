@@ -189,7 +189,7 @@ Dionysius' dig.
 | A3 readers (10 English notes) | done, all verified | f99c9c5, 912ec6c |
 | A4 Constantine + Frederick (our translations) | done, verified | b8e7b9c |
 | A3 parallels (10 showpieces, Livy/Plutarch/Appian) | done, all verified | 8dcc4c5 |
-| A5 survival layer + 7.1 headnote | **in progress**: 42 provenance entries generated (all chapters with a "Quoted by" line as of 2026-11-01); 7.1 headnote drafted, `UNVERIFIED` pending user read; Constantinian-excerpt chapters blocked on Phase 6b | 6bd0eec + next |
+| A5 survival layer + 7.1 headnote | **in progress**: 42 provenance entries generated (all chapters with a "Quoted by" line as of 2026-11-01); 7.1 headnote drafted, `UNVERIFIED` pending user read; scope (a) done: 38 Constantinian/Excerpta antiqua EXCERPT chapters now have entries (80 total); options (b) per-run entries and (c) full per-chapter await user choice | 6bd0eec + next |
 | A6 QA (validator, Haiku sweep, Opus read of 10 showpieces; fixes applied) | done 2026-11-01; open: 38.22 "From Appian" source line (Phase 6) | 29b393f |
 
 How to resume:
@@ -210,10 +210,17 @@ A5 notes (survival layer):
   from the book files' `*Quoted by ...*` lines. It never overwrites existing
   files (`--force` does), so rerun it after WORK_PLAN Phase 6b lands more
   attributions. Generated entries carry `generated: ann_survival_gen.py`.
-- Still to do: entries for Constantinian-excerpt chapters (no italic line in the
-  books; source from the 6b output, apparatus questions to Opus), mixed-provenance
-  chapters, the missing "From Appian" line on 38.22, and the user's read of the
-  headnote (flip `status` to `verified`).
+- Constantinian channel, scope (a) done: `work/survival_witnesses.csv` (38 rows, from the
+  EXCERPT verdicts in work/phase6b/findings_A-F.md) is read by `ann_survival_gen.py`
+  (`render_witness`); `--force` only rewrites files carrying `generated:`. Opus settled that
+  Excerpta Peiresciana = Valesiana (one collection, De virtutibus et vitiis), Excerpta Vaticana
+  = Vat. gr. 73 palimpsest = De sententiis (so 11.18a, 12.26c, 14.1a), and that the Excerpta
+  antiqua (cod. Urbinas gr. 102) is a separate, undated collection.
+- Still to do: user choice between (b) per-run entries and (c) full per-chapter coverage;
+  8.37 paragraphs 2-11 (Wescher codex; Opus proposes the category "Byzantine military
+  anthology", not yet applied); 13.10 EDITOR row; the missing "From Appian" line on 38.22;
+  mixed-chapter entries still say unmarked paragraphs come from "the Constantinian excerpts or
+  another collection" (findings could now name them); the user's read of the headnote.
 
 Known items for A6 / the user (not checkable by the validator):
 - A4 translations (Constantine 7.1, Frederick 9.12–20) have had no second-reader

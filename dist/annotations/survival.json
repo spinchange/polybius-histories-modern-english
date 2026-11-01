@@ -1,5 +1,1847 @@
 {
  "layer": "survival",
- "annotations": [],
- "by_chapter": {}
+ "annotations": [
+  {
+   "id": "survival/07-1",
+   "anchors": [
+    {
+     "book": 7,
+     "from": "1",
+     "to": "1"
+    }
+   ],
+   "annotator": "Athenaeus; Suidas",
+   "work": "Athenaeus, Deipnosophistae; Suidas, Lexicon",
+   "date": "c. AD 200; c. 970",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "What we have of this chapter is preserved by Athenaeus and Suidas. Athenaeus of Naucratis wrote the *Deipnosophistae*, a banquet dialogue packed with quotations from earlier writers. Suidas is the traditional name of the author of the Suda, a Byzantine encyclopedic lexicon of about 970."
+  },
+  {
+   "id": "survival/07-10",
+   "anchors": [
+    {
+     "book": 7,
+     "from": "10",
+     "to": "10"
+    }
+   ],
+   "annotator": "Suidas",
+   "work": "Suidas, Lexicon",
+   "date": "c. 970",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "What we have of this chapter is preserved by Suidas. Suidas is the traditional name of the author of the Suda, a Byzantine encyclopedic lexicon of about 970."
+  },
+  {
+   "id": "survival/07-11",
+   "anchors": [
+    {
+     "book": 7,
+     "from": "11",
+     "to": "11"
+    }
+   ],
+   "annotator": "De virtutibus et vitiis (Constantinian)",
+   "work": "Excerpta Peiresciana, p. 13",
+   "date": "c. 950",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter survives in the Constantinian *De virtutibus et vitiis* (Exc. Peir. p. 13). This rests on Buettner-Wobst's source note citing Exc. Peir. p. 13."
+  },
+  {
+   "id": "survival/07-14",
+   "anchors": [
+    {
+     "book": 7,
+     "from": "14",
+     "to": "14"
+    }
+   ],
+   "annotator": "De virtutibus et vitiis (Constantinian); De sententiis (Constantinian)",
+   "work": "Excerpta Peiresciana, p. 17; Excerpta Vaticana (Mai), p. 373",
+   "date": "c. 950",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter survives in the Constantinian *De virtutibus et vitiis* (Exc. Peir. p. 17); from the sentence on the weight of advice for young kings onward it is also preserved in *De sententiis* (Exc. Vat., Mai p. 373). This rests on Buettner-Wobst's source note citing Exc. Peir. p. 17 and Mai's Vatican excerpts."
+  },
+  {
+   "id": "survival/07-14b",
+   "anchors": [
+    {
+     "book": 7,
+     "from": "14b",
+     "to": "14b"
+    }
+   ],
+   "annotator": "Suidas",
+   "work": "Suidas, Lexicon",
+   "date": "c. 970",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "What we have of this chapter is preserved by Suidas. Suidas is the traditional name of the author of the Suda, a Byzantine encyclopedic lexicon of about 970."
+  },
+  {
+   "id": "survival/07-14c",
+   "anchors": [
+    {
+     "book": 7,
+     "from": "14c",
+     "to": "14c"
+    }
+   ],
+   "annotator": "Stephanus of Byzantium",
+   "work": "Stephanus of Byzantium, Ethnica",
+   "date": "6th century",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "What we have of this chapter is preserved by Stephanus of Byzantium. Stephanus of Byzantium compiled the *Ethnica*, a gazetteer of place-names and peoples, in the 6th century."
+  },
+  {
+   "id": "survival/07-14d",
+   "anchors": [
+    {
+     "book": 7,
+     "from": "14d",
+     "to": "14d"
+    }
+   ],
+   "annotator": "Stephanus of Byzantium",
+   "work": "Stephanus of Byzantium, Ethnica",
+   "date": "6th century",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "What we have of this chapter is preserved by Stephanus of Byzantium. Stephanus of Byzantium compiled the *Ethnica*, a gazetteer of place-names and peoples, in the 6th century."
+  },
+  {
+   "id": "survival/08-4",
+   "anchors": [
+    {
+     "book": 8,
+     "from": "4",
+     "to": "4"
+    }
+   ],
+   "annotator": "Excerpta antiqua",
+   "work": "cod. Urbinas, fol. 104v",
+   "date": "uncertain",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter survives in the *Excerpta antiqua*, a running selection from the early books by an unknown compiler, kept chiefly in codex Urbinas gr. 102; it is a separate collection, not one of Constantine's themed ones. This rests on Buettner-Wobst's source note citing cod. Urb. fol. 104v. The same passage has a parallel in a Byzantine military anthology (cod. Wescheri) and in the siege treatises cited as Hero."
+  },
+  {
+   "id": "survival/08-7",
+   "anchors": [
+    {
+     "book": 8,
+     "from": "7",
+     "to": "7"
+    }
+   ],
+   "annotator": "Excerpta antiqua",
+   "work": "cod. Urbinas, fol. 104v",
+   "date": "uncertain",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter survives in the *Excerpta antiqua*, a running selection from the early books by an unknown compiler, kept chiefly in codex Urbinas gr. 102; it is a separate collection, not one of Constantine's themed ones. This rests on Buettner-Wobst's source note citing cod. Urb. fol. 104v. Parts also have a parallel in a Byzantine military anthology (cod. Wescheri) and in the siege treatises cited as Hero."
+  },
+  {
+   "id": "survival/08-10",
+   "anchors": [
+    {
+     "book": 8,
+     "from": "10",
+     "to": "10"
+    }
+   ],
+   "annotator": "De virtutibus et vitiis (Constantinian)",
+   "work": "Excerpta Peiresciana, p. 18",
+   "date": "c. 950",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter survives in the Constantinian *De virtutibus et vitiis* (Exc. Peir. p. 18). This rests on Buettner-Wobst's source note citing Exc. Peir. p. 18."
+  },
+  {
+   "id": "survival/08-11",
+   "anchors": [
+    {
+     "book": 8,
+     "from": "11",
+     "to": "11"
+    }
+   ],
+   "annotator": "De virtutibus et vitiis (Constantinian)",
+   "work": "Excerpta Peiresciana, p. 18",
+   "date": "c. 950",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter survives in the Constantinian *De virtutibus et vitiis* (Exc. Peir. p. 18). This rests on Buettner-Wobst's source note citing Exc. Peir. p. 18."
+  },
+  {
+   "id": "survival/08-14",
+   "anchors": [
+    {
+     "book": 8,
+     "from": "14",
+     "to": "14"
+    }
+   ],
+   "annotator": "Excerpta antiqua",
+   "work": "cod. Urbinas, fol. 107v",
+   "date": "uncertain",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter survives in the *Excerpta antiqua*, a running selection from the early books by an unknown compiler, kept chiefly in codex Urbinas gr. 102; it is a separate collection, not one of Constantine's themed ones. This rests on Buettner-Wobst's source note citing cod. Urb. fol. 107v (the run begins at 8.13)."
+  },
+  {
+   "id": "survival/08-22",
+   "anchors": [
+    {
+     "book": 8,
+     "from": "22",
+     "to": "22"
+    }
+   ],
+   "annotator": "Athenaeus",
+   "work": "Athenaeus, Deipnosophistae",
+   "date": "c. AD 200",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter has more than one source: paragraph 2 is quoted by Athenaeus. The unmarked paragraph (1) comes from no quoting author; by this edition's convention they come from the Constantinian excerpts or another collection (see the Phase 6b findings). Athenaeus of Naucratis wrote the *Deipnosophistae*, a banquet dialogue packed with quotations from earlier writers."
+  },
+  {
+   "id": "survival/08-24",
+   "anchors": [
+    {
+     "book": 8,
+     "from": "24",
+     "to": "24"
+    }
+   ],
+   "annotator": "Suidas",
+   "work": "Suidas, Lexicon",
+   "date": "c. 970",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter has more than one source: paragraph 3 is quoted by Suidas. The unmarked paragraphs (1 to 2 and 4 to 12) come from no quoting author; by this edition's convention they come from the Constantinian excerpts or another collection (see the Phase 6b findings). Suidas is the traditional name of the author of the Suda, a Byzantine encyclopedic lexicon of about 970."
+  },
+  {
+   "id": "survival/08-37",
+   "anchors": [
+    {
+     "book": 8,
+     "from": "37",
+     "to": "37"
+    }
+   ],
+   "annotator": "Suidas",
+   "work": "Suidas, Lexicon",
+   "date": "c. 970",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter has more than one source: paragraph 1 is quoted by Suidas; paragraphs 12 to 13 are quoted by Suidas. The unmarked paragraphs (2 to 11) come from no quoting author; by this edition's convention they come from the Constantinian excerpts or another collection (see the Phase 6b findings). Suidas is the traditional name of the author of the Suda, a Byzantine encyclopedic lexicon of about 970."
+  },
+  {
+   "id": "survival/08-38",
+   "anchors": [
+    {
+     "book": 8,
+     "from": "38",
+     "to": "38"
+    }
+   ],
+   "annotator": "Suidas",
+   "work": "Suidas, Lexicon",
+   "date": "c. 970",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "What we have of this chapter is preserved by Suidas. Suidas is the traditional name of the author of the Suda, a Byzantine encyclopedic lexicon of about 970."
+  },
+  {
+   "id": "survival/09-9",
+   "anchors": [
+    {
+     "book": 9,
+     "from": "9",
+     "to": "9"
+    }
+   ],
+   "annotator": "Stephanus of Byzantium; Hero of Byzantium",
+   "work": "Stephanus of Byzantium, Ethnica; Hero of Byzantium, Poliorcetica",
+   "date": "6th century; 10th century",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter has more than one source: paragraph 11 is quoted by Stephanus of Byzantium; paragraph 12 is quoted by Hero of Byzantium. The unmarked paragraphs (1 to 10) come from no quoting author; by this edition's convention they come from the Constantinian excerpts or another collection (see the Phase 6b findings). Stephanus of Byzantium compiled the *Ethnica*, a gazetteer of place-names and peoples, in the 6th century. Hero of Byzantium wrote the *Poliorcetica*, a siegecraft manual, in the 10th century."
+  },
+  {
+   "id": "survival/09-27",
+   "anchors": [
+    {
+     "book": 9,
+     "from": "27",
+     "to": "27"
+    }
+   ],
+   "annotator": "Stephanus of Byzantium; Suidas",
+   "work": "Stephanus of Byzantium, Ethnica; Suidas, Lexicon",
+   "date": "6th century; c. 970",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter has more than one source: paragraph 10 is quoted by Stephanus of Byzantium; paragraph 11 is quoted by Suidas. The unmarked paragraphs (1 to 9) come from no quoting author; by this edition's convention they come from the Constantinian excerpts or another collection (see the Phase 6b findings). Stephanus of Byzantium compiled the *Ethnica*, a gazetteer of place-names and peoples, in the 6th century. Suidas is the traditional name of the author of the Suda, a Byzantine encyclopedic lexicon of about 970."
+  },
+  {
+   "id": "survival/09-33",
+   "anchors": [
+    {
+     "book": 9,
+     "from": "33",
+     "to": "33"
+    }
+   ],
+   "annotator": "Excerpta antiqua",
+   "work": "cod. Urbinas",
+   "date": "uncertain",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter survives in the *Excerpta antiqua*, a running selection from the early books by an unknown compiler, kept chiefly in codex Urbinas gr. 102; it is a separate collection, not one of Constantine's themed ones. This rests on the source note printed with the fragment in Didot's edition, a run heading for the Excerpta antiqua covering Book 9, chapters 22 and 23 in Didot's numbering."
+  },
+  {
+   "id": "survival/09-45",
+   "anchors": [
+    {
+     "book": 9,
+     "from": "45",
+     "to": "45"
+    }
+   ],
+   "annotator": "Athenaeus; Stephanus of Byzantium",
+   "work": "Athenaeus, Deipnosophistae; Stephanus of Byzantium, Ethnica",
+   "date": "c. AD 200; 6th century",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter has more than one source: paragraph 1 is quoted by Athenaeus; paragraphs 2 to 3 are quoted by Stephanus of Byzantium. Athenaeus of Naucratis wrote the *Deipnosophistae*, a banquet dialogue packed with quotations from earlier writers. Stephanus of Byzantium compiled the *Ethnica*, a gazetteer of place-names and peoples, in the 6th century."
+  },
+  {
+   "id": "survival/10-27",
+   "anchors": [
+    {
+     "book": 10,
+     "from": "27",
+     "to": "27"
+    }
+   ],
+   "annotator": "Excerpta antiqua",
+   "work": "cod. Urbinas",
+   "date": "uncertain",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter survives in the *Excerpta antiqua*, a running selection from the early books by an unknown compiler, kept chiefly in codex Urbinas gr. 102; it is a separate collection, not one of Constantine's themed ones. This rests on the source note printed with the fragment in Didot's edition, a run heading for the Excerpta antiqua covering Book 10, chapters 24 to 28 in Didot's numbering."
+  },
+  {
+   "id": "survival/11-18a",
+   "anchors": [
+    {
+     "book": 11,
+     "from": "18a",
+     "to": "18a"
+    }
+   ],
+   "annotator": "De sententiis (Constantinian)",
+   "work": "Vatican palimpsest, Vaticanus graecus 73 (Mai)",
+   "date": "c. 950",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This passage survives only in the Vatican palimpsest (Vaticanus graecus 73), a copy of the Constantinian *De sententiis* first published by Angelo Mai; Didot prints it in the square brackets he reserves for Mai's palimpsest texts and gives no separate source note. This rests on Didot's square brackets and his concordance of passages printed by Mai; no source note stands at the fragment. Confidence is only medium."
+  },
+  {
+   "id": "survival/12-1",
+   "anchors": [
+    {
+     "book": 12,
+     "from": "1",
+     "to": "1"
+    }
+   ],
+   "annotator": "Stephanus of Byzantium",
+   "work": "Stephanus of Byzantium, Ethnica",
+   "date": "6th century",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "What we have of this chapter is preserved by Stephanus of Byzantium. Stephanus of Byzantium compiled the *Ethnica*, a gazetteer of place-names and peoples, in the 6th century."
+  },
+  {
+   "id": "survival/12-26",
+   "anchors": [
+    {
+     "book": 12,
+     "from": "26",
+     "to": "26"
+    }
+   ],
+   "annotator": "Excerpta antiqua",
+   "work": "cod. Urbinas",
+   "date": "uncertain",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter survives in the *Excerpta antiqua*, a running selection from the early books by an unknown compiler, kept chiefly in codex Urbinas gr. 102; it is a separate collection, not one of Constantine's themed ones. This rests on the source note printed with the fragment in Didot's edition, a run heading for the Excerpta antiqua covering Book 12, chapter 14 in Didot's numbering. The final section is also in Mai's Vatican excerpts."
+  },
+  {
+   "id": "survival/12-26c",
+   "anchors": [
+    {
+     "book": 12,
+     "from": "26c",
+     "to": "26c"
+    }
+   ],
+   "annotator": "De sententiis (Constantinian)",
+   "work": "Vatican palimpsest, Vaticanus graecus 73 (Mai)",
+   "date": "c. 950",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This passage survives only in the Vatican palimpsest (Vaticanus graecus 73), a copy of the Constantinian *De sententiis* first published by Angelo Mai; Didot prints it in the square brackets he reserves for Mai's palimpsest texts and gives no separate source note. This rests on Didot's square brackets and his concordance of passages printed by Mai; no source note stands at the fragment. Confidence is only medium."
+  },
+  {
+   "id": "survival/13-5",
+   "anchors": [
+    {
+     "book": 13,
+     "from": "5",
+     "to": "5"
+    }
+   ],
+   "annotator": "Suidas; Harpocration",
+   "work": "Suidas, Lexicon; Harpocration, Lexicon of the Ten Orators",
+   "date": "c. 970; 2nd century AD",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter has more than one source: paragraph 1 is quoted by Suidas and Harpocration; paragraphs 2 to 3 are quoted by Suidas. The unmarked paragraphs (4 to 6) come from no quoting author; by this edition's convention they come from the Constantinian excerpts or another collection (see the Phase 6b findings). Suidas is the traditional name of the author of the Suda, a Byzantine encyclopedic lexicon of about 970. Harpocration compiled a lexicon of the words of the Ten Attic Orators in the 2nd century AD."
+  },
+  {
+   "id": "survival/13-9",
+   "anchors": [
+    {
+     "book": 13,
+     "from": "9",
+     "to": "9"
+    }
+   ],
+   "annotator": "Stephanus of Byzantium; Suidas",
+   "work": "Stephanus of Byzantium, Ethnica; Suidas, Lexicon",
+   "date": "6th century; c. 970",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter has more than one source: paragraphs 1 to 4 are quoted by Stephanus of Byzantium; paragraphs 5 to 6 are quoted by Suidas. Stephanus of Byzantium compiled the *Ethnica*, a gazetteer of place-names and peoples, in the 6th century. Suidas is the traditional name of the author of the Suda, a Byzantine encyclopedic lexicon of about 970."
+  },
+  {
+   "id": "survival/14-1a",
+   "anchors": [
+    {
+     "book": 14,
+     "from": "1a",
+     "to": "1a"
+    }
+   ],
+   "annotator": "De sententiis (Constantinian)",
+   "work": "Vatican palimpsest, Vaticanus graecus 73 (Mai)",
+   "date": "c. 950",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "The proem survives in the Vatican palimpsest of the Constantinian *De sententiis* (Vaticanus graecus 73), whose excerptor notes in a marginal scholion that only the proem of Book 14 could be read and that the leaves after it were lost; Dindorf's preface records the note at folio 29v. This rests on Didot's bracketed Greek and the scholion text in his edition, read with Dindorf's preface."
+  },
+  {
+   "id": "survival/14-11",
+   "anchors": [
+    {
+     "book": 14,
+     "from": "11",
+     "to": "11"
+    }
+   ],
+   "annotator": "Athenaeus",
+   "work": "Athenaeus, Deipnosophistae",
+   "date": "c. AD 200",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "What we have of this chapter is preserved by Athenaeus. Athenaeus of Naucratis wrote the *Deipnosophistae*, a banquet dialogue packed with quotations from earlier writers."
+  },
+  {
+   "id": "survival/15-22",
+   "anchors": [
+    {
+     "book": 15,
+     "from": "22",
+     "to": "22"
+    }
+   ],
+   "annotator": "De virtutibus et vitiis (Constantinian); Excerpta antiqua",
+   "work": "Excerpta Valesiana; Excerpta antiqua",
+   "date": "c. 950",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter survives both in the Constantinian *De virtutibus et vitiis* (the Excerpta Valesiana) and in the *Excerpta antiqua*, which Didot cites together for chapters 21 to 23. This rests on the source note printed with the fragment in Didot's edition. The apparatus does not say how the coverage divides between the two."
+  },
+  {
+   "id": "survival/16-14",
+   "anchors": [
+    {
+     "book": 16,
+     "from": "14",
+     "to": "14"
+    }
+   ],
+   "annotator": "De virtutibus et vitiis (Constantinian)",
+   "work": "Excerpta Valesiana",
+   "date": "c. 950",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter survives in the Constantinian *De virtutibus et vitiis* (the Excerpta Valesiana). This rests on the source note printed with the fragment in Didot's edition."
+  },
+  {
+   "id": "survival/16-18",
+   "anchors": [
+    {
+     "book": 16,
+     "from": "18",
+     "to": "18"
+    }
+   ],
+   "annotator": "De virtutibus et vitiis (Constantinian)",
+   "work": "Excerpta Valesiana",
+   "date": "c. 950",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter survives in the Constantinian *De virtutibus et vitiis* (the Excerpta Valesiana). This rests on the source note printed with the fragment in Didot's edition."
+  },
+  {
+   "id": "survival/16-22a",
+   "anchors": [
+    {
+     "book": 16,
+     "from": "22a",
+     "to": "22a"
+    }
+   ],
+   "annotator": "De virtutibus et vitiis (Constantinian)",
+   "work": "Excerpta Valesiana",
+   "date": "c. 950",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter survives in the Constantinian *De virtutibus et vitiis* (the Excerpta Valesiana). This rests on the source note printed with the fragment in Didot's edition."
+  },
+  {
+   "id": "survival/16-27",
+   "anchors": [
+    {
+     "book": 16,
+     "from": "27",
+     "to": "27"
+    }
+   ],
+   "annotator": "De legationibus (Constantinian)",
+   "work": "Excerpta de legationibus",
+   "date": "c. 950",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter survives in the Constantinian *De legationibus*. This rests on the source note printed with the fragment in Didot's edition headed as Ecloga IV de Legationibus."
+  },
+  {
+   "id": "survival/16-39",
+   "anchors": [
+    {
+     "book": 16,
+     "from": "39",
+     "to": "39"
+    }
+   ],
+   "annotator": "Josephus; Suidas",
+   "work": "Josephus, Jewish Antiquities; Suidas, Lexicon",
+   "date": "c. AD 94; c. 970",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter has more than one source: paragraph 1 is quoted by Josephus; paragraph 2 is quoted by Suidas; paragraphs 3 to 5 are quoted by Josephus. Josephus, the historian of the Jews, wrote the *Jewish Antiquities* about AD 94. Suidas is the traditional name of the author of the Suda, a Byzantine encyclopedic lexicon of about 970."
+  },
+  {
+   "id": "survival/18-41",
+   "anchors": [
+    {
+     "book": 18,
+     "from": "41",
+     "to": "41"
+    }
+   ],
+   "annotator": "De virtutibus et vitiis (Constantinian)",
+   "work": "Excerpta Valesiana",
+   "date": "c. 950",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter survives in the Constantinian *De virtutibus et vitiis* (the Excerpta Valesiana). This rests on the source note printed with the fragment in Didot's edition."
+  },
+  {
+   "id": "survival/19-1",
+   "anchors": [
+    {
+     "book": 19,
+     "from": "1",
+     "to": "1"
+    }
+   ],
+   "annotator": "Plutarch",
+   "work": "Plutarch",
+   "date": "c. AD 100",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "What we have of this chapter is preserved by Plutarch. Plutarch, the biographer, wrote in the decades around AD 100."
+  },
+  {
+   "id": "survival/19-2",
+   "anchors": [
+    {
+     "book": 19,
+     "from": "2",
+     "to": "2"
+    }
+   ],
+   "annotator": "Livy",
+   "work": "Livy, History of Rome",
+   "date": "c. 20 BC",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "What we have of this chapter is preserved by Livy. Livy wrote his history of Rome under Augustus."
+  },
+  {
+   "id": "survival/20-4",
+   "anchors": [
+    {
+     "book": 20,
+     "from": "4",
+     "to": "4"
+    }
+   ],
+   "annotator": "De virtutibus et vitiis (Constantinian)",
+   "work": "Excerpta Peiresciana (P)",
+   "date": "c. 950",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter survives in the Constantinian *De virtutibus et vitiis* (codex P, fol. 304 to 306). This rests on Buettner-Wobst's source note."
+  },
+  {
+   "id": "survival/20-12",
+   "anchors": [
+    {
+     "book": 20,
+     "from": "12",
+     "to": "12"
+    }
+   ],
+   "annotator": "De sententiis (Constantinian)",
+   "work": "Excerpta Vaticana (M)",
+   "date": "c. 950",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter survives in the Constantinian *De sententiis* (Vaticanus graecus 73, in Mai and Heyse's editions). This rests on Buettner-Wobst's source note citing M, Hey 61."
+  },
+  {
+   "id": "survival/21-6",
+   "anchors": [
+    {
+     "book": 21,
+     "from": "6",
+     "to": "6"
+    }
+   ],
+   "annotator": "Suidas",
+   "work": "Suidas, Lexicon",
+   "date": "c. 970",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter has more than one source: paragraph 2 is quoted by Suidas; paragraph 8 is quoted by Suidas. The unmarked paragraphs (1 and 3 to 7) come from no quoting author; by this edition's convention they come from the Constantinian excerpts or another collection (see the Phase 6b findings). Suidas is the traditional name of the author of the Suda, a Byzantine encyclopedic lexicon of about 970."
+  },
+  {
+   "id": "survival/21-12",
+   "anchors": [
+    {
+     "book": 21,
+     "from": "12",
+     "to": "12"
+    }
+   ],
+   "annotator": "Suidas",
+   "work": "Suidas, Lexicon",
+   "date": "c. 970",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "What we have of this chapter is preserved by Suidas. Suidas is the traditional name of the author of the Suda, a Byzantine encyclopedic lexicon of about 970."
+  },
+  {
+   "id": "survival/21-31",
+   "anchors": [
+    {
+     "book": 21,
+     "from": "31",
+     "to": "31"
+    }
+   ],
+   "annotator": "De legationibus (Constantinian)",
+   "work": "Excerpta de legationibus",
+   "date": "c. 950",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter survives in the Constantinian *De legationibus*. This rests on Buettner-Wobst's source note listing the De legationibus manuscripts."
+  },
+  {
+   "id": "survival/21-34",
+   "anchors": [
+    {
+     "book": 21,
+     "from": "34",
+     "to": "34"
+    }
+   ],
+   "annotator": "De virtutibus et vitiis (Constantinian); De legationibus (Constantinian)",
+   "work": "Excerpta Peiresciana (P); Excerpta de legationibus",
+   "date": "c. 950",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "Paragraphs 1 and 2 of this chapter survive in the Constantinian *De virtutibus et vitiis* (P 306), the rest in *De legationibus*. This rests on Buettner-Wobst's source note."
+  },
+  {
+   "id": "survival/21-38",
+   "anchors": [
+    {
+     "book": 21,
+     "from": "38",
+     "to": "38"
+    }
+   ],
+   "annotator": "Plutarch",
+   "work": "Plutarch, De mulierum virtutibus",
+   "date": "c. AD 100",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "What we have of this chapter is preserved by Plutarch. Plutarch, the biographer, wrote in the decades around AD 100."
+  },
+  {
+   "id": "survival/22-3",
+   "anchors": [
+    {
+     "book": 22,
+     "from": "3",
+     "to": "3"
+    }
+   ],
+   "annotator": "De legationibus (Constantinian)",
+   "work": "Excerpta de legationibus",
+   "date": "c. 950",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter survives in the Constantinian *De legationibus*. This rests on Buettner-Wobst's source note listing the De legationibus manuscripts."
+  },
+  {
+   "id": "survival/22-7",
+   "anchors": [
+    {
+     "book": 22,
+     "from": "7",
+     "to": "7"
+    }
+   ],
+   "annotator": "De legationibus (Constantinian)",
+   "work": "Excerpta de legationibus",
+   "date": "c. 950",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter survives in the Constantinian *De legationibus*. This rests on Buettner-Wobst's source note listing the De legationibus manuscripts."
+  },
+  {
+   "id": "survival/22-18",
+   "anchors": [
+    {
+     "book": 22,
+     "from": "18",
+     "to": "18"
+    }
+   ],
+   "annotator": "De sententiis (Constantinian)",
+   "work": "Excerpta Vaticana (M)",
+   "date": "c. 950",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter survives in the Constantinian *De sententiis* (Vaticanus graecus 73). This rests on Buettner-Wobst's source note citing M, Hey 63 to 64."
+  },
+  {
+   "id": "survival/22-19",
+   "anchors": [
+    {
+     "book": 22,
+     "from": "19",
+     "to": "19"
+    }
+   ],
+   "annotator": "De sententiis (Constantinian)",
+   "work": "Excerpta Vaticana (M)",
+   "date": "c. 950",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter survives in the Constantinian *De sententiis* (Vaticanus graecus 73). This rests on Buettner-Wobst's source note citing M, Hey 63 to 64."
+  },
+  {
+   "id": "survival/23-1",
+   "anchors": [
+    {
+     "book": 23,
+     "from": "1",
+     "to": "1"
+    }
+   ],
+   "annotator": "De legationibus (Constantinian)",
+   "work": "Excerpta de legationibus",
+   "date": "c. 950",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter survives in the Constantinian *De legationibus*. This rests on Buettner-Wobst's source note listing the De legationibus manuscripts."
+  },
+  {
+   "id": "survival/23-12",
+   "anchors": [
+    {
+     "book": 23,
+     "from": "12",
+     "to": "12"
+    }
+   ],
+   "annotator": "Suidas",
+   "work": "Suidas, Lexicon",
+   "date": "c. 970",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter has more than one source: paragraphs 2 to 3 are quoted by Suidas. The unmarked paragraphs (1 and 4 to 8) come from no quoting author; by this edition's convention they come from the Constantinian excerpts or another collection (see the Phase 6b findings). Suidas is the traditional name of the author of the Suda, a Byzantine encyclopedic lexicon of about 970."
+  },
+  {
+   "id": "survival/23-15",
+   "anchors": [
+    {
+     "book": 23,
+     "from": "15",
+     "to": "15"
+    }
+   ],
+   "annotator": "De sententiis (Constantinian)",
+   "work": "Excerpta Vaticana (M)",
+   "date": "c. 950",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter survives in the Constantinian *De sententiis* (Vaticanus graecus 73). This rests on Buettner-Wobst's source note citing M, Hey 66."
+  },
+  {
+   "id": "survival/24-3",
+   "anchors": [
+    {
+     "book": 24,
+     "from": "3",
+     "to": "3"
+    }
+   ],
+   "annotator": "De sententiis (Constantinian)",
+   "work": "Excerpta Vaticana (M)",
+   "date": "c. 950",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter survives in the Constantinian *De sententiis* (Vaticanus graecus 73). This rests on Buettner-Wobst's source note citing M, Hey 66 to 67. Strabo preserves only the next chapter, 24.4."
+  },
+  {
+   "id": "survival/24-4",
+   "anchors": [
+    {
+     "book": 24,
+     "from": "4",
+     "to": "4"
+    }
+   ],
+   "annotator": "Strabo",
+   "work": "Strabo, Geography",
+   "date": "c. 20 BC",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "What we have of this chapter is preserved by Strabo. Strabo wrote the *Geography*, which argues at length with earlier geographers, Polybius among them."
+  },
+  {
+   "id": "survival/25-1",
+   "anchors": [
+    {
+     "book": 25,
+     "from": "1",
+     "to": "1"
+    }
+   ],
+   "annotator": "Strabo",
+   "work": "Strabo, Geography",
+   "date": "c. 20 BC",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "What we have of this chapter is preserved by Strabo. Strabo wrote the *Geography*, which argues at length with earlier geographers, Polybius among them."
+  },
+  {
+   "id": "survival/26-1",
+   "anchors": [
+    {
+     "book": 26,
+     "from": "1",
+     "to": "1"
+    }
+   ],
+   "annotator": "Athenaeus",
+   "work": "Athenaeus, Deipnosophistae",
+   "date": "c. AD 200",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "What we have of this chapter is preserved by Athenaeus. Athenaeus of Naucratis wrote the *Deipnosophistae*, a banquet dialogue packed with quotations from earlier writers."
+  },
+  {
+   "id": "survival/26-1a",
+   "anchors": [
+    {
+     "book": 26,
+     "from": "1a",
+     "to": "1a"
+    }
+   ],
+   "annotator": "Athenaeus",
+   "work": "Athenaeus, Deipnosophistae",
+   "date": "c. AD 200",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "What we have of this chapter is preserved by Athenaeus. Athenaeus of Naucratis wrote the *Deipnosophistae*, a banquet dialogue packed with quotations from earlier writers."
+  },
+  {
+   "id": "survival/29-9",
+   "anchors": [
+    {
+     "book": 29,
+     "from": "9",
+     "to": "9"
+    }
+   ],
+   "annotator": "De sententiis (Constantinian)",
+   "work": "Excerpta Vaticana (M)",
+   "date": "c. 950",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter survives in the Constantinian *De sententiis* (Vaticanus graecus 73). This rests on Buettner-Wobst's source note citing M, Hey 71 to 74. The closing lacuna marks a lost leaf of the codex."
+  },
+  {
+   "id": "survival/29-13",
+   "anchors": [
+    {
+     "book": 29,
+     "from": "13",
+     "to": "13"
+    }
+   ],
+   "annotator": "Athenaeus",
+   "work": "Athenaeus, Deipnosophistae",
+   "date": "c. AD 200",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "What we have of this chapter is preserved by Athenaeus. Athenaeus of Naucratis wrote the *Deipnosophistae*, a banquet dialogue packed with quotations from earlier writers."
+  },
+  {
+   "id": "survival/29-14",
+   "anchors": [
+    {
+     "book": 29,
+     "from": "14",
+     "to": "14"
+    }
+   ],
+   "annotator": "Plutarch; Suidas",
+   "work": "Plutarch, Aemilius Paullus; Suidas, Lexicon",
+   "date": "c. AD 100; c. 970",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter has more than one source: paragraphs 1 to 3 are quoted by Plutarch; paragraph 4 is quoted by Suidas. Plutarch, the biographer, wrote in the decades around AD 100. Suidas is the traditional name of the author of the Suda, a Byzantine encyclopedic lexicon of about 970."
+  },
+  {
+   "id": "survival/29-15",
+   "anchors": [
+    {
+     "book": 29,
+     "from": "15",
+     "to": "15"
+    }
+   ],
+   "annotator": "Plutarch",
+   "work": "Plutarch, Aemilius Paullus",
+   "date": "c. AD 100",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "What we have of this chapter is preserved by Plutarch. Plutarch, the biographer, wrote in the decades around AD 100."
+  },
+  {
+   "id": "survival/29-16",
+   "anchors": [
+    {
+     "book": 29,
+     "from": "16",
+     "to": "16"
+    }
+   ],
+   "annotator": "Suidas",
+   "work": "Suidas, Lexicon",
+   "date": "c. 970",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "What we have of this chapter is preserved by Suidas. Suidas is the traditional name of the author of the Suda, a Byzantine encyclopedic lexicon of about 970."
+  },
+  {
+   "id": "survival/29-18",
+   "anchors": [
+    {
+     "book": 29,
+     "from": "18",
+     "to": "18"
+    }
+   ],
+   "annotator": "Plutarch",
+   "work": "Plutarch, Aemilius Paullus",
+   "date": "c. AD 100",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "What we have of this chapter is preserved by Plutarch. Plutarch, the biographer, wrote in the decades around AD 100."
+  },
+  {
+   "id": "survival/30-6",
+   "anchors": [
+    {
+     "book": 30,
+     "from": "6",
+     "to": "6"
+    }
+   ],
+   "annotator": "De virtutibus et vitiis (Constantinian)",
+   "work": "Excerpta Peiresciana (P)",
+   "date": "c. 950",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter survives in the Constantinian *De virtutibus et vitiis* (codex P). This rests on Buettner-Wobst's source note citing P."
+  },
+  {
+   "id": "survival/30-11",
+   "anchors": [
+    {
+     "book": 30,
+     "from": "11",
+     "to": "11"
+    }
+   ],
+   "annotator": "De virtutibus et vitiis (Constantinian)",
+   "work": "Excerpta Peiresciana (P)",
+   "date": "c. 950",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter survives in the Constantinian *De virtutibus et vitiis* (codex P). This rests on Buettner-Wobst's source note citing P."
+  },
+  {
+   "id": "survival/30-14",
+   "anchors": [
+    {
+     "book": 30,
+     "from": "14",
+     "to": "14"
+    }
+   ],
+   "annotator": "De sententiis (Constantinian)",
+   "work": "Excerpta Vaticana (M)",
+   "date": "c. 950",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter survives in the Constantinian *De sententiis* (Vaticanus graecus 73). This rests on Buettner-Wobst's source note citing M, Hey 78."
+  },
+  {
+   "id": "survival/30-15",
+   "anchors": [
+    {
+     "book": 30,
+     "from": "15",
+     "to": "15"
+    }
+   ],
+   "annotator": "Strabo",
+   "work": "Strabo, Geography",
+   "date": "c. 20 BC",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "What we have of this chapter is preserved by Strabo. Strabo wrote the *Geography*, which argues at length with earlier geographers, Polybius among them."
+  },
+  {
+   "id": "survival/30-22",
+   "anchors": [
+    {
+     "book": 30,
+     "from": "22",
+     "to": "22"
+    }
+   ],
+   "annotator": "Athenaeus",
+   "work": "Athenaeus, Deipnosophistae",
+   "date": "c. AD 200",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "What we have of this chapter is preserved by Athenaeus. Athenaeus of Naucratis wrote the *Deipnosophistae*, a banquet dialogue packed with quotations from earlier writers."
+  },
+  {
+   "id": "survival/31-4",
+   "anchors": [
+    {
+     "book": 31,
+     "from": "4",
+     "to": "4"
+    }
+   ],
+   "annotator": "De legationibus (Constantinian)",
+   "work": "Excerpta de legationibus",
+   "date": "c. 950",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter survives in the Constantinian *De legationibus*. This rests on Buettner-Wobst's source note listing the De legationibus manuscripts."
+  },
+  {
+   "id": "survival/31-18",
+   "anchors": [
+    {
+     "book": 31,
+     "from": "18",
+     "to": "18"
+    }
+   ],
+   "annotator": "De legationibus (Constantinian)",
+   "work": "Excerpta de legationibus",
+   "date": "c. 950",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter survives in the Constantinian *De legationibus*. This rests on Buettner-Wobst's source note listing the De legationibus manuscripts."
+  },
+  {
+   "id": "survival/32-11",
+   "anchors": [
+    {
+     "book": 32,
+     "from": "11",
+     "to": "11"
+    }
+   ],
+   "annotator": "Athenaeus",
+   "work": "Athenaeus, Deipnosophistae",
+   "date": "c. AD 200",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter has more than one source: paragraph 10 is quoted by Athenaeus. The unmarked paragraphs (1 to 9) come from no quoting author; by this edition's convention they come from the Constantinian excerpts or another collection (see the Phase 6b findings). Athenaeus of Naucratis wrote the *Deipnosophistae*, a banquet dialogue packed with quotations from earlier writers."
+  },
+  {
+   "id": "survival/34-5",
+   "anchors": [
+    {
+     "book": 34,
+     "from": "5",
+     "to": "5"
+    }
+   ],
+   "annotator": "Strabo",
+   "work": "Strabo, Geography",
+   "date": "c. 20 BC",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "What we have of this chapter is preserved by Strabo. Strabo wrote the *Geography*, which argues at length with earlier geographers, Polybius among them."
+  },
+  {
+   "id": "survival/34-6",
+   "anchors": [
+    {
+     "book": 34,
+     "from": "6",
+     "to": "6"
+    }
+   ],
+   "annotator": "Strabo",
+   "work": "Strabo, Geography",
+   "date": "c. 20 BC",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "What we have of this chapter is preserved by Strabo. Strabo wrote the *Geography*, which argues at length with earlier geographers, Polybius among them."
+  },
+  {
+   "id": "survival/34-11",
+   "anchors": [
+    {
+     "book": 34,
+     "from": "11",
+     "to": "11"
+    }
+   ],
+   "annotator": "Strabo",
+   "work": "Strabo, Geography",
+   "date": "c. 20 BC",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "What we have of this chapter is preserved by Strabo. Strabo wrote the *Geography*, which argues at length with earlier geographers, Polybius among them."
+  },
+  {
+   "id": "survival/34-12",
+   "anchors": [
+    {
+     "book": 34,
+     "from": "12",
+     "to": "12"
+    }
+   ],
+   "annotator": "Strabo",
+   "work": "Strabo, Geography",
+   "date": "c. 20 BC",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "What we have of this chapter is preserved by Strabo. Strabo wrote the *Geography*, which argues at length with earlier geographers, Polybius among them."
+  },
+  {
+   "id": "survival/35-5",
+   "anchors": [
+    {
+     "book": 35,
+     "from": "5",
+     "to": "5"
+    }
+   ],
+   "annotator": "Suidas",
+   "work": "Suidas, Lexicon",
+   "date": "c. 970",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "What we have of this chapter is preserved by Suidas. Suidas is the traditional name of the author of the Suda, a Byzantine encyclopedic lexicon of about 970."
+  },
+  {
+   "id": "survival/36-17",
+   "anchors": [
+    {
+     "book": 36,
+     "from": "17",
+     "to": "17"
+    }
+   ],
+   "annotator": "De sententiis (Constantinian)",
+   "work": "Excerpta Vaticana (M)",
+   "date": "c. 950",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter survives in the Constantinian *De sententiis* (Vaticanus graecus 73). This rests on Buettner-Wobst's source note citing M, Hey 86 to 88."
+  },
+  {
+   "id": "survival/37-1",
+   "anchors": [
+    {
+     "book": 37,
+     "from": "1",
+     "to": "1"
+    }
+   ],
+   "annotator": "Stephanus of Byzantium",
+   "work": "Stephanus of Byzantium, Ethnica",
+   "date": "6th century",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "What we have of this chapter is preserved by Stephanus of Byzantium. Stephanus of Byzantium compiled the *Ethnica*, a gazetteer of place-names and peoples, in the 6th century."
+  },
+  {
+   "id": "survival/39-2",
+   "anchors": [
+    {
+     "book": 39,
+     "from": "2",
+     "to": "2"
+    }
+   ],
+   "annotator": "Strabo",
+   "work": "Strabo, Geography",
+   "date": "c. 20 BC",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "What we have of this chapter is preserved by Strabo. Strabo wrote the *Geography*, which argues at length with earlier geographers, Polybius among them."
+  },
+  {
+   "id": "survival/39-8",
+   "anchors": [
+    {
+     "book": 39,
+     "from": "8",
+     "to": "8"
+    }
+   ],
+   "annotator": "De sententiis (Constantinian)",
+   "work": "Excerpta Vaticana (M)",
+   "date": "c. 950",
+   "tags": [
+    "survival-story"
+   ],
+   "source_pub": null,
+   "pd_basis": "none",
+   "quote": "",
+   "note": "This chapter survives in the Constantinian *De sententiis* (Vaticanus graecus 73). This rests on Buettner-Wobst's source note citing M, Hey 95 to 96."
+  }
+ ],
+ "by_chapter": {
+  "7.1": [
+   "survival/07-1"
+  ],
+  "7.10": [
+   "survival/07-10"
+  ],
+  "7.11": [
+   "survival/07-11"
+  ],
+  "7.14": [
+   "survival/07-14"
+  ],
+  "7.14b": [
+   "survival/07-14b"
+  ],
+  "7.14c": [
+   "survival/07-14c"
+  ],
+  "7.14d": [
+   "survival/07-14d"
+  ],
+  "8.4": [
+   "survival/08-4"
+  ],
+  "8.7": [
+   "survival/08-7"
+  ],
+  "8.10": [
+   "survival/08-10"
+  ],
+  "8.11": [
+   "survival/08-11"
+  ],
+  "8.14": [
+   "survival/08-14"
+  ],
+  "8.22": [
+   "survival/08-22"
+  ],
+  "8.24": [
+   "survival/08-24"
+  ],
+  "8.37": [
+   "survival/08-37"
+  ],
+  "8.38": [
+   "survival/08-38"
+  ],
+  "9.9": [
+   "survival/09-9"
+  ],
+  "9.27": [
+   "survival/09-27"
+  ],
+  "9.33": [
+   "survival/09-33"
+  ],
+  "9.45": [
+   "survival/09-45"
+  ],
+  "10.27": [
+   "survival/10-27"
+  ],
+  "11.18a": [
+   "survival/11-18a"
+  ],
+  "12.1": [
+   "survival/12-1"
+  ],
+  "12.26": [
+   "survival/12-26"
+  ],
+  "12.26c": [
+   "survival/12-26c"
+  ],
+  "13.5": [
+   "survival/13-5"
+  ],
+  "13.9": [
+   "survival/13-9"
+  ],
+  "14.1a": [
+   "survival/14-1a"
+  ],
+  "14.11": [
+   "survival/14-11"
+  ],
+  "15.22": [
+   "survival/15-22"
+  ],
+  "16.14": [
+   "survival/16-14"
+  ],
+  "16.18": [
+   "survival/16-18"
+  ],
+  "16.22a": [
+   "survival/16-22a"
+  ],
+  "16.27": [
+   "survival/16-27"
+  ],
+  "16.39": [
+   "survival/16-39"
+  ],
+  "18.41": [
+   "survival/18-41"
+  ],
+  "19.1": [
+   "survival/19-1"
+  ],
+  "19.2": [
+   "survival/19-2"
+  ],
+  "20.4": [
+   "survival/20-4"
+  ],
+  "20.12": [
+   "survival/20-12"
+  ],
+  "21.6": [
+   "survival/21-6"
+  ],
+  "21.12": [
+   "survival/21-12"
+  ],
+  "21.31": [
+   "survival/21-31"
+  ],
+  "21.34": [
+   "survival/21-34"
+  ],
+  "21.38": [
+   "survival/21-38"
+  ],
+  "22.3": [
+   "survival/22-3"
+  ],
+  "22.7": [
+   "survival/22-7"
+  ],
+  "22.18": [
+   "survival/22-18"
+  ],
+  "22.19": [
+   "survival/22-19"
+  ],
+  "23.1": [
+   "survival/23-1"
+  ],
+  "23.12": [
+   "survival/23-12"
+  ],
+  "23.15": [
+   "survival/23-15"
+  ],
+  "24.3": [
+   "survival/24-3"
+  ],
+  "24.4": [
+   "survival/24-4"
+  ],
+  "25.1": [
+   "survival/25-1"
+  ],
+  "26.1": [
+   "survival/26-1"
+  ],
+  "26.1a": [
+   "survival/26-1a"
+  ],
+  "29.9": [
+   "survival/29-9"
+  ],
+  "29.13": [
+   "survival/29-13"
+  ],
+  "29.14": [
+   "survival/29-14"
+  ],
+  "29.15": [
+   "survival/29-15"
+  ],
+  "29.16": [
+   "survival/29-16"
+  ],
+  "29.18": [
+   "survival/29-18"
+  ],
+  "30.6": [
+   "survival/30-6"
+  ],
+  "30.11": [
+   "survival/30-11"
+  ],
+  "30.14": [
+   "survival/30-14"
+  ],
+  "30.15": [
+   "survival/30-15"
+  ],
+  "30.22": [
+   "survival/30-22"
+  ],
+  "31.4": [
+   "survival/31-4"
+  ],
+  "31.18": [
+   "survival/31-18"
+  ],
+  "32.11": [
+   "survival/32-11"
+  ],
+  "34.5": [
+   "survival/34-5"
+  ],
+  "34.6": [
+   "survival/34-6"
+  ],
+  "34.11": [
+   "survival/34-11"
+  ],
+  "34.12": [
+   "survival/34-12"
+  ],
+  "35.5": [
+   "survival/35-5"
+  ],
+  "36.17": [
+   "survival/36-17"
+  ],
+  "37.1": [
+   "survival/37-1"
+  ],
+  "39.2": [
+   "survival/39-2"
+  ],
+  "39.8": [
+   "survival/39-8"
+  ]
+ }
 }
