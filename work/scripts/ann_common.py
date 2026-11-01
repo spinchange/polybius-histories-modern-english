@@ -34,7 +34,7 @@ MAX_NOTE_SENTENCES = 4
 
 # "6.3", "6.3-18", "6.11a", "7.14b-14d"
 ANCHOR_RE = re.compile(r"^(\d+)\.(\d+[a-z]?)(?:-(\d+[a-z]?))?$")
-ELISION_RE = re.compile(r"\s*(?:\[\s*(?:\.\s*){3}\]|\.\s*\.\s*\.|…)\s*")
+ELISION_RE = re.compile(r"\s*(?:\[\s*\.\.\.\s*\]|\.\.\.|…)\s*")  # adjacent dots only, so "word. ..." keeps its period
 NOTE_RE = re.compile(r"^\*\*Note:\*\*\s*", re.M)
 
 
@@ -91,7 +91,8 @@ _TRANS = str.maketrans({
 def normalize(text: str) -> str:
     """Whitespace/quote/dash-insensitive form used for containment."""
     t = unicodedata.normalize("NFC", text).translate(_TRANS)
-    return re.sub(r"\s+", " ", t).strip()
+    t = re.sub(r"\s+", " ", t).strip()
+    return re.sub(r" ?- ?", "-", t)  # OCR often spaces dashes: "Macedonians — which"
 
 
 def quote_segments(quote: str) -> list[str]:
@@ -226,6 +227,23 @@ def _check(a: Annotation) -> None:
         a.errors.append(f"source_lines {sl} out of range (file has {len(lines)} lines)")
         return
     slice_text = "\n".join(lines[lo - 1:hi])
+
+    # Optional, auditable OCR repairs: ocr_fixes: [["mo one", "no one"], ...].
+    # Each 'from' must occur in the (normalized) slice; fixes are surfaced as
+    # warnings so A6 review sees every one.
+    fixes = m.get("ocr_fixes") or []
+    if fixes:
+        slice_text = normalize(slice_text)
+        for fx in fixes:
+            if not (isinstance(fx, list) and len(fx) == 2 and all(isinstance(x, str) for x in fx)):
+                a.errors.append(f"ocr_fixes entry must be [from, to] strings: {fx!r}")
+                continue
+            src_s, dst_s = normalize(fx[0]), normalize(fx[1])
+            if src_s not in slice_text:
+                a.errors.append(f"ocr_fixes: {fx[0]!r} not found in source slice")
+                continue
+            slice_text = slice_text.replace(src_s, dst_s)
+            a.warnings.append(f"ocr_fix applied: {fx[0]!r} -> {fx[1]!r}")
 
     if not a.quote:
         a.errors.append("empty quote body")

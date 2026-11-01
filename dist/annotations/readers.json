@@ -22,6 +22,26 @@
    "note": "On the eve of Pharsalus in 48 BC, with the Republic's fate about to be settled, the man who would help kill Caesar four years later spent a sweltering afternoon abridging Polybius. Plutarch tells it as a portrait of the scholar-soldier, but beside this chapter it reads as something sharper: a Roman in the middle of a civil war, reaching for the book that explained how Rome came to rule the world, and taking literally Polybius' promise that history teaches us to bear changes of fortune. The epitome itself is lost."
   },
   {
+   "id": "readers/cicero-officiis-regulus",
+   "anchors": [
+    {
+     "book": 1,
+     "from": "31",
+     "to": "35"
+    }
+   ],
+   "annotator": "Cicero",
+   "work": "On Duties, III.99-100",
+   "date": "44 BC",
+   "tags": [
+    "fortune"
+   ],
+   "source_pub": "Cicero, De Officiis, tr. Walter Miller (Loeb Classical Library, 1913) (PD)",
+   "pd_basis": "pre-1930",
+   "quote": "Marcus Atilius Regulus in his second consulship was taken prisoner in\nAfrica by the stratagem of Xanthippus, a Spartan general serving under\nthe command of Hannibal's father Hamilcar. ... He was sent to the senate\non parole, sworn to return to Carthage himself ... And when his counsel\nprevailed, the prisoners were retained and he himself returned to\nCarthage; affection for his country and his family failed to hold him\nback. And even then he was not ignorant of the fact that he was going to\na most cruel enemy and to exquisite torture; still, he thought his oath\nmust be sacredly kept.",
+   "note": "Cicero's Regulus, who kept his oath all the way to torture and death, became Rome's favourite example of good faith. Polybius takes Regulus as far as a Carthaginian prison and then drops him; the lesson he draws (1.35) is about the danger of trusting Fortune in success and the power of one clear mind, Xanthippus', not about honour. The embassy, the oath and the return appear only in later Roman tradition, and Polybius' silence is the main reason many historians suspect the most famous part of the story is patriotic legend."
+  },
+  {
    "id": "readers/federalist-18-achaean-league",
    "anchors": [
     {
@@ -42,6 +62,46 @@
    "note": "Writing as \"Publius\" in December 1787, Madison went looking for a federal republic that had worked and found the Achaean League, whose story survives chiefly because Polybius, the son of an Achaean general, told it. \"The same weights and measures, and the same money\" is Polybius' own detail from this chapter (2.37). Madison's regret over the \"imperfect monuments\" is partly a regret over this book's own losses: the later books that followed the League to its end survive only in fragments."
   },
   {
+   "id": "readers/montesquieu-arcadian-music",
+   "anchors": [
+    {
+     "book": 4,
+     "from": "20",
+     "to": "21"
+    }
+   ],
+   "annotator": "Montesquieu",
+   "work": "The Spirit of Laws, IV.8",
+   "date": 1748,
+   "tags": [
+    "constitutional"
+   ],
+   "source_pub": "The Spirit of Laws, tr. Thomas Nugent (New York: Colonial Press, 1899) (PD)",
+   "pd_basis": "pre-1930",
+   "quote": "That judicious writer, Polybius, informs us that music was necessary to\nsoften the manners of the Arcadians, who lived in a cold, gloomy\ncountry; that the inhabitants of Cynete, who slighted music, were the\ncruellest of all the Greeks, and that no other town was so immersed in\nluxury and debauchery.",
+   "note": "Montesquieu opens his chapter on a \"paradox of the ancients\" with this digression: why did serious Greek lawgivers treat music as a matter of state? Polybius' answer, that the Arcadians made music compulsory up to the age of thirty to soften men hardened by a harsh land, and that Cynaetha, the one town that gave it up, became a byword for savagery, is exactly the kind of evidence Montesquieu wanted. His larger argument, that climate shapes character and laws must answer to both, has one of its ancient roots in these two chapters."
+  },
+  {
+   "id": "readers/cicero-republic-mixed-constitution",
+   "anchors": [
+    {
+     "book": 6,
+     "from": "3",
+     "to": "18"
+    }
+   ],
+   "annotator": "Cicero",
+   "work": "On the Republic, I.44-45",
+   "date": "c. 54-51 BC",
+   "tags": [
+    "constitutional"
+   ],
+   "source_pub": "The Republic of Cicero, tr. G. W. Featherstonhaugh (New York, 1829) (PD)",
+   "pd_basis": "pre-1930",
+   "quote": "Thus do they snatch the government of the commonwealth from each other\nlike a ball—tyrants from kings—chiefs or the people from tyrants; and\nfactions or tyrants from them, nor does the same mode of government ever\nlast a long time. ... Nevertheless one which shall be well tempered and\nbalanced out of all those three kinds of government, is better than\nthat; yet there should be always something royal and pre-eminent in a\ngovernment, at the same time that some power should be placed in the\nhands of the better class, and other things reserved for the judgment\nand will of the multitude. ... This cannot well happen in such a\ncombined and moderately balanced government, unless by the great vices\nof the chief persons.",
+   "note": "Cicero set his dialogue in 129 BC and gave the leading part to Scipio Aemilianus, Polybius' friend and pupil, who later in the work calls him \"our friend Polybius.\" The theory Scipio expounds here, with governments tossed from hand to hand \"like a ball\" and stability found only in a balance of king, nobles and people, is Book 6's, now spoken by the Roman Polybius knew best. The dialogue nearly shared Polybius' fate: lost for centuries, it was recovered from a Vatican palimpsest in 1819, and the gaps still show in this translation."
+  },
+  {
    "id": "readers/machiavelli-discourses-1-2",
    "anchors": [
     {
@@ -60,11 +120,106 @@
    "pd_basis": "pre-1930",
    "quote": "Other, and, as many have thought, wiser teachers, will have it, that\nthere are altogether six forms of government, three of them utterly bad,\nthe other three good in themselves, but so readily corrupted that they\ntoo are apt to become hurtful. ... For this is the circle revolving\nwithin which all States are and have been governed ... Wise legislators\ntherefore, knowing these defects, and avoiding each of these forms in\nits simplicity, have made choice of a form which shares in the qualities\nof all the first three, and which they judge to be more stable and\nlasting than any of these separately. For where we have a monarchy, an\naristocracy, and a democracy existing together in the same city, each of\nthe three serves as a check upon the other.",
    "note": "Machiavelli never names his source; the six forms and their cycle come from \"other, and, as many have thought, wiser teachers.\" The teacher is Polybius, and the chapter follows his Book 6 argument step by step: the herd choosing the strongest, the birth of justice from anger at ingratitude, each good form sliding into its corrupt twin, and the escape into a mixed constitution on the model of Lycurgus. Machiavelli even keeps Polybius' twist about Rome (6.10): what Sparta got from one man's foresight, Rome reached through struggle, or, as he puts it, \"obtained by chance.\""
+  },
+  {
+   "id": "readers/adams-defence-checks-and-balances",
+   "anchors": [
+    {
+     "book": 6,
+     "from": "11",
+     "to": "18"
+    }
+   ],
+   "annotator": "John Adams",
+   "work": "A Defence of the Constitutions of Government of the United States of America, vol. I",
+   "date": 1787,
+   "tags": [
+    "constitutional"
+   ],
+   "source_pub": "The Works of John Adams, ed. Charles Francis Adams, vol. 4 (Boston, 1851) (PD)",
+   "pd_basis": "pre-1930",
+   "quote": "Thus, my dear sir, you see that Polybius's opinion of different orders,\nchecks, and balances, in a commonwealth, is very different from that of\nM. Turgot. The Roman constitution formed the noblest people and the\ngreatest power that has ever existed. ... But if all the powers of the\nconsuls, senate, and people had been centred in a single assembly of the\npeople, collectively or representatively, will any man pretend to\nbelieve that they would have been long free, or ever great? ... The\ndistribution of power was, however, never accurately or judiciously made\nin that constitution. The executive was never sufficiently separated\nfrom the legislative, nor had these powers a control upon each other\ndefined with sufficient accuracy. ... The constitutions of several of\nthe United States, it is hoped, will prove themselves improvements both\nupon the Roman, the Spartan, and the English commonwealths.",
+   "note": "Adams wrote the Defence in London to answer Turgot, who had criticized the new American states for copying England's balance of orders, and the first volume reached Philadelphia while the Constitutional Convention was sitting. After quoting this part of Book 6 at length, he enlists Polybius against Turgot and then, unlike Machiavelli, argues back: Rome never properly separated executive from legislative, and Americans can do better. It is Polybius' checks and balances handed to the framers, with amendments."
+  },
+  {
+   "id": "readers/cicero-officiis-cannae-envoys",
+   "anchors": [
+    {
+     "book": 6,
+     "from": "58",
+     "to": "58"
+    }
+   ],
+   "annotator": "Cicero",
+   "work": "On Duties, III.113-114",
+   "date": "44 BC",
+   "tags": [
+    "constitutional"
+   ],
+   "source_pub": "Cicero, De Officiis, tr. Walter Miller (Loeb Classical Library, 1913) (PD)",
+   "pd_basis": "pre-1930",
+   "quote": "Historians are not in agreement in regard to the facts. Polybius, one of\nthe very best authorities, states that of the ten eminent nobles who\nwere sent at that time, nine returned when their mission failed at the\nhands of the senate. But one of the ten, who, a little while after\nleaving the camp, had gone back on the pretext that he had forgotten\nsomething or other, remained behind at Rome; he explained that by his\nreturn to the camp he was released from the obligation of his oath. He\nwas wrong; for deceit does not remove the guilt of perjury--it merely\naggravates it. ... And so the senate ordered that the cunning scoundrel\nshould be taken back to Hannibal in chains.",
+   "note": "Writing to his son in the autumn after Caesar's murder, Cicero names Polybius \"one of the very best authorities\" and retells this chapter almost point for point: the ten envoys, the one who turned back for something forgotten, the senate sending him back in chains, the eight thousand left unransomed. The difference is the moral. Polybius tells the story to show the strength of the Roman constitution; Cicero turns it into a lesson in ethics, and he sides with Polybius against a rival account in which several envoys played the same trick."
+  },
+  {
+   "id": "readers/montesquieu-legion-and-phalanx",
+   "anchors": [
+    {
+     "book": 18,
+     "from": "28",
+     "to": "32"
+    }
+   ],
+   "annotator": "Montesquieu",
+   "work": "Considerations on the Causes of the Grandeur of the Romans, ch. V",
+   "date": 1734,
+   "tags": [
+    "military"
+   ],
+   "source_pub": "Montesquieu's Considerations on the Causes of the Grandeur and Decadence of the Romans, tr. Jehu Baker (New York, 1882) (PD)",
+   "pd_basis": "pre-1930",
+   "quote": "With his usual good sense, Polybius compares the military method of the\nRomans with that of the Macedonians—which last had been adopted by all\nthe successors of Alexander the Great. He points out the advantages and\nthe inconveniences of the phalanx and the legion. He gives the\npreference to the latter; and, if we are to judge by the events of the\ntime, it would appear that he was right.",
+   "note": "Montesquieu's short book on why Rome rose and fell leans on Polybius throughout, and at Cynoscephalae it simply defers to him: the legion beat the phalanx because it could fight on any ground, while the phalanx needed a battlefield made for it. The translator's note in this edition shows that Bossuet had already endorsed the same verdict. Polybius' comparison in these chapters became the starting point of the eighteenth-century argument over column and line that Folard and Frederick the Great carried on."
+  },
+  {
+   "id": "readers/dionysius-no-one-reads-to-the-end",
+   "anchors": [
+    {
+     "book": 39,
+     "from": "8",
+     "to": "8"
+    }
+   ],
+   "annotator": "Dionysius of Halicarnassus",
+   "work": "On Literary Composition, 4",
+   "date": "late 1st century BC",
+   "tags": [
+    "historiographical"
+   ],
+   "source_pub": "Dionysius of Halicarnassus On Literary Composition, tr. W. Rhys Roberts (London: Macmillan, 1910) (PD)",
+   "pd_basis": "pre-1930",
+   "quote": "At last, in later times, it was utterly neglected; no one thought it\nabsolutely indispensable, or that it contributed anything to the beauty\nof discourse. Consequently they left behind them lucubrations that no\none has the patience to read from beginning to end. I mean men like\nPhylarchus, Duris, Polybius, Psaon, Demetrius of Callatis, Hieronymus,\nAntigonus, Heracleides, Hegesianax, and countless others: a whole day\nwould not be enough if I tried to repeat the bare names of them all!",
+   "note": "If you are reading this note at the last chapter, you have just refuted it. Dionysius, a Greek critic teaching in Augustan Rome, cared about the music of word order, and Polybius' plain, workmanlike prose struck him as tone-deaf; he files the greatest historian of the age between two writers almost nobody now remembers. Posterity has been kinder to the history than Dionysius was to the prose, though only five of the forty books survive whole."
   }
  ],
  "by_chapter": {
   "1.1": [
    "readers/brutus-pharsalus"
+  ],
+  "1.31": [
+   "readers/cicero-officiis-regulus"
+  ],
+  "1.32": [
+   "readers/cicero-officiis-regulus"
+  ],
+  "1.33": [
+   "readers/cicero-officiis-regulus"
+  ],
+  "1.34": [
+   "readers/cicero-officiis-regulus"
+  ],
+  "1.35": [
+   "readers/cicero-officiis-regulus"
   ],
   "2.37": [
    "readers/federalist-18-achaean-league"
@@ -90,29 +245,104 @@
   "2.44": [
    "readers/federalist-18-achaean-league"
   ],
+  "4.20": [
+   "readers/montesquieu-arcadian-music"
+  ],
+  "4.21": [
+   "readers/montesquieu-arcadian-music"
+  ],
   "6.3": [
+   "readers/cicero-republic-mixed-constitution",
    "readers/machiavelli-discourses-1-2"
   ],
   "6.4": [
+   "readers/cicero-republic-mixed-constitution",
    "readers/machiavelli-discourses-1-2"
   ],
   "6.5": [
+   "readers/cicero-republic-mixed-constitution",
    "readers/machiavelli-discourses-1-2"
   ],
   "6.6": [
+   "readers/cicero-republic-mixed-constitution",
    "readers/machiavelli-discourses-1-2"
   ],
   "6.7": [
+   "readers/cicero-republic-mixed-constitution",
    "readers/machiavelli-discourses-1-2"
   ],
   "6.8": [
+   "readers/cicero-republic-mixed-constitution",
    "readers/machiavelli-discourses-1-2"
   ],
   "6.9": [
+   "readers/cicero-republic-mixed-constitution",
    "readers/machiavelli-discourses-1-2"
   ],
   "6.10": [
+   "readers/cicero-republic-mixed-constitution",
    "readers/machiavelli-discourses-1-2"
+  ],
+  "6.11": [
+   "readers/cicero-republic-mixed-constitution",
+   "readers/adams-defence-checks-and-balances"
+  ],
+  "6.11a": [
+   "readers/cicero-republic-mixed-constitution",
+   "readers/adams-defence-checks-and-balances"
+  ],
+  "6.11b": [
+   "readers/cicero-republic-mixed-constitution",
+   "readers/adams-defence-checks-and-balances"
+  ],
+  "6.12": [
+   "readers/cicero-republic-mixed-constitution",
+   "readers/adams-defence-checks-and-balances"
+  ],
+  "6.13": [
+   "readers/cicero-republic-mixed-constitution",
+   "readers/adams-defence-checks-and-balances"
+  ],
+  "6.14": [
+   "readers/cicero-republic-mixed-constitution",
+   "readers/adams-defence-checks-and-balances"
+  ],
+  "6.15": [
+   "readers/cicero-republic-mixed-constitution",
+   "readers/adams-defence-checks-and-balances"
+  ],
+  "6.16": [
+   "readers/cicero-republic-mixed-constitution",
+   "readers/adams-defence-checks-and-balances"
+  ],
+  "6.17": [
+   "readers/cicero-republic-mixed-constitution",
+   "readers/adams-defence-checks-and-balances"
+  ],
+  "6.18": [
+   "readers/cicero-republic-mixed-constitution",
+   "readers/adams-defence-checks-and-balances"
+  ],
+  "6.58": [
+   "readers/cicero-officiis-cannae-envoys"
+  ],
+  "18.28": [
+   "readers/montesquieu-legion-and-phalanx"
+  ],
+  "18.29": [
+   "readers/montesquieu-legion-and-phalanx"
+  ],
+  "18.30": [
+   "readers/montesquieu-legion-and-phalanx"
+  ],
+  "18.31": [
+   "readers/montesquieu-legion-and-phalanx"
+  ],
+  "18.32": [
+   "readers/montesquieu-legion-and-phalanx"
+  ],
+  "39.8": [
+   "readers/dionysius-no-one-reads-to-the-end"
   ]
  }
 }
