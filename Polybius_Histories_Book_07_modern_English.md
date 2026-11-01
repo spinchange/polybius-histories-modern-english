@@ -8,19 +8,19 @@ Polybius says in the seventh book that the people of Capua in Campania, made wea
 
 So, he says, being unable to bear their present prosperity, they called in Hannibal. For that reason they later suffered irreparable disasters at Roman hands.
 
-The people of Petelia, on the other hand, kept faith with Rome and showed such endurance under Hannibal's siege that, after eating all the leather in the city and consuming the bark and tender shoots of every tree in it, and after holding out for eleven months with no help arriving—though the Romans approved of their conduct—they finally surrendered.
+The people of Petelia, on the other hand, kept faith with Rome and showed such endurance under Hannibal’s siege that, after eating all the leather in the city and consuming the bark and tender shoots of every tree in it, and after holding out for eleven months with no help arriving—though the Romans approved of their conduct—they finally surrendered.
 
 Capua, after going over to the Carthaginians, used its influence to draw the other cities over as well.
 
 ## Book 7 Chapter 2: Hieronymus of Syracuse
 
-After the plot against Hieronymus, king of the Syracusans, and after Thraso's withdrawal, the party of Zoippus and Andranodorus persuaded Hieronymus to send envoys to Hannibal at once.
+After the plot against Hieronymus, king of the Syracusans, and after Thraso’s withdrawal, the party of Zoippus and Andranodorus persuaded Hieronymus to send envoys to Hannibal at once.
 
 So he selected Polycleitus of Cyrene and Philodemus of Argos and sent them to Italy with instructions to discuss joint action with the Carthaginians; at the same time he sent his brothers to Alexandria.
 
 Hannibal received Polycleitus and Philodemus graciously, held out great hopes to the young king, and quickly sent the envoys back, along with Hannibal the Carthaginian, who was then admiral of a trireme, and the Syracusans Hippocrates and his younger brother Epicydes.
 
-These men had already been serving with Hannibal for some time and had entered Carthaginian service because their grandfather had fled Syracuse after being thought to have laid hands on Agatharchus, one of Agathocles' sons.
+These men had already been serving with Hannibal for some time and had entered Carthaginian service because their grandfather had fled Syracuse after being thought to have laid hands on Agatharchus, one of Agathocles’ sons.
 
 When they reached Syracuse, Polycleitus and his colleague delivered the report of their embassy, and the Carthaginian envoy spoke according to the instructions Hannibal had given him. Hieronymus was at once ready to join the Carthaginians in their affairs.
 
@@ -36,13 +36,13 @@ The envoys were shocked by such insolence, but they still asked who had told him
 
 They replied that it was not their custom to trust enemies, and they urged him to do nothing contrary to the treaty, since that would be both just and greatly to his advantage. He said he would deliberate and later make his answer clear to them.
 
-But he asked them how it had happened that, before his grandfather's death, they had sailed with fifty ships as far as Pachynus and then turned back again.
+But he asked them how it had happened that, before his grandfather’s death, they had sailed with fifty ships as far as Pachynus and then turned back again.
 
 What had happened was that the Romans had shortly before heard that Hiero was dead, and had feared that some disturbance might arise in Syracuse because people would despise the age of the boy left behind.
 
 So they admitted that they had made the voyage in order to support his youth and help preserve his rule, but that when they learned his grandfather was still alive, they had sailed back.
 
-At this the young king answered again, "Then allow me as well, Romans, to preserve my rule now by turning back toward Carthaginian hopes."
+At this the young king answered again, “Then allow me as well, Romans, to preserve my rule now by turning back toward Carthaginian hopes.”
 
 The Romans understood the direction of his policy. For the moment they said nothing and returned, reported what had been said to the man who had sent them, and from then on kept watch on Hieronymus as an enemy.
 
@@ -54,11 +54,11 @@ The Carthaginians were to assist him with both land and sea forces, and after dr
 
 When these envoys reached the Carthaginians, they negotiated on this basis and accomplished their mission, since the Carthaginians readily agreed to everything.
 
-Meanwhile Hippocrates and his circle took the young king in hand and at first captivated him by describing Hannibal's marches, battle lines, and battles in Italy.
+Meanwhile Hippocrates and his circle took the young king in hand and at first captivated him by describing Hannibal’s marches, battle lines, and battles in Italy.
 
 After that they told him that no one had a better claim than he to rule over all the Siceliots, first because he was the grandson through his mother Nereis of Pyrrhus, whom all the Siceliots alone had willingly and deliberately approved as their leader and king, and second because of the sovereign position held by his grandfather Hiero.
 
-In the end they so completely turned the boy's head that he paid no attention to anyone else, partly because he was unstable by nature and still more because they had now filled him with lofty ambition.
+In the end they so completely turned the boy’s head that he paid no attention to anyone else, partly because he was unstable by nature and still more because they had now filled him with lofty ambition.
 
 At the very moment when Agatharchus and his colleagues were completing the first arrangement at Carthage, he sent another embassy, now claiming that the whole rule of Sicily belonged to him, demanding that the Carthaginians help him recover Sicily, while he in turn promised to support them in their operations in Italy.
 
@@ -86,9 +86,7 @@ On these terms the envoys and the council separated. From that time onward Hiero
 
 ## Book 7 Chapter 6: Description of Leontini
 
-The city of Leontini as a whole faces north,
-
-and through the middle of it there runs a level valley, in which stand the public offices, the courts, and, in general, the market-place.
+The city of Leontini as a whole faces north, and through the middle of it there runs a level valley, in which stand the public offices, the courts, and, in general, the market-place.
 
 On each side of this valley stretches a ridge with steep escarpments all along it; and the level tops of these hills, above the brows, are full of houses and temples.
 
@@ -98,11 +96,9 @@ Below one of the escarpments, the western one, there runs a river called the Lis
 
 Parallel to it, immediately under the cliff, stand many continuous rows of houses; and between these houses and the river lies the road mentioned above.
 
-## Book 7 Chapter 7: Fall of Heronymus
+## Book 7 Chapter 7: Fall of Hieronymus
 
-Some of the writers who have written about the downfall of Hieronymus have made a very long story of it and arranged it with a great deal of sensationalism, recounting the omens said to have come before his accession and the misfortunes of the Syracusans,
-
-and then writing in tragic style about the savagery of his character, the impiety of his actions, and, on top of everything, the shocking and terrible circumstances of his fall, so that one would think neither Phalaris nor Apollodorus nor any other tyrant had ever been harsher than he.
+Some of the writers who have written about the downfall of Hieronymus have made a very long story of it and arranged it with a great deal of sensationalism, recounting the omens said to have come before his accession and the misfortunes of the Syracusans, and then writing in tragic style about the savagery of his character, the impiety of his actions, and, on top of everything, the shocking and terrible circumstances of his fall, so that one would think neither Phalaris nor Apollodorus nor any other tyrant had ever been harsher than he.
 
 And yet he was only a boy when he came to power, and after that lived no more than thirteen months.
 
@@ -120,9 +116,7 @@ For such a subject is more pleasing to those who enjoy hearing history,
 
 and altogether more useful to those who wish to learn. For Hiero, first of all, won for himself the rule over Syracuse and its allies by his own efforts, inheriting neither wealth nor reputation nor any other ready-made advantage from fortune.
 
-Indeed, without killing, banishing, or harming a single one of the citizens, he became king of the Syracusans by his own merits,
-
-which is the most astonishing thing of all; and still more astonishing is the fact that he not only acquired his power in this way, but preserved it in the same way.
+Indeed, without killing, banishing, or harming a single one of the citizens, he became king of the Syracusans by his own merits, which is the most astonishing thing of all; and still more astonishing is the fact that he not only acquired his power in this way, but preserved it in the same way.
 
 For though he reigned for fifty-four years, he kept peace for his fatherland, preserved his own rule free from plots, and escaped the envy that usually accompanies great power.
 
@@ -140,15 +134,11 @@ Gelo too, after living more than fifty years, set before himself as the noblest 
 
 This is the oath that Hannibal the general, Mago, Myrcan, Barmocar, and all the Carthaginian senators who were with him, together with all the Carthaginians serving in the campaign with him, swore to Xenophanes son of Cleomachus, the Athenian envoy whom King Philip son of Demetrius sent to us on behalf of himself, the Macedonians, and their allies.
 
-It was sworn in the presence of Zeus, Hera, and Apollo; in the presence of the god of the Carthaginians, and of Heracles and Iolaus; in the presence of Ares, Triton, and Poseidon; in the presence of the gods who go with the army, and of the Sun, the Moon, and the Earth; in the presence of rivers, harbors, and waters;
-
-in the presence of all the gods who hold Carthage, all the gods who hold Macedonia and the rest of Greece, and all the gods of war who stand witness to this oath.
+It was sworn in the presence of Zeus, Hera, and Apollo; in the presence of the god of the Carthaginians, and of Heracles and Iolaus; in the presence of Ares, Triton, and Poseidon; in the presence of the gods who go with the army, and of the Sun, the Moon, and the Earth; in the presence of rivers, harbors, and waters; in the presence of all the gods who hold Carthage, all the gods who hold Macedonia and the rest of Greece, and all the gods of war who stand witness to this oath.
 
 Hannibal the general, all the Carthaginian senators with him, and all the Carthaginians serving with him said that, since it seemed good both to you and to us to establish this oath concerning friendship and honorable goodwill, we should be friends, kinsmen, and brothers on the following terms.
 
-The Carthaginians, Hannibal the general and those with him, the Carthaginian magistrates who live under the same laws, the people of Utica, all cities and nations subject to Carthage, and their soldiers and allies,
-
-and all the cities and nations in Italy, Celtica, and Liguria with whom we are in friendship, and any others in that region with whom we may later make friendship and alliance, shall be kept safe by King Philip, the Macedonians, and the rest of the Greeks who are their allies.
+The Carthaginians, Hannibal the general and those with him, the Carthaginian magistrates who live under the same laws, the people of Utica, all cities and nations subject to Carthage, and their soldiers and allies, and all the cities and nations in Italy, Celtica, and Liguria with whom we are in friendship, and any others in that region with whom we may later make friendship and alliance, shall be kept safe by King Philip, the Macedonians, and the rest of the Greeks who are their allies.
 
 Likewise King Philip, the Macedonians, and the allies among the other Greeks shall be kept safe and protected by the Carthaginians serving in this campaign, by the people of Utica, by all the cities and nations subject to Carthage, by the allies and soldiers, and by all the nations and cities in Italy, Celtica, and Liguria, and by any others who may become allies in those parts of Italy.
 
@@ -160,9 +150,7 @@ You shall also be our allies in the war we are waging against the Romans, until 
 
 And you shall help us whenever there is need and in whatever way we agree.
 
-And if the gods grant us success in the war against the Romans and their allies, and if the Romans wish to make terms of friendship, we shall make terms on condition that the same friendship extends to you as well,
-
-and that it shall never be lawful for them to make war against you, nor shall the Romans be masters of Corcyra, Apollonia, Epidamnus, Pharos, Dimale, Parthini, or Atintania.
+And if the gods grant us success in the war against the Romans and their allies, and if the Romans wish to make terms of friendship, we shall make terms on condition that the same friendship extends to you as well, and that it shall never be lawful for them to make war against you, nor shall the Romans be masters of Corcyra, Apollonia, Epidamnus, Pharos, Dimale, Parthini, or Atintania.
 
 They shall also restore to Demetrius of Pharos all his own people who are in the Roman commonwealth.
 
@@ -172,17 +160,15 @@ The same shall hold if any others do so, apart from those kings, cities, and nat
 
 And if it seems good to us to remove anything from this oath or to add anything to it, we shall remove or add it as seems good to both of us.
 
-## Book 7 Chapter 10: Messene and Philip V. in B. C. 215
+## Book 7 Chapter 10: Messene and Philip V. in 215 BC
 
-While democracy was in force among the Messenians, the notable men had been driven into exile, and those who had received allotments of their property held power in the state; so the members of the old citizen body who remained found it hard to endure these men's equality of speech.
+While democracy was in force among the Messenians, the notable men had been driven into exile, and those who had received allotments of their property held power in the state; so the members of the old citizen body who remained found it hard to endure these men’s equality of speech.
 
 Gorgus of Messene was second to no Messenian in wealth or birth, and in the prime of life he had become the most distinguished of all those who sought crowns in athletic contests.
 
 For in outward appearance, in the dignity of the rest of his life, and in the number of his victories, he fell short of no one of his contemporaries.
 
-And when he gave up athletics and turned to public life and the service of his country, in that sphere too he won a reputation no less than the one he already had,
-
-being thought far removed from the vulgarity that clings to athletes, and regarded as exceptionally effective and prudent in public affairs.
+And when he gave up athletics and turned to public life and the service of his country, in that sphere too he won a reputation no less than the one he already had, being thought far removed from the vulgarity that clings to athletes, and regarded as exceptionally effective and prudent in public affairs.
 
 ## Book 7 Chapter 11: Philip Dissuaded from Taking Messene
 
@@ -206,31 +192,29 @@ A most conspicuous and important proof of what a noble purpose and good faith ca
 
 From the events at Messene onward, however, everything in his case took on the opposite character; and this happened naturally.
 
-For once he turned to a policy opposite to his former one, and kept adding to it what was consistent with that choice, he was bound to reverse other men's opinions about him and to meet with results opposite to those he had previously enjoyed.
+For once he turned to a policy opposite to his former one, and kept adding to it what was consistent with that choice, he was bound to reverse other men’s opinions about him and to meet with results opposite to those he had previously enjoyed.
 
 And that indeed is what happened. This will become clear to attentive readers from the events I am about to recount.
 
-## Book 7 Chapter 12: Philip's Loss of Popularity
+## Book 7 Chapter 12: Philip’s Loss of Popularity
 
-When Philip king of Macedon wanted to seize the acropolis of the Messenians, and told the leading men of the city that he wished to see the citadel and sacrifice to Zeus, he went up with his attendants and performed the sacrifice. Then, when according to custom the entrails of the victims that had been offered were brought to him, he took them in his hands, turned a little aside, and stretching them out toward Aratus and his party asked, "What do the omens seem to signify: that I should withdraw from the citadel, or hold it?"
+When Philip king of Macedon wanted to seize the acropolis of the Messenians, and told the leading men of the city that he wished to see the citadel and sacrifice to Zeus, he went up with his attendants and performed the sacrifice. Then, when according to custom the entrails of the victims that had been offered were brought to him, he took them in his hands, turned a little aside, and stretching them out toward Aratus and his party asked, “What do the omens seem to signify: that I should withdraw from the citadel, or hold it?”
 
-Demetrius at once broke in from where he stood and said, "If you have the mind of a seer, withdraw as fast as you can; but if you have the mind of an active king, keep hold of it, so that after letting it go now you may not later be looking for a better opportunity.
+Demetrius at once broke in from where he stood and said, “If you have the mind of a seer, withdraw as fast as you can; but if you have the mind of an active king, keep hold of it, so that after letting it go now you may not later be looking for a better opportunity.
 
-For in this way, by holding both horns, you alone would keep the ox under your control," by which he meant Ithome and Acrocorinth, and by the ox the Peloponnese.
+For in this way, by holding both horns, you alone would keep the ox under your control,” by which he meant Ithome and Acrocorinth, and by the ox the Peloponnese.
 
-Philip turned to Aratus and said, "And do you advise the same?" When Aratus hesitated, Philip pressed him to say what he really thought.
+Philip turned to Aratus and said, “And do you advise the same?” When Aratus hesitated, Philip pressed him to say what he really thought.
 
-After some uncertainty Aratus said, "If you can hold this place without breaking faith with the Messenians, I advise you to hold it.
+After some uncertainty Aratus said, “If you can hold this place without breaking faith with the Messenians, I advise you to hold it.
 
-But if by occupying this place with a garrison you mean to destroy every acropolis and the very guard
-
-—meaning good faith—by which the allies you received from Antigonus were protected, consider whether it is not better now to lead your men out and leave their trust behind, and by that trust to guard the Messenians, and likewise the rest of your allies."
+But if by occupying this place with a garrison you mean to destroy every acropolis and the very guard —meaning good faith—by which the allies you received from Antigonus were protected, consider whether it is not better now to lead your men out and leave their trust behind, and by that trust to guard the Messenians, and likewise the rest of your allies.”
 
 Philip by his own inclination was ready to break faith, as later events made clear.
 
 But because he had shortly before been sharply rebuked by the younger Aratus for the destruction of those men, and because on this occasion the elder Aratus spoke with frankness and authority and begged him not to ignore what was said, Philip felt ashamed.
 
-Taking him by the right hand, he said, "Then let us go back by the same road."
+Taking him by the right hand, he said, “Then let us go back by the same road.”
 
 ## Book 7 Chapter 13: Philip Begins to Become a Tyrant
 
@@ -238,13 +222,9 @@ Aratus, seeing that Philip had openly taken up the war against Rome and had been
 
 We, however, now wish to remind those who are following this work that what in the fifth book we mentioned only by promise and assertion has now received confirmation from the facts themselves, so that we may leave none of our conclusions unsupported or open to dispute.
 
-For when, in narrating the Aetolian War, we paused at the point where we said that Philip had with too much passion destroyed the porticoes at Thermus and the rest of the votive offerings, and that the cause of these actions should be referred not so much to the king, because of his youth, as to the friends around him,
+For when, in narrating the Aetolian War, we paused at the point where we said that Philip had with too much passion destroyed the porticoes at Thermus and the rest of the votive offerings, and that the cause of these actions should be referred not so much to the king, because of his youth, as to the friends around him, we then said that Aratus’ life itself was a sufficient defense of the claim that he would have done nothing base, whereas Demetrius of Pharos had exactly such a cast of mind.
 
-we then said that Aratus' life itself was a sufficient defense of the claim that he would have done nothing base, whereas Demetrius of Pharos had exactly such a cast of mind.
-
-And we promised to make this clear from what would be recounted later, postponing until this point the proof of that earlier judgment,
-
-the moment when, with Demetrius present, as we have just shown in the affair at Messene, and Aratus delayed by only a single day, Philip began to lay hands on the gravest acts of impiety.
+And we promised to make this clear from what would be recounted later, postponing until this point the proof of that earlier judgment, the moment when, with Demetrius present, as we have just shown in the affair at Messene, and Aratus delayed by only a single day, Philip began to lay hands on the gravest acts of impiety.
 
 And as if, after tasting human blood and the murder and betrayal of allies, he had been changed—not from a man into a wolf, as in the Arcadian myth cited by Plato, but from a king into a savage tyrant.
 
@@ -254,9 +234,7 @@ An even clearer proof of the character of the two men is the advice given about 
 
 ...Aetolians. Once these points are admitted, it is already easy to reckon up the difference in the policy of the two men.
 
-For just as now, when Philip listened to Aratus, he kept faith with the Messenians in the matter of the citadel, and, as the saying goes, applied a small remedy to the great wound created by the earlier slaughter,
-
-so in the Aetolian affair, when he followed Demetrius, he sinned against the gods by destroying consecrated offerings, wronged men by transgressing the laws of war, and missed the mark of his proper policy, making himself an implacable and bitter enemy to those who differed with him.
+For just as now, when Philip listened to Aratus, he kept faith with the Messenians in the matter of the citadel, and, as the saying goes, applied a small remedy to the great wound created by the earlier slaughter, so in the Aetolian affair, when he followed Demetrius, he sinned against the gods by destroying consecrated offerings, wronged men by transgressing the laws of war, and missed the mark of his proper policy, making himself an implacable and bitter enemy to those who differed with him.
 
 The same reasoning applies also to the affairs in Crete. For there too, when he used Aratus as his guide in the larger policy, he not only committed no injustice, but did not even offend any of the islanders; he kept all the Cretans under his hand and drew all the Greeks into goodwill toward himself by the dignity of his conduct.
 
@@ -274,7 +252,7 @@ The Massylians are a Libyan people. Polybius in the seventh book calls them the 
 
 ## Book 7 Chapter 14d
 
-The name is used in the masculine, as Polybius has it in the seventh book: "those who inhabit Oricus, who are also the first to lie on the right for a man sailing in toward the Adriatic."
+The name is used in the masculine, as Polybius has it in the seventh book: “those who inhabit Oricus, who are also the first to lie on the right for a man sailing in toward the Adriatic.”
 
 ## Book 7 Chapter 15: The War of Antiochus with Achaeus
 
@@ -284,9 +262,7 @@ In the end, when the siege had already entered its second year, Lagoras the Cret
 
 He had also recognized that captures tend to be made precisely at the strongest points, the very places the enemy thinks beyond hope.
 
-So at that time, seeing that the prevailing opinion about the strength of Sardis had led everyone to despair of taking it by such an operation, and that they had only one hope left, namely to master the city through famine,
-
-he paid all the more attention and explored every possible course, eager to seize on some opening of that kind.
+So at that time, seeing that the prevailing opinion about the strength of Sardis had led everyone to despair of taking it by such an operation, and that they had only one hope left, namely to master the city through famine, he paid all the more attention and explored every possible course, eager to seize on some opening of that kind.
 
 When he noticed that the wall near the place called the Saw—this is the point joining the citadel and the city—was left unguarded, he conceived this hope and plan.
 
@@ -302,9 +278,7 @@ And finding that at one place, along one of the cliffs, an ascent was possible, 
 
 ## Book 7 Chapter 16: Antiochus Takes Sardis
 
-...king. When the king took up the hope and urged Lagoras to carry out the attempt, the latter promised to do what he could,
-
-but asked the king to assign to him Theodotus the Aetolian and Dionysius, the commander of the bodyguard, so that they might join him, lend their aid, and share in the enterprise, since each of them seemed to possess enough strength and daring for the plan in hand.
+...king. When the king took up the hope and urged Lagoras to carry out the attempt, the latter promised to do what he could, but asked the king to assign to him Theodotus the Aetolian and Dionysius, the commander of the bodyguard, so that they might join him, lend their aid, and share in the enterprise, since each of them seemed to possess enough strength and daring for the plan in hand.
 
 The king immediately did as he asked, and the men mentioned, after coming to an understanding and sharing all the details among themselves, waited for a moonless night in the hours before dawn.
 
@@ -346,7 +320,7 @@ The gates were quickly opened, the two thousand entered, and they took possessio
 
 Once this happened, all those who had left the walls and the gate called the Persian Gate—the point to which Aribazus and his men had earlier hurried with reinforcements—rushed off in haste to bring support against those who had burst in.
 
-And while this was happening, because the gate was standing open during the withdrawal, some of the king's men burst in as well, following close behind the men who were retreating.
+And while this was happening, because the gate was standing open during the withdrawal, some of the king’s men burst in as well, following close behind the men who were retreating.
 
 When these men gained control of the gate, others were now entering in an unbroken stream, while others cut through the neighboring gates.
 

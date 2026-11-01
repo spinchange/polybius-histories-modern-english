@@ -16,17 +16,13 @@ After these men had spoken in the senate and the motion had been put before the 
 
 The man responsible for preventing the release from being carried was Aulus Postumius, who was serving as praetor and presiding over the decision.
 
-For there were three proposals: one urged that the men be released, another urged the opposite, and a third favored granting release but delaying it for the present. Although those who supported release were the most numerous,
-
-Postumius set one proposal aside and put the other two in broad terms, asking who thought the detained men should be released and who thought the opposite.
+For there were three proposals: one urged that the men be released, another urged the opposite, and a third favored granting release but delaying it for the present. Although those who supported release were the most numerous, Postumius set one proposal aside and put the other two in broad terms, asking who thought the detained men should be released and who thought the opposite.
 
 As a result, those who had favored postponement for the present joined those who said the men should not be released, and they became more numerous than the supporters of release. That was the outcome in this matter.
 
 ## Book 33 Chapter 3: Release of Achaeans Refused
 
-When the ambassadors returned from Rome to Achaia and made it clear that matters had come very close to ending in the return of all the detained men,
-
-most people became hopeful and elated, and once again sent Telecles and Anaxidamus of Megalopolis from among themselves. That was the state of affairs in the Peloponnese.
+When the ambassadors returned from Rome to Achaea and made it clear that matters had come very close to ending in the return of all the detained men, most people became hopeful and elated, and once again sent Telecles and Anaxidamus of Megalopolis from among themselves. That was the state of affairs in the Peloponnese.
 
 ## Book 33 Chapter 4: Character of Aristocrates
 
@@ -50,7 +46,7 @@ For indeed, as the proverb says, empty men make empty calculations under the swa
 
 So it was with him: imagining that he would gain five hundred talents, he lost both the money he already had and his life as well.
 
-## Book 33 Chapter 6: The Prienians Refuse to Give Orophernes' Funds to Ariarathes
+## Book 33 Chapter 6: The Prienians Refuse to Give Orophernes’ Funds to Ariarathes
 
 About this same time the people of Priene also fell into an unexpected disaster.
 
@@ -72,13 +68,7 @@ For they returned the deposit to Orophernes, yet because of that same deposit th
 
 ## Book 33 Chapter 7: Marseilles Complains about the Ligurians
 
-When Hortensius and Arunculeius had returned from Pergamum and explained both Prusias' contempt for the Senate's instructions
-
-and the further fact that, in violation of his sworn agreements, after shutting them up in Pergamum along with Attalus and his party, he had shown every kind of violence and lawlessness,
-
-the Senate, angered and deeply disturbed by what had happened, appointed from its own body ten envoys, headed by Lucius Anicius, Gaius Fannius, and Quintus Fabius Maximus,
-
-and sent them out at once, instructing them to put an end to the war and compel Prusias to make restitution to Attalus for the wrongs he had committed in the war.
+When Hortensius and Arunculeius had returned from Pergamum and explained both Prusias’ contempt for the Senate’s instructions and the further fact that, in violation of his sworn agreements, after shutting them up in Pergamum along with Attalus and his party, he had shown every kind of violence and lawlessness, the Senate, angered and deeply disturbed by what had happened, appointed from its own body ten envoys, headed by Lucius Anicius, Gaius Fannius, and Quintus Fabius Maximus, and sent them out at once, instructing them to put an end to the war and compel Prusias to make restitution to Attalus for the wrongs he had committed in the war.
 
 ## Book 33 Chapter 8: The Ligurians, Ptolemies, And Prusias
 
@@ -156,11 +146,9 @@ And to the allies in Greece and Asia they wrote that they were permitted to assi
 
 II. Affairs in Pergamum.
 
-In Asia, Attalus was still, throughout the winter, gathering large forces, since Ariarathes and Mithridates had sent him cavalry and infantry in accordance with their alliance, under the command of Demetrius son of Ariarathes. While he was engaged in these preparations,
+In Asia, Attalus was still, throughout the winter, gathering large forces, since Ariarathes and Mithridates had sent him cavalry and infantry in accordance with their alliance, under the command of Demetrius son of Ariarathes. While he was engaged in these preparations, the ten envoys arrived from Rome, met him near Cadi, discussed the situation with him, and then set out for Prusias.
 
-the ten envoys arrived from Rome, met him near Cadi, discussed the situation with him, and then set out for Prusias.
-
-When they met Prusias, they conveyed the senate's instructions to him in very severe terms.
+When they met Prusias, they conveyed the senate’s instructions to him in very severe terms.
 
 Prusias accepted some of the orders, but objected to most of them.
 
@@ -170,9 +158,7 @@ Prusias then changed his mind and followed after them for some distance, pleadin
 
 The Romans instructed Attalus to take up position on the frontier of his own territory with his forces, not to begin the war himself, but to secure the safety of his cities and villages.
 
-They then divided themselves into groups: some sailed off in haste to report Prusias' disobedience to the senate, some departed for Ionia, and others for the Hellespont and the regions around Byzantium, all acting with one and the same purpose,
-
-namely, to detach people from friendship and alliance with Prusias, and to win them over to Attalus and support him as far as possible.
+They then divided themselves into groups: some sailed off in haste to report Prusias’ disobedience to the senate, some departed for Ionia, and others for the Hellespont and the regions around Byzantium, all acting with one and the same purpose, namely, to detach people from friendship and alliance with Prusias, and to win them over to Attalus and support him as far as possible.
 
 ## Book 33 Chapter 13: Roman Envoys Make Peace Between Prusias and Attalus
 
@@ -196,11 +182,11 @@ After the treaty had been written out on these terms, the forces under Attalus, 
 
 Such was the course taken by events in the dispute between Attalus and Prusias.
 
-## Book 33 Chapter 14: Another Embassy from Achaia
+## Book 33 Chapter 14: Another Embassy from Achaea
 
 C. Olympiad 156, year 3. Affairs in Italy.
 
-At this time in Rome, when envoys from Achaia entered the senate on behalf of the detained men, the senate decided to remain with its existing policy.
+At this time in Rome, when envoys from Achaea entered the senate on behalf of the detained men, the senate decided to remain with its existing policy.
 
 ## Book 33 Chapter 15: War Between Rhodes and Crete
 
@@ -218,9 +204,7 @@ II. War between Rhodes and the Cretans.
 
 At this time the Cretans sent envoys to the Achaeans to ask for assistance, headed by Antiphatas son of Telemnastus, a man of Gortyn; and in the same way the Rhodians sent envoys headed by Theophanes.
 
-When the Achaean assembly met at Corinth and the envoys from both sides spoke in support of receiving aid, most people leaned more toward the Rhodians,
-
-out of respect both for the standing of their city and for the general character of its constitution and leading men.
+When the Achaean assembly met at Corinth and the envoys from both sides spoke in support of receiving aid, most people leaned more toward the Rhodians, out of respect both for the standing of their city and for the general character of its constitution and leading men.
 
 Seeing this, Antiphatas wanted to come forward again; and when the general gave permission, he spoke with more weight and seriousness than one would expect from a Cretan.
 
@@ -250,11 +234,9 @@ D. Olympiad 156, year 4. I. Affairs in Italy.
 
 When various embassies had arrived in Rome, the senate first called in Attalus, son of King Eumenes.
 
-For he had come to Rome at this time while still a boy, both to be introduced to the senate and to renew his father's friendships and ties of hospitality.
+For he had come to Rome at this time while still a boy, both to be introduced to the senate and to renew his father’s friendships and ties of hospitality.
 
-He was kindly received both by the senate and by his father's friends, obtained the answers he wanted and honors suited to his age, and after a few days returned home,
-
-being welcomed warmly and generously by all the Greek cities through which he passed.
+He was kindly received both by the senate and by his father’s friends, obtained the answers he wanted and honors suited to his age, and after a few days returned home, being welcomed warmly and generously by all the Greek cities through which he passed.
 
 Demetrius too arrived at the same time, but after receiving only a moderate welcome, appropriate enough for a boy, he again departed for home.
 
@@ -268,15 +250,15 @@ Then Heracleides took up the speech, spoke at length in praise of Antiochus and 
 
 None of this pleased the more sober-minded men; they saw the whole thing as a staged performance and openly loathed Heracleides.
 
-But the majority, won over by Heracleides' trickery, were carried into drafting a decree like this:
+But the majority, won over by Heracleides’ trickery, were carried into drafting a decree like this:
 
-"Alexander and Laodice, children of a king who was our friend and ally, appeared before the senate and addressed it.
+“Alexander and Laodice, children of a king who was our friend and ally, appeared before the senate and addressed it.
 
-The senate granted them permission to proceed to their ancestral kingdom, and it was resolved to assist them, as they requested."
+The senate granted them permission to proceed to their ancestral kingdom, and it was resolved to assist them, as they requested.”
 
 Heracleides, taking advantage of this opening, at once began hiring mercenaries and summoning prominent men to join him; and when he arrived at Ephesus, he occupied himself with preparations for the enterprise he had in view.
 
-## Book 33 Chapter 19: Demetrius's Intemperance
+## Book 33 Chapter 19: Demetrius’s Intemperance
 
 II. Affairs in Syria.
 

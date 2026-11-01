@@ -6,9 +6,7 @@ Modern English translation of the Greek text.
 
 If it had happened that the writers before us who recorded events had left out praise of history itself, perhaps it would have been necessary to urge everyone toward choosing and accepting works of this kind, since no correction for human beings is readier than knowledge of past actions.
 
-But since not just some writers, or to some degree, but virtually all of them have used this theme from beginning to end, saying that learning from history is the truest education and training for political action, and that the clearest—and indeed the only—teacher of how to bear the changes of fortune nobly is the memory of other people's reversals,
-
-it is obvious that no one should think it his duty to repeat what has already been well said by many, and least of all I.
+But since not just some writers, or to some degree, but virtually all of them have used this theme from beginning to end, saying that learning from history is the truest education and training for political action, and that the clearest—and indeed the only—teacher of how to bear the changes of fortune nobly is the memory of other people’s reversals, it is obvious that no one should think it his duty to repeat what has already been well said by many, and least of all I.
 
 For the extraordinary nature of the events I have chosen to write about is enough in itself to challenge and stir every reader, young and old alike, to engage with this work.
 
@@ -36,9 +34,7 @@ From the narrative itself it will be possible to see this more clearly, and like
 
 ## Book 1 Chapter 3: The Starting-point of the History
 
-My work will begin, in point of time, with the 140th Olympiad; and in point of events, with the war among the Greeks called the Social War, first undertaken by Philip, son of Demetrius and father of Perseus, together with the Achaeans against the Aetolians; in Asia, with the war for Coele-Syria, which Antiochus and Ptolemy Philopator fought against one another;
-
-and in the regions of Italy and Libya, with the war between Romans and Carthaginians, the one most people call the Hannibalic War. These events follow directly on the final point reached in the history of Aratus of Sicyon.
+My work will begin, in point of time, with the 140th Olympiad; and in point of events, with the war among the Greeks called the Social War, first undertaken by Philip, son of Demetrius and father of Perseus, together with the Achaeans against the Aetolians; in Asia, with the war for Coele-Syria, which Antiochus and Ptolemy Philopator fought against one another; and in the regions of Italy and Libya, with the war between Romans and Carthaginians, the one most people call the Hannibalic War. These events follow directly on the final point reached in the history of Aratus of Sicyon.
 
 In the times before this, the affairs of the inhabited world were, so to speak, scattered, because each event differed from the others in its plans, in its results, and in its location.
 
@@ -50,11 +46,7 @@ For after defeating the Carthaginians in the war already mentioned, the Romans j
 
 Now if the constitutions that contended for world supremacy had been familiar and well known to us, perhaps I would have had no need to explain before my narrative from what purpose or what power they set out when they undertook enterprises of such scale and kind.
 
-But since most Greeks have no ready knowledge of the earlier strength and achievements of either the Roman or the Carthaginian state, I concluded that it was necessary to compose this book and the next before the history proper,
-
-so that no one, once he has come to the narrative itself, may be at a loss and ask with what plans, what forces, and what resources the Romans embarked on those ventures through which they came to control all the land and sea in our part of the world,
-
-but that from these books and the preliminary account in them it may be clear to readers that they set out on their design with entirely reasonable advantages, and that in carrying it through they reached universal rule and dominion.
+But since most Greeks have no ready knowledge of the earlier strength and achievements of either the Roman or the Carthaginian state, I concluded that it was necessary to compose this book and the next before the history proper, so that no one, once he has come to the narrative itself, may be at a loss and ask with what plans, what forces, and what resources the Romans embarked on those ventures through which they came to control all the land and sea in our part of the world, but that from these books and the preliminary account in them it may be clear to readers that they set out on their design with entirely reasonable advantages, and that in carrying it through they reached universal rule and dominion.
 
 ## Book 1 Chapter 4: Comprehensive View
 
@@ -64,13 +56,13 @@ Indeed this above all is what drew me on and stirred me to undertake this histor
 
 As it is, I see many writers treating particular wars and some of the events accompanying them, but as for the general and collective ordering of events—when and from what starting point it began, and how it reached its end—no one, so far as I know, has even tried to investigate it.
 
-I therefore judged it absolutely necessary not to pass over, or allow to pass unnoticed, this finest and most beneficial display of Fortune's workings.
+I therefore judged it absolutely necessary not to pass over, or allow to pass unnoticed, this finest and most beneficial display of Fortune’s workings.
 
 For although Fortune produces many novelties and is constantly contending in the lives of men, she has never before quite simply accomplished such a feat, or staged such a contest, as in our own time.
 
 And this is not something one can grasp from writers of particular histories, any more than someone could think he understood the shape of the whole world, its arrangement and order, by visiting its most famous cities one by one—or, by Zeus, even by looking at them separately in pictures.
 
-In my judgment, those who think they can gain an adequate view of the whole through partial history are much like people who, after seeing the scattered limbs of some once living and beautiful body, imagine that they have become sufficient eyewitnesses of the creature's power and beauty.
+In my judgment, those who think they can gain an adequate view of the whole through partial history are much like people who, after seeing the scattered limbs of some once living and beautiful body, imagine that they have become sufficient eyewitnesses of the creature’s power and beauty.
 
 But if someone were at once to put the living thing together again and restore it in full, complete in form and in the grace of its life, and then show it to those same people, I think they would quickly admit that earlier they had fallen far short of the truth and had been little better than dreamers.
 
@@ -94,9 +86,7 @@ For if the starting point is unknown, or even disputed, none of what follows can
 
 ## Book 1 Chapter 6: Roman Dominion in Italy
 
-At that time it was the nineteenth year after the sea battle at Aegospotami and the sixteenth before the battle at Leuctra,
-
-the year in which the Lacedaemonians ratified the peace called the Peace of Antalcidas with the Persian king; in which Dionysius the Elder, after defeating the Greeks of Italy in the battle by the river Elleporus, was besieging Rhegium; and in which the Gauls, after taking Rome itself by storm, held the city except for the Capitol.
+At that time it was the nineteenth year after the sea battle at Aegospotami and the sixteenth before the battle at Leuctra, the year in which the Lacedaemonians ratified the peace called the Peace of Antalcidas with the Persian king; in which Dionysius the Elder, after defeating the Greeks of Italy in the battle by the river Elleporus, was besieging Rhegium; and in which the Gauls, after taking Rome itself by storm, held the city except for the Capitol.
 
 The Romans made a treaty and settlement with these Gauls on terms acceptable to them, and, unexpectedly recovering possession of their fatherland, they then took what was in effect the starting point of their rise and in the years that followed made war on their neighboring peoples.
 
@@ -108,13 +98,13 @@ By this time the Romans had made the Tyrrhenians and Samnites subject to themsel
 
 They bore this war nobly, and in the end drove both Pyrrhus and his forces out of Italy. After that they again made war on the peoples who had joined him and subdued them.
 
-Thus, in a remarkable way, they gained control of all Italy's inhabitants except the Celts; and after this they undertook to besiege the Romans who were then holding Rhegium.
+Thus, in a remarkable way, they gained control of all Italy’s inhabitants except the Celts; and after this they undertook to besiege the Romans who were then holding Rhegium.
 
 ## Book 1 Chapter 7: Messene and Rhegium
 
 A peculiar and similar misfortune befell both the cities built on either side of the strait, Messene and Rhegium.
 
-Not many years before the time now under discussion, Campanians serving as mercenaries under Agathocles had long had greedy eyes on Messene because of the city's beauty and prosperity, and as soon as they found an opportunity they at once attempted a treacherous seizure.
+Not many years before the time now under discussion, Campanians serving as mercenaries under Agathocles had long had greedy eyes on Messene because of the city’s beauty and prosperity, and as soon as they found an opportunity they at once attempted a treacherous seizure.
 
 They entered as friends, took possession of the city, drove some of the citizens out, and slaughtered others.
 
@@ -170,19 +160,13 @@ He inflicted a severe rout on them and captured their leaders alive, thereby put
 
 ## Book 1 Chapter 10: The Mamertines and Rome
 
-The Mamertines, then, first lost the support that came from Rhegium, as I said above, and then, because of the causes just described, suffered complete failure in their own affairs. Some of them fled to the Carthaginians and put themselves and the citadel into their hands;
-
-others sent envoys to the Romans, surrendering the city and asking for help on the ground that they were of the same stock.
+The Mamertines, then, first lost the support that came from Rhegium, as I said above, and then, because of the causes just described, suffered complete failure in their own affairs. Some of them fled to the Carthaginians and put themselves and the citadel into their hands; others sent envoys to the Romans, surrendering the city and asking for help on the ground that they were of the same stock.
 
 The Romans were at a loss for a long time because the irrationality of giving such aid was obvious.
 
 For after having only a little earlier inflicted the severest punishment on their own citizens because they had broken faith with the Rhegians, to seek at once to help the Mamertines, who had done much the same thing not only to the Messenians but also to the Rhegians, seemed an error impossible to defend.
 
-Yet although they were fully aware of this, they also saw that the Carthaginians had made subject to themselves not only many parts of Libya, but also many parts of Iberia,
-
-and that they furthermore held all the islands in the Sardinian and Tyrrhenian seas. They were anxious that, if the Carthaginians also gained control of Sicily,
-
-they would become exceedingly burdensome and formidable neighbors, surrounding them on every side and threatening every part of Italy.
+Yet although they were fully aware of this, they also saw that the Carthaginians had made subject to themselves not only many parts of Libya, but also many parts of Iberia, and that they furthermore held all the islands in the Sardinian and Tyrrhenian seas. They were anxious that, if the Carthaginians also gained control of Sicily, they would become exceedingly burdensome and formidable neighbors, surrounding them on every side and threatening every part of Italy.
 
 And it was clear that the Carthaginians would quickly bring Sicily under their power if the Mamertines did not get help.
 
@@ -208,9 +192,7 @@ After this he marched out from Syracuse against the city just mentioned, and enc
 
 The Roman commander Appius crossed the strait by night in a bold passage and came to Messene.
 
-But when he saw the enemy pressing hard from every side and considered that the siege would be both shameful and dangerous for him, since the enemy controlled both land and sea,
-
-he first sent envoys to both parties, wanting to remove the Mamertines from the war altogether.
+But when he saw the enemy pressing hard from every side and considered that the siege would be both shameful and dangerous for him, since the enemy controlled both land and sea, he first sent envoys to both parties, wanting to remove the Mamertines from the war altogether.
 
 When neither side paid attention to him, he was at last compelled to hazard a battle and decided to attack the Syracusans first.
 
@@ -234,7 +216,7 @@ Such was the first Roman crossing from Italy with an army, and such were the cau
 
 Judging this to be the most fitting beginning for my whole design, I made it the point at which to take my stand, while going back in time so as to leave no difficulty unresolved in explaining the causes.
 
-For I thought it necessary, if we were to follow what is to come and gain a proper general view of the main source of Rome's present supremacy, to see clearly how and when, after suffering disaster in their own fatherland, the Romans began to advance to a better position, and again how and when, after mastering Italy, they turned to enterprises beyond it.
+For I thought it necessary, if we were to follow what is to come and gain a proper general view of the main source of Rome’s present supremacy, to see clearly how and when, after suffering disaster in their own fatherland, the Romans began to advance to a better position, and again how and when, after mastering Italy, they turned to enterprises beyond it.
 
 So there is no need to be surprised if later on as well I sometimes go back in time when speaking of the most distinguished states.
 
@@ -248,7 +230,7 @@ First in order come the events that befell Romans and Carthaginians in the war o
 
 Next comes the Libyan War, followed by the affairs in Iberia carried out by Hamilcar and after him by Hasdrubal on behalf of the Carthaginians.
 
-In the same period occurred the Romans' first crossing into Illyria and those parts of Europe, and after the events already mentioned their struggles with the Celts in Italy.
+In the same period occurred the Romans’ first crossing into Illyria and those parts of Europe, and after the events already mentioned their struggles with the Celts in Italy.
 
 At the same time among the Greeks the war called the Cleomenic War was in progress, and with that war I have made the conclusion of the whole introduction and of the second book.
 
@@ -276,7 +258,7 @@ I do not think these men lied deliberately, judging from their lives and their p
 
 Because of partisan choice and deep attachment, Philinus thinks the Carthaginians did everything wisely, honorably, and bravely, while the Romans did the opposite; Fabius takes exactly the reverse view.
 
-In ordinary life perhaps one would not reject this kind of feeling altogether. A good man ought to love his friends and his country, to hate his friends' enemies with them, and to love the people they love.
+In ordinary life perhaps one would not reject this kind of feeling altogether. A good man ought to love his friends and his country, to hate his friends’ enemies with them, and to love the people they love.
 
 But whenever someone takes up the character of history, he must forget all such considerations, and must often speak well of his enemies and crown them with the highest praise when their actions require it, and often rebuke and censure his closest associates with the sharpest reproach when their errors in conduct make that necessary.
 
@@ -386,7 +368,7 @@ But as the Carthaginians were being squeezed by famine, owing to the multitude o
 
 The authorities in Carthage loaded their ships with the soldiers and elephants they had assembled and sent them off to Sicily, to Hanno, the other general.
 
-He gathered his supplies and forces at Heracleia, and as a first step seized by a stratagem the city of the Herbesians, depriving the enemy's camps of their markets and their supply of necessities.
+He gathered his supplies and forces at Heracleia, and as a first step seized by a stratagem the city of the Herbesians, depriving the enemy’s camps of their markets and their supply of necessities.
 
 As a result, the Romans found themselves at once besieging and besieged in their circumstances. For they were brought by the lack of grain and the scarcity of necessities to such a pass that they more than once deliberated about raising the siege.
 
@@ -396,13 +378,13 @@ And in the end they would indeed have done so, had not Hiero, applying every eff
 
 ...of supplies. After this, the aforementioned man observed that the Romans were in a weakened condition, both from disease and from shortage of food—since a plague-like situation had set in among them—while he reckoned that his own forces were fit to give battle.
 
-He therefore took the elephants, about fifty in number, together with the whole of the rest of his army, and advanced in haste out of Heracleia. He had given orders to the Numidian cavalry to ride ahead, and, on drawing near to the enemy's stockade, to harass them and try to lure out their cavalry, and then, once the enemy gave chase, to fall back again until they linked up with him.
+He therefore took the elephants, about fifty in number, together with the whole of the rest of his army, and advanced in haste out of Heracleia. He had given orders to the Numidian cavalry to ride ahead, and, on drawing near to the enemy’s stockade, to harass them and try to lure out their cavalry, and then, once the enemy gave chase, to fall back again until they linked up with him.
 
 The Numidians carried out their instructions and engaged one of the two camps, whereupon the Roman cavalry immediately poured out and pressed the Numidians hard with reckless boldness.
 
-The Libyans, in keeping with their orders, gave ground until they joined Hanno's men. Then, wheeling about, they enveloped their pursuers and fell upon them, killed many of them, and chased the rest right up to their stockade.
+The Libyans, in keeping with their orders, gave ground until they joined Hanno’s men. Then, wheeling about, they enveloped their pursuers and fell upon them, killed many of them, and chased the rest right up to their stockade.
 
-After this had taken place, Hanno's force encamped facing the Romans, having seized the hill called Torus, at a distance of about ten stades from the enemy.
+After this had taken place, Hanno’s force encamped facing the Romans, having seized the hill called Torus, at a distance of about ten stades from the enemy.
 
 For two months they remained in these positions, accomplishing nothing decisive beyond daily skirmishing.
 
@@ -420,7 +402,7 @@ When night came on, the Romans, partly from joy at their successes and partly fr
 
 Having filled in the trenches with baskets stuffed full of chaff, he led his force away in safety, undetected by the enemy.
 
-When day came, the Romans realized what had happened. They harried the rear guard of Hannibal's column briefly, and after that they all rushed toward the gates.
+When day came, the Romans realized what had happened. They harried the rear guard of Hannibal’s column briefly, and after that they all rushed toward the gates.
 
 With no one standing in their way, they burst in and plundered the city, taking control of many captives and of plunder of every kind in great quantity.
 
@@ -430,13 +412,9 @@ When the report of what had happened at Agrigentum reached the Roman Senate, the
 
 Instead, conceiving the hope that it was altogether possible to drive the Carthaginians out of the island—and that, were this done, their own affairs would make great progress—they applied themselves to these calculations and to the schemes bearing on this objective.
 
-As for their land forces, they saw that matters were proceeding for them according to plan;
+As for their land forces, they saw that matters were proceeding for them according to plan; for after those who had besieged Agrigentum, the generals appointed in their place, Lucius Valerius and Titus Otacilius, seemed to be handling affairs in Sicily as well as circumstances allowed.
 
-for after those who had besieged Agrigentum, the generals appointed in their place, Lucius Valerius and Titus Otacilius, seemed to be handling affairs in Sicily as well as circumstances allowed.
-
-But since the Carthaginians held command of the sea without a fight, the war remained evenly balanced for the Romans;
-
-for in the period that followed, although they now held Agrigentum, many of the inland cities went over to the Romans out of fear of their land forces, while still more of the coastal cities fell away from them, terrified of the Carthaginian fleet.
+But since the Carthaginians held command of the sea without a fight, the war remained evenly balanced for the Romans; for in the period that followed, although they now held Agrigentum, many of the inland cities went over to the Romans out of fear of their land forces, while still more of the coastal cities fell away from them, terrified of the Carthaginian fleet.
 
 Seeing, therefore, that the war was increasingly tipping now to one side and now to the other for the reasons stated, and moreover that Italy was repeatedly ravaged by the naval force while Libya remained entirely unharmed, the Romans set their hearts on taking to the sea against the Carthaginians as well.
 
@@ -460,11 +438,7 @@ So that, had this not happened, it is plain that through their inexperience they
 
 ## Book 1 Chapter 21: Gn. Cornelius Scipio Asina Surrenders
 
-...from carrying out their plan. Nevertheless, those whose task was the shipbuilding went on with the construction of the vessels, while others gathered the crews and trained them to row on land in the following way:
-
-they seated the men on rowing benches on dry ground, in the same arrangement as the seats aboard the actual ships, and, stationing the boatswain in their midst, accustomed them all to lean back together as they drew their hands toward themselves, and to swing forward again as they thrust their hands out, and to begin and end these movements at the boatswain's commands. Once these preparations had been made,
-
-as soon as the ships were finished they launched them, and after practicing for a short while in real conditions at sea, they sailed along the coast of Italy in accordance with the consul's order.
+...from carrying out their plan. Nevertheless, those whose task was the shipbuilding went on with the construction of the vessels, while others gathered the crews and trained them to row on land in the following way: they seated the men on rowing benches on dry ground, in the same arrangement as the seats aboard the actual ships, and, stationing the boatswain in their midst, accustomed them all to lean back together as they drew their hands toward themselves, and to swing forward again as they thrust their hands out, and to begin and end these movements at the boatswain’s commands. Once these preparations had been made, as soon as the ships were finished they launched them, and after practicing for a short while in real conditions at sea, they sailed along the coast of Italy in accordance with the consul’s order.
 
 For Gnaeus Cornelius, who had been put in charge of the Roman naval force, a few days earlier had instructed the ship captains that, as soon as they had fitted out the fleet, they should sail toward the strait; he himself had put to sea with seventeen ships and sailed ahead to Messene, eager to make ready for the fleet the things urgently needed.
 
@@ -474,11 +448,11 @@ But the Carthaginian general Hannibal, hearing in Panormus what had happened, se
 
 Sailing up by night, Boödes blockaded Gnaeus and his men in the harbor. When day came, the crews fled to land, while Gnaeus, panic-stricken and at a loss for what to do, in the end surrendered himself to the enemy.
 
-The Carthaginians, having the enemy's ships and commander in their hands, set off at once to rejoin Hannibal.
+The Carthaginians, having the enemy’s ships and commander in their hands, set off at once to rejoin Hannibal.
 
 Not many days afterward, though the misfortune that had befallen Gnaeus was so vivid and recent, Hannibal himself came within a hair of falling plainly into a similar blunder.
 
-For on hearing that the Roman fleet making its way along the coast of Italy was close at hand, and wishing to get a clear view of the enemy's numbers and their whole formation, he took fifty ships and sailed out.
+For on hearing that the Roman fleet making its way along the coast of Italy was close at hand, and wishing to get a clear view of the enemy’s numbers and their whole formation, he took fifty ships and sailed out.
 
 As he was rounding the headland of Italy he ran into the enemy, who were proceeding on their voyage in good order and formation; he lost most of his ships, and with those that were left escaped against all hope and expectation.
 
@@ -486,9 +460,9 @@ As he was rounding the headland of Italy he ran into the enemy, who were proceed
 
 After this the Romans drew near to the coasts of Sicily, and when they learned of the disaster that had befallen Gnaeus, they immediately sent word to Gaius Duilius, the commander of the land forces, and waited for him to arrive.
 
-At the same time, hearing that the enemy's fleet was not far off, they set about preparing for a naval battle.
+At the same time, hearing that the enemy’s fleet was not far off, they set about preparing for a naval battle.
 
-But since their ships were poorly built and hard to maneuver, someone proposed to them, as an aid for the fight, the devices that were afterward called "ravens" (corvi). Their construction was as follows.
+But since their ships were poorly built and hard to maneuver, someone proposed to them, as an aid for the fight, the devices that were afterward called “ravens” (corvi). Their construction was as follows.
 
 A round post stood on the prow, twenty-four feet high and a foot wide in diameter.
 
@@ -498,9 +472,9 @@ The opening in the planking was oblong, and the gangway fitted around the post a
 
 At the far end of the gangway was fastened an iron spike shaped like a pestle, sharpened to a point and fitted with a ring at its top, so that the whole thing looked very much like the machines used for grinding grain.
 
-To this ring a rope was attached. When the ships clashed, the men would hoist up the "ravens" by means of the pulley on the post and drop them onto the deck of the enemy ship—sometimes over the prow, and sometimes, when blows came from the side, swinging the device around to meet them.
+To this ring a rope was attached. When the ships clashed, the men would hoist up the “ravens” by means of the pulley on the post and drop them onto the deck of the enemy ship—sometimes over the prow, and sometimes, when blows came from the side, swinging the device around to meet them.
 
-Once the "ravens" had bitten into the planks of the decks and lashed the ships together, then, if the vessels lay alongside one another, the men leaped aboard from every quarter; but if they were prow to prow, they made their assault across the "raven" itself, advancing two abreast.
+Once the “ravens” had bitten into the planks of the decks and lashed the ships together, then, if the vessels lay alongside one another, the men leaped aboard from every quarter; but if they were prow to prow, they made their assault across the “raven” itself, advancing two abreast.
 
 The leading pair shielded their front by holding their shields before them, while those who followed protected the flanks by resting the rims of their shields on the railing.
 
@@ -512,15 +486,15 @@ Having made use of such a preparation, [the Romans watched for the right moment 
 
 Learning that the enemy was ravaging the territory of Mylae, he sailed against them with his whole fleet.
 
-When the Carthaginians caught sight of him, they put to sea with joy and eagerness, with a hundred and thirty ships, holding the Romans' inexperience in contempt. They all sailed straight at the enemy, prow first, not even thinking the engagement worth drawing up in any order, but as though heading for plunder lying ready for the taking.
+When the Carthaginians caught sight of him, they put to sea with joy and eagerness, with a hundred and thirty ships, holding the Romans’ inexperience in contempt. They all sailed straight at the enemy, prow first, not even thinking the engagement worth drawing up in any order, but as though heading for plunder lying ready for the taking.
 
 Their commander was Hannibal—the same man who had slipped his forces out of the city of Agrigentum by night—sailing in the seven-banked galley that had once belonged to King Pyrrhus.
 
-As they drew near and saw the "ravens" raised aloft on each of the prows, the Carthaginians were for a while at a loss, baffled by the strange construction of the engines. Yet, in utter contempt for their opponents, those sailing in the front rank charged in boldly.
+As they drew near and saw the “ravens” raised aloft on each of the prows, the Carthaginians were for a while at a loss, baffled by the strange construction of the engines. Yet, in utter contempt for their opponents, those sailing in the front rank charged in boldly.
 
-But each time the ships closed and were locked together by the engines, the men crossed at once over the "raven" itself and grappled with the enemy on the decks. Some of the Carthaginians were cut down, while others surrendered, dismayed at what was happening—for the battle had become very much like a fight on land.
+But each time the ships closed and were locked together by the engines, the men crossed at once over the “raven” itself and grappled with the enemy on the decks. Some of the Carthaginians were cut down, while others surrendered, dismayed at what was happening—for the battle had become very much like a fight on land.
 
-So they lost the first thirty ships engaged, crews and all, and with them the commander's ship was captured too; though Hannibal himself, beyond all hope and at great risk, escaped in the ship's boat.
+So they lost the first thirty ships engaged, crews and all, and with them the commander’s ship was captured too; though Hannibal himself, beyond all hope and at great risk, escaped in the ship’s boat.
 
 The rest of the Carthaginian force came on as if to charge, but as they drew near and saw what had happened to the ships sailing ahead, they sheered off and dodged the descent of the engines.
 
@@ -562,7 +536,7 @@ The next year Gaius Atilius, the Roman commander, lay at anchor off Tyndaris, an
 
 The Carthaginians, seeing that some of the enemy were still embarking, others just putting out, and the foremost far ahead of the rest, turned and went to meet them.
 
-Surrounding them, they destroyed the rest and very nearly captured the commander's ship, crew and all; but this ship, well manned and fast, escaped the danger against all expectation.
+Surrounding them, they destroyed the rest and very nearly captured the commander’s ship, crew and all; but this ship, well manned and fast, escaped the danger against all expectation.
 
 Meanwhile the rest of the Roman ships came sailing up and gradually gathered together. Forming a line abreast, they engaged the enemy, took ten ships with their crews, and sank eight. The remaining Carthaginian ships withdrew to the islands called the Liparae.
 
@@ -578,7 +552,7 @@ The Carthaginians, sailing up with three hundred and fifty decked ships, put in 
 
 ## Book 1 Chapter 26: Preparations for Battle
 
-[There they came to anchor.] Now the Romans' aim was to sail across to Libya and shift the war there, so that the danger for the Carthaginians might concern not Sicily but themselves and their own land.
+[There they came to anchor.] Now the Romans’ aim was to sail across to Libya and shift the war there, so that the danger for the Carthaginians might concern not Sicily but themselves and their own land.
 
 The Carthaginians took exactly the opposite view: realizing that Libya was easy to invade, and that its whole population would be easily overcome once an enemy had landed, they were unwilling to allow it, but were eager instead to risk everything and fight at sea.
 
@@ -588,7 +562,7 @@ So the Romans made their preparations to suit both purposes—both for action at
 
 Accordingly they picked the best men from the land legions and divided the whole force they intended to take aboard into four parts.
 
-Each part had two names: the first was called the "First Legion" and the "First Squadron," and so on in turn for the rest. The fourth had taken on yet a third name besides: they were called "Triarii," following the usage of the land legions.
+Each part had two names: the first was called the “First Legion” and the “First Squadron,” and so on in turn for the rest. The fourth had taken on yet a third name besides: they were called “Triarii,” following the usage of the land legions.
 
 The total of this whole naval force came to about a hundred and forty thousand men, reckoning each ship as carrying three hundred rowers and a hundred and twenty marines.
 
@@ -616,9 +590,7 @@ At the same time the Carthaginian commanders briefly addressed their men, pointi
 
 Since all carried out the order eagerly—because what had been said let them see clearly what lay ahead—they put to sea with confidence and in a manner fit to strike terror.
 
-When the commanders observed the enemy's formation, they arranged their own to match it: three of their four divisions they drew up in a single line, extending the right wing toward the open sea so as to envelop the enemy, and setting all their ships prow-on to the enemy. The fourth division they made the left wing of the whole line,
-
-bending it back at an angle toward the shore.
+When the commanders observed the enemy’s formation, they arranged their own to match it: three of their four divisions they drew up in a single line, extending the right wing toward the open sea so as to envelop the enemy, and setting all their ships prow-on to the enemy. The fourth division they made the left wing of the whole line, bending it back at an angle toward the shore.
 
 The Carthaginian right wing was led by Hanno—the man defeated in the battle at Agrigentum—with ships for charging and the fastest quinqueremes for the outflanking movement.
 
@@ -630,11 +602,9 @@ The Carthaginian center, by prearranged order, quickly turned to flight so as to
 
 So the first and second squadrons pressed hard upon the fleeing ships, while the third and fourth divisions fell behind—the one because it was towing the horse-transports, and the Triarii because they stayed with them and kept guard over them.
 
-But when the Carthaginians judged that they had drawn the first and second squadrons far enough from the rest, a signal was raised from Hamilcar's ship, and all at once they swung about and engaged their pursuers.
+But when the Carthaginians judged that they had drawn the first and second squadrons far enough from the rest, a signal was raised from Hamilcar’s ship, and all at once they swung about and engaged their pursuers.
 
-A fierce struggle followed. In speed, the Carthaginians had much the better of it, rowing around the enemy, closing in easily and pulling back swiftly;
-
-but in close, forceful fighting—grappling with the "ravens" any ship that once came near, and fighting under the eyes of both their commanders, who shared in the action in full view of their men—the Romans had hopes no less bright than the Carthaginians.
+A fierce struggle followed. In speed, the Carthaginians had much the better of it, rowing around the enemy, closing in easily and pulling back swiftly; but in close, forceful fighting—grappling with the “ravens” any ship that once came near, and fighting under the eyes of both their commanders, who shared in the action in full view of their men—the Romans had hopes no less bright than the Carthaginians.
 
 Such, then, was the course of the fighting in this quarter.
 
@@ -644,23 +614,21 @@ Such was the state of affairs [in the center]. At the same time Hanno, commandin
 
 Meanwhile the Carthaginians stationed near the shore re-formed from their original position into a line abreast, brought their ships prow-on, and charged the vessels towing the horse-transports. These cast off their tow-lines, grappled with the enemy, and fought it out.
 
-So the whole engagement fell into three parts, and three separate sea-battles were going on at a wide distance from one another;
-
-and since the forces on each side were evenly matched, in keeping with the original disposition, the fighting in each case was hard fought.
+So the whole engagement fell into three parts, and three separate sea-battles were going on at a wide distance from one another; and since the forces on each side were evenly matched, in keeping with the original disposition, the fighting in each case was hard fought.
 
 Nonetheless the outcome in each battle followed the natural course—as is to be expected when all the contending forces are evenly balanced.
 
-For those who engaged first were the first to be decided: in the end Hamilcar's squadron was overpowered and took to flight.
+For those who engaged first were the first to be decided: in the end Hamilcar’s squadron was overpowered and took to flight.
 
 So while Lucius was busy securing the captured ships, Marcus, seeing the struggle in which the Triarii and the horse-transports were caught up, hurried to their aid with the undamaged ships of the second squadron.
 
-When he had reached and closed with Hanno's division, the Triarii quickly took heart, and although by now they were faring badly, they rallied again to the fight.
+When he had reached and closed with Hanno’s division, the Triarii quickly took heart, and although by now they were faring badly, they rallied again to the fight.
 
 The Carthaginians, attacked in front by some and assailed in the rear by others, found themselves in difficulty and—unexpectedly surrounded by the relieving force—gave way and withdrew toward the open sea.
 
 At this same moment Lucius, who was now sailing back and saw the third squadron pinned against the shore by the Carthaginian left wing, and Marcus, who had left the horse-transports and Triarii safe, both hurried to rescue their endangered comrades.
 
-For by now what was happening looked very much like a siege; and these men would plainly all have perished had not the Carthaginians, in fear of the "ravens," merely fenced them in and held them penned against the shore, wary of charging because of the grappling and so keeping their distance.
+For by now what was happening looked very much like a siege; and these men would plainly all have perished had not the Carthaginians, in fear of the “ravens,” merely fenced them in and held them penned against the shore, wary of charging because of the grappling and so keeping their distance.
 
 But the commanders came up swiftly, surrounded the Carthaginians, and captured fifty enemy ships with their crews, while a few escaped by slipping away along the shore.
 
@@ -708,7 +676,7 @@ They occupied a hill that stood above the enemy, but it was unsuitable for their
 
 Though they placed their greatest hopes in their cavalry and elephants, they abandoned the flat ground and shut themselves up in steep and difficult terrain. In doing so, they were about to teach the enemy exactly what ought to be done against them. And that is exactly what happened.
 
-For the Roman commanders, recognizing with practical good sense that the most effective and most formidable part of the enemy's strength had been rendered useless by the ground, did not wait for them to come down into the plain and draw up for battle.
+For the Roman commanders, recognizing with practical good sense that the most effective and most formidable part of the enemy’s strength had been rendered useless by the ground, did not wait for them to come down into the plain and draw up for battle.
 
 Instead, taking advantage of the opportunity before them, they advanced at daybreak from both sides against the hill.
 
@@ -736,7 +704,7 @@ They gladly listened and sent out their leading men. But when they met with him,
 
 For Marcus, as though he already had complete control of everything, thought that whatever concessions he granted ought to be accepted by them as a favor and an act of generosity.
 
-But the Carthaginians saw that even if they became his captives, nothing harsher could follow than the commands he was now imposing. So they not only came back rejecting the proposals, but were also deeply offended by Marcus's severity.
+But the Carthaginians saw that even if they became his captives, nothing harsher could follow than the commands he was now imposing. So they not only came back rejecting the proposals, but were also deeply offended by Marcus’s severity.
 
 When the Carthaginian council heard what the Roman general was demanding, although it had almost given up hope of safety, it nevertheless took so manly and noble a stand that it chose to endure anything and to try every action and every opportunity rather than submit to anything dishonorable or unworthy of its past deeds.
 
@@ -768,9 +736,9 @@ After advancing, they spent the first day encamped about ten stades from their o
 
 On the next day the Carthaginian leaders were considering what should be done and how they ought to act in the present circumstances.
 
-But the rank and file, full of eagerness for battle, gathered in groups and shouted Xanthippus's name one by one, convinced that he ought to lead them out at once.
+But the rank and file, full of eagerness for battle, gathered in groups and shouted Xanthippus’s name one by one, convinced that he ought to lead them out at once.
 
-The generals, seeing the army's rush of enthusiasm and eagerness, and with Xanthippus also insisting that they must not let the moment pass, ordered the troops to prepare themselves and gave Xanthippus authority to manage affairs as he thought best.
+The generals, seeing the army’s rush of enthusiasm and eagerness, and with Xanthippus also insisting that they must not let the moment pass, ordered the troops to prepare themselves and gave Xanthippus authority to manage affairs as he thought best.
 
 Once he had this power, he brought out the elephants and stationed them in a single line at the front before the whole army. Behind them, at a suitable distance, he placed the Carthaginian phalanx.
 
@@ -786,13 +754,11 @@ When both sides had arranged, both generally and in detail, each part in the pos
 
 ## Book 1 Chapter 34: Roman Defeat
 
-As soon as Xanthippus gave the order to the men on the elephants to advance and break up the enemy's line, and to the cavalry on each wing to wheel around and attack the enemy,
-
-then the Roman army too, according to their custom, clashed their weapons together, raised their battle cry, and charged the enemy.
+As soon as Xanthippus gave the order to the men on the elephants to advance and break up the enemy’s line, and to the cavalry on each wing to wheel around and attack the enemy, then the Roman army too, according to their custom, clashed their weapons together, raised their battle cry, and charged the enemy.
 
 The Roman cavalry on both wings quickly fled, because the Carthaginian cavalry were so much more numerous.
 
-Of the infantry, those posted on the left wing, partly avoiding the elephants' charge and partly despising the mercenaries, attacked the Carthaginian right. After routing them, they pressed on and pursued them as far as the camp rampart.
+Of the infantry, those posted on the left wing, partly avoiding the elephants’ charge and partly despising the mercenaries, attacked the Carthaginian right. After routing them, they pressed on and pursued them as far as the camp rampart.
 
 But among those stationed opposite the elephants, the front ranks, once engaged, were forced back and trampled underfoot by the sheer power of the animals, and perished in heaps where they stood. Still, because of the depth of the formation behind them, the main body remained unbroken for some time.
 
@@ -824,7 +790,7 @@ For one man and one mind brought down forces that seemed unconquerable and effec
 
 I have mentioned these things for the sake of improving those who read these memoirs.
 
-For there are two ways by which all people may change for the better: through their own misfortunes and through those of others. The lesson drawn from one's own experience is more vivid, but the lesson drawn from other people's is safer.
+For there are two ways by which all people may change for the better: through their own misfortunes and through those of others. The lesson drawn from one’s own experience is more vivid, but the lesson drawn from other people’s is safer.
 
 Therefore one should never deliberately choose the first, since it brings correction only through great suffering and danger, but one should always seek the second, since through it one may perceive the better course without harm.
 
@@ -840,7 +806,7 @@ But Xanthippus, after bringing about so great an advance and so decisive a turn 
 
 For brilliant and extraordinary achievements breed heavy jealousy and sharp slander; and while native citizens, supported by their kinsmen and their many friends, may be able to fend these off for a long time, foreigners are quickly overcome by one or the other of them and put in danger.
 
-There is also another account given of Xanthippus's departure, which I will try to explain when I come to a more fitting occasion than the present.
+There is also another account given of Xanthippus’s departure, which I will try to explain when I come to a more fitting occasion than the present.
 
 The Romans, when news reached them—against all their expectations—of what had happened in Libya, at once set about refitting their fleet and rescuing the men who had survived there.
 
@@ -850,7 +816,7 @@ But being wholly unable to take the place, owing to the bravery and daring of th
 
 When word reached them that the Romans were fitting out their fleet and intended once more to make the voyage against Libya, they set to work, repairing some vessels and building others from the keel up.
 
-Quickly manning two hundred ships, they put to sea and kept watch for the enemy's approach.
+Quickly manning two hundred ships, they put to sea and kept watch for the enemy’s approach.
 
 The Romans, at the beginning of summer, launched three hundred and fifty vessels and, placing the consuls Marcus Aemilius and Servius Fulvius in command, sent them out. Putting to sea, they sailed along Sicily as if heading for Libya.
 
@@ -866,9 +832,7 @@ For out of their three hundred and sixty-four ships, only eighty survived; of th
 
 No greater catastrophe at sea, occurring all at once, is even recorded in history. The blame for it must be laid not so much on fortune as on the commanders.
 
-For although the pilots had repeatedly protested against sailing along the outer coast of Sicily, the side facing the Libyan sea, because it was rough and offered no safe anchorage, and because, too, one threatening constellation had not yet set while another was on the point of rising—for they were making the voyage between the rising of Orion
-
-and that of the Dog Star—the commanders heeded none of these warnings and sailed out into the open sea, eager to overawe some of the cities along the coast by the impression of their recent success and so to win them over.
+For although the pilots had repeatedly protested against sailing along the outer coast of Sicily, the side facing the Libyan sea, because it was rough and offered no safe anchorage, and because, too, one threatening constellation had not yet set while another was on the point of rising—for they were making the voyage between the rising of Orion and that of the Dog Star—the commanders heeded none of these warnings and sailed out into the open sea, eager to overawe some of the cities along the coast by the impression of their recent success and so to win them over.
 
 But by chasing small hopes they met with great misfortunes, and only then recognized their own folly.
 
@@ -924,9 +888,7 @@ As a result of the disasters I have described, the fortunes of the Carthaginians
 
 For they commanded the sea without fear, now that the Romans had withdrawn from it, while in their land forces they had great hopes.
 
-And they felt this not without reason. For when the report of the battle in Libya had spread—that the elephants had broken up the Roman ranks and destroyed most of their men—
-
-the Romans were so terrified of the elephants that for the two years following the events just described, although they often drew up in battle order against the enemy in the territory of Lilybaeum and often in that of Selinus, within five or six stades of them, they never dared to begin the fight, nor to descend at all onto level ground, for fear of an elephant charge.
+And they felt this not without reason. For when the report of the battle in Libya had spread—that the elephants had broken up the Roman ranks and destroyed most of their men— the Romans were so terrified of the elephants that for the two years following the events just described, although they often drew up in battle order against the enemy in the territory of Lilybaeum and often in that of Selinus, within five or six stades of them, they never dared to begin the fight, nor to descend at all onto level ground, for fear of an elephant charge.
 
 During these times they captured by siege only Therma and Lipara, keeping all the while to mountainous and difficult country.
 
@@ -936,11 +898,7 @@ Appointing as generals Gaius Atilius and Lucius Manlius, they built fifty vessel
 
 ## Book 1 Chapter 40: Roman Victory at Panormus
 
-Hasdrubal, the Carthaginian commander, seeing that the Romans had lost their nerve in the recent engagements, and learning that one of the generals had gone off to Italy with half the army, while Caecilius was lingering at Panormus with the remaining part of his force, intending to guard the allies' crops just as the harvest was at its height,
-
-took his army from Lilybaeum, set out, and encamped on the borders of the territory of Panormus. But Caecilius,
-
-seeing how overconfident he had become and eager to provoke his rashness, kept his soldiers within the gates.
+Hasdrubal, the Carthaginian commander, seeing that the Romans had lost their nerve in the recent engagements, and learning that one of the generals had gone off to Italy with half the army, while Caecilius was lingering at Panormus with the remaining part of his force, intending to guard the allies’ crops just as the harvest was at its height, took his army from Lilybaeum, set out, and encamped on the borders of the territory of Panormus. But Caecilius, seeing how overconfident he had become and eager to provoke his rashness, kept his soldiers within the gates.
 
 Emboldened by this, Hasdrubal—convinced that Caecilius did not dare to come out against him—pushed boldly forward with his whole army and marched down through the narrows into the territory of Panormus.
 
@@ -948,19 +906,15 @@ While he was destroying the crops right up to the city, Caecilius held to his in
 
 When the Carthaginians had brought their elephants and their force across, Caecilius then began sending out his light-armed troops to harass them, until he had compelled them to deploy their entire army.
 
-Seeing that what he had planned was coming to pass, he stationed some of his nimble troops in front of the wall and the ditch, ordering them, if the elephants came close, to use their missiles freely,
-
-and whenever they were hard pressed, to take refuge in the ditch and then, sallying out from it again, to hurl javelins at whichever of the beasts came near.
+Seeing that what he had planned was coming to pass, he stationed some of his nimble troops in front of the wall and the ditch, ordering them, if the elephants came close, to use their missiles freely, and whenever they were hard pressed, to take refuge in the ditch and then, sallying out from it again, to hurl javelins at whichever of the beasts came near.
 
 He ordered the workmen from the marketplace to carry the missiles and lay them down outside, along the foundation of the wall.
 
-He himself, with his standards, took up his post at the gate lying opposite the enemy's left wing, continually sending more and more men to support the skirmishers.
+He himself, with his standards, took up his post at the gate lying opposite the enemy’s left wing, continually sending more and more men to support the skirmishers.
 
-As the engagement there grew more general, the officers in charge of the elephants, vying with one another for Hasdrubal's favor and wishing the success to be their own doing, all charged the men fighting in the front, easily routed them, and chased them to the ditch.
+As the engagement there grew more general, the officers in charge of the elephants, vying with one another for Hasdrubal’s favor and wishing the success to be their own doing, all charged the men fighting in the front, easily routed them, and chased them to the ditch.
 
-But when the beasts attacked, wounded by the archers on the wall and pelted with a vigorous, thick shower of javelins and darts by the fresh troops drawn up in front of the ditch,
-
-riddled with missiles and badly wounded, they soon fell into confusion, turned upon their own side, and went charging through them, trampling and destroying the men and throwing their own ranks into disorder and tearing them apart.
+But when the beasts attacked, wounded by the archers on the wall and pelted with a vigorous, thick shower of javelins and darts by the fresh troops drawn up in front of the ditch, riddled with missiles and badly wounded, they soon fell into confusion, turned upon their own side, and went charging through them, trampling and destroying the men and throwing their own ranks into disorder and tearing them apart.
 
 Seeing this, Caecilius vigorously led out his force; and falling upon the enemy from the side, against their flank while they were in disorder, with troops that were fresh and in good order, he inflicted a heavy rout upon them, killing many and forcing the rest to flee headlong.
 
@@ -986,17 +940,11 @@ But so that what I say may not be unclear to those who do not know the region, I
 
 ## Book 1 Chapter 42: The Topography of Lilybaeum
 
-Sicily as a whole is so situated in relation to Italy and its southern extremity much as the Peloponnese is situated in relation to the rest of Greece and its outermost points,
-
-differing in just this one respect: that the Peloponnese is a peninsula, while Sicily is an island; for in the one case the intervening land can be crossed on foot, in the other only by sea.
+Sicily as a whole is so situated in relation to Italy and its southern extremity much as the Peloponnese is situated in relation to the rest of Greece and its outermost points, differing in just this one respect: that the Peloponnese is a peninsula, while Sicily is an island; for in the one case the intervening land can be crossed on foot, in the other only by sea.
 
 The shape of Sicily is a triangle, the vertices of whose angles are formed by promontories.
 
-Of these, the one inclining to the south and stretching out into the Sicilian Sea is called Pachynus;
-
-the one leaning toward the north bounds the western part of the strait and lies about twelve stades from Italy, and is called Pelorias;
-
-the third points toward Libya itself, conveniently situated opposite the promontories that lie out in front of Carthage, at a distance of about a thousand stades; it inclines toward the winter sunset, divides the Libyan from the Sardinian Sea, and is called Lilybaeum.
+Of these, the one inclining to the south and stretching out into the Sicilian Sea is called Pachynus; the one leaning toward the north bounds the western part of the strait and lies about twelve stades from Italy, and is called Pelorias; the third points toward Libya itself, conveniently situated opposite the promontories that lie out in front of Carthage, at a distance of about a thousand stades; it inclines toward the winter sunset, divides the Libyan from the Sardinian Sea, and is called Lilybaeum.
 
 On this promontory lies a city of the same name as the place, around which the Romans were then forming their siege—exceptionally well fortified with walls, and surrounded by a deep ditch and by lagoons on the seaward side, through which the approach into the harbors requires great experience and familiarity.
 
@@ -1004,9 +952,7 @@ The Romans, encamping against the city on both sides, and fencing off the space 
 
 Continually building onto what they had already constructed and extending their works, they at last brought down six towers adjoining the one mentioned, and set about battering all the rest at once with rams.
 
-As the siege was pressed with vigor and terrible force, with the towers laboring and crumbling day by day, while the works pushed ever farther into the city,
-
-there was deep dismay and consternation among the besieged—even though, apart from the civilian population, there were in the city as many as ten thousand mercenaries.
+As the siege was pressed with vigor and terrible force, with the towers laboring and crumbling day by day, while the works pushed ever farther into the city, there was deep dismay and consternation among the besieged—even though, apart from the civilian population, there were in the city as many as ten thousand mercenaries.
 
 Yet their general Himilco left undone nothing that was possible; building counter-walls here and driving counter-mines there, he caused the enemy no small difficulty.
 
@@ -1024,9 +970,9 @@ They eagerly accepted his proposal, and he immediately sent them out together wi
 
 These men called the troops together, urged them to stay loyal, and on top of that guaranteed the rewards the commander had promised to each of them. In this way they easily persuaded the men to remain at their posts.
 
-As a result, when the officers who had slipped away afterward came openly up to the walls, wanting to make their appeal and say something about the Romans' offer, the men not only refused to pay them any attention but would not even consent to listen. Instead they pelted them with stones and javelins and drove them away from the wall.
+As a result, when the officers who had slipped away afterward came openly up to the walls, wanting to make their appeal and say something about the Romans’ offer, the men not only refused to pay them any attention but would not even consent to listen. Instead they pelted them with stones and javelins and drove them away from the wall.
 
-So because of these events the Carthaginians came within a hair's breadth of losing everything, betrayed as they were by their own mercenaries.
+So because of these events the Carthaginians came within a hair’s breadth of losing everything, betrayed as they were by their own mercenaries.
 
 But Alexon, who earlier through his loyalty had preserved for the people of Agrigentum not only their city and territory but also their laws and freedom, was on this occasion the man responsible for keeping the Carthaginians from total ruin.
 
@@ -1034,11 +980,9 @@ But Alexon, who earlier through his loyalty had preserved for the people of Agri
 
 The Carthaginians at home knew nothing of all this, but they could work out for themselves what a city under siege would need. So they manned fifty ships with soldiers and gave suitable orders to the officer placed in charge of the operation, Hannibal—son of Hamilcar, a trierarch and the leading friend of Adherbal. They dispatched him in all haste, instructing him not to delay but to seize the right moment and use boldness to relieve the besieged.
 
-He put to sea with ten thousand soldiers and anchored at the islands called the Aegusae, which lie midway between Lilybaeum and Carthage, where he watched for his chance to sail. When he caught a favorable and fresh wind,
+He put to sea with ten thousand soldiers and anchored at the islands called the Aegusae, which lie midway between Lilybaeum and Carthage, where he watched for his chance to sail. When he caught a favorable and fresh wind, he spread all his sails and ran straight before the wind right at the very mouth of the harbor, making the passage with his men fully armed and ready for battle on the decks.
 
-he spread all his sails and ran straight before the wind right at the very mouth of the harbor, making the passage with his men fully armed and ready for battle on the decks.
-
-The Romans, partly taken aback by his sudden appearance and partly afraid that the force of the wind might carry them along with the enemy into their opponents' harbor, gave up any attempt to block the relief force as it sailed in. Instead they took up a position out at sea, dumbstruck at the enemy's audacity.
+The Romans, partly taken aback by his sudden appearance and partly afraid that the force of the wind might carry them along with the enemy into their opponents’ harbor, gave up any attempt to block the relief force as it sailed in. Instead they took up a position out at sea, dumbstruck at the enemy’s audacity.
 
 The whole population of the city had gathered on the walls, at once in agony over what would happen and overjoyed at this unexpected ray of hope, and they cheered on the incoming ships with clapping and shouting.
 
@@ -1070,7 +1014,7 @@ Even so, the shouting and the press of bodies were at their height right at the 
 
 For the men posted from the start by both sides for this very purpose—the one group to dislodge those at the works, the other to keep from giving them up—threw themselves into it with such rivalry and zeal, the one straining to drive the enemy off, the other refusing absolutely to yield, that in their determination they ended up dying right where they had first been stationed.
 
-Meanwhile those mixed in among them, carrying torches, tow, and fire, fell upon the engines so boldly and from every side at once that the Romans were brought to the brink of disaster, unable to overcome the enemy's assault.
+Meanwhile those mixed in among them, carrying torches, tow, and fire, fell upon the engines so boldly and from every side at once that the Romans were brought to the brink of disaster, unable to overcome the enemy’s assault.
 
 But the Carthaginian general, seeing many of his men dying in the fight while still unable to take the works—the very object of the attack—ordered his trumpeters to sound the recall.
 
@@ -1078,7 +1022,7 @@ So the Romans, after coming within an inch of losing all their siege equipment, 
 
 ## Book 1 Chapter 46: Hannibal the Rhodian
 
-After this exploit Hannibal sailed out by night with his ships, again escaping the enemy's notice, and made for Drepana to join Adherbal, the Carthaginian commander-in-chief.
+After this exploit Hannibal sailed out by night with his ships, again escaping the enemy’s notice, and made for Drepana to join Adherbal, the Carthaginian commander-in-chief.
 
 Because of the favorable location and the excellence of the harbor at Drepana, the Carthaginians always took great care to keep it well guarded.
 
@@ -1096,9 +1040,7 @@ The Roman general, wanting to keep a more careful watch over the entrance channe
 
 The ships, on both sides of the channel mouth, drew in as close to the shallows as they possibly could and lay there with oars poised, ready to ram and seize the ship as it tried to sail out.
 
-But the Rhodian made his departure openly and so far outdid the enemy in both daring and speed that he not only sailed out with his ship and crew unscathed—running past the enemy vessels as though they were standing still—
-
-but after sailing a little way ahead he even brought his ship to a halt with oars poised, as if challenging the enemy.
+But the Rhodian made his departure openly and so far outdid the enemy in both daring and speed that he not only sailed out with his ship and crew unscathed—running past the enemy vessels as though they were standing still— but after sailing a little way ahead he even brought his ship to a halt with oars poised, as if challenging the enemy.
 
 And when none of them dared to put out against him, because of the speed of his rowing, he sailed away, having with a single ship defied the entire enemy fleet.
 
@@ -1110,11 +1052,11 @@ by his recklessness. What contributed most to his boldness was that, from experi
 
 For after crossing the open sea and coming into view, he would take his bearings from the Italian side and bring the tower by the sea onto his bow in such a way that it covered all the towers of the city facing toward Libya—and this is the only way it is possible, with a following wind, to aim accurately at the mouth of the entrance channel.
 
-Trusting in the Rhodian's daring, a good many of those who knew the waters likewise grew bold enough to do the same. As a result, the Romans, frustrated by what was happening, set about trying to dam up the mouth of the harbor.
+Trusting in the Rhodian’s daring, a good many of those who knew the waters likewise grew bold enough to do the same. As a result, the Romans, frustrated by what was happening, set about trying to dam up the mouth of the harbor.
 
 For the most part their attempt accomplished nothing, because of the depth of the sea and because none of the material they dumped in would settle or hold together at all; instead, the swell and the force of the current swept whatever was thrown in aside and scattered it as soon as it began to sink.
 
-But at one spot where there were shoals a mole did, with great effort, take shape. On it a quadrireme that was running out by night ran aground and fell into the enemy's hands—a ship of exceptionally fine construction.
+But at one spot where there were shoals a mole did, with great effort, take shape. On it a quadrireme that was running out by night ran aground and fell into the enemy’s hands—a ship of exceptionally fine construction.
 
 The Romans seized it, fitted it out with a picked crew, and used it to watch for all who tried to sail in, and especially for the Rhodian.
 
@@ -1122,13 +1064,13 @@ As it happened, he had sailed in by night, and afterward was again putting out o
 
 At first he made a dash to outrun her, but as he was being overtaken by the skill of her crew, in the end he was forced to come about and engage the enemy.
 
-Getting the worst of it in the fight between marines—both because of their numbers and because the men were specially chosen—he fell into the enemy's hands.
+Getting the worst of it in the fight between marines—both because of their numbers and because the men were specially chosen—he fell into the enemy’s hands.
 
 The Romans, having captured this finely built ship as well and fitted it out with everything needed for the service, in this way put a stop to those who were boldly running in to Lilybaeum.
 
 ## Book 1 Chapter 48: The Roman Siege-Works Burnt
 
-While the besieged were actively building counterworks, they had given up any hope of damaging or destroying the enemy's equipment.
+While the besieged were actively building counterworks, they had given up any hope of damaging or destroying the enemy’s equipment.
 
 But then a windstorm arose with such violence and force, directed against the very approach-works of the engines, that it shook the galleries loose and lifted by sheer force the towers set out in front of them.
 
@@ -1136,7 +1078,7 @@ At that moment some of the Greek mercenaries, realizing how suited the circumsta
 
 He took up the suggestion and quickly got ready everything needed for the job. The young men gathered together and set fire to the works at three points.
 
-Since the structures, owing to their age, were in just the right state to catch fire easily, and since the force of the wind was blowing straight against the towers and engines themselves, the spread of the fire turned out to be vigorous and effective, while the Romans' efforts to relieve and rescue them proved in the end useless and impossible.
+Since the structures, owing to their age, were in just the right state to catch fire easily, and since the force of the wind was blowing straight against the towers and engines themselves, the spread of the fire turned out to be vigorous and effective, while the Romans’ efforts to relieve and rescue them proved in the end useless and impossible.
 
 So great was the consternation the scene caused among those trying to help that they could neither think clearly nor see what was happening. Blinded by the soot and sparks blown into their faces, and by the sheer volume of smoke, quite a few perished and fell, unable even to get close enough to fight the fire.
 
@@ -1152,15 +1094,11 @@ Meanwhile the men in Lilybaeum rebuilt the section of wall that had fallen and n
 
 ## Book 1 Chapter 49: The Roman Fleet Sails for Drepana
 
-When news of these events reached Rome, followed by further reports that most of the fleet's crews had been lost, both at the works and in the conduct of the siege generally,
-
-they hurriedly enrolled sailors, and once they had gathered about ten thousand, sent them off to Sicily.
+When news of these events reached Rome, followed by further reports that most of the fleet’s crews had been lost, both at the works and in the conduct of the siege generally, they hurriedly enrolled sailors, and once they had gathered about ten thousand, sent them off to Sicily.
 
 These men crossed the strait and reached the camp on foot. The Roman general, Publius Claudius, then assembled his military tribunes and said that now was the time to sail against Drepana with the whole fleet.
 
-For Adherbal, the Carthaginian commander stationed there, was unprepared for what was coming: he did not know that the new crews had arrived, and he was convinced that the Roman fleet could not put to sea because of the losses of men suffered during the siege. When they readily agreed,
-
-he at once put on board both the existing crews and those that had recently arrived, and for marines he picked the best volunteers from the whole army—seeing that the voyage was a short one and the prospect of gain plainly at hand.
+For Adherbal, the Carthaginian commander stationed there, was unprepared for what was coming: he did not know that the new crews had arrived, and he was convinced that the Roman fleet could not put to sea because of the losses of men suffered during the siege. When they readily agreed, he at once put on board both the existing crews and those that had recently arrived, and for marines he picked the best volunteers from the whole army—seeing that the voyage was a short one and the prospect of gain plainly at hand.
 
 With these preparations made, he put to sea around midnight, unnoticed by the enemy. At first he sailed in close order, keeping the land on his right.
 
@@ -1188,9 +1126,7 @@ Even so, as each ship ran back out the captains kept forming them up close along
 
 Publius himself had from the first been sailing astern of the whole fleet, but now, turning aside during the maneuver toward the open sea, he took up his position on the left wing of the entire force.
 
-At the same moment Adherbal, sailing past the left of the enemy [the Romans] with five ships, brought his own ship to a halt facing the enemy on the seaward side;
-
-and at the same time, through his officers, he passed the word to each of the ships coming up behind to do the same as those who joined the line ahead of them.
+At the same moment Adherbal, sailing past the left of the enemy [the Romans] with five ships, brought his own ship to a halt facing the enemy on the seaward side; and at the same time, through his officers, he passed the word to each of the ships coming up behind to do the same as those who joined the line ahead of them.
 
 When they had all formed into a single front, he gave the signal through the agreed tokens and at first advanced in good order, while the Romans stayed close to the land because they were waiting for the ships still running out from the harbor.
 
@@ -1200,21 +1136,17 @@ As a result, the Romans were at a great disadvantage right up against the shore 
 
 ...joining battle. When the two fleets were close to one another, the signals were raised on each of the flagships and they engaged.
 
-At first the contest was evenly matched, since both sides were using the best of their land troops as marines on board;
-
-but the Carthaginians steadily gained the upper hand, since throughout the whole engagement they held many advantages.
+At first the contest was evenly matched, since both sides were using the best of their land troops as marines on board; but the Carthaginians steadily gained the upper hand, since throughout the whole engagement they held many advantages.
 
 They were far superior in speed, owing to the better construction of their ships and the fitness of their crews, and the lay of the ground greatly helped them, since they had drawn up their line with the open sea behind them.
 
-For whenever any of them were hard pressed by the enemy, they could withdraw safely to the rear, thanks to their speed, into the open water;
+For whenever any of them were hard pressed by the enemy, they could withdraw safely to the rear, thanks to their speed, into the open water; and then, wheeling about against the foremost of their pursuers—sometimes circling around them, sometimes striking them broadside as the Roman ships swung clumsily about because of their weight and the inexperience of their crews—they kept ramming again and again and sank many of the vessels.
 
-and then, wheeling about against the foremost of their pursuers—sometimes circling around them, sometimes striking them broadside as the Roman ships swung clumsily about because of their weight and the inexperience of their crews—they kept ramming again and again and sank many of the vessels.
-
-And whenever one of their allies was in danger, they readily came to the rescue, out of harm's way and in safety, since they made their passage along the sterns of their own ships on the seaward side.
+And whenever one of their allies was in danger, they readily came to the rescue, out of harm’s way and in safety, since they made their passage along the sterns of their own ships on the seaward side.
 
 For the Romans the very opposite happened. Those who were hard pressed had no way to retreat to the rear, since they were fighting close to the shore, and any ship that was crowded by the one in front of it either ran onto the shallows and stuck fast in the stern, or was driven against the land and ran aground.
 
-To sail through the gaps in the enemy's line and to appear astern of ships already engaged with others—the most effective maneuver in a sea-battle—was impossible for them, both because of the heaviness of their ships and, still more, because of the inexperience of their crews.
+To sail through the gaps in the enemy’s line and to appear astern of ships already engaged with others—the most effective maneuver in a sea-battle—was impossible for them, both because of the heaviness of their ships and, still more, because of the inexperience of their crews.
 
 Nor were they able to come to the aid from astern of those who needed it, because they were penned in against the shore and there was not even a little space left for those who wished to help one in distress.
 
@@ -1224,9 +1156,7 @@ As for the remaining ships, ninety-three in number, the Carthaginians took posse
 
 ## Book 1 Chapter 52: Roman Transports for the Camp
 
-The sea-battle having turned out so, Adherbal won high standing among the Carthaginians, as having succeeded through himself and through his own foresight and daring;
-
-while Publius lost his good name among the Romans and was bitterly attacked, as having handled affairs rashly and without judgment, and as having, so far as one man could, brought Rome into no small disasters.
+The sea-battle having turned out so, Adherbal won high standing among the Carthaginians, as having succeeded through himself and through his own foresight and daring; while Publius lost his good name among the Romans and was bitterly attacked, as having handled affairs rashly and without judgment, and as having, so far as one man could, brought Rome into no small disasters.
 
 For this reason he was later put on trial and exposed to heavy penalties and grave danger.
 
@@ -1242,11 +1172,7 @@ He himself remained at Syracuse, waiting for those that were lagging behind on t
 
 ## Book 1 Chapter 53: Carthalo Attacks the Roman Transports
 
-About this same time Adherbal sent off to Carthage the men captured in the sea-battle and the captured ships,
-
-and gave his colleague Carthalo thirty ships, in addition to the seventy with which he himself had sailed in, and sent him off
-
-with orders to fall suddenly upon the enemy's ships lying at anchor off Lilybaeum, to seize all he could, and to set fire to the rest.
+About this same time Adherbal sent off to Carthage the men captured in the sea-battle and the captured ships, and gave his colleague Carthalo thirty ships, in addition to the seventy with which he himself had sailed in, and sent him off with orders to fall suddenly upon the enemy’s ships lying at anchor off Lilybaeum, to seize all he could, and to set fire to the rest.
 
 Carthalo obeyed, made his attack just before dawn, and began burning some of the ships and towing others away, so that great confusion arose throughout the Roman camp.
 
@@ -1258,11 +1184,11 @@ The Carthaginian admiral, after towing off a few of the vessels and shattering o
 
 When his scouts reported that a considerable number of ships of all kinds were bearing down and drawing near, he put out to sea and sailed to meet them, eager to engage because his earlier success had made him contemptuous of the Romans.
 
-In the same way, the light boats accustomed to sail ahead of the squadron reported the enemy's approach to the quaestors who had been sent on in advance from Syracuse.
+In the same way, the light boats accustomed to sail ahead of the squadron reported the enemy’s approach to the quaestors who had been sent on in advance from Syracuse.
 
 These men, judging that they were not strong enough for a sea-battle, came to anchor off a small town subject to them—one without a harbor, but with roadsteads and headlands jutting out from the land that conveniently enclosed them.
 
-There they made their landing and, setting up the catapults and stone-throwers from the town, waited for the enemy's attack.
+There they made their landing and, setting up the catapults and stone-throwers from the town, waited for the enemy’s attack.
 
 The Carthaginians, on drawing near, at first set about blockading them, supposing that the men, terrified, would withdraw into the little town and leave them to take possession of the ships in safety.
 
@@ -1274,27 +1200,19 @@ The commander left behind at Syracuse, once he had finished what he intended, ro
 
 The Carthaginian admiral, when his scouts again signaled the appearance of the enemy, put out and sailed in haste, wishing to engage them as far as possible from their own ships.
 
-Junius, sighting the Carthaginian fleet and the number of its vessels from a long way off, dared neither to engage nor was he any longer able to escape by flight, since the enemy were close at hand; so he turned aside to a rough and altogether treacherous stretch of coast and came to anchor there,
-
-judging it preferable to suffer whatever he must rather than let his squadron, men and all, fall into the enemy's hands.
+Junius, sighting the Carthaginian fleet and the number of its vessels from a long way off, dared neither to engage nor was he any longer able to escape by flight, since the enemy were close at hand; so he turned aside to a rough and altogether treacherous stretch of coast and came to anchor there, judging it preferable to suffer whatever he must rather than let his squadron, men and all, fall into the enemy’s hands.
 
 The Carthaginian admiral, seeing what he had done, rejected the idea of risking a battle and bringing his ships up to such dangerous ground; instead he seized a certain headland and anchored there between the two enemy squadrons, keeping watch and giving his attention to both.
 
 But when a storm came on and a more general disturbance loomed up from the sea, the Carthaginian pilots, foreseeing what was coming from their knowledge of the locality and of seamanship and predicting the outcome, persuaded Carthalo to flee the storm and round the headland of Pachynus.
 
-He sensibly took their advice, and these men, after great toil and barely getting around the headland, anchored in safety;
-
-but the Roman fleets, with the storm coming on and the coast being utterly without harbors, were so completely destroyed that not even the wreckage proved of any use—both squadrons alike were utterly and unaccountably ruined.
+He sensibly took their advice, and these men, after great toil and barely getting around the headland, anchored in safety; but the Roman fleets, with the storm coming on and the coast being utterly without harbors, were so completely destroyed that not even the wreckage proved of any use—both squadrons alike were utterly and unaccountably ruined.
 
 ## Book 1 Chapter 55: The Romans Take Mount Eryx
 
-When this had happened, the fortunes of the Carthaginians rose again and their hopes once more grew more favorable;
+When this had happened, the fortunes of the Carthaginians rose again and their hopes once more grew more favorable; while the Romans, who had earlier suffered setbacks only up to a point, now withdrew entirely from the sea but kept control of the open country. The Carthaginians were masters of the sea, yet did not wholly give up hope of the land.
 
-while the Romans, who had earlier suffered setbacks only up to a point, now withdrew entirely from the sea but kept control of the open country. The Carthaginians were masters of the sea, yet did not wholly give up hope of the land.
-
-After this everyone—both those at Rome and the troops around Lilybaeum—was indignant at the situation as a whole, on account of the disasters described above;
-
-yet they did not abandon their resolve to carry on the siege, but the one side kept up supplies by land without excuse, while the other persisted in the siege as far as they were able.
+After this everyone—both those at Rome and the troops around Lilybaeum—was indignant at the situation as a whole, on account of the disasters described above; yet they did not abandon their resolve to carry on the siege, but the one side kept up supplies by land without excuse, while the other persisted in the siege as far as they were able.
 
 Junius, brought back to the camp after the shipwreck and deeply distressed, was eager to make some new move and to do what was needed, anxious to recover from the reverse that had occurred.
 
@@ -1302,13 +1220,11 @@ And so, when even a slight opportunity offered, he seized Eryx by a surprise str
 
 Eryx is a mountain by the sea in Sicily, on the side that faces Italy, between Drepana and Panormus—but closer to and almost adjoining Drepana—and in size it is by far the greatest of the mountains in Sicily except for Aetna.
 
-On its very summit, which is flat, stands the temple of Erycine Aphrodite, which is by common agreement the most distinguished of all the temples in Sicily for its wealth and its general grandeur;
-
-and the city is set just below the summit, with a very long and steep approach on every side.
+On its very summit, which is flat, stands the temple of Erycine Aphrodite, which is by common agreement the most distinguished of all the temples in Sicily for its wealth and its general grandeur; and the city is set just below the summit, with a very long and steep approach on every side.
 
 He posted a garrison on the summit, and likewise watched the approach from Drepana, guarding both points carefully—and still more the line of ascent—convinced that in this way he would securely hold both the city and the whole mountain.
 
-## Book 1 Chapter 56: Hamilcar Barca's Seven Years in Hercte
+## Book 1 Chapter 56: Hamilcar Barca’s Seven Years in Hercte
 
 After this the Carthaginians appointed as their commander Hamilcar, surnamed Barca, and put the affairs of the fleet into his hands.
 
@@ -1324,13 +1240,9 @@ It also has within it a knoll that serves at once as a citadel and as a fine loo
 
 It commands as well a harbor well situated for the run from Drepana and Lilybaeum to Italy, in which there is an abundant supply of water.
 
-It has in all three approaches, all difficult—two from the land and one from the sea. Encamping here at great hazard, Hamilcar,
+It has in all three approaches, all difficult—two from the land and one from the sea. Encamping here at great hazard, Hamilcar, though he had no friendly city of his own and clung to no other hope of any kind, but had thrown himself into the very midst of the enemy, nevertheless made trouble for the Romans in struggles and dangers that were neither small nor trivial.
 
-though he had no friendly city of his own and clung to no other hope of any kind, but had thrown himself into the very midst of the enemy, nevertheless made trouble for the Romans in struggles and dangers that were neither small nor trivial.
-
-For, first, using this as his base, he ravaged by sea the coast of Italy as far as the territory of Cumae;
-
-and second, on land, when the Romans had encamped opposite him before the city of Panormus at a distance of about five stades, he engaged in many and varied combats on land for nearly three years. About these it is not possible, in writing...
+For, first, using this as his base, he ravaged by sea the coast of Italy as far as the territory of Cumae; and second, on land, when the Romans had encamped opposite him before the city of Panormus at a distance of about five stades, he engaged in many and varied combats on land for nearly three years. About these it is not possible, in writing...
 
 ## Book 1 Chapter 57: The Two Sides Evenly Matched
 
@@ -1374,9 +1286,7 @@ So too the Romans and Carthaginians, worn out by their labors through the unbrok
 
 —by the long years of taxes and expenses. The Romans were fighting on with the same desperate spirit. For nearly five years now they had entirely withdrawn from operations at sea, both because of their reverses there and because they had become convinced they would decide the war by their land forces alone.
 
-But seeing now that the matter was not going forward as they had reckoned—chiefly because of the daring of the Carthaginian commander—they resolved for a third time to stake their hopes on naval power,
-
-believing that by this plan, if they seized the right moment for the attempt, they could in this way alone bring the war to a successful close. And so in the end they did.
+But seeing now that the matter was not going forward as they had reckoned—chiefly because of the daring of the Carthaginian commander—they resolved for a third time to stake their hopes on naval power, believing that by this plan, if they seized the right moment for the attempt, they could in this way alone bring the war to a successful close. And so in the end they did.
 
 The first time, they had quit the sea, yielding to the blows of fortune; the second time, they had been worsted in the sea-battle off Drepana.
 
@@ -1386,13 +1296,11 @@ The undertaking was, for the most part, an act of sheer determination. The publi
 
 According to the resources at their command, men came forward singly, in pairs, or in threes to furnish a fully fitted quinquereme, on the understanding that they would recover the cost if affairs went well.
 
-In this way two hundred quinqueremes were quickly made ready, built on the model of the Rhodian's ship. The Romans then appointed Gaius Lutatius as commander and sent him out at the start of summer.
+In this way two hundred quinqueremes were quickly made ready, built on the model of the Rhodian’s ship. The Romans then appointed Gaius Lutatius as commander and sent him out at the start of summer.
 
 He appeared unexpectedly off the coasts of Sicily and seized both the harbor at Drepana and the anchorages near Lilybaeum, since the entire Carthaginian fleet had withdrawn home.
 
-He threw up works around the city of Drepana and made his other preparations for the siege; and while he pressed on with this, doing everything in his power,
-
-he also kept watch for the arrival of the Carthaginian fleet, and, mindful of his original purpose—that only through a sea-battle could the whole issue be decided—he let no time be wasted or left idle.
+He threw up works around the city of Drepana and made his other preparations for the siege; and while he pressed on with this, doing everything in his power, he also kept watch for the arrival of the Carthaginian fleet, and, mindful of his original purpose—that only through a sea-battle could the whole issue be decided—he let no time be wasted or left idle.
 
 Instead, each day he held practice drills and exercises for the crews suited to his plan, and by attending carefully to the rest of their daily regimen, he turned his sailors, in a very short time, into trained athletes ready for the task before them.
 
@@ -1404,23 +1312,21 @@ Loading them with grain and other provisions, they dispatched the fleet, determi
 
 They appointed Hanno commander of the naval force. He put out to sea and made landfall at the island called Holy Isle, intent on slipping across to Eryx unobserved by the enemy. There he meant to unload his cargo and lighten his ships, then take on board as marines the suitable men from among the mercenaries, along with Barcas, and only then to engage the enemy.
 
-But Lutatius grasped the arrival of Hanno's force and worked out their intention. Taking the best men from his land army, he sailed to the island of Aegusa, which lies off Lilybaeum.
+But Lutatius grasped the arrival of Hanno’s force and worked out their intention. Taking the best men from his land army, he sailed to the island of Aegusa, which lies off Lilybaeum.
 
 There he addressed his forces with words fitting the occasion and informed the helmsmen that a sea-battle would take place the next day.
 
 Toward dawn, as day was just breaking, he saw that the wind was bearing down fresh and full astern of the enemy, while for himself the run out against the wind would be difficult, the sea being hollow and rough. At first he was at a loss as to what to do in the circumstances.
 
-But he reasoned that if he risked battle while the storm held, he would be fighting only against Hanno, against the bare naval crews, and against ships still heavily laden;
+But he reasoned that if he risked battle while the storm held, he would be fighting only against Hanno, against the bare naval crews, and against ships still heavily laden; whereas if he waited for fair weather and held back, letting the enemy cross over and join their land forces, he would be fighting against ships that were nimble and lightened, against the best men of the land armies, and—most formidable of all—against the daring of Hamilcar, than which nothing at that time was more to be feared.
 
-whereas if he waited for fair weather and held back, letting the enemy cross over and join their land forces, he would be fighting against ships that were nimble and lightened, against the best men of the land armies, and—most formidable of all—against the daring of Hamilcar, than which nothing at that time was more to be feared.
-
-He therefore decided not to let the present opportunity slip; and seeing the enemy's ships running under sail, he put out in haste.
+He therefore decided not to let the present opportunity slip; and seeing the enemy’s ships running under sail, he put out in haste.
 
 His crews, with their fine physical condition, rode the swell with ease, and he quickly drew up his fleet in a single line, prow facing—
 
 ## Book 1 Chapter 61: The Battle of Aegusa
 
-—the enemy. The Carthaginians, seeing that the Romans were blocking their crossing, lowered their masts and, after each ship's company had exhorted one another, closed with their opponents.
+—the enemy. The Carthaginians, seeing that the Romans were blocking their crossing, lowered their masts and, after each ship’s company had exhorted one another, closed with their opponents.
 
 Since the state of preparation on each side was the exact opposite of what it had been in the sea-battle off Drepana, the outcome of the fight for each side naturally turned out the opposite as well.
 
@@ -1452,9 +1358,9 @@ For it is the mark of one and the same commander to be able to see both the mome
 
 Lutatius readily accepted the overtures, since he was well aware that his own side was worn down and already exhausted by the war; and so it came about that the conflict was brought to an end, on terms drawn up roughly as follows:
 
-"On these conditions there shall be friendship between the Carthaginians and the Romans, provided the Roman people also approve. The Carthaginians shall withdraw from the whole of Sicily, and shall not make war on Hiero, nor bear arms against the Syracusans or against the allies of the Syracusans.
+“On these conditions there shall be friendship between the Carthaginians and the Romans, provided the Roman people also approve. The Carthaginians shall withdraw from the whole of Sicily, and shall not make war on Hiero, nor bear arms against the Syracusans or against the allies of the Syracusans.
 
-The Carthaginians shall give back to the Romans all prisoners without ransom. The Carthaginians shall pay to the Romans, over twenty years, two thousand two hundred Euboic talents of silver."
+The Carthaginians shall give back to the Romans all prisoners without ransom. The Carthaginians shall pay to the Romans, over twenty years, two thousand two hundred Euboic talents of silver.”
 
 ## Book 1 Chapter 63: The Longest and Harshest War in History
 
@@ -1502,9 +1408,7 @@ In the course of it they endured many great terrors, and in the end were in dang
 
 It is worth dwelling on this war for several reasons, but, in keeping with my original plan, I shall give an account of it only in summary and briefly.
 
-For the war commonly called the "truceless" war—what its nature and character were—one would best come to understand from what happened then;
-
-and those who employ mercenary forces would see most vividly, from the situation of that time, what they must foresee and guard against well in advance; and besides this, how greatly, and by how much, characters that are mixed and barbarous differ from those reared under education, laws, and civic customs.
+For the war commonly called the “truceless” war—what its nature and character were—one would best come to understand from what happened then; and those who employ mercenary forces would see most vividly, from the situation of that time, what they must foresee and guard against well in advance; and besides this, how greatly, and by how much, characters that are mixed and barbarous differ from those reared under education, laws, and civic customs.
 
 But most important of all, one would grasp, from what was done in those days, the causes from which the war between the Romans and Carthaginians in the time of Hannibal arose.
 
@@ -1514,9 +1418,7 @@ Since the causes of that war are still disputed not only among historians but al
 
 As soon as the aforesaid settlement had been carried out, Barcas brought the forces around Eryx back to Lilybaeum and immediately laid down his command; and Gesco, the commandant of the city, set about transporting the soldiers across into Libya.
 
-Foreseeing what was coming, he prudently embarked them in separate detachments, leaving intervals between each dispatch,
-
-with the aim of giving the Carthaginians time, so that those who had sailed across and been paid the arrears of their wages might get clear of Carthage and reach home before the next group to be ferried over arrived to overtake them.
+Foreseeing what was coming, he prudently embarked them in separate detachments, leaving intervals between each dispatch, with the aim of giving the Carthaginians time, so that those who had sailed across and been paid the arrears of their wages might get clear of Carthage and reach home before the next group to be ferried over arrived to overtake them.
 
 Gesco, then, holding to this idea, was managing the dispatch in this way.
 
@@ -1538,15 +1440,11 @@ And all of them, recalling the promises their generals had made to encourage the
 
 ## Book 1 Chapter 67: The Beginning of the Outbreak
 
-…of the redress they expected. So, as soon as they had all assembled at Sicca, and Hanno—who was then the Carthaginian general in Libya—arrived and, far from fulfilling their hopes and the promises made to them, spoke instead of the weight of the tribute and the general financial straits of the city, and tried to get them to forgo even part of the wages acknowledged to be owed them,
-
-at once dissension and faction arose, and continual gatherings took place, sometimes by nationality, sometimes of them all together.
+…of the redress they expected. So, as soon as they had all assembled at Sicca, and Hanno—who was then the Carthaginian general in Libya—arrived and, far from fulfilling their hopes and the promises made to them, spoke instead of the weight of the tribute and the general financial straits of the city, and tried to get them to forgo even part of the wages acknowledged to be owed them, at once dissension and faction arose, and continual gatherings took place, sometimes by nationality, sometimes of them all together.
 
 And since they were neither of one race nor of one tongue, the camp was full of disorder, uproar, and what is called sheer confusion.
 
-For the Carthaginians, always relying on varied mercenary forces, are right in their aim, by making the army up of many races, that the men should not quickly conspire and become disobedient, nor be hard for their commanders to overawe;
-
-but when anger, or slander, or faction has arisen, they utterly fail in instructing, calming, and bringing back to their senses men who have gone astray.
+For the Carthaginians, always relying on varied mercenary forces, are right in their aim, by making the army up of many races, that the men should not quickly conspire and become disobedient, nor be hard for their commanders to overawe; but when anger, or slander, or faction has arisen, they utterly fail in instructing, calming, and bringing back to their senses men who have gone astray.
 
 For such forces, once they have fallen into anger and mutual suspicion toward anyone, no longer behave with merely human wickedness, but in the end turn savage like beasts and take on a frenzied disposition.
 
@@ -1568,17 +1466,11 @@ In the end, then, they rejected Hanno, lost confidence in their individual offic
 
 The Carthaginians then saw their own folly before their eyes, when it was no longer of any use.
 
-For they had blundered greatly in massing so large a body of mercenaries in one place while having no hope of military service to fall back on in their own citizen forces;
+For they had blundered greatly in massing so large a body of mercenaries in one place while having no hope of military service to fall back on in their own citizen forces; and, worse still, they had handed over the children, the wives, and along with them the baggage—people whom they might have kept as hostages, thereby deliberating more safely about the situation and finding the mercenaries more compliant to their appeals.
 
-and, worse still, they had handed over the children, the wives, and along with them the baggage—people whom they might have kept as hostages, thereby deliberating more safely about the situation and finding the mercenaries more compliant to their appeals.
+Nonetheless, terrified by the encampment, they endured everything in their eagerness to appease the men’s anger; they sent out abundant supplies of provisions and sold them just as the men wished and at whatever prices they fixed, and they kept dispatching members of the senate as envoys, promising to do whatever the men demanded, so far as it lay in their power.
 
-Nonetheless, terrified by the encampment, they endured everything in their eagerness to appease the men's anger;
-
-they sent out abundant supplies of provisions and sold them just as the men wished and at whatever prices they fixed, and they kept dispatching members of the senate as envoys, promising to do whatever the men demanded, so far as it lay in their power.
-
-But there was much being newly devised each day among the mercenaries, since they had taken courage and observed the dismay and panic of the Carthaginians,
-
-and had grown arrogant and convinced, on account of the dangers they had earlier faced in Sicily against the Roman armies, that not only would the Carthaginians never look them in the eye under arms, but that hardly anyone else among men would either.
+But there was much being newly devised each day among the mercenaries, since they had taken courage and observed the dismay and panic of the Carthaginians, and had grown arrogant and convinced, on account of the dangers they had earlier faced in Sicily against the Roman armies, that not only would the Carthaginians never look them in the eye under arms, but that hardly anyone else among men would either.
 
 So, as soon as the Carthaginians had conceded their claims about the wages, they at once pressed further and demanded the value of the horses they had lost.
 
@@ -1610,23 +1502,19 @@ Taking the Libyans aside, he pointed out to them that, once the other races had 
 
 The crowd was quickly roused by such arguments, and, seizing on the slight pretext that Gesco was paying the wages but deferring the values of the grain and the horses, they at once rushed together into an assembly.
 
-And while Spendius and Mathōs slandered and accused both Gesco and the Carthaginians, the men listened and gave careful attention to what was said. But if anyone else came forward to give different advice,
-
-they did not even wait to learn whether he had come to oppose or to support Spendius and his party, but at once stoned him to death.
+And while Spendius and Mathōs slandered and accused both Gesco and the Carthaginians, the men listened and gave careful attention to what was said. But if anyone else came forward to give different advice, they did not even wait to learn whether he had come to oppose or to support Spendius and his party, but at once stoned him to death.
 
 In this way they killed many, both officers and private soldiers, in the course of these gatherings.
 
-And the only word they all understood in common was this—"throw"—because of the constant practice of it. They did this especially when they had gotten drunk after their midday meals and rushed together.
+And the only word they all understood in common was this—“throw”—because of the constant practice of it. They did this especially when they had gotten drunk after their midday meals and rushed together.
 
-So whenever anyone began to shout "throw," it came so swiftly and from all sides at once that no one who had once stepped forward could escape.
+So whenever anyone began to shout “throw,” it came so swiftly and from all sides at once that no one who had once stepped forward could escape.
 
 And so, since for this reason no one any longer dared to offer advice, they appointed for themselves…
 
 ## Book 1 Chapter 70: Gesco and His Staff Arrested
 
-…as their generals Mathōs and Spendius. Gesco saw the whole disorder and turmoil, but, valuing above all the interest of his country and recognizing that, if these men were driven to savagery, the Carthaginians would clearly be in danger of losing everything,
-
-he persisted and held firm, sometimes taking their leaders in hand, sometimes gathering the men by nationality and appealing to them.
+…as their generals Mathōs and Spendius. Gesco saw the whole disorder and turmoil, but, valuing above all the interest of his country and recognizing that, if these men were driven to savagery, the Carthaginians would clearly be in danger of losing everything, he persisted and held firm, sometimes taking their leaders in hand, sometimes gathering the men by nationality and appealing to them.
 
 However, the Libyans had not yet received their grain allowances, and, believing that these ought to have been paid to them, they came up insolently; and Gesco, wishing to rebuke their impudence, told them to go and ask their general Mathōs for it.
 
@@ -1670,7 +1558,7 @@ And of their successive generals they admired and honored not those who treated 
 
 So it was that the men needed not even any urging to revolt, but only a single messenger.
 
-And the women, who in earlier times had looked on while their husbands and parents were being led off for the levies, now bound themselves by oath, town by town, to hide none of their possessions; and, stripping off their ornaments, they contributed them without reservation toward the soldiers' pay.
+And the women, who in earlier times had looked on while their husbands and parents were being led off for the levies, now bound themselves by oath, town by town, to hide none of their possessions; and, stripping off their ornaments, they contributed them without reservation toward the soldiers’ pay.
 
 In this way they provided Mathos and Spendius with such ample means that they were able not only to pay off the wages still owed to the mercenaries, as they had promised when inciting the revolt, but also to keep themselves well supplied for the future.
 
@@ -1688,21 +1576,17 @@ For Carthage itself lies in a gulf, projecting outward like a peninsula by its s
 
 The isthmus that joins it to Libya is about twenty-five stades wide. On the side of this isthmus that faces the open sea, and at no great distance, lies the city of Utica; on the other side, beside the lake, lies Tunes.
 
-Encamping at both of these points, the mercenaries had now cut the Carthaginians off from the countryside and went on to lay plans against the city itself,
-
-approaching the wall sometimes by day and sometimes by night, and throwing those inside into utter fear and confusion...
+Encamping at both of these points, the mercenaries had now cut the Carthaginians off from the countryside and went on to lay plans against the city itself, approaching the wall sometimes by day and sometimes by night, and throwing those inside into utter fear and confusion...
 
 ## Book 1 Chapter 74: Failures of Hanno
 
-...they struck panic into those within. As for Hanno, he was capable enough when it came to preparations, for he had a natural talent for this side of things;
-
-but once he set out with his army he was a different man, for he made poor use of his opportunities and handled affairs as a whole with inexperience and sluggishness.
+...they struck panic into those within. As for Hanno, he was capable enough when it came to preparations, for he had a natural talent for this side of things; but once he set out with his army he was a different man, for he made poor use of his opportunities and handled affairs as a whole with inexperience and sluggishness.
 
 Thus, when he first marched to the relief of the besieged at Utica and struck terror into the enemy with the multitude of his beasts—for he had no fewer than a hundred elephants—and then, having gained the beginning of a decisive advantage, he made such bad use of it that he came close to destroying the besieged as well.
 
-For he brought out from the city the catapults, the missiles, and, in short, all the equipment for the siege, and, encamping before the city, undertook to attack the enemy's stockade.
+For he brought out from the city the catapults, the missiles, and, in short, all the equipment for the siege, and, encamping before the city, undertook to attack the enemy’s stockade.
 
-When the beasts forced their way into the enemy's camp, the foe, unable to withstand their weight and the force of their charge, all fled from the encampment.
+When the beasts forced their way into the enemy’s camp, the foe, unable to withstand their weight and the force of their charge, all fled from the encampment.
 
 Many of them died from wounds inflicted by the beasts, while the part that survived took up position on a certain steep, thickly wooded hill, trusting in the natural security of the ground.
 
@@ -1712,23 +1596,15 @@ So he neglected his soldiers and the camp as a whole, and went into the city him
 
 But the mercenaries who had taken refuge on the hill had been bred up in the daring tactics of Barcas, and were accustomed from their battles in Sicily to retreat at one moment and then, in a sudden reversal, to attack the enemy again, often several times in the same day.
 
-Now, seeing that the general had withdrawn into the city, and that most of the men, because of their victory, had grown careless and were drifting away from the camp,
+Now, seeing that the general had withdrawn into the city, and that most of the men, because of their victory, had grown careless and were drifting away from the camp, they formed up together and fell upon the stockade. They killed many of the soldiers and forced the rest to flee in disgrace beneath the city walls and gates, and they seized all the baggage and all the siege equipment of the besieged, which Hanno, on top of everything else, had brought out from the city and so delivered into the hands of the enemy.
 
-they formed up together and fell upon the stockade. They killed many of the soldiers and forced the rest to flee in disgrace beneath the city walls and gates,
-
-and they seized all the baggage and all the siege equipment of the besieged, which Hanno, on top of everything else, had brought out from the city and so delivered into the hands of the enemy.
-
-And it was not only on this occasion that he behaved so sluggishly: a few days later, when the enemy had encamped opposite him near a place called Gorza, he had two chances to win in pitched battle and two more by surprise attack—
-
-since the enemy were encamped close beside him—yet he seems to have thrown both of these away rashly and against all reason.
+And it was not only on this occasion that he behaved so sluggishly: a few days later, when the enemy had encamped opposite him near a place called Gorza, he had two chances to win in pitched battle and two more by surprise attack— since the enemy were encamped close beside him—yet he seems to have thrown both of these away rashly and against all reason.
 
 ## Book 1 Chapter 75: Hamilcar Barcas Becomes Commander in Chief
 
-For this reason the Carthaginians, seeing that he was mismanaging affairs, once more placed Hamilcar, surnamed Barcas, at the head of things,
+For this reason the Carthaginians, seeing that he was mismanaging affairs, once more placed Hamilcar, surnamed Barcas, at the head of things, and sent him out as general for the war then in progress, giving him seventy elephants, the mercenaries that had been collected, the men who had deserted from the enemy, and along with these the citizen cavalry and infantry—so that the whole force came to about ten thousand men.
 
-and sent him out as general for the war then in progress, giving him seventy elephants, the mercenaries that had been collected, the men who had deserted from the enemy, and along with these the citizen cavalry and infantry—so that the whole force came to about ten thousand men.
-
-At his very first sortie he struck the enemy with dismay by the unexpectedness of his move, broke their spirit, raised the siege of Utica, and showed himself worthy of his earlier deeds and of the people's high expectations.
+At his very first sortie he struck the enemy with dismay by the unexpectedness of his move, broke their spirit, raised the siege of Utica, and showed himself worthy of his earlier deeds and of the people’s high expectations.
 
 What he accomplished in this operation was as follows. The hills that bridge the neck of land joining Carthage to Libya are hard to cross, and have only man-made passes leading out to the countryside; and it happened that Mathos had occupied with garrisons all the conveniently placed points along these hills.
 
@@ -1738,7 +1614,7 @@ The result was that the Carthaginians could not even set foot in the country wit
 
 With his eye on these difficulties, and testing every plan and every opportunity because of the trouble of getting out, Hamilcar devised the following scheme.
 
-He had observed that at the river's mouth, where it discharges into the sea, the opening became silted up under certain conditions of wind, so that the passage right at the mouth turned shallow and marsh-like. He therefore got everything ready in the camp for the march out, keeping his plan hidden within himself, and waited for this condition to occur.
+He had observed that at the river’s mouth, where it discharges into the sea, the opening became silted up under certain conditions of wind, so that the passage right at the mouth turned shallow and marsh-like. He therefore got everything ready in the camp for the march out, keeping his plan hidden within himself, and waited for this condition to occur.
 
 When the moment presented itself, he set out by night and, unobserved by anyone, brought his force across the place just mentioned by daybreak.
 
@@ -1764,15 +1640,13 @@ In the end, some of them ran into their own men coming up behind, stumbled, and 
 
 So about six thousand of the Libyans and the foreign troops perished, and around two thousand were taken prisoner; the rest escaped, some to the town by the bridge, others to the encampment near Utica.
 
-Having won the advantage in the manner described, Hamilcar followed hard on the enemy's heels. He took the town at the bridge by assault, the enemy there abandoning it and fleeing to Tunes; and, marching through the rest of the country, he brought some towns over to his side and stormed most of the others by force.
+Having won the advantage in the manner described, Hamilcar followed hard on the enemy’s heels. He took the town at the bridge by assault, the enemy there abandoning it and fleeing to Tunes; and, marching through the rest of the country, he brought some towns over to his side and stormed most of the others by force.
 
 He thus instilled a little courage and boldness into the Carthaginians, freeing them to some degree from the despair into which they had fallen.
 
 ## Book 1 Chapter 77: Mathos Harasses Hamilcar
 
-Mathos himself, meanwhile, remained at the siege of Hippo Zarytus, but advised Autaritus, the leader of the Gauls, and Spendius to keep close to the enemy,
-
-avoiding the plains because of the great number of cavalry and beasts on the enemy's side, but marching parallel with them along the foothills and joining in attacks whenever some difficulty befell them.
+Mathos himself, meanwhile, remained at the siege of Hippo Zarytus, but advised Autaritus, the leader of the Gauls, and Spendius to keep close to the enemy, avoiding the plains because of the great number of cavalry and beasts on the enemy’s side, but marching parallel with them along the foothills and joining in attacks whenever some difficulty befell them.
 
 Along with these plans, he also sent word to the Numidians and the Libyans, begging them to come to their aid and not to throw away these opportunities for freedom.
 
@@ -1780,9 +1654,9 @@ Spendius, taking with him from Tunes about six thousand men in all, drawn from e
 
 For the remaining part of their original body had deserted to the Romans during the encampments around Eryx.
 
-When Hamilcar had encamped in a certain plain enclosed on every side by mountains, it happened that at this very moment the reinforcements from the Numidians and Libyans linked up with Spendius's force.
+When Hamilcar had encamped in a certain plain enclosed on every side by mountains, it happened that at this very moment the reinforcements from the Numidians and Libyans linked up with Spendius’s force.
 
-And so the Carthaginians suddenly found the Libyans encamped in front of them, the Numidians at their rear, and Spendius's men on their flank, which threw them into great difficulty...
+And so the Carthaginians suddenly found the Libyans encamped in front of them, the Numidians at their rear, and Spendius’s men on their flank, which threw them into great difficulty...
 
 ## Book 1 Chapter 78: Narávas Joins Hamilcar
 
@@ -1800,17 +1674,15 @@ The Carthaginians partly marveled at his daring and partly were astonished by it
 
 When he had entered into discussion, he declared that he was well disposed toward all Carthaginians, but that above all he desired to become a friend of Barcas. For this reason, he said, he had now come to ally himself with him and to share honestly in every action and every undertaking.
 
-When Hamilcar heard this, he was so greatly pleased — both by the young man's courage in coming and by his straightforwardness in the interview — that he not only agreed to take him on as a partner in his operations, but also promised on oath to give him his daughter in marriage, provided that Narávas kept faith with Carthage to the end.
+When Hamilcar heard this, he was so greatly pleased—both by the young man’s courage in coming and by his straightforwardness in the interview—that he not only agreed to take him on as a partner in his operations, but also promised on oath to give him his daughter in marriage, provided that Narávas kept faith with Carthage to the end.
 
-Once the agreement had been made, Narávas came bringing the Numidians under his command, who numbered about two thousand,
+Once the agreement had been made, Narávas came bringing the Numidians under his command, who numbered about two thousand, and Hamilcar, reinforced by this body of troops, drew up his line against the enemy. Spendius and his men, having joined forces with the Libyans and come down into the plain, engaged the Carthaginians.
 
-and Hamilcar, reinforced by this body of troops, drew up his line against the enemy. Spendius and his men, having joined forces with the Libyans and come down into the plain, engaged the Carthaginians.
-
-A hard-fought battle took place, and Hamilcar's side was victorious. The elephants fought well, but Narávas rendered the most conspicuous service of all.
+A hard-fought battle took place, and Hamilcar’s side was victorious. The elephants fought well, but Narávas rendered the most conspicuous service of all.
 
 Autaritus and Spendius escaped, but of the rest about ten thousand fell and about four thousand were taken prisoner.
 
-When the success had been completed, Hamilcar granted to those prisoners who were willing the right to serve in his army alongside him, and he equipped them with arms taken from the enemy's spoils.
+When the success had been completed, Hamilcar granted to those prisoners who were willing the right to serve in his army alongside him, and he equipped them with arms taken from the enemy’s spoils.
 
 As for those who were unwilling, he gathered them together and addressed them, saying that up to the present he held them excused for the wrongs they had committed, and that for this reason he permitted them to go their own ways, wherever each of them might choose.
 
@@ -1822,27 +1694,25 @@ At about this same time the mercenaries who were on garrison duty in Sardinia, t
 
 The garrison commander, Bostarus, who was then with them, they shut up in the citadel together with his own countrymen and put to death.
 
-When the Carthaginians again sent out a general, Hanno, with a force, and these troops too deserted Hanno and went over to the mutineers,
-
-they got the aforesaid Hanno into their hands alive and at once crucified him. After that, devising one extraordinary torture after another, they tortured to death every Carthaginian on the island.
+When the Carthaginians again sent out a general, Hanno, with a force, and these troops too deserted Hanno and went over to the mutineers, they got the aforesaid Hanno into their hands alive and at once crucified him. After that, devising one extraordinary torture after another, they tortured to death every Carthaginian on the island.
 
 From then on they brought the cities under their control and held the island firmly, until they fell into conflict with the Sardinians and were driven out by them into Italy.
 
-This, then, was how Sardinia was lost to Carthage — an island remarkable for its size, its dense population, and its produce.
+This, then, was how Sardinia was lost to Carthage—an island remarkable for its size, its dense population, and its produce.
 
 But since many writers have already said a great deal about it, I do not think it necessary to repeat what is universally agreed.
 
-Now Mathos and Spendius, and with them Autaritus the Gaul, viewed with suspicion Hamilcar's humane treatment of his prisoners. They feared that, won over by such conduct, the Libyans and the mass of the mercenaries might rush toward the safety thus held out to them. So they began to plan how, by committing some new act of sacrilege, they might once and for all turn the multitude into beasts in their hatred of the Carthaginians.
+Now Mathos and Spendius, and with them Autaritus the Gaul, viewed with suspicion Hamilcar’s humane treatment of his prisoners. They feared that, won over by such conduct, the Libyans and the mass of the mercenaries might rush toward the safety thus held out to them. So they began to plan how, by committing some new act of sacrilege, they might once and for all turn the multitude into beasts in their hatred of the Carthaginians.
 
 They decided, therefore, to assemble the rank and file. Once this was done, they brought in a letter-carrier, supposedly sent by their fellow conspirators in Sardinia.
 
-The letter stated plainly that Gesco and all those with him — the men they had treacherously seized at Tunes, as I described above — should be guarded carefully, since certain people in the camp were negotiating with the Carthaginians for their rescue.
+The letter stated plainly that Gesco and all those with him—the men they had treacherously seized at Tunes, as I described above—should be guarded carefully, since certain people in the camp were negotiating with the Carthaginians for their rescue.
 
 Seizing on this pretext, Spendius first urged the men not to trust the leniency that the Carthaginian general had shown toward the prisoners.
 
 For, he said, it was not out of any wish to spare their lives that Hamilcar had decided to deal with the captives in this way; rather, he was eager, by releasing them, to get us into his power, so that he might punish not just some of us but all of us at once, once we had trusted him.
 
-In addition, he advised them to take care that, by letting Gesco and his men go, they did not earn the contempt of their enemies and do grave harm to their own cause — by allowing such a man and so capable a general to escape, one who was likely to become their most formidable enemy.
+In addition, he advised them to take care that, by letting Gesco and his men go, they did not earn the contempt of their enemies and do grave harm to their own cause—by allowing such a man and so capable a general to escape, one who was likely to become their most formidable enemy.
 
 While he was still saying this, another letter-carrier arrived, supposedly sent by the men at Tunes...
 
@@ -1850,7 +1720,7 @@ While he was still saying this, another letter-carrier arrived, supposedly sent 
 
 ...bringing a message similar to the one from Sardinia. Following up on this, Autaritus the Gaul declared that there was only one path to safety for their cause: to give up entirely every hope that rested on the Carthaginians.
 
-As long as anyone clung to the prospect of the Carthaginians' kindness, he said, that man could not become a genuine ally to them.
+As long as anyone clung to the prospect of the Carthaginians’ kindness, he said, that man could not become a genuine ally to them.
 
 He therefore demanded that they trust these messengers, listen to these men, and give their attention to those who consistently brought reports of the most hateful and bitter kind against the Carthaginians; and he urged them to regard anyone who spoke to the contrary as traitors and enemies.
 
@@ -1864,13 +1734,11 @@ And so, when the multitude praised him with one accord, he withdrew in high favo
 
 Many men then came forward from each of the various peoples, all at once, wishing to plead at least against the torture, because of the kindnesses Gesco had done them. But nothing of what they said could be understood, since many were speaking at the same time, each in his own language.
 
-When at last it became clear that they were pleading against the punishment, and one of those seated cried out, "Stone them!" they all at once stoned to death the men who had come forward.
+When at last it became clear that they were pleading against the punishment, and one of those seated cried out, “Stone them!” they all at once stoned to death the men who had come forward.
 
 These men, mangled as though by wild beasts, were carried off by their relatives.
 
-Then Spendius and his followers took Gesco and his companions, about seven hundred in number, and led them out of the palisade. Bringing them a short distance in front of the camp, they first cut off their hands,
-
-beginning with Gesco — the very man whom, a short time before, they had singled out from among all the Carthaginians, proclaiming him their benefactor and entrusting to him the settlement of their disputes.
+Then Spendius and his followers took Gesco and his companions, about seven hundred in number, and led them out of the palisade. Bringing them a short distance in front of the camp, they first cut off their hands, beginning with Gesco—the very man whom, a short time before, they had singled out from among all the Carthaginians, proclaiming him their benefactor and entrusting to him the settlement of their disputes.
 
 After they had cut off their hands, they mutilated the wretched men further; and having maimed them and broken their legs as well, they threw them, still alive, into a pit.
 
@@ -1882,17 +1750,17 @@ To the perpetrators of the sacrilege they sent heralds to ask for the recovery o
 
 But the mutineers neither gave them up nor allowed it; they warned those present to send them no further herald or envoy, declaring that anyone who came would suffer the same punishment that Gesco had just undergone.
 
-And for the future they passed a resolution, and exhorted one another to keep it: that any Carthaginian they caught they would torture and kill, and any of Carthage's allies they would send back to Carthage with his hands cut off. And this they continued to carry out scrupulously.
+And for the future they passed a resolution, and exhorted one another to keep it: that any Carthaginian they caught they would torture and kill, and any of Carthage’s allies they would send back to Carthage with his hands cut off. And this they continued to carry out scrupulously.
 
-Looking at all this, one would not hesitate to say that it is not only the bodies of men — and certain ulcers and tumors that grow in them — that become so inflamed and utterly beyond cure, but, far more so, their souls as well.
+Looking at all this, one would not hesitate to say that it is not only the bodies of men—and certain ulcers and tumors that grow in them—that become so inflamed and utterly beyond cure, but, far more so, their souls as well.
 
 For with ulcers, if you apply treatment, they are sometimes irritated by the very treatment and spread the faster; but if, on the other hand, you leave them alone, by their own nature they keep destroying the surrounding flesh and do not stop until they have consumed what lies beneath.
 
-In much the same way, such gangrenous and festering growths often fasten upon men's souls, so that no creature becomes more impious or more savage than man.
+In much the same way, such gangrenous and festering growths often fasten upon men’s souls, so that no creature becomes more impious or more savage than man.
 
 Toward such men, if you offer any pardon and kindness, they take what happens to be a plot and a trick, and they grow more distrustful and more hostile toward those who treat them kindly.
 
-But if you retaliate, then, vying with them in fury, there is no forbidden or dreadful act they will not undertake, counting such audacity a fine thing — until in the end, brutalized, they pass out of human nature altogether.
+But if you retaliate, then, vying with them in fury, there is no forbidden or dreadful act they will not undertake, counting such audacity a fine thing—until in the end, brutalized, they pass out of human nature altogether.
 
 The chief and largest cause of such a disposition we must reckon to be wicked customs and a bad upbringing from childhood; but there are several contributing causes as well, and the greatest of these is the persistent arrogance and greed of those in command.
 
@@ -1902,29 +1770,29 @@ This was exactly what was happening at that time, both with the body of mercenar
 
 Hamilcar, hard pressed by the desperate fury of the enemy, summoned Hanno to join him, convinced that once the two armies were combined he would more quickly bring the whole affair to an end.
 
-Of the enemy he overpowered, some he destroyed in hand-to-hand combat, while those who were brought to him alive he threw to the elephants — seeing this as the one solution, if he could utterly wipe out his foes.
+Of the enemy he overpowered, some he destroyed in hand-to-hand combat, while those who were brought to him alive he threw to the elephants—seeing this as the one solution, if he could utterly wipe out his foes.
 
 But just when the Carthaginians seemed to have brighter hopes regarding the war, a complete and unexpected reversal of their fortunes came over them.
 
 For the two generals, having joined forces, fell into such a quarrel with each other that they not only let slip their chances against the enemy but, through their rivalry with one another, even handed the enemy many opportunities against themselves.
 
-When the Carthaginians realized this, they ordered one of the generals to leave and the other to remain — whichever one the troops should choose.
+When the Carthaginians realized this, they ordered one of the generals to leave and the other to remain—whichever one the troops should choose.
 
 At the same time, the supplies being brought to them from the place they call the Emporia, on which they had pinned their greatest hopes for food and other necessities, happened to be completely destroyed at sea by a storm.
 
-And the affairs of Sardinia, as I said above, had been lost to them — an island that had always rendered them great service in their times of crisis.
+And the affairs of Sardinia, as I said above, had been lost to them—an island that had always rendered them great service in their times of crisis.
 
-But the greatest blow of all was the revolt of the cities of Hippo Zarytus and Utica. These were the only cities in all Libya that had not only borne the present war nobly, but had also gallantly endured the times of Agathocles and the invasion of the Romans — in short, had never once adopted any policy hostile to Carthage.
+But the greatest blow of all was the revolt of the cities of Hippo Zarytus and Utica. These were the only cities in all Libya that had not only borne the present war nobly, but had also gallantly endured the times of Agathocles and the invasion of the Romans—in short, had never once adopted any policy hostile to Carthage.
 
 But now, quite apart from their irrational revolt to the Libyans, they immediately showed by their defection the greatest friendship and loyalty toward them, while toward the Carthaginians they conceived an implacable anger and hatred.
 
-For they killed the men who had come from Carthage to help them — about five hundred — along with their commander, and threw them all down from the wall; they handed the city over to the Libyans; and they would not even permit the Carthaginians to bury their unfortunate dead, though they asked to do so.
+For they killed the men who had come from Carthage to help them—about five hundred—along with their commander, and threw them all down from the wall; they handed the city over to the Libyans; and they would not even permit the Carthaginians to bury their unfortunate dead, though they asked to do so.
 
 While these things were happening, Mathos and Spendius, emboldened by these events, undertook to lay siege to Carthage itself.
 
-Barcas, meanwhile, took on the general Hannibal — for the citizens had sent this man out to the army after the troops decided that Hanno must withdraw, in accordance with the authority the Carthaginians had granted them regarding the quarrels that had arisen between the generals.
+Barcas, meanwhile, took on the general Hannibal—for the citizens had sent this man out to the army after the troops decided that Hanno must withdraw, in accordance with the authority the Carthaginians had granted them regarding the quarrels that had arisen between the generals.
 
-And so Hamilcar, with Hannibal and Narávas, advanced through the country, cutting off the supply lines of Mathos and Spendius — in this and in everything else receiving the greatest service from Narávas the Numidian.
+And so Hamilcar, with Hannibal and Narávas, advanced through the country, cutting off the supply lines of Mathos and Spendius—in this and in everything else receiving the greatest service from Narávas the Numidian.
 
 Such, then, was the situation of the forces in the field...
 
@@ -1932,9 +1800,7 @@ Such, then, was the situation of the forces in the field...
 
 ...this was their state. The Carthaginians, hemmed in on every side, were compelled to fall back on their hopes from the cities allied with them.
 
-Now Hiero, throughout the present war, had always shown great zeal in everything they asked of him,
-
-and at this point he was even more eager, convinced that it was in his own interest — both for his sovereignty in Sicily and for his friendship with Rome — that the Carthaginians should survive, so that the dominant power should not be left entirely free to accomplish its purpose without resistance. His reasoning was thoroughly shrewd and sensible.
+Now Hiero, throughout the present war, had always shown great zeal in everything they asked of him, and at this point he was even more eager, convinced that it was in his own interest—both for his sovereignty in Sicily and for his friendship with Rome—that the Carthaginians should survive, so that the dominant power should not be left entirely free to accomplish its purpose without resistance. His reasoning was thoroughly shrewd and sensible.
 
 For one should never overlook such matters, nor help anyone build up so great a power that it becomes impossible even to dispute with him over rights that are universally acknowledged.
 
@@ -1950,29 +1816,27 @@ From that time on they responded readily and generously to each request made of 
 
 For this reason they permitted their merchants to export to the Carthaginians whatever was urgently needed, while they forbade exports to the enemy.
 
-And later, when the mercenaries in Sardinia — at the time they revolted from Carthage — tried to draw the Romans onto the island, they did not respond; and when the people of Utica offered to put themselves under Roman control, they did not accept them, keeping faith with the terms of the treaty.
+And later, when the mercenaries in Sardinia—at the time they revolted from Carthage—tried to draw the Romans onto the island, they did not respond; and when the people of Utica offered to put themselves under Roman control, they did not accept them, keeping faith with the terms of the treaty.
 
 The Carthaginians, then, receiving the support of the friends mentioned above, held out against the...
 
-## Book 1 Chapter 84: Hamilcar's Tactical Superiority
+## Book 1 Chapter 84: Hamilcar’s Tactical Superiority
 
 ...siege. But Mathos and Spendius found themselves no less besieged than besieging.
 
 For Hamilcar reduced them to such a shortage of provisions that in the end they were forced to break off the siege.
 
-After some time they gathered the best of the mercenaries and the Libyans — in all about fifty thousand, among whom was Zarzas the Libyan with the men under his command — and set out once more to maneuver against Hamilcar in the open country and keep watch on him.
+After some time they gathered the best of the mercenaries and the Libyans—in all about fifty thousand, among whom was Zarzas the Libyan with the men under his command—and set out once more to maneuver against Hamilcar in the open country and keep watch on him.
 
-They kept away from the level ground, terrified of the elephants and of Narávas's cavalry, but they tried to seize the hill country and the narrow passes in advance.
+They kept away from the level ground, terrified of the elephants and of Narávas’s cavalry, but they tried to seize the hill country and the narrow passes in advance.
 
 In these operations it turned out that, in daring and in their plans of attack, they fell in no way short of their opponents, but because of their inexperience they were often worsted.
 
 It was then, it seems, that one could see in actual fact how great a difference there is between methodical experience and the skill of a general on the one hand, and inexperience and mere unreasoning, soldierly routine on the other.
 
-For in many of the smaller engagements he cut them off and hemmed them in, like a skilled draughts-player, and destroyed them without a fight;
+For in many of the smaller engagements he cut them off and hemmed them in, like a skilled draughts-player, and destroyed them without a fight; and in the larger, decisive encounters he killed many by luring them into ambushes they never suspected, and threw others into panic by appearing suddenly and unexpectedly, sometimes by day and sometimes by night. All those he took alive he threw to the elephants.
 
-and in the larger, decisive encounters he killed many by luring them into ambushes they never suspected, and threw others into panic by appearing suddenly and unexpectedly, sometimes by day and sometimes by night. All those he took alive he threw to the elephants.
-
-Finally, having camped against them unexpectedly in ground unsuited to their needs but well suited to his own strength, he brought them to such a pass that — neither daring to risk a battle nor able to flee, because they were hemmed in on every side by trench and palisade — they were at last driven by famine to eat one another.
+Finally, having camped against them unexpectedly in ground unsuited to their needs but well suited to his own strength, he brought them to such a pass that—neither daring to risk a battle nor able to flee, because they were hemmed in on every side by trench and palisade—they were at last driven by famine to eat one another.
 
 So the divine power was bringing upon them a fitting recompense for their impiety and lawlessness toward their neighbors.
 
@@ -1982,9 +1846,7 @@ Still clinging always to the hope of relief from Tunes, because of the promises 
 
 ## Book 1 Chapter 85: Hamilcar Captures Spendius
 
-When they had impiously consumed their prisoners by using them for food, and had then likewise consumed the bodies of their slaves, and still no relief came from Tunes,
-
-the maltreatment in store for the leaders now became unmistakable, given the desperate fury rising among the rank and file. So Autaritus, Zarzas, Spendius, and their companions decided to put themselves into the hands of the enemy and to open negotiations with Hamilcar about a settlement.
+When they had impiously consumed their prisoners by using them for food, and had then likewise consumed the bodies of their slaves, and still no relief came from Tunes, the maltreatment in store for the leaders now became unmistakable, given the desperate fury rising among the rank and file. So Autaritus, Zarzas, Spendius, and their companions decided to put themselves into the hands of the enemy and to open negotiations with Hamilcar about a settlement.
 
 They therefore sent a herald, obtained safe-conduct for an embassy, and came to the Carthaginians, ten men in all.
 
@@ -2008,9 +1870,7 @@ After this they brought Spendius and the other captives up to the walls and cruc
 
 But Mathōs and his men, observing that Hannibal was behaving carelessly and over-confidently, attacked his palisade, killed many of the Carthaginians, drove them all out of the camp, seized the entire baggage train, and took the general Hannibal alive.
 
-They brought him at once to Spendius's cross, and after torturing him cruelly, they took Spendius down, fastened Hannibal up alive in his place, and slaughtered around Spendius's body thirty of the most prominent Carthaginians,
-
-Fortune, as if on purpose, giving each side in turn, by way of contrast, the occasion to outdo the other in vengeance.
+They brought him at once to Spendius’s cross, and after torturing him cruelly, they took Spendius down, fastened Hannibal up alive in his place, and slaughtered around Spendius’s body thirty of the most prominent Carthaginians, Fortune, as if on purpose, giving each side in turn, by way of contrast, the occasion to outdo the other in vengeance.
 
 Barcas was late in realizing that an attack had been made by the men from the town, because of the distance between the camps; and even once he did realize it, he could not bring help in time because of the rough ground that lay between.
 
@@ -2022,44 +1882,30 @@ This unexpected reversal once more left the Carthaginians dejected and desponden
 
 Even so, they did not give up doing what they could for their own survival.
 
-And so they appointed thirty members of the senate, and along with them Hanno—the general who had earlier withdrawn and was now brought back into command—and, arming all the remaining men of military age, they sent these off to Barcas as though making their last throw of the dice,
-
-charging the members of the senate emphatically to settle, by any means possible, the dispute between the generals that had arisen earlier, and to force them to act in concert, in view of the present state of affairs.
+And so they appointed thirty members of the senate, and along with them Hanno—the general who had earlier withdrawn and was now brought back into command—and, arming all the remaining men of military age, they sent these off to Barcas as though making their last throw of the dice, charging the members of the senate emphatically to settle, by any means possible, the dispute between the generals that had arisen earlier, and to force them to act in concert, in view of the present state of affairs.
 
 The envoys put forward many and varied arguments, and once they had brought the generals face to face, Hanno and Barcas were compelled to give way and to be persuaded by what was said.
 
-From then on they acted in concert, of one mind, and everything went according to the Carthaginians' wishes,
-
-so that Mathōs and his men, finding themselves at a disadvantage in the engagements that took place piecemeal—for they fought many around the town called Leptis and some of the other cities—finally pressed to decide the issue by a pitched battle, the Carthaginians being eager for this course as well.
+From then on they acted in concert, of one mind, and everything went according to the Carthaginians’ wishes, so that Mathōs and his men, finding themselves at a disadvantage in the engagements that took place piecemeal—for they fought many around the town called Leptis and some of the other cities—finally pressed to decide the issue by a pitched battle, the Carthaginians being eager for this course as well.
 
 Both sides, therefore, having set their minds on this, summoned all their allies to the conflict and gathered the garrisons from the cities, intending to stake everything on the outcome.
 
 When each side had its preparations ready for the attempt, they drew up in line and joined battle by mutual agreement.
 
-The victory went to the Carthaginians: most of the Libyans were destroyed in the battle itself, while the rest fled together to a certain town and surrendered themselves not long afterward; and Mathōs fell into his enemies' hands alive.
+The victory went to the Carthaginians: most of the Libyans were destroyed in the battle itself, while the rest fled together to a certain town and surrendered themselves not long afterward; and Mathōs fell into his enemies’ hands alive.
 
 ## Book 1 Chapter 88: Aftereffects in Hippo, Utica, and Sardinia
 
-After the battle, the other parts of Libya immediately submitted to the Carthaginians;
-
-but the cities of the Hippacritae and the Uticans held out, having no opening for a settlement, since their initial undertakings had left them no room for mercy or pardon.
+After the battle, the other parts of Libya immediately submitted to the Carthaginians; but the cities of the Hippacritae and the Uticans held out, having no opening for a settlement, since their initial undertakings had left them no room for mercy or pardon.
 
 So true is it that, even in wrongdoing of this kind, there is a great difference made by moderation and by deliberately avoiding any irreparable act.
 
 Nevertheless, by encamping against them—Hanno against the one, Barcas against the other—they quickly forced them to make terms and agreements satisfactory to the Carthaginians.
 
-The Libyan War, then, after bringing the Carthaginians into such straits, had an outcome such that the Carthaginians not only regained control of Libya but also took fitting vengeance on those responsible for the revolt;
-
-for at the very end, the young men led a triumphal procession through the city and inflicted every kind of torment upon Mathōs and his followers.
+The Libyan War, then, after bringing the Carthaginians into such straits, had an outcome such that the Carthaginians not only regained control of Libya but also took fitting vengeance on those responsible for the revolt; for at the very end, the young men led a triumphal procession through the city and inflicted every kind of torment upon Mathōs and his followers.
 
 For three years and about four months the mercenaries waged this war against the Carthaginians—a war that, of all those we know of by report, far surpassed the rest in cruelty and lawlessness.
 
-About this time the Romans, invited by the mercenaries who had deserted to them from Sardinia, set about sailing against that island. When the Carthaginians took offense at this,
+About this time the Romans, invited by the mercenaries who had deserted to them from Sardinia, set about sailing against that island. When the Carthaginians took offense at this, on the ground that sovereignty over Sardinia belonged rather to them, and prepared to proceed against those who had made the island revolt from them, the Romans seized on this as a pretext and voted for war against the Carthaginians, alleging that their preparations were directed not against the Sardinians but against themselves.
 
-on the ground that sovereignty over Sardinia belonged rather to them, and prepared to proceed against those who had made the island revolt from them,
-
-the Romans seized on this as a pretext and voted for war against the Carthaginians, alleging that their preparations were directed not against the Sardinians but against themselves.
-
-The Carthaginians, having against all expectation just escaped the war described above, and being in every way ill-disposed at that moment to take up their hostility toward the Romans again,
-
-yielded to the circumstances and not only withdrew from Sardinia but also paid the Romans an additional twelve hundred talents on condition that they not have to take on the war for the present. So this was how these things came about.
+The Carthaginians, having against all expectation just escaped the war described above, and being in every way ill-disposed at that moment to take up their hostility toward the Romans again, yielded to the circumstances and not only withdrew from Sardinia but also paid the Romans an additional twelve hundred talents on condition that they not have to take on the war for the present. So this was how these things came about.

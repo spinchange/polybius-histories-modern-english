@@ -4,17 +4,15 @@ Modern English translation of the Greek text.
 
 ## Book 8 Chapter 1: The Necessity of Caution in Dealing with an Enemy
 
-It does not seem to me out of place, in view of the whole plan of this work and the purpose I set out at the beginning, to call my readers' attention to the greatness of the events and to the ambitious resolve shown by each of the two states—I mean Rome and Carthage.
+It does not seem to me out of place, in view of the whole plan of this work and the purpose I set out at the beginning, to call my readers’ attention to the greatness of the events and to the ambitious resolve shown by each of the two states—I mean Rome and Carthage.
 
-For who would not be struck by the fact that, while they were engaged in so great a war over Italy, and in another no less serious over Iberia, and while both alike still faced uncertain hopes for the future and dangers equally pressing in the present,
-
-they were nevertheless not content with the enterprises already before them, but were disputing over Sardinia and Sicily as well, and were trying to grasp everything, not only in their hopes, but also with money and military preparation?
+For who would not be struck by the fact that, while they were engaged in so great a war over Italy, and in another no less serious over Iberia, and while both alike still faced uncertain hopes for the future and dangers equally pressing in the present, they were nevertheless not content with the enterprises already before them, but were disputing over Sardinia and Sicily as well, and were trying to grasp everything, not only in their hopes, but also with money and military preparation?
 
 This becomes even more astonishing when one looks at the details. The Romans had two complete armies in Italy with the consuls, and two in Iberia, of which Gnaeus held the land command and Publius the naval command.
 
 The same thing, naturally enough, was true among the Carthaginians.
 
-And besides this, a fleet was stationed off the coasts of Greece to watch Philip's movements, first under Marcus Valerius and afterward under Publius Sulpicius.
+And besides this, a fleet was stationed off the coasts of Greece to watch Philip’s movements, first under Marcus Valerius and afterward under Publius Sulpicius.
 
 At the same time Appius, with a hundred quinqueremes, and Marcus Claudius, with land forces, lay ready for operations in Sicily.
 
@@ -38,9 +36,7 @@ For the same reasons, it is not easy to understand either the greatness of their
 
 Taken by itself, the statement that the Romans laid claim to Iberia or to Sicily, and campaigned there by land and sea, would not seem particularly marvelous.
 
-But when all this is happening at once, together with many other undertakings carried out at the same time by the same state and constitution, and when one considers along with them the crises and wars within their own country that were pressing upon the men directing all these affairs,
-
-only then do the events become fully clear and truly astonishing, and only then do they receive the attention they deserve.
+But when all this is happening at once, together with many other undertakings carried out at the same time by the same state and constitution, and when one considers along with them the crises and wars within their own country that were pressing upon the men directing all these affairs, only then do the events become fully clear and truly astonishing, and only then do they receive the attention they deserve.
 
 Let this stand as my answer to those who suppose that acquaintance with partial narratives gives them knowledge of universal and common history.
 
@@ -86,15 +82,11 @@ The rest followed them up the sambuca, since the ladder was firmly secured by ro
 
 The device naturally got this name, because when it is raised the combined shape of ship and ladder looks very much like the musical instrument called a sambuca.
 
-## Book 8 Chapter 5: Syracuse's Defenses
+## Book 8 Chapter 5: Syracuse’s Defenses
 
-Yet while the Romans were preparing to bring their machines up against the towers in this way,
+Yet while the Romans were preparing to bring their machines up against the towers in this way, Archimedes, having readied engines for every possible range, struck at the ships while they were still far off with his stronger stone-throwers and larger missiles, and threw them into confusion and helplessness.
 
-Archimedes, having readied engines for every possible range, struck at the ships while they were still far off with his stronger stone-throwers and larger missiles, and threw them into confusion and helplessness.
-
-And when these shots began to pass over them, he switched to smaller engines proportioned to the distance at hand, and by constantly adapting his fire to the range so completely checked their advance and attack
-
-that Marcus, driven to despair, was forced to try bringing up his ships secretly by night.
+And when these shots began to pass over them, he switched to smaller engines proportioned to the distance at hand, and by constantly adapting his fire to the range so completely checked their advance and attack that Marcus, driven to despair, was forced to try bringing up his ships secretly by night.
 
 But when they came within bowshot close to land, Archimedes had prepared yet another device against the men fighting from the decks.
 
@@ -112,17 +104,13 @@ The result was that not only was the engine itself smashed to pieces, but the sh
 
 ## Book 8 Chapter 6: Siege of Syracuse
 
-He also used other machines against those who advanced and sheltered themselves behind projecting screens, believing that in this way they would suffer nothing from missiles shot through the wall. Against these men he hurled stones heavy enough to drive the fighters from the prow,
-
-and he also let down an iron hand hanging from a chain. The man handling the beam seized whatever part of the prow he could grasp and then drew the butt of the engine down inside the wall.
+He also used other machines against those who advanced and sheltered themselves behind projecting screens, believing that in this way they would suffer nothing from missiles shot through the wall. Against these men he hurled stones heavy enough to drive the fighters from the prow, and he also let down an iron hand hanging from a chain. The man handling the beam seized whatever part of the prow he could grasp and then drew the butt of the engine down inside the wall.
 
 When he had thus lifted the prow and made the ship stand upright on its stern, he fixed the machine fast and then, by means of a release, suddenly let go the hand and chain.
 
 As a result some ships fell over sideways, some even capsized, and most, with their prows dropped from on high, shipped great quantities of seawater and were thrown into complete confusion.
 
-Marcus, hard pressed by the contrivances of Archimedes and watching from within the city his own assaults beaten off with loss to himself and laughter from the defenders,
-
-bore the situation badly, though he mocked his own failure by saying that Archimedes was ladling the sea out of his ships, and that the sambucae had been soundly whipped and disgracefully turned away from the feast.
+Marcus, hard pressed by the contrivances of Archimedes and watching from within the city his own assaults beaten off with loss to himself and laughter from the defenders, bore the situation badly, though he mocked his own failure by saying that Archimedes was ladling the sea out of his ships, and that the sambucae had been soundly whipped and disgracefully turned away from the feast.
 
 Such was the end of the siege by sea.
 
@@ -142,15 +130,11 @@ For though they sat before the city for eight months and did not shrink from any
 
 So true it is that one man and one mind properly adapted to a particular situation can prove to be a thing of immense and astonishing power.
 
-Those men at least, though they possessed such large forces by land and sea, believed that if one old Syracusan were removed they would at once become masters of the city,
-
-but so long as he was there they did not even dare to attack it in any way against which Archimedes was able to defend it.
+Those men at least, though they possessed such large forces by land and sea, believed that if one old Syracusan were removed they would at once become masters of the city, but so long as he was there they did not even dare to attack it in any way against which Archimedes was able to defend it.
 
 Instead, they thought that the people inside would most likely be brought under their power by want of necessities, because of the great number crowded within; and so they pinned their hopes on this, cutting off aid by sea with their fleet and by land with their army.
 
-Yet, not wishing to let the time spent sitting before Syracuse be useless,
-
-the generals divided themselves and the army, so that Appius with two parts remained before the city, while Marcus, taking the third, went out against those in Sicily who had sided with the Carthaginians.
+Yet, not wishing to let the time spent sitting before Syracuse be useless, the generals divided themselves and the army, so that Appius with two parts remained before the city, while Marcus, taking the third, went out against those in Sicily who had sided with the Carthaginians.
 
 ## Book 8 Chapter 8: Other Inventions of Archimedes
 
@@ -158,15 +142,13 @@ Philip, when he arrived in Messenia, ravaged the country in a hostile spirit, ac
 
 For, so it seems to me, he imagined that by continually injuring men he would somehow never provoke indignation or hatred among those he was wronging.
 
-I was led, both here and in the previous book, to speak more plainly about these matters, not only for the reasons already given before, but also because some historians have altogether passed over Philip's treatment of the Messenians,
+I was led, both here and in the previous book, to speak more plainly about these matters, not only for the reasons already given before, but also because some historians have altogether passed over Philip’s treatment of the Messenians, while others, through favor toward kings or through fear, have represented Philip’s impiety and lawlessness toward the Messenians not merely as no fault at all, but as something praiseworthy and successful.
 
-while others, through favor toward kings or through fear, have represented Philip's impiety and lawlessness toward the Messenians not merely as no fault at all, but as something praiseworthy and successful.
-
-Nor is it only in the case of the Messenians that writers on Philip's deeds can be seen doing this, but in other matters as well.
+Nor is it only in the case of the Messenians that writers on Philip’s deeds can be seen doing this, but in other matters as well.
 
 Hence their compositions turn out not to have the character of history at all, but rather of panegyric.
 
-For my own part, I say that one ought neither falsely to abuse monarchs nor falsely to praise them, as many have done; one should always fit one's account to what has already been set down and to the actual character and purpose of each person.
+For my own part, I say that one ought neither falsely to abuse monarchs nor falsely to praise them, as many have done; one should always fit one’s account to what has already been set down and to the actual character and purpose of each person.
 
 Perhaps that is easy to say but very difficult to do, because human situations and pressures are many and varied, and men yielding to them in life often cannot say or write what truly appears to them.
 
@@ -174,21 +156,17 @@ For that reason some deserve pardon—but not all.
 
 ## Book 8 Chapter 8a
 
-Demetrius, after rashly and recklessly attempting, with Philip's approval, to seize the city of the Messenians, was killed in the very crisis of the action. We shall explain the details of this matter when we come to the proper point in the narrative.
+Demetrius, after rashly and recklessly attempting, with Philip’s approval, to seize the city of the Messenians, was killed in the very crisis of the action. We shall explain the details of this matter when we come to the proper point in the narrative.
 
 ## Book 8 Chapter 9: The Assault By Land Repulsed
 
 In this respect one might especially find fault with Theopompus. At the beginning of his history of Philip he says that what chiefly moved him to undertake the work was that Europe had never produced such a man as Philip son of Amyntas.
 
-Yet immediately afterward, both in the preface and throughout the whole history, he represents him as utterly uncontrolled in his dealings with women, so much so that he says Philip ruined his own household by his passion and favor in this regard,
-
-as profoundly unjust and treacherous in his treatment of friends and allies, as having enslaved many cities and seized them by fraud and violence,
-
-and as so given over to drunkenness that he was repeatedly seen drunk in broad daylight by his friends.
+Yet immediately afterward, both in the preface and throughout the whole history, he represents him as utterly uncontrolled in his dealings with women, so much so that he says Philip ruined his own household by his passion and favor in this regard, as profoundly unjust and treacherous in his treatment of friends and allies, as having enslaved many cities and seized them by fraud and violence, and as so given over to drunkenness that he was repeatedly seen drunk in broad daylight by his friends.
 
 And if anyone cares to read the beginning of his forty-ninth book, he will be utterly astonished at the extravagance of the historian, who among other things has ventured to say the following. I quote his very words:
 
-“If there was among Greeks or barbarians any man who was debauched or shameless in character, all such men flocked to Macedonia and were called the king's companions of Philip.
+“If there was among Greeks or barbarians any man who was debauched or shameless in character, all such men flocked to Macedonia and were called the king’s companions of Philip.
 
 For Philip in general disapproved of those whose conduct was orderly and who took care of their private lives, but honored and promoted those who lived extravagantly in drunkenness and dice.
 
@@ -220,15 +198,13 @@ But when speaking of Philip and his friends, one should be on guard not against 
 
 For it was plainly by their own hard work and daring that they turned the Macedonian kingdom from a very small one into the most renowned and greatest power of its day.
 
-And quite apart from Philip's own achievements, what they accomplished after his death under Alexander has handed down to all men a reputation for excellence that is universally acknowledged.
+And quite apart from Philip’s own achievements, what they accomplished after his death under Alexander has handed down to all men a reputation for excellence that is universally acknowledged.
 
-A large share of the credit must perhaps be assigned to Alexander, who stood at the head of everything, though he was still very young;
-
-yet no less belongs to his helpers and friends, who won many astonishing battles over their enemies, endured many severe labors, dangers, and hardships, and though they came into possession of immense wealth and every opportunity for indulgence, never by that means weakened their bodily strength or gave themselves to any unjust or licentious course.
+A large share of the credit must perhaps be assigned to Alexander, who stood at the head of everything, though he was still very young; yet no less belongs to his helpers and friends, who won many astonishing battles over their enemies, endured many severe labors, dangers, and hardships, and though they came into possession of immense wealth and every opportunity for indulgence, never by that means weakened their bodily strength or gave themselves to any unjust or licentious course.
 
 In a word, all who lived with Philip and then with Alexander proved truly royal in greatness of soul, self-restraint, and daring. There is no need to list them by name.
 
-And after Alexander's death, when they contended over the greater part of the inhabited world, they left their fame recorded in many histories.
+And after Alexander’s death, when they contended over the greater part of the inhabited world, they left their fame recorded in many histories.
 
 Thus the bitterness with which Timaeus attacks Agathocles, ruler of Sicily, though it seems excessive, is still intelligible—for he is accusing an enemy, a wicked man, and a tyrant—but the invective of Theopompus does not even admit of rational defense.
 
@@ -240,7 +216,7 @@ The result is that the historian must necessarily appear either a liar and flatt
 
 Nor indeed would anyone approve even the broad design of this writer, since he set out to write Greek history from the point at which Thucydides ended, and when he had drawn near to the age of Leuctra and to the most brilliant achievements of Greece, he threw Greece and its deeds aside and instead proposed to write the acts of Philip.
 
-Yet it would have been far nobler and fairer to include Philip's actions within a history of Greece than to include the affairs of Greece within a history of Philip.
+Yet it would have been far nobler and fairer to include Philip’s actions within a history of Greece than to include the affairs of Greece within a history of Philip.
 
 For no one, once preoccupied with the grandeur of Greek history and having advanced some distance in it, would voluntarily exchange that subject for the role and life of a monarch; whereas someone already occupied with a royal court, if chance and opportunity offered, might perhaps shift to the greater and more illustrious name of Greece.
 
@@ -248,7 +224,7 @@ So what was it that forced Theopompus to overlook contradictions of this scale? 
 
 About the error itself—his change of subject—he might perhaps have had something to say if one questioned him.
 
-But about the shameful abuse directed against Philip's friends, I do not think he could have given any account at all, except to admit that he had strayed very far from what was fitting.
+But about the shameful abuse directed against Philip’s friends, I do not think he could have given any account at all, except to admit that he had strayed very far from what was fitting.
 
 ## Book 8 Chapter 12: Philip, Alexander, And the Diadochi
 
@@ -262,13 +238,13 @@ Aratus himself, however, was not ignorant of the evil done to him. This became c
 
 Concealing it from everyone else, he nevertheless could not keep silence with one of his attendants, Cephalon, because of their familiarity. When this man was carefully attending him in his illness and once noticed some spittle by the wall that was bloody, Aratus said, “So, Cephalon, this is the reward we have received for our friendship with Philip.”
 
-Such a great and noble thing is moderation, that the sufferer was more ashamed of what had happened than the man who committed the crime—ashamed that after sharing in so many and such great deeds for Philip's advantage he had received this return for his goodwill.
+Such a great and noble thing is moderation, that the sufferer was more ashamed of what had happened than the man who committed the crime—ashamed that after sharing in so many and such great deeds for Philip’s advantage he had received this return for his goodwill.
 
 And since Aratus had often held the chief office among the Achaeans, and because of the number and greatness of the benefits he had conferred upon the nation, when he died he received fitting honor both from his own city and from the Achaean League as a whole.
 
 For they voted him sacrifices and heroic honors, and in general everything that contributes to eternal remembrance; so that, if there is any awareness among the dead, it is reasonable to suppose that he looks with approval both on the gratitude of the Achaeans and on the hardships and dangers he endured during his life.
 
-## Book 8 Chapter 13: Flawed Structure of Theopompus's History
+## Book 8 Chapter 13: Flawed Structure of Theopompus’s History
 
 Philip had long had his mind fixed on Lissus and Acrolissus and was eager to gain possession of those places, so he set out with his army.
 
@@ -278,13 +254,11 @@ But when he surveyed the circuit of Lissus and saw how strongly it was secured b
 
 Observing that the space between Lissus and the foot of Acrolissus was suitable for an assault on the town, he decided to create a skirmish there and use a stratagem adapted to the situation.
 
-After giving the Macedonians a day of rest and addressing to them during it the words appropriate to the moment, he hid the greater and more useful part of his light troops by night in some wooded ravines on the inland side above the space just mentioned,
-
-while on the following day he himself, taking the peltasts and the rest of the light-armed troops, marched around to the other side of the city by the sea.
+After giving the Macedonians a day of rest and addressing to them during it the words appropriate to the moment, he hid the greater and more useful part of his light troops by night in some wooded ravines on the inland side above the space just mentioned, while on the following day he himself, taking the peltasts and the rest of the light-armed troops, marched around to the other side of the city by the sea.
 
 When he had gone round the city and reached the appointed place, he made it plain that he meant to begin the ascent and attack there.
 
-Philip's presence had not gone unnoticed, and accordingly a sufficient crowd from all the surrounding parts of Illyria had gathered into Lissus.
+Philip’s presence had not gone unnoticed, and accordingly a sufficient crowd from all the surrounding parts of Illyria had gathered into Lissus.
 
 For because they trusted in the strength of Acrolissus, they had assigned only a moderate guard to it.
 
@@ -292,9 +266,7 @@ For because they trusted in the strength of Acrolissus, they had assigned only a
 
 So when the Macedonians drew near, the defenders immediately poured out of the city, confident in their numbers and in the strength of the ground.
 
-The king stationed his peltasts on the level ground, and ordered the light troops to advance toward the hills and engage the enemy vigorously. When this order was carried out,
-
-the struggle remained equal for a time; but afterward Philip's men, giving way both to the rough terrain and to the enemy's greater numbers, were driven back.
+The king stationed his peltasts on the level ground, and ordered the light troops to advance toward the hills and engage the enemy vigorously. When this order was carried out, the struggle remained equal for a time; but afterward Philip’s men, giving way both to the rough terrain and to the enemy’s greater numbers, were driven back.
 
 When these men fled for refuge to the peltasts, those who had come out from the city pushed forward contemptuously, descended to the level ground, and joined battle with the peltasts.
 
@@ -310,7 +282,7 @@ Thus the unexpected happened: Acrolissus was taken at once and without danger, a
 
 Philip, having thus in a wholly unexpected way made himself master of these positions, brought all the neighboring peoples into subjection by this exploit, so that most of the Illyrians voluntarily surrendered their cities to him.
 
-For after such fortresses had been taken by force, no stronghold or security any longer seemed sufficient against Philip's power.
+For after such fortresses had been taken by force, no stronghold or security any longer seemed sufficient against Philip’s power.
 
 ## Book 8 Chapter 14b
 
@@ -318,17 +290,17 @@ The Dassaretae are a people of Illyria.
 
 The city Hyscana is a city of Illyria.
 
-## Book 8 Chapter 15: Philip Takes Lissus in Illyria, B.C. 213
+## Book 8 Chapter 15: Philip Takes Lissus in Illyria, 213 BC
 
 Bolis was a Cretan by birth who had spent a long time at the royal court in a position of command, and he was thought to possess intelligence, reckless courage, and practical experience in warfare inferior to no one.
 
-Sosibius won this man's confidence by many arguments, made him loyal and eager for his cause, and then entrusted the enterprise to him, saying that at the present juncture he could render the king no greater service than by devising some means and method to save Achaeus.
+Sosibius won this man’s confidence by many arguments, made him loyal and eager for his cause, and then entrusted the enterprise to him, saying that at the present juncture he could render the king no greater service than by devising some means and method to save Achaeus.
 
 Bolis listened for the moment and said he would consider what had been proposed, then withdrew.
 
 But after reflecting on the matter, he came back to Sosibius two or three days later and undertook the business, saying that he had spent considerable time at Sardis and knew the ground, and that Cambylus, commander of the Cretans serving under Antiochus, was not only a fellow citizen of his but also a kinsman and friend.
 
-It also happened that Cambylus and the Cretans under him had charge of one of the guard-posts on the rear side of the citadel, a place not open to siege-works but held secure by the continuous presence of Cambylus' men.
+It also happened that Cambylus and the Cretans under him had charge of one of the guard-posts on the rear side of the citadel, a place not open to siege-works but held secure by the continuous presence of Cambylus’ men.
 
 When Sosibius heard this plan, he concluded that either Achaeus could not possibly be saved from the situation around him, or, if there was any possible way, none would be better than Bolis. Since Bolis too showed such eagerness for the business, the matter at once began to move forward quickly.
 
@@ -336,7 +308,7 @@ Sosibius provided money in advance so that nothing would be lacking for the atte
 
 By enlarging on the gratitude that would come both from the king himself and from Achaeus if he were saved, he raised Bolis to high hopes.
 
-And Bolis, being ready for the task, waited no time but sailed off at once, taking tokens and pledges addressed to Nicomachus at Rhodes, who was believed to feel toward Achaeus with a father's loyalty and goodwill, and likewise to Melancomas at Ephesus.
+And Bolis, being ready for the task, waited no time but sailed off at once, taking tokens and pledges addressed to Nicomachus at Rhodes, who was believed to feel toward Achaeus with a father’s loyalty and goodwill, and likewise to Melancomas at Ephesus.
 
 For these were the men through whom Achaeus had previously managed both his dealings with Ptolemy and all his other outside negotiations.
 
@@ -350,13 +322,11 @@ Arianus quickly met Cambylus and delivered the message. Cambylus readily agreed,
 
 Bolis, being a Cretan and naturally full of cunning, weighed every possibility and examined every idea.
 
-At last, meeting Cambylus according to Arianus' arrangement, he handed over the letter, and when it was laid before them they considered the matter in true Cretan fashion.
+At last, meeting Cambylus according to Arianus’ arrangement, he handed over the letter, and when it was laid before them they considered the matter in true Cretan fashion.
 
 For they did not deliberate about the safety of the man in danger, nor about the trust reposed in them by those who had given them the task, but only about their own security and profit.
 
-Thus, being both Cretans, they quickly came to the same decision: first, to divide between themselves the ten talents advanced by Sosibius,
-
-and second, after informing Antiochus of the whole plan and making him their partner, to promise that they would hand Achaeus over to him, provided they received money and future rewards worthy of so great an enterprise.
+Thus, being both Cretans, they quickly came to the same decision: first, to divide between themselves the ten talents advanced by Sosibius, and second, after informing Antiochus of the whole plan and making him their partner, to promise that they would hand Achaeus over to him, provided they received money and future rewards worthy of so great an enterprise.
 
 After this agreement had been settled, Cambylus undertook the dealings with Antiochus, while Bolis arranged that after some days Arianus should be sent to Achaeus carrying ciphered letters from Nicomachus and Melancomas.
 
@@ -374,17 +344,15 @@ Antiochus found the offer both agreeable and astonishing. Delighted at first, he
 
 Afterward, when he had become convinced and thought that the undertaking seemed to be advancing with divine favor, he urgently begged Cambylus again and again to carry it through.
 
-Bolis acted in a similar way toward Nicomachus and Melancomas. Believing that the attempt rested on the strongest assurances, they at once prepared letters to Achaeus written in cipher, as was their custom,
-
-in such a way that anyone who got hold of the letter would be unable to understand any of what was written in it; and they sent them, urging him to trust Bolis and Cambylus.
+Bolis acted in a similar way toward Nicomachus and Melancomas. Believing that the attempt rested on the strongest assurances, they at once prepared letters to Achaeus written in cipher, as was their custom, in such a way that anyone who got hold of the letter would be unable to understand any of what was written in it; and they sent them, urging him to trust Bolis and Cambylus.
 
 Arianus, by means of Cambylus, entered the citadel and delivered what had been written to Achaeus and his circle. Since he had been present from the start, he gave an exact account of every particular, even under repeated and varied questioning about Sosibius and Bolis, about Nicomachus and Melancomas, and most of all about Cambylus.
 
 Yet he endured the examination with natural confidence and resolution, chiefly because he did not know the essential point of the scheme that Bolis and Cambylus had actually agreed upon.
 
-Achaeus, convinced both by Arianus' answers and especially by the ciphers sent from Nicomachus and Melancomas, replied and immediately sent Arianus back again.
+Achaeus, convinced both by Arianus’ answers and especially by the ciphers sent from Nicomachus and Melancomas, replied and immediately sent Arianus back again.
 
-After this had happened several times between the two sides, Achaeus and his friends at last entrusted themselves to Nicomachus' group, since absolutely no other hope of safety remained, and told them to send Bolis along with Arianus on a moonless night, as they were prepared to place themselves in their hands.
+After this had happened several times between the two sides, Achaeus and his friends at last entrusted themselves to Nicomachus’ group, since absolutely no other hope of safety remained, and told them to send Bolis along with Arianus on a moonless night, as they were prepared to place themselves in their hands.
 
 For Achaeus had formed a plan somewhat like this: first to escape the danger immediately around him, and afterward to make his move, by a circuitous route, toward Syria.
 
@@ -406,13 +374,11 @@ But if he came with several companions, the task would be difficult for those in
 
 Therefore Arianus, when leading Achaeus out, was to go in front because he knew the path, having often gone in and out that way.
 
-Bolis was to follow behind the others, so that when they reached the place where, through Cambylus, the ambush was supposed to be ready, he might lay hold of Achaeus and make sure that in the confusion of the night and among wooded ground he neither escaped nor, in desperation, threw himself down a cliff, but instead fell alive into the enemy's hands according to their design.
+Bolis was to follow behind the others, so that when they reached the place where, through Cambylus, the ambush was supposed to be ready, he might lay hold of Achaeus and make sure that in the confusion of the night and among wooded ground he neither escaped nor, in desperation, threw himself down a cliff, but instead fell alive into the enemy’s hands according to their design.
 
 After these arrangements had been agreed upon, Cambylus, on the very night Bolis arrived, led him by the same route by which he had come, and brought him alone before Antiochus.
 
-The king received him graciously, gave pledges for the promised rewards, and urged both men at length to delay no further over the matter before them. Then they returned to their own camp,
-
-and toward dawn Bolis went up with Arianus and entered the citadel while it was still night.
+The king received him graciously, gave pledges for the promised rewards, and urged both men at length to delay no further over the matter before them. Then they returned to their own camp, and toward dawn Bolis went up with Arianus and entered the citadel while it was still night.
 
 ## Book 8 Chapter 19: Antiochus Approves the Plan
 
@@ -440,13 +406,9 @@ When they joined Arianus and his party, Arianus led the way because of his knowl
 
 For though he was a Cretan and ready to suspect anything against his neighbor, the darkness was such that he could not make out Achaeus—not who he was, or even whether he was present at all.
 
-The descent for the most part was steep and difficult, and in some places the path was especially dangerous and treacherous. Whenever they came to one of these places, some took hold of Achaeus while others received him below,
+The descent for the most part was steep and difficult, and in some places the path was especially dangerous and treacherous. Whenever they came to one of these places, some took hold of Achaeus while others received him below, and because they could not entirely suppress the habitual marks of respect they were accustomed to show him, Bolis quickly understood who and which of them Achaeus was.
 
-and because they could not entirely suppress the habitual marks of respect they were accustomed to show him, Bolis quickly understood who and which of them Achaeus was.
-
-When they reached the place assigned to Cambylus, Bolis gave the agreed signal by a whistle. Then the men rose from the ambush and seized the others,
-
-while Bolis himself grabbed Achaeus along with his cloak, his hands being inside it, because he feared that once Achaeus understood what was happening he might try to kill himself; for he had provided himself with a dagger.
+When they reached the place assigned to Cambylus, Bolis gave the agreed signal by a whistle. Then the men rose from the ambush and seized the others, while Bolis himself grabbed Achaeus along with his cloak, his hands being inside it, because he feared that once Achaeus understood what was happening he might try to kill himself; for he had provided himself with a dagger.
 
 Quickly surrounded on all sides, he fell under the power of his enemies, and at once he and his friends were led up to Antiochus.
 
@@ -458,17 +420,17 @@ This happened to him, I think, because he saw how hard to guard against and how 
 
 For Achaeus was the son of Andromachus, brother of Laodice the wife of Seleucus, and he had married Laodice, daughter of King Mithridates, and had become master of all the country on this side of Taurus.
 
-And yet, while he was believed, both because of his own power and because of his enemies' circumstances, to be dwelling in one of the strongest positions in the inhabited world, he was sitting bound on the ground, in the power of his enemies, before absolutely anyone knew what had happened except the men who had done it.
+And yet, while he was believed, both because of his own power and because of his enemies’ circumstances, to be dwelling in one of the strongest positions in the inhabited world, he was sitting bound on the ground, in the power of his enemies, before absolutely anyone knew what had happened except the men who had done it.
 
 ## Book 8 Chapter 21: Achaeus Takes Precautions
 
-At daybreak, when the king's friends gathered at the tent as usual and the matter came before their eyes, the same thing happened to them as to the king: astonished at what they saw, they could hardly believe it.
+At daybreak, when the king’s friends gathered at the tent as usual and the matter came before their eyes, the same thing happened to them as to the king: astonished at what they saw, they could hardly believe it.
 
 When the council sat, many proposals were made as to what punishments should be inflicted on Achaeus.
 
-It was resolved first to mutilate the wretched man, then to cut off his head, sew it into an ass's skin, and impale the body.
+It was resolved first to mutilate the wretched man, then to cut off his head, sew it into an ass’s skin, and impale the body.
 
-When this had been done and the army learned what had happened, such excitement and tumult seized the whole camp that Laodice in the citadel—who alone knew of her husband's departure—guessed what had happened from the disturbance and movement among the troops.
+When this had been done and the army learned what had happened, such excitement and tumult seized the whole camp that Laodice in the citadel—who alone knew of her husband’s departure—guessed what had happened from the disturbance and movement among the troops.
 
 Soon a herald came to Laodice, explained what had happened to Achaeus, and ordered her to lay down authority and surrender the citadel.
 
@@ -480,15 +442,11 @@ Antiochus, having disposed of Achaeus, kept constant pressure on the citadel, pe
 
 And that is what happened in the end. They quarreled among themselves and split into factions, some joining Ariobazus and others Laodice. Once this had happened and the two sides distrusted one another, both quickly surrendered themselves and the citadels.
 
-So Achaeus, after doing everything that reason could suggest, was nevertheless overcome by the faithlessness of those whom he trusted and ended his life, becoming a useful example to posterity in two ways:
-
-first, not to trust anyone lightly; and second, not to grow boastful in prosperity, but, being human, to expect everything.
+So Achaeus, after doing everything that reason could suggest, was nevertheless overcome by the faithlessness of those whom he trusted and ended his life, becoming a useful example to posterity in two ways: first, not to trust anyone lightly; and second, not to grow boastful in prosperity, but, being human, to expect everything.
 
 ## Book 8 Chapter 22: Capture of Achaeus
 
-Cauarus, king of the Galatians in Thrace, was by nature a truly royal and high-minded man, and he provided great security for the merchants who sailed into the Black Sea,
-
-and rendered important services to the Byzantines in their wars against the Thracians and the Bithynians.
+Cauarus, king of the Galatians in Thrace, was by nature a truly royal and high-minded man, and he provided great security for the merchants who sailed into the Black Sea, and rendered important services to the Byzantines in their wars against the Thracians and the Bithynians.
 
 Yet this Cauarus the Galatian, though otherwise an excellent man, was corrupted by a flatterer named Sostratus, a native of Chalcedon.
 
@@ -496,11 +454,11 @@ Yet this Cauarus the Galatian, though otherwise an excellent man, was corrupted 
 
 When Xerxes was ruling from the city of Armosata, which lies on the so-called Fair Plain between the Euphrates and the Tigris, King Antiochus encamped before the city and set about besieging it.
 
-Xerxes, seeing the king's preparations, first removed himself from danger; but after some time, fearing that if the royal residence were taken by the enemy the rest of his dominion would also be thrown into confusion, he changed his mind and sent to Antiochus saying that he wished to come to terms.
+Xerxes, seeing the king’s preparations, first removed himself from danger; but after some time, fearing that if the royal residence were taken by the enemy the rest of his dominion would also be thrown into confusion, he changed his mind and sent to Antiochus saying that he wished to come to terms.
 
-The loyal among Antiochus' friends said that once they had the young man in their hands they ought not to let him go, but advised the king, after taking the city, to hand the principality over to Mithridates, who was his sister's son by birth.
+The loyal among Antiochus’ friends said that once they had the young man in their hands they ought not to let him go, but advised the king, after taking the city, to hand the principality over to Mithridates, who was his sister’s son by birth.
 
-But the king paid no attention to any of this. Instead he summoned the young man, ended the hostility, and remitted most of the money that the father's unpaid tribute still owed him.
+But the king paid no attention to any of this. Instead he summoned the young man, ended the hostility, and remitted most of the money that the father’s unpaid tribute still owed him.
 
 Receiving at once from Xerxes three hundred talents, a thousand horses, and a thousand mules with their equipment, he restored everything in the kingdom, gave him in marriage his sister Antiochis, and by acting in so magnanimous and kingly a fashion won over and attracted all the people of that region.
 
@@ -512,7 +470,7 @@ Whatever is still in the future always seems better than what is present.
 
 When these troubles fell upon Tarentum and Thurii, the mass of the people grew indignant.
 
-At first the conspirators set out from the city under the pretext of a raid, and when they came near Hannibal's camp by night, the others sat down and waited in a wooded place by the road, while Philemenus and Nicon went on to the camp.
+At first the conspirators set out from the city under the pretext of a raid, and when they came near Hannibal’s camp by night, the others sat down and waited in a wooded place by the road, while Philemenus and Nicon went on to the camp.
 
 The guards seized them and brought them before Hannibal. They said nothing about who they were or where they came from, only that they wished to meet the general.
 
@@ -524,11 +482,9 @@ Hannibal for the moment praised them, received their zeal kindly, and sent them 
 
 For the present, he ordered that when the first cattle driven out to pasture in the morning had gone a sufficient distance from the camp, they should boldly surround them and make off with both the animals and the herdsmen; he himself would see to their safety.
 
-He did this because he wanted time to investigate the young men's story for himself, and at the same time to provide them with credibility among their fellow citizens, as though their expeditions outside the city really were for plundering.
+He did this because he wanted time to investigate the young men’s story for himself, and at the same time to provide them with credibility among their fellow citizens, as though their expeditions outside the city really were for plundering.
 
-When Nicon and his companions did as they had been instructed, Hannibal was delighted because he had at last obtained an opening for the enterprise he had in mind,
-
-and Philemenus' party were even more stirred to action because the interview had taken place safely, Hannibal had been found eager, and the richness of the spoil had given them strong credibility among their own people.
+When Nicon and his companions did as they had been instructed, Hannibal was delighted because he had at last obtained an opening for the enterprise he had in mind, and Philemenus’ party were even more stirred to action because the interview had taken place safely, Hannibal had been found eager, and the richness of the spoil had given them strong credibility among their own people.
 
 For by selling some of the booty and feasting on some of it, they not only won the confidence of the Tarentines but also gained many imitators.
 
@@ -552,29 +508,21 @@ Having undertaken this task, partly by his own hunting and partly with game supp
 
 For he usually made his entrances and exits by night, pretending to fear the enemy, though in fact he was fitting his conduct to the design they had in hand.
 
-When this habit of Philemenus with the gate guards had become so established that they no longer hesitated, but whenever he came near the wall and whistled by night the wicket was immediately opened for him,
-
-they then watched for a day on which the Roman commander in the city was expected to spend the whole day with a large company in the place called the Museum near the marketplace, and fixed that day with Hannibal.
+When this habit of Philemenus with the gate guards had become so established that they no longer hesitated, but whenever he came near the wall and whistled by night the wicket was immediately opened for him, they then watched for a day on which the Roman commander in the city was expected to spend the whole day with a large company in the place called the Museum near the marketplace, and fixed that day with Hannibal.
 
 ## Book 8 Chapter 26: The Hannibalian War — Tarentum
 
 Hannibal had long since provided himself with the excuse of being ill, so that the Romans would not be surprised to hear that he remained for a considerable time in the same place.
 
-At this moment he pretended illness even more strongly. His camp was three days' march from Tarentum.
+At this moment he pretended illness even more strongly. His camp was three days’ march from Tarentum.
 
 When the proper time came, he selected from both cavalry and infantry those most distinguished for mobility and daring, about ten thousand in number, and ordered them to carry provisions for four days.
 
-Then, making his camp break up just before dawn, he marched on at speed. He also chose about eighty Numidian horsemen and ordered them to ride thirty stades ahead of the army and scour the country on both sides of the road,
-
-so that no one would catch sight of the main force, but anyone they encountered would either fall into their hands, or, if he escaped, would report in the city only that there was a raid by Numidians.
+Then, making his camp break up just before dawn, he marched on at speed. He also chose about eighty Numidian horsemen and ordered them to ride thirty stades ahead of the army and scour the country on both sides of the road, so that no one would catch sight of the main force, but anyone they encountered would either fall into their hands, or, if he escaped, would report in the city only that there was a raid by Numidians.
 
 After the Numidians had advanced about one hundred and twenty stades, Hannibal took supper by a river that was hard to overlook and ran through ravines.
 
-He assembled his officers and did not fully disclose the enterprise, but in general terms encouraged them, first, to show themselves brave men, since never before had greater prizes been set before them;
-
-second, that each officer should keep the men under him together on the march and sternly rebuke any who left their own ranks;
-
-and finally, that they should pay attention to the orders given and do nothing on their own initiative beyond what was commanded.
+He assembled his officers and did not fully disclose the enterprise, but in general terms encouraged them, first, to show themselves brave men, since never before had greater prizes been set before them; second, that each officer should keep the men under him together on the march and sternly rebuke any who left their own ranks; and finally, that they should pay attention to the orders given and do nothing on their own initiative beyond what was commanded.
 
 After speaking thus and dismissing the officers, he set the advance in motion just as darkness fell, eager to reach the wall around midnight, with Philemenus as guide, and having made ready for him a wild boar for the part he had to play.
 
@@ -606,7 +554,7 @@ Hannibal, approaching the city from the inland side on its eastern face near the
 
 Then Tragiscus and his companions, when they saw this, were to answer with a fire from inside.
 
-Once that signal had been completed, Hannibal's men were to extinguish their fire and advance slowly toward the gate.
+Once that signal had been completed, Hannibal’s men were to extinguish their fire and advance slowly toward the gate.
 
 With this arrangement settled, the young men passed through the inhabited quarter of the city and came to the tombs.
 
@@ -618,13 +566,11 @@ Thinking that they would best obey the oracle if even their dead remained within
 
 So the men already mentioned, after coming to the tomb of Pythionicus, waited to see what would happen.
 
-When Hannibal and his party drew near and did what had been arranged, Nicon and Tragiscus took heart, displayed their own answering beacon, and when they saw the Carthaginians' fire again being put out, rushed at speed toward the gate,
-
-wishing to get there first and kill the men stationed in the gate-tower, since it had been agreed that the Carthaginians should make their advance slowly and at a walk.
+When Hannibal and his party drew near and did what had been arranged, Nicon and Tragiscus took heart, displayed their own answering beacon, and when they saw the Carthaginians’ fire again being put out, rushed at speed toward the gate, wishing to get there first and kill the men stationed in the gate-tower, since it had been agreed that the Carthaginians should make their advance slowly and at a walk.
 
 Everything went smoothly: the guards were caught before they were ready, some of the young men killed them, and others cut the bars.
 
-The gates were quickly opened, and Hannibal's party arrived at exactly the right moment, having timed their march so well that they never once had to halt on the road to the city.
+The gates were quickly opened, and Hannibal’s party arrived at exactly the right moment, having timed their march so well that they never once had to halt on the road to the city.
 
 ## Book 8 Chapter 29: Gaius Livius Has a Party
 
@@ -660,9 +606,9 @@ When they had done this, he ordered the local young men to single out and spare 
 
 But to the Carthaginian and Celtic officers he gave orders to kill any Romans they met. With that, they split up and carried out what had been commanded.
 
-As the enemy's entry now became plain to the Tarentines, the city filled with shouting and confusion of every kind.
+As the enemy’s entry now became plain to the Tarentines, the city filled with shouting and confusion of every kind.
 
-Gaius, when the enemy's entrance suddenly came upon him, realized that in his drunken state he was incapable of action. He at once rushed out of the house with his servants, came to the gate leading to the harbor, and after the guard had opened the wicket for him, slipped through and, seizing one of the little boats at anchor, was conveyed with his servants to the citadel.
+Gaius, when the enemy’s entrance suddenly came upon him, realized that in his drunken state he was incapable of action. He at once rushed out of the house with his servants, came to the gate leading to the harbor, and after the guard had opened the wicket for him, slipped through and, seizing one of the little boats at anchor, was conveyed with his servants to the citadel.
 
 At this same moment Philemenus and his people, having prepared Roman trumpets and some men able to sound them from familiarity with their use, stood in the theater and gave the signal.
 
@@ -678,13 +624,11 @@ But the sight of many Romans lying dead in the streets, together with some Gauls
 
 ## Book 8 Chapter 31: Philemenus and his Retinue Get In Too
 
-By now Hannibal had drawn up his forces in the marketplace, and the Romans had withdrawn into the citadel, since they had long since secured it with a garrison. As the daylight became clear, Hannibal proclaimed that all Tarentines were to assemble in the marketplace without arms,
-
-while the young conspirators went around the city crying out for freedom and urging the people to take courage, since the Carthaginians had come on their behalf.
+By now Hannibal had drawn up his forces in the marketplace, and the Romans had withdrawn into the citadel, since they had long since secured it with a garrison. As the daylight became clear, Hannibal proclaimed that all Tarentines were to assemble in the marketplace without arms, while the young conspirators went around the city crying out for freedom and urging the people to take courage, since the Carthaginians had come on their behalf.
 
 Those Tarentines who had remained attached to the Romans understood the situation and withdrew into the citadel; but the rest obeyed the proclamation and gathered without arms, and to these Hannibal spoke graciously.
 
-Since the Tarentines, in the joy of their unexpected hope, signaled approval of all he said with one voice, Hannibal dismissed the crowd for the moment, ordering every man to return at once to his own house and write on the door, “A Tarentine's.”
+Since the Tarentines, in the joy of their unexpected hope, signaled approval of all he said with one voice, Hannibal dismissed the crowd for the moment, ordering every man to return at once to his own house and write on the door, “A Tarentine’s.”
 
 Whoever wrote the same words on a Roman dwelling, he declared, would suffer death.
 
@@ -692,9 +636,7 @@ He then selected the most suitable men for action and sent them to plunder the R
 
 ## Book 8 Chapter 32: Massacre of Romans In Tarentum
 
-After a great and varied mass of goods had been collected from the plundering, and the Carthaginians had gained a booty worthy of their expectations,
-
-they bivouacked under arms for the night. On the following day Hannibal consulted with the Tarentines and decided to wall off the city from the citadel, so that the Tarentines might no longer live in fear of the Romans occupying the acropolis.
+After a great and varied mass of goods had been collected from the plundering, and the Carthaginians had gained a booty worthy of their expectations, they bivouacked under arms for the night. On the following day Hannibal consulted with the Tarentines and decided to wall off the city from the citadel, so that the Tarentines might no longer live in fear of the Romans occupying the acropolis.
 
 First, then, he undertook to set up a palisade parallel to the wall of the citadel and to the trench that already lay before it.
 
@@ -710,17 +652,13 @@ In the end the Romans were forced back and put to flight. Many fell by enemy han
 
 For the present, once Hannibal had safely completed the palisade, he remained quiet, since the enterprise had turned out exactly as he wished.
 
-He had shut the enemy in and compelled them to stay inside their wall, afraid not only for themselves but also for the citadel,
-
-while among the civic leaders he inspired such confidence that they believed they would be strong enough against the Romans even without the Carthaginians.
+He had shut the enemy in and compelled them to stay inside their wall, afraid not only for themselves but also for the citadel, while among the civic leaders he inspired such confidence that they believed they would be strong enough against the Romans even without the Carthaginians.
 
 After this, at a short distance from the palisade on the side toward the city, he dug a trench parallel to both the palisade and the wall of the citadel.
 
 Then, by piling up the earth dug from it on the edge of the embankment nearer the city and placing a palisade on top, he made from this structure a security hardly inferior to a wall.
 
-Inside this again, leaving a suitable interval toward the city, he undertook to construct an actual wall, beginning from the place called Soteira and carrying it as far as the district called the Deep Road,
-
-so that, even without men stationed upon them, the fortifications themselves would be enough to provide the Tarentines with safety.
+Inside this again, leaving a suitable interval toward the city, he undertook to construct an actual wall, beginning from the place called Soteira and carrying it as far as the district called the Deep Road, so that, even without men stationed upon them, the fortifications themselves would be enough to provide the Tarentines with safety.
 
 Leaving behind a sufficient force and a body of cavalry suitable for guarding the city and patrolling along the wall, he encamped about forty stades from the city beside the river called by some the Galaesus but by most the Eurotas, which has that name from the Eurotas flowing by Lacedaemon.
 
@@ -730,9 +668,7 @@ And when the wall was quickly nearing completion, thanks to the zeal and eagerne
 
 ## Book 8 Chapter 34: Hannibal Secures Tarentum
 
-But just when his preparations for the siege were already complete, relief arrived by sea from Metapontum into the citadel, and the Romans, their spirits somewhat revived,
-
-attacked the works by night and destroyed all the constructions and machines that had been prepared. After this Hannibal gave up hope of besieging the citadel; but since the wall had now already been finished, he gathered the Tarentines and showed them why it was most important in the present circumstances to gain control of the sea.
+But just when his preparations for the siege were already complete, relief arrived by sea from Metapontum into the citadel, and the Romans, their spirits somewhat revived, attacked the works by night and destroyed all the constructions and machines that had been prepared. After this Hannibal gave up hope of besieging the citadel; but since the wall had now already been finished, he gathered the Tarentines and showed them why it was most important in the present circumstances to gain control of the sea.
 
 For since the citadel, as I said before, commanded the points at the entrance to the harbor, the Tarentines could not use their ships at all or sail out from the harbor, while the Romans could safely receive by sea whatever they needed.
 
@@ -768,15 +704,13 @@ He was therefore deprived at once of both power and life, and left himself no de
 
 For when the situation remained the same, and the ambition and power of Cleomenes had actually increased, how could a man who handed himself over to those very persons from whom he had earlier escaped only with difficulty reasonably expect anything but such an end?
 
-In the same way Pelopidas of Thebes, though he knew Alexander the tyrant's lawlessness and clearly understood that every tyrant regards the champions of liberty as his bitterest enemies, not only persuaded Epaminondas to stand forth as leader of freedom for Thebes and indeed for Greece,
+In the same way Pelopidas of Thebes, though he knew Alexander the tyrant’s lawlessness and clearly understood that every tyrant regards the champions of liberty as his bitterest enemies, not only persuaded Epaminondas to stand forth as leader of freedom for Thebes and indeed for Greece, but even when he himself had gone to Thessaly as an enemy bent on overthrowing Alexander’s monarchy, he nevertheless consented to serve as ambassador to him a second time.
 
-but even when he himself had gone to Thessaly as an enemy bent on overthrowing Alexander's monarchy, he nevertheless consented to serve as ambassador to him a second time.
+As a result, after falling into the enemy’s hands, he inflicted great harm on the Thebans and ruined the reputation he had formerly won, by rashly and uncritically trusting the very man in whom he least ought to have trusted.
 
-As a result, after falling into the enemy's hands, he inflicted great harm on the Thebans and ruined the reputation he had formerly won, by rashly and uncritically trusting the very man in whom he least ought to have trusted.
+Something similar happened to Gnaeus the Roman commander during the Sicilian war, when he irrationally put himself into the enemy’s power; and there are many others as well.
 
-Something similar happened to Gnaeus the Roman commander during the Sicilian war, when he irrationally put himself into the enemy's power; and there are many others as well.
-
-## Book 8 Chapter 36: The Tarantines Blockade the Romans
+## Book 8 Chapter 36: The Tarentines Blockade the Romans
 
 Therefore men who hand themselves over to the enemy without due caution deserve blame, but those who take every precaution that the case allows do not deserve censure.
 
@@ -792,11 +726,11 @@ Since that is hard to find, the second-best course is to take every reasonable p
 
 The clearest example, and the one nearest to the times with which the present discussion is concerned, is what happened to Achaeus.
 
-He omitted none of the precautions possible for prudence and safety, but after providing for everything so far as human intelligence could, he nevertheless fell into the enemy's hands.
+He omitted none of the precautions possible for prudence and safety, but after providing for everything so far as human intelligence could, he nevertheless fell into the enemy’s hands.
 
 Yet what happened won pity and pardon from outsiders for the sufferer, and brought only slander and hatred upon those who did the deed.
 
-## Book 8 Chapter 37: Fall of Syracuse, B. C. 212
+## Book 8 Chapter 37: Fall of Syracuse, 212 BC
 
 He counted the courses of stone; for the tower was built of regular blocks, so that it was quite easy to calculate from the ground the height of the battlements.
 

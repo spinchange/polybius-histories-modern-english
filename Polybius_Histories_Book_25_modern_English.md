@@ -6,7 +6,7 @@ Modern English translation of the Greek text.
 
 Olympiad 150, year 1. Affairs in Spain.
 
-When Polybius says that Tiberius Gracchus destroyed three hundred Celtiberian cities, Poseidonius remarks mockingly that the historian meant to do Gracchus a favor by calling towers "cities," the way they do in triumphal processions.
+When Polybius says that Tiberius Gracchus destroyed three hundred Celtiberian cities, Posidonius remarks mockingly that the historian meant to do Gracchus a favor by calling towers “cities,” the way they do in triumphal processions.
 
 And perhaps the point is not unbelievable; for both generals and historians are easily drawn into this kind of falsehood, dressing up events to make them look finer.
 
@@ -30,15 +30,11 @@ He was also to give back Tium on the Pontus, which after some time Eumenes later
 
 It was further written that Pharnaces should restore all prisoners without ransom, as well as all deserters.
 
-In addition, from the money and treasure that he had carried off from Morzius and Ariarathes, he was to pay the aforesaid kings nine hundred talents,
-
-and to add three hundred talents for Eumenes toward the expenses of the war.
+In addition, from the money and treasure that he had carried off from Morzius and Ariarathes, he was to pay the aforesaid kings nine hundred talents, and to add three hundred talents for Eumenes toward the expenses of the war.
 
 A further clause imposed on Mithridates, the satrap of Armenia, a payment of three hundred talents, because he had broken his treaty with Eumenes and made war on Ariarathes.
 
-Included in the treaty, among the dynasts of Asia, were Artaxias, ruler of the greater part of Armenia, and Acusilochus;
-
-and among those in Europe, Gatalus the Sarmatian; and among the autonomous communities, the people of Heraclea, the Mesembrians, the people of the Chersonese, and along with them the Cyzicenes.
+Included in the treaty, among the dynasts of Asia, were Artaxias, ruler of the greater part of Armenia, and Acusilochus; and among those in Europe, Gatalus the Sarmatian; and among the autonomous communities, the people of Heraclea, the Mesembrians, the people of the Chersonese, and along with them the Cyzicenes.
 
 Finally, the treaty specified how many hostages Pharnaces must give and who they were to be; and when these also had arrived, the armies broke up and marched away from the place.
 
@@ -60,11 +56,9 @@ In the rest of his way of life too he displayed the dignity proper to kingship.
 
 For in outward appearance he was impressive, and for every bodily demand that belongs to an active public life he was well fitted; even in expression and bearing he had a gravity and composure well suited to his age.
 
-He had also escaped his father's self-indulgence, both in women and in drinking. He himself drank moderately at dinner, and so did the friends in his company.
+He had also escaped his father’s self-indulgence, both in women and in drinking. He himself drank moderately at dinner, and so did the friends in his company.
 
-Such was the tone of the opening of Perseus' reign.—As for king Philip,
-
-when he had grown powerful and gained mastery over the Greeks, he proved more faithless and lawless than any man; but when fortune later turned against him, he became more moderate than any man.
+Such was the tone of the opening of Perseus’ reign.—As for king Philip, when he had grown powerful and gained mastery over the Greeks, he proved more faithless and lawless than any man; but when fortune later turned against him, he became more moderate than any man.
 
 And after he had suffered a complete reverse in his general position, he tried in every possible way to give his kingship a firmer practical foundation.
 
@@ -72,9 +66,7 @@ And after he had suffered a complete reverse in his general position, he tried i
 
 Olympiad 150, year 3. Affairs in Italy.
 
-After the consuls Tiberius and Claudius had been sent against the Istrians and Agrians, the senate, now that summer was already drawing to its close, dealt with the envoys who had come from the Lycians,
-
-men who had reached Rome only after the Lycians had already been defeated, though they had in fact been dispatched a considerable time earlier.
+After the consuls Tiberius and Claudius had been sent against the Istrians and Agrians, the senate, now that summer was already drawing to its close, dealt with the envoys who had come from the Lycians, men who had reached Rome only after the Lycians had already been defeated, though they had in fact been dispatched a considerable time earlier.
 
 For when the people of Xanthus were just about to enter the war, they had sent Nicostratus and his colleagues as envoys both to Achaea and to Rome.
 
@@ -84,9 +76,7 @@ At last they brought the senate to the point of sending envoys to Rhodes to make
 
 Yet even when the settlement had been made in these terms, the result did not please many people at all.
 
-For the Romans seemed to be acting as umpires between the Rhodians and the Lycians because they wanted the Rhodians' accumulated resources and treasuries to be drained away,
-
-having heard both of the bridal escort that the Rhodians had recently provided for Perseus and of their review of ships.
+For the Romans seemed to be acting as umpires between the Rhodians and the Lycians because they wanted the Rhodians’ accumulated resources and treasuries to be drained away, having heard both of the bridal escort that the Rhodians had recently provided for Perseus and of their review of ships.
 
 For a short time before this the Rhodians had conspicuously displayed, with great magnificence, the full strength of all the vessels they possessed.
 
@@ -96,7 +86,7 @@ A large supply of timber for shipbuilding had in fact been furnished to the Rhod
 
 Affairs of Rhodes.
 
-When the envoys from Rome arrived at Rhodes and explained the senate's decision, there was an uproar in Rhodes and great agitation among the politicians, because they were indignant that the Lycians were said not to have been given to them as a gift, but to stand to them only in an allied relation.
+When the envoys from Rome arrived at Rhodes and explained the senate’s decision, there was an uproar in Rhodes and great agitation among the politicians, because they were indignant that the Lycians were said not to have been given to them as a gift, but to stand to them only in an allied relation.
 
 For just when they thought the Lycian question had been satisfactorily settled, they now saw the beginning of a fresh crisis taking shape.
 
@@ -112,12 +102,6 @@ Olympiad 150, year 4. Affairs in Italy.
 
 When the envoys from Rhodes arrived, the senate heard their speech and postponed its reply.
 
-But when the Dardanians came and described both the numbers of the Bastarnae and the great size of the men and their boldness in danger,
-
-and also made clear the collusion of Perseus and the Gauls, saying that they were more anxious about him than about the Bastarnae and therefore begging for Roman aid,
-
-and when Thessalians were also present, supporting the Dardanians' testimony and themselves urging the Romans to help,
-
-the senate decided to send certain men who would be eyewitnesses of what was being reported.
+But when the Dardanians came and described both the numbers of the Bastarnae and the great size of the men and their boldness in danger, and also made clear the collusion of Perseus and the Gauls, saying that they were more anxious about him than about the Bastarnae and therefore begging for Roman aid, and when Thessalians were also present, supporting the Dardanians’ testimony and themselves urging the Romans to help, the senate decided to send certain men who would be eyewitnesses of what was being reported.
 
 So they immediately appointed Aulus Postumius and sent him out, together with some young men.

@@ -4,9 +4,7 @@ Modern English translation of the Greek text.
 
 ## Book 15 Chapter 1: Speech of Roman Envoys At Carthage
 
-I. Affairs in Italy and Africa
-
-When the Carthaginians seized the Roman transport ships, along with a vast quantity of supplies, Scipio was deeply angered, not only because those provisions had been taken from his own side, but because the enemy had been furnished with an abundant store of necessities.
+I. Affairs in Italy and Africa When the Carthaginians seized the Roman transport ships, along with a vast quantity of supplies, Scipio was deeply angered, not only because those provisions had been taken from his own side, but because the enemy had been furnished with an abundant store of necessities.
 
 He was even more indignant because the Carthaginians had broken their oaths and their treaty, and had started the war again from the beginning.
 
@@ -16,9 +14,7 @@ For letters had just reached Scipio making this clear.
 
 When the envoys arrived at Carthage, they were brought first before the senate and then before the people, and in both settings they spoke openly about the situation.
 
-They first reminded them that the Carthaginian ambassadors, when they had come to Tunes and entered the Roman council, had not merely appealed to the gods and kissed the ground, as men commonly do,
-
-but had actually thrown themselves flat on the earth in a shameful way and kissed the feet of those sitting in council. After that, standing up again, they had accused themselves, admitting that they themselves had broken the treaties first made between Romans and Carthaginians.
+They first reminded them that the Carthaginian ambassadors, when they had come to Tunes and entered the Roman council, had not merely appealed to the gods and kissed the ground, as men commonly do, but had actually thrown themselves flat on the earth in a shameful way and kissed the feet of those sitting in council. After that, standing up again, they had accused themselves, admitting that they themselves had broken the treaties first made between Romans and Carthaginians.
 
 Therefore, they said, they were not unaware that any punishment the Romans chose to inflict would be deserved; yet, for the sake of the changes of human fortune, they begged not to suffer anything beyond remedy, since their own folly would provide proof of Roman nobility and generosity.
 
@@ -78,7 +74,7 @@ As a result, not only everyone in Italy and Libya but also those in Iberia, Sici
 
 At this time Hannibal, being short of cavalry, sent messages to a Numidian named Tychaeus, a friend of Syphax who was said to command some of the finest mounted troops in Libya.
 
-He urged him to come to his aid and seize the opportunity, since, as he clearly knew, if the Carthaginians won he would be able to preserve his own power, but if the Romans prevailed he would put even his life in danger because of Massanissa’s ambition.
+He urged him to come to his aid and seize the opportunity, since, as he clearly knew, if the Carthaginians won he would be able to preserve his own power, but if the Romans prevailed he would put even his life in danger because of Masinissa’s ambition.
 
 Tychaeus was persuaded by this appeal and came to Hannibal with two thousand cavalry.
 
@@ -88,9 +84,9 @@ After securing his naval force and leaving Baebius as his lieutenant, Scipio him
 
 This time he no longer accepted into protection those who willingly surrendered themselves, but took the cities by force, sold their inhabitants into slavery, and made his anger visible because the Carthaginians had broken faith.
 
-He kept sending messages to Massanissa, making clear how the Phoenicians had violated the truce and urging him to gather as large a force as possible and join him quickly.
+He kept sending messages to Masinissa, making clear how the Phoenicians had violated the truce and urging him to gather as large a force as possible and join him quickly.
 
-For Massanissa, as was said earlier, had set out as soon as the treaty was made, taking his own troops along with ten Roman standards of cavalry and infantry and certain envoys from Scipio, in order not only to recover his ancestral kingdom but, with Roman help, to add Syphax’s realm as well. And this in fact came to pass.
+For Masinissa, as was said earlier, had set out as soon as the treaty was made, taking his own troops along with ten Roman standards of cavalry and infantry and certain envoys from Scipio, in order not only to recover his ancestral kingdom but, with Roman help, to add Syphax’s realm as well. And this in fact came to pass.
 
 It happened at the same time that the envoys sent from Rome sailed into the Roman naval camp.
 
@@ -114,9 +110,7 @@ When the Carthaginians saw their cities being sacked, they sent to Hannibal, beg
 
 He answered the messengers that they should concern themselves with other matters and leave this to him, since he himself would judge the right moment.
 
-A few days later he broke camp from the region near Hadrumetum, advanced, and encamped near Zama, a city about five days’ journey west of Carthage. From there he sent out three spies,
-
-wanting to learn where the Romans were encamped and how their general had arranged his camp.
+A few days later he broke camp from the region near Hadrumetum, advanced, and encamped near Zama, a city about five days’ journey west of Carthage. From there he sent out three spies, wanting to learn where the Romans were encamped and how their general had arranged his camp.
 
 When these spies were brought before Scipio, he was so far from punishing them, as others normally would, that he assigned them a tribune and ordered him to show them everything in the camp plainly and in full.
 
@@ -132,7 +126,7 @@ When Scipio heard the herald’s message, he agreed and said he would send word 
 
 The herald, after hearing this, returned to Hannibal’s camp.
 
-The next day Massanissa arrived with about six thousand infantry and four thousand cavalry.
+The next day Masinissa arrived with about six thousand infantry and four thousand cavalry.
 
 Scipio received him warmly and congratulated him on having made all those who had formerly obeyed Syphax subject to his power.
 
@@ -150,13 +144,11 @@ Hannibal greeted him first and began by saying that he wished the Romans had nev
 
 For these, he said, were the finest dominions for each people, and in a sense seemed to have been marked out by nature itself.
 
-But since they had first gone to war over Sicily, then again over Iberia, and at last, though fortune had already given them warning, had advanced so far that one side had risked the very soil of its fatherland while the other was even now doing so,
-
-nothing remained but, if possible, by their own efforts to placate the gods and put an end to the rivalry now before them.
+But since they had first gone to war over Sicily, then again over Iberia, and at last, though fortune had already given them warning, had advanced so far that one side had risked the very soil of its fatherland while the other was even now doing so, nothing remained but, if possible, by their own efforts to placate the gods and put an end to the rivalry now before them.
 
 For his own part, he said, experience had taught him that Fortune is quick to change and can tilt great matters either way on the slightest occasion, handling human beings almost like little children.
 
-## Book 15 Chapter 7: Conclusion of Hannibal's Speech
+## Book 15 Chapter 7: Conclusion of Hannibal’s Speech
 
 And yet, Hannibal said, it was chiefly for Scipio himself that he felt concern, because Scipio was still very young, because everything in Iberia and Libya had gone according to his wishes, and because he had not yet experienced the ebb of Fortune. Hannibal feared that for these reasons Scipio might not be persuaded by words that were nevertheless true.
 
@@ -164,19 +156,17 @@ But, he said, consider the reality from one example, not from some story of long
 
 I am that Hannibal who, after the battle of Cannae, became master of almost all Italy and, after some time, came to Rome itself and encamped within forty stades of it, deliberating how I should deal with you and the soil of your fatherland.
 
-And now I am here in Libya, meeting with you, a Roman, to discuss the safety of myself and the Carthaginians. Looking at this, do not be proud,
-
-but deliberate like a man, with full awareness of the human condition. That means always choosing the greatest good and the least evil.
+And now I am here in Libya, meeting with you, a Roman, to discuss the safety of myself and the Carthaginians. Looking at this, do not be proud, but deliberate like a man, with full awareness of the human condition. That means always choosing the greatest good and the least evil.
 
 For what sensible man would willingly rush into the danger now set before you? If you win, you will add little to your own glory or to that of your country; but if you lose, you will by your own act wipe away all the noble and splendid things you have achieved before now.
 
 So what is the purpose of all I am saying?
 
-That everything over which we previously disputed should belong to the Romans — Sicily, Sardinia, and the territories in Iberia — and that the Carthaginians should never again wage war against Rome over these matters; and likewise that all the other islands lying between Italy and Libya should belong to Rome.
+That everything over which we previously disputed should belong to the Romans—Sicily, Sardinia, and the territories in Iberia—and that the Carthaginians should never again wage war against Rome over these matters; and likewise that all the other islands lying between Italy and Libya should belong to Rome.
 
 For I am convinced that these terms would be the safest for the future of Carthage, and the most honorable for you and for all the Romans.
 
-## Book 15 Chapter 8: Scipio's reply
+## Book 15 Chapter 8: Scipio’s reply
 
 Such was Hannibal’s speech. Scipio answered that in neither the war over Sicily nor that over Iberia had the Romans been the aggressors; plainly the Carthaginians had been, and no one knew that better than Hannibal himself.
 
@@ -210,7 +200,7 @@ So this was his conclusion: the Carthaginians must place themselves and their fa
 
 After this exchange Hannibal and Scipio parted, their conference having ended without agreement.
 
-At first light the next day both commanders led out their armies and began the contest — for the Carthaginians it was a fight for their own survival and for power in Libya, for the Romans a struggle for universal empire and supremacy.
+At first light the next day both commanders led out their armies and began the contest—for the Carthaginians it was a fight for their own survival and for power in Libya, for the Romans a struggle for universal empire and supremacy.
 
 And who, understanding the situation, would not be moved by the story?
 
@@ -222,13 +212,13 @@ Scipio drew up his own forces in the following way.
 
 First he posted the hastati, with intervals between the maniples; behind them the principes, placing their companies not opposite the gaps in the front line, as Roman custom usually required, but directly behind the first line and at some distance, because of the great number of elephants in the enemy army. Last of all he stationed the triarii.
 
-On the wings he placed Gaius Laelius on the left with the Italian cavalry, and Massanissa on the right with all the Numidians under his command.
+On the wings he placed Gaius Laelius on the left with the Italian cavalry, and Masinissa on the right with all the Numidians under his command.
 
 The gaps between the front maniples he filled with units of javelin-men, ordering them to begin the fighting.
 
 If they were driven back by the elephants’ charge, some were to retreat through the straight lanes between the maniples to the rear of the whole force, while any who were caught up at close quarters were to slip aside into the lateral spaces by the standards.
 
-## Book 15 Chapter 10: Scipio's Speech to his Men
+## Book 15 Chapter 10: Scipio’s Speech to his Men
 
 After making these arrangements, Scipio moved along the line encouraging the troops, speaking briefly but in a way perfectly suited to the danger before them.
 
@@ -240,13 +230,13 @@ For there was no place in Libya that could provide safety for fugitives, and any
 
 Since Fortune had set before them the greatest of prizes, whichever way the battle went, would they not be the basest and most senseless of men if, out of mere love of life, they let go the noblest of goods and deliberately chose the worst of evils?
 
-So he urged them, with only two things set before them — victory or death — to go straight at the enemy.
+So he urged them, with only two things set before them—victory or death—to go straight at the enemy.
 
 For men who hold such a resolve, he said, necessarily defeat those drawn up against them, once they go into battle with no hope left except in fighting.
 
-## Book 15 Chapter 11: Hannibal's Preparations and Speech
+## Book 15 Chapter 11: Hannibal’s Preparations and Speech
 
-Such was Scipio’s exhortation. Hannibal, for his part, placed the elephants — more than eighty of them — in front of his entire army; after them he stationed the mercenaries, about twelve thousand in number, consisting of Ligurians, Celts, Balearians, and Mauretanians.
+Such was Scipio’s exhortation. Hannibal, for his part, placed the elephants—more than eighty of them—in front of his entire army; after them he stationed the mercenaries, about twelve thousand in number, consisting of Ligurians, Celts, Balearians, and Mauretanians.
 
 Behind these he drew up the native Libyans and Carthaginians, and behind all the rest, at a distance of more than a stade from the troops in front, the men who had come with him from Italy.
 
@@ -260,9 +250,7 @@ Hannibal himself rode along the men who had come with him and urged them at grea
 
 In all those struggles, he said, they had remained undefeated and had never even left the Romans any hope of victory.
 
-Above all, setting aside the lesser battles and their countless advantages, they must keep before their eyes the battle by the river Trebia against the father of the present Roman commander, then the battle in Etruria against Flaminius, and after that the battle at Cannae against Aemilius,
-
-battles with which the present danger could not compare, whether in the number of enemy troops or in their quality.
+Above all, setting aside the lesser battles and their countless advantages, they must keep before their eyes the battle by the river Trebia against the father of the present Roman commander, then the battle in Etruria against Flaminius, and after that the battle at Cannae against Aemilius, battles with which the present danger could not compare, whether in the number of enemy troops or in their quality.
 
 As he said this, he told them to look up and inspect the enemy ranks. They would see that these men were not only fewer than those they had fought before, but not even a small fraction of them, and in fighting quality they did not deserve comparison.
 
@@ -276,7 +264,7 @@ Such, or words very like these, were the exhortations made on both sides.
 
 Once everything on both sides was ready for battle, and the Numidian cavalry had already been skirmishing with one another for some time, Hannibal gave the order for the elephant-drivers to charge the enemy.
 
-But when the trumpets and horns sounded all around them, some of the beasts were thrown into confusion and wheeled about against the Numidian allies supporting the Carthaginians; and by this Massanissa quickly stripped the Carthaginian left wing of its mounted support.
+But when the trumpets and horns sounded all around them, some of the beasts were thrown into confusion and wheeled about against the Numidian allies supporting the Carthaginians; and by this Masinissa quickly stripped the Carthaginian left wing of its mounted support.
 
 The rest of the elephants collided with the Roman javelin-men in the space between the battle lines and both inflicted and suffered heavy damage.
 
@@ -284,17 +272,13 @@ At last, terrified, some of them ran off down the lanes between the Roman format
 
 At that moment Laelius too, taking advantage of the confusion caused by the elephants, charged and forced the Carthaginian cavalry into headlong flight.
 
-He pursued the fugitives vigorously, and Massanissa did the same.
+He pursued the fugitives vigorously, and Masinissa did the same.
 
-Meanwhile the infantry lines on both sides advanced upon one another at a measured pace and with proud confidence — all except the troops who had come from Italy with Hannibal, who held their original position.
+Meanwhile the infantry lines on both sides advanced upon one another at a measured pace and with proud confidence—all except the troops who had come from Italy with Hannibal, who held their original position.
 
 When the opposing lines came close, the Romans raised their customary battle cry, beat their swords against their shields, and charged.
 
-But the Carthaginian mercenaries raised a confused and discordant clamor,
-
-for, as the poet says, “their cry was not one and the same, nor was their speech one,”
-
-since they were men of many peoples and many tongues, just as I listed a moment ago.
+But the Carthaginian mercenaries raised a confused and discordant clamor, for, as the poet says, “their cry was not one and the same, nor was their speech one,” since they were men of many peoples and many tongues, just as I listed a moment ago.
 
 ## Book 15 Chapter 13: Cowardice of the Carthaginians
 
@@ -332,7 +316,7 @@ When they had come through and drawn level with the hastati, the lines clashed w
 
 Since both sides were nearly equal in numbers, spirit, courage, and equipment, the battle remained undecided for a long time, men dying where they stood because of sheer determination.
 
-At last Massanissa and Laelius, wheeling back from their pursuit of the cavalry, arrived at exactly the right moment.
+At last Masinissa and Laelius, wheeling back from their pursuit of the cavalry, arrived at exactly the right moment.
 
 When they fell on Hannibal’s troops from the rear, most of the Carthaginians were cut down in their ranks, and of those who turned to flee only a few escaped entirely, since the cavalry were upon them and the ground was flat.
 
@@ -352,11 +336,9 @@ That is what one does who understands success, yet does not trust Fortune, and w
 
 Then, when he had accepted battle, he handled matters in such a way that, against Romans armed in similar fashion, no better plan of engagement could have been devised than the one Hannibal then arranged.
 
-For since the Roman formation is hard to break, and since in general and in detail a Roman force can fight in every direction out of a single deployment, with the nearest standards always wheeling to the point of danger,
+For since the Roman formation is hard to break, and since in general and in detail a Roman force can fight in every direction out of a single deployment, with the nearest standards always wheeling to the point of danger, and since their equipment gives both protection and confidence, by reason of the great shield and the sword’s power to endure heavy blows, they are for these reasons difficult opponents and hard to master.
 
-and since their equipment gives both protection and confidence, by reason of the great shield and the sword’s power to endure heavy blows, they are for these reasons difficult opponents and hard to master.
-
-## Book 15 Chapter 16: Hannibal's Tactics Sound
+## Book 15 Chapter 16: Hannibal’s Tactics Sound
 
 Yet despite all this, Hannibal adapted himself to each of these difficulties as well as circumstances allowed, leaving nothing better to be desired.
 
@@ -380,9 +362,7 @@ Scipio began briefly by saying that for their own sake the Romans owed them no k
 
 Any mildness now shown them, he said, was for the Romans’ own sake, out of regard for Fortune and for the human condition, and because they had decided to behave with magnanimity.
 
-And this, he said, would become clear to the envoys too if they judged the present position rightly. They ought not to count it terrible if they were ordered to suffer, to do, or to surrender certain things; rather,
-
-they should regard it as remarkable if any act of humanity at all were granted them, since Fortune, by reason of their own injustice, had taken away any claim they had to pity or indulgence and had made them subject to their enemies.
+And this, he said, would become clear to the envoys too if they judged the present position rightly. They ought not to count it terrible if they were ordered to suffer, to do, or to surrender certain things; rather, they should regard it as remarkable if any act of humanity at all were granted them, since Fortune, by reason of their own injustice, had taken away any claim they had to pity or indulgence and had made them subject to their enemies.
 
 After saying this, he set out what leniencies were being granted and, in turn, what penalties they would have to endure.
 
@@ -396,7 +376,7 @@ These were the favorable terms. The opposite clauses were that the Carthaginians
 
 They were to wage war on no people outside Libya at all, and on none within Libya without Roman consent.
 
-They were to restore to King Massanissa every house, tract of land, city, and whatever else had belonged either to him or to his ancestors within the boundaries that would be assigned to him.
+They were to restore to King Masinissa every house, tract of land, city, and whatever else had belonged either to him or to his ancestors within the boundaries that would be assigned to him.
 
 They were to furnish the Roman army with provisions for three months and to pay it until a reply came from Rome regarding the treaty.
 
@@ -426,11 +406,7 @@ The council immediately sent envoys to agree formally to them.
 
 ## Book 15 Chapter 20: League Against Ptolemy Epiphanes
 
-II. Affairs of Macedonia and Greece
-
-Who would not marvel at this: while Ptolemy himself was alive and did not need their help, these kings were ready to assist him,
-
-but when he died and left behind a mere infant, whose kingdom both of them were naturally bound to preserve, then they invited one another to divide the child’s dominion between themselves and remove the heir he had left.
+II. Affairs of Macedonia and Greece Who would not marvel at this: while Ptolemy himself was alive and did not need their help, these kings were ready to assist him, but when he died and left behind a mere infant, whose kingdom both of them were naturally bound to preserve, then they invited one another to divide the child’s dominion between themselves and remove the heir he had left.
 
 And they did not, like tyrants, put forward even some small pretext to veil their shame; rather they acted openly and brutally, in a way so savage that it calls to mind the life attributed to fish, among whom the destruction of the smaller becomes food and sustenance for the larger, though they are of the same kind.
 
@@ -466,33 +442,23 @@ And they do so even though they know perfectly well that no one who swallows suc
 
 When Philip had gained possession of the city, he was overjoyed, as if he had accomplished some noble and splendid deed, having zealously aided his brother-in-law, overawed all who resisted him, and gained an abundance of bodies and money by what he imagined was just warfare.
 
-But he failed to see the opposite side of the matter, though it was plain enough: first, that he was helping his brother-in-law not when wronged, but when that man was treacherously attacking his neighbors in violation of faith;
+But he failed to see the opposite side of the matter, though it was plain enough: first, that he was helping his brother-in-law not when wronged, but when that man was treacherously attacking his neighbors in violation of faith; second, that by unjustly surrounding a Greek city with the greatest misfortunes he was bound to confirm the reputation already spread abroad concerning his cruelty toward his friends, and by both actions would justly inherit throughout Greece a name for impiety; third, that he had insulted the envoys from the cities already mentioned, who had come to rescue the people of Cius from the dangers around them, but after being put off and mocked by him day after day were forced to witness with their own eyes what they most wished not to see; and beyond all this, that he had made the Rhodians so savage in their anger against him that they would no longer listen to a word in his favor.
 
-second, that by unjustly surrounding a Greek city with the greatest misfortunes he was bound to confirm the reputation already spread abroad concerning his cruelty toward his friends, and by both actions would justly inherit throughout Greece a name for impiety;
-
-third, that he had insulted the envoys from the cities already mentioned, who had come to rescue the people of Cius from the dangers around them, but after being put off and mocked by him day after day were forced to witness with their own eyes what they most wished not to see;
-
-and beyond all this, that he had made the Rhodians so savage in their anger against him that they would no longer listen to a word in his favor.
-
-## Book 15 Chapter 23: The Rhodians Object to Philip's Treatment of Cius
+## Book 15 Chapter 23: The Rhodians Object to Philip’s Treatment of Cius
 
 And in this matter Fortune plainly cooperated against Philip as well.
 
-For while his ambassador was making his defense before the Rhodians in the theater, proclaiming Philip’s greatness of spirit and saying that, though he was in effect already master of Cius, he was granting this favor to the Rhodian people because he wished to refute the slanders of his opponents and make his own intentions clear to the city,
-
-at that very moment a man who had just landed came to the prytaneum announcing the enslavement of the people of Cius and the cruelty Philip had shown in the affair.
+For while his ambassador was making his defense before the Rhodians in the theater, proclaiming Philip’s greatness of spirit and saying that, though he was in effect already master of Cius, he was granting this favor to the Rhodian people because he wished to refute the slanders of his opponents and make his own intentions clear to the city, at that very moment a man who had just landed came to the prytaneum announcing the enslavement of the people of Cius and the cruelty Philip had shown in the affair.
 
 So while the ambassador was still speaking, and the prytanis came forward and reported the news, the Rhodians could hardly believe it because the faithlessness was so extreme.
 
-Thus Philip had betrayed not so much the people of Cius as himself, and had fallen into such ignorance — or rather such transgression — of what was fitting that he boasted and gloried in deeds for which he ought to have felt the deepest shame.
+Thus Philip had betrayed not so much the people of Cius as himself, and had fallen into such ignorance—or rather such transgression—of what was fitting that he boasted and gloried in deeds for which he ought to have felt the deepest shame.
 
 From that day onward the Rhodian people regarded Philip as an enemy and made their preparations accordingly.
 
 By this same action he aroused similar hatred against himself among the Aetolians.
 
-For he had only recently made peace with them and offered them the hand of friendship. No pretext for a breach had arisen; and the Aetolians, the people of Lysimachia,
-
-the Chalcedonians, and the people of Cius had all been friends and allies. Yet shortly before this he had first detached Lysimachia from the Aetolian alliance and brought it over to himself, then treated Chalcedon in the same way, and finally enslaved the people of Cius, even though an Aetolian officer was residing there and directing public affairs.
+For he had only recently made peace with them and offered them the hand of friendship. No pretext for a breach had arisen; and the Aetolians, the people of Lysimachia, the Chalcedonians, and the people of Cius had all been friends and allies. Yet shortly before this he had first detached Lysimachia from the Aetolian alliance and brought it over to himself, then treated Chalcedon in the same way, and finally enslaved the people of Cius, even though an Aetolian officer was residing there and directing public affairs.
 
 Prusias, because his design had been accomplished, was delighted on the one hand; but because another man carried off the real prize while he himself inherited only the bare, desolate site of a city, he was displeased and yet able to do nothing.
 
@@ -512,9 +478,7 @@ But when a king is attempting the greatest enterprises, embracing the whole inha
 
 ## Book 15 Chapter 24a: Egypt
 
-III. Affairs of Egypt
-
-Since in each year we recount the events that happened in the various parts of the inhabited world in their proper sequence, it is plain that in some cases the end must be presented before the beginning, whenever that section first falls into place in the division of the whole work and, in the progress of the narrative, the event containing the conclusion naturally comes before the one containing the beginning and first design.
+III. Affairs of Egypt Since in each year we recount the events that happened in the various parts of the inhabited world in their proper sequence, it is plain that in some cases the end must be presented before the beginning, whenever that section first falls into place in the division of the whole work and, in the progress of the narrative, the event containing the conclusion naturally comes before the one containing the beginning and first design.
 
 ## Book 15 Chapter 25: Ptolemy Epiphanes Succeeds To the Crown
 
@@ -556,9 +520,7 @@ He thought that troops recruited and paid by himself would feel no sympathy with
 
 All this happened before the negotiations with Philip, as I have said; but since those matters had to be taken first in the order of the narrative, it was necessary to handle these events in this way, by first describing the audiences, the diplomatic dealings, and the dispatch of the ambassadors.
 
-Agathocles, then, once he had removed the most distinguished men and to a great extent checked the anger of the crowd by distributing pay, promptly returned to his former habits. He filled the places of his friends
-
-by drawing from the attendants and other servants the most worthless and shameless men.
+Agathocles, then, once he had removed the most distinguished men and to a great extent checked the anger of the crowd by distributing pay, promptly returned to his former habits. He filled the places of his friends by drawing from the attendants and other servants the most worthless and shameless men.
 
 He himself spent most of day and night in drunkenness and the excesses that follow it, sparing neither mature women nor brides nor unmarried girls, and he did all this with the most offensive display.
 
@@ -578,7 +540,7 @@ At the same time he did not despair of gaining the guardianship of the child and
 
 With dispositions such as these on his side, the quarrel soon grew, since both factions helped to inflame it.
 
-For Tlepolemus, eager to win over the generals, the taxiarchs, and the officers under them, carefully arranged drinking parties; and at these gatherings, partly from the flattery of his companions and partly from his own impulse — since he was young and the conversation was carried on over wine — he cast jibes at the family of Agathocles, at first riddling and obscure, then ambiguous, and at last open and filled with the bitterest abuse.
+For Tlepolemus, eager to win over the generals, the taxiarchs, and the officers under them, carefully arranged drinking parties; and at these gatherings, partly from the flattery of his companions and partly from his own impulse—since he was young and the conversation was carried on over wine—he cast jibes at the family of Agathocles, at first riddling and obscure, then ambiguous, and at last open and filled with the bitterest abuse.
 
 He mocked the writer of lampoons, the sambuca-girl, the lady’s maid, and that little page who had done and suffered everything at drinking parties when as a boy he poured wine for the king.
 
@@ -598,7 +560,7 @@ Agathocles first assembled the Macedonians, and before them he entered with the 
 
 At first he acted the part of a man unable to say what he wished because of the flood of tears that overcame him.
 
-But after repeatedly wiping his face with his cloak and mastering the display, he lifted up the child and said, “Take this boy, whom his father, when dying, placed in this woman’s arms” — pointing to his sister — “and entrusted, Macedonians, to your keeping.
+But after repeatedly wiping his face with his cloak and mastering the display, he lifted up the child and said, “Take this boy, whom his father, when dying, placed in this woman’s arms”—pointing to his sister—“and entrusted, Macedonians, to your keeping.
 
 Her goodwill contributes only a slight advantage toward his safety; but his whole situation now lies with you and in your hands.
 
@@ -642,9 +604,7 @@ So Moeragenes was at once arrested by Nicostratus and taken to a secluded part o
 
 When he admitted nothing, he was stripped, and some were making ready the instruments of torture while others, with whips in hand, were taking off their cloaks.
 
-At just that moment one of the attendants ran up to Nicostratus, whispered something in his ear, and hurried away again. Nicostratus followed close behind him,
-
-saying nothing but repeatedly slapping his thigh as he went.
+At just that moment one of the attendants ran up to Nicostratus, whispered something in his ear, and hurried away again. Nicostratus followed close behind him, saying nothing but repeatedly slapping his thigh as he went.
 
 ## Book 15 Chapter 28: Moeragenes Escapes
 
@@ -706,7 +666,7 @@ Some were gathering in the stadium with shouting, some were calling one another 
 
 Already the open spaces around the palace, the stadium, the broad street, and the area by the Dionysian theater were full of every sort of crowd.
 
-When Agathocles learned what was happening, he roused himself out of drunkenness — he had only just dismissed his drinking party — and taking with him all his relatives except Philo, he went to the king.
+When Agathocles learned what was happening, he roused himself out of drunkenness—he had only just dismissed his drinking party—and taking with him all his relatives except Philo, he went to the king.
 
 After briefly lamenting his own misfortune to the boy and taking him by the hand, he went up into the covered passage that lay between the Maeander and the wrestling-school and led to the entrance of the theater.
 
@@ -758,9 +718,7 @@ Among the crowd there was at once both joy and grief: they were delighted that t
 
 So they kept shouting continuously, demanding that the authors of all the evils be brought out and made an example.
 
-As the day wore on and the crowd found no one on whom it could vent its rage, Sosibius — the son of Sosibius, and at that time one of the bodyguards, a man especially attentive to the king and the state —
-
-seeing both that the people’s fury was unchangeable and that the child was suffering from the unfamiliar faces around him and from the uproar of the crowd, asked the king whether he would hand over to the people those who had wronged him or his mother.
+As the day wore on and the crowd found no one on whom it could vent its rage, Sosibius—the son of Sosibius, and at that time one of the bodyguards, a man especially attentive to the king and the state—seeing both that the people’s fury was unchangeable and that the child was suffering from the unfamiliar faces around him and from the uproar of the crowd, asked the king whether he would hand over to the people those who had wronged him or his mother.
 
 When the boy nodded, Sosibius told some of the bodyguards to announce the king’s decision, while he himself lifted the child up and took him to his own nearby house to be cared for.
 
@@ -768,7 +726,7 @@ As the king’s command was announced, the whole place burst with clapping and s
 
 At that moment Agathocles and Agathocleia separated and withdrew to their respective lodgings.
 
-Then some of the soldiers — some volunteering, others pushed on by the crowd — rushed off to search for them.
+Then some of the soldiers—some volunteering, others pushed on by the crowd—rushed off to search for them.
 
 ## Book 15 Chapter 33: The Massacre of Agathocles and Family
 
@@ -782,9 +740,7 @@ Some of those who heard him abused him, others shoved him about, and when he tri
 
 As soon as he was dragged insultingly into the middle, still writhing, and the crowd had tasted blood, they all began eagerly waiting for the arrival of the others.
 
-Not long after, Agathocles himself came first, led in bound. The moment he entered, some rushed at him and stabbed him on the spot — an act done more by friends than by enemies, since they spared him the punishment he truly deserved. After him came Nicon,
-
-then Agathocleia naked with her sisters, and after them all the rest of the family.
+Not long after, Agathocles himself came first, led in bound. The moment he entered, some rushed at him and stabbed him on the spot—an act done more by friends than by enemies, since they spared him the punishment he truly deserved. After him came Nicon, then Agathocleia naked with her sisters, and after them all the rest of the family.
 
 Last of all they dragged Oenanthe from the Thesmophorium into the stadium, bringing her in naked on horseback.
 
@@ -804,9 +760,7 @@ I am not unaware of the marvels and embellishments with which some writers have 
 
 Some refer everything to Fortune and place before the eyes the uncertainty and slipperiness of her workings; others dwell on the unexpectedness of what happened and try to supply the events with causes and probabilities.
 
-But I did not intend to handle the matter in that way, because Agathocles was neither distinguished for military daring and power,
-
-nor successful and admirable in administration, nor finally remarkable for courtly cleverness and villainous intrigue — the sort of ability by which Sosibius and many others managed to survive under one king after another. In Agathocles’ case the opposite of all this was true.
+But I did not intend to handle the matter in that way, because Agathocles was neither distinguished for military daring and power, nor successful and admirable in administration, nor finally remarkable for courtly cleverness and villainous intrigue—the sort of ability by which Sosibius and many others managed to survive under one king after another. In Agathocles’ case the opposite of all this was true.
 
 For he had indeed gained an astonishing advancement because of Philopator’s incapacity to rule.
 
@@ -816,7 +770,7 @@ But after gaining that position, and after receiving the most favorable opportun
 
 Therefore one ought not to attach an elaborate moralizing discourse to men of this kind, as I said, in the way one might with Agathocles and Dionysius of Sicily and certain other men whose public careers won a real name.
 
-For one of those men began from a common and humble station, and Agathocles — as Timaeus says mockingly — was a potter who left wheel, clay, and smoke behind and came as a young man to Syracuse.
+For one of those men began from a common and humble station, and Agathocles—as Timaeus says mockingly—was a potter who left wheel, clay, and smoke behind and came as a young man to Syracuse.
 
 At first, in their own generations, both became tyrants of Syracuse, a city that at that time had attained the highest distinction and greatest wealth.
 
@@ -852,8 +806,6 @@ Accordingly they do not notice that they are spending too much speech on things 
 
 ## Book 15 Chapter 37: Antiochus
 
-IV. Affairs of Asia
-
-King Antiochus at the beginning of his reign seemed a man of vast designs, boldness, and energetic execution.
+IV. Affairs of Asia King Antiochus at the beginning of his reign seemed a man of vast designs, boldness, and energetic execution.
 
 But as he advanced in age he proved far inferior both to his earlier self and to the expectation others had formed of him.

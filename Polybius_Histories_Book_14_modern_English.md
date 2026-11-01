@@ -4,11 +4,7 @@ Modern English translation of the Greek text.
 
 ## Book 14 Chapter 1: Scipio Plans To Attack the Punic Camp
 
-II. Scipio’s Actions in Africa
-
-While the consuls were occupied with these matters,
-
-Publius in Libya, during the winter quarters, learned that the Carthaginians were equipping a fleet. He therefore gave attention both to that preparation and no less to the siege of Utica.
+II. Scipio’s Actions in Africa While the consuls were occupied with these matters, Publius in Libya, during the winter quarters, learned that the Carthaginians were equipping a fleet. He therefore gave attention both to that preparation and no less to the siege of Utica.
 
 Yet he had not completely abandoned hope in regard to Syphax. Since their forces were not far apart, he kept sending messages, convinced that he would draw him away from the alliance with the Carthaginians.
 
@@ -16,9 +12,7 @@ For he did not despair that the king had already begun to feel satiety with the 
 
 But since his mind was occupied with many concerns and he entertained shifting hopes about the future, while dreading the danger before him because the enemy were many times more numerous, he seized on the following opportunity.
 
-Some of the men sent to Syphax reported to him that the Carthaginians in their winter camp had made their huts from all kinds of timber and leafy brush, without earth,
-
-while the Numidians made theirs from reeds, and the reinforcements now gathering from the towns were for the present building shelters from foliage alone, some inside the ditch and stockade, but most of them outside.
+Some of the men sent to Syphax reported to him that the Carthaginians in their winter camp had made their huts from all kinds of timber and leafy brush, without earth, while the Numidians made theirs from reeds, and the reinforcements now gathering from the towns were for the present building shelters from foliage alone, some inside the ditch and stockade, but most of them outside.
 
 Publius therefore concluded that an attack by fire would be, for the enemy, the most unexpected course possible, and for his own side the most practical. So he turned his attention to preparing this plan.
 
@@ -38,9 +32,7 @@ This latter camp was easier to approach and its huts were especially fit to be b
 
 ## Book 14 Chapter 1a: Preface
 
-I. From the Preface
-
-Polybius says of himself and of the plan of his books: perhaps, then, the summaries prefixed to each Olympiad bring readers to understanding both because of the number and because of the greatness of the events, since deeds from the whole inhabited world are being brought under one general view.
+I. From the Preface Polybius says of himself and of the plan of his books: perhaps, then, the summaries prefixed to each Olympiad bring readers to understanding both because of the number and because of the greatness of the events, since deeds from the whole inhabited world are being brought under one general view.
 
 Yet I think the events of this Olympiad especially will make an impression on readers, first because in this period the wars in Italy and Libya reached their conclusion. And who would not wish to learn what sort of outcome and ending they had?
 
@@ -52,13 +44,9 @@ Therefore, wishing to make the exposition proportionate to the importance of the
 
 ## Book 14 Chapter 2: Scipio Prepares to Attack Utica by Sea
 
-When the season of spring was already beginning to show itself, and Scipio had fully investigated everything concerning the enemy for the attack just mentioned,
+When the season of spring was already beginning to show itself, and Scipio had fully investigated everything concerning the enemy for the attack just mentioned, he launched his ships and fitted them with engines as though he intended to besiege Utica from the sea.
 
-he launched his ships and fitted them with engines as though he intended to besiege Utica from the sea.
-
-With about two thousand infantry he once more occupied the hill above the city and strongly fortified it with elaborate trenchworks,
-
-making the enemy think he was doing this for the sake of the siege, though in truth he wanted to place a reserve there for the crucial moment of the operation, so that when the camps were separated from the Roman position, the soldiers watching Utica might not dare to sally out from the city, attack the nearby palisade, and besiege those guarding it.
+With about two thousand infantry he once more occupied the hill above the city and strongly fortified it with elaborate trenchworks, making the enemy think he was doing this for the sake of the siege, though in truth he wanted to place a reserve there for the crucial moment of the operation, so that when the camps were separated from the Roman position, the soldiers watching Utica might not dare to sally out from the city, attack the nearby palisade, and besiege those guarding it.
 
 While he was making these preparations, he also sent repeatedly to Syphax, asking whether, if he accepted the proposals being made, the Carthaginians too would be content with them, or whether they would once again say that they must deliberate about the concessions.
 
@@ -88,21 +76,17 @@ After much perplexed discussion, they considered how they ought to handle what c
 
 For they had no suspicion at all that they needed to take precautions or that some terrible blow was hanging over them; rather, they were full of eagerness to do something themselves and to draw the enemy down onto level ground.
 
-At this time Publius, by his preparations and his orders, led the mass of the army to suppose that he had some operation in hand against Utica,
-
-but, summoning at midday the ablest and most trustworthy tribunes, he disclosed the plan to them and ordered them, after taking supper at the proper hour, to lead the forces outside the palisade as soon as all the trumpeters gave the usual signal together.
+At this time Publius, by his preparations and his orders, led the mass of the army to suppose that he had some operation in hand against Utica, but, summoning at midday the ablest and most trustworthy tribunes, he disclosed the plan to them and ordered them, after taking supper at the proper hour, to lead the forces outside the palisade as soon as all the trumpeters gave the usual signal together.
 
 For among the Romans it is the custom at supper time for all the buglers and trumpeters to sound near the general’s tent, so that the night watches may then take up their posts in the usual places.
 
-After this he called back the scouts whom he had been sending into the enemy camps and compared and examined their reports about the approaches and entrances to the encampments, using Massanissa, because of his knowledge of the country, as both judge of what they said and adviser.
+After this he called back the scouts whom he had been sending into the enemy camps and compared and examined their reports about the approaches and entrances to the encampments, using Masinissa, because of his knowledge of the country, as both judge of what they said and adviser.
 
 ## Book 14 Chapter 4: The Romans Burn the Enemy Camp
 
 When everything needed for the present operation was ready, he left in the camp men sufficient and suitable for its defense, took up his forces, and advanced just as the first watch was ending, for the enemy were about sixty stades away.
 
-When he drew near the enemy, around the close of the third watch, he assigned half the soldiers and all the Numidians to Gaius Laelius and Massanissa, ordering them to attack Syphax’s palisade,
-
-and exhorting them to prove themselves brave men and do nothing rashly, knowing clearly that, in proportion as darkness hinders and blocks the use of sight, night attacks require that one make up the loss by intelligence and courage.
+When he drew near the enemy, around the close of the third watch, he assigned half the soldiers and all the Numidians to Gaius Laelius and Masinissa, ordering them to attack Syphax’s palisade, and exhorting them to prove themselves brave men and do nothing rashly, knowing clearly that, in proportion as darkness hinders and blocks the use of sight, night attacks require that one make up the loss by intelligence and courage.
 
 He himself took the rest of the army and advanced against Hasdrubal. His calculation was not to begin the attack until Laelius and his force had first thrown fire among the enemy.
 
@@ -110,7 +94,7 @@ So, with these intentions, he advanced at a measured pace. Meanwhile the force u
 
 Since the arrangement of the huts was, as I said earlier, almost as though purposely designed for burning, the moment the leading men cast in the fire and it spread among the first tents, the disaster at once became uncontrollable because the huts stood so close together and because of the mass of combustible material beneath them.
 
-Laelius stayed behind in reserve formation; but Massanissa, knowing the places by which those fleeing the fire were likely to retreat, stationed his soldiers at those points.
+Laelius stayed behind in reserve formation; but Masinissa, knowing the places by which those fleeing the fire were likely to retreat, stationed his soldiers at those points.
 
 None of the Numidians had the least suspicion of what was happening—not even Syphax himself—but they took it to be an accidental fire in the palisade.
 
@@ -120,9 +104,7 @@ Many were trampled down by their own people at the camp exits; many, hemmed in b
 
 ## Book 14 Chapter 5: Dreadful Scene In the Burning Camps
 
-At this same moment the Carthaginians, seeing the mass of the fire and the greatness of the flame leaping up, supposed that the Numidians’ palisade had caught fire by accident. Some of them therefore ran straight out to help,
-
-while all the rest poured unarmed out of their camp and gathered before their own encampment, astonished at what was happening.
+At this same moment the Carthaginians, seeing the mass of the fire and the greatness of the flame leaping up, supposed that the Numidians’ palisade had caught fire by accident. Some of them therefore ran straight out to help, while all the rest poured unarmed out of their camp and gathered before their own encampment, astonished at what was happening.
 
 Scipio, since events were advancing exactly as he could have wished, fell upon those who had come out, killing some and, by chasing others back, at the same time throwing fire into the huts.
 
@@ -176,17 +158,17 @@ Others urged that envoys should be sent to Publius to discuss an armistice and s
 
 For, they said, he had withdrawn nearby to Abba and was gathering together those who had escaped the danger. In the end this last opinion prevailed.
 
-So they set about collecting forces, sent out Hasdrubal, and dispatched messengers to Syphax, begging him to assist them and to hold to the original plan, since a general with forces would very soon join him ...
+So they set about collecting forces, sent out Hasdrubal, and dispatched messengers to Syphax, begging him to assist them and to hold to the original plan, since a general with forces would very soon join him [...]
 
 ## Book 14 Chapter 7: Carthaginians Reinforced and Resolute
 
-... and link up with him. The Roman commander meanwhile continued to work at the siege of Utica; but for the most part, hearing that Syphax was holding firm and that the Carthaginians were again gathering an army, he led out his forces and encamped in front of Utica.
+[...] and link up with him. The Roman commander meanwhile continued to work at the siege of Utica; but for the most part, hearing that Syphax was holding firm and that the Carthaginians were again gathering an army, he led out his forces and encamped in front of Utica.
 
-At the same time, after distributing the spoils ...
+At the same time, after distributing the spoils [...]
 
-... he sent off the merchants ...
+[...] he sent off the merchants [...]
 
-... on profitable terms. For since the recent success held out a fine hope about the whole result, the soldiers made little account of their present gain and readily disposed of it to the merchants.
+[...] on profitable terms. For since the recent success held out a fine hope about the whole result, the soldiers made little account of their present gain and readily disposed of it to the merchants.
 
 As for the king of the Numidians and his friends, at first they decided to continue their retreat straight home.
 
@@ -212,11 +194,11 @@ They remained there for the next two days, testing one another a little by skirm
 
 Publius arranged his line in the ordinary Roman fashion, placing first the standards of the hastati, behind them those of the principes, and lastly those of the triarii in the rear.
 
-Of the cavalry he stationed the Italian horse on the right and the Numidians with Massanissa on the left.
+Of the cavalry he stationed the Italian horse on the right and the Numidians with Masinissa on the left.
 
 Syphax and Hasdrubal placed the Celtiberians in the center opposite the Roman infantry formations, the Numidians on the left wing, and the Carthaginians on the right.
 
-At the very first onset the Numidians gave way before the Italian cavalry, and the Carthaginians before the men under Massanissa, already utterly defeated in spirit by their repeated previous failures.
+At the very first onset the Numidians gave way before the Italian cavalry, and the Carthaginians before the men under Masinissa, already utterly defeated in spirit by their repeated previous failures.
 
 But the Celtiberians fought bravely when they came to close quarters with the Romans. For they had no hope of safety in flight, because they did not know the country, nor, if taken alive, any hope of being spared because of their faithlessness toward Publius.
 
@@ -230,11 +212,11 @@ For if they had not hindered the Romans, and if the Romans had immediately press
 
 But as it was, because the Romans were delayed by dealing with them, Syphax and his cavalry withdrew safely to their own country, while Hasdrubal escaped with those saved from the disaster to Carthage.
 
-## Book 14 Chapter 9: Scipio's Victory On the Great Plains
+## Book 14 Chapter 9: Scipio’s Victory On the Great Plains
 
 When the Roman commander had made proper arrangements about the spoil and the prisoners, he summoned the council and deliberated about what ought to be done next.
 
-It was resolved that the commander, Publius, should remain with part of the force and move through the cities, while Laelius and Massanissa, taking the Numidians and part of the Roman army, should pursue Syphax and give him no time to recover his wits or prepare.
+It was resolved that the commander, Publius, should remain with part of the force and move through the cities, while Laelius and Masinissa, taking the Numidians and part of the Roman army, should pursue Syphax and give him no time to recover his wits or prepare.
 
 Having reached this decision, they separated, the one party going against Syphax with the forces mentioned, while the commander himself went against the cities.
 
@@ -252,11 +234,11 @@ Others said the times no longer allowed such measures, and that they must fortif
 
 At the same time they advised deliberating about peace and treaty terms—on what conditions and by what means they might free themselves from their present troubles.
 
-And after many more speeches on these matters, they ratified ...
+And after many more speeches on these matters, they ratified [...]
 
 ## Book 14 Chapter 10: Scipio Fears a Carthaginian Attack on the Fleet
 
-... all the proposals together. After these decisions were made, those who were to sail to Italy went straight from the council chamber down to the sea, and the admiral went to the ships; the rest took thought for the security of the city and kept continually deliberating about details.
+[...] all the proposals together. After these decisions were made, those who were to sail to Italy went straight from the council chamber down to the sea, and the admiral went to the ships; the rest took thought for the security of the city and kept continually deliberating about details.
 
 Publius meanwhile, as his camp was already filling up with booty because no one resisted and everyone yielded to his attacks, decided to send the greater part of the plunder back to his original camp.
 
@@ -272,19 +254,13 @@ Publius, seeing the enemy sailing up and fearing that something might happen to 
 
 So he immediately broke camp again and hurried back to assist his own side.
 
-When he found that the decked ships were well and properly equipped for hauling and bringing up engines and in general for siege operations, but were least of all prepared for a sea battle, whereas the enemy fleet had spent the entire winter fitting itself out for precisely that purpose,
+When he found that the decked ships were well and properly equipped for hauling and bringing up engines and in general for siege operations, but were least of all prepared for a sea battle, whereas the enemy fleet had spent the entire winter fitting itself out for precisely that purpose, he gave up any thought of sailing out to meet them and fight a naval action. Instead he moored the decked ships together and set the transports around them in lines three and four deep.
 
-he gave up any thought of sailing out to meet them and fight a naval action. Instead he moored the decked ships together and set the transports around them in lines three and four deep.
-
-Then he took down the masts and yards and lashed the ships forcibly together by means of these,
-
-leaving small intervals, enough for light service craft to sail out and pass through.
+Then he took down the masts and yards and lashed the ships forcibly together by means of these, leaving small intervals, enough for light service craft to sail out and pass through.
 
 ## Book 14 Chapter 11: Women at Alexandria
 
-III. Egyptian Affairs
-
-Polybius says in his fourteenth book that Philo became the flatterer of Agathocles, son of Oenanthe and companion of King Philopator.
+III. Egyptian Affairs Polybius says in his fourteenth book that Philo became the flatterer of Agathocles, son of Oenanthe and companion of King Philopator.
 
 Polybius also says in the fourteenth book of the Histories that many statues of Cleino, who served Ptolemy Philadelphus as his wine-pourer, were set up throughout Alexandria, dressed in a single tunic and holding a drinking horn in their hands.
 
@@ -294,7 +270,7 @@ Yet Mnesis was a flute-girl, and so was Pothine; while Myrtion was one of the of
 
 And was it not Agathocleia, the mistress of King Ptolemy Philopator, who held power and overturned the whole kingdom?
 
-## Book 14 Chapter 12: Ptolemy Philopator, B.C. 222-205
+## Book 14 Chapter 12: Ptolemy Philopator, 222–205 BC
 
 Perhaps some people may wonder why, although I write the rest of my history year by year, pairing parallel events together, I have in the present case treated the affairs of Egypt over a longer span of time.
 

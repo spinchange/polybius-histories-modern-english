@@ -4,15 +4,9 @@ Modern English translation of the Greek text.
 
 ## Book 6 Chapter 1: Preface: Political Constitutions
 
-Having halted our narrative at this point, we will set out our account of the Roman constitution,
+Having halted our narrative at this point, we will set out our account of the Roman constitution, in which we will show, step by step, that the distinctive character of their political system contributed more than anything else not only to their winning dominion over the Italians and Sicilians, but also to their further acquisition of rule over the Iberians and the Celts, and finally, after they had defeated the Carthaginians in war, to their conceiving the design of universal empire.
 
-in which we will show, step by step, that the distinctive character of their political system contributed more than anything else not only to their winning dominion over the Italians and Sicilians, but also to their further acquisition of rule over the Iberians and the Celts,
-
-and finally, after they had defeated the Carthaginians in war, to their conceiving the design of universal empire.
-
-But when, in working through the Greek affairs that took place during the same Olympiad, we reach this period, then at last, taking it up as a subject in its own right, we will give our account of the Roman constitution itself,
-
-believing that an exposition of it is not only suited to the design of our history, but also contributes greatly to the reform and construction of constitutions, for those men who are eager to learn and active in public affairs.
+But when, in working through the Greek affairs that took place during the same Olympiad, we reach this period, then at last, taking it up as a subject in its own right, we will give our account of the Roman constitution itself, believing that an exposition of it is not only suited to the design of our history, but also contributes greatly to the reform and construction of constitutions, for those men who are eager to learn and active in public affairs.
 
 And one might well be puzzled as to what the reason is that the Romans, although they have now mastered the whole world and possess a superiority many times greater than before, could nevertheless neither man so many ships nor put to sea with such great fleets as they once did.
 
@@ -26,31 +20,23 @@ This (the college of the Salii) is, as we have stated in our discussion of the c
 
 I am well aware, then, that some will be puzzled as to why, abandoning the unbroken thread of our narrative—the joining and adding on of events—we have deferred to this point our account of the constitution mentioned above.
 
-But that this part too was, from the very beginning, one of the necessary components of my whole design, I think I have made clear in many passages,
-
-and most of all in the foundation and preliminary statement of my history, where I said that this was the finest, and at the same time the most useful, feature of my undertaking for readers of the work: to know and learn how, and by what kind of constitution, nearly the whole inhabited world was overcome and fell under the single rule of the Romans in not even a full fifty-three years—something that is found never to have happened before.
+But that this part too was, from the very beginning, one of the necessary components of my whole design, I think I have made clear in many passages, and most of all in the foundation and preliminary statement of my history, where I said that this was the finest, and at the same time the most useful, feature of my undertaking for readers of the work: to know and learn how, and by what kind of constitution, nearly the whole inhabited world was overcome and fell under the single rule of the Romans in not even a full fifty-three years—something that is found never to have happened before.
 
 This being settled, I could see no time more suitable than the present for pausing to examine and test what is going to be said about the constitution.
 
-For just as those who form private judgments about whether men are worthless or worthy, whenever they genuinely set out to test them, base their inquiry not on the untroubled ease of ordinary life, but on the reversals of misfortune and the successes of good fortune,
-
-regarding this alone as the true touchstone of a complete man—the ability to bear the total reversals of fortune with greatness of soul and nobility—in just the same way one must examine a constitution as well.
+For just as those who form private judgments about whether men are worthless or worthy, whenever they genuinely set out to test them, base their inquiry not on the untroubled ease of ordinary life, but on the reversals of misfortune and the successes of good fortune, regarding this alone as the true touchstone of a complete man—the ability to bear the total reversals of fortune with greatness of soul and nobility—in just the same way one must examine a constitution as well.
 
 For this reason, since I could see no sharper or greater change in our times than the one that befell the Romans, I have reserved for this moment my account of the matters mentioned above; and one may grasp the magnitude of that change from what follows.
 
 What both engages the mind and brings benefit to lovers of learning is precisely this: the study of causes, and the choice of the better course in each case.
 
-And in every undertaking we must regard the structure of the constitution as the greatest cause both of success and of its opposite;
-
-for from it, as from a fountainhead, all the conceptions and undertakings of any enterprise not only spring, but also reach their completion.
+And in every undertaking we must regard the structure of the constitution as the greatest cause both of success and of its opposite; for from it, as from a fountainhead, all the conceptions and undertakings of any enterprise not only spring, but also reach their completion.
 
 For only genuine impossibility offers no excuse to those who fail; and impossibility belongs to the realm of falsehood alone.
 
 ## Book 6 Chapter 3: Classification of Constitutions
 
-As for the Greek states, which have often risen to greatness and have often undergone a complete reversal into the opposite condition, it proves easy both to give an account of their past and to pronounce upon their future;
-
-for it is easy to report what is already known, and easy to predict the future by conjecturing from what has already happened.
+As for the Greek states, which have often risen to greatness and have often undergone a complete reversal into the opposite condition, it proves easy both to give an account of their past and to pronounce upon their future; for it is easy to report what is already known, and easy to predict the future by conjecturing from what has already happened.
 
 But concerning the Roman state it is not at all easy either to describe the present situation, owing to the complexity of its constitution, or to foretell the future, owing to our ignorance of the distinctive features of their past, both in public and in private life.
 
@@ -60,13 +46,9 @@ Now it happens that most of those who wish to instruct us authoritatively on suc
 
 But it seems to me that one might quite reasonably raise a question against them: whether they propose these to us as the only constitutions, or, by Zeus, as the best.
 
-For on both counts they seem to me to be mistaken. For it is clear that we must regard as best the constitution composed of all the features just mentioned;
+For on both counts they seem to me to be mistaken. For it is clear that we must regard as best the constitution composed of all the features just mentioned; and of this we have had proof not in theory only but in practice, since Lycurgus was the first to construct the Spartan constitution on this principle.
 
-and of this we have had proof not in theory only but in practice, since Lycurgus was the first to construct the Spartan constitution on this principle.
-
-Nor again must we accept these as the only forms: for we have already seen certain monarchical and tyrannical governments which, though they differ as much as possible from kingship, nevertheless seem to bear some resemblance to it;
-
-and it is on this ground that all monarchs falsely lay claim to, and make use of, the title of king as far as they are able.
+Nor again must we accept these as the only forms: for we have already seen certain monarchical and tyrannical governments which, though they differ as much as possible from kingship, nevertheless seem to bear some resemblance to it; and it is on this ground that all monarchs falsely lay claim to, and make use of, the title of king as far as they are able.
 
 And again, there have been many oligarchic governments that seem to bear some resemblance to aristocratic ones, from which, one might almost say, they differ as widely as possible.
 
@@ -76,15 +58,9 @@ And the same argument applies also to—
 
 —democracy. That what I say is true is evident from the following.
 
-For surely not every monarchy is to be called a kingship outright, but only the one that is accepted by willing subjects and is governed more by reason than by fear and force;
+For surely not every monarchy is to be called a kingship outright, but only the one that is accepted by willing subjects and is governed more by reason than by fear and force; nor, again, is every oligarchy to be considered an aristocracy, but only the one that is directed, through deliberate selection, by the most just and most prudent men.
 
-nor, again, is every oligarchy to be considered an aristocracy, but only the one that is directed, through deliberate selection, by the most just and most prudent men.
-
-In the same way, we should not call it a democracy where the whole multitude has the power to do
-
-whatever it happens to wish and resolve. Rather, where it is the ancestral and customary practice to revere the gods, to care for one's parents, to respect one's elders, and to obey the laws—in such communities, when the will of the majority prevails, this is what we must call a democracy. And so we must say that there are six kinds of constitutions:
-
-the three that everyone harps on, which have just been mentioned, and three more akin to these—I mean monarchy, oligarchy, and mob-rule.
+In the same way, we should not call it a democracy where the whole multitude has the power to do whatever it happens to wish and resolve. Rather, where it is the ancestral and customary practice to revere the gods, to care for one’s parents, to respect one’s elders, and to obey the laws—in such communities, when the will of the majority prevails, this is what we must call a democracy. And so we must say that there are six kinds of constitutions: the three that everyone harps on, which have just been mentioned, and three more akin to these—I mean monarchy, oligarchy, and mob-rule.
 
 First, then, monarchy arises spontaneously and by nature; and following upon it, and born from it through development and correction, comes kingship.
 
@@ -110,13 +86,7 @@ And if my general overview should seem to leave anything out, the detailed discu
 
 What, then, are the origins I mean, and from what source do I say constitutions first arise?
 
-Whenever floods, outbreaks of plague, crop failures, or other causes of this kind bring about a destruction of the human race—such as tradition tells us has happened before, and as reason tells us will happen again and again—
-
-then, with all customs and skills perishing together, and when in the course of time a multitude of people grows up once more from the survivors, as though from seeds,
-
-then, as with the other animals, these people too gather together. And it is only natural that they too, in their natural weakness, should band together with their own kind. In such circumstances it is inevitable that the one who excels in bodily strength and boldness of spirit should lead and rule the rest,
-
-just as we observe among the other species of animals that lack reason—and this we must regard as the truest work of nature, since among them we see, by common agreement, the strongest taking the lead: I mean bulls, boars, cocks, and creatures like them.
+Whenever floods, outbreaks of plague, crop failures, or other causes of this kind bring about a destruction of the human race—such as tradition tells us has happened before, and as reason tells us will happen again and again— then, with all customs and skills perishing together, and when in the course of time a multitude of people grows up once more from the survivors, as though from seeds, then, as with the other animals, these people too gather together. And it is only natural that they too, in their natural weakness, should band together with their own kind. In such circumstances it is inevitable that the one who excels in bodily strength and boldness of spirit should lead and rule the rest, just as we observe among the other species of animals that lack reason—and this we must regard as the truest work of nature, since among them we see, by common agreement, the strongest taking the lead: I mean bulls, boars, cocks, and creatures like them.
 
 It is likely, then, that in the beginning the lives of human beings were of this sort: gathering together like animals and following the most vigorous and powerful among them, whose authority was bounded only by strength, and whose rule one might call monarchy.
 
@@ -126,9 +96,7 @@ But when, with the passage of time, a sense of fellowship and familiarity grew u
 
 The manner in which these notions begin and come into being is as follows.
 
-All creatures are driven by nature toward sexual union, and the result is the begetting of children. Now whenever one of these offspring, having been raised and reached maturity, shows no gratitude and offers no protection to those who reared him, but instead sets about insulting or harming them,
-
-it is clear that those who are present and who have witnessed the care and hardship the parents devoted to the rearing and nurturing of their children will likely be displeased and offended.
+All creatures are driven by nature toward sexual union, and the result is the begetting of children. Now whenever one of these offspring, having been raised and reached maturity, shows no gratitude and offers no protection to those who reared him, but instead sets about insulting or harming them, it is clear that those who are present and who have witnessed the care and hardship the parents devoted to the rearing and nurturing of their children will likely be displeased and offended.
 
 For since the human race differs from the other animals in that it alone possesses intelligence and reason, it is plain that men, unlike the other animals, will not let such a difference of conduct pass unnoticed.
 
@@ -138,13 +106,11 @@ So too, when someone who has received help or rescue from another in time of dan
 
 From all this there arises in each person some notion of the meaning and theory of duty, which is the beginning and end of justice.
 
-Likewise, again, when someone stands out as the defender of all in times of danger and holds his ground against the assaults of the fiercest beasts, it is likely that such a man will receive marks of the people's goodwill and esteem, while the man who acts otherwise will meet with their condemnation and disapproval.
+Likewise, again, when someone stands out as the defender of all in times of danger and holds his ground against the assaults of the fiercest beasts, it is likely that such a man will receive marks of the people’s goodwill and esteem, while the man who acts otherwise will meet with their condemnation and disapproval.
 
 From this, in turn, it is reasonable that there should arise among the many some understanding of the base and the noble, and of the difference between them—the one to be pursued and imitated for the benefit it brings, the other to be shunned.
 
-And when the leader, the man who holds the greatest power, consistently lends his support to these popular judgments, and so appears to his subjects to be one who allots to each man what he deserves,
-
-then they no longer submit out of fear of force, but rather give their willing consent of mind, supporting his rule and helping to preserve it—even when he has grown quite old—rallying with one accord to his defense and fighting against any who plot against his sovereignty.
+And when the leader, the man who holds the greatest power, consistently lends his support to these popular judgments, and so appears to his subjects to be one who allots to each man what he deserves, then they no longer submit out of fear of force, but rather give their willing consent of mind, supporting his rule and helping to preserve it—even when he has grown quite old—rallying with one accord to his defense and fighting against any who plot against his sovereignty.
 
 And in this way, without anyone noticing, a king emerges from a monarch, once reason has taken over leadership from raw spirit and strength.
 
@@ -160,13 +126,9 @@ In ancient times, then, those who had once been chosen and granted this office g
 
 And while they devoted themselves to these things, they remained free of all slander and envy, because they made no great distinctions in their dress, food, or drink, but lived much like everyone else, always sharing the same way of life as the common people.
 
-But once they began to inherit their positions by succession and birth, and found the means of security already prepared for them, along with more than enough for their sustenance,
+But once they began to inherit their positions by succession and birth, and found the means of security already prepared for them, along with more than enough for their sustenance, then, following their appetites because of this abundance, they came to think that their rulers ought to have distinctive clothing, distinctive and elaborate indulgences and provisions at the table, and unchallenged access to the sexual favors and embraces even of those they had no right to.
 
-then, following their appetites because of this abundance, they came to think that their rulers ought to have distinctive clothing, distinctive and elaborate indulgences and provisions at the table, and unchallenged access to the sexual favors and embraces even of those they had no right to.
-
-These things gave rise in some cases to envy and offense, in others to a blaze of hatred and bitter anger, so that the kingship turned into a tyranny. The first step toward its dissolution was taken, and a conspiracy began to form against the rulers—
-
-a conspiracy that arose not from the worst men, but from the noblest, most high-minded, and most courageous, because such men are least
+These things gave rise in some cases to envy and offense, in others to a blaze of hatred and bitter anger, so that the kingship turned into a tyranny. The first step toward its dissolution was taken, and a conspiracy began to form against the rulers— a conspiracy that arose not from the worst men, but from the noblest, most high-minded, and most courageous, because such men are least
 
 ## Book 6 Chapter 8: Degeneration of Constitutions
 
@@ -176,11 +138,7 @@ For the people, as though repaying an immediate debt of gratitude to those who h
 
 At first these men gladly accepted the charge and put nothing ahead of the common good, managing every matter—both private and public—with care and watchfulness on behalf of the people.
 
-But when their children inherited this same authority from their fathers—having no experience of hardship, no experience at all of civic equality and freedom of speech, and having been raised from the start amid their fathers' power and privileges—
-
-some of them turned to greed and unjust love of money, others to drunkenness and the insatiable feasting that goes with it, and others to the violation of women and the abduction of boys. And so they transformed the aristocracy into an oligarchy,
-
-and they quickly stirred up among the people feelings much like those just described. For this reason the end of their downfall turned out to be much like the misfortune that befell the tyrants.
+But when their children inherited this same authority from their fathers—having no experience of hardship, no experience at all of civic equality and freedom of speech, and having been raised from the start amid their fathers’ power and privileges— some of them turned to greed and unjust love of money, others to drunkenness and the insatiable feasting that goes with it, and others to the violation of women and the abduction of boys. And so they transformed the aristocracy into an oligarchy, and they quickly stirred up among the people feelings much like those just described. For this reason the end of their downfall turned out to be much like the misfortune that befell the tyrants.
 
 ## Book 6 Chapter 9: How Democracy Arises and Degenerates
 
@@ -198,13 +156,11 @@ So when they set their hearts on holding office and cannot attain it through the
 
 By this means, once they have made the many greedy for bribes and accustomed to feeding on them through their own foolish craving for honor, then once again democracy is dissolved, and it gives way to force and mob rule.
 
-For the populace, grown used to feeding on the property of others and resting its hopes of livelihood on its neighbors' goods, as soon as it finds a leader of high ambition and daring—one shut out from the honors of public life by poverty—then brings about rule by the mob.
+For the populace, grown used to feeding on the property of others and resting its hopes of livelihood on its neighbors’ goods, as soon as it finds a leader of high ambition and daring—one shut out from the honors of public life by poverty—then brings about rule by the mob.
 
 And then, banding together, it commits massacres, banishments, and redistributions of land, until, reduced to utter savagery, it once more finds a master and a monarch.
 
-This is the cycle of constitutions,
-
-this is the ordering set by nature, according to which forms of government change, pass from one to another, and come round again to where they began.
+This is the cycle of constitutions, this is the ordering set by nature, according to which forms of government change, pass from one to another, and come round again to where they began.
 
 A man who has clearly grasped this may perhaps be mistaken about the timing when he speaks of the future of a constitution, but as for the point of growth or of decay that each has reached, or the direction in which it will change, he will rarely be wrong, provided he makes his judgment free of anger or envy.
 
@@ -218,31 +174,15 @@ This will be possible to observe through what is to be said hereafter.
 
 For now I will make a brief mention of the legislation of Lycurgus, since this discussion is not foreign to my purpose.
 
-For that man, having taken to heart that each of the developments described above comes about necessarily and naturally, and having reasoned that every form of constitution that is simple and rests on a single kind of power is precarious—because it is quickly perverted into the vice that is its own and that follows it by nature—
+For that man, having taken to heart that each of the developments described above comes about necessarily and naturally, and having reasoned that every form of constitution that is simple and rests on a single kind of power is precarious—because it is quickly perverted into the vice that is its own and that follows it by nature— just as rust is the dissolvent inborn in iron, and woodworms and grubs in timber, by which, even if they escape all external harm, they are destroyed by the very things that grow up within them— in the same way, in each of the constitutions there is by nature bred and attendant some particular vice: in kingship, the form called monarchic (despotism); in aristocracy, that of oligarchy; and in democracy, the bestial and mob-ruled form. Into these it is impossible that all the aforementioned constitutions should not, in the course of time, undergo their transformations, according to the argument just given.
 
-just as rust is the dissolvent inborn in iron, and woodworms and grubs in timber, by which, even if they escape all external harm, they are destroyed by the very things that grow up within them—
-
-in the same way, in each of the constitutions there is by nature bred and attendant some particular vice: in kingship, the form called monarchic (despotism); in aristocracy, that of oligarchy;
-
-and in democracy, the bestial and mob-ruled form. Into these it is impossible that all the aforementioned constitutions should not, in the course of time, undergo their transformations, according to the argument just given.
-
-Foreseeing this, Lycurgus did not make his constitution simple or of a single type, but gathered together all at once the virtues and distinctive features of the best forms of government,
-
-so that no element, growing beyond what was due, should be perverted into the vices that are akin to it; but rather, with the power of each held in check by the others, none of them should incline anywhere or weigh down too far, but the constitution should remain in equilibrium and balanced for a long time, like a ship beating against the wind—
-
-the kingship being prevented from growing arrogant by fear of the people, since the people too had been given a sufficient share in the constitution;
-
-and the people in turn not daring to despise the kings, out of fear of the elders, who, having been chosen by selection on the grounds of merit, were always bound to attach themselves to what was just,
-
-so that the party of those at a disadvantage, by holding fast to established custom, always became greater and weightier through the leaning and support of the elders.
+Foreseeing this, Lycurgus did not make his constitution simple or of a single type, but gathered together all at once the virtues and distinctive features of the best forms of government, so that no element, growing beyond what was due, should be perverted into the vices that are akin to it; but rather, with the power of each held in check by the others, none of them should incline anywhere or weigh down too far, but the constitution should remain in equilibrium and balanced for a long time, like a ship beating against the wind— the kingship being prevented from growing arrogant by fear of the people, since the people too had been given a sufficient share in the constitution; and the people in turn not daring to despise the kings, out of fear of the elders, who, having been chosen by selection on the grounds of merit, were always bound to attach themselves to what was just, so that the party of those at a disadvantage, by holding fast to established custom, always became greater and weightier through the leaning and support of the elders.
 
 And so, having framed it in this way, he preserved freedom for the Lacedaemonians for the longest time of any people we know of.
 
 He, then, foreseeing by a process of reasoning the source and manner in which each thing naturally comes about, established the aforesaid constitution without harm.
 
-The Romans, on the other hand, have arrived at the same end—the order of their own state—
-
-yet not through reasoning, but through many struggles and difficulties, ever choosing the better course from the very knowledge gained amid reverses; and thus they came to the same end as Lycurgus, the finest political system of any in our time.
+The Romans, on the other hand, have arrived at the same end—the order of their own state— yet not through reasoning, but through many struggles and difficulties, ever choosing the better course from the very knowledge gained amid reverses; and thus they came to the same end as Lycurgus, the finest political system of any in our time.
 
 ## Book 6 Chapter 11: The Roman Constitution
 
@@ -252,15 +192,11 @@ Therefore, now that I have given the account of how it came to be put together, 
 
 I am well aware that to those who actually live under this constitution I shall seem to give a somewhat incomplete account of it, since I leave out some of the particular details.
 
-For, knowing every part of it and having had experience of all of it through having been brought up from childhood in its customs and laws, they will not be impressed by what is said, but will look for what has been left out;
-
-and they will not suppose that the writer has deliberately omitted the small distinctions, but rather that he has passed over in silence the origins and the essential workings of things out of ignorance.
+For, knowing every part of it and having had experience of all of it through having been brought up from childhood in its customs and laws, they will not be impressed by what is said, but will look for what has been left out; and they will not suppose that the writer has deliberately omitted the small distinctions, but rather that he has passed over in silence the origins and the essential workings of things out of ignorance.
 
 The things I do say, they would not have admired as being trifling and incidental; but the things I omit, they single out as essential, wishing to appear to know more than the historians themselves.
 
-But a good critic ought not to judge writers by what they leave out, but by what they say;
-
-and if he catches any falsehood in this, he should recognize that those omissions too are due to ignorance, but if everything that is said is true, he should grant that those things too are passed over by deliberate judgment and not out of ignorance.
+But a good critic ought not to judge writers by what they leave out, but by what they say; and if he catches any falsehood in this, he should recognize that those omissions too are due to ignorance, but if everything that is said is true, he should grant that those things too are passed over by deliberate judgment and not out of ignorance.
 
 So much, then, let this be said by me against those who criticize historians more out of rivalry than out of fairness.
 
@@ -274,21 +210,19 @@ As for which of these forms held sway over each of the respective parts of the c
 
 ## Book 6 Chapter 11a
 
-They give this town the name Pallantium, after their mother-city in Arcadia; but, as some relate—among them Polybius of Megalopolis—it was named after a youth named Pallas who died there. This Pallas was the son of Heracles and of Launa, the daughter of Evander; and his grandfather on his mother's side, having heaped up a tomb for him on the hill, named the place Pallantium after the youth.
+They give this town the name Pallantium, after their mother-city in Arcadia; but, as some relate—among them Polybius of Megalopolis—it was named after a youth named Pallas who died there. This Pallas was the son of Heracles and of Launa, the daughter of Evander; and his grandfather on his mother’s side, having heaped up a tomb for him on the hill, named the place Pallantium after the youth.
 
-For they did not think it enough, as Polybius of Megalopolis did, merely to say this much: "I am persuaded that Rome was founded in the second year of the seventh Olympiad," nor to leave the proof untested, resting on a single tablet—one and only one—kept in the custody of the high priests.
+For they did not think it enough, as Polybius of Megalopolis did, merely to say this much: “I am persuaded that Rome was founded in the second year of the seventh Olympiad,” nor to leave the proof untested, resting on a single tablet—one and only one—kept in the custody of the high priests.
 
-Aristodemus of Elis and his school relate that it was from the twenty-seventh Olympiad onward that the athletes—those, that is, who were victors—began to be recorded; for before that no one was recorded, since earlier generations had neglected to do so. In the twenty-eighth Olympiad Coroebus of Elis, winning the stadion race, was the first to be recorded; and that Olympiad was ranked as the first from which the Greeks count their dates. Polybius relates the same things as Aristodemus does. And among the Romans,
-
-as Polybius says in his sixth book, women are forbidden to drink wine, but they drink what is called passum. This is made from the dried grape (raisin), and when drunk it is much like the sweet Aegosthenian wine and the Cretan; and so they use it to relieve pressing thirst. It is impossible for a woman to escape notice if she has drunk wine. For in the first place a woman has no authority over wine; and besides this, she is obliged to kiss her own kinsmen and those of her husband, down to the children of cousins, and to do this every day, whenever she first sees them. And then, since it is uncertain whom she will meet, she is on her guard; for if she has merely tasted it, there is no further need of accusation.
+Aristodemus of Elis and his school relate that it was from the twenty-seventh Olympiad onward that the athletes—those, that is, who were victors—began to be recorded; for before that no one was recorded, since earlier generations had neglected to do so. In the twenty-eighth Olympiad Coroebus of Elis, winning the stadion race, was the first to be recorded; and that Olympiad was ranked as the first from which the Greeks count their dates. Polybius relates the same things as Aristodemus does. And among the Romans, as Polybius says in his sixth book, women are forbidden to drink wine, but they drink what is called passum. This is made from the dried grape (raisin), and when drunk it is much like the sweet Aegosthenian wine and the Cretan; and so they use it to relieve pressing thirst. It is impossible for a woman to escape notice if she has drunk wine. For in the first place a woman has no authority over wine; and besides this, she is obliged to kiss her own kinsmen and those of her husband, down to the children of cousins, and to do this every day, whenever she first sees them. And then, since it is uncertain whom she will meet, she is on her guard; for if she has merely tasted it, there is no further need of accusation.
 
 He also founded the city of Ostia on the Tiber.
 
-Polybius, in his sixth book. [Stephanus of Byzantium, under "Ostia."]
+Polybius, in his sixth book. [Stephanus of Byzantium, under “Ostia.”]
 
-Lucius, the son of Demaratus the Corinthian, set out for Rome trusting in himself and in his wealth, convinced that he would hold a position second to none in public life because of certain advantages, and having a wife who was useful both in other respects and as a naturally gifted partner in every practical undertaking. On arriving in Rome and obtaining citizenship, he at once adapted himself to winning the king's favor. And quickly, both through his wealth and through his natural cleverness, and most of all through his upbringing from childhood, he attached himself to the man in power and won great acceptance and trust with him. As time went on he came to such a degree of being received that he jointly managed and handled with Marcius the affairs of the kingdom. In this position, proving a benefit to everyone, working together with those in need and helping to secure for them whatever was useful, and at the same time using the resources of his living generously, suitably, and at the right moment on each occasion, he stored up gratitude in many quarters and worked goodwill in all, and won a reputation for nobility of character—and he attained the kingship as well.
+Lucius, the son of Demaratus the Corinthian, set out for Rome trusting in himself and in his wealth, convinced that he would hold a position second to none in public life because of certain advantages, and having a wife who was useful both in other respects and as a naturally gifted partner in every practical undertaking. On arriving in Rome and obtaining citizenship, he at once adapted himself to winning the king’s favor. And quickly, both through his wealth and through his natural cleverness, and most of all through his upbringing from childhood, he attached himself to the man in power and won great acceptance and trust with him. As time went on he came to such a degree of being received that he jointly managed and handled with Marcius the affairs of the kingdom. In this position, proving a benefit to everyone, working together with those in need and helping to secure for them whatever was useful, and at the same time using the resources of his living generously, suitably, and at the right moment on each occasion, he stored up gratitude in many quarters and worked goodwill in all, and won a reputation for nobility of character—and he attained the kingship as well.
 
-He acted as a prudent and sensible man does, in recognizing, as Hesiod says, "how much the half is greater than the whole."
+He acted as a prudent and sensible man does, in recognizing, as Hesiod says, “how much the half is greater than the whole.”
 
 For learning to be truthful toward the gods is a foundation for truth toward one another.
 
@@ -298,7 +232,7 @@ For in most human enterprises, those who have acquired things are well suited to
 
 All the works of virtue ought to be practiced from childhood by those who train themselves well, and above all courage.
 
-Olcium, a city of Etruria: Polybius in his sixth book. [Stephanus of Byzantium, under "Olcium."]
+Olcium, a city of Etruria: Polybius in his sixth book. [Stephanus of Byzantium, under “Olcium.”]
 
 ## Book 6 Chapter 12: The Consuls
 
@@ -330,9 +264,7 @@ For the quaestors cannot make any disbursement for the various departments of th
 
 And of the single greatest and most comprehensive item of expenditure by far—the one the censors make every five years for the repair and construction of public works—the Senate has control, and it is through the Senate that the censors are granted these funds.
 
-Likewise, whatever crimes committed in Italy call for a public inquiry—I mean such things as treason, conspiracy, poisoning, and assassination—are the concern of the Senate. And beyond this,
-
-if any private individual or any community in Italy needs a dispute settled, or, by Zeus, a penalty imposed, or assistance, or protection, all of these matters are the Senate's responsibility.
+Likewise, whatever crimes committed in Italy call for a public inquiry—I mean such things as treason, conspiracy, poisoning, and assassination—are the concern of the Senate. And beyond this, if any private individual or any community in Italy needs a dispute settled, or, by Zeus, a penalty imposed, or assistance, or protection, all of these matters are the Senate’s responsibility.
 
 So too, if it is necessary to dispatch an embassy to any people outside Italy—whether to reconcile parties, or to issue an appeal, or, by Zeus, to give commands, or to receive a surrender, or to declare war—the Senate is the body that sees to it.
 
@@ -344,9 +276,7 @@ This is precisely what many of the Greeks, and likewise many of the kings, have 
 
 ## Book 6 Chapter 14: The People
 
-Given all this, one might reasonably ask what role at all is left to the people in the constitution,
-
-when the Senate has authority over the particular matters we have described, and—most important of all—manages the whole of revenue and expenditure; and when the consuls, again, have unchecked power over the preparations for war and unchecked authority in the field.
+Given all this, one might reasonably ask what role at all is left to the people in the constitution, when the Senate has authority over the particular matters we have described, and—most important of all—manages the whole of revenue and expenditure; and when the consuls, again, have unchecked power over the preparations for war and unchecked authority in the field.
 
 Nevertheless, a role is left to the people too, and a most weighty one at that.
 
@@ -372,19 +302,15 @@ So that here again one might reasonably say that the people hold the greatest sh
 
 We have now described how the powers of the state are divided among each of its elements. We will now explain how each of these parts can, when it chooses, work against the others or cooperate with them.
 
-The consul, once he has obtained the authority described above and set out with his army, appears to be supreme in carrying through the tasks before him,
+The consul, once he has obtained the authority described above and set out with his army, appears to be supreme in carrying through the tasks before him, yet he still needs the people and the Senate, and without them he is incapable of bringing his operations to completion.
 
-yet he still needs the people and the Senate, and without them he is incapable of bringing his operations to completion.
-
-For it is clear that supplies must be sent continually to the legions; but without the Senate's consent neither grain, nor clothing, nor pay can be provided to them,
-
-so that a commander's designs come to nothing whenever the Senate chooses to be obstructive and to thwart his work.
+For it is clear that supplies must be sent continually to the legions; but without the Senate’s consent neither grain, nor clothing, nor pay can be provided to them, so that a commander’s designs come to nothing whenever the Senate chooses to be obstructive and to thwart his work.
 
 Moreover, whether the plans and intentions of the generals are carried out or not rests with the Senate: for it has the authority, when the year has elapsed, either to send out another general to succeed the present one or to keep the current commander in place.
 
 The Senate also has the power to magnify and play up the successes of the commanders, and, conversely, to dim and diminish them.
 
-For the celebrations they call "triumphs"—through which the generals bring the achievements they have accomplished vividly before the eyes of the citizens—the generals cannot conduct with proper splendor, and sometimes cannot hold at all, unless the Senate gives its approval and grants the funds for them.
+For the celebrations they call “triumphs”—through which the generals bring the achievements they have accomplished vividly before the eyes of the citizens—the generals cannot conduct with proper splendor, and sometimes cannot hold at all, unless the Senate gives its approval and grants the funds for them.
 
 As for the people, the commanders are absolutely bound to keep them in view, even if they happen to be far from home; for it is the people, as I said above, who make agreements and treaties valid or void.
 
@@ -398,11 +324,9 @@ The Senate, again, for all the great power it possesses, is in the first place o
 
 And it cannot carry out the most far-reaching and serious inquiries into, and corrections of, crimes against the state—those for which the penalty is death—unless the people also ratify what has been resolved.
 
-The same holds for matters that touch the Senate itself: if anyone introduces a law that strips away some part of the authority the Senate holds by custom, or abolishes its privileges of precedence and its honors, or, by Zeus, makes inroads on the senators' personal property, in all such cases it is the people who have the power to enact it or not.
+The same holds for matters that touch the Senate itself: if anyone introduces a law that strips away some part of the authority the Senate holds by custom, or abolishes its privileges of precedence and its honors, or, by Zeus, makes inroads on the senators’ personal property, in all such cases it is the people who have the power to enact it or not.
 
-And the decisive point: if a single one of the tribunes interposes his veto, the Senate not only cannot bring any of its deliberations to a conclusion, but cannot even convene or assemble at all—
-
-and the tribunes are always bound to do what the people decide and above all to keep the people's wishes in view. For all these reasons, then, the Senate fears the multitude and pays heed to the people.
+And the decisive point: if a single one of the tribunes interposes his veto, the Senate not only cannot bring any of its deliberations to a conclusion, but cannot even convene or assemble at all— and the tribunes are always bound to do what the people decide and above all to keep the people’s wishes in view. For all these reasons, then, the Senate fears the multitude and pays heed to the people.
 
 ## Book 6 Chapter 17: Powers of the Senate
 
@@ -420,35 +344,29 @@ And there are many ways in which the Senate can do great harm, or again great go
 
 But most important of all is that the judges in most trials—both public and private—involving charges of any magnitude are drawn from its members.
 
-For this reason all citizens, being bound to its goodwill and fearful of the uncertainty of when they may need its help, are wary of obstructing or actively opposing the Senate's wishes.
+For this reason all citizens, being bound to its goodwill and fearful of the uncertainty of when they may need its help, are wary of obstructing or actively opposing the Senate’s wishes.
 
-In the same way they are reluctant to work against the undertakings of the consuls, because, individually and collectively, all of them fall under the consuls' authority when on campaign in the field.
+In the same way they are reluctant to work against the undertakings of the consuls, because, individually and collectively, all of them fall under the consuls’ authority when on campaign in the field.
 
 ## Book 6 Chapter 18: Interdependency Brings Strength
 
 Since each of the parts has this power both to injure and to assist the others, their combination is suited to meet every circumstance, so that it is impossible to find a better constitutional structure than this.
 
-For whenever some common danger from outside presses upon them and forces them to think and act together, the power of the state becomes so great and so remarkable
-
-that nothing whatever that is needful is left undone—since everyone, all at once, competes in devising plans for whatever has arisen—and no decision once made falls behind the right moment, as each man works, both publicly and privately, toward completing the task at hand.
+For whenever some common danger from outside presses upon them and forces them to think and act together, the power of the state becomes so great and so remarkable that nothing whatever that is needful is left undone—since everyone, all at once, competes in devising plans for whatever has arisen—and no decision once made falls behind the right moment, as each man works, both publicly and privately, toward completing the task at hand.
 
 As a result, the distinctive character of this constitution makes it irresistible and able to achieve anything it has resolved upon.
 
-And again, whenever they are freed from external fears and settle into the prosperity and abundance that come from their successes, enjoying their good fortune and growing corrupted by flattery and idleness, and turn toward violence and arrogance—as commonly happens—
-
-it is then above all that the constitution can be seen supplying the remedy out of its own resources.
+And again, whenever they are freed from external fears and settle into the prosperity and abundance that come from their successes, enjoying their good fortune and growing corrupted by flattery and idleness, and turn toward violence and arrogance—as commonly happens— it is then above all that the constitution can be seen supplying the remedy out of its own resources.
 
 For whenever one of the parts swells up, becomes contentious, and gains more power than it should, it is clear that—since, as just explained, none of them is self-sufficient, and the purpose of each can be counteracted and hindered by the others—none of the parts swells up or grows overbearing.
 
 For all of them remain within their proper bounds: some are checked in their impulse, while others are restrained from the outset by fear of interference from those beside them.
 
-The dictator differs from the consuls in this respect: whereas each of the two consuls is attended by twelve axes, the dictator has twenty-four; and whereas the consuls in many things need the Senate's cooperation to carry out their plans, the dictator is a commander with absolute power, and the moment he is appointed, all the magistracies in Rome are immediately dissolved, except for the tribunes of the people. But we shall give a more precise account of these matters elsewhere.
+The dictator differs from the consuls in this respect: whereas each of the two consuls is attended by twelve axes, the dictator has twenty-four; and whereas the consuls in many things need the Senate’s cooperation to carry out their plans, the dictator is a commander with absolute power, and the moment he is appointed, all the magistracies in Rome are immediately dissolved, except for the tribunes of the people. But we shall give a more precise account of these matters elsewhere.
 
 ## Book 6 Chapter 19: On the Roman Army
 
-VI. On the Roman Military
-
-After they have elected the consuls, they next appoint military tribunes—fourteen from those who have already completed five years of service, and another ten in addition from those who have completed ten.
+VI. On the Roman Military After they have elected the consuls, they next appoint military tribunes—fourteen from those who have already completed five years of service, and another ten in addition from those who have completed ten.
 
 As for the rest, a man must by law complete ten campaigns in the cavalry, or sixteen in the infantry, within the forty-six years counted from his coming of age—except for those whose property is assessed below four hundred drachmas.
 
@@ -458,9 +376,7 @@ No one is permitted to hold any civil office until he has completed ten annual c
 
 When the holders of the consular office are about to carry out the enrollment of soldiers, they announce in advance before the people the day on which all Romans of military age must present themselves. They do this every year.
 
-When the day has come and the men eligible for service have arrived in Rome, and then assembled on the Capitol, the junior military tribunes divide themselves up—
-
-in whatever order they have been appointed by the people or by the commanders—into four groups, because the basic, primary division of their forces is made into four legions.
+When the day has come and the men eligible for service have arrived in Rome, and then assembled on the Capitol, the junior military tribunes divide themselves up— in whatever order they have been appointed by the people or by the commanders—into four groups, because the basic, primary division of their forces is made into four legions.
 
 They assigned the first four appointed to the legion called the first, the next three to the second, the four following these to the third, and the last three to the fourth.
 
@@ -468,9 +384,7 @@ Of the senior tribunes, they place the first two in the first legion, the next t
 
 ## Book 6 Chapter 20: Allocation of Men to the Legions
 
-Once the division and assignment of the tribunes has been made in such a way that all the legions have an equal number of officers,
-
-they then take their seats apart from one another, legion by legion, and draw lots for the tribes one at a time, summoning each tribe as its lot comes up.
+Once the division and assignment of the tribunes has been made in such a way that all the legions have an equal number of officers, they then take their seats apart from one another, legion by legion, and draw lots for the tribes one at a time, summoning each tribe as its lot comes up.
 
 From this tribe they pick out four of the young men who are reasonably well matched in age and physical condition.
 
@@ -482,9 +396,7 @@ After this, when yet another four are brought forward, the officers of the third
 
 With the selection proceeding by rotation in this regular way throughout, it turns out that the men taken into each of the legions are closely comparable.
 
-When they have selected the prescribed number—which is sometimes four thousand two hundred infantry for each legion, and at other times five thousand, whenever some greater danger looms before them—
-
-after this they pass the cavalry. In the old days they used to review the cavalry afterward, following the four thousand two hundred infantry, but now they do it beforehand, since the selection of the cavalry is now made by the censor on the basis of wealth; and they enroll three hundred for each legion.
+When they have selected the prescribed number—which is sometimes four thousand two hundred infantry for each legion, and at other times five thousand, whenever some greater danger looms before them— after this they pass the cavalry. In the old days they used to review the cavalry afterward, following the four thousand two hundred infantry, but now they do it beforehand, since the selection of the cavalry is now made by the censor on the basis of wealth; and they enroll three hundred for each legion.
 
 ## Book 6 Chapter 21: Fourfold Division of the Legionaries
 
@@ -514,7 +426,7 @@ The youngest soldiers are ordered to carry a sword, javelins, and a round shield
 
 The parma is sturdily constructed and large enough to give protection: being circular in shape, it has a diameter of three feet.
 
-The soldier is also equipped with a plain helmet, and at times he puts a wolf's skin or something of the kind over it, both for protection and as a mark of recognition, so that the officers of each unit can see whether he is fighting bravely in the front of danger or not.
+The soldier is also equipped with a plain helmet, and at times he puts a wolf’s skin or something of the kind over it, both for protection and as a mark of recognition, so that the officers of each unit can see whether he is fighting bravely in the front of danger or not.
 
 The shaft of the javelin is about two cubits in length and roughly a finger thick, while its head is a span long and beaten out so fine and sharpened to such a degree that it inevitably bends on the first impact, so that the enemy cannot throw it back; otherwise the weapon would be of use to both sides alike.
 
@@ -522,9 +434,9 @@ The shaft of the javelin is about two cubits in length and roughly a finger thic
 
 To the second group by age, those called the hastati, they gave orders to carry the full panoply.
 
-The Roman panoply consists, first, of a long shield (scutum)—its curved surface two and a half feet wide, four feet long, and the thickness at the rim a palm's breadth.
+The Roman panoply consists, first, of a long shield (scutum)—its curved surface two and a half feet wide, four feet long, and the thickness at the rim a palm’s breadth.
 
-It is made of two layers of board fastened together with bull's-hide glue, then covered on the outer surface first with canvas and after that with calf's skin.
+It is made of two layers of board fastened together with bull’s-hide glue, then covered on the outer surface first with canvas and after that with calf’s skin.
 
 Around the rim, both on the upper and the lower parts, it has an iron edging, by which it is protected against the downward strokes of swords and against wear from being rested on the ground.
 
@@ -536,15 +448,13 @@ It has an excellent point and can deliver a powerful cut with either edge, becau
 
 In addition to these they carry two heavy javelins (pila), a bronze helmet, and a greave. Of the pila, some are thick and some thin.
 
-Of the heavier ones, the round-shafted have a diameter of a palm's breadth, and the square-shafted measure a palm on each side. The thin ones resemble moderate-sized hunting spears, and they are carried together with the ones already mentioned.
+Of the heavier ones, the round-shafted have a diameter of a palm’s breadth, and the square-shafted measure a palm on each side. The thin ones resemble moderate-sized hunting spears, and they are carried together with the ones already mentioned.
 
 The wooden shaft of all of them is about three cubits long, and to each is fitted a barbed iron head equal in length to the wood.
 
 They make the attachment and fitting of the head so secure that they sink it into the wood as far as the middle and fasten it down with a row of clasps, so that in use the iron breaks sooner than the binding works loose, even though at the base, where it joins the wood, its thickness is three half-fingers; so great is the care they take over the fastening.
 
-On top of all this they adorn themselves with a circlet of feathers and three upright purple or black plumes,
-
-about a cubit high; with these set on the crown of the head along with the rest of the arms, the man appears twice his own height, and his look is handsome and terrifying to the enemy.
+On top of all this they adorn themselves with a circlet of feathers and three upright purple or black plumes, about a cubit high; with these set on the crown of the head along with the rest of the arms, the man appears twice his own height, and his look is handsome and terrifying to the enemy.
 
 Most of the soldiers, after adding a bronze plate a span square—which they place in front of the chest and call a heart-guard (pectorale)—have their full equipment complete.
 
@@ -578,17 +488,11 @@ In much the same way they divide the cavalry into ten squadrons, and from each t
 
 The first commander chosen leads the squadron, while the other two hold the rank of decade-leaders, though all alike are called decurions. If the first commander is not present, the second again takes over command of the squadron.
 
-The equipment of the cavalry is now very similar to that of the Greeks, but in early times it was not so. First, they wore no breastplates,
-
-but went into action in loincloths only. The result was that they were ready and efficient at dismounting and quickly springing back up onto their horses, but at close fighting they were in a precarious position, since they faced danger unprotected.
+The equipment of the cavalry is now very similar to that of the Greeks, but in early times it was not so. First, they wore no breastplates, but went into action in loincloths only. The result was that they were ready and efficient at dismounting and quickly springing back up onto their horses, but at close fighting they were in a precarious position, since they faced danger unprotected.
 
 Their spears, too, were useless to them in two respects. First, because they made them thin and pliant, they could neither take aim at a chosen target, nor, before they could plant the spearhead into anything, keep the spears from being shaken by the very motion of the horses, so that most of them snapped.
 
-Besides this, since they made the spears without butt-spikes, they had the use of only the first stroke delivered with the spearhead; after that, once the shafts had broken, the weapons were of no further use and worthless to them. As for the shield, they carried one made of ox-hide,
-
-resembling the round, knobbed sacrificial cakes that are set out for offerings. These shields were of no use for charging, since they had no firmness, and once the rains had stripped off their leather and rotted them, they were awkward to handle even before, and now became completely so. Therefore, since this equipment proved unsatisfactory,
-
-they quickly adopted the Greek pattern of arms.
+Besides this, since they made the spears without butt-spikes, they had the use of only the first stroke delivered with the spearhead; after that, once the shafts had broken, the weapons were of no further use and worthless to them. As for the shield, they carried one made of ox-hide, resembling the round, knobbed sacrificial cakes that are set out for offerings. These shields were of no use for charging, since they had no firmness, and once the rains had stripped off their leather and rotted them, they were awkward to handle even before, and now became completely so. Therefore, since this equipment proved unsatisfactory, they quickly adopted the Greek pattern of arms.
 
 With these weapons, the first stroke of the spearhead is at once both well-aimed and effective, since by its construction the spear is steady and stable; and likewise the reversed use of the butt-spike is firm and forceful.
 
@@ -598,23 +502,15 @@ Once the Romans recognized these advantages, they quickly imitated them; for the
 
 ## Book 6 Chapter 26: The Roman Camp
 
-Having made this division of the men, and having given these orders concerning their arms, the military tribunes then dismissed the men to their homes. When the day arrived
-
-on which they had all sworn to assemble likewise at the place appointed by the consuls —
-
-for each consul as a rule assigns a separate place for his own legions, since to each is given a portion of the allies and two of the Roman legions —
-
-all those enrolled present themselves without fail, since no other excuse is allowed to those who have taken the oath, except an adverse omen from the birds or sheer impossibility.
+Having made this division of the men, and having given these orders concerning their arms, the military tribunes then dismissed the men to their homes. When the day arrived on which they had all sworn to assemble likewise at the place appointed by the consuls—for each consul as a rule assigns a separate place for his own legions, since to each is given a portion of the allies and two of the Roman legions—all those enrolled present themselves without fail, since no other excuse is allowed to those who have taken the oath, except an adverse omen from the birds or sheer impossibility.
 
 When the allies too have assembled together with the Romans, the organization and management of them is carried out by the officers appointed by the consuls, who are called praefects and are twelve in number.
 
-These officers first select for the consuls, out of all the allies who have come, those cavalry and infantry best suited for genuine service; they are called the *extraordinarii*, which, translated, means "the picked men."
+These officers first select for the consuls, out of all the allies who have come, those cavalry and infantry best suited for genuine service; they are called the *extraordinarii*, which, translated, means “the picked men.”
 
 The total number of the allies is, in infantry, generally about equal to the Roman legions, and in cavalry three times as many.
 
-From these they take for the picked corps roughly a third of the cavalry and a fifth of the infantry. The rest they divide into two parts,
-
-and call the one the right wing and the other the left wing.
+From these they take for the picked corps roughly a third of the cavalry and a fifth of the infantry. The rest they divide into two parts, and call the one the right wing and the other the left wing.
 
 When these arrangements had been made, the military tribunes took over both the Romans and the allies and made camp. They have a single, simple principle governing their camps, which they apply at every occasion and in every place.
 
@@ -624,35 +520,33 @@ For who is so indifferent to fine and serious achievements that he would not be 
 
 ## Book 6 Chapter 27: How the Camp is Constructed
 
-The manner of their encampment is as follows. Of whatever site has been chosen for the camp, the general's tent takes the spot best suited at once for a commanding view and for issuing orders. Once the standard has been set up
+The manner of their encampment is as follows. Of whatever site has been chosen for the camp, the general’s tent takes the spot best suited at once for a commanding view and for issuing orders. Once the standard has been set up where they intend to pitch it, a square area is measured off around the standard, such that all its sides lie a hundred feet from the standard, and the enclosed area amounts to four plethra.
 
-where they intend to pitch it, a square area is measured off around the standard, such that all its sides lie a hundred feet from the standard, and the enclosed area amounts to four plethra.
-
-Along one face and side of this figure — whichever appears most convenient for watering and foraging — the Roman legions are laid out in the following way.
+Along one face and side of this figure—whichever appears most convenient for watering and foraging—the Roman legions are laid out in the following way.
 
 Since there are six military tribunes in each legion, as stated just now, and since there are always two Roman legions with each of the consuls, it is clear that twelve tribunes must serve with each consul.
 
-They place the tents of these tribunes all on one straight line, which is parallel to the chosen side of the square and stands fifty feet away from it, so that there may be room for the horses, along with the pack animals and the rest of the tribunes' baggage.
+They place the tents of these tribunes all on one straight line, which is parallel to the chosen side of the square and stands fifty feet away from it, so that there may be room for the horses, along with the pack animals and the rest of the tribunes’ baggage.
 
-The tents are pitched turned the opposite way, facing toward the outer side — which is henceforth to be understood and called by us, once and for all, the front of the whole layout.
+The tents are pitched turned the opposite way, facing toward the outer side—which is henceforth to be understood and called by us, once and for all, the front of the whole layout.
 
-The tribunes' tents stand at equal distances from one another, spread over enough ground that they extend along the entire width of the Roman legions.
+The tribunes’ tents stand at equal distances from one another, spread over enough ground that they extend along the entire width of the Roman legions.
 
 ## Book 6 Chapter 28: Division by Roads and Squares
 
-When a further hundred feet have been measured off toward the front, along the whole line of tents, then, starting from the straight line that bounds this width — which runs parallel to the tribunes' tents — they begin from this line to lay out the quarters of the legions, proceeding in the following manner.
+When a further hundred feet have been measured off toward the front, along the whole line of tents, then, starting from the straight line that bounds this width—which runs parallel to the tribunes’ tents—they begin from this line to lay out the quarters of the legions, proceeding in the following manner.
 
 Bisecting the aforementioned line, they quarter the cavalry of each legion at this point at right angles to the line, facing one another, fifty feet apart, making the dividing line the middle of the interval.
 
 The arrangement of the tents for the cavalry and for the infantry is much the same, for the whole figure, both of the maniple and of the troops, comes out square.
 
-This square faces onto the passageways, and has a fixed length along the passageway — namely a hundred feet — and for the most part they try to make the depth equal too, except in the case of the allies.
+This square faces onto the passageways, and has a fixed length along the passageway—namely a hundred feet—and for the most part they try to make the depth equal too, except in the case of the allies.
 
 But when they employ larger legions, they add proportionally to both the length and the depth.
 
 ## Book 6 Chapter 29: Placement of Triarii, Principes, and Hastati
 
-The cavalry encampment lies opposite the middle of the tribunes' tents, set crosswise—like a transverse street—to the line just described and to the area in front of the tribunes.
+The cavalry encampment lies opposite the middle of the tribunes’ tents, set crosswise—like a transverse street—to the line just described and to the area in front of the tribunes.
 
 In fact, the layout of all the passages comes out very much like a system of streets, since on either side the units are quartered lengthwise—companies on one side, squadrons on the other.
 
@@ -676,27 +570,25 @@ Again leaving a space of fifty feet beyond the hastati, they station the allied 
 
 The number of the allies, as I said above, is in infantry roughly equal to that of the Roman legions—less by the picked troops set apart—while in cavalry it is double, after a third of these too has been drawn off for the picked troops.
 
-Therefore, increasing the depth of the allied cavalry's quarters proportionally in the camp layout, they try to make them equal in length to the Roman legions.
+Therefore, increasing the depth of the allied cavalry’s quarters proportionally in the camp layout, they try to make them equal in length to the Roman legions.
 
 Once all five passages have been completed, they next set out the companies of the allied infantry facing the opposite way—just as with the cavalry—increasing their depth proportionally, and facing toward the rampart and toward each of the two side faces.
 
-In each company, the officers take the first tents at either end. While arranging them in the manner described, they also set the sixth squadron in each division fifty feet apart from the fifth, and likewise the infantry companies,
-
-so that here too another passage is formed across the middle of the camp, crosswise to the streets and parallel to the tribunes' tents. They call this the fifth passage, because it runs alongside the fifth units.
+In each company, the officers take the first tents at either end. While arranging them in the manner described, they also set the sixth squadron in each division fifty feet apart from the fifth, and likewise the infantry companies, so that here too another passage is formed across the middle of the camp, crosswise to the streets and parallel to the tribunes’ tents. They call this the fifth passage, because it runs alongside the fifth units.
 
 ## Book 6 Chapter 31: The Camp Market-Place
 
-The space that lies behind, beneath the tribunes' tents, and that borders the headquarters enclosure on either side, serves on one side as the market-place, and on the other for the quartermaster's office and the supplies that go with it.
+The space that lies behind, beneath the tribunes’ tents, and that borders the headquarters enclosure on either side, serves on one side as the market-place, and on the other for the quartermaster’s office and the supplies that go with it.
 
-Starting from the last of the tribunes' tents on each side and running back—arranged in a kind of L-shape relative to those tents—the choicest of the picked cavalry, together with some of those serving as volunteers out of personal regard for the consuls, all encamp along the side faces of the rampart, some facing the quartermaster's stores, the others, on the opposite side, facing the market-place.
+Starting from the last of the tribunes’ tents on each side and running back—arranged in a kind of L-shape relative to those tents—the choicest of the picked cavalry, together with some of those serving as volunteers out of personal regard for the consuls, all encamp along the side faces of the rampart, some facing the quartermaster’s stores, the others, on the opposite side, facing the market-place.
 
 As a rule, it falls to these men not only to camp close to the consuls, but also, on the march and in other duties, to attend upon and constantly remain about the consul and the quartermaster.
 
 Facing them, looking toward the rampart, are the infantry who perform a service like that of the cavalry just described.
 
-Next to these a passage is left, a hundred feet wide, parallel to the tribunes' tents, extending along the far side of the market-place, headquarters, and quartermaster's office, past all the parts of the rampart already mentioned.
+Next to these a passage is left, a hundred feet wide, parallel to the tribunes’ tents, extending along the far side of the market-place, headquarters, and quartermaster’s office, past all the parts of the rampart already mentioned.
 
-Along the upper side of this passage the picked cavalry of the allies encamp, facing the market-place, the headquarters, and the quartermaster's office at once.
+Along the upper side of this passage the picked cavalry of the allies encamp, facing the market-place, the headquarters, and the quartermaster’s office at once.
 
 Down the middle of these cavalry quarters, in line with the headquarters enclosure itself, a passage fifty feet wide is left, leading to the rear side of the camp and lying at right angles to the broad avenue just mentioned.
 
@@ -716,21 +608,15 @@ Most important of all, in night attacks neither fire nor missile reaches them, e
 
 ## Book 6 Chapter 32: Arrangements When There Are More Men
 
-Once the number of both infantry and cavalry is fixed for each plan—whether they make each legion four thousand or five thousand strong—and likewise the depth, length, and number of the companies are fixed, along with the dimensions of the passages and avenues, and everything else as well,
-
-it becomes possible for anyone willing to attend closely to work out both the size of the site and the entire perimeter of the camp. But if at any time the number of allies grows larger,
-
-whether of those who set out with the army from the start or of those who join at the moment,
-
-for those who join at the moment they fill, besides the places already described, the spaces beside the headquarters as well, contracting the market-place and quartermaster's office into whatever space the need urgently demands.
+Once the number of both infantry and cavalry is fixed for each plan—whether they make each legion four thousand or five thousand strong—and likewise the depth, length, and number of the companies are fixed, along with the dimensions of the passages and avenues, and everything else as well, it becomes possible for anyone willing to attend closely to work out both the size of the site and the entire perimeter of the camp. But if at any time the number of allies grows larger, whether of those who set out with the army from the start or of those who join at the moment, for those who join at the moment they fill, besides the places already described, the spaces beside the headquarters as well, contracting the market-place and quartermaster’s office into whatever space the need urgently demands.
 
 For those who march out with the army from the start, if their number is fairly large, they add one extra street on each side of the Roman legions, alongside the side faces, in addition to those already there.
 
-When all four legions and both consuls are gathered into a single camp, one need only imagine two armies, encamped according to the scheme just described, joined together facing opposite ways and meeting at the quarters of each legion's picked troops—the men we placed facing the rear face of the whole camp.
+When all four legions and both consuls are gathered into a single camp, one need only imagine two armies, encamped according to the scheme just described, joined together facing opposite ways and meeting at the quarters of each legion’s picked troops—the men we placed facing the rear face of the whole camp.
 
 In that case the shape becomes oblong, the site twice as large, and the perimeter half as much again.
 
-So whenever both consuls happen to encamp together, they always lay out the camp in this way; but when they camp separately, everything else is the same, except that they place the market-place, quartermaster's office, and headquarters between the two camps.
+So whenever both consuls happen to encamp together, they always lay out the camp in this way; but when they camp separately, everything else is the same, except that they place the market-place, quartermaster’s office, and headquarters between the two camps.
 
 ## Book 6 Chapter 33: Guard Duty and Other Assignments
 
@@ -738,7 +624,7 @@ Once the camp has been laid out, the tribunes gather everyone in it, free and sl
 
 Each swears that he will steal nothing from the camp, and that if he finds anything he will bring it to the tribunes.
 
-From the maniples of principes and hastati in each legion they next assign two maniples to the open square in front of the tribunes' tents.
+From the maniples of principes and hastati in each legion they next assign two maniples to the open square in front of the tribunes’ tents.
 
 Since the Romans spend most of the daytime in that area, they are careful to have it constantly watered and kept clean.
 
@@ -748,9 +634,7 @@ Each of those three maniples in turn performs the following services for its tri
 
 They also provide him with two pickets, each of four men, some stationed in front of the tent and others behind it by the horses.
 
-Since each tribune has three maniples, and each maniple contains more than a hundred men—not counting the triarii and velites, who are exempt from this duty—
-
-and since the duty falls to each maniple only once every four days, the burden is light, while the arrangement gives the tribunes both the service they need and an impressive dignity.
+Since each tribune has three maniples, and each maniple contains more than a hundred men—not counting the triarii and velites, who are exempt from this duty— and since the duty falls to each maniple only once every four days, the burden is light, while the arrangement gives the tribunes both the service they need and an impressive dignity.
 
 The maniples of triarii are excused from attendance on the tribunes, but each maniple supplies a daily guard to the cavalry squadron quartered just behind it.
 
@@ -764,7 +648,7 @@ For digging the ditch and building the rampart, two sides of the camp are assign
 
 Each side is divided maniple by maniple, and the centurions supervise the work section by section, while two tribunes oversee the entire side.
 
-These same tribunes also direct the rest of the camp's business. They divide themselves into pairs, and each pair takes charge in turn for two months out of the six.
+These same tribunes also direct the rest of the camp’s business. They divide themselves into pairs, and each pair takes charge in turn for two months out of the six.
 
 Whichever pair is on duty at the time supervises the operations in the field. The prefects of the allies divide their responsibilities in the same way.
 
@@ -776,7 +660,7 @@ The night watchword is distributed in the following manner.
 
 From each class of troops, cavalry and infantry alike, one man is chosen from the tenth and last maniple, the unit quartered at the end of the street.
 
-This man is excused from guard duty and presents himself each evening at sunset at the tribune's tent, where he receives the watchword written on a tablet; then he withdraws.
+This man is excused from guard duty and presents himself each evening at sunset at the tribune’s tent, where he receives the watchword written on a tablet; then he withdraws.
 
 Returning to his own maniple, he hands over both tablet and watchword before witnesses to the commander of the next maniple, and that man does the same to the commander beyond him. So it passes from hand to hand until it reaches the first maniples, those nearest the tribunes, and these must return the tablet to the tribunes before dark.
 
@@ -788,11 +672,11 @@ If one is missing, he can tell from the inscription where the failure occurred a
 
 Their system for the night watches is as follows. The consul and his tent are guarded by the maniple assigned to that duty.
 
-The tribunes' quarters and the cavalry squadrons are guarded by the men detailed from each maniple in the manner already described.
+The tribunes’ quarters and the cavalry squadrons are guarded by the men detailed from each maniple in the manner already described.
 
 Each separate unit also posts its own guard from among its own men, while the remaining watches are assigned by the consul.
 
-Usually there are three sentries at the quaestor's tent, and two at the tent of each legate and each member of the council.
+Usually there are three sentries at the quaestor’s tent, and two at the tent of each legate and each member of the council.
 
 The outer perimeter is guarded by the velites, who keep watch along the whole rampart by day, and who also place sentries at the gates, ten at each entrance.
 
@@ -830,7 +714,7 @@ Once the responsible watch is identified, the tribune summons the centurion, who
 
 If the fault clearly lies with the guards, the patrolman is immediately acquitted, since he is required to produce witnesses and did so. But if he failed to do that, the blame falls upon the patrolman himself.
 
-## Book 6 Chapter 37: The Tribunes' Court
+## Book 6 Chapter 37: The Tribunes’ Court
 
 When an accusation is brought, the tribunes at once convene a court, and if the accused is convicted he is punished by cudgeling.
 
@@ -850,9 +734,7 @@ A tribune has authority to fine a man, seize his property as security, or have h
 
 This cudgeling punishment is also inflicted on anyone who steals from the camp, bears false witness, is found guilty in his prime of shameful sexual misconduct, or has been punished three times for the same offense.
 
-These are treated as crimes. But the following are classed as cowardice and military disgrace: falsely reporting brave deeds to the tribunes in order to win honors;
-
-or, if men have been posted in reserve, abandoning the assigned position out of fear; likewise, if in the moment of danger a man throws away any of his weapons through fear.
+These are treated as crimes. But the following are classed as cowardice and military disgrace: falsely reporting brave deeds to the tribunes in order to win honors; or, if men have been posted in reserve, abandoning the assigned position out of fear; likewise, if in the moment of danger a man throws away any of his weapons through fear.
 
 That is why some men openly choose death at their post, unwilling to leave their station because they dread the punishment awaiting them.
 
@@ -934,21 +816,19 @@ The baggage train and all those accompanying it then remain drawn up behind the 
 
 Whenever, on the march, they are nearing the place where they will camp, a tribune and those centurions previously selected for the task ride ahead.
 
-After surveying the whole site, they first determine where the consul's tent must stand, in accordance with the system already described, and on which side of the praetorium the legions are to be quartered.
+After surveying the whole site, they first determine where the consul’s tent must stand, in accordance with the system already described, and on which side of the praetorium the legions are to be quartered.
 
-Once these points are settled, they measure out the enclosure of the praetorium, then the straight line on which the tribunes' tents are to stand, and next the parallel line from which the legions' quarters begin.
+Once these points are settled, they measure out the enclosure of the praetorium, then the straight line on which the tribunes’ tents are to stand, and next the parallel line from which the legions’ quarters begin.
 
-In the same way they mark out the lines on the other sides of the consul's tent, following the arrangement that I explained in detail earlier.
+In the same way they mark out the lines on the other sides of the consul’s tent, following the arrangement that I explained in detail earlier.
 
 This is done quickly, because the measurements are easy and all the intervals are fixed beforehand and familiar.
 
-Then they set up standards: first one where the consul's tent is to stand, second one on the chosen side of the enclosure, a third in the middle of the line where the tribunes camp, and a fourth beside the line from which the legions' quarters begin. These are scarlet standards,
-
-except for the consul's, which is white. On the other sides they sometimes plant plain spears and sometimes standards of other colors.
+Then they set up standards: first one where the consul’s tent is to stand, second one on the chosen side of the enclosure, a third in the middle of the line where the tribunes camp, and a fourth beside the line from which the legions’ quarters begin. These are scarlet standards, except for the consul’s, which is white. On the other sides they sometimes plant plain spears and sometimes standards of other colors.
 
 After this they measure out the streets and set up spears along each street.
 
-So when the troops approach and the site of the camp comes clearly into view, everyone can immediately recognize the entire layout by taking the consul's standard as the point of reference.
+So when the troops approach and the site of the camp comes clearly into view, everyone can immediately recognize the entire layout by taking the consul’s standard as the point of reference.
 
 Since each man already knows exactly on which street and in what place on that street he is to pitch his tent, because every unit always occupies the same position in camp, the whole thing resembles an army entering its own city.
 
@@ -978,7 +858,7 @@ I will set the latter aside, since I am convinced that the constitutions of Athe
 
 Rather, like some sudden stroke of fortune, they flashed into brilliance for a moment and then, just when they still seemed to be flourishing and likely to prosper, they encountered the opposite turn.
 
-The Thebans won their reputation among the Greeks by taking advantage of Spartan blindness and the hatred of Sparta's allies, through the excellence of one man, or at most two, who understood the situation.
+The Thebans won their reputation among the Greeks by taking advantage of Spartan blindness and the hatred of Sparta’s allies, through the excellence of one man, or at most two, who understood the situation.
 
 That it was not the structure of the Theban constitution but the quality of its leaders that caused those successes was soon made evident by events themselves.
 
@@ -996,9 +876,7 @@ For the Athenian people are always like a ship without a master.
 
 When fear at sea or the pressure of a storm makes the passengers unite and heed the helmsman, they perform admirably.
 
-But once confidence returns and they begin to despise their officers and quarrel among themselves because they no longer all want the same thing,
-
-with some insisting on sailing on, others pressing the helmsman to put in to harbor, some letting out the sheets while others pull them in and shout to furl the sails, then the spectacle is disgraceful to outside observers because of their conflict and disorder, and dangerous to all who share in the voyage.
+But once confidence returns and they begin to despise their officers and quarrel among themselves because they no longer all want the same thing, with some insisting on sailing on, others pressing the helmsman to put in to harbor, some letting out the sheets while others pull them in and shout to furl the sails, then the spectacle is disgraceful to outside observers because of their conflict and disorder, and dangerous to all who share in the voyage.
 
 So it often happens that after escaping the open sea and the fiercest storms, they wreck themselves in harbor and close to land.
 
@@ -1046,7 +924,7 @@ So much, then, for the ways in which the two differ. I must now explain why the 
 
 I think there are two fundamental principles in every constitution, and by these its powers and structure become either desirable or objectionable: customs and laws.
 
-Good customs and laws make men's private lives reverent and self-controlled, and make the public character of the city gentle and just; bad ones do the opposite.
+Good customs and laws make men’s private lives reverent and self-controlled, and make the public character of the city gentle and just; bad ones do the opposite.
 
 So whenever we see excellent customs and laws among a people, we confidently conclude that the men themselves and their constitution will also be good.
 
@@ -1056,9 +934,9 @@ Now apart from a very few exceptions, one could hardly find private conduct more
 
 Therefore, since their constitution is neither like the Spartan nor in any way worthy of choice or imitation, I reject it from this comparison.
 
-Nor is it right to introduce Plato's republic either, even though some philosophers speak of it with admiration.
+Nor is it right to introduce Plato’s republic either, even though some philosophers speak of it with admiration.
 
-For just as we do not admit to athletic contests those performers or athletes who have neither won recognition nor undergone proper training, so we should not admit Plato's constitution to this contest for first place unless it can first demonstrate some real achievement in practice.
+For just as we do not admit to athletic contests those performers or athletes who have neither won recognition nor undergone proper training, so we should not admit Plato’s constitution to this contest for first place unless it can first demonstrate some real achievement in practice.
 
 As things stand, to compare it with the constitutions of Sparta, Rome, and Carthage would be like setting up a statue beside living, breathing men and inviting comparison.
 
@@ -1068,7 +946,7 @@ Even if the statue were flawless as a work of art, comparing the lifeless with t
 
 Leaving those aside, I return to the Spartan constitution.
 
-It seems to me that Lycurgus legislated and planned so well for securing harmony among the citizens, preserving Laconia safely, and maintaining Sparta's freedom that one might think his insight something more than human.
+It seems to me that Lycurgus legislated and planned so well for securing harmony among the citizens, preserving Laconia safely, and maintaining Sparta’s freedom that one might think his insight something more than human.
 
 Equality in property, simplicity and commonality in daily life were likely to make private conduct disciplined and the public order free from faction, while training men to endure labor and danger would make them brave and high-minded.
 
@@ -1084,7 +962,7 @@ In fact, although he made them utterly disinterested and sober-minded in their o
 
 ## Book 6 Chapter 49: The Defect in the Spartan Constitution
 
-Who does not know that the Spartans were among the first Greeks to cast covetous eyes on their neighbors' land, and for sheer greed undertook a war to enslave the Messenians?
+Who does not know that the Spartans were among the first Greeks to cast covetous eyes on their neighbors’ land, and for sheer greed undertook a war to enslave the Messenians?
 
 And who has not read that, out of stubborn rivalry, they swore not to raise the siege until they had taken Messene by force?
 
@@ -1098,21 +976,19 @@ It was then that the defect in their legislation became visible.
 
 As long as they aimed only at ruling their immediate neighbors, and later the Peloponnesians themselves, the resources and supplies of Laconia were enough for them. They had provisions ready at hand and could make rapid returns home and easy transport of supplies.
 
-But once they undertook to send fleets overseas and to campaign with armies outside the Peloponnese, it became obvious that neither their iron currency nor the exchange of yearly produce, in accordance with Lycurgus' laws, could supply what they lacked.
+But once they undertook to send fleets overseas and to campaign with armies outside the Peloponnese, it became obvious that neither their iron currency nor the exchange of yearly produce, in accordance with Lycurgus’ laws, could supply what they lacked.
 
 Such enterprises required a currency accepted everywhere and provisions from abroad.
 
-So they were compelled to stand at Persian doors, impose tribute on the islanders, and levy silver from all the Greeks, having learned that under Lycurgus' legislation it was impossible not only to claim the leadership of Greece but, in fact, to compete for great affairs at all.
+So they were compelled to stand at Persian doors, impose tribute on the islanders, and levy silver from all the Greeks, having learned that under Lycurgus’ legislation it was impossible not only to claim the leadership of Greece but, in fact, to compete for great affairs at all.
 
 ## Book 6 Chapter 50: Sparta Compared with Rome
 
-Why, then, have I gone into this digression? So that the facts themselves may make clear that Lycurgus' legislation is sufficient for the secure preservation of a people's own territory and for maintaining its freedom.
+Why, then, have I gone into this digression? So that the facts themselves may make clear that Lycurgus’ legislation is sufficient for the secure preservation of a people’s own territory and for maintaining its freedom.
 
 And for those who regard that as the proper end of a constitution, it must be granted that no arrangement has ever existed, or does now exist, more choiceworthy than the Spartan order and system.
 
-But if someone aims at greater things, and thinks it finer and nobler to lead many peoples, to prevail over them and rule them, and to have all men look toward him and depend on him,
-
-then he must admit that the Spartan constitution is deficient in this respect, while the Roman constitution is superior and possesses a stronger organization for power.
+But if someone aims at greater things, and thinks it finer and nobler to lead many peoples, to prevail over them and rule them, and to have all men look toward him and depend on him, then he must admit that the Spartan constitution is deficient in this respect, while the Roman constitution is superior and possesses a stronger organization for power.
 
 This too has been made plain by events themselves. When the Spartans set out to win the leadership of Greece, they quickly put even their own freedom at risk.
 
@@ -1164,7 +1040,7 @@ One example will be enough to show how seriously the Roman constitution is conce
 
 Whenever one of their distinguished men dies, during the funeral procession the body, together with all its honors, is carried into the forum to the place called the Rostra, sometimes set upright in full view, though more rarely laid out reclining.
 
-With the whole people standing around, his son—if he has left one of full age and he happens to be present—or otherwise some other relative, mounts the Rostra and speaks about the dead man's virtues and the achievements he accomplished in life.
+With the whole people standing around, his son—if he has left one of full age and he happens to be present—or otherwise some other relative, mounts the Rostra and speaks about the dead man’s virtues and the achievements he accomplished in life.
 
 By this means the deeds are brought back before the eyes of the crowd, and not only those who shared in them but even those who had no part in them are moved to sympathy, so that the loss seems not a private sorrow for the mourners but a public one for the whole people.
 
@@ -1200,9 +1076,9 @@ Many such stories are told of many Roman men, but one example named specifically
 
 They tell the story of Horatius, surnamed Cocles. While he was fighting against two of the enemy at the far end of the bridge over the Tiber, the bridge that stands before the city, he saw a large body coming up to support them and feared that they would force their way across into the city.
 
-So he turned and shouted to the men behind him to retreat as quickly as possible and break down the bridge. They obeyed, and while they were cutting it apart he held his ground, receiving many wounds and checking the enemy's advance—not so much because they were daunted by his strength as because they were astonished by his steadfastness and daring.
+So he turned and shouted to the men behind him to retreat as quickly as possible and break down the bridge. They obeyed, and while they were cutting it apart he held his ground, receiving many wounds and checking the enemy’s advance—not so much because they were daunted by his strength as because they were astonished by his steadfastness and daring.
 
-Once the bridge had been broken, the enemy's attack was stopped; and Cocles, throwing himself into the river in full armor, deliberately gave up his life, valuing the safety of his country and the glory he would win thereafter more than his present life and all the years still left to him.
+Once the bridge had been broken, the enemy’s attack was stopped; and Cocles, throwing himself into the river in full armor, deliberately gave up his life, valuing the safety of his country and the glory he would win thereafter more than his present life and all the years still left to him.
 
 Such, it seems, is the zeal and ambition for noble deeds that Roman customs implant in the young.
 
@@ -1244,9 +1120,7 @@ That everything which exists is subject to decay and change hardly needs further
 
 And since every kind of constitution naturally decays in two ways, one from external causes and one from causes that grow within itself, the external mode is impossible to define with certainty, but the internal follows a set order.
 
-I have already explained what form of constitution naturally comes first, what comes second, and how they pass into one another,
-
-so that those able to connect the beginning with the end of the present discussion can already predict the future for themselves. In my judgment the result is plain.
+I have already explained what form of constitution naturally comes first, what comes second, and how they pass into one another, so that those able to connect the beginning with the end of the present discussion can already predict the future for themselves. In my judgment the result is plain.
 
 For when a state has survived many great dangers and afterwards reached undisputed supremacy and power, it is obvious that as prosperity settles into it over time, private lives become more luxurious and men grow more ambitious than they should in the pursuit of office and other objects.
 
@@ -1274,15 +1148,13 @@ When the envoys reached Rome, they begged and urged the senate not to begrudge t
 
 They also argued that the prisoners deserved rescue, since they had neither shown cowardice in the battle nor done anything unworthy of Rome, but had merely been left to guard the camp and, after all the others had perished in battle, had been overtaken by circumstances and surrendered to the enemy.
 
-Yet the Romans, though they had suffered terrible losses in battle, had been deprived of almost all their allies, and could expect before long to face danger for their very fatherland,
+Yet the Romans, though they had suffered terrible losses in battle, had been deprived of almost all their allies, and could expect before long to face danger for their very fatherland, still, after hearing these pleas, neither yielded in the face of disaster in any way unworthy of themselves nor overlooked anything that sound judgment required.
 
-still, after hearing these pleas, neither yielded in the face of disaster in any way unworthy of themselves nor overlooked anything that sound judgment required.
+They saw Hannibal’s purpose: by this act he meant both to get money and to strip the opposing troops of their eagerness for battle by showing that even the defeated still had hope of safety.
 
-They saw Hannibal's purpose: by this act he meant both to get money and to strip the opposing troops of their eagerness for battle by showing that even the defeated still had hope of safety.
+So far were they from doing what was requested that they counted neither pity for the men’s relatives nor the future use they might have of greater importance.
 
-So far were they from doing what was requested that they counted neither pity for the men's relatives nor the future use they might have of greater importance.
-
-Instead, by refusing to ransom the prisoners, they proved Hannibal's calculation and his hopes empty, and they laid down for their own people the rule that in battle they must either conquer or die, since for the defeated no other hope of safety remained.
+Instead, by refusing to ransom the prisoners, they proved Hannibal’s calculation and his hopes empty, and they laid down for their own people the rule that in battle they must either conquer or die, since for the defeated no other hope of safety remained.
 
 Accordingly they dismissed the nine envoys, who returned voluntarily in accordance with their oath, but the one who had tried by a trick to escape his oath they bound and sent back to the enemy.
 
