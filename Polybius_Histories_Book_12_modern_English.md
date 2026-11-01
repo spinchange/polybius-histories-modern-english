@@ -398,9 +398,9 @@ From this it follows necessarily that the length of the phalanx had to extend ov
 
 And even if they had closed their shields together completely, in the poet’s phrase so as to press right up against one another, the position would still have required twenty stades.
 
-Yet he himself says that the available ground fell short of fourteen stades. *
+Yet he himself says that the available ground fell short of fourteen stades.
 
-** And of this, a portion next to the sea was taken up by half the cavalry on the right wing; [...] and further, the whole line had to stand a sufficient distance away from the mountains so as not to be exposed to the enemy who held the slopes at their feet.
+[...] And of this, a portion next to the sea was taken up by half the cavalry on the right wing; [...] and further, the whole line had to stand a sufficient distance away from the mountains so as not to be exposed to the enemy who held the slopes at their feet.
 
 For we know how he makes the wing bend back at an angle to face them.
 
@@ -510,7 +510,7 @@ For history has something in common with medicine, in that each of them, in its 
 
 Take medicine straightaway: one part of it is the theoretical, the next the dietetic, and the third the surgical and pharmaceutical, of the kind [...] entirely. [...] by misrepresenting the profession *
 
-** Now the theoretical branch, which has its chief origin from Alexandria, among those called there the followers of Herophilus and Callimachus, occupies one part of medicine; but by its outward appearance and its grand professions it draws to itself such a reputation that no one else seems to have a grasp of the subject.
+[...] Now the theoretical branch, which has its chief origin from Alexandria, among those called there the followers of Herophilus and Callimachus, occupies one part of medicine; but by its outward appearance and its grand professions it draws to itself such a reputation that no one else seems to have a grasp of the subject.
 
 Yet when you bring these men to the test of reality and put a sick patient in their hands, they prove to be as far from being of use as those who have never read a medical treatise at all. Some patients, having entrusted themselves to such men on account of their fluency in argument, though there was nothing seriously wrong with them, have often put themselves in extreme danger.
 

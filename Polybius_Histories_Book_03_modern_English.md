@@ -1698,7 +1698,7 @@ They also contain within them the most famous and most beautiful cities of Italy
 
 Their coastline is occupied by the people of Sinuessa, of Cumae, and of Puteoli, and besides these the Neapolitans, and lastly the nation of the Nucerians.
 
-Of the interior, the parts toward the north are inhabited by the people of Cales and of Teanum, and those toward the east and south by the Daunii* and the Nolans. In the very center of the plains lies Capua, the city that was once the most blessed of all.
+Of the interior, the parts toward the north are inhabited by the people of Cales and of Teanum, and those toward the east and south by the Daunii and the Nolans. In the very center of the plains lies Capua, the city that was once the most blessed of all.
 
 The story told even by the mythographers about these plains is most plausible: these too are called the Phlegraean plains, just like others among the famous plains. And it is most likely that the gods quarreled over these in particular because of their beauty and their fertility.
 
