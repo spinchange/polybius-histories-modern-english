@@ -595,3 +595,7 @@ phase,book,chapter,action,verdict,notes
 2,21,04,collate,content=true,title-ok
 2,21,05,collate,content=true,title-ok
 2,21,06,collate,content=true,title-ok
+3,37,01,retranslate,done,"Mouseion fragment (gazetteer, cited from Polybius bk 37); crib removed; new title"
+3,38,02,retranslate,done,Xerxes/Athens/Thebes reverses; crib removed; new title
+3,39,02,retranslate,done,Corinth artworks; crib removed; new title
+3,39,03,retranslate,done,Philopoemen statues; lacuna marked; crib+mistranslation replaced; new title
