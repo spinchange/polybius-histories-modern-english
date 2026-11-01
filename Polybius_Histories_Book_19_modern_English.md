@@ -2,7 +2,7 @@
 
 Modern English translation of the Greek text.
 
-## Book 19 Chapter 1: Summary Based on Livy
+## Book 19 Chapter 1: Walls of the Cities Beyond the Baetis
 
 *Quoted by Plutarch.*
 

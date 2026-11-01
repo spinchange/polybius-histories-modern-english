@@ -172,7 +172,7 @@ For in outward appearance, in the dignity of the rest of his life, and in the nu
 
 And when he gave up athletics and turned to public life and the service of his country, in that sphere too he won a reputation no less than the one he already had, being thought far removed from the vulgarity that clings to athletes, and regarded as exceptionally effective and prudent in public affairs.
 
-## Book 7 Chapter 11: Philip Dissuaded from Taking Messene
+## Book 7 Chapter 11: Philip’s Popularity and Its Reversal
 
 For the present, after bringing my narrative to a pause, I want to speak briefly about Philip, because this was the beginning of his reversal and of his movement and change for the worse.
 
@@ -198,7 +198,7 @@ For once he turned to a policy opposite to his former one, and kept adding to it
 
 And that indeed is what happened. This will become clear to attentive readers from the events I am about to recount.
 
-## Book 7 Chapter 12: Philip’s Loss of Popularity
+## Book 7 Chapter 12: Philip Dissuaded from Taking Messene
 
 When Philip king of Macedon wanted to seize the acropolis of the Messenians, and told the leading men of the city that he wished to see the citadel and sacrifice to Zeus, he went up with his attendants and performed the sacrifice. Then, when according to custom the entrails of the victims that had been offered were brought to him, he took them in his hands, turned a little aside, and stretching them out toward Aratus and his party asked, “What do the omens seem to signify: that I should withdraw from the citadel, or hold it?”
 

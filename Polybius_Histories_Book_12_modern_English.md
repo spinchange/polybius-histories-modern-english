@@ -150,7 +150,7 @@ While oaths of this sort were being taken, they say that the Locrians put earth 
 
 This, then, is the story told among the Locrians.
 
-## Book 12 Chapter 6a: Freedmen Claim Their Masters’ Kinship
+## Book 12 Chapter 6a: Aristotle Preferred to Timaeus
 
 From these considerations one would, on reflection, side with Aristotle rather than with Timaeus; and indeed what follows in Timaeus is utterly absurd.
 
@@ -234,7 +234,7 @@ Now I am well aware that here too I shall be compelled to digress from my proper
 
 That Timaeus says the greatest fault in history is falsehood: hence he also advises those whom he may convict of false statements in their writings to seek some other name for their books, and to call them anything whatever rather than history.—
 
-## Book 12 Chapter 12: Timaeus On Divination
+## Book 12 Chapter 12: Falsehood from Ignorance and from Intent
 
 For just as with a carpenter’s rule—even if it be shorter in length or narrower in width, yet so long as it possesses the essential property of a rule, he says it must still be called a rule, but when it falls away from straightness and from kinship with the straight line, it must be called anything rather than a rule— in just the same way, he says, with written works: however much they may go astray in their diction, or in their handling, or in any other of their particular parts, yet if they hold fast to the truth, the books may lay claim to the name of history; but when they fall away from truth, they ought no longer to be called history.
 
@@ -442,7 +442,7 @@ But it seems to me that Timaeus was convinced that, if Timoleon—having pursued
 
 So much, then, concerning Aristotle, Theophrastus, and Callisthenes, and further Ephorus and Demochares: this is enough by way of answer to the attacks of Timaeus, and equally to those who, without any critical care, have been persuaded that this writer tells the truth.
 
-## Book 12 Chapter 24: Timoleon. Phalaris
+## Book 12 Chapter 24: Timaeus Judges Authors by Their Excesses
 
 One may well be perplexed at Timaeus’s line of argument. For he says that poets and prose writers reveal their own natures in their works through the excesses on which they dwell too much.
 
@@ -456,7 +456,7 @@ For this man, in accusing his neighbors, displays great force and audacity, but 
 
 And yet that it does happen, through inexperience and poor judgment, that many men sometimes are in a sense not present though present, and do not see though they are looking—this has become clear both from what has just been said and from what has befallen Timaeus.
 
-## Book 12 Chapter 25: General Remarks on Timaeus as an Historian
+## Book 12 Chapter 25: The Bull of Phalaris and Timaeus on the Continents
 
 Concerning the bronze bull that was made by Phalaris at Acragas, into which he used to put men and then, by kindling a fire beneath, exact such a punishment from his subjects that, as the bronze was heated white-hot, the man, roasted and scorched on every side, was destroyed; and in the extremity of his agony, whenever he cried out, the sound that issued from the device struck the ears of those listening like the bellowing of a bull.
 
@@ -704,7 +704,7 @@ We shall now state the cause of the error—one that will not seem credible to m
 
 For he does appear to have equipped himself with both a practical command of each subject and a habit of painstaking inquiry, and, in a word, to have come to the writing of history industriously; and yet in certain respects no one among the writers of repute seems to have been more inexperienced or less painstaking than he. What I mean will become clear from the following.
 
-## Book 12 Chapter 28: Mere Inquiry Is Insufficient
+## Book 12 Chapter 28: Men of Affairs Should Write History
 
 It seems to me that the very dignity of history calls for such a man.
 

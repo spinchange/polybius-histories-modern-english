@@ -410,7 +410,7 @@ It would be absurd if those who aspire to dancing or flute-playing willingly acc
 
 No sensible person would admit such a thing. Let this be enough on these matters.
 
-## Book 9 Chapter 21: The Computation of the Size of Cities
+## Book 9 Chapter 21: Joy and Sorrow on Both Sides
 
 Given the state of feeling on both sides, among Romans and Carthaginians alike, and since the turns dealt by Fortune kept alternately reversing themselves for each, it was natural, as the poet says, that sorrow and joy should enter their hearts together.
 
@@ -560,7 +560,7 @@ Polybius says that both the river and the city were called Acragas from the fert
 
 Marcus, after giving guarantees of safety, persuaded them to withdraw to Italy, on the condition that they should receive rations from the people of Rhegium while they ravaged Bruttium, and that they should keep whatever profit they won from enemy territory.
 
-## Book 9 Chapter 28: Greece: Philip Reduces Thessaly
+## Book 9 Chapter 28: Chlaeneas Charges Macedon with Enslaving Greece
 
 That the Macedonian domination, men of Lacedaemon, proved to be the beginning of slavery for the Greeks, I am persuaded no one would dare to deny; and you may consider the matter in this way.
 
@@ -578,7 +578,7 @@ In the end, after stripping you of both cities and countryside, he assigned part
 
 Alexander succeeded him in power. And how he in turn destroyed Thebes, thinking that some small spark of Greek spirit still remained there, I suppose you all know well enough.
 
-## Book 9 Chapter 29: Speech of Chlaeneas
+## Book 9 Chapter 29: The Successors Treat the Greeks Cruelly
 
 And as for the successors who inherited his power, why need I speak in detail of the way they have treated the Greeks?
 
@@ -808,7 +808,7 @@ The honorable and fitting course for you, men of Lacedaemon, is to remember your
 
 But if some of the more powerful men among you oppose this, then at least incline toward neutrality and do not take part in the wrongdoing of these Aetolians.
 
-## Book 9 Chapter 40: Philip in Thessaly
+## Book 9 Chapter 40: The Acarnanians Resolve to Die Fighting
 
 For the Athenian city always wishes to preserve that kind of character.
 
@@ -848,7 +848,7 @@ For the Echinaians dwell on the Melian Gulf, facing south, opposite the territor
 
 And so, as I said, once the works were complete, they immediately brought up both the trenchworks and the siege engines.
 
-## Book 9 Chapter 42: Asia and Egypt
+## Book 9 Chapter 42: Philip Repels Publius and Dorimachus
 
 Publius, the Roman commander, and Dorimachus, the Aetolian leader, arrived while Philip was besieging the city of Echinus, after he had secured his approaches to the wall well and fortified the outer face of his camp with trench and wall.
 

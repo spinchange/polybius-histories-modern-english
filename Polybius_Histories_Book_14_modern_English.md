@@ -210,7 +210,7 @@ For if they had not hindered the Romans, and if the Romans had immediately press
 
 But as it was, because the Romans were delayed by dealing with them, Syphax and his cavalry withdrew safely to their own country, while Hasdrubal escaped with those saved from the disaster to Carthage.
 
-## Book 14 Chapter 9: Scipio’s Victory On the Great Plains
+## Book 14 Chapter 9: Scipio Pursues Syphax as Carthage Debates
 
 When the Roman commander had made proper arrangements about the spoil and the prisoners, he summoned the council and deliberated about what ought to be done next.
 

@@ -480,7 +480,7 @@ But when a king is attempting the greatest enterprises, embracing the whole inha
 
 Since in each year we recount the events that happened in the various parts of the inhabited world in their proper sequence, it is plain that in some cases the end must be presented before the beginning, whenever that section first falls into place in the division of the whole work and, in the progress of the narrative, the event containing the conclusion naturally comes before the one containing the beginning and first design.
 
-## Book 15 Chapter 25: Ptolemy Epiphanes Succeeds To the Crown
+## Book 15 Chapter 25: Sosibius and Agathocles Slander Tlepolemus
 
 Sosibius, the false guardian of Ptolemy, had the reputation of being a shrewd and long-enduring instrument of evil at court.
 
@@ -554,7 +554,7 @@ He did this because he wished to provoke the crowd against Tlepolemus. But the r
 
 The beginning of the popular movement, however, arose from certain such causes as these. Nicon, a kinsman of Agathocles, had while the king was still alive been placed in command of the fleet [...]
 
-## Book 15 Chapter 26: Another Murder Committed by Agathocles
+## Book 15 Chapter 26: Agathocles Addresses the Macedonians
 
 Agathocles first assembled the Macedonians, and before them he entered with the king and Agathocleia.
 

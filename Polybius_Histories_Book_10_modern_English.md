@@ -510,7 +510,7 @@ Such mistakes, however, were very few and infrequent because of the earlier care
 
 Demetrius of Phalerum has expressed the same principle in words, saying that just as in building, if each brick is laid individually and each course receives proper attention, so in an army, precision in each man and each company makes the whole force strong.
 
-## Book 10 Chapter 25: Philip’s Increasing Deterioration
+## Book 10 Chapter 25: The Romans as the Reserve Phalanx
 
 For the present situation, he said, is very like the arrangement and handling of troops in battle.
 
@@ -524,7 +524,7 @@ But if they win—which may the gods prevent!—then together with them the Roma
 
 For every democratic alliance has great need of friendship and support because of the irrationality that arises among multitudes.
 
-## Book 10 Chapter 26: Philip V
+## Book 10 Chapter 26: Philip’s Increasing Deterioration
 
 When King Philip of Macedon had finished presiding over the Nemean games, he returned again to Argos and laid aside the diadem and the purple robe, wishing to present himself as a man equal to the crowd, mild, and democratic.
 
@@ -544,7 +544,7 @@ And it seems to me that his good qualities belonged to him by nature, while his 
 
 Though I do not, like other historians, put such judgments in prefaces, but rather fit the appropriate remarks to the events themselves whenever occasion calls and pronounce on kings and notable men there, because I think that is the more suitable method both for writer and reader.
 
-## Book 10 Chapter 27: Medea and the Palace at Ecbatana
+## Book 10 Chapter 27: Media and the Palace at Ecbatana
 
 Media, then, is among the most important of the Asiatic kingdoms both in the size of its territory and in the number and quality of its men, and likewise of its horses.
 
@@ -984,7 +984,7 @@ This, then, is what I have gone on to say in accordance with my original promise
 
 And that is why this too proves the most useful part of a properly composed history.
 
-## Book 10 Chapter 48: Antiochus Crosses the Arius
+## Book 10 Chapter 48: The Apasiacae Cross the Oxus
 
 The Apasiacae live between the Oxus and the Tanais. Of these rivers, the one flows into the Hyrcanian Sea, while the Tanais empties into the Maeotic Lake, and each is navigable because of its size.
 

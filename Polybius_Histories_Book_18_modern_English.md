@@ -298,7 +298,7 @@ On this occasion, when he again gave them ten talents and ten thousand medimni o
 
 And so Attalus, having received these honors, set sail for Cenchreae. —
 
-## Book 18 Chapter 17: Attalus and the Boeotians
+## Book 18 Chapter 17: Nabis’s Wife Plunders the Women of Argos
 
 The tyrant Nabis left Timocrates of Pellene in charge of the city of the Argives—since he trusted him above all others and employed him for his most conspicuous affairs—and returned to Sparta. A few days later he sent off his wife, giving her instructions that, once she reached Argos, she was to set about raising money.
 

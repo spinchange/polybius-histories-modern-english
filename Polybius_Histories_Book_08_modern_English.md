@@ -2,7 +2,7 @@
 
 Modern English translation of the Greek text.
 
-## Book 8 Chapter 1: The Necessity of Caution in Dealing with an Enemy
+## Book 8 Chapter 1: Rome and Carthage Contend on Every Front
 
 It does not seem to me out of place, in view of the whole plan of this work and the purpose I set out at the beginning, to call my readers’ attention to the greatness of the events and to the ambitious resolve shown by each of the two states—I mean Rome and Carthage.
 
@@ -18,7 +18,7 @@ At the same time Appius, with a hundred quinqueremes, and Marcus Claudius, with 
 
 Hamilcar on the Carthaginian side was doing the same.
 
-## Book 8 Chapter 2: Immense Exertions of Rome
+## Book 8 Chapter 2: Universal Supremacy Requires Universal History
 
 These facts, I think, now prove by the events themselves the truth of what I said more than once at the beginning of this history.
 
@@ -40,7 +40,7 @@ But when all this is happening at once, together with many other undertakings ca
 
 Let this stand as my answer to those who suppose that acquaintance with partial narratives gives them knowledge of universal and common history.
 
-## Book 8 Chapter 3: Rome and Carthage Continue to Covet Sardinia and Sicily
+## Book 8 Chapter 3: Appius and Marcus Besiege Syracuse
 
 When Epicydes and Hippocrates gained control of Syracuse and alienated both themselves and the other citizens from friendship with Rome, the Romans, who had by then also received news of the fall of Hieronymus, tyrant of Syracuse, appointed Appius Claudius to command the land force, while Marcus Claudius was given charge of the fleet.
 
@@ -58,7 +58,7 @@ Appius therefore advanced with screens and ladders toward the section of wall ad
 
 Most people can least endure the lightest burden of all—I mean silence.
 
-## Book 8 Chapter 4: History of Universal Supremacy Must Be a Universal History
+## Book 8 Chapter 4: The Sambucae Against Achradina
 
 Marcus, meanwhile, sailed against Achradina with sixty quinqueremes, each one filled with men carrying bows, slings, and javelins, by which they meant to drive back those fighting from the battlements.
 
@@ -82,7 +82,7 @@ The rest followed them up the sambuca, since the ladder was firmly secured by ro
 
 The device naturally got this name, because when it is raised the combined shape of ship and ladder looks very much like the musical instrument called a sambuca.
 
-## Book 8 Chapter 5: Syracuse’s Defenses
+## Book 8 Chapter 5: Archimedes Strikes the Fleet
 
 Yet while the Romans were preparing to bring their machines up against the towers in this way, Archimedes, having readied engines for every possible range, struck at the ships while they were still far off with his stronger stone-throwers and larger missiles, and threw them into confusion and helplessness.
 
@@ -102,7 +102,7 @@ Then, when the sambucae came near, the beams were swung into position by their p
 
 The result was that not only was the engine itself smashed to pieces, but the ship and those aboard it were put in extreme danger.
 
-## Book 8 Chapter 6: Siege of Syracuse
+## Book 8 Chapter 6: The Iron Hand Defeats the Fleet
 
 He also used other machines against those who advanced and sheltered themselves behind projecting screens, believing that in this way they would suffer nothing from missiles shot through the wall. Against these men he hurled stones heavy enough to drive the fighters from the prow, and he also let down an iron hand hanging from a chain. The man handling the beam seized whatever part of the prow he could grasp and then drew the butt of the engine down inside the wall.
 
@@ -114,7 +114,7 @@ Marcus, hard pressed by the contrivances of Archimedes and seeing the defenders 
 
 Such was the end of the siege by sea.
 
-## Book 8 Chapter 7: Archimedes
+## Book 8 Chapter 7: The Assault by Land Repulsed
 
 The men under Appius met with similar difficulties and gave up the attack.
 
@@ -136,7 +136,7 @@ Instead, they thought that the people inside would most likely be brought under 
 
 Yet, not wishing to let the time spent sitting before Syracuse be useless, the generals divided themselves and the army, so that Appius with two parts remained before the city, while Marcus, taking the third, went out against those in Sicily who had sided with the Carthaginians.
 
-## Book 8 Chapter 8: Other Inventions of Archimedes
+## Book 8 Chapter 8: Philip Ravages Messenia
 
 Philip, when he arrived in Messenia, ravaged the country in a hostile spirit, acting more from anger than from reason.
 
@@ -158,7 +158,7 @@ For that reason some deserve pardon—but not all.
 
 [...] Demetrius, after rashly and recklessly attempting, with Philip’s approval, to seize the city of the Messenians, was killed in the very crisis of the action. We shall explain the details of this matter when we come to the proper point in the narrative.
 
-## Book 8 Chapter 9: The Assault By Land Repulsed
+## Book 8 Chapter 9: Theopompus Slanders Philip and His Friends
 
 In this respect one might especially find fault with Theopompus. At the beginning of his history of Philip he says that what chiefly moved him to undertake the work was that Europe had never produced such a man as Philip son of Amyntas.
 
@@ -182,7 +182,7 @@ For though man-slayers by nature, they were male prostitutes in their habits.
 
 In short, to stop my long-windedness, especially when so many matters press upon me, I think that the so-called friends and companions of Philip were such beasts in nature and conduct that not even the Centaurs on Pelion nor the Laestrygonians in the Leontine plain were anything like them.”
 
-## Book 8 Chapter 10: Philip Devastates Messene
+## Book 8 Chapter 10: In Defense of Philip’s Companions
 
 Who would not reject such bitterness and such reckless abuse on the part of a historian?
 
@@ -208,7 +208,7 @@ And after Alexander’s death, when they contended over the greater part of the 
 
 Thus the bitterness with which Timaeus attacks Agathocles, ruler of Sicily, though it seems excessive, is still intelligible—for he is accusing an enemy, a wicked man, and a tyrant—but the invective of Theopompus does not even admit of rational defense.
 
-## Book 8 Chapter 11: Criticism Of Theopompus
+## Book 8 Chapter 11: Theopompus Contradicts His Own Design
 
 For after proposing to write about a king exceptionally endowed by nature for virtue, he omits none of the shameful or dreadful charges he can find.
 
@@ -226,7 +226,7 @@ About the error itself—his change of subject—he might perhaps have had somet
 
 But about the shameful abuse directed against Philip’s friends, I do not think he could have given any account at all, except to admit that he had strayed very far from what was fitting.
 
-## Book 8 Chapter 12: Philip, Alexander, And the Diadochi
+## Book 8 Chapter 12: Aratus Poisoned
 
 Philip, though he regarded the Messenians as enemies and set himself to ravage their land, was unable to inflict any damage worth mentioning on them; but against his most intimate friends he displayed the grossest misconduct.
 
@@ -244,7 +244,7 @@ And since Aratus had often held the chief office among the Achaeans, and because
 
 For they voted him sacrifices and heroic honors, and in general everything that contributes to eternal remembrance; so that, if there is any awareness among the dead, it is reasonable to suppose that he looks with approval both on the gratitude of the Achaeans and on the hardships and dangers he endured during his life.
 
-## Book 8 Chapter 13: Flawed Structure of Theopompus’s History
+## Book 8 Chapter 13: Philip Marches on Lissus
 
 Philip had long had his mind fixed on Lissus and Acrolissus and was eager to gain possession of those places, so he set out with his army.
 
@@ -262,7 +262,7 @@ Philip’s presence had not gone unnoticed, and accordingly a sufficient crowd f
 
 For because they trusted in the strength of Acrolissus, they had assigned only a moderate guard to it.
 
-## Book 8 Chapter 14: Aratus Poisoned
+## Book 8 Chapter 14: Philip Takes Acrolissus and Lissus
 
 So when the Macedonians drew near, the defenders immediately poured out of the city, confident in their numbers and in the strength of the ground.
 
@@ -290,7 +290,7 @@ The Dassaretae are a people of Illyria.
 
 The city Hyscana is a city of Illyria.
 
-## Book 8 Chapter 15: Philip Takes Lissus in Illyria, 213 BC
+## Book 8 Chapter 15: Sosibius Recruits Bolis the Cretan
 
 Bolis was a Cretan by birth who had spent a long time at the royal court in a position of command, and he was thought to possess intelligence, reckless courage, and practical experience in warfare inferior to no one.
 
@@ -312,7 +312,7 @@ And Bolis, being ready for the task, waited no time but sailed off at once, taki
 
 For these were the men through whom Achaeus had previously managed both his dealings with Ptolemy and all his other outside negotiations.
 
-## Book 8 Chapter 16: Philip V. In Illyria
+## Book 8 Chapter 16: Bolis Opens Contact with Cambylus
 
 When Bolis arrived at Rhodes and then afterward at Ephesus, and had shared the matter with the men just mentioned and found them ready for what he asked, he next sent a man named Arianus, one of those under his command, to Cambylus.
 
@@ -336,7 +336,7 @@ If Achaeus accepted the plan and sent an answering message to Nicomachus and Mel
 
 Once these arrangements had been made, they parted and each carried out what had been assigned.
 
-## Book 8 Chapter 17: Bolis the Cretan Agrees to Rescue Achaeus
+## Book 8 Chapter 17: Antiochus Approves the Plan
 
 At the first opportunity Cambylus brought the proposal before the king.
 
@@ -358,7 +358,7 @@ For Achaeus had formed a plan somewhat like this: first to escape the danger imm
 
 He had great hopes that if he appeared suddenly and unexpectedly among the people of Syria while Antiochus was still occupied around Sardis, he would stir up a great movement and receive a warm welcome from the people of Antioch, Coele-Syria, and Phoenicia.
 
-## Book 8 Chapter 18: Bolis Turns Traitor
+## Book 8 Chapter 18: Bolis Conspires with Antiochus
 
 So Achaeus, with expectations and calculations of this kind, awaited the arrival of Bolis.
 
@@ -380,7 +380,7 @@ After these arrangements had been agreed upon, Cambylus, on the very night Bolis
 
 The king received him graciously, gave pledges for the promised rewards, and urged both men at length to delay no further over the matter before them. Then they returned to their own camp, and toward dawn Bolis went up with Arianus and entered the citadel while it was still night.
 
-## Book 8 Chapter 19: Antiochus Approves the Plan
+## Book 8 Chapter 19: Achaeus Agrees to the Escape
 
 Achaeus received Bolis with marked warmth and friendliness and questioned him at length on every detail.
 
@@ -400,7 +400,7 @@ After this he himself set out as the fifth in the party, having given ordinary c
 
 He instructed one of his friends always to answer whatever Arianus and his companions said, and to keep asking them what was urgent; as for the rest, he was to say they were barbarians.
 
-## Book 8 Chapter 20: The Final Arrangements are Made
+## Book 8 Chapter 20: Capture of Achaeus
 
 When they joined Arianus and his party, Arianus led the way because of his knowledge of the path, while Bolis followed behind in accordance with the original plan, uneasy and perplexed by what was happening.
 
@@ -422,7 +422,7 @@ For Achaeus was the son of Andromachus, brother of Laodice the wife of Seleucus,
 
 And yet, while he was believed, both because of his own power and because of his enemies’ circumstances, to be dwelling in one of the strongest positions in the inhabited world, he was sitting bound on the ground, in the power of his enemies, before absolutely anyone knew what had happened except the men who had done it.
 
-## Book 8 Chapter 21: Achaeus Takes Precautions
+## Book 8 Chapter 21: Antiochus Punishes Achaeus
 
 At daybreak, when the king’s friends gathered at the tent as usual and the matter came before their eyes, the same thing happened to them as to the king: astonished at what they saw, they could hardly believe it.
 
@@ -444,7 +444,7 @@ And that is what happened in the end. They quarreled among themselves and split 
 
 So Achaeus, after doing everything that reason could suggest, was nevertheless overcome by the faithlessness of those whom he trusted and ended his life, becoming a useful example to posterity in two ways: first, not to trust anyone lightly; and second, not to grow boastful in prosperity, but, being human, to expect everything.
 
-## Book 8 Chapter 22: Capture of Achaeus
+## Book 8 Chapter 22: Cauarus and the Flatterer Sostratus
 
 Cauarus, king of the Gauls in Thrace, was by nature a truly royal and high-minded man, and he provided great security for the merchants who sailed into the Black Sea, and rendered important services to the Byzantines in their wars against the Thracians and the Bithynians.
 
@@ -452,7 +452,7 @@ Cauarus, king of the Gauls in Thrace, was by nature a truly royal and high-minde
 
 Yet this Cauarus the Gaul, though otherwise an excellent man, was corrupted by a flatterer named Sostratus, a native of Chalcedon.
 
-## Book 8 Chapter 23: Antiochus In Armenia
+## Book 8 Chapter 23: Antiochus and Xerxes at Armosata
 
 When Xerxes was ruling from the city of Armosata, which lies on the so-called Fair Plain between the Euphrates and the Tigris, King Antiochus encamped before the city and set about besieging it.
 
@@ -492,7 +492,7 @@ When Nicon and his companions did as they had been instructed, Hannibal was deli
 
 For by selling some of the booty and feasting on some of it, they not only won the confidence of the Tarentines but also gained many imitators.
 
-## Book 8 Chapter 25: Antiochus the Great at Armosata
+## Book 8 Chapter 25: A Bargain Made with Hannibal
 
 After this they made a second expedition, handled matters in much the same way, and exchanged mutual pledges of good faith with Hannibal.
 
@@ -514,7 +514,7 @@ For he usually made his entrances and exits by night, pretending to fear the ene
 
 When this habit of Philemenus with the gate guards had become so established that they no longer hesitated, but whenever he came near the wall and whistled by night the wicket was immediately opened for him, they then watched for a day on which the Roman commander in the city was expected to spend the whole day with a large company in the place called the Museum near the marketplace, and fixed that day with Hannibal.
 
-## Book 8 Chapter 26: The Hannibalian War — Tarentum
+## Book 8 Chapter 26: Hannibal Marches on Tarentum
 
 Hannibal had long since provided himself with the excuse of being ill, so that the Romans would not be surprised to hear that he remained for a considerable time in the same place.
 
@@ -530,7 +530,7 @@ He assembled his officers and did not fully disclose the enterprise, but in gene
 
 After speaking thus and dismissing the officers, he set the advance in motion just as darkness fell, eager to reach the wall around midnight, with Philemenus as guide, and having made ready for him a wild boar for the part he had to play.
 
-## Book 8 Chapter 27: A Bargain Made with Hannibal
+## Book 8 Chapter 27: Gaius Livius Has a Party
 
 Gaius Livius, just as the young men had anticipated, spent the day with his usual companions in the Museum, and when the drinking was already at its height, toward sunset a report was brought that the Numidians were ravaging the countryside.
 
@@ -550,7 +550,7 @@ They also took up position near the house of Gaius, knowing perfectly well that 
 
 When the return from the dinners and, in general, that sort of noise had now passed away, and the mass of the townspeople had fallen asleep, and the night was advancing while their hopes remained unshaken, they gathered together and moved forward to execute the plan.
 
-## Book 8 Chapter 28: Tarentum Betrayed To Hannibal
+## Book 8 Chapter 28: Tarentum Betrayed to Hannibal
 
 The agreement between the young men and the Carthaginians was as follows.
 
@@ -576,7 +576,7 @@ Everything went smoothly: the guards were caught before they were ready, some of
 
 The gates were quickly opened, and Hannibal’s party arrived at exactly the right moment, having timed their march so well that they never once had to halt on the road to the city.
 
-## Book 8 Chapter 29: Gaius Livius Has a Party
+## Book 8 Chapter 29: Hannibal Enters Tarentum
 
 Once the entrance had been safely made as planned and without any disturbance at all, the Carthaginians, thinking that the greater part of the enterprise was already accomplished, now advanced boldly toward the marketplace by the broad street that rises from the district called the Deep Road.
 
@@ -600,7 +600,7 @@ When these too had entered safely, they advanced toward the marketplace accordin
 
 And when this force as well joined him, Hannibal, delighted that the business was proceeding exactly as he wished, pressed on with the plan he had set before himself.
 
-## Book 8 Chapter 30: Hannibal Enters Tarentum
+## Book 8 Chapter 30: Massacre of Romans in Tarentum
 
 He selected about two thousand Gauls, divided them into three bodies, and assigned to each body two of the young men who had managed the plot.
 
@@ -626,7 +626,7 @@ For because of the trumpet and because no outrage or plundering was taking place
 
 But the sight of many Romans lying dead in the streets, together with some Gauls visibly stripping the bodies, brought to mind the presence of the Carthaginians.
 
-## Book 8 Chapter 31: Philemenus and his Retinue Get In Too
+## Book 8 Chapter 31: Hannibal Marks the Tarentine Houses
 
 By now Hannibal had drawn up his forces in the marketplace, and the Romans had withdrawn into the citadel, since they had long since secured it with a garrison. As the daylight became clear, Hannibal proclaimed that all Tarentines were to assemble in the marketplace without arms, while the young conspirators went around the city crying out for freedom and urging the people to take courage, since the Carthaginians had come on their behalf.
 
@@ -638,7 +638,7 @@ Whoever wrote the same words on a Roman dwelling, he declared, would suffer deat
 
 He then selected the most suitable men for action and sent them to plunder the Roman houses, giving as their watchword that every unmarked house should be treated as hostile. The rest he held in reserve in formation behind them.
 
-## Book 8 Chapter 32: Massacre of Romans In Tarentum
+## Book 8 Chapter 32: Hannibal Walls Off the Citadel
 
 After a great and varied mass of goods had been collected from the plundering, and the Carthaginians had gained a booty worthy of their expectations, they bivouacked under arms for the night. On the following day Hannibal consulted with the Tarentines and decided to wall off the city from the citadel, so that the Tarentines might no longer live in fear of the Romans occupying the acropolis.
 
@@ -652,7 +652,7 @@ A fierce struggle followed, as was natural in a narrow and enclosed space.
 
 In the end the Romans were forced back and put to flight. Many fell by enemy hands in the fighting itself, but the greater number, pushed and hurled together into the trench, perished there.
 
-## Book 8 Chapter 33: The Tarentines Themselves Spared
+## Book 8 Chapter 33: Additional Fortifications
 
 For the present, once Hannibal had safely completed the palisade, he remained quiet, since the enterprise had turned out exactly as he wished.
 
@@ -670,7 +670,7 @@ The Tarentines have many such names in both country and city because their colon
 
 And when the wall was quickly nearing completion, thanks to the zeal and eagerness of the Tarentines and the cooperation of the Carthaginians, Hannibal next conceived the idea of taking the citadel as well.
 
-## Book 8 Chapter 34: Hannibal Secures Tarentum
+## Book 8 Chapter 34: The Tarentines Blockade the Romans
 
 But just when his preparations for the siege were already complete, relief arrived by sea from Metapontum into the citadel, and the Romans, their spirits somewhat revived, attacked the works by night and destroyed all the constructions and machines that had been prepared. After this Hannibal gave up hope of besieging the citadel; but since the wall had now already been finished, he gathered the Tarentines and showed them why it was most important in the present circumstances to gain control of the sea.
 
@@ -696,7 +696,7 @@ In this way the Tarentines dragged their ships over into the outer sea and safel
 
 Hannibal, after leaving a guard for the city, broke camp with the army, and on the third day returned to his original palisaded camp, where he remained for the rest of the winter.
 
-## Book 8 Chapter 35: Additional Fortifications
+## Book 8 Chapter 35: The Necessity of Caution in Dealing with an Enemy
 
 The Roman general Tiberius was caught in an ambush and, after meeting the danger bravely together with those about him, lost his life. In cases of this sort, whether one ought to blame the sufferers or excuse them, it is not safe to pronounce absolutely, because many men who have done everything that reason required have nevertheless fallen into the power of those who readily violate the laws of justice recognized among mankind.
 
@@ -714,7 +714,7 @@ As a result, after falling into the enemy’s hands, he inflicted great harm on 
 
 Something similar happened to Gnaeus the Roman commander during the Sicilian war, when he irrationally put himself into the enemy’s power; and there are many others as well.
 
-## Book 8 Chapter 36: The Tarentines Blockade the Romans
+## Book 8 Chapter 36: Guarantees and the Fate of Achaeus
 
 Therefore men who hand themselves over to the enemy without due caution deserve blame, but those who take every precaution that the case allows do not deserve censure.
 

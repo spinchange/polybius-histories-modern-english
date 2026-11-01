@@ -128,7 +128,7 @@ At first the Boeotians demanded to be taken before the magistrates; but when no 
 
 Nabis, who had long been looking for grounds of accusation and a plausible pretext for conflict, seized on this occasion at once and raided the livestock of Proagoras and certain others. From this came the beginning of the war.
 
-## Book 13 Chapter 9: Antiochus in Arabia, 205–204 BC
+## Book 13 Chapter 9: Antiochus and the Gerrhaeans
 
 *Quoted by Stephanus of Byzantium, Ethnica (this and the next three paragraphs).*
 

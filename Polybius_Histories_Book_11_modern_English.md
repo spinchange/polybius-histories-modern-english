@@ -116,7 +116,7 @@ Formerly this was not understood. But now, because of the people of Oreus and th
 
 Such are the origins of the war and such the things already happening. And if everything now turns out exactly as you wish, what sort of end should one expect? Surely the beginning of great evils for all the Greeks?”
 
-## Book 11 Chapter 6: Philip In Aetolia Again
+## Book 11 Chapter 6: Philip’s Envoys Reply to the Aetolians
 
 “For anyone can see that if the Romans put an end to the war in Italy—and that moment is close at hand now that Hannibal has been shut up within a very narrow corner of Bruttium— they will next hurl their full force at Greece, claiming in words that they are helping the Aetolians against Philip, but in truth intending to bring everything there under their own power. I think this is perfectly plain.
 
@@ -156,7 +156,7 @@ They made a great point of their entourages and their clothing, and among most o
 
 For most people do not even try to imitate the actual achievements of successful men, but by admiring their side habits they merely put their own lack of judgment on display to their own harm.
 
-## Book 11 Chapter 9: Philopoemen in the Peloponnese, 207 BC
+## Book 11 Chapter 9: Philopoemen Rebukes Extravagant Dress
 
 He said that brilliance in armor contributes greatly to striking fear into one’s opponents, and that having weapons properly fitted is of great practical use.
 
@@ -340,7 +340,7 @@ For the outcomes of actions merely entertain those who hear of them, whereas the
 
 And above all, a detailed presentation of the handling of each event helps to correct the judgment of attentive readers.
 
-## Book 11 Chapter 19: The Hannibalian War Continued
+## Book 11 Chapter 19: Hannibal’s Generalship Appraised
 
 Who would not pause to admire the man’s leadership, courage, and power in the field, if he reflects on the length of this period, and considers the battles both general and particular, the sieges, the changes of cities, the shifting circumstances, and the sweep of the whole design and action, within which Hannibal, while waging war against the Romans in Italy for sixteen continuous years, never once dismissed his forces from the open field, but kept such great multitudes under his control, like a skilled helmsman, free from mutiny either against himself or among one another, though the army he used was not merely of different nations but not even of the same stock.
 
