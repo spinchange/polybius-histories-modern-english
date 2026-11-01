@@ -1,5 +1,291 @@
 {
  "layer": "parallels",
- "annotations": [],
- "by_chapter": {}
+ "annotations": [
+  {
+   "id": "parallels/livy-alps-descent",
+   "anchors": [
+    {
+     "book": 3,
+     "from": "54",
+     "to": "56"
+    }
+   ],
+   "annotator": "Livy",
+   "work": "History of Rome, XXI.36-37",
+   "date": "c. 25 BC",
+   "tags": [
+    "military"
+   ],
+   "source_pub": "Livy, The History of Rome, Books 9-26, tr. D. Spillan & Cyrus Edmonds (Bohn's Classical Library, 1849-50) (PD)",
+   "pd_basis": "pre-1930",
+   "quote": "the camp was pitched on the summit, the ground being\ncleared for that purpose with great difficulty, so much snow was there\nto be dug out and carried away. The soldiers being then set to make a\nway down the cliff by which alone a passage could be effected, and it\nbeing necessary that they should cut through the rocks, having felled\nand lopped a number of large trees which grew around, they make a huge\npile of timber; and as soon as a strong wind fit for exciting the\nflames arose, they set fire to it, and, pouring vinegar on the heated\nstones, they render them soft and crumbling. They then open a way with\niron instruments through the rock thus heated by the fire, and soften\nits declivities by gentle windings, so that not only the beasts of\nburden, but also the elephants could be led down it. Four days were\nspent about this rock",
+   "note": "Both writers stop Hannibal at a descent blocked by snow and a broken cliff, and both have him camp on the ridge and make a way down it. Polybius has the men clear the snow and build up a road along the cliff face, with the elephants across after three days (3.55); the fire, the wind and the vinegar are not in his account. Livy's rock, which he gives four days, is the more memorable picture; Polybius' is the more plausible one."
+  },
+  {
+   "id": "parallels/livy-cannae",
+   "anchors": [
+    {
+     "book": 3,
+     "from": "115",
+     "to": "117"
+    }
+   ],
+   "annotator": "Livy",
+   "work": "History of Rome, XXII.49",
+   "date": "c. 25 BC",
+   "tags": [
+    "military"
+   ],
+   "source_pub": "Livy, The History of Rome, Books 9-26, tr. D. Spillan & Cyrus Edmonds (Bohn's Classical Library, 1849-50) (PD)",
+   "pd_basis": "pre-1930",
+   "quote": "Cneius Lentulus, a military tribune, seeing, as he rode by, the consul sitting upon a stone and covered with blood, said to him: \"Lucius Aemilius! the only man whom the gods ought to regard as being guiltless of this day's disaster, take this horse, while you have any strength remaining, and I am with you to raise you up and protect you. Make not this battle more calamitous by the death of a consul. ... Go and tell the fathers publicly, to fortify the city of Rome ... Allow me to expire amid these heaps of my slaughtered troops, that I may not a second time be accused after my consulate ... they overwhelm the consul with their weapons, not knowing who he was: in the confusion his horse rescued Lentulus.",
+   "note": "Polybius gives Aemilius Paullus one sentence (3.116): after \"violent blows in the thick of hand-to-hand fighting\" he \"ended his life,\" a man who served his country to the last hour. Livy, writing nearly two centuries after the battle, gives him a scene instead: the wounded consul on a stone, the tribune with a spare horse, a refusal, and a last message for the senate and for Fabius. The speeches, the stone and the death in the confusion are not in Polybius' account; whatever Livy's source, the battle report has become a tragedy."
+  },
+  {
+   "id": "parallels/plutarch-marcellus-archimedes",
+   "anchors": [
+    {
+     "book": 8,
+     "from": "5",
+     "to": "9"
+    }
+   ],
+   "annotator": "Plutarch",
+   "work": "Life of Marcellus, XV-XVII",
+   "date": "c. AD 100",
+   "tags": [
+    "military"
+   ],
+   "source_pub": "Plutarch's Lives, tr. Aubrey Stewart & George Long, vol. 2 (London, 1899 printing) (PD)",
+   "pd_basis": "pre-1930",
+   "quote": "Others they caught by irons like hands or claws suspended from cranes, and first pulled them up by their bows till they stood upright upon their sterns, and then cast down into the water ... Often was seen the fearful sight of a ship lifted out of the sea into the air, swaying and balancing about, until the men were all thrown out or overwhelmed with stones from slings, when the empty vessel would either be dashed against the fortifications, or dropped into the sea by the claws being let go. ... he would not condescend to leave behind him any writings upon the subject, regarding the whole business of mechanics and the useful arts as base and vulgar",
+   "note": "Plutarch's iron hands and upended prows are the engine Polybius describes (8.6), and both have the Romans beaten back until they give up any direct assault. Plutarch adds what Polybius' purely military account leaves out: the picture of the ship swaying in mid-air, and the portrait of a geometer who thought his machines beneath writing down. Polybius' point is that one man's mind could hold a city (8.7); Plutarch makes that man a philosopher who thought his own machines beneath him."
+  },
+  {
+   "id": "parallels/livy-new-carthage-lagoon",
+   "anchors": [
+    {
+     "book": 10,
+     "from": "10",
+     "to": "15"
+    }
+   ],
+   "annotator": "Livy",
+   "work": "History of Rome, XXVI.45-46",
+   "date": "c. 25 BC",
+   "tags": [
+    "military"
+   ],
+   "source_pub": "Livy, The History of Rome, Books 9-26, tr. D. Spillan & Cyrus Edmonds (Bohn's Classical Library, 1849-50) (PD)",
+   "pd_basis": "pre-1930",
+   "quote": "Having received intelligence that the tide was ebbing, and having before been informed by some fishermen of Tarraco who used to pass through the lake, ... that it afforded an easy passage to the wall for footmen, he led some armed men thither in person. ... Scipio, referring this discovery, which he had made by his own diligence and penetration, to the gods and to miracle, which had turned the course of the sea, withdrawn it from the lake, and opened ways never before trodden by human feet to afford a passage to the Romans, ordered them to follow Neptune as their guide, and passing through the middle of the lake, make good their way to the walls.",
+   "note": "Both writers have the fishermen. Polybius puts them early: Scipio learns from them that the lagoon is fordable and ebbs every afternoon (10.8), tells his troops before the assault that Poseidon promised him help in a dream (10.11), and when the water falls the camp sees a miracle while the reader sees a plan (10.14). Livy compresses calculation and miracle into a single sentence, a discovery made \"by his own diligence and penetration\" that Scipio refers \"to the gods and to miracle.\" It is Polybius' verdict on Scipio (10.2), that his appeals to heaven were policy, told as narrative."
+  },
+  {
+   "id": "parallels/livy-continence-of-scipio",
+   "anchors": [
+    {
+     "book": 10,
+     "from": "18",
+     "to": "19"
+    }
+   ],
+   "annotator": "Livy",
+   "work": "History of Rome, XXVI.49-50",
+   "date": "c. 25 BC",
+   "tags": [
+    "military"
+   ],
+   "source_pub": "Livy, The History of Rome, Books 9-26, tr. D. Spillan & Cyrus Edmonds (Bohn's Classical Library, 1849-50) (PD)",
+   "pd_basis": "pre-1930",
+   "quote": "The soldiers then brought to him a female captive, a grown-up virgin, of such exquisite beauty, that whichever way she walked she attracted the eyes of every body. Scipio, on making inquiries as to her country and parentage, heard, among other particulars, that she was betrothed to a young prince of the Celtiberians, named Allucius. ... She has been kept in perfect safety for you, that she might be presented to you pure, a gift worthy of me and of you. ... Then calling Allucius to him, he said: \"To the dowry which you are about to receive from your father-in-law, let these marriage presents also from me be added;\" bidding him take away the gold and keep it for himself.",
+   "note": "Polybius tells this in a few lines (10.19): young Romans bring Scipio a beautiful girl as a gift, he says a private man could want nothing more and a general nothing less, and he gives her back to her father to marry off as he likes. Livy, writing nearly two centuries later, gives her a betrothed, the Celtiberian prince Allucius, a speech in which Scipio addresses him as one young man to another, and a ransom of gold that Scipio hands back as a wedding present. Allucius then returns with fourteen hundred horsemen, a payoff Polybius's version has no place for."
+  },
+  {
+   "id": "parallels/livy-zama-meeting",
+   "anchors": [
+    {
+     "book": 15,
+     "from": "6",
+     "to": "8"
+    }
+   ],
+   "annotator": "Livy",
+   "work": "History of Rome, XXX.30-31",
+   "date": "c. 25 BC",
+   "tags": [
+    "fortune"
+   ],
+   "source_pub": "Livy, The History of Rome, Books 27-36, tr. Cyrus Edmonds (Bohn's Classical Library, 1850) (PD)",
+   "pd_basis": "pre-1930",
+   "quote": "Even if you should forget all others, I am myself a sufficient instance of every vicissitude of fortune. For me, whom a little while ago you saw advancing my standards to the walls of Rome, after pitching my camp between the Anio and your city, you now behold here, bereft of my two brothers, men of consummate bravery, and most renowned generals, standing before the walls of my native city, which is all but besieged, and deprecating, in behalf of my own city, those severities with which I terrified yours. ... As to myself, I am not forgetful of the instability of human affairs, but consider the influence of fortune, and am well aware that all our measures are liable to a thousand casualties.",
+   "note": "Livy keeps Polybius' frame: two generals, one interpreter each, Hannibal pleading from the memory of his camp before Rome and Scipio answering that he too reckons with the uncertainty of human affairs (15.6-8). He lengthens Hannibal's speech and gives it personal turns Polybius lacks: the father who was consul when the war began, the brothers lost, the old man returning to the country he left as a boy. Hannibal's offer of Sicily, Sardinia, Spain and the islands is in both (15.7), but where Polybius' Scipio recites the earlier treaty's terms (15.8), Livy's Scipio demands compensation for the seized ships and the insult to the ambassadors, and ends in \"prepare for war.\""
+  },
+  {
+   "id": "parallels/livy-isthmian-proclamation",
+   "anchors": [
+    {
+     "book": 18,
+     "from": "46",
+     "to": "46"
+    }
+   ],
+   "annotator": "Livy",
+   "work": "History of Rome, XXXIII.32",
+   "date": "c. 25 BC",
+   "tags": [
+    "constitutional"
+   ],
+   "source_pub": "Livy, The History of Rome, Books 27-36, tr. Cyrus Edmonds (Bohn's Classical Library, 1850) (PD)",
+   "pd_basis": "pre-1930",
+   "quote": "a herald, preceded by a trumpeter, according to custom, advanced into the centre of the theatre ... Silence being commanded by sound of trumpet, he uttered aloud the following proclamation: THE SENATE AND PEOPLE OF ROME, AND TITUS QUINCTIUS, THEIR GENERAL, HAVING SUBDUED KING PHILIP AND THE MACEDONIANS, DO HEREBY ORDER, THAT THE FOLLOWING STATES BE FREE, INDEPENDENT, AND RULED BY THEIR OWN LAWS ... Scarcely could they believe that they had heard them; and they looked at each other, marvelling as at the empty illusion of a dream. ... As everyone desired not only to hear, but to see the messenger of liberty, the herald was called out again; and he again repeated the proclamation.",
+   "note": "Livy tells the scene in the same order as Polybius (18.46): the herald and trumpeter, the proclamation, the crowd's disbelief \"as at a dream,\" the call for the herald to come out and say it again so that they might see as well as hear. He changes the setting from the stadium to a theatre, drops Polybius' \"without garrison, without tribute\" from the herald's words (though a later phrase of the crowd's gratitude echoes Polybius' \"single proclamation\"), and puts \"the Senate and People of Rome\" where Polybius has the Senate alone. Polybius' own aside, \"as it seems to me,\" about why the crowd wanted to see the herald has become plain narration in Livy."
+  },
+  {
+   "id": "parallels/plutarch-philopoemen-death",
+   "anchors": [
+    {
+     "book": 23,
+     "from": "12",
+     "to": "12"
+    }
+   ],
+   "annotator": "Plutarch",
+   "work": "Life of Philopoemen, XX-XXI",
+   "date": "c. AD 100",
+   "tags": [
+    "fortune"
+   ],
+   "source_pub": "Plutarch's Lives, tr. Aubrey Stewart & George Long, vol. 2 (London, 1899 printing) (PD)",
+   "pd_basis": "pre-1930",
+   "quote": "He then took the cup into his hand, and inquired\nwhether he knew anything about the knights, especially about one\nLykortas. When the slave answered that most of them had escaped, he\nnodded his head, looked kindly upon him, and answered, \"You tell me\ngood news, if we are not all unfortunate.\" He uttered no other word,\nbut drank the poison and laid down again. ... The urn\nitself, which was scarcely to be seen for the garlands and ribbons\nwith which it was covered, was carried by Polybius, the son of the\nAchæan commander-in-chief, accompanied by the noblest of the Achæans.",
+   "note": "Polybius' own notice of Philopoemen's end (23.12) is brief: captured by the Messenians, killed with poison, \"weaker than Fortune,\" and a reflection that no one is successful to the very end. Plutarch supplies the scene Polybius leaves out, the cup in the dark and the dying general's one question, which is about his cavalry and Lycortas, Polybius' father. Then, in the funeral that follows, he places the historian himself in the procession carrying the urn, a detail that does not appear in the surviving chapter."
+  },
+  {
+   "id": "parallels/livy-popillius-line-in-the-sand",
+   "anchors": [
+    {
+     "book": 29,
+     "from": "27",
+     "to": "27"
+    }
+   ],
+   "annotator": "Livy",
+   "work": "History of Rome, XLV.12",
+   "date": "c. 25 BC",
+   "tags": [
+    "historiographical"
+   ],
+   "source_pub": "Livy, The History of Rome, Books 37 to the End, tr. W. A. McDevitte (Bohn's Classical Library, 1850) (PD)",
+   "pd_basis": "pre-1930",
+   "quote": "The Roman ambassadors met him after crossing the river at Eleusine, four miles from that city. On their approach he saluted them, and held out his right hand to Popilius; but Popilius put into his hand a written tablet, containing the decree of the senate, and desired him first to peruse that. On perusing it, he said, that he, after calling his friends together, would consult on what was to be done; on which Popilius, with the usual asperity of his disposition, drew a line round the king, with a wand which he held in his hand, and said, \"Before you go out of that circle, give me an answer to report to the senate.\" Astonished at such a peremptory injunction, the king hesitated for some time; but at last replied, \"I will do as the senate directs.\" Popilius then thought proper to stretch out his right hand to him; as to a friend and ally.",
+   "note": "Livy tells the scene in the same order as Polybius (29.27): the offered hand, the tablet read first, the request to consult friends, the circle drawn with a rod, the surrender, the handshake. He gives it a place (Eleusine, four miles from Alexandria), Antiochus's actual words, and the order Popilius speaks, which Polybius reports only indirectly. Polybius, for his part, stops to guess why Popilius withheld the handshake (he wanted to know first whether the man was friend or enemy) and has Popilius's whole party greet the king, where Livy has Popilius alone offer his hand."
+  },
+  {
+   "id": "parallels/appian-scipio-weeps-over-carthage",
+   "anchors": [
+    {
+     "book": 38,
+     "from": "21",
+     "to": "22"
+    }
+   ],
+   "annotator": "Appian of Alexandria",
+   "work": "Roman History, VIII (Punic Wars) 132",
+   "date": "c. AD 150",
+   "tags": [
+    "fortune"
+   ],
+   "source_pub": "The Roman History of Appian of Alexandria, tr. Horace White, vol. 1 (New York/London, 1899) (PD)",
+   "pd_basis": "pre-1930",
+   "quote": "Scipio, beholding this spectacle, is said to have shed tears and publicly lamented the fortune of the enemy. After meditating by himself a long time and reflecting on the rise and fall of cities, nations, and empires, as well as of individuals, ... Polybius wrote this down just as he heard it.",
+   "note": "Appian, writing some three centuries later, tells the scene that survives only in tatters in Polybius (38.21-22): Scipio weeping over the burning city, the Homeric line about the fall of Troy, the fear that Rome's turn would come. He adds a roll of fallen empires (Troy, Assyria, Media, Persia, Macedon) and closes by naming his source: Polybius \"wrote this down just as he heard it.\" Polybius' own broken fragment confirms it in the first person, with Scipio \"turning at once and grasping my right hand.\""
+  }
+ ],
+ "by_chapter": {
+  "3.54": [
+   "parallels/livy-alps-descent"
+  ],
+  "3.55": [
+   "parallels/livy-alps-descent"
+  ],
+  "3.56": [
+   "parallels/livy-alps-descent"
+  ],
+  "3.115": [
+   "parallels/livy-cannae"
+  ],
+  "3.116": [
+   "parallels/livy-cannae"
+  ],
+  "3.117": [
+   "parallels/livy-cannae"
+  ],
+  "8.5": [
+   "parallels/plutarch-marcellus-archimedes"
+  ],
+  "8.6": [
+   "parallels/plutarch-marcellus-archimedes"
+  ],
+  "8.7": [
+   "parallels/plutarch-marcellus-archimedes"
+  ],
+  "8.8": [
+   "parallels/plutarch-marcellus-archimedes"
+  ],
+  "8.8a": [
+   "parallels/plutarch-marcellus-archimedes"
+  ],
+  "8.9": [
+   "parallels/plutarch-marcellus-archimedes"
+  ],
+  "10.10": [
+   "parallels/livy-new-carthage-lagoon"
+  ],
+  "10.11": [
+   "parallels/livy-new-carthage-lagoon"
+  ],
+  "10.12": [
+   "parallels/livy-new-carthage-lagoon"
+  ],
+  "10.13": [
+   "parallels/livy-new-carthage-lagoon"
+  ],
+  "10.14": [
+   "parallels/livy-new-carthage-lagoon"
+  ],
+  "10.15": [
+   "parallels/livy-new-carthage-lagoon"
+  ],
+  "10.18": [
+   "parallels/livy-continence-of-scipio"
+  ],
+  "10.19": [
+   "parallels/livy-continence-of-scipio"
+  ],
+  "15.6": [
+   "parallels/livy-zama-meeting"
+  ],
+  "15.7": [
+   "parallels/livy-zama-meeting"
+  ],
+  "15.8": [
+   "parallels/livy-zama-meeting"
+  ],
+  "18.46": [
+   "parallels/livy-isthmian-proclamation"
+  ],
+  "23.12": [
+   "parallels/plutarch-philopoemen-death"
+  ],
+  "29.27": [
+   "parallels/livy-popillius-line-in-the-sand"
+  ],
+  "38.21": [
+   "parallels/appian-scipio-weeps-over-carthage"
+  ],
+  "38.22": [
+   "parallels/appian-scipio-weeps-over-carthage"
+  ]
+ }
 }
