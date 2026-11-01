@@ -30,7 +30,7 @@ see in the war of the Pandours ... a general of our day could make use
 of nothing but the disposition of his cavalry at the battle of
 Pharsalus. ... Those who have had this abridgment printed have had no
 aim but the greater glory of the service, in trying to make it easier
-for officers to study their art, and a profession that leads to
+for officers to study the study of their art and of a profession that leads to
 immortality.
 
-**Note:** Polybius argues in these chapters that command is an art to be learned from study as well as from the camp. In 1753 Frederick the Great took him at his word, having Folard's six-volume commentary on Polybius cut down to a quarter of one volume and printed in just 110 copies for his officers, with Folard's pet theory of attack in deep columns thrown out and the "diamonds" kept. Like Constantine eight centuries earlier, a monarch decided that the way to save a long book was to cut it. The one battle he finds worth a modern general's attention is Pharsalus, on whose eve Brutus sat making his own epitome of Polybius.
+**Note:** Polybius argues in these chapters that command is an art to be learned from study as well as from the camp. In 1753 Frederick the Great took him at his word, having Folard's six-volume commentary on Polybius cut down to a quarter of one volume and printed in just 110 copies for his officers, with Folard's pet theory of attack in deep columns thrown out and the "diamonds" kept. Like Constantine eight centuries earlier, a monarch decided that the way to make a long book useful was to cut it. From all of Caesar, the one thing he thinks a modern general can use is the placing of the cavalry at Pharsalus, the battle on whose eve Brutus sat making his own epitome of Polybius.

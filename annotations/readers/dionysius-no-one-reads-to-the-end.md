@@ -21,4 +21,4 @@ Phylarchus, Duris, Polybius, Psaon, Demetrius of Callatis, Hieronymus,
 Antigonus, Heracleides, Hegesianax, and countless others: a whole day
 would not be enough if I tried to repeat the bare names of them all!
 
-**Note:** If you are reading this note at the last chapter, you have just refuted it. Dionysius, a Greek critic teaching in Augustan Rome, cared about the music of word order, and Polybius' plain, workmanlike prose struck him as tone-deaf; he files the greatest historian of the age between two writers almost nobody now remembers. Posterity has been kinder to the history than Dionysius was to the prose, though only five of the forty books survive whole.
+**Note:** If you are reading this note at the last chapter, you have just refuted it. Dionysius, a Greek critic teaching in Augustan Rome, cared about the music of word order, and Polybius' plain, workmanlike prose struck him as tone-deaf; he files the greatest historian of the age between Duris and Psaon, whom almost nobody now reads. Posterity has been kinder to the history than Dionysius was to the prose, though only five of the forty books survive whole.

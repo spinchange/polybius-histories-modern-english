@@ -27,4 +27,4 @@ defined with sufficient accuracy. ... The constitutions of several of
 the United States, it is hoped, will prove themselves improvements both
 upon the Roman, the Spartan, and the English commonwealths.
 
-**Note:** Adams wrote the Defence in London to answer Turgot, who had criticized the new American states for copying England's balance of orders, and the first volume reached Philadelphia while the Constitutional Convention was sitting. After quoting this part of Book 6 at length, he enlists Polybius against Turgot and then, unlike Machiavelli, argues back: Rome never properly separated executive from legislative, and Americans can do better. It is Polybius' checks and balances handed to the framers, with amendments.
+**Note:** Adams wrote the Defence in London to answer Turgot, who had criticized the new American states for copying England's balance of orders. After quoting this part of Book 6 at length, he enlists Polybius against Turgot and then argues back: Rome never properly separated executive from legislative, and Americans can do better. It is Polybius' checks and balances offered to American constitution-makers with amendments.

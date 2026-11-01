@@ -1,0 +1,24 @@
+22 annotations: verified=22
+
+annotations/readers/adams-defence-checks-and-balances.md  [verified]
+  warn  ocr_fix applied: 'dif- ferent' -> 'different'
+  warn  ocr_fix applied: 'repre- sentatively' -> 'representatively'
+  warn  ocr_fix applied: 'great ?' -> 'great?'
+  warn  ocr_fix applied: 'denned' -> 'defined'
+annotations/readers/constantine-excerpta-preface.md  [verified]
+  warn  our-translation: quote not containment-checked (A4/A6 review)
+annotations/readers/dionysius-no-one-reads-to-the-end.md  [verified]
+  warn  ocr_fix applied: 'neglected ;' -> 'neglected;'
+  warn  ocr_fix applied: 'lucubra- tions' -> 'lucubrations'
+  warn  ocr_fix applied: 'mo one' -> 'no one'
+annotations/readers/frederick-folard-extract-preface.md  [verified]
+  warn  our-translation: quote not containment-checked (A4/A6 review)
+annotations/readers/montesquieu-arcadian-music.md  [verified]
+  warn  ocr_fix applied: 'informs us^' -> 'informs us'
+  warn  ocr_fix applied: 'country ;' -> 'country;'
+annotations/readers/montesquieu-legion-and-phalanx.md  [verified]
+  warn  ocr_fix applied: 'Eomans' -> 'Romans'
+  warn  ocr_fix applied: 'aU' -> 'all'
+  warn  ocr_fix applied: 'pha- lanx' -> 'phalanx'
+annotations/parallels/appian-scipio-weeps-over-carthage.md  [verified]
+  warn  ocr_fix applied: 're- flecting' -> 'reflecting'

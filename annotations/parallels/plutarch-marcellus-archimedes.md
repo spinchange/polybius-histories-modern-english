@@ -1,7 +1,7 @@
 ---
 id: parallels/plutarch-marcellus-archimedes
 layer: parallels
-anchor: ["8.5-9"]
+anchor: ["8.5-7"]
 annotator: Plutarch
 work: Life of Marcellus, XV-XVII
 date: c. AD 100
@@ -14,4 +14,4 @@ status: verified
 ---
 Others they caught by irons like hands or claws suspended from cranes, and first pulled them up by their bows till they stood upright upon their sterns, and then cast down into the water ... Often was seen the fearful sight of a ship lifted out of the sea into the air, swaying and balancing about, until the men were all thrown out or overwhelmed with stones from slings, when the empty vessel would either be dashed against the fortifications, or dropped into the sea by the claws being let go. ... he would not condescend to leave behind him any writings upon the subject, regarding the whole business of mechanics and the useful arts as base and vulgar
 
-**Note:** Plutarch's iron hands and upended prows are the engine Polybius describes (8.6), and both have the Romans beaten back until they give up any direct assault. Plutarch adds what Polybius' purely military account leaves out: the picture of the ship swaying in mid-air, and the portrait of a geometer who thought his machines beneath writing down. Polybius' point is that one man's mind could hold a city (8.7); Plutarch makes that man a philosopher who thought his own machines beneath him.
+**Note:** Plutarch's iron hands and upended prows are the engine Polybius describes (8.6), and in both the Romans are beaten back until they give up any direct assault (8.7). Both even give Marcellus a joke at his own expense: in Polybius the ships are ladles, in Plutarch Archimedes is a Briareus of geometry. Plutarch adds the ship swaying in mid-air, and a geometer who thought his machines too vulgar to write about. Polybius' point is that one mind could hold a city; Plutarch agrees, and makes that mind a philosopher's.

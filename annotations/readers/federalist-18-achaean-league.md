@@ -22,4 +22,4 @@ that more light would be thrown by it on the science of federal
 government, than by any of the like experiments with which we are
 acquainted.
 
-**Note:** Writing as "Publius" in December 1787, Madison went looking for a federal republic that had worked and found the Achaean League, whose story survives chiefly because Polybius, the son of an Achaean general, told it. "The same weights and measures, and the same money" is Polybius' own detail from this chapter (2.37). Madison's regret over the "imperfect monuments" is partly a regret over this book's own losses: the later books that followed the League to its end survive only in fragments.
+**Note:** Writing as "Publius" in December 1787, Madison went looking for the best-organized confederacy in history and found the Achaean League, whose story survives chiefly because Polybius, the son of an Achaean general, told it. "The same weights and measures, and the same money" is Polybius' own detail from this chapter (2.37). Madison's regret over the "imperfect monuments" is partly a regret over this work's own losses: the later books that followed the League to its end survive only in fragments.
