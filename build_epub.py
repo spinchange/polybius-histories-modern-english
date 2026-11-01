@@ -229,6 +229,16 @@ def editorial_note_body() -> str:
     return "\n".join(parts)
 
 
+def save_jpeg(src: Path, dst: Path, max_px: int = 1400, quality: int = 82) -> None:
+    """Re-encode art as JPEG for the EPUB (PNG plates made the file ~80 MB)."""
+    from PIL import Image
+
+    im = Image.open(src).convert("RGB")
+    if max(im.size) > max_px:
+        im.thumbnail((max_px, max_px), Image.LANCZOS)
+    im.save(dst, "JPEG", quality=quality, optimize=True, progressive=True)
+
+
 def write_frontmatter(
     text_dir: Path,
     books: list[Book],
@@ -521,7 +531,7 @@ def write_opf(
     if plates:
         for bnum in sorted(plates):
             manifest_items.append(
-                f'<item id="book-{bnum:02d}-plate" href="images/{plates[bnum]["filename"]}" media-type="image/png"/>'
+                f'<item id="book-{bnum:02d}-plate" href="images/{plates[bnum]["filename"]}" media-type="image/jpeg"/>'
             )
     spine_items = [
         '<itemref idref="cover"/>',
@@ -635,9 +645,9 @@ def build() -> dict[str, object]:
 
     cover_png = BASE / "art" / "cover_front.png"
     if cover_png.exists():
-        shutil.copy2(cover_png, images_dir / "cover_front.png")
-        cover_image = ("images/cover_front.png", "image/png")
-        cover_src = "../images/cover_front.png"
+        save_jpeg(cover_png, images_dir / "cover_front.jpg")
+        cover_image = ("images/cover_front.jpg", "image/jpeg")
+        cover_src = "../images/cover_front.jpg"
         cover_alt = manifest_flags.get("cover_front", {}).get(
             "alt_text", "Cover for Polybius, The Histories"
         )
@@ -651,8 +661,8 @@ def build() -> dict[str, object]:
     for book in books:
         plate_file = BASE / "art" / f"book_{book.number:02d}_plate.png"
         if plate_file.exists():
-            dst_name = f"book_{book.number:02d}_plate.png"
-            shutil.copy2(plate_file, images_dir / dst_name)
+            dst_name = f"book_{book.number:02d}_plate.jpg"
+            save_jpeg(plate_file, images_dir / dst_name)
             meta = manifest_books.get(book.number, {})
             plates[book.number] = {
                 "filename": dst_name,
