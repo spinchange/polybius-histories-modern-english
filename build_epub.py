@@ -163,6 +163,7 @@ def paragraph_markup(text: str) -> str:
 def inline_note_markup(text: str) -> str:
     escaped = html.escape(text)
     escaped = re.sub(r"`([^`]+)`", r"<code>\1</code>", escaped)
+    escaped = re.sub(r"[*][*]([^*]+)[*][*]", r"<b>\1</b>", escaped)
     escaped = re.sub(r"\*([^*]+)\*", r"<i>\1</i>", escaped)
     return escaped
 
