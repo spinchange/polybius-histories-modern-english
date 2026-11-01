@@ -249,8 +249,8 @@ def hero_banner_html(manifest: dict) -> str:
 
 
 def editorial_note_html() -> str:
-    md = (eb.BASE / "EDITORIAL_NOTE.md").read_text(encoding="utf-8")
-    parts = ['<section id="editorial-note">', "  <h2>Editorial Note</h2>"]
+    md = (eb.BASE / "PREFACE.md").read_text(encoding="utf-8")
+    parts = ['<section id="editorial-note">', "  <h2>Translator's Preface</h2>"]
     in_list = False
     for raw_line in md.splitlines():
         line = raw_line.strip()
@@ -258,6 +258,9 @@ def editorial_note_html() -> str:
             if in_list:
                 parts.append("  </ul>")
                 in_list = False
+            continue
+        if line.startswith("## "):
+            parts.append(f"<h3>{html.escape(line[3:])}</h3>")
             continue
         if line.startswith("#"):
             continue
@@ -347,6 +350,7 @@ def build() -> dict[str, object]:
         "  <h1>POLYBIUS</h1>",
         '  <p class="subtitle">The Histories</p>',
         '  <p class="edition">A Modern English Translation &mdash; Books I&ndash;XXXIX</p>',
+        '  <p class="edition">Translated from the Greek by Claude, Anthropic&rsquo;s family of AI models. Directed and edited by spinchange.</p>',
     ]
     hero = hero_banner_html(manifest)
     if hero:
@@ -358,15 +362,16 @@ def build() -> dict[str, object]:
         '<html lang="en">',
         "<head>",
         '  <meta charset="utf-8"/>',
+        '  <link rel="cc:license" href="https://creativecommons.org/publicdomain/zero/1.0/"/>',
         '  <meta name="viewport" content="width=device-width, initial-scale=1"/>',
         "  <title>Polybius — The Histories (Modern English Translation)</title>",
         '  <meta property="og:title" content="Polybius — The Histories (Modern English Translation)"/>',
-        '  <meta property="og:description" content="A modern English translation of the extant local source corpus for Polybius, The Histories."/>',
+        '  <meta property="og:description" content="A modern English translation of Polybius, The Histories, from the Greek."/>',
         '  <meta property="og:type" content="book"/>',
         '  <meta property="og:image" content="art/og_default.png"/>',
         '  <meta name="twitter:card" content="summary_large_image"/>',
         '  <meta name="twitter:title" content="Polybius — The Histories (Modern English Translation)"/>',
-        '  <meta name="twitter:description" content="A modern English translation of the extant local source corpus for Polybius, The Histories."/>',
+        '  <meta name="twitter:description" content="A modern English translation of Polybius, The Histories, from the Greek."/>',
         '  <meta name="twitter:image" content="art/og_default.png"/>',
         f"  <style>{CSS}</style>",
         "</head>",
@@ -377,7 +382,7 @@ def build() -> dict[str, object]:
         "<main>",
         "\n".join(book_html(book, manifest_books=manifest_books) for book in books),
         "</main>",
-        "<footer>Polybius, <i>The Histories</i> &mdash; modern English translation of the extant local source corpus.</footer>",
+        "<footer>Polybius, <i>The Histories</i> &mdash; modern English translation by Claude (Anthropic), edited by spinchange. <a href='https://creativecommons.org/publicdomain/zero/1.0/'>CC0 1.0</a> &middot; <i>Pragmatike Historia</i>.</footer>",
         "</body>",
         "</html>",
     ]
