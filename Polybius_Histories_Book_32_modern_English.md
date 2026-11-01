@@ -6,7 +6,7 @@ Modern English translation of the Greek text.
 
 Olympiad 155, year 1. Affairs in Italy.
 
-At this time envoys arrived from Ariarathes, bringing a crown worth ten thousand gold pieces and setting forth the king’s policy toward Roman affairs, [with part of the text missing], and they brought Tiberius and his colleagues forward as witnesses to these things.
+At this time envoys arrived from Ariarathes, bringing a crown worth ten thousand gold pieces and setting forth the king’s policy toward Roman affairs, [...], and they brought Tiberius and his colleagues forward as witnesses to these things.
 
 When these men confirmed the statement, the Senate accepted the crown with great gratitude and sent back in return the most distinguished of the gifts that it was accustomed to bestow, namely a staff and an ivory chair.
 

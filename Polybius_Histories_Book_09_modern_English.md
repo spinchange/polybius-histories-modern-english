@@ -654,7 +654,7 @@ But if the situation has taken exactly the opposite turn, as I shall clearly sho
 
 For we have come persuaded that we ought to make our argument precisely on this point: to show why it is both fitting and advantageous for you, if possible, after hearing of the danger now threatening Greece, to resolve upon some noble and worthy course by sharing our hopes.
 
-And if not...”
+And if not [...]”
 
 ## Book 9 Chapter 33: Defence of Macedonian Policy
 

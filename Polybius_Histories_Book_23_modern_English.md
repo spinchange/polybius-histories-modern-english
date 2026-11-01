@@ -152,7 +152,7 @@ Philip concealed his displeasure, but Perseus, who was far inferior to his broth
 
 What weighed on him most was his fear for the succession, lest, despite being the elder, he should be pushed aside for the reasons already mentioned.
 
-Therefore he began to corrupt the friends of Demetrius ***.
+Therefore he began to corrupt the friends of Demetrius [...].
 
 ## Book 23 Chapter 8: Philip Campaigns in Thrace
 
