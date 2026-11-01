@@ -840,6 +840,8 @@ Later, when Gnaeus was near the little town called Gordium, envoys came from Epo
 
 ## Book 21 Chapter 38: A Galatian Woman Takes Vengeance
 
+*Quoted by Plutarch, De mulierum virtutibus.*
+
 Chiomara, the wife of Ortiagon, was among the prisoners taken together with the other women when Gnaeus and the Romans defeated the Galatians in Asia.
 
 The centurion who took her used his opportunity in a soldier’s fashion and violated her.

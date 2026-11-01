@@ -1,0 +1,9 @@
+[
+  {"id": "F0152", "recommended": "But Hieronymus, while the Carthaginian envoys were still close at hand [...], said", "reason": "Bracketed εἴτ᾽ ἐν μισειόντων is corrupt; kept only the secure sense (envoys present, confirmed by παρόντας below) and marked the corruption; ‘leaning toward’ dropped as invented."},
+  {"id": "F0211", "recommended": "not realizing that falsehood is no less present among those who [...] what actually happened [...] writing in their histories", "reason": "Lacuna between γεγονότα and γράφοντας; the usual supplement (suppressing facts vs. writing what did not happen) fits but is not transmitted; footnote it if wanted."},
+  {"id": "F0238", "recommended": "but he struck the enemy ship under the [...]", "reason": "ὑπὸ τὰ * βίαχα is corrupt; ‘below the waterline’ is only an inference from the ἔξαλον contrast, so the noun is marked lost."},
+  {"id": "F0285", "recommended": "but that he had [...] with his whole strength toward the overthrow of Roman dominion, and deserved correction and punishment", "reason": "Verb lost after ὅλην; τῆς ἀρχῆς taken as Rome’s rule (Gnaeus is accusing him of hostility), not his deposition; ‘and conduct’ removed as invented."},
+  {"id": "F0321", "recommended": "circumstances [...] one [...] to the Romans", "reason": "καιροῖς ἕνα Ῥωμαίοις has no verb and ἕνα may be corrupt; only the surviving words are given, nothing supplied; ‘be of one mind’ is invented."},
+  {"id": "F0360", "recommended": "the siege of Phanoteia and Coroneia and [...]", "reason": "Third name survives only as ‘...ε...οῦ’; ‘Haliartus’ is conjecture and is removed; καί rendered ‘and’ as in the Greek."},
+  {"id": "F0435", "recommended": "Scipio’s agreement and his handling of the situation", "reason": "ὁμολογία means agreement or compact (most likely the arrangement with Phameas), not ‘statement’; the fragment breaks off, so the referent is not certain."}
+]

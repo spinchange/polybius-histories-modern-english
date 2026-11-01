@@ -1,0 +1,15 @@
+[
+{"book":8,"chapter":"11","class":"UNKNOWN","author":"","work":"","evidence":"Mixed provenance per the source note: \"[Exc. Peir. p. 18; 9, 6 — 9, 13 οὐδ᾽ ὁποίους Athen. IV, 62 p. 167b; VI, 77 p. 260d; 9, 9 τί γὰρ — οὐκ ἀπῆν Cod. Urb. fol. 107 margo.]\" Athenaeus covers only part of the fragment; the rest is Excerpta Peiresciana and Cod. Urb."},
+{"book":8,"chapter":"4","class":"UNKNOWN","author":"","work":"","evidence":"No source marker in the Greek. The crib's Suidas note (s. v. διεσκευασμένην) concerns a different sentence (\"They send out certain Cretans...\") that is not in this Greek."},
+{"book":9,"chapter":"9","class":"UNKNOWN","author":"","work":"","evidence":"Mixed: Polybian narrative, then a Stephanus-style lemma \"Ἄτελλα, πόλις Ὀπικῶν Ἰταλίας ... ὡς Πολύβιος ἐνάτῃ\" (lexicographer not named), then a separate Bomilcar fragment."},
+{"book":12,"chapter":"26c","class":"UNKNOWN","author":"","work":"","evidence":"No source marker in the Greek; the crib has no matching chapter. Ἀθήναις is the city, not Athenaeus."},
+{"book":14,"chapter":"1a","class":"EXCERPT","author":"","work":"","evidence":"ὅτι φησὶν ὁ Πολύβιος περὶ ἑαυτοῦ καὶ περὶ τῆς τῶν βίβλων ὑποθετικῆς ἐξηγήσεως"},
+{"book":16,"chapter":"27","class":"EXCERPT","author":"","work":"","evidence":"ὅτι καθ᾽ ὃν χρόνον οἱ τῶν Ῥωμαίων πρέσβεις ἐν ταῖς Ἀθήναις (excerpt opening ὅτι; Ἀθήναις is the city)"},
+{"book":20,"chapter":"4","class":"EXCERPT","author":"","work":"","evidence":"ὅτι Βοιωτοὶ ἐκ πολλῶν ἤδη χρόνων καχεκτοῦντες ἦσαν (the Plutarch Arat. 16 reference is only a cross-reference in the crib)"},
+{"book":21,"chapter":"6","class":"UNKNOWN","author":"","work":"","evidence":"Mixed: excerpt sections (\"ὅτι κατὰ τοὺς αὐτοὺς χρόνους...\") plus a final sentence that the crib says was \"preserved in Suidas, s. v. προστηθιδίων\" and restored by emendation."},
+{"book":23,"chapter":"1","class":"EXCERPT","author":"","work":"","evidence":"ὅτι κατὰ τὴν ἐνάτην καὶ τετταρακοστὴν ὀλυμπιάδα πρὸς ταῖς ἑκατὸν εἰς τὴν Ῥώμην ἡθροίσθησαν πρεσβειῶν πλῆθος (Ἀθηναίῳ is Eumenes' brother)"},
+{"book":29,"chapter":"13","class":"UNKNOWN","author":"","work":"","evidence":"The quoting frame \"ἐν δὲ τῇ ἐνάτῃ καὶ εἰκοστῇ ὁ αὐτὸς Γένθιόν φησι\" shows a later author reporting Polybius, but no author is named in the Greek or the source file; the crib cites only Livy and Plutarch Aemil. 15 as cross-references."},
+{"book":29,"chapter":"9","class":"UNKNOWN","author":"","work":"","evidence":"No source marker in the Greek (\"προστίθημι δ᾽ ἔτι παρ᾽ ἐμαυτοῦ\"); \"See Plutarch, Aemilius, ch. 12\" is a cross-reference only."},
+{"book":30,"chapter":"6","class":"EXCERPT","author":"","work":"","evidence":"ὅτι φησὶ Πολύβιος: πρότερον ἐπιστήσαντες τοὺς ἀναγινώσκοντας"},
+{"book":36,"chapter":"17","class":"UNKNOWN","author":"","work":"","evidence":"Frame \"ἐγὼ δέ, φησὶν ὁ Πολύβιος ἐπιτιμῶν...\" without the excerpt-opening ὅτι, and no reporting author named in the Greek or source file (no crib chapter)."}
+]

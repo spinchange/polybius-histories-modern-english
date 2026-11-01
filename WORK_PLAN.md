@@ -144,7 +144,7 @@ correlatives, wrong historical identities.
   fighting.
 - **35.89**: the volunteer for Spain in 151 BC is Scipio **Aemilianus**, not
   Africanus.
-- **39.109**: Ptolemy Philometor is king of **Egypt**; drop "of Syria".
+- **39.109 (CORRECTED in Phase 4b)**: the Greek reads Πτολεμαῖος ὁ τῆς Συρίας βασιλεύς. Do NOT drop "of Syria": in 145 BC Philometor took the Syrian crown at Antioch. Rendered "Ptolemy, king of Egypt, who had just become king of Syria as well" (39.7).
 - **6.11 lacuna**: Greek has `****` after "the crossing of Xerxes"; mark the
   lacuna instead of smoothing the sentence.
 - Minor Book 6 polish (from review): 6.319 "as they choose" (προθῶνται);
@@ -368,3 +368,30 @@ Sonnet drafts; the user signs off (this is the one phase that is mostly human):
   `art/`, `work/art/` during this phase; dist/ was NOT regenerated in this commit. EPUBCheck was run in a
   clean worktree with only Phase 4's book edits: 0 fatals / 0 errors / 0 warnings. Rebuild dist after
   the art work lands.
+
+## Phase 4b outcome (2026-11-01) — branch fix/p4b-followups
+
+- **39.7:** keeps "of Syria": "Ptolemy, king of Egypt, who had just become king of Syria as well"
+  (Greek ὁ τῆς Συρίας βασιλεύς; Philometor took the Syrian crown in 145 BC). The 39.109 entry above is corrected.
+- **Chapter breaks that cut a sentence:** `p4b_seams.py` found 108; Sonnet checkers verified each against
+  the Greek (no `*` gap at 107 of them) → 74 clean joins + 33 repaired joins (doubled words/dashes,
+  missing verbs, English that had repeated one Greek clause across the break); 1 true lacuna left
+  alone (18.33/34). In each case the unfinished sentence moved under the next heading; NO `[...]`
+  used. Log of every move: `work/reports/p4b_seam_moves.csv`. 22 chapters still open with `[...]`
+  after a properly ended sentence — those are real gaps in the Greek.
+- **Non-standard gap markers** (`[text missing]`, `[Text breaks.]`, `[the text breaks off]`,
+  `[fragmentary text …]`) normalized to `[...]` (Books 12, 31, 32, 36).
+- **Held items:** all 30 in `work/reports/phase4_human.md` now carry an Opus RECOMMENDED rendering
+  and one-line reason. NOT applied — awaiting the translator's approval/override.
+- **Small errors applied** (logs in `work/phase4b/edits_S1..S3.md`): 1.22, 1.37, 3.53/54, 10.15/16,
+  8.24 (retitled "Tarentine Conspirators Approach Hannibal"), 14.7, 26.1, 36.5, 36.14, 36.15, 39.6, 39.7.
+- **Attribution sort (the 68 escalations):** 2 real quotations (21.38 and 29.15, both Plutarch) → lines
+  added; 27 Constantinian-type excerpts; 39 unknown (mixed sources or no named author). 7.1's line now
+  reads "Quoted by Athenaeus, Deipnosophistae; the last sentence by Suidas, Lexicon." Far fewer than
+  hoped: the files rarely name the quoting author.
+- **Spotted, not done:** 3.38 "places demonstrating these points" (τοὺς τόπους τοὺς συνεπιδεικνυμένους
+  = "places pointed out along with the account"); 3.62 πάντες ἐμακάριζον ("all called the dead man
+  fortunate"); 4.43 ἀπολιπών ("leaving behind", not "falls short of"); 24.12 "if not, and if not
+  even Philopoemen" (εἰ δὲ μηδ᾽ = "but if not even"); 29.13 probably Athenaeus but unnamed in the file.
+- **Build:** dist/ NOT regenerated (another session's art/build changes are in the tree). EPUBCheck run
+  in an isolated worktree with only these book edits: 0 fatals / 0 errors / 0 warnings.

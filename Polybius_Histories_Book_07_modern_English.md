@@ -4,7 +4,7 @@ Modern English translation of the Greek text.
 
 ## Book 7 Chapter 1: Capua and Petelia
 
-*Quoted by Athenaeus, Deipnosophistae.*
+*Quoted by Athenaeus, Deipnosophistae; the last sentence by Suidas, Lexicon.*
 
 Polybius says in the seventh book that the people of Capua in Campania, made wealthy by the excellence of their land, drifted into luxury and extravagance, surpassing even the famous reputation of Croton and Sybaris.
 
@@ -112,11 +112,9 @@ It seems to me that writers of histories about particular episodes, once they ha
 
 How much more reasonably could someone have spent the space used to pad out books and spin the narrative out at length on Hiero and Gelo, leaving Hieronymus aside.
 
-For such a subject is more pleasing to those who enjoy hearing history, [...]
-
 ## Book 7 Chapter 8: Character of Hiero II
 
-and altogether more useful to those who wish to learn. For Hiero, first of all, won for himself the rule over Syracuse and its allies by his own efforts, inheriting neither wealth nor reputation nor any other ready-made advantage from fortune.
+For such a subject is more pleasing to those who enjoy hearing history, and altogether more useful to those who wish to learn. For Hiero, first of all, won for himself the rule over Syracuse and its allies by his own efforts, inheriting neither wealth nor reputation nor any other ready-made advantage from fortune.
 
 Indeed, without killing, banishing, or harming a single one of the citizens, he became king of the Syracusans by his own merits, which is the most astonishing thing of all; and still more astonishing is the fact that he not only acquired his power in this way, but preserved it in the same way.
 
@@ -284,11 +282,9 @@ Observing this, the man I mentioned noticed that when the birds had eaten their 
 
 After that he approached by night with care and examined the possible routes of access and the positions for ladders.
 
-And finding that at one place, along one of the cliffs, an ascent was possible, he laid the matter before the [...]
-
 ## Book 7 Chapter 16: Antiochus Takes Sardis
 
-[...] king. When the king took up the hope and urged Lagoras to carry out the attempt, the latter promised to do what he could, but asked the king to assign to him Theodotus the Aetolian and Dionysius, the commander of the bodyguard, so that they might join him, lend their aid, and share in the enterprise, since each of them seemed to possess enough strength and daring for the plan in hand.
+And finding that at one place, along one of the cliffs, an ascent was possible, he laid the matter before the king. When the king took up the hope and urged Lagoras to carry out the attempt, the latter promised to do what he could, but asked the king to assign to him Theodotus the Aetolian and Dionysius, the commander of the bodyguard, so that they might join him, lend their aid, and share in the enterprise, since each of them seemed to possess enough strength and daring for the plan in hand.
 
 The king immediately did as he asked, and the men mentioned, after coming to an understanding and sharing all the details among themselves, waited for a moonless night in the hours before dawn.
 

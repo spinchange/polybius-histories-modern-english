@@ -330,11 +330,9 @@ When night came, those to whom it had been assigned remained in camp; the genera
 
 He then summoned the light-armed troops from the camp and posted them on the eastern hill.
 
-In this way the Romans became masters of Carthage in Iberia.
-
 ## Book 10 Chapter 16: How the Romans Distribute Booty
 
-This, then, is how the Romans became masters of the city. On the next day, when the baggage of those who had served with the Carthaginian armies, along with the property of the townsmen and the artisans, had been collected in the marketplace, the tribunes divided it among the several camps according to Roman custom.
+As for Carthage in Iberia, this, then, is how the Romans became masters of it. On the next day, when the baggage of those who had served with the Carthaginian armies, along with the property of the townsmen and the artisans, had been collected in the marketplace, the tribunes divided it among the several camps according to Roman custom.
 
 The Roman method in capturing cities is somewhat as follows. Sometimes a certain number of men from each maniple are assigned to the task, according to the size of the city; sometimes whole maniples are assigned in turn.
 

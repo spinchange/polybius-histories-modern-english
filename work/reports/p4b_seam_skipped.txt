@@ -1,0 +1,1 @@
+18:33>34	SKIP	true lacuna: Greek ch 34 opens with *** and ch 33 ends with dash.

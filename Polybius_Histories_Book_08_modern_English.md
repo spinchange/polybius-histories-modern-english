@@ -462,7 +462,7 @@ But the king paid no attention to any of this. Instead he summoned the young man
 
 Receiving at once from Xerxes three hundred talents, a thousand horses, and a thousand mules with their equipment, he restored everything in the kingdom, gave him in marriage his sister Antiochis, and by acting in so magnanimous and kingly a fashion won over and attracted all the people of that region.
 
-## Book 8 Chapter 24: The Gallic King, Cauarus
+## Book 8 Chapter 24: Tarentine Conspirators Approach Hannibal
 
 The Tarentines, in the arrogance bred by prosperity, invited Pyrrhus the Epirote. For every freedom that has enjoyed unchecked license for a long time naturally grows weary of what lies before it and then looks for a master; yet when it gets one, it quickly hates him again, because the change for the worse appears so great. And this is exactly what happened to the Tarentines then.
 

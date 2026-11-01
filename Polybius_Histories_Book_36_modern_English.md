@@ -68,7 +68,7 @@ At this moment, they say that Mago Brettius spoke with manliness and sound judgm
 
 He said that, as it seemed, the Carthaginians had two occasions on which to deliberate about themselves and their country, and that they had let one of them pass by.
 
-For now, by God, there was no point in wondering what the consuls would order them to do, or why the Senate had made no mention of the city itself, but had spoken only when they were surrendering themselves.
+For now, by God, there was no point in wondering what the consuls would order them to do, or why the Senate had made no mention of the city itself; the time for that had been when they were surrendering themselves.
 
 Once they had done that, they must clearly understand that they would have to accept every order, unless it turned out to be utterly outrageous and beyond expectation.
 
@@ -206,7 +206,7 @@ The natural love of novelty in human beings is itself enough to bring about ever
 
 ## Book 36 Chapter 14: The Ill-Chosen Roman Envoys
 
-The Romans sent envoys to restrain Nicomedes from his rashness and to prevent Attalus from making war on Prusias, and they appointed Marcus Licinius, a man crippled by gout and completely unable to use his feet, then Aulus Mancinus, who had such large scars across his head from a roof tile falling on him that it was astonishing he survived, and Lucius Malleolus, who was thought by all Romans to be the dullest of men.
+The Romans sent envoys to restrain Nicomedes from his rashness and to prevent Attalus from making war on Prusias, and they appointed Marcus Licinius, a man crippled by gout and completely unable to use his feet, then Aulus Mancinus, who had such large scars across his head from a roof tile falling on him that it was astonishing he survived, and Lucius Malleolus, who seemed the dullest of all the Romans.
 
 Since the business required speed and boldness, those appointed seemed utterly unfitted for the task.
 
@@ -220,7 +220,7 @@ King Prusias, though repellent in appearance and, by reasoned judgment, not with
 
 For he was not merely cowardly, but also a stranger to hardship and altogether unmanly in both body and soul throughout his whole life.
 
-This is the last thing one wishes to find in kings, and especially in the nation of the Bithynians.
+This is the last thing anyone wishes to find in kings, and the Bithynian nation wishes it least of all.
 
 He was also accompanied by a great deal of wantonness in bodily appetites.
 
@@ -282,7 +282,7 @@ But in those matters where the causes are hidden or hard to grasp, one must inve
 
 For the Macedonians had received many and great benefits from the Romans: collectively, they had all been freed from monarchical commands and taxes and had plainly exchanged slavery for freedom; and individually, as cities, they had again been released from great internal strife and civil slaughter through Roman favor. [...]
 
-Yet because of the so-called Pseudo-Philip, many among them [...] [fragmentary text follows] [...] they saw many of their own people in a very short time driven into exile, tortured, and killed, more than in earlier times under the true kings [...] [fragmentary text continues] [...] they were angered at the Roman encampment itself and regretted their former wrongs against themselves [...] [fragmentary text continues].
+Yet because of the so-called Pseudo-Philip, many among them [...] they saw many of their own people in a very short time driven into exile, tortured, and killed, more than in earlier times under the true kings [...] they were angered at the Roman encampment itself and regretted their former wrongs against themselves [...].
 
 From these things, who would not be puzzled by what happened? For the cause of them is hard to discover.
 

@@ -1,0 +1,98 @@
+[
+ {
+  "key": "6:7>8",
+  "verdict": "OK",
+  "note": "Greek runs on (ἥκιστα / δύνασθαι); join reads cleanly."
+ },
+ {
+  "key": "7:7>8",
+  "verdict": "OK",
+  "note": "Greek runs on (μανθάνουσι / τῷ παντὶ χρησιμώτερος); single sentence."
+ },
+ {
+  "key": "7:15>16",
+  "verdict": "OK",
+  "note": "Greek προσφέρει τῷ / βασιλεῖ; join clean."
+ },
+ {
+  "key": "10:15>16",
+  "verdict": "OK",
+  "note": "Greek Καρχηδόνος / τοῦτον τὸν τρόπον ἐγένοντο κύριοι; join clean."
+ },
+ {
+  "key": "12:3>4",
+  "verdict": "OK",
+  "note": "Greek γίνεται δὲ τὸ / πλεῖον μέρος κατὰ γῆς; join clean."
+ },
+ {
+  "key": "12:4b>4c",
+  "verdict": "OK",
+  "note": "Greek σημειούμενοι τὸ μέλλον / ἐκ τῆς τοῦ ζῴου πτώσεως; one sentence."
+ },
+ {
+  "key": "12:6a>6b",
+  "verdict": "OK",
+  "note": "Greek ἐπιφαίνειν continues; moved text one sentence (colons only); join clean."
+ },
+ {
+  "key": "12:10>11",
+  "verdict": "FIX",
+  "new_head_para": "Would such a man, then, surely, had he laid hold of a public record or an ancestrally transmitted inscribed pillar, have passed it over in silence? For this is the very man who draws up his comparative tables, tracing the line of the ephors back to its origins and setting them against the kings at Lacedaemon and the archons at Athens, and matching the priestesses at Argos against the Olympic victors, and who convicts the cities of error in these records when they show a discrepancy of as little as three months—this is he.",
+  "note": "Join leaves doubled dashes; Greek has none."
+ },
+ {
+  "key": "12:13>14",
+  "verdict": "OK",
+  "note": "Greek εἰρήκει / περὶ Δημοχάρους; join clean."
+ },
+ {
+  "key": "12:25k>26",
+  "verdict": "FIX",
+  "new_head_para": "But this man, apart from his whole blunder in directing the greater part of his speech toward things that need no argument at all, has also used assumptions of such a kind that no one could believe Hermocrates used them—the man who fought alongside the Spartans in the sea-battle at Aegospotami, and who with all their crews subdued the forces of the Athenians and their generals in Sicily—nor indeed any chance youth? For he, first of all, thinks he ought to remind the delegates that those who sleep at dawn are roused in war by trumpets, but in peacetime by the birds.",
+  "note": "Join repeats: 'any boy any chance youth'; Greek has only μειράκιον τὸ τυχόν."
+ },
+ {
+  "key": "12:28>28a",
+  "verdict": "FIX",
+  "new_head_para": "But Timaeus, so as not to seem to be following Ephorus, on top of misrepresenting him has at the same time condemned the rest as well: for, expounding at length, obscurely, and in every way worse the matters that had been properly handled by others, he supposed that none of the living would be able to observe this. All the same, in his eagerness to exalt the writing of history, he says first that the difference between history and rhetorical display-pieces is as great as the difference between buildings really constructed and furnished and the scenes and settings that merely appear in stage-paintings.",
+  "note": "Join gives 'none of the of living men'; Greek: οὐδένα τῶν ζώντων ὑπέλαβε τοῦτο παρατηρήσειν (he supposed none of the living would notice)."
+ },
+ {
+  "key": "14:6>7",
+  "verdict": "FIX",
+  "new_head_para": "So they set about collecting forces, sent out Hasdrubal, and dispatched messengers to Syphax, begging him to assist them and to hold to the original plan, since very soon the general, with his forces, would link up with him. The Roman commander meanwhile continued to work at the siege of Utica; but for the most part, hearing that Syphax was holding firm and that the Carthaginians were again gathering an army, he led out his forces and encamped in front of Utica.",
+  "note": "Join lacks comma after 'his forces' (genitive absolute: the general, with his forces, would join him)."
+ },
+ {
+  "key": "14:9>10",
+  "verdict": "OK",
+  "note": "Greek πάσας ἐκύρωσαν / ἅμα τὰς γνώμας; join clean."
+ },
+ {
+  "key": "18:31>32",
+  "verdict": "OK",
+  "note": "Greek ἐξ ὧν / ποιοῦσι Ῥωμαῖοι νῦν; join clean."
+ },
+ {
+  "key": "18:33>34",
+  "verdict": "SKIP",
+  "note": "true lacuna: Greek ch 34 opens with *** and ch 33 ends with dash."
+ },
+ {
+  "key": "18:50>51",
+  "verdict": "OK",
+  "note": "Greek ἀπε- / σιώπησαν; join clean."
+ },
+ {
+  "key": "20:5>6",
+  "verdict": "FIX",
+  "new_head_para": "Such, then, was the beginning that the affairs of the house of Neon took, and of its alliance with the Macedonians, and of the increase of its fortune. Meanwhile the public affairs of the Boeotians had fallen into such a wretched condition that for nearly twenty-five years justice had not been administered among them, neither in private contracts nor in public charges.",
+  "note": "Join leaves doubled dashes; Greek has none (καὶ τῆς πρὸς Μακεδόνας συστάσεως καὶ τῆς … ἐπιδόσεως)."
+ },
+ {
+  "key": "24:14>15",
+  "verdict": "FIX",
+  "new_head_para": "When king Eumenes heard this, he sent Attalus to receive them, while he himself doubled his forces and carefully put them in order, both to meet the actual demands of the campaign and because he wished to show the Romans that he was capable, by his own power, of defending himself against Pharnaces and of defeating him in war. When the envoys arrived and urged that the war be ended, Eumenes and Ariarathes said that they were ready for anything asked of them, but they requested the Romans, if possible, to bring them together in conference with Pharnaces, so that by hearing the arguments face to face they might see more fully his faithlessness and cruelty.",
+  "note": "Join leaves doubled dashes; Greek has none (ἀμύνασθαι καὶ καταπολεμεῖν)."
+ }
+]

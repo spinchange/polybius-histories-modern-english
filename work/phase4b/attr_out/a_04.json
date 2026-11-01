@@ -1,0 +1,15 @@
+[
+{"book":8,"chapter":"10","class":"EXCERPT","author":"","work":"","evidence":"No quoting author in Greek or crib; crib 'See Plutarch, Aratus, ch. 51' is a cross-reference only"},
+{"book":8,"chapter":"37","class":"UNKNOWN","author":"","work":"","evidence":"Mixed sources: '[Suidas v. Συννόμων...]', '[Cod. Wescheri fol. 100 v. 341, 9 ss.]', '[Suidas v. Ἀπόστασις...]', '[Suidas v. Ἐπιπολάς...]'"},
+{"book":9,"chapter":"45","class":"UNKNOWN","author":"","work":"","evidence":"Lexicon-style entries ('Ἀρσινόη, πόλις Λιβύης ... ὡς Πολύβιος ἐνάτῳ') but no quoting author named in Greek or crib"},
+{"book":12,"chapter":"26","class":"EXCERPT","author":"","work":"","evidence":"Verbatim Polybius text, no quoting author; crib 'see Plutarch, Nicias, ch. 9' is a cross-reference only"},
+{"book":14,"chapter":"11","class":"UNKNOWN","author":"","work":"","evidence":"Third-person citation 'Πολύβιος ἐν τῇ τεσσαρεσκαιδεκάτῃ φησὶν' but no quoting author named in Greek or crib"},
+{"book":16,"chapter":"22a","class":"EXCERPT","author":"","work":"","evidence":"Excerpt frame 'ὅτι Ἀντιόχου τοῦ βασιλέως ... φησὶν ὁ Πολύβιος'; no quoting author named"},
+{"book":20,"chapter":"12","class":"EXCERPT","author":"","work":"","evidence":"Verbatim Polybius plus 'Fragmentum Incertae Sedis' opening 'ὅτι'; crib 'Plutarch, Philop. 15' is a cross-reference only"},
+{"book":21,"chapter":"38","class":"QUOTATION","author":"Plutarch","work":"De mulierum virtutibus","evidence":"This is really Plutarch's version of a story he found in Polybius ... Plutarch de mulierum virtutibus."},
+{"book":22,"chapter":"7","class":"EXCERPT","author":"","work":"","evidence":"Excerpt frame 'ὅτι κατὰ τὴν Πελοπόννησον ... ἐδηλώσαμεν, φησὶν ὁ Πολύβιος'; no quoting author named"},
+{"book":26,"chapter":"1a","class":"UNKNOWN","author":"","work":"","evidence":"'Πολύβιος δ᾽ ἐν τῇ ἕκτῃ καὶ εἰκοστῇ τῶν Ἱστοριῶν' — quoting author not named in Greek or crib"},
+{"book":29,"chapter":"18","class":"UNKNOWN","author":"","work":"","evidence":"'ὥς φησι Πολύβιος' — quoting author not named in Greek or crib"},
+{"book":30,"chapter":"22","class":"UNKNOWN","author":"","work":"","evidence":"'ὡς Πολύβιος ἱστορεῖ ἐν τῇ τριακοστῇ' — quoting author not named in Greek or crib"},
+{"book":35,"chapter":"5","class":"UNKNOWN","author":"","work":"","evidence":"Lemma-style 'Πολύβιος: ... καὶ ἀλλαχοῦ' — quoting author not named; crib 'Livy, Ep. 48' is a parallel only"}
+]

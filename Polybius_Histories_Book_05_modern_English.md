@@ -280,11 +280,11 @@ For Philip had encamped near Metapa and was there waiting for the men from the r
 
 On the following day, as he advanced, he ravaged the countryside and, after encamping near Conope, remained there through the next day.
 
-On the day after that he broke camp again and marched along the Achelous as far as Stratus. After crossing the river, he drew up his force out of missile range, [...]
+On the day after that he broke camp again and marched along the Achelous as far as Stratus.
 
 ## Book 5 Chapter 14: Skirmish at Stratus
 
-to test those inside the city. For he had learned that about three thousand Aetolian infantry, around four hundred cavalry, and as many as five hundred Cretans had gathered in Stratus.
+After crossing the river, he drew up his force out of missile range, to test those inside the city. For he had learned that about three thousand Aetolian infantry, around four hundred cavalry, and as many as five hundred Cretans had gathered in Stratus.
 
 Since no one dared to come out against him, he set the van in motion again and continued the march toward Limnaea and the ships.
 
@@ -1278,11 +1278,9 @@ Learning that Nicolaus, Ptolemy’s general, was encamped before Ptolemais besie
 
 But Nicolaus, having already learned beforehand of the king’s approach, withdrew himself, and sent out Lagoras the Cretan and Dorymenes the Aetolian to seize in advance the narrows near Berytus.
 
-The king attacked these men in his first assault and [...]
-
 ## Book 5 Chapter 62: Invasion of Coele-Syria
 
-routed them, and encamped at the narrows. There he waited to receive the rest of his army as well, and after exhorting them in words fitting to the undertakings before him, he then advanced with his whole army, confident and elated by the hopes that were now taking shape.
+The king attacked these men in his first assault and routed them, and encamped at the narrows. There he waited to receive the rest of his army as well, and after exhorting them in words fitting to the undertakings before him, he then advanced with his whole army, confident and elated by the hopes that were now taking shape.
 
 When Theodotus and Panaetolus came out to meet him, together with their friends, he received them kindly and took over Tyre and Ptolemais and the supplies in those cities, among which were also forty ships.
 
@@ -1358,11 +1356,9 @@ The body of Egyptians amounted to about twenty thousand phalangites and was subo
 
 A body of Thracians and Gauls was also assembled: about four thousand from the settlers and their descendants, while those recently brought in numbered about two thousand. These were commanded by Dionysius the Thracian.
 
-Such, then, in its numbers and in the variety of its components, was the force being prepared for Ptolemy, and [...]
-
 ## Book 5 Chapter 66: Antiochus Puts his Troops in Winter Quarters
 
-such was its character. Antiochus, meanwhile, having undertaken the siege of the city called Dora, was unable to make any progress, both because of the strength of the place and because of the relief brought up by Nicolaus and his men.
+Such, then, in its numbers and in the variety of its components, was the force being prepared for Ptolemy, and such was its character. Antiochus, meanwhile, having undertaken the siege of the city called Dora, was unable to make any progress, both because of the strength of the place and because of the relief brought up by Nicolaus and his men.
 
 As winter was now setting in, he agreed to the proposals of Ptolemy’s envoys: to make a four-month truce and to come to terms on every point in a friendly spirit regarding the whole dispute.
 
@@ -1560,11 +1556,9 @@ In any case, Achaeus arrived in good time, and the Selgians, on meeting with him
 
 But Logbasis, during this same period, had little by little gathered into his own house some of the soldiers slipping in from the camp, and he advised his fellow citizens not to let the opportunity pass, but to act with their eyes on the goodwill being displayed by Achaeus, and to put the finishing touch to the agreement after deliberating about the situation with the whole people present.
 
-The assembly was quickly convened, and they began to deliberate, having summoned in as well all the men from the guard posts, so as to bring matters to completion [...]
-
 ## Book 5 Chapter 76: Death of Logbasis
 
-on the business before them. But Logbasis, having given the enemy the signal for the moment, was making ready the men gathered in his house, and was himself, together with his sons, arming and equipping himself for the fight.
+The assembly was quickly convened, and they began to deliberate, having summoned in as well all the men from the guard posts, so as to bring the business before them to completion. But Logbasis, having given the enemy the signal for the moment, was making ready the men gathered in his house, and was himself, together with his sons, arming and equipping himself for the fight.
 
 On the enemy’s side, Achaeus, with half the force, advanced toward the city itself, while Garsyeris took the remainder and led them on toward the place called the Cesbedium. This is a sanctuary of Zeus, and it lies conveniently above the city, for it takes the form of a citadel.
 
@@ -2016,11 +2010,9 @@ For the moment he showed the dispatch to Demetrius of Pharos alone, charging him
 
 Demetrius seized this opening and urged that Philip ought to throw off the war against the Aetolians as quickly as possible and instead hold fast to affairs in Illyria and to a crossing into Italy.
 
-For all of Greece, he said, was already doing Philip’s bidding and would continue to do so afterward—the Achaeans out of genuine goodwill, the Aetolians cowed by what had befallen them in the present war— while Italy and the crossing there, he said, were the beginning of the design for universal dominion, to which no one had a better claim than Philip; [...]
-
 ## Book 5 Chapter 102: Philip and the Aetolians Discuss Peace
 
-and now, he said, was the very moment, with the Romans having stumbled. By using such arguments he quickly fired Philip’s ambition—naturally enough, I think, given that Philip was a young king who had been successful in his enterprises and was reckoned bold in general, and who, on top of this, sprang from a house that has always, more than any other, somehow aspired to dominion over the whole world.
+For all of Greece, he said, was already doing Philip’s bidding and would continue to do so afterward—the Achaeans out of genuine goodwill, the Aetolians cowed by what had befallen them in the present war— while Italy and the crossing there, he said, were the beginning of the design for universal dominion, to which no one had a better claim than Philip; and now, he said, was the very moment, with the Romans having stumbled. By using such arguments he quickly fired Philip’s ambition—naturally enough, I think, given that Philip was a young king who had been successful in his enterprises and was reckoned bold in general, and who, on top of this, sprang from a house that has always, more than any other, somehow aspired to dominion over the whole world.
 
 In any case, Philip, as I have said, at that time disclosed the news brought by the letter to Demetrius alone. Afterward he gathered his friends and opened a debate about coming to terms with the Aetolians.
 
@@ -2032,11 +2024,9 @@ After this, when Cleonicus had gone back and forth two or three times, and the A
 
 He himself crossed over with his force and encamped near Panormus—a harbor of the Peloponnese lying directly opposite the city of Naupactus—and waited for the delegates of the allies.
 
-During the time in which these delegates were to assemble, he sailed to Zacynthus and on his own authority settled the affairs of the island, and then returned, [...]
-
 ## Book 5 Chapter 103: Philip Goes to Naupactus
 
-sailing back again. When the delegates had now gathered, he sent Aratus, Taurion, and some of those who had come along with them to the Aetolians.
+During the time in which these delegates were to assemble, he sailed to Zacynthus and on his own authority settled the affairs of the island, and then returned, sailing back again. When the delegates had now gathered, he sent Aratus, Taurion, and some of those who had come along with them to the Aetolians.
 
 They joined the Aetolians, who were assembled in full numbers at Naupactus, and after a brief discussion, seeing how eager they were for a settlement, sailed back to Philip to report on the matter.
 
@@ -2050,11 +2040,11 @@ The Aetolians came in full numbers but without their arms, and keeping about two
 
 At first the king sent out all the delegates who had come from the allies, instructing them to propose peace to the Aetolians on these terms: that both sides keep what they now held.
 
-The Aetolians readily accepted this, and from then on there was a continuous exchange of messages between them about the particulars. Most of these I shall pass over, since they contain nothing worth recording, but I shall make mention of the exhortation of Agelaus of Naupactus, which he delivered at the first meeting before both [...]
+The Aetolians readily accepted this, and from then on there was a continuous exchange of messages between them about the particulars.
 
 ## Book 5 Chapter 104: The Cloud in the West
 
-the king and the allies present. He said that the best thing of all would be for the Greeks never to make war on one another, but to be deeply grateful to the gods if, all speaking with one voice and joining hands like men fording a river, they might be able to beat off the assaults of the barbarians and so preserve themselves and their cities.
+Most of these I shall pass over, since they contain nothing worth recording, but I shall make mention of the exhortation of Agelaus of Naupactus, which he delivered at the first meeting before both the king and the allies present. He said that the best thing of all would be for the Greeks never to make war on one another, but to be deeply grateful to the gods if, all speaking with one voice and joining hands like men fording a river, they might be able to beat off the assaults of the barbarians and so preserve themselves and their cities.
 
 But if that was altogether impossible, then at least for the present he asked them to be of one mind and on their guard, foreseeing the weight of the armaments and the magnitude of the war now massing in the west.
 

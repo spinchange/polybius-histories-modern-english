@@ -1,0 +1,20 @@
+[
+{"key":"3:9>10","verdict":"OK","note":"Greek runs on (ἐν τούτοις | καὶ περὶ ταύτας διέτριβε); join grammatical."},
+{"key":"3:10>11","verdict":"OK","note":"σχεδὸν δὲ πρὸς | πίστιν ἀρκοῦν; no gap; join reads cleanly."},
+{"key":"3:11>12","verdict":"FIX","new_head_para":"Knowing this clearly, then, Hannibal urged Antiochus that, so long as he was planning anything hostile against the Romans, he should take heart and trust him, considering that he had in Hannibal a most genuine ally; but that if ever Antiochus should make a settlement or friendship with them, then he need wait for no slander, but should distrust Hannibal and be on his guard against him, for there was nothing Hannibal would not do against the Romans, if it lay in his power. Antiochus, hearing this and judging that it had been spoken with real feeling and sincerity, set aside all the suspicion he had held before.","note":"Join leaves doubled dashes (— —for); Greek has a colon, so one comma replaces both dashes."},
+{"key":"3:13>14","verdict":"OK","note":"Greek runs on (ἐνειργάσατο | ... ἐλπίδας); no gap; grammatical."},
+{"key":"3:36>37","verdict":"OK","note":"ἀγνώστων καὶ | ἀοράτων continuous; join clean."},
+{"key":"3:37>38","verdict":"OK","note":"τὸν | κατὰ μέρος λόγον ἀποδώσομεν continuous; join clean."},
+{"key":"3:38>39","verdict":"OK","note":"Join sound. Unrelated: 'places demonstrating these points' mistakes τοὺς τόπους τοὺς συνεπιδεικνυμένους (places pointed out along with the account)."},
+{"key":"3:53>54","verdict":"OK","note":"ἑπόμενα | καὶ συνάψαι continuous; no duplication of 'rejoined the camp'."},
+{"key":"3:54>55","verdict":"OK","note":"ποιούσης τὴν πορείαν, | ἀπέστη τῆς ἐπιβολῆς continuous; join clean."},
+{"key":"3:62>63","verdict":"OK","note":"πάν | τες ἐμακάριζον continuous; join fine. Unrelated: πάντες means 'all', not 'altogether' (they all called the dead man fortunate)."},
+{"key":"3:67>68","verdict":"OK","note":"τῶν τόπων | ὀχυρότητι continuous; join clean."},
+{"key":"3:72>73","verdict":"OK","note":"ἐν τάξει | καὶ βάδην continuous; join clean."},
+{"key":"3:73>74","verdict":"OK","note":"ἐφάμιλλον ποιούμενοι | τὸν κίνδυνον continuous; join clean."},
+{"key":"3:78>79","verdict":"OK","note":"βάραθρα καὶ | τοὺς λιμνώδεις continuous; join clean."},
+{"key":"3:82>83","verdict":"OK","note":"Greek runs on without gap marker; moved text is one unfinished sentence; join grammatical."},
+{"key":"3:86>87","verdict":"OK","note":"διὰ τὸ | προϋπάρχον ... μῖσος continuous; moved text is only the unfinished sentence."},
+{"key":"3:89>90","verdict":"OK","note":"ἀκατάτριπτα χορήγια | καὶ χειρῶν πλῆθος continuous; join clean."},
+{"key":"3:93>94","verdict":"FIX","new_head_para":"At this same moment he himself, taking first the heavy infantry, behind them the cavalry, next the booty, and after all the rest the Iberians and Gauls, came to the narrows and the defiles. As for the Romans guarding the narrows, the moment they saw the lights advancing toward the heights, they supposed Hannibal was making his push that way, and so they abandoned the difficult ground and hurried to the help of the heights.","note":"Greek is ἀναλαβὼν ... ἧκε: one participle, one verb. Joined English has 'moved out' plus 'he came' with no conjunction."}
+]

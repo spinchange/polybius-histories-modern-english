@@ -1,14 +1,12 @@
 Seam report
   known: 9
-  unterminated: 1
 
-B03 L395 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | ## Book 3 Chapter 21: Romans Demand Surrender of Hannibal
-B03 L445 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | Its terms run roughly as follows: “On these conditions there shall be friendship between t
-B03 L479 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | Since such treaties exist, and are still preserved even now, engraved on bronze tablets be
-B03 L1043 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | For some readers will perhaps ask why, having devoted so much discussion to the regions of
-B03 L1579 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | Flaminius and his men, taken aback by this sudden appearance, and with visibility poor bec
-B04 L1435 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | Be that as it may, when a clear and bright day had dawned, the king at first light drew up
-B06 L449 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | In addition to these they carry two heavy javelins (pila), a bronze helmet, and a greave. 
-B12 L479 [unterminated] paragraph ends without terminal punctuation before heading | hose who have applied themselves to written records, [...] [the text breaks off]
+B03 L395 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | They pointed out that the Saguntines were not at that time allies of Rome, and to prove th
+B03 L445 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | ## Book 3 Chapter 25: The Third Treaty
+B03 L479 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | When the war over Sicily had been brought to an end, then, they made another treaty, in wh
+B03 L1043 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | For the dangers by sea were then many and hard to reckon, and those by land many times gre
+B03 L1579 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | So that affair was brought to its conclusion. Hannibal, once the men who had surrendered u
+B04 L1435 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | So the Cretans sent by the Spartans returned home through Messenia, while Phillidas and hi
+B06 L449 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | Of the heavier ones, the round-shafted have a diameter of a palm’s breadth, and the square
 B16 L207 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | ## Book 16 Chapter 11: Philip’s Operations in Caria, 201 BC
 B22 L111 [known] WORK_PLAN one-off (line numbers pre-cleanup; verify) | ## Book 22 Chapter 6: Envoys Accuse Philip Before the Senate

@@ -158,11 +158,9 @@ Others urged that envoys should be sent to Publius to discuss an armistice and s
 
 For, they said, he had withdrawn nearby to Abba and was gathering together those who had escaped the danger. In the end this last opinion prevailed.
 
-So they set about collecting forces, sent out Hasdrubal, and dispatched messengers to Syphax, begging him to assist them and to hold to the original plan, since very soon the general, with his forces [...]
-
 ## Book 14 Chapter 7: Carthaginians Reinforced and Resolute
 
-[...] and link up with him. The Roman commander meanwhile continued to work at the siege of Utica; but for the most part, hearing that Syphax was holding firm and that the Carthaginians were again gathering an army, he led out his forces and encamped in front of Utica.
+So they set about collecting forces, sent out Hasdrubal, and dispatched messengers to Syphax, begging him to assist them and to hold to the original plan, since very soon the general, with his forces, would link up with him. The Roman commander meanwhile continued to work at the siege of Utica; but for the most part, hearing that Syphax was holding firm and that the Carthaginians were again gathering an army, he led out his forces and encamped in front of Utica.
 
 At the same time, after distributing the spoils [...]
 
@@ -234,11 +232,9 @@ Others said the times no longer allowed such measures, and that they must fortif
 
 At the same time they advised deliberating about peace and treaty terms—on what conditions and by what means they might free themselves from their present troubles.
 
-And after many more speeches on these matters, they ratified [...]
-
 ## Book 14 Chapter 10: Scipio Fears a Carthaginian Attack on the Fleet
 
-[...] all the proposals together. After these decisions were made, those who were to sail to Italy went straight from the council chamber down to the sea, and the admiral went to the ships; the rest took thought for the security of the city and kept continually deliberating about details.
+And after many more speeches on these matters, they ratified all the proposals together. After these decisions were made, those who were to sail to Italy went straight from the council chamber down to the sea, and the admiral went to the ships; the rest took thought for the security of the city and kept continually deliberating about details.
 
 Publius meanwhile, as his camp was already filling up with booty because no one resisted and everyone yielded to his attacks, decided to send the greater part of the plunder back to his original camp.
 

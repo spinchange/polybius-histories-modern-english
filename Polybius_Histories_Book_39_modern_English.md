@@ -86,7 +86,7 @@ As for the Roman general, after the council of the ten had departed from Achaea,
 
 And it was natural that he should be honored both publicly and privately.
 
-For he behaved with restraint and purity, and in all matters he acted gently, although he had for a long time held great authority among the Greeks.
+For he behaved with restraint and purity, and in all matters he acted gently, although he had great opportunity and great power among the Greeks.
 
 Indeed, even in those matters where he seemed to me to have overlooked something that ought to have been done, I did not think that he did it on his own account, but rather because of the friends who were with him.
 
@@ -94,7 +94,7 @@ This was most clearly shown in the case of the Chalcidian horsemen, whom he put 
 
 ## Book 39 Chapter 7: Character of King Ptolemy
 
-When the king of Syria, Ptolemy, was struck in the course of the war, he died; and some judged him worthy of great praise and remembrance, while others judged the opposite.
+When Ptolemy, king of Egypt, who had just become king of Syria as well, was struck in the course of the war, he died; and some judged him worthy of great praise and remembrance, while others judged the opposite.
 
 For he was gentle and kind, perhaps more than any of the kings who had gone before him.
 

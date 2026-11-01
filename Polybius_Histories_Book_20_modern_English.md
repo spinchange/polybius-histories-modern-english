@@ -68,11 +68,9 @@ And so afterward, when he had defeated the Spartan Cleomenes and become master o
 
 Nor was this the only consideration Antigonus showed them; rather, continuously—now he himself, now Philip—supplying them with funds and constantly lending them strength, they quickly overcame the rival political party in Thebes and forced everyone, except a very few, to side with Macedonia.
 
-Such, then, was the beginning that the affairs of the house of Neon took, and of its alliance with the Macedonians—
-
 ## Book 20 Chapter 6: Disorganised State of Boeotia
 
-—and of the increase of its fortune. Meanwhile the public affairs of the Boeotians had fallen into such a wretched condition that for nearly twenty-five years justice had not been administered among them, neither in private contracts nor in public charges.
+Such, then, was the beginning that the affairs of the house of Neon took, and of its alliance with the Macedonians, and of the increase of its fortune. Meanwhile the public affairs of the Boeotians had fallen into such a wretched condition that for nearly twenty-five years justice had not been administered among them, neither in private contracts nor in public charges.
 
 Instead, some of the magistrates would order the dispatch of garrisons and others would proclaim national levies, and in this way they continually obstructed the course of justice; and some of the generals even made payments out of the public funds to the poor among the people.
 

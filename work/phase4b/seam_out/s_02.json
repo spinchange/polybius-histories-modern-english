@@ -1,0 +1,95 @@
+[
+ {
+  "key": "2:2>3",
+  "verdict": "OK",
+  "note": "Greek runs on; one unfinished sentence; join grammatical."
+ },
+ {
+  "key": "2:3>4",
+  "verdict": "OK",
+  "note": "Greek runs on; one unfinished sentence; join grammatical."
+ },
+ {
+  "key": "2:9>10",
+  "verdict": "OK",
+  "note": "Greek runs on; one unfinished sentence; join grammatical."
+ },
+ {
+  "key": "2:14>15",
+  "verdict": "FIX",
+  "new_head_para": "The seaboard of the Adriatic gulf serves as the base of the whole figure: the length of this base, from the city of Sena to the head of the gulf, is more than two thousand five hundred stades, so that the entire perimeter of the plains just described comes to little short of ten thousand stades. As for the fertility of the land, it is not even easy to put into words. Grain is so abundant in these regions that in our own day the Sicilian medimnus of wheat has often gone for four obols, of barley for two, and the metretes of wine for the same price as the barley.",
+  "note": "Duplicate \"of\" at join (little short of of the); Greek τῶν μυρίων has it once."
+ },
+ {
+  "key": "2:15>16",
+  "verdict": "FIX",
+  "new_head_para": "The peaks, both because of their ruggedness and because of the great depth of the snow that lies there always, are utterly uninhabitable. The Apennine, from its beginning above Massalia and its junction with the Alps, is inhabited by the Ligurians—both the flank of it inclining toward the Tyrrhenian Sea and the flank toward the plains— along the sea as far as the city of Pisa, which lies first in Etruria toward the west, and inland as far as the territory of the Arretini.",
+  "note": "Join repeats \"[snow] of the snow\" and \"[the peaks]\"; Greek has each once."
+ },
+ {
+  "key": "2:27>28",
+  "verdict": "OK",
+  "note": "Greek runs on; one unfinished sentence; join grammatical."
+ },
+ {
+  "key": "2:29>30",
+  "verdict": "OK",
+  "note": "Greek runs on; one unfinished sentence; join grammatical."
+ },
+ {
+  "key": "2:31>32",
+  "verdict": "OK",
+  "note": "Greek runs on; one unfinished sentence; join grammatical."
+ },
+ {
+  "key": "2:34>35",
+  "verdict": "OK",
+  "note": "Greek runs on; one unfinished sentence; join grammatical."
+ },
+ {
+  "key": "2:39>40",
+  "verdict": "OK",
+  "note": "Greek runs on; one unfinished sentence; join grammatical."
+ },
+ {
+  "key": "2:43>44",
+  "verdict": "OK",
+  "note": "Greek runs on; one unfinished sentence; join grammatical."
+ },
+ {
+  "key": "2:46>47",
+  "verdict": "OK",
+  "note": "Greek runs on; one unfinished sentence; join grammatical."
+ },
+ {
+  "key": "2:48>49",
+  "verdict": "OK",
+  "note": "Greek runs on; one unfinished sentence; join grammatical."
+ },
+ {
+  "key": "2:50>51",
+  "verdict": "OK",
+  "note": "Greek runs on; one unfinished sentence; join grammatical."
+ },
+ {
+  "key": "2:51>52",
+  "verdict": "OK",
+  "note": "Greek runs on; one unfinished sentence; join grammatical."
+ },
+ {
+  "key": "2:52>53",
+  "verdict": "OK",
+  "note": "Greek runs on; one unfinished sentence; join grammatical."
+ },
+ {
+  "key": "2:59>60",
+  "verdict": "OK",
+  "note": "Greek runs on; one unfinished sentence; join grammatical."
+ },
+ {
+  "key": "3:6>7",
+  "verdict": "FIX",
+  "new_head_para": "Accordingly, the first set of circumstances mentioned should be regarded as the causes of the war against the Persians, the second as the pretext, and the beginning as Alexander’s crossing into Asia. And so too, in the case of the war between Antiochus and the Romans, it is clear that the cause must be considered the resentment of the Aetolians.",
+  "note": "Join leaves doubled dash \"as— —Alexander\"; Greek ἀρχὴν δὲ τὴν Ἀλεξάνδρου διάβασιν is continuous."
+ }
+]
