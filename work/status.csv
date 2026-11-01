@@ -234,3 +234,4 @@ phase,book,chapter,action,verdict,notes
 1,21,,normalize_names,dry,6
 1,,,seam_report,report,"{'bracket-repeat': 7, 'unterminated': 78, 'heading-spacing': 6, 'known': 9, 'stray-marker': 5}"
 1,,,heading_report,report,"1311 headings; {'duplicate-title': 13, 'case': 5, 'olympiad-rubric-missing': 4, 'format': 105, 'no-title': 105, 'long-title': 2, 'unparsed-heading': 1}"
+1,,,rebuild_all,epubcheck green,"0 fatals/errors/warnings"
