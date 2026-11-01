@@ -570,7 +570,7 @@ In Asia, Prusias sent envoys to Rome together with Galatians to bring accusation
 
 Eumenes in turn sent his brother Attalus to answer the charges.
 
-Ariarathes also sent to Rome a golden crown worth ten thousand gold pieces, together with envoys who were to explain to the senate his meeting with Tiberius and, more generally, to urge them to state plainly whatever they required, since he was ready to do whatever the Romans commanded.
+Ariarathes also sent to Rome a golden crown worth ten thousand gold pieces, together with envoys who were to explain to the Senate his meeting with Tiberius and, more generally, to urge them to state plainly whatever they required, since he was ready to do whatever the Romans commanded.
 
 ## Book 31 Chapter 33: Demetrius Courts Tiberius and Wins Recognition
 

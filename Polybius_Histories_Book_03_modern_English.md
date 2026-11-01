@@ -160,7 +160,7 @@ For what reason, then, have I brought up Fabius and what he has written?
 
 Not out of any worry that his account is so plausible it might win belief among some readers—for the absurdity of his claims can be seen on its own, even without any explanation from me, by those who come across it— but rather for the sake of warning those who take up his books, so that they may look not to the author’s reputation but to the facts.
 
-For there are some who do not fix their attention on what is said but on the man who says it, and who, bearing in mind that the writer lived through those times and was a member of the Roman senate, at once assume that everything he says is to be trusted.
+For there are some who do not fix their attention on what is said but on the man who says it, and who, bearing in mind that the writer lived through those times and was a member of the Roman Senate, at once assume that everything he says is to be trusted.
 
 My own view is that we should not, on the one hand, take the historian’s authority lightly, but neither should we treat it as conclusive; rather, readers should base their judgments for the most part on the facts themselves.
 

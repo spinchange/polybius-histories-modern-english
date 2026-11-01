@@ -68,7 +68,7 @@ And after he had suffered a complete reverse in his general position, he tried i
 
 Olympiad 150, year 3. Affairs in Italy.
 
-After the consuls Tiberius and Claudius had been sent against the Istrians and Agrians, the senate, now that summer was already drawing to its close, dealt with the envoys who had come from the Lycians, men who had reached Rome only after the Lycians had already been defeated, though they had in fact been dispatched a considerable time earlier.
+After the consuls Tiberius and Claudius had been sent against the Istrians and Agrians, the Senate, now that summer was already drawing to its close, dealt with the envoys who had come from the Lycians, men who had reached Rome only after the Lycians had already been defeated, though they had in fact been dispatched a considerable time earlier.
 
 For when the people of Xanthus were just about to enter the war, they had sent Nicostratus and his colleagues as envoys both to Achaea and to Rome.
 
@@ -104,6 +104,6 @@ Olympiad 150, year 4. Affairs in Italy.
 
 When the envoys from Rhodes arrived, the senate heard their speech and postponed its reply.
 
-But when the Dardanians came and described both the numbers of the Bastarnae and the great size of the men and their boldness in danger, and also made clear the collusion of Perseus and the Gauls, saying that they were more anxious about him than about the Bastarnae and therefore begging for Roman aid, and when Thessalians were also present, supporting the Dardanians’ testimony and themselves urging the Romans to help, the senate decided to send certain men who would be eyewitnesses of what was being reported.
+But when the Dardanians came and described both the numbers of the Bastarnae and the great size of the men and their boldness in danger, and also made clear the collusion of Perseus and the Gauls, saying that they were more anxious about him than about the Bastarnae and therefore begging for Roman aid, and when Thessalians were also present, supporting the Dardanians’ testimony and themselves urging the Romans to help, the Senate decided to send certain men who would be eyewitnesses of what was being reported.
 
 So they immediately appointed Aulus Postumius and sent him out, together with some young men.

@@ -202,7 +202,7 @@ Every matter, when examined in its proper context, receives sound approval and s
 
 There were, then, three elements that controlled the constitution, all of which I have mentioned before; and everything was so fairly and fittingly ordered and administered, part by part, through these elements, that no one—not even a native—could ever say with certainty whether the constitution as a whole was aristocratic, democratic, or monarchic.
 
-And this was a natural thing to experience. For whenever we fixed our attention on the power of the consuls, it appeared to be completely monarchic and kingly; whenever on that of the senate, aristocratic again; and indeed, if one looked at the power of the people, it seemed clearly to be democratic.
+And this was a natural thing to experience. For whenever we fixed our attention on the power of the consuls, it appeared to be completely monarchic and kingly; whenever on that of the Senate, aristocratic again; and indeed, if one looked at the power of the people, it seemed clearly to be democratic.
 
 As for which of these forms held sway over each of the respective parts of the constitution—that, both then and still now (with a few exceptions), is as follows.
 
@@ -236,9 +236,9 @@ Olcium, a city of Etruria: Polybius in his sixth book. [Stephanus of Byzantium, 
 
 The consuls, before leading out the legions, while present in Rome, are masters of all public business.
 
-For all the other magistrates, except the tribunes, are subordinate to them and obey them; and it is the consuls who introduce the embassies to the senate.
+For all the other magistrates, except the tribunes, are subordinate to them and obey them; and it is the consuls who introduce the embassies to the Senate.
 
-In addition to what has been said, they refer the urgent matters of deliberation to the senate, and they carry out the entire handling of its decrees.
+In addition to what has been said, they refer the urgent matters of deliberation to the Senate, and they carry out the entire handling of its decrees.
 
 Moreover, as for everything that must be accomplished through the people in matters bearing on public affairs, it falls to them to see to it and to convene the assemblies, to bring in the decrees, and to give effect to whatever the majority decides.
 
@@ -1142,7 +1142,7 @@ They selected ten of their most distinguished men, and after making them swear t
 
 But one of those chosen, after already leaving the camp, said that he had forgotten something and turned back; after retrieving what he had left behind he set out again, thinking that by his return he had kept faith and released himself from the oath.
 
-When the envoys reached Rome, they begged and urged the senate not to begrudge the captured men their safety, but to let each of them save himself by paying three minae and returning to his family, for Hannibal, they said, was willing to grant that.
+When the envoys reached Rome, they begged and urged the Senate not to begrudge the captured men their safety, but to let each of them save himself by paying three minae and returning to his family, for Hannibal, they said, was willing to grant that.
 
 They also argued that the prisoners deserved rescue, since they had neither shown cowardice in the battle nor done anything unworthy of Rome, but had merely been left to guard the camp and, after all the others had perished in battle, had been overtaken by circumstances and surrendered to the enemy.
 

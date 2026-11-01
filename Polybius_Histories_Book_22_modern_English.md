@@ -292,7 +292,7 @@ At this Philip was thrown into confusion, and so the first interview ended there
 
 ## Book 22 Chapter 14: Philip Poisons Cassander and Sends Demetrius
 
-On the following day Appius and his colleagues ordered Philip to send both Onomastus and Cassander at once to Rome, so that the senate might learn the truth of what had happened.
+On the following day Appius and his colleagues ordered Philip to send both Onomastus and Cassander at once to Rome, so that the Senate might learn the truth of what had happened.
 
 The king, utterly shaken and at a loss for a long time, said that he would send Cassander, the man who, as they said, had actually carried out the deed, so that the senate might learn the facts from him.
 

@@ -230,7 +230,7 @@ That was the senate’s decision for the Rhodian ambassadors.
 
 ## Book 29 Chapter 20: Perseus an Example of the Impermanence of Fortune
 
-Then the man who took up the Roman language addressed those in the senate, telling them to look at what was before their eyes and, with Perseus standing there in view, not to boast excessively about successes, not to plot anything arrogant or ruinous against anyone, and in general never to trust present good fortune.
+Then the man who took up the Roman language addressed those in the Senate, telling them to look at what was before their eyes and, with Perseus standing there in view, not to boast excessively about successes, not to plot anything arrogant or ruinous against anyone, and in general never to trust present good fortune.
 
 Rather, he said, it was precisely when a man was enjoying the greatest success, whether in private life or in public affairs, that he should be most mindful of the possibility of a reversal.
 

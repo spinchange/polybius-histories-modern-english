@@ -96,7 +96,7 @@ At that moment Flaminius too came to help his own people, and they wounded him, 
 
 He was taken to Massalia and treated there with every care.
 
-When the senate learned what had happened, it immediately sent one of the consuls, Quintus Opimius, with a force to make war on the Oxybii and the Deciatae.
+When the Senate learned what had happened, it immediately sent one of the consuls, Quintus Opimius, with a force to make war on the Oxybii and the Deciatae.
 
 ## Book 33 Chapter 10: The Ligurians Resist Roman Intervention
 
@@ -130,7 +130,7 @@ So this war had both a swift beginning and a swift end.
 
 ## Book 33 Chapter 11: Ptolemy the Younger Accuses His Brother at Rome
 
-At the very time when the senate sent Opimius against the war with the Oxybii, Ptolemy the Younger arrived in Rome.
+At the very time when the Senate sent Opimius against the war with the Oxybii, Ptolemy the Younger arrived in Rome.
 
 He appeared before the senate and accused his brother, charging him with responsibility for the plot against his life.
 
@@ -138,7 +138,7 @@ At the same time he displayed the scars of his wounds before their eyes, and by 
 
 Envoys also arrived from the elder brother, headed by Neolaidas and Andromachus, to answer the accusations made by the younger Ptolemy.
 
-But the senate, already prejudiced by the slanders of the younger brother, was not even willing to listen to their defense; instead, it ordered them to leave Rome at once.
+But the Senate, already prejudiced by the slanders of the younger brother, was not even willing to listen to their defense; instead, it ordered them to leave Rome at once.
 
 For the younger Ptolemy it appointed five envoys, including Gnaeus Merula and Lucius Thermus, and gave each envoy a quinquereme; these men were instructed to restore Ptolemy to Cyprus.
 
@@ -230,15 +230,15 @@ So the Rhodians, once they had fallen into such a state, did some of the things 
 
 D. Olympiad 156, year 4. I. Affairs in Italy.
 
-When various embassies had arrived in Rome, the senate first called in Attalus, son of King Eumenes.
+When various embassies had arrived in Rome, the Senate first called in Attalus, son of King Eumenes.
 
-For he had come to Rome at this time while still a boy, both to be introduced to the senate and to renew his father’s friendships and ties of hospitality.
+For he had come to Rome at this time while still a boy, both to be introduced to the Senate and to renew his father’s friendships and ties of hospitality.
 
 He was kindly received both by the senate and by his father’s friends, obtained the answers he wanted and honors suited to his age, and after a few days returned home, being welcomed warmly and generously by all the Greek cities through which he passed.
 
 Demetrius too arrived at the same time, but after receiving only a moderate welcome, appropriate enough for a boy, he again departed for home.
 
-Heracleides, however, who had spent a long time in Rome, appeared before the senate, bringing Laodice and Alexander with him.
+Heracleides, however, who had spent a long time in Rome, appeared before the Senate, bringing Laodice and Alexander with him.
 
 The young man first made a brief and modest speech and asked the Romans to remember their friendship and alliance with his father Antiochus, and above all to help him secure the kingship.
 

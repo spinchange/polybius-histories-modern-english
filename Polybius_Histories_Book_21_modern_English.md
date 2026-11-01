@@ -326,7 +326,7 @@ Along with this he must surrender Hannibal the Carthaginian, Thoas the Aetolian,
 
 As security for all this, Antiochus must at once provide twenty hostages of the sort specified.
 
-Publius announced these terms on behalf of the whole council. Since Antipater and Zeuxis agreed to them, everyone resolved to send envoys to Rome to ask the senate and people to ratify the treaty.
+Publius announced these terms on behalf of the whole council. Since Antipater and Zeuxis agreed to them, everyone resolved to send envoys to Rome to ask the Senate and people to ratify the treaty.
 
 So they separated on those terms, and in the following days the Romans divided their forces [...]
 
@@ -340,7 +340,7 @@ Olympiad 147, year 3. Affairs in Italy.
 
 At the opening of summer, after the Roman victory over Antiochus, King Eumenes was in Rome, together with Antiochus’s envoys and those from Rhodes and many others.
 
-Nearly everyone in Asia had sent ambassadors to Rome immediately after the battle, because at that time all hopes for the future rested for all alike with the senate.
+Nearly everyone in Asia had sent ambassadors to Rome immediately after the battle, because at that time all hopes for the future rested for all alike with the Senate.
 
 The senate received everyone graciously, but gave King Eumenes the grandest reception of all, both in its formal meeting of him and in its hospitality; next after him came the Rhodians.
 
@@ -486,7 +486,7 @@ When the Rhodians had spoken in this way, they seemed to everyone to have spoken
 
 After this the senate introduced Antiochus’s envoys, Antipater and Zeuxis.
 
-They spoke with dignity and earnest appeal, and the senate approved the agreements already made with Scipio in Asia.
+They spoke with dignity and earnest appeal, and the Senate approved the agreements already made with Scipio in Asia.
 
 A few days later the people ratified them as well, and oaths were sworn on these terms with Antipater and his colleagues.
 

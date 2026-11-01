@@ -44,7 +44,7 @@ After Leptines had laid hands on Gnaeus, he at once went about openly in Laodice
 
 When Demetrius took over affairs, Leptines approached the king and urged him not to be afraid because of the murder of Gnaeus, and not to devise any harsh measures against the Laodiceans.
 
-For, he said, he himself would go to Rome and teach the senate that he had done this deed with the approval of the gods.
+For, he said, he himself would go to Rome and teach the Senate that he had done this deed with the approval of the gods.
 
 So, because of his readiness and zeal, he was led along without chains and without any confinement.
 
@@ -56,7 +56,7 @@ For his appearance had become strangely dreadful and beastlike, since for more t
 
 And the expression and movement of his eyes created such an impression of his mind that anyone who saw him would sooner have approached any wild animal than that man.
 
-Leptines, however, remained firm in his original purpose. He was ready to enter the senate, and to all who met him he freely confessed the deed and even specified that nothing troublesome would happen to him from the Romans.
+Leptines, however, remained firm in his original purpose. He was ready to enter the Senate, and to all who met him he freely confessed the deed and even specified that nothing troublesome would happen to him from the Romans.
 
 In the end his expectation proved accurate. For the senate, as it seems to me, supposed that it would appear to the masses to be taking vengeance for the murder if it took custody of the guilty men and punished them, and therefore it very nearly refused to accept them, while keeping the charge itself untouched.
 
@@ -110,7 +110,7 @@ After they had squeezed as much money as possible out of everyone, men and women
 
 And most of the people in Phoenice, partly out of fear and partly because they had been won over by Charops and his circle, condemned all those who had been denounced, not to exile but to death, on the charge that their sympathies were alien to Rome.
 
-So all these people fled, while Charops set out for Rome, taking money with him and bringing along Myrton and his associates, because he wanted to have his lawlessness sealed with the senate’s approval.
+So all these people fled, while Charops set out for Rome, taking money with him and bringing along Myrton and his associates, because he wanted to have his lawlessness sealed with the Senate’s approval.
 
 At that moment there appeared both a splendid example of Roman policy and a splendid sight for all the Greeks who were staying there, especially for those who had been summoned.
 
@@ -150,7 +150,7 @@ Such a thing one would rarely find to have happened.
 
 Olympiad 155, year 3. I. Affairs in Italy.
 
-Because the Issaeans had repeatedly sent embassies to Rome and made it clear that the Delmatae were injuring their territory and the cities allied with them, namely Epetium and Tragurium, and because the Daorsi were making the same complaint, the senate sent envoys under Gaius Fannius to inspect conditions in Illyria, and especially those concerning the Delmatae.
+Because the Issaeans had repeatedly sent embassies to Rome and made it clear that the Delmatae were injuring their territory and the cities allied with them, namely Epetium and Tragurium, and because the Daorsi were making the same complaint, the Senate sent envoys under Gaius Fannius to inspect conditions in Illyria, and especially those concerning the Delmatae.
 
 While Pleuratus was alive, these people had obeyed him; but after his death, when Gentius succeeded to the kingship, they broke away from him, made war on their neighbors, and subdued the cities next to them, some of which even paid them tribute. This tribute consisted of livestock and grain.
 
@@ -204,7 +204,7 @@ Attalus, the brother of Eumenes, when he took power, first gave proof of his own
 
 Olympiad 155, year 4. I. Affairs in Italy.
 
-When Gaius Fannius and his colleagues returned from Illyria and reported that the Delmatae were so far from making any amends for the charges brought against them by those who said they were being continually wronged, that they would not even grant them a hearing at all, declaring that they had nothing in common with the Romans; and further explained that no lodging or provisions had been given them, and that the Delmatae had even taken away by force the horses they had obtained from another city; and that they had been ready to come to blows, had they not yielded to the circumstances and made their departure with great restraint and calm; when the senate heard this report, it was seriously angered by the disobedience and rudeness of the Delmatae, but above all it judged the moment favorable for making war on them, for several reasons.
+When Gaius Fannius and his colleagues returned from Illyria and reported that the Delmatae were so far from making any amends for the charges brought against them by those who said they were being continually wronged, that they would not even grant them a hearing at all, declaring that they had nothing in common with the Romans; and further explained that no lodging or provisions had been given them, and that the Delmatae had even taken away by force the horses they had obtained from another city; and that they had been ready to come to blows, had they not yielded to the circumstances and made their departure with great restraint and calm; when the Senate heard this report, it was seriously angered by the disobedience and rudeness of the Delmatae, but above all it judged the moment favorable for making war on them, for several reasons.
 
 For these parts of Illyria, the regions stretching toward the Adriatic, had been left entirely unvisited by the Romans ever since they drove out Demetrius of Pharos; and besides, they did not want the people of Italy to grow soft in any way through a long peace.
 

@@ -484,7 +484,7 @@ And when the king too came before the council at Aegium and spoke at some length
 
 ## Book 4 Chapter 27: Disingenuous Policy of the Spartans
 
-At about the same time the Aetolians, the season of their elections having arrived, chose as their Strategus Scopas, the very man who had been responsible for all the wrongful acts just described.
+At about the same time the Aetolians, the season of their elections having arrived, chose as their strategus Scopas, the very man who had been responsible for all the wrongful acts just described.
 
 About these matters I scarcely know how one ought to speak. For to pass a public decree against making war, and yet to march out in full force and plunder and carry off their neighbors’ property; and to punish none of those responsible, but on the contrary to elect as generals and to honor the leaders in such deeds—this seems to me to be brimming with utter villainy.
 
@@ -1490,11 +1490,11 @@ Investigating who the political opponents of Aratus were, he drew each of them o
 
 He also presented them to Philip, pointing out to him at every turn that, if he followed Aratus, he would have to deal with the Achaeans according to the written terms of the alliance; but that if he listened to Apelles and took on friends of this sort, he would be able to handle all the Peloponnesians as he pleased.
 
-He also at once threw himself into the matter of the elections, wanting to secure the office of Strategus for one of his own party and to drive Aratus and his people out of their position of power.
+He also at once threw himself into the matter of the elections, wanting to secure the office of strategus for one of his own party and to drive Aratus and his people out of their position of power.
 
 For these reasons he persuaded Philip to come to the Achaean elections at Aegium, on the pretext that he was at the same time making his way toward Elis.
 
-The king having agreed, Apelles was present himself at the critical moment, and partly by entreaty, partly by intimidation, he barely managed it—but in the end he prevailed in having Eperatus of Pharae made Strategus, and in having Timoxenus, the candidate put forward by Aratus and his circle, rejected.
+The king having agreed, Apelles was present himself at the critical moment, and partly by entreaty, partly by intimidation, he barely managed it—but in the end he prevailed in having Eperatus of Pharae made strategus, and in having Timoxenus, the candidate put forward by Aratus and his circle, rejected.
 
 ## Book 4 Chapter 83: Philip Captures the Wall
 
@@ -1508,9 +1508,9 @@ Having handed it over to the Dymaeans, he advanced and ravaged the territory of 
 
 ## Book 4 Chapter 84: Aratus Defends Himself
 
-Meanwhile Apelles, supposing that he had accomplished part of his purpose now that the Achaean Strategus had been installed through his own efforts, again set to work against Aratus and his circle, wishing to detach Philip entirely from his friendship with them. He set about fabricating his slander by means of a contrivance of the following kind.
+Meanwhile Apelles, supposing that he had accomplished part of his purpose now that the Achaean strategus had been installed through his own efforts, again set to work against Aratus and his circle, wishing to detach Philip entirely from his friendship with them. He set about fabricating his slander by means of a contrivance of the following kind.
 
-Amphidamus, the Strategus of the Eleans, who had been captured at Thalamae together with those who had taken refuge there—as we related earlier concerning these events—when he arrived at Olympia, brought along with the other prisoners, made urgent efforts through certain intermediaries to obtain an interview with the king.
+Amphidamus, the strategus of the Eleans, who had been captured at Thalamae together with those who had taken refuge there—as we related earlier concerning these events—when he arrived at Olympia, brought along with the other prisoners, made urgent efforts through certain intermediaries to obtain an interview with the king.
 
 Having secured this, he stated that he was able to bring the Eleans over into friendship and alliance with the king. Philip, convinced, sent Amphidamus off without ransom, instructing him to promise the Eleans that, if they chose friendship with him, he would return all their captives without ransom, would himself guarantee the security of their territory against every outside attack, and besides this would preserve them free, ungarrisoned, exempt from tribute, and governed by their own institutions.
 

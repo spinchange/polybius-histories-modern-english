@@ -256,7 +256,7 @@ When they arrived, the Cydonians handed over the keys of the gates to Leon and e
 
 At Rhodes the strife between rival parties kept growing more and more intense.
 
-For when the senate’s decree reached them, explaining that they should no longer pay attention to the commands of military leaders, but to the senate’s own decrees, and when the majority approved the senate’s foresight, Philophron and Theaetetus and their associates seized on this opening and pressed the matter forward, saying that envoys ought to be sent to the senate, to Quintus Marcius the consul, and to Gaius, the commander of the fleet.
+For when the Senate’s decree reached them, explaining that they should no longer pay attention to the commands of military leaders, but to the Senate’s own decrees, and when the majority approved the Senate’s foresight, Philophron and Theaetetus and their associates seized on this opening and pressed the matter forward, saying that envoys ought to be sent to the Senate, to Quintus Marcius the consul, and to Gaius, the commander of the fleet.
 
 By that time it was already known to everyone which Roman magistrates were going to arrive in Greece.
 

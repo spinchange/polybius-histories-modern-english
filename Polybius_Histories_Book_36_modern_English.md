@@ -56,7 +56,7 @@ When the Carthaginians had made such a surrender and were then summoned into the
 
 The Carthaginians were pleased to hear this, believing that, since they had had to choose between two miserable alternatives, the Senate had treated them well by allowing them the most necessary and important things.
 
-But then the commander explained that they would receive these concessions only if they sent three hundred hostages to Lilybaeum within thirty days—sons of men from the council and the senate—and obeyed whatever orders the consuls might give them.
+But then the commander explained that they would receive these concessions only if they sent three hundred hostages to Lilybaeum within thirty days—sons of men from the council and the Senate—and obeyed whatever orders the consuls might give them.
 
 For a time they were at a loss as to what those orders would be, but they set out at once, eager to report the matter to their countrymen as quickly as possible.
 

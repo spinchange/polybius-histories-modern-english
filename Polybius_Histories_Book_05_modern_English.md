@@ -1814,7 +1814,7 @@ Let this, then, be said by me with a twofold purpose: first, for the sake of the
 
 ## Book 5 Chapter 91: Lycurgus Returns to Sparta
 
-Just as the summer season was setting in, with Agetas serving as Strategus of the Aetolians and Aratus having taken over the strategia of the Achaeans—for it was at this point that we broke off our account of the Social War—Lycurgus the Spartan returned once more from Aetolia.
+Just as the summer season was setting in, with Agetas serving as strategus of the Aetolians and Aratus having taken over the strategia of the Achaeans—for it was at this point that we broke off our account of the Social War—Lycurgus the Spartan returned once more from Aetolia.
 
 For the ephors, having found false the slander on account of which he had fled, sent for Lycurgus and recalled him once again.
 

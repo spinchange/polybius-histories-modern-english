@@ -50,11 +50,11 @@ Olympiad 149, year 4. Affairs in Italy.
 
 After Pharnaces, Attalus, and the rest had made terms with one another, all withdrew with their own forces to their respective countries.
 
-At this time Eumenes had recovered from his illness and was staying at Pergamum. When his brother arrived and explained what had been arranged, he approved what had been done and decided to send all his brothers to Rome, partly because he hoped to bring the war with Pharnaces to an end through their embassy, and partly because he was eager to introduce his brothers, both to their own private friends and hosts at Rome and to the senate as a body.
+At this time Eumenes had recovered from his illness and was staying at Pergamum. When his brother arrived and explained what had been arranged, he approved what had been done and decided to send all his brothers to Rome, partly because he hoped to bring the war with Pharnaces to an end through their embassy, and partly because he was eager to introduce his brothers, both to their own private friends and hosts at Rome and to the Senate as a body.
 
 Since Attalus and those with him were also eager for the journey, they set out.
 
-When they arrived at Rome, everyone in private life welcomed the young men warmly, since they had become acquainted with them during the campaigns in Asia; and the senate gave their presence an even more splendid reception.
+When they arrived at Rome, everyone in private life welcomed the young men warmly, since they had become acquainted with them during the campaigns in Asia; and the Senate gave their presence an even more splendid reception.
 
 It provided them with generous hospitality and the fullest support, and met them graciously in audience.
 
@@ -110,7 +110,7 @@ As this dispute went on, the Achaeans decided to send envoys to the senate to ex
 
 They immediately appointed as envoys Callicrates of Leontium, Lydiadas of Megalopolis, and Aratus of Sicyon, and after giving them instructions in accordance with this policy, sent them off.
 
-But when they arrived at Rome, Callicrates entered the senate and was so far from presenting the case in accordance with his instructions that, from the very outset, he undertook not only to denounce his political opponents boldly, but even to lecture the senate.
+But when they arrived at Rome, Callicrates entered the Senate and was so far from presenting the case in accordance with his instructions that, from the very outset, he undertook not only to denounce his political opponents boldly, but even to lecture the Senate.
 
 ## Book 24 Chapter 9: Callicrates Lectures the Roman Senate
 
@@ -122,7 +122,7 @@ This latter position, he said, was by far the more Achaean in character and the 
 
 As a result, disrepute and slander among the crowds attended those who chose the Roman side, while the opposite fell to those who resisted.
 
-So if the senate gave some clear sign, the politicians would quickly shift toward the Roman preference, and the masses too would follow them out of fear.
+So if the Senate gave some clear sign, the politicians would quickly shift toward the Roman preference, and the masses too would follow them out of fear.
 
 But if this side were neglected, everyone would incline to the other position, because it appeared more honorable and finer in the eyes of the people.
 

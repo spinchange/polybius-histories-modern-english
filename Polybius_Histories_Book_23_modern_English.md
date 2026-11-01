@@ -60,7 +60,7 @@ Thus the growing tension between Philip and Rome was for the moment checked by D
 
 Yet this embassy of the young prince contributed no little to the eventual ruin of the royal house.
 
-For the senate, by placing its favor so openly in Demetrius, lifted the young man up, but deeply offended both Perseus and Philip, since it seemed that the Romans were showing kindness not for their sakes but for Demetrius’.
+For the Senate, by placing its favor so openly in Demetrius, lifted the young man up, but deeply offended both Perseus and Philip, since it seemed that the Romans were showing kindness not for their sakes but for Demetrius’.
 
 Titus too, by drawing the young man aside and advancing him through private conversations, greatly helped the same development.
 
@@ -82,7 +82,7 @@ Serippus argued that the existing constitutional arrangement should remain in pl
 
 Representatives of those who had been executed or banished under decrees of the Achaeans, headed by Chaeron, appeared as well, demanding permission to return and the restoration of the constitution in that form, [...] they addressed arguments regarding the Achaeans suited to their own particular causes.
 
-Since the senate could not reach a clear judgment on the separate disputes, it appointed three men who had already before this been sent to the Peloponnese on these matters: Titus, Quintus Caecilius, and Appius Claudius.
+Since the Senate could not reach a clear judgment on the separate disputes, it appointed three men who had already before this been sent to the Peloponnese on these matters: Titus, Quintus Caecilius, and Appius Claudius.
 
 After considerable discussion before them, all agreed that the exiles and the men condemned to death should be restored, and that Sparta should remain associated with the Achaean League.
 
@@ -126,7 +126,7 @@ At that moment he seems to have drawn himself together a little and to have lear
 
 Even so, he came to Greece with Titus convinced that, in a single stroke, Messenian affairs would be arranged according to his own wishes.
 
-But Philopoemen and his circle clearly understood that Titus had received no instructions from the senate concerning Greek affairs, and so they remained quiet, simply waiting for his arrival.
+But Philopoemen and his circle clearly understood that Titus had received no instructions from the Senate concerning Greek affairs, and so they remained quiet, simply waiting for his arrival.
 
 After Titus landed at Naupactus he wrote to the Achaean general and the demiourgoi, ordering them to summon the Achaeans to an assembly.
 
@@ -186,7 +186,7 @@ So, after calling in the envoys from the Peloponnese and Macedonia, it listened 
 
 For with regard to King Philip, he had reported that Philip had indeed carried out the commands laid upon him, but had done everything resentfully, and that, if he got the chance, he would do anything against Rome.
 
-Therefore the senate gave Philip’s envoys a reply of this sort: it praised Philip for what he had done, but thought he must be careful from now on not to seem to act in any way contrary to Roman interests.
+Therefore the Senate gave Philip’s envoys a reply of this sort: it praised Philip for what he had done, but thought he must be careful from now on not to seem to act in any way contrary to Roman interests.
 
 About Peloponnesian affairs Marcius had reported that the Achaeans did not want to refer anything to the senate, but carried themselves proudly and undertook to manage everything on their own.
 
@@ -284,11 +284,11 @@ It is remarkable, and the strongest possible sign that this man was born to comm
 
 ## Book 23 Chapter 14: Character of P. Cornelius Scipio Africanus
 
-Publius, after pursuing distinction in an aristocratic constitution, won such goodwill from the masses and such trust from the senate that, when someone undertook to prosecute him before the people according to Roman custom and made many harsh and bitter accusations, he came forward and said only that it was not fitting for the Roman people to listen to anyone accusing Publius Cornelius Scipio, the man through whom the accusers themselves possessed the freedom to speak.
+Publius, after pursuing distinction in an aristocratic constitution, won such goodwill from the masses and such trust from the Senate that, when someone undertook to prosecute him before the people according to Roman custom and made many harsh and bitter accusations, he came forward and said only that it was not fitting for the Roman people to listen to anyone accusing Publius Cornelius Scipio, the man through whom the accusers themselves possessed the freedom to speak.
 
 On hearing this, the crowd at once broke up and all left the assembly, leaving the accuser there alone. —
 
-On another occasion, when in the senate there was a need for money for an urgent public purpose, and the quaestor said that because of a certain law he would not open the treasury on that day, Scipio said that he himself would take the keys and open it, for he himself had been the cause of the treasury’s being shut at all.
+On another occasion, when in the Senate there was a need for money for an urgent public purpose, and the quaestor said that because of a certain law he would not open the treasury on that day, Scipio said that he himself would take the keys and open it, for he himself had been the cause of the treasury’s being shut at all.
 
 Again, when someone in the senate asked him to render an account of the money he had received from Antiochus before the treaty for paying the army, he said that he had the ledger, but that he ought not to submit to an audit from anyone.
 

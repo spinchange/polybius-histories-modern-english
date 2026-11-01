@@ -966,7 +966,7 @@ But the greatest difficulty and embarrassment they faced was this: the king did 
 
 For this reason the deliberation was at first postponed, so that the question of the guarantees might be examined. Cleomenes, meanwhile, having struck terror with the successes already described, now made his way fearlessly through the cities, winning some by persuasion and over others holding the threat of force. In this manner he took over Caphyae, Pellene, Pheneus, Argos, Phlius, Cleonae, Epidaurus, Hermione, Troezen, and last of all Corinth; and he personally laid siege to the city of the Sicyonians. But in doing so he in fact relieved the Achaeans of their gravest problem.
 
-For when the Corinthians ordered Aratus, who held the office of Strategus, and the Achaeans to leave the city, and sent messages to Cleomenes inviting him in, they handed the Achaeans a starting point and a reasonable pretext.
+For when the Corinthians ordered Aratus, who held the office of strategus, and the Achaeans to leave the city, and sent messages to Cleomenes inviting him in, they handed the Achaeans a starting point and a reasonable pretext.
 
 Aratus seized on it: since the Achaeans then held the place, he offered the Acrocorinth to Antigonus. By this he dissolved the standing grievance against the royal house, furnished a sufficient pledge of partnership for the future, and—what was decisive—provided Antigonus a base of operations for the war against the Spartans.
 
@@ -982,7 +982,7 @@ For the Aetolians, among their other measures and also at this time wishing to p
 
 So Antigonus and Cleomenes lay encamped opposite each other, the one striving to enter the Peloponnese, Cleomenes determined to bar Antigonus’s way in. The Achaeans, although they had suffered no small reverses in the war as a whole, nevertheless did not abandon their resolve or give up the hopes that lay in their own efforts.
 
-Rather, the moment that Aristotle of Argos rose in revolt against the Cleomenists, they came to his aid, broke into the city with Timoxenus the Strategus, and seized the city of the Argives.
+Rather, the moment that Aristotle of Argos rose in revolt against the Cleomenists, they came to his aid, broke into the city with Timoxenus the strategus, and seized the city of the Argives.
 
 This indeed must be reckoned the chief cause of the recovery of their fortunes. For this was what checked the momentum of Cleomenes and beforehand broke the spirit of his troops, as became clear from the events themselves.
 

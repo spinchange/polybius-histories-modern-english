@@ -292,7 +292,7 @@ The Romans, thinking that they had already achieved their purpose, since the war
 
 ## Book 30 Chapter 18: Prusias Grovels before the Senate
 
-At the same time King Prusias also came to Rome to congratulate the senate and the generals on what had happened.
+At the same time King Prusias also came to Rome to congratulate the Senate and the generals on what had happened.
 
 This Prusias was in no way worthy of the title of king. One may judge this from the following.
 
@@ -474,7 +474,7 @@ When many embassies from different places had arrived in Rome, the most notable 
 
 The envoys from Prusias accused King Eumenes, saying that he was taking away some of their territory and not withdrawing from Galatia at all, nor obeying the decrees of the senate.
 
-Instead, they said, he was drawing into his own camp those who favored his interests, while in every possible way diminishing those who preferred the Roman side and wished to conduct their public life in accordance with the senate’s decisions.
+Instead, they said, he was drawing into his own camp those who favored his interests, while in every possible way diminishing those who preferred the Roman side and wished to conduct their public life in accordance with the Senate’s decisions.
 
 There were also envoys from the cities of Asia who accused the king, hinting at collusion with Antiochus.
 
@@ -482,7 +482,7 @@ After hearing the accusers, the senate neither dismissed the charges nor reveale
 
 At the same time it was always adding something to the Galatians’ cause and strengthening them in the matter of their freedom.
 
-The commissioners with Tiberius, when they returned from their embassy, were unable either to learn anything more precise themselves or to make anything clearer to the senate about the affairs of Eumenes and Antiochus than what they had already thought while still in Rome.
+The commissioners with Tiberius, when they returned from their embassy, were unable either to learn anything more precise themselves or to make anything clearer to the Senate about the affairs of Eumenes and Antiochus than what they had already thought while still in Rome.
 
 So thoroughly had the kings forestalled them by the graciousness of their reception.
 
