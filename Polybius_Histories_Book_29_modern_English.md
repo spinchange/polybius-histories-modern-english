@@ -14,7 +14,7 @@ For slander always has something sharp and stirring about it, and when the mass 
 
 ## Book 29 Chapter 2: Gaius Popilius Laenas Sent to Alexandria
 
-Because the senate learned that Antiochus had become master of Egypt and had come close to taking Alexandria as well, and because it judged that the growth of this king’s power touched its own interests, it appointed as envoys Gaius Popilius and his colleagues, to put an end to the war and, more generally, to inspect the state of affairs.
+Because the Senate learned that Antiochus had become master of Egypt and had come close to taking Alexandria as well, and because it judged that the growth of this king’s power touched its own interests, it appointed as envoys Gaius Popilius and his colleagues, to put an end to the war and, more generally, to inspect the state of affairs.
 
 Such, then, was the situation in Italy.
 
@@ -208,7 +208,7 @@ The Macedonian king, as Polybius says, lost his nerve just as the battle was get
 
 ## Book 29 Chapter 19: The Senate Makes an Example of the Rhodian Ambassadors
 
-At the time when Perseus, after his defeat, was making his escape, the senate decided to summon the Rhodian ambassadors, who had come to ask for an end to the war.
+At the time when Perseus, after his defeat, was making his escape, the Senate decided to summon the Rhodian ambassadors, who had come to ask for an end to the war.
 
 Fortune seemed, as if by design, to put the Rhodians’ ignorance on display before the stage—if one should call it ignorance of the Rhodians, and not rather of the men who were then dominant at Rhodes.
 
@@ -216,7 +216,7 @@ When the party led by Agepolis entered, they said that they had come to end the 
 
 But now that the war had ended according to the Rhodians’ wishes, they had come simply to congratulate the Romans. Such, briefly, was what the men around Agepolis said.
 
-The senate, taking advantage of the moment and wanting to make an example of the Rhodians, delivered a reply whose main point was this:
+The Senate, taking advantage of the moment and wanting to make an example of the Rhodians, delivered a reply whose main point was this:
 
 They did not think that this embassy had been sent by the Rhodians for the sake either of the Greeks or of themselves, but for Perseus.
 
@@ -226,7 +226,7 @@ But to let that time pass by, and now to come eagerly seeking an end to the war,
 
 For that reason, they said, the Romans were under no obligation at present either to show them favor or to answer them kindly.
 
-That was the senate’s decision for the Rhodian ambassadors.
+That was the Senate’s decision for the Rhodian ambassadors.
 
 ## Book 29 Chapter 20: Perseus an Example of the Impermanence of Fortune
 

@@ -8,13 +8,13 @@ Olympiad 155, year 1. Affairs in Italy.
 
 At this time envoys arrived from Ariarathes, bringing a crown worth ten thousand gold pieces and setting forth the king’s policy toward Roman affairs, [with part of the text missing], and they brought Tiberius and his colleagues forward as witnesses to these things.
 
-When these men confirmed the statement, the senate accepted the crown with great gratitude and sent back in return the most distinguished of the gifts that it was accustomed to bestow, namely a staff and an ivory chair.
+When these men confirmed the statement, the Senate accepted the crown with great gratitude and sent back in return the most distinguished of the gifts that it was accustomed to bestow, namely a staff and an ivory chair.
 
-The senate therefore dismissed these envoys before the winter was over.
+The Senate therefore dismissed these envoys before the winter was over.
 
 After them Attalus arrived, when the consuls had already entered office, and the Galatians whom Prusias had sent accused him.
 
-After hearing them and many others from Asia, the senate not only cleared Attalus of the slanders but even sent him away with increased marks of favor.
+After hearing them and many others from Asia, the Senate not only cleared Attalus of the slanders but even sent him away with increased marks of favor.
 
 For in proportion as they had become estranged from the king and were at odds with Eumenes, to that same degree they cultivated Attalus and sought to raise him higher.
 
@@ -22,7 +22,7 @@ For in proportion as they had become estranged from the king and were at odds wi
 
 Envoys also came from King Demetrius, led by Menochares, bringing to Rome a crown worth ten thousand gold pieces and at the same time bringing with them the man who had laid hands on Gnaeus.
 
-The senate was uncertain for a long time how it ought to deal with this business.
+The Senate was uncertain for a long time how it ought to deal with this business.
 
 Even so, it accepted both the envoys and the crown; but it did not accept the men who were being brought in custody.
 
@@ -58,19 +58,19 @@ And the expression and movement of his eyes created such an impression of his mi
 
 Leptines, however, remained firm in his original purpose. He was ready to enter the Senate, and to all who met him he freely confessed the deed and even specified that nothing troublesome would happen to him from the Romans.
 
-In the end his expectation proved accurate. For the senate, as it seems to me, supposed that it would appear to the masses to be taking vengeance for the murder if it took custody of the guilty men and punished them, and therefore it very nearly refused to accept them, while keeping the charge itself untouched.
+In the end his expectation proved accurate. For the Senate, as it seems to me, supposed that it would appear to the masses to be taking vengeance for the murder if it took custody of the guilty men and punished them, and therefore it very nearly refused to accept them, while keeping the charge itself untouched.
 
 In this way it retained the power to make use of the accusations whenever it chose.
 
-Accordingly it gave Demetrius this answer: that he would obtain the senate’s favor if he gave it full satisfaction in accordance with its sovereign authority.
+Accordingly it gave Demetrius this answer: that he would obtain the Senate’s favor if he gave it full satisfaction in accordance with its sovereign authority.
 
 Envoys also came from the Achaeans, led by Xenon and Telecles, on behalf of the accused men and especially for the sake of Polybius and Stratius.
 
 For time had by now consumed almost all the others, including those worthy of remembrance.
 
-The envoys came with instructions that were generally deferential, so as not to enter into rivalry with the senate on any point.
+The envoys came with instructions that were generally deferential, so as not to enter into rivalry with the Senate on any point.
 
-But even after they entered and delivered the appropriate speeches, they accomplished nothing. On the contrary, the senate decided to stand by its existing position.
+But even after they entered and delivered the appropriate speeches, they accomplished nothing. On the contrary, the Senate decided to stand by its existing position.
 
 ## Book 32 Chapter 4: The Death of Lyciscus Reconciles the Aetolians
 
@@ -114,11 +114,11 @@ So all these people fled, while Charops set out for Rome, taking money with him 
 
 At that moment there appeared both a splendid example of Roman policy and a splendid sight for all the Greeks who were staying there, especially for those who had been summoned.
 
-For Marcus, who was chief priest and was enrolled first in the senate, and Lucius, the conqueror of Perseus, who possessed the greatest credit and influence, when they learned what Charops had done in Epirus, forbade Charops to enter their houses.
+For Marcus, who was chief priest and was enrolled first in the Senate, and Lucius, the conqueror of Perseus, who possessed the greatest credit and influence, when they learned what Charops had done in Epirus, forbade Charops to enter their houses.
 
 When this became widely known, all the visiting Greeks were overjoyed, applauding the Romans’ hatred of wickedness.
 
-After this, when Charops entered the senate, it did not agree to what he was asking and did not wish to give a definite reply, but said that it would give instructions to the envoys who were being sent out to examine what had happened.
+After this, when Charops entered the Senate, it did not agree to what he was asking and did not wish to give a definite reply, but said that it would give instructions to the envoys who were being sent out to examine what had happened.
 
 But Charops, after withdrawing, concealed that answer, and instead wrote home a report adapted to his own interests, saying that the Romans approved what he was doing.
 
@@ -216,7 +216,7 @@ These, then, were the reasons why the Romans went to war with the Delmatae; but 
 
 At this time envoys arrived from Epirus, both from those who held Phoenice and from those who had been expelled, and they pleaded their case in person.
 
-The senate replied that it would give instructions on these matters to the envoys being sent to Illyria with Gaius Marcius.
+The Senate replied that it would give instructions on these matters to the envoys being sent to Illyria with Gaius Marcius.
 
 ## Book 32 Chapter 15: Prusias Plunders Sanctuaries Around Pergamum
 
@@ -246,10 +246,10 @@ And on the return journey Prusias’ infantry also suffered terribly from famine
 
 ## Book 32 Chapter 16: Attalus Sends Athenaeus to the Senate
 
-After his defeat by Prusias, Attalus chose his brother Athenaeus and sent him with Publius and his party to explain to the senate what had happened.
+After his defeat by Prusias, Attalus chose his brother Athenaeus and sent him with Publius and his party to explain to the Senate what had happened.
 
 For when Andronicus had come to Rome and reported the enemy’s first advance, the men there paid no attention, but suspected that Attalus, wishing to be the one to attack Prusias himself, was laying the groundwork for excuses and trying to prejudice opinion against him in advance.
 
 And when Nicomedes and Antiphilus and the other envoys sent by Prusias insisted that none of this was true, the stories told about Prusias were believed even less.
 
-But after some time, when the matter became clearer, the senate, being uncertain because of the conflicting reports, sent Lucius Apuleius and Gaius Petronius as envoys to inspect how matters stood between the kings just mentioned.
+But after some time, when the matter became clearer, the Senate, being uncertain because of the conflicting reports, sent Lucius Apuleius and Gaius Petronius as envoys to inspect how matters stood between the kings just mentioned.

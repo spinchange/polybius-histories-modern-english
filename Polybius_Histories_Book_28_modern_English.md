@@ -226,7 +226,7 @@ At any rate, when Polybius withdrew to the Peloponnese, letters from Epirus had 
 
 When the deliberation was opened on the soldiers Cento was requesting, Polybius decided that he could not possibly disclose the private instructions Marcius had given him; yet to oppose the aid openly, when no clear reason appeared for doing so, was altogether dangerous.
 
-Since the situation was awkward and full of complications, he used, for the immediate crisis, the senate’s decree ordering that no one should comply with written demands from generals unless they acted in accordance with a decree of the senate.
+Since the situation was awkward and full of complications, he used, for the immediate crisis, the Senate’s decree ordering that no one should comply with written demands from generals unless they acted in accordance with a decree of the Senate.
 
 And no such authority was attached to the letters.
 
@@ -262,7 +262,7 @@ By that time it was already known to everyone which Roman magistrates were going
 
 So, though opposition was voiced, the proposal carried, and at the beginning of summer Agesilochus son of Hegesias, Nicagoras and Nicander were sent to Rome; while to the consul and the admiral they sent Agepolis, Ariston, and Pasicrates, with instructions to renew their friendly relations with the Romans and to answer the accusations that some people were making against their city, while Agesilochus and his colleagues were at the same time to speak about the export of grain.
 
-What these men said to the senate, what answers the senate gave them, and how they returned after receiving every mark of goodwill, I have already recounted in the section on Italian affairs.
+What these men said to the Senate, what answers the Senate gave them, and how they returned after receiving every mark of goodwill, I have already recounted in the section on Italian affairs.
 
 But on this point it is useful to remind the reader repeatedly, as I also try to do, because we are often compelled to report the audiences and negotiations of embassies before describing the circumstances of their appointment and dispatch.
 

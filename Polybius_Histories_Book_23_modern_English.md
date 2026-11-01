@@ -16,11 +16,11 @@ Demetrius, Philip’s son, also arrived to answer all these complainants, bringi
 
 Envoys came from the Spartans as well, one from each political group in the city.
 
-The senate first summoned Athenaeus. It accepted the crown he brought, worth fifteen thousand gold staters, warmly praised Eumenes and his brothers in its reply, and urged them to remain steadfast in the same policy.
+The Senate first summoned Athenaeus. It accepted the crown he brought, worth fifteen thousand gold staters, warmly praised Eumenes and his brothers in its reply, and urged them to remain steadfast in the same policy.
 
 After that the magistrates brought in Demetrius and invited all Philip’s accusers to speak, calling them forward one embassy at a time.
 
-But the embassies were so numerous, and their appearances lasted for three days, that the senate found itself at a loss over how each individual case should be handled.
+But the embassies were so numerous, and their appearances lasted for three days, that the Senate found itself at a loss over how each individual case should be handled.
 
 Envoys had come from Thessaly both collectively and separately from each city; so too from the Perrhaebians, the Athamanians, the Epirotes, and the Illyrians.
 
@@ -32,19 +32,19 @@ Altogether the accusations were so varied and tangled that they were difficult t
 
 ## Book 23 Chapter 2: Demetrius in the Senate
 
-So the senate, unable itself to disentangle the issues and judging that Demetrius ought not to be required to answer each charge one by one, especially since it felt kindly toward him and saw that he was still very young and far from equal to such a knot of complicated business, and since above all it wanted not to hear Demetrius’ advocacy but to learn Philip’s real intentions, released Demetrius from pleading the cases and instead asked the young man and the friends with him whether they had any written memorandum from the king about these matters.
+So the Senate, unable itself to disentangle the issues and judging that Demetrius ought not to be required to answer each charge one by one, especially since it felt kindly toward him and saw that he was still very young and far from equal to such a knot of complicated business, and since above all it wanted not to hear Demetrius’ advocacy but to learn Philip’s real intentions, released Demetrius from pleading the cases and instead asked the young man and the friends with him whether they had any written memorandum from the king about these matters.
 
-Demetrius said that they did, and when he produced a small document the senate ordered him to state the substance of the written instructions, giving a summary of Philip’s answer to each accusation.
+Demetrius said that they did, and when he produced a small document the Senate ordered him to state the substance of the written instructions, giving a summary of Philip’s answer to each accusation.
 
 In it Philip claimed either that he had done what the Romans ordered, or that, if something had not been done, the blame lay with his accusers.
 
 To most of the responses he had also added phrases such as, “and yet Caecilius and the envoys with him did not treat us fairly in this matter,” or again, “and yet we are suffering this unjustly.”
 
-Since this attitude of Philip’s ran through all the replies, the senate, after hearing the men who had come, adopted a single decision covering the whole business.
+Since this attitude of Philip’s ran through all the replies, the Senate, after hearing the men who had come, adopted a single decision covering the whole business.
 
 Through the presiding magistrate it received Demetrius with great honor and kindness, addressed him in many encouraging words, and replied that it trusted that in all the matters mentioned by him, whether spoken aloud or read from the memorandum, what was right had been done or would be done.
 
-But, it added, so that Philip too might understand that the senate was granting this favor for Demetrius’ sake, it would send envoys to inspect whether everything was being carried out in accordance with the senate’s wishes, and at the same time to make clear to the king that he was receiving this considerate treatment because of Demetrius.
+But, it added, so that Philip too might understand that the Senate was granting this favor for Demetrius’ sake, it would send envoys to inspect whether everything was being carried out in accordance with the Senate’s wishes, and at the same time to make clear to the king that he was receiving this considerate treatment because of Demetrius.
 
 That was how this affair was settled.
 
@@ -52,9 +52,9 @@ That was how this affair was settled.
 
 After these men, the envoys from Eumenes were admitted. They accused Philip both for the aid he had sent to Prusias and for his conduct in Thrace, saying that even now he had not withdrawn his garrisons from the cities there.
 
-Philocles wished to reply on these points, since he had served as envoy to Prusias and had now been sent by Philip to the senate on this business.
+Philocles wished to reply on these points, since he had served as envoy to Prusias and had now been sent by Philip to the Senate on this business.
 
-But the senate listened only briefly and answered that, unless the envoys found everything in Thrace arranged according to the senate’s decision and all the cities handed back under the control of Eumenes, it could no longer tolerate continued disobedience in that region.
+But the Senate listened only briefly and answered that, unless the envoys found everything in Thrace arranged according to the Senate’s decision and all the cities handed back under the control of Eumenes, it could no longer tolerate continued disobedience in that region.
 
 Thus the growing tension between Philip and Rome was for the moment checked by Demetrius’ presence.
 
@@ -98,11 +98,11 @@ For they were displeased at the restoration of the exiles and the condemned, sin
 
 So, torn between perplexity on the one side and awe of these Roman commissioners on the other, they too set their seal to it.
 
-The senate then selected Quintus Marcius as envoy and sent him both to Macedonia and to the Peloponnese.
+The Senate then selected Quintus Marcius as envoy and sent him both to Macedonia and to the Peloponnese.
 
 ## Book 23 Chapter 5: Deinocrates of Messene
 
-When Deinocrates the Messenian arrived at Rome as an envoy and found that Titus had been appointed by the senate as envoy to Prusias and Seleucus, he was delighted, thinking that Titus, both because of their friendship— for the two had become close during the war in Laconia—and because of his quarrel with Philopoemen, would come to Greece and manage all Messenian affairs according to Deinocrates’ own wishes.
+When Deinocrates the Messenian arrived at Rome as an envoy and found that Titus had been appointed by the Senate as envoy to Prusias and Seleucus, he was delighted, thinking that Titus, both because of their friendship— for the two had become close during the war in Laconia—and because of his quarrel with Philopoemen, would come to Greece and manage all Messenian affairs according to Deinocrates’ own wishes.
 
 So he put everything else aside, attached himself closely to Titus, and rested all his hopes on him.
 
@@ -174,13 +174,13 @@ But after some time that garrison was expelled by the Odrysae, who broke the ple
 
 Olympiad 149, year 2. Affairs in Italy.
 
-In the second year the senate, after embassies had arrived from Eumenes, Pharnaces, Philip, the Achaean nation, the Spartans who had been expelled from their city, and also those who still held Sparta, dealt with their business.
+In the second year the Senate, after embassies had arrived from Eumenes, Pharnaces, Philip, the Achaean nation, the Spartans who had been expelled from their city, and also those who still held Sparta, dealt with their business.
 
 Envoys from Rhodes also came on behalf of the misfortune that had befallen the people of Sinope.
 
-To them, and also to the envoys of Eumenes and Pharnaces, the senate replied that it would send representatives to inspect the situation at Sinope and the matters disputed between the kings.
+To them, and also to the envoys of Eumenes and Pharnaces, the Senate replied that it would send representatives to inspect the situation at Sinope and the matters disputed between the kings.
 
-Since Quintus Marcius had recently returned from Greece and had already made matters clear concerning Macedonia and the Peloponnese, the senate had no need of many more speeches.
+Since Quintus Marcius had recently returned from Greece and had already made matters clear concerning Macedonia and the Peloponnese, the Senate had no need of many more speeches.
 
 So, after calling in the envoys from the Peloponnese and Macedonia, it listened to what they said, but based its replies and settlement of the issues not on the ambassadors’ speeches, but on Marcius’ report.
 
@@ -188,17 +188,17 @@ For with regard to King Philip, he had reported that Philip had indeed carried o
 
 Therefore the Senate gave Philip’s envoys a reply of this sort: it praised Philip for what he had done, but thought he must be careful from now on not to seem to act in any way contrary to Roman interests.
 
-About Peloponnesian affairs Marcius had reported that the Achaeans did not want to refer anything to the senate, but carried themselves proudly and undertook to manage everything on their own.
+About Peloponnesian affairs Marcius had reported that the Achaeans did not want to refer anything to the Senate, but carried themselves proudly and undertook to manage everything on their own.
 
 He said that if the Romans would for the moment merely disregard their wishes and show even a slight sign of displeasure, Sparta would quickly align itself with Messene, and then the Achaeans would come running to Rome with great eagerness.
 
-Accordingly, to the Spartans under Serippus the senate replied—wanting to keep the city in suspense—that it had done everything it could for them, but did not at present think this matter belonged before itself.
+Accordingly, to the Spartans under Serippus the Senate replied—wanting to keep the city in suspense—that it had done everything it could for them, but did not at present think this matter belonged before itself.
 
-And when the Achaeans asked either, if possible, for help under the alliance against the Messenians, or at least for precautions to prevent anyone from Italy from importing arms or grain into Messene, the senate paid attention to neither request.
+And when the Achaeans asked either, if possible, for help under the alliance against the Messenians, or at least for precautions to prevent anyone from Italy from importing arms or grain into Messene, the Senate paid attention to neither request.
 
 Instead it answered that, even if the people of Sparta or Corinth or Argos should break away, the Achaeans should not be surprised if they were not conducting their leadership in a way acceptable to Rome.
 
-By publishing this reply, which amounted to a public invitation to anyone wishing, under Roman protection, to revolt from the Achaean constitution, the senate then kept the envoys in Rome, waiting to see how matters at Messene would turn out for the Achaeans.
+By publishing this reply, which amounted to a public invitation to anyone wishing, under Roman protection, to revolt from the Achaean constitution, the Senate then kept the envoys in Rome, waiting to see how matters at Messene would turn out for the Achaeans.
 
 Such was the situation in Italy.
 
@@ -290,7 +290,7 @@ On hearing this, the crowd at once broke up and all left the assembly, leaving t
 
 On another occasion, when in the Senate there was a need for money for an urgent public purpose, and the quaestor said that because of a certain law he would not open the treasury on that day, Scipio said that he himself would take the keys and open it, for he himself had been the cause of the treasury’s being shut at all.
 
-Again, when someone in the senate asked him to render an account of the money he had received from Antiochus before the treaty for paying the army, he said that he had the ledger, but that he ought not to submit to an audit from anyone.
+Again, when someone in the Senate asked him to render an account of the money he had received from Antiochus before the treaty for paying the army, he said that he had the ledger, but that he ought not to submit to an audit from anyone.
 
 When the man kept pressing him and told him to produce it, Scipio ordered his brother to bring the document. When it had been brought, he held it out and tore it to pieces before everyone’s eyes, telling the man who demanded the account to look for it among those scraps, and then asked the others how it was that they wanted an accounting of how the three thousand talents had been spent and through whose hands, but did not ask at all how the fifteen thousand talents they were receiving from Antiochus were entering Rome, through whose agency, or how they had become masters of Asia, Libya, and Iberia.
 
@@ -350,8 +350,8 @@ But Diophanes and certain others tried to support the exiles, urging the Achaean
 
 Such were the arguments made by both sides. After hearing them both, the Achaeans decided to admit the city; and after an inscribed stele had been drawn up, Sparta was politically united with the Achaeans, the men then in possession of the city agreeing to receive such of the old exiles as were not thought to have committed any outrageous act against the Achaean nation.
 
-After ratifying these measures, the Achaeans sent envoys to Rome, headed by Bippus of Argos, to explain everything to the senate.
+After ratifying these measures, the Achaeans sent envoys to Rome, headed by Bippus of Argos, to explain everything to the Senate.
 
 The Spartans likewise appointed envoys led by Chaeron.
 
-And the exiles sent Cletis and Diactorius to appear in the senate in opposition to the envoys from the Achaeans.
+And the exiles sent Cletis and Diactorius to appear in the Senate in opposition to the envoys from the Achaeans.

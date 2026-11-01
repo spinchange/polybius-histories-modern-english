@@ -6,7 +6,7 @@ Modern English translation of the Greek text.
 
 Olympiad 147, year 4. Affairs in Greece.
 
-Embassies came to Rome from Philip and from the peoples bordering on Macedonia; and the senate made its decisions concerning those envoys.
+Embassies came to Rome from Philip and from the peoples bordering on Macedonia; and the Senate made its decisions concerning those envoys.
 
 Philip’s dispute in Greece with the Thessalians and Perrhaebians about the cities that Philip had held in Thessaly and Perrhaebia since the war with Antiochus.
 
@@ -60,7 +60,7 @@ But because there was much controversy over this, since the discontented were mo
 
 For Titus had long been active at Rome in trying to get Zeuxippus restored to Boeotia, since he had made much use of him as an associate during the wars with Antiochus and Philip.
 
-And at this time he had persuaded the senate to write to the Boeotians that Zeuxippus and the exiles with him should be brought home again.
+And at this time he had persuaded the Senate to write to the Boeotians that Zeuxippus and the exiles with him should be brought home again.
 
 When this message arrived, the Boeotians, fearing that if these men returned they would be drawn away from Macedonian friendship, wanted the judgments against Zeuxippus and his associates, which had previously been entered against them, to be publicly proclaimed [...]
 
@@ -68,7 +68,7 @@ Thus in one case they condemned them for sacrilege, on the ground that they had 
 
 After arranging matters in this way, they no longer paid attention to what was written, but sent envoys to Rome headed by Callicritus, saying that they could not annul measures that had been enacted among them according to law.
 
-At the same time Zeuxippus himself sent an embassy to the senate, and the Romans wrote to the Aetolians and Achaeans about the attitude of the Boeotians, ordering them to restore Zeuxippus to his country.
+At the same time Zeuxippus himself sent an embassy to the Senate, and the Romans wrote to the Aetolians and Achaeans about the attitude of the Boeotians, ordering them to restore Zeuxippus to his country.
 
 The Achaeans refrained from making an incursion with an army, but chose envoys to go and urge the Boeotians to obey the Romans and to bring their legal disputes with the Achaeans to a conclusion, just as they administered justice among themselves.
 
@@ -82,9 +82,9 @@ From this there arose between the two nations the beginning of a quarrel not eas
 
 For at once [...] the herds of Myrrichus and Simon; and when there was a clash over this, the dispute ceased to be political and became the opening and first prelude of open war.
 
-If the senate had pressed the next step in the restoration of Zeuxippus and his party, war would quickly have burst into flame.
+If the Senate had pressed the next step in the restoration of Zeuxippus and his party, war would quickly have burst into flame.
 
-But as it was, the senate let the matter drop, and the Megarians put a stop to the reprisals after envoys had been sent [...] the disputes.
+But as it was, the Senate let the matter drop, and the Megarians put a stop to the reprisals after envoys had been sent [...] the disputes.
 
 ## Book 22 Chapter 5: Quarrel Between Lycians and Rhodians
 
@@ -118,7 +118,7 @@ Along with them came Athamanians, Perrhaebians, and Thessalians, insisting that 
 
 Envoys also arrived from Philip to answer all these accusers.
 
-After many speeches had been made by all the parties just mentioned against Philip’s envoys, the senate decided at once to appoint a commission to examine Philip’s conduct and to provide security for any who wished to speak openly in the king’s presence and accuse him.
+After many speeches had been made by all the parties just mentioned against Philip’s envoys, the Senate decided at once to appoint a commission to examine Philip’s conduct and to provide security for any who wished to speak openly in the king’s presence and accuse him.
 
 So Quintus Caecilius, Marcus Baebius, and Tiberius Claudius were appointed.
 
@@ -134,9 +134,9 @@ In addition to these, King Eumenes had sent envoys promising to give the Achaean
 
 Envoys also came from King Seleucus to renew friendship and to promise the Achaeans a gift of ten decked warships.
 
-When the assembly entered on business, the first to speak were Nicodemus of Elis and his colleagues, who explained to the Achaeans what they had said in the senate on behalf of Sparta and read out the replies.
+When the assembly entered on business, the first to speak were Nicodemus of Elis and his colleagues, who explained to the Achaeans what they had said in the Senate on behalf of Sparta and read out the replies.
 
-From these replies one could gather that the senate disapproved of both the [...] of the walls and the abolition [...] of those killed at Compasium, yet did not mean to invalidate any of the measures taken.
+From these replies one could gather that the Senate disapproved of both the [...] of the walls and the abolition [...] of those killed at Compasium, yet did not mean to invalidate any of the measures taken.
 
 Since no one either spoke against this or supported it, the matter was allowed to pass in that fashion.
 
@@ -220,9 +220,9 @@ Therefore those present decided to stand by the existing arrangements and to giv
 
 Seeing their attitude, Caecilius demanded that the people be assembled in a public meeting.
 
-But the Achaean magistrates told him to produce the instructions that he had from the senate on these matters. Since he kept silent, they said they would not convene the assembly for him.
+But the Achaean magistrates told him to produce the instructions that he had from the Senate on these matters. Since he kept silent, they said they would not convene the assembly for him.
 
-For, they said, their laws did not allow it unless a man brought written instructions from the senate about the matter on which he thought the assembly ought to be called.
+For, they said, their laws did not allow it unless a man brought written instructions from the Senate about the matter on which he thought the assembly ought to be called.
 
 Caecilius became so angry because none of his demands was granted that he would not even accept the magistrates’ answer, but departed without receiving any answer at all.
 
@@ -234,13 +234,13 @@ And many in the crowd felt suspicion toward those men. Such, then, was the condi
 
 Olympiad 148, year 2. Affairs in Italy.
 
-After the envoys with Caecilius had withdrawn from Greece and had made the senate fully aware of affairs in Macedonia and the Peloponnese, the senate introduced the envoys who had come on these matters.
+After the envoys with Caecilius had withdrawn from Greece and had made the Senate fully aware of affairs in Macedonia and the Peloponnese, the Senate introduced the envoys who had come on these matters.
 
-First entered those from Philip and from Eumenes, and also the exiles from Aenus and Maroneia; and when they spoke in a way consistent with what had already been said before Caecilius and his colleagues at Thessalonica, the senate decided to send other envoys again to Philip, to see first whether he had given up the cities in Thessaly and Perrhaebia in accordance with the answer he had made to Caecilius and his colleagues, and then to order him to withdraw the garrisons from Aenus and Maroneia, and in general to depart from the coastal strongholds, places, and cities of Thrace.
+First entered those from Philip and from Eumenes, and also the exiles from Aenus and Maroneia; and when they spoke in a way consistent with what had already been said before Caecilius and his colleagues at Thessalonica, the Senate decided to send other envoys again to Philip, to see first whether he had given up the cities in Thessaly and Perrhaebia in accordance with the answer he had made to Caecilius and his colleagues, and then to order him to withdraw the garrisons from Aenus and Maroneia, and in general to depart from the coastal strongholds, places, and cities of Thrace.
 
 After these men, they introduced those who had arrived from the Peloponnese.
 
-For the Achaeans had sent envoys headed by Apollonidas of Sicyon to explain to Caecilius why he had received no answer and more generally to instruct the senate about the Spartan business.
+For the Achaeans had sent envoys headed by Apollonidas of Sicyon to explain to Caecilius why he had received no answer and more generally to instruct the Senate about the Spartan business.
 
 And from Sparta Areus and Alcibiades had come as envoys; these were among the old exiles who had recently been restored to their country by Philopoemen and the Achaeans.
 
@@ -248,17 +248,17 @@ This above all stirred the Achaeans to anger, because it seemed to them a monstr
 
 ## Book 22 Chapter 12: Achaeans and Spartans Plead Before the Senate
 
-After these men too had made their opposing defenses in agreement with one another, and had instructed the senate—those with Apollonidas of Sicyon trying to show that Spartan affairs could not possibly have been handled better than the Achaeans and Philopoemen had handled them, while those with Areus tried to say the opposite, alleging first that the city’s power had been broken by the forcible removal of the multitude, and second that the constitution left behind among those who remained was insecure and speechless, insecure because they were few and their walls had been torn down, and speechless because they not only had to obey the common decrees of the Achaeans but also had to serve individually whatever magistrates were from time to time set over them— after hearing these men as well, the senate decided to give the same envoys instructions on these matters too, and appointed Appius Claudius and his colleagues as envoys to Macedonia and Greece.
+After these men too had made their opposing defenses in agreement with one another, and had instructed the Senate—those with Apollonidas of Sicyon trying to show that Spartan affairs could not possibly have been handled better than the Achaeans and Philopoemen had handled them, while those with Areus tried to say the opposite, alleging first that the city’s power had been broken by the forcible removal of the multitude, and second that the constitution left behind among those who remained was insecure and speechless, insecure because they were few and their walls had been torn down, and speechless because they not only had to obey the common decrees of the Achaeans but also had to serve individually whatever magistrates were from time to time set over them— after hearing these men as well, the Senate decided to give the same envoys instructions on these matters too, and appointed Appius Claudius and his colleagues as envoys to Macedonia and Greece.
 
-The envoys from the Achaeans also defended the magistrates before Caecilius in the senate, saying that they had done nothing wrong and deserved no accusation for not summoning the assembly.
+The envoys from the Achaeans also defended the magistrates before Caecilius in the Senate, saying that they had done nothing wrong and deserved no accusation for not summoning the assembly.
 
-For among the Achaeans, they said, there was a law not to call together the people unless a deliberation had to be held about alliance or war, or unless someone brought letters from the senate.
+For among the Achaeans, they said, there was a law not to call together the people unless a deliberation had to be held about alliance or war, or unless someone brought letters from the Senate.
 
-Therefore the magistrates had acted rightly in deciding at that time to summon the Achaeans to an assembly, but were prevented by the laws because Caecilius neither brought letters from the senate nor was willing to give the magistrates his instructions in writing.
+Therefore the magistrates had acted rightly in deciding at that time to summon the Achaeans to an assembly, but were prevented by the laws because Caecilius neither brought letters from the Senate nor was willing to give the magistrates his instructions in writing.
 
 When this had been said, Caecilius rose and accused Philopoemen and Lycortas, and in general the Achaeans and the policy they had pursued toward the city of Sparta.
 
-After hearing what was said, the senate gave the Achaeans this answer: on Spartan affairs it would send commissioners to examine the matter.
+After hearing what was said, the Senate gave the Achaeans this answer: on Spartan affairs it would send commissioners to examine the matter.
 
 And it advised the Achaeans to pay close attention to the envoys whom it sent out from time to time and to give them the reception that was fitting, just as the Romans themselves did for envoys who came to them.
 
@@ -294,7 +294,7 @@ At this Philip was thrown into confusion, and so the first interview ended there
 
 On the following day Appius and his colleagues ordered Philip to send both Onomastus and Cassander at once to Rome, so that the Senate might learn the truth of what had happened.
 
-The king, utterly shaken and at a loss for a long time, said that he would send Cassander, the man who, as they said, had actually carried out the deed, so that the senate might learn the facts from him.
+The king, utterly shaken and at a loss for a long time, said that he would send Cassander, the man who, as they said, had actually carried out the deed, so that the Senate might learn the facts from him.
 
 But he asked that Onomastus be excused, both on that occasion and later in his interviews with the envoys, using as his pretext that Onomastus had not been in Maroneia at the time of the massacre, nor even anywhere near the neighboring district.
 
@@ -310,7 +310,7 @@ In general he was eager to defend himself and to take revenge on them by every m
 
 So he decided to send his youngest son Demetrius to Rome, partly to make a defense against the charges, and partly to ask pardon as well, if in any respect some mistake had occurred on his side.
 
-For he was thoroughly convinced that through Demetrius he would obtain everything he wanted from the senate, because of the exceptional favor shown to the young man during his time as a hostage.
+For he was thoroughly convinced that through Demetrius he would obtain everything he wanted from the Senate, because of the exceptional favor shown to the young man during his time as a hostage.
 
 Having formed this plan, he set himself at once to arranging the dispatch of Demetrius and of the friends who were to be sent with him.
 

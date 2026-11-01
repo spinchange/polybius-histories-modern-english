@@ -174,7 +174,7 @@ For once Messene had been handed over to them and they had taken possession of i
 
 ## Book 1 Chapter 11: Rome Supports the Mamertines
 
-The senate did not finally ratify the decision because of the reasons just given; for the absurdity of helping the Mamertines seemed evenly balanced against the advantages to be gained from that help.
+The Senate did not finally ratify the decision because of the reasons just given; for the absurdity of helping the Mamertines seemed evenly balanced against the advantages to be gained from that help.
 
 The people, however, worn down by the previous wars and needing every kind of recovery, and hearing the generals point out not only the public advantage of the war but also the obvious and considerable private benefits that each man would gain, decided to send aid.
 

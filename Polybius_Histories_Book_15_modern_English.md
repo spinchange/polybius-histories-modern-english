@@ -94,7 +94,7 @@ Baebius immediately sent the Roman envoys on to Scipio, but kept the Carthaginia
 
 For when they learned of the outrage their countrymen had committed against the Roman ambassadors, they expected that the punishment for it would fall on them.
 
-But Scipio, when he heard from the men just arrived that both senate and people at Rome had warmly approved the treaty he had made with the Carthaginians and were ready to grant all he requested, was greatly pleased.
+But Scipio, when he heard from the men just arrived that both Senate and people at Rome had warmly approved the treaty he had made with the Carthaginians and were ready to grant all he requested, was greatly pleased.
 
 He then ordered Baebius to send the Carthaginian envoys home with every mark of humanity, a decision that seems to me both admirable and prudent.
 
@@ -184,7 +184,7 @@ After Hannibal’s countrymen had been defeated and had begged for terms, writte
 
 These were the terms mutually agreed. Both sides had sent embassies to senate and people alike: the Romans declaring that they approved the treaty, the Carthaginians begging that it be granted to them.
 
-The senate had agreed, and the people had ratified it. Yet after obtaining what they asked for, the Carthaginians broke the agreement and violated the truce toward Rome.
+The Senate had agreed, and the people had ratified it. Yet after obtaining what they asked for, the Carthaginians broke the agreement and violated the truce toward Rome.
 
 What, then, was left for him to do?
 

@@ -8,13 +8,13 @@ Modern English translation of the Greek text.
 
 Olympiad 156, year 1. Affairs in Italy.
 
-While it was still winter, the senate heard the report of Publius Lentulus and his colleagues on the matter concerning Prusias, since they had only recently arrived from Asia; and it also summoned Athenaeus, the brother of King Attalus.
+While it was still winter, the Senate heard the report of Publius Lentulus and his colleagues on the matter concerning Prusias, since they had only recently arrived from Asia; and it also summoned Athenaeus, the brother of King Attalus.
 
-The case did not require many words. The senate immediately appointed envoys—Gaius Claudius Cento, Lucius Hortensius, and Gaius Arunculeius—and sent them along with Athenaeus, instructing them to prevent Prusias from making war on Attalus.
+The case did not require many words. The Senate immediately appointed envoys—Gaius Claudius Cento, Lucius Hortensius, and Gaius Arunculeius—and sent them along with Athenaeus, instructing them to prevent Prusias from making war on Attalus.
 
 Envoys from the Achaeans also arrived at Rome on behalf of the detained men, led by Xenon of Aegium and Telecles of Aegira.
 
-After these men had spoken in the senate and the motion had been put before the house, the senators came very close to releasing the accused men.
+After these men had spoken in the Senate and the motion had been put before the house, the senators came very close to releasing the accused men.
 
 The man responsible for preventing the release from being carried was Aulus Postumius, who was serving as praetor and presiding over the decision.
 
@@ -132,7 +132,7 @@ So this war had both a swift beginning and a swift end.
 
 At the very time when the Senate sent Opimius against the war with the Oxybii, Ptolemy the Younger arrived in Rome.
 
-He appeared before the senate and accused his brother, charging him with responsibility for the plot against his life.
+He appeared before the Senate and accused his brother, charging him with responsibility for the plot against his life.
 
 At the same time he displayed the scars of his wounds before their eyes, and by adding the rest of his tale in a manner to match them, he appealed to the pity of his audience.
 
@@ -148,7 +148,7 @@ And to the allies in Greece and Asia they wrote that they were permitted to assi
 
 In Asia, Attalus was still, throughout the winter, gathering large forces, since Ariarathes and Mithridates had sent him cavalry and infantry in accordance with their alliance, under the command of Demetrius son of Ariarathes. While he was engaged in these preparations, the ten envoys arrived from Rome, met him near Cadi, discussed the situation with him, and then set out for Prusias.
 
-When they met Prusias, they conveyed the senate’s instructions to him in very severe terms.
+When they met Prusias, they conveyed the Senate’s instructions to him in very severe terms.
 
 Prusias accepted some of the orders, but objected to most of them.
 
@@ -158,7 +158,7 @@ Prusias then changed his mind and followed after them for some distance, pleadin
 
 The Romans instructed Attalus to take up position on the frontier of his own territory with his forces, not to begin the war himself, but to secure the safety of his cities and villages.
 
-They then divided themselves into groups: some sailed off in haste to report Prusias’ disobedience to the senate, some departed for Ionia, and others for the Hellespont and the regions around Byzantium, all acting with one and the same purpose, namely, to detach people from friendship and alliance with Prusias, and to win them over to Attalus and support him as far as possible.
+They then divided themselves into groups: some sailed off in haste to report Prusias’ disobedience to the Senate, some departed for Ionia, and others for the Hellespont and the regions around Byzantium, all acting with one and the same purpose, namely, to detach people from friendship and alliance with Prusias, and to win them over to Attalus and support him as far as possible.
 
 ## Book 33 Chapter 13: Roman Envoys Make Peace Between Prusias and Attalus
 
@@ -168,7 +168,7 @@ Five of these were Rhodian quadriremes that had been sent for the Cretan war, tw
 
 He sailed to the Hellespont and, after making contact with the cities aligned with Prusias, repeatedly put troops ashore and devastated the countryside.
 
-When the senate had heard the envoys who had returned from Prusias, it sent out three more commissioners: Appius Claudius, Lucius Oppius, and Aulus Postumius.
+When the Senate had heard the envoys who had returned from Prusias, it sent out three more commissioners: Appius Claudius, Lucius Oppius, and Aulus Postumius.
 
 When these men reached Asia, they brought the war to an end by inducing both kings to agree to the following terms:
 
@@ -186,17 +186,17 @@ Such was the course taken by events in the dispute between Attalus and Prusias, 
 
 C. Olympiad 156, year 3. Affairs in Italy.
 
-At this time in Rome, when envoys from Achaea entered the senate on behalf of the detained men, the senate decided to remain with its existing policy.
+At this time in Rome, when envoys from Achaea entered the Senate on behalf of the detained men, the Senate decided to remain with its existing policy.
 
 ## Book 33 Chapter 15: War Between Rhodes and Crete
 
 Heracleides arrived in Rome while summer was still at its height, bringing Laodice and Alexander.
 
-During his stay he lingered there, using a mixture of theatrical display and intrigue while he worked to influence the senate.
+During his stay he lingered there, using a mixture of theatrical display and intrigue while he worked to influence the Senate.
 
-Astymedes of Rhodes, who had been appointed both envoy and admiral, then appeared before the senate and spoke about the war against the Cretans.
+Astymedes of Rhodes, who had been appointed both envoy and admiral, then appeared before the Senate and spoke about the war against the Cretans.
 
-The senate listened attentively and immediately sent envoys under Quintus to settle the war.
+The Senate listened attentively and immediately sent envoys under Quintus to settle the war.
 
 ## Book 33 Chapter 16: Crete and Rhodes Ask the Achaeans for Help
 
@@ -234,7 +234,7 @@ When various embassies had arrived in Rome, the Senate first called in Attalus, 
 
 For he had come to Rome at this time while still a boy, both to be introduced to the Senate and to renew his father’s friendships and ties of hospitality.
 
-He was kindly received both by the senate and by his father’s friends, obtained the answers he wanted and honors suited to his age, and after a few days returned home, being welcomed warmly and generously by all the Greek cities through which he passed.
+He was kindly received both by the Senate and by his father’s friends, obtained the answers he wanted and honors suited to his age, and after a few days returned home, being welcomed warmly and generously by all the Greek cities through which he passed.
 
 Demetrius too arrived at the same time, but after receiving only a moderate welcome, appropriate enough for a boy, he again departed for home.
 
@@ -250,9 +250,9 @@ None of this pleased the more sober-minded men; they saw the whole thing as a st
 
 But the majority, won over by Heracleides’ trickery, were carried into drafting a decree like this:
 
-“Alexander and Laodice, children of a king who was our friend and ally, appeared before the senate and addressed it.
+“Alexander and Laodice, children of a king who was our friend and ally, appeared before the Senate and addressed it.
 
-The senate granted them permission to proceed to their ancestral kingdom, and it was resolved to assist them, as they requested.”
+The Senate granted them permission to proceed to their ancestral kingdom, and it was resolved to assist them, as they requested.”
 
 Heracleides, taking advantage of this opening, at once began hiring mercenaries and summoning prominent men to join him [...]; and when he arrived at Ephesus, he occupied himself with preparations for the enterprise he had in view.
 

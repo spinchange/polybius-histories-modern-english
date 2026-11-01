@@ -94,9 +94,9 @@ When Perseus heard this, he said that because of the truce he could not send mil
 
 When the Romans had heard the envoys who had come from Asia speak about Rhodes and the other cities, they summoned the envoys sent by Perseus.
 
-Solon and Hippias and their party tried to say something about the whole situation and to appease the senate, but for the most part they defended themselves against the charge of the plot against Eumenes.
+Solon and Hippias and their party tried to say something about the whole situation and to appease the Senate, but for the most part they defended themselves against the charge of the plot against Eumenes.
 
-When they had finished their defense, the senate, having long since resolved on war, ordered them and all the other Macedonians who happened to be staying there to leave Rome at once, and Italy within thirty days.
+When they had finished their defense, the Senate, having long since resolved on war, ordered them and all the other Macedonians who happened to be staying there to leave Rome at once, and Italy within thirty days.
 
 After this they called in the consuls and urged them to seize the moment and not delay.
 
@@ -150,7 +150,7 @@ For among the Romans this is in every way an established ancestral custom: in ti
 
 Everyone would agree that this is a noble trait; but whether it is always practicable in certain circumstances, one might reasonably question.
 
-At any rate, on that occasion they gave this answer: Perseus must place himself and all that concerned him in their hands, and in general give the senate authority to decide, as it thought best, about Macedonian affairs.
+At any rate, on that occasion they gave this answer: Perseus must place himself and all that concerned him in their hands, and in general give the Senate authority to decide, as it thought best, about Macedonian affairs.
 
 When Pantauchus and his colleague heard this, they returned and reported it to Perseus and his friends.
 
@@ -296,7 +296,7 @@ He did this because he was convinced that he could give his brother no greater f
 
 ## Book 27 Chapter 19: Antiochus Protests Ptolemy’s War Plans
 
-When Antiochus saw that the authorities in Alexandria were now openly making preparations for the war over Coele-Syria, he sent envoys headed by Meleager to Rome, instructing them to address the senate and formally protest that Ptolemy was the one making the first attack on him, in defiance of every principle of justice [...].
+When Antiochus saw that the authorities in Alexandria were now openly making preparations for the war over Coele-Syria, he sent envoys headed by Meleager to Rome, instructing them to address the Senate and formally protest that Ptolemy was the one making the first attack on him, in defiance of every principle of justice [...].
 
 ## Book 27 Chapter 20: The Need of Promptness and Persistence
 

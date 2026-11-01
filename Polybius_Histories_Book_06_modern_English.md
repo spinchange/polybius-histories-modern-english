@@ -1004,7 +1004,7 @@ For every body, constitution, and undertaking has a natural growth, then a peak,
 
 Carthage had become strong and prosperous earlier than Rome; and by just so much, at that time Carthage was already past its prime, while Rome, so far as its constitution was concerned, was then at its very height.
 
-Accordingly, in Carthage the people had already gained the greater share of power in deliberations, while at Rome the senate was still in its prime.
+Accordingly, in Carthage the people had already gained the greater share of power in deliberations, while at Rome the Senate was still in its prime.
 
 So where policy was being debated by the many in the one state, and by the best men in the other, Roman deliberation proved stronger in public affairs.
 

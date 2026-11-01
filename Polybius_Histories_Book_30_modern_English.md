@@ -300,7 +300,7 @@ When Roman envoys first came to him, he met them with his head shaved, wearing a
 
 And after greeting the envoys he said, “You see before you your freedman, eager in every way to gratify you and imitate your customs.” It would not be easy to find a baser remark.
 
-[...] Then, when he made his entrance into the senate, he stood facing the assembly at the doorway and, lowering both hands, bowed in reverence to the threshold and to the men seated there, crying out, “Hail, saving gods!” He left no possible excess of cowardice, effeminacy, and flattery for those who might come after him.
+[...] Then, when he made his entrance into the Senate, he stood facing the assembly at the doorway and, lowering both hands, bowed in reverence to the threshold and to the men seated there, crying out, “Hail, saving gods!” He left no possible excess of cowardice, effeminacy, and flattery for those who might come after him.
 
 And in the audience itself he carried on in a manner consistent with this, about which even to write would have been indecent.
 
@@ -310,7 +310,7 @@ Having made himself utterly contemptible, he received on that very account a kin
 
 Now just when he had received his answers, it happened that Eumenes arrived.
 
-This put the senate in considerable difficulty; for they were prejudiced against him and firmly fixed in their opinions about him, yet did not wish in any way to make their feelings obvious.
+This put the Senate in considerable difficulty; for they were prejudiced against him and firmly fixed in their opinions about him, yet did not wish in any way to make their feelings obvious.
 
 For since they had previously proclaimed this king to all the world as their foremost and greatest friend, if they now admitted him to an audience and allowed him to make his defense, then, if they answered in accordance with their real opinions, they would expose themselves for having valued such a man so highly in earlier times; but if, out of deference to appearances, they gave him a gracious reply, they would be overlooking the truth and the interests of their country.
 
@@ -318,9 +318,9 @@ So, since something unwelcome was likely to follow from either course, they foun
 
 As though they were generally displeased by visits from kings, they issued a decree that no king should come to them.
 
-Afterwards, learning that Eumenes had landed in Italy at Brundisium, they sent the quaestor with the decree and instructed him to ask whether he had any business with the senate; and if he needed nothing, to tell him to leave Italy as quickly as possible.
+Afterwards, learning that Eumenes had landed in Italy at Brundisium, they sent the quaestor with the decree and instructed him to ask whether he had any business with the Senate; and if he needed nothing, to tell him to leave Italy as quickly as possible.
 
-When the quaestor met him, the king, recognizing the senate’s intention, in the end said nothing more than that he had no need of anything.
+When the quaestor met him, the king, recognizing the Senate’s intention, in the end said nothing more than that he had no need of anything.
 
 And so Eumenes was prevented from going up to Rome.
 
@@ -330,7 +330,7 @@ For as a great danger from the Gauls hung over his kingdom, it was obvious that 
 
 And so, being absolutely determined to humble him by every means, they adopted this course.
 
-While these events were still taking place at the beginning of winter, the senate dealt with all who had arrived on embassies— for there was neither city nor dynast nor king that had not sent an embassy at that time to offer congratulations on what had happened— and answered them all in a fitting and gracious manner, except the Rhodians.
+While these events were still taking place at the beginning of winter, the Senate dealt with all who had arrived on embassies— for there was neither city nor dynast nor king that had not sent an embassy at that time to offer congratulations on what had happened— and answered them all in a fitting and gracious manner, except the Rhodians.
 
 These it dismissed while giving various hints about what was to come. It was still postponing a decision about the Athenians.
 
@@ -346,17 +346,17 @@ For not to do everything possible to restore a city that was among the most anci
 
 For to make their own city open to all, while destroying the cities of others, would seem in no way consistent with the character of their state.
 
-Nevertheless, the senate gave them Delos and Lemnos and the territory of the Haliartians. This, then, was how matters concerning the Athenians were settled.
+Nevertheless, the Senate gave them Delos and Lemnos and the territory of the Haliartians. This, then, was how matters concerning the Athenians were settled.
 
 As for Lemnos and Delos, according to the proverb they had taken a wolf by the ears; for they endured many hardships in their disputes with the Delians, while from the territory of the Haliartians they gained not so much profit as reproach.
 
 ## Book 30 Chapter 21: Theaetetus Dies and Garrisons Are Ordered Out
 
-At this time Theaetetus appeared before the senate and spoke about the alliance.
+At this time Theaetetus appeared before the Senate and spoke about the alliance.
 
-But the senate postponed consideration of the matter, and meanwhile he died a natural death, for he was more than eighty years old.
+But the Senate postponed consideration of the matter, and meanwhile he died a natural death, for he was more than eighty years old.
 
-Then exiles from both Caunus and Stratoniceia came to Rome and were admitted before the senate, and a decree was passed ordering the Rhodians to withdraw their garrisons from both Caunus and Stratoniceia.
+Then exiles from both Caunus and Stratoniceia came to Rome and were admitted before the Senate, and a decree was passed ordering the Rhodians to withdraw their garrisons from both Caunus and Stratoniceia.
 
 Philophron, Astymedes, and their colleagues, after receiving this reply, sailed home in haste, fearing that if the Rhodians failed to comply with the order to remove the garrisons, they would create fresh grounds for accusation.
 
@@ -392,7 +392,7 @@ At this time the Cnossians, together with the Gortynians, made war on the Raucia
 
 Meanwhile the Rhodians, when they received the news about the Caunians and saw that Roman anger was still not subsiding, even though they had obeyed every instruction in accordance with the replies they had been given, immediately appointed Aristotle and his colleagues as ambassadors and sent them to Rome, instructing them to make another attempt concerning the alliance.
 
-When they arrived in Rome, at the height of summer, they entered the senate and at once explained how the people had obeyed the commands laid upon them, and they pleaded for the alliance, speaking at length in many different ways. The senate gave them a reply in which it passed over friendship in silence, and regarding the alliance said that it was not proper for it to grant that request to the Rhodians at present.
+When they arrived in Rome, at the height of summer, they entered the Senate and at once explained how the people had obeyed the commands laid upon them, and they pleaded for the alliance, speaking at length in many different ways. The Senate gave them a reply in which it passed over friendship in silence, and regarding the alliance said that it was not proper for it to grant that request to the Rhodians at present.
 
 ## Book 30 Chapter 24: Delight at Peraea
 
@@ -470,15 +470,15 @@ Even schoolboys, as they came back from their classes through the streets, were 
 
 ## Book 30 Chapter 30: Eumenes Accused Before the Senate
 
-When many embassies from different places had arrived in Rome, the most notable being those from Rhodes under Astymedes, from the Achaeans under Euryas, Anaxidamus, and Satyrus, and from Prusias under Python, the senate took their business in hand.
+When many embassies from different places had arrived in Rome, the most notable being those from Rhodes under Astymedes, from the Achaeans under Euryas, Anaxidamus, and Satyrus, and from Prusias under Python, the Senate took their business in hand.
 
-The envoys from Prusias accused King Eumenes, saying that he was taking away some of their territory and not withdrawing from Galatia at all, nor obeying the decrees of the senate.
+The envoys from Prusias accused King Eumenes, saying that he was taking away some of their territory and not withdrawing from Galatia at all, nor obeying the decrees of the Senate.
 
 Instead, they said, he was drawing into his own camp those who favored his interests, while in every possible way diminishing those who preferred the Roman side and wished to conduct their public life in accordance with the Senate’s decisions.
 
 There were also envoys from the cities of Asia who accused the king, hinting at collusion with Antiochus.
 
-After hearing the accusers, the senate neither dismissed the charges nor revealed its own opinion, but kept its judgment to itself, being generally suspicious of both Eumenes and Antiochus.
+After hearing the accusers, the Senate neither dismissed the charges nor revealed its own opinion, but kept its judgment to itself, being generally suspicious of both Eumenes and Antiochus.
 
 At the same time it was always adding something to the Galatians’ cause and strengthening them in the matter of their freedom.
 
@@ -488,7 +488,7 @@ So thoroughly had the kings forestalled them by the graciousness of their recept
 
 ## Book 30 Chapter 31: Astymedes Pleads for Rhodes
 
-After this the senate summoned the Rhodians and gave them a hearing.
+After this the Senate summoned the Rhodians and gave them a hearing.
 
 Astymedes came in and spoke with restraint, and much better than on the previous embassy.
 
@@ -522,19 +522,19 @@ After speaking in this way, and to much the same effect besides, Astymedes was t
 
 Still, what helped the Rhodians most in obtaining the alliance was the recent arrival of the commissioners with Tiberius.
 
-For they testified, first, that the Rhodians had obeyed every decree of the senate, and second, that all those responsible for the estrangement had been condemned to death among them. In this way they overcame those who spoke against the Rhodians and secured the alliance with Rome.
+For they testified, first, that the Rhodians had obeyed every decree of the Senate, and second, that all those responsible for the estrangement had been condemned to death among them. In this way they overcame those who spoke against the Rhodians and secured the alliance with Rome.
 
 ## Book 30 Chapter 32: The Senate Bars the Detainees’ Return
 
 After some time the envoys from the Achaeans entered, carrying instructions consistent with the replies they had previously received.
 
-These instructions were to say that they were astonished that, in a matter on which the senate had itself already decided, it was now calling on them to give judgment.
+These instructions were to say that they were astonished that, in a matter on which the Senate had itself already decided, it was now calling on them to give judgment.
 
 So Euryas and his colleagues appeared and once again made it clear that the nation had neither heard the defense of the accused nor delivered any judgment upon them.
 
-They asked the senate to take thought for these men, so that they might obtain a trial and not be destroyed without judgment, and above all that the senate itself should investigate the case and identify those truly liable to the charges. But if, because of its many distractions, it could not do this, then it should entrust the matter to the Achaeans, who would deal with the guilty in a spirit that hated wrongdoing.
+They asked the Senate to take thought for these men, so that they might obtain a trial and not be destroyed without judgment, and above all that the Senate itself should investigate the case and identify those truly liable to the charges. But if, because of its many distractions, it could not do this, then it should entrust the matter to the Achaeans, who would deal with the guilty in a spirit that hated wrongdoing.
 
-The senate heard the envoys, who spoke in accordance with their instructions, but it was embarrassed because it was exposed on every side.
+The Senate heard the envoys, who spoke in accordance with their instructions, but it was embarrassed because it was exposed on every side.
 
 For it did not think that it belonged to it to conduct the trial, and yet to release the men without a trial seemed plainly likely to bring ruin upon those in Greece who were Rome’s friends.
 

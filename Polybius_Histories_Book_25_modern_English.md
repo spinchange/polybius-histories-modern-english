@@ -72,9 +72,9 @@ After the consuls Tiberius and Claudius had been sent against the Istrians and A
 
 For when the people of Xanthus were just about to enter the war, they had sent Nicostratus and his colleagues as envoys both to Achaea and to Rome.
 
-When these men then arrived at Rome, they stirred many of the senate to pity by setting before their eyes both the harshness of the Rhodians and their own desperate situation.
+When these men then arrived at Rome, they stirred many of the Senate to pity by setting before their eyes both the harshness of the Rhodians and their own desperate situation.
 
-At last they brought the senate to the point of sending envoys to Rhodes to make clear that, when the records were consulted of what the ten commissioners had arranged in Asia while settling affairs with Antiochus, it was found that the Lycians had been assigned to the Rhodians not as a gift, but rather on the footing of friends and allies.
+At last they brought the Senate to the point of sending envoys to Rhodes to make clear that, when the records were consulted of what the ten commissioners had arranged in Asia while settling affairs with Antiochus, it was found that the Lycians had been assigned to the Rhodians not as a gift, but rather on the footing of friends and allies.
 
 Yet even when the settlement had been made in these terms, the result did not please many people at all.
 
@@ -88,13 +88,13 @@ A large supply of timber for shipbuilding had in fact been furnished to the Rhod
 
 Affairs of Rhodes.
 
-When the envoys from Rome arrived at Rhodes and explained the senate’s decision, there was an uproar in Rhodes and great agitation among the politicians, because they were indignant that the Lycians were said not to have been given to them as a gift, but to stand to them only in an allied relation.
+When the envoys from Rome arrived at Rhodes and explained the Senate’s decision, there was an uproar in Rhodes and great agitation among the politicians, because they were indignant that the Lycians were said not to have been given to them as a gift, but to stand to them only in an allied relation.
 
 For just when they thought the Lycian question had been satisfactorily settled, they now saw the beginning of a fresh crisis taking shape.
 
 As soon as the Romans arrived and made this declaration to the Rhodians, the Lycians immediately rose again in faction and were ready to endure anything for the sake of autonomy and freedom.
 
-The Rhodians, however, after hearing the envoys and concluding that the Romans had been deceived by the Lycians, at once appointed Lycophron and his colleagues as ambassadors to instruct the senate on the points just mentioned.
+The Rhodians, however, after hearing the envoys and concluding that the Romans had been deceived by the Lycians, at once appointed Lycophron and his colleagues as ambassadors to instruct the Senate on the points just mentioned.
 
 That was the state of the matter at the time, when the Lycians seemed on the point of rising again.
 
@@ -102,7 +102,7 @@ That was the state of the matter at the time, when the Lycians seemed on the poi
 
 Olympiad 150, year 4. Affairs in Italy.
 
-When the envoys from Rhodes arrived, the senate heard their speech and postponed its reply.
+When the envoys from Rhodes arrived, the Senate heard their speech and postponed its reply.
 
 But when the Dardanians came and described both the numbers of the Bastarnae and the great size of the men and their boldness in danger, and also made clear the collusion of Perseus and the Gauls, saying that they were more anxious about him than about the Bastarnae and therefore begging for Roman aid, and when Thessalians were also present, supporting the Dardanians’ testimony and themselves urging the Romans to help, the Senate decided to send certain men who would be eyewitnesses of what was being reported.
 

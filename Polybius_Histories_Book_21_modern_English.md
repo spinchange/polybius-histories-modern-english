@@ -10,7 +10,7 @@ At this same time the embassy that the Spartans had sent to Rome returned with i
 
 Their mission concerned the hostages and the villages.
 
-The senate said that it would give instructions about the villages to the envoys it would send itself, but that it still wished to deliberate further about the hostages.
+The Senate said that it would give instructions about the villages to the envoys it would send itself, but that it still wished to deliberate further about the hostages.
 
 As for the old exiles, it said it was amazed that they had not yet been brought home, now that Sparta had been freed.
 
@@ -20,19 +20,19 @@ When news of the Roman victory in the naval battle had just reached Rome, they f
 
 That is, the whole people were to suspend ordinary business and offer thank-offerings to the gods for their success.
 
-After this they brought before the senate the envoys from the Aetolians and those sent by Manius.
+After this they brought before the Senate the envoys from the Aetolians and those sent by Manius.
 
-When both sides had spoken at length, the senate resolved to offer the Aetolians two alternatives: either they were to leave all matters concerning themselves to Roman decision, or they were to pay a thousand talents at once and treat the same people as friends and enemies that Rome did.
+When both sides had spoken at length, the Senate resolved to offer the Aetolians two alternatives: either they were to leave all matters concerning themselves to Roman decision, or they were to pay a thousand talents at once and treat the same people as friends and enemies that Rome did.
 
-But when the Aetolians asked the senate to state explicitly what issues they must submit for Roman decision, the senate refused to define them. That is why the war with the Aetolians continued for them alone.
+But when the Aetolians asked the Senate to state explicitly what issues they must submit for Roman decision, the Senate refused to define them. That is why the war with the Aetolians continued for them alone.
 
 ## Book 21 Chapter 3: Philip’s Envoys Win Demetrius’s Release
 
-At about the same time the senate also dealt with the envoys sent by Philip.
+At about the same time the Senate also dealt with the envoys sent by Philip.
 
 They had come to explain the goodwill and zeal the king had shown toward the Romans in the war against Antiochus.
 
-After hearing them, the senate immediately released his son Demetrius from hostage status, and also promised to remit the tribute, provided that Philip continued faithful in the present circumstances.
+After hearing them, the Senate immediately released his son Demetrius from hostage status, and also promised to remit the tribute, provided that Philip continued faithful in the present circumstances.
 
 In the same way they also released the Spartan hostages, except Armenas the son of Nabis; he later died of illness.
 
@@ -86,9 +86,9 @@ Therefore, perplexed and distressed, they again sent the same envoys to ask eith
 
 When the envoys met Publius and his circle, they explained these decisions.
 
-Lucius said that the authority granted him by the senate extended only to the terms he had just stated. So the envoys returned once more.
+Lucius said that the authority granted him by the Senate extended only to the terms he had just stated. So the envoys returned once more.
 
-Echedemus and his colleagues then followed them to Hypata and advised the Aetolians that, since peace was for the moment blocked, they should ask for a truce and thus win a postponement of their present miseries, and then send an embassy to the senate.
+Echedemus and his colleagues then followed them to Hypata and advised the Aetolians that, since peace was for the moment blocked, they should ask for a truce and thus win a postponement of their present miseries, and then send an embassy to the Senate.
 
 If they obtained what they requested, well and good; if not, they must wait on circumstances.
 
@@ -96,7 +96,7 @@ For their position could hardly become worse than it already was, while for many
 
 Since Echedemus’s advice seemed sound, the Aetolians decided to send an embassy to ask for a truce.
 
-When they reached Lucius, they begged that for the present a six-month truce be granted, so that they might send envoys to the senate.
+When they reached Lucius, they begged that for the present a six-month truce be granted, so that they might send envoys to the Senate.
 
 Publius, who had long been eager for the operations in Asia, quickly persuaded his brother to grant what they asked.
 
@@ -166,11 +166,11 @@ Eudamus and Pamphilidas were not opposed to a settlement, but the king said that
 
 And indeed how can it be practicable now? Without the consul being present, how could any agreed terms be valid without his approval?
 
-Besides, even if some sign of agreement were reached with Antiochus, neither the fleet nor the army could properly go home before the people and senate had ratified the terms.
+Besides, even if some sign of agreement were reached with Antiochus, neither the fleet nor the army could properly go home before the people and Senate had ratified the terms.
 
 We would then have nothing left but to winter here waiting for their decision, doing nothing while consuming the supplies and resources of our allies.
 
-Then, if the senate should refuse the settlement, we would have to begin the war afresh from the beginning, after letting the present opportunity pass—an opportunity in which, if the gods are willing, we may bring the whole matter to an end.”
+Then, if the Senate should refuse the settlement, we would have to begin the war afresh from the beginning, after letting the present opportunity pass—an opportunity in which, if the gods are willing, we may bring the whole matter to an end.”
 
 Such was Eumenes’ view. Lucius approved the advice and answered Antiochus’s envoys that no settlement could be made before the proconsul arrived.
 
@@ -342,17 +342,17 @@ At the opening of summer, after the Roman victory over Antiochus, King Eumenes w
 
 Nearly everyone in Asia had sent ambassadors to Rome immediately after the battle, because at that time all hopes for the future rested for all alike with the Senate.
 
-The senate received everyone graciously, but gave King Eumenes the grandest reception of all, both in its formal meeting of him and in its hospitality; next after him came the Rhodians.
+The Senate received everyone graciously, but gave King Eumenes the grandest reception of all, both in its formal meeting of him and in its hospitality; next after him came the Rhodians.
 
-When the time for audience arrived, they first called in the king and asked him to speak openly about what he wanted from the senate.
+When the time for audience arrived, they first called in the king and asked him to speak openly about what he wanted from the Senate.
 
 Eumenes answered that if he had wished to obtain some favor from others, he would have used the Romans as counselors, so as neither to desire anything improper nor to ask for anything beyond what was fitting.
 
 But since he now stood before the Romans themselves as a petitioner, he thought it best to place both his own interests and those of his brothers in their hands.
 
-When one of the elder senators rose and urged him not to be afraid but to say what seemed best to him, since the senate was resolved to do all it could for him, Eumenes remained of the same opinion. After some time had passed, the king withdrew.
+When one of the elder senators rose and urged him not to be afraid but to say what seemed best to him, since the Senate was resolved to do all it could for him, Eumenes remained of the same opinion. After some time had passed, the king withdrew.
 
-The senate then deliberated privately on what ought to be done.
+The Senate then deliberated privately on what ought to be done.
 
 It was resolved to invite Eumenes again and encourage him to speak freely about what had brought him there, since he knew Asian affairs and his own interests more exactly than anyone else.
 
@@ -484,7 +484,7 @@ When the Rhodians had spoken in this way, they seemed to everyone to have spoken
 
 ## Book 21 Chapter 24: The Decision of the Senate
 
-After this the senate introduced Antiochus’s envoys, Antipater and Zeuxis.
+After this the Senate introduced Antiochus’s envoys, Antipater and Zeuxis.
 
 They spoke with dignity and earnest appeal, and the Senate approved the agreements already made with Scipio in Asia.
 
@@ -500,17 +500,17 @@ And among the Greek cities, those that had paid tribute to Attalus should contin
 
 Having laid down these outlines for the general settlement, they sent the ten commissioners out to Asia to join the consul Gnaeus.
 
-After these arrangements had already been made, the Rhodians came again before the senate concerning Soli in Cilicia. Because of kinship, they said, it was fitting for them to care for that city.
+After these arrangements had already been made, the Rhodians came again before the Senate concerning Soli in Cilicia. Because of kinship, they said, it was fitting for them to care for that city.
 
 For the people of Soli, like the Rhodians, were colonists from Argos, and on that basis they proved the kinship between the two peoples to be brotherly.
 
 Therefore they said it was just that the people of Soli should receive freedom from the Romans through Rhodian good offices.
 
-When the senate heard this, it summoned Antiochus’s envoys and at first ordered that Antiochus should give up all Cilicia. But when Antipater and his party refused, on the ground that this went beyond the treaty, the senate turned again to the case of Soli by itself.
+When the Senate heard this, it summoned Antiochus’s envoys and at first ordered that Antiochus should give up all Cilicia. But when Antipater and his party refused, on the ground that this went beyond the treaty, the Senate turned again to the case of Soli by itself.
 
-Since the king’s envoys pressed their opposition strongly, the senate dismissed them, called in the Rhodians, explained the objections raised by Antipater’s party, and added that it would endure anything if the Rhodians had firmly resolved on this point.
+Since the king’s envoys pressed their opposition strongly, the Senate dismissed them, called in the Rhodians, explained the objections raised by Antipater’s party, and added that it would endure anything if the Rhodians had firmly resolved on this point.
 
-But the Rhodian envoys, pleased by the zeal of the senate, said they would ask for nothing further; so the matter remained where it stood.
+But the Rhodian envoys, pleased by the zeal of the Senate, said they would ask for nothing further; so the matter remained where it stood.
 
 Then, just as the ten commissioners and the other envoys were about to set out, Scipio and Lucius—the victors over Antiochus in the naval battle—sailed into Brundisium from Italy.
 
@@ -708,13 +708,13 @@ But when they arrived in Rome, Roman anger against the Aetolians was renewed bec
 
 For Philip, believing that the Aetolians had unjustly taken Athamania and Dolopia from him, sent to his friends and urged them to share his anger and refuse the peace.
 
-Therefore when the Aetolians first entered, the senate refused to hear them; but when the Rhodians and Athenians pressed the matter, it gave way and listened.
+Therefore when the Aetolians first entered, the Senate refused to hear them; but when the Rhodians and Athenians pressed the matter, it gave way and listened.
 
 For Leon son of Cichesias, speaking after Damon, seemed to have spoken well in other respects and to have used a comparison especially suited to the case.
 
 He said that Roman anger against the Aetolians was understandable, because although the Aetolians had received many benefits from Rome, instead of repaying them with gratitude they had brought Roman supremacy into great danger by igniting the war with Antiochus.
 
-Yet the senate was mistaken in one respect, in directing its anger against the mass of the people. In states, he said, what happens to the multitude is very like what happens at sea.
+Yet the Senate was mistaken in one respect, in directing its anger against the mass of the people. In states, he said, what happens to the multitude is very like what happens at sea.
 
 The sea by its own nature is always calm and settled, and in general such that it would never disturb those who approach and use it.
 
@@ -726,7 +726,7 @@ But when Thoas and Dicaearchus blew in from Asia, and Menestas and Damocritus fr
 
 Therefore you should be implacable toward those men, but pity the many and make peace with them, knowing that once they have become themselves again—and now, beyond all else, have been saved by you—they will once more prove the most loyal of all Greeks.”
 
-After the Athenian spoke in this way, he persuaded the senate to make peace with the Aetolians.
+After the Athenian spoke in this way, he persuaded the Senate to make peace with the Aetolians.
 
 ## Book 21 Chapter 32: Terms of the Treaty
 
@@ -1026,7 +1026,7 @@ As for King Eumenes and his brothers, they had already made as much provision fo
 
 In Asia they gave him Hellespontine Phrygia, Greater Phrygia, the Mysians whom Prusias had previously detached from him, Lycaonia, Milyas, Lydia, Tralles, Ephesus, and Telmessus.
 
-These were the gifts they assigned to Eumenes. But regarding Pamphylia, since Eumenes claimed it lay on this side of Taurus while Antiochus’s envoys claimed the opposite, they referred the matter to the senate.
+These were the gifts they assigned to Eumenes. But regarding Pamphylia, since Eumenes claimed it lay on this side of Taurus while Antiochus’s envoys claimed the opposite, they referred the matter to the Senate.
 
 When most of the necessary and important arrangements had thus been completed, they broke camp and marched toward the Hellespont, wishing on the way to secure matters still further in regard to the Galatians.
 

@@ -6,29 +6,29 @@ Modern English translation of the Greek text.
 
 Olympiad 149, year 3. Affairs in Italy.
 
-When envoys had arrived at Rome from the Spartans, from the Spartan exiles, and from the Achaeans, and at the same time also from Eumenes, from king Ariarathes, and from Pharnaces, the senate dealt first with these latter embassies.
+When envoys had arrived at Rome from the Spartans, from the Spartan exiles, and from the Achaeans, and at the same time also from Eumenes, from king Ariarathes, and from Pharnaces, the Senate dealt first with these latter embassies.
 
 A short time earlier the envoys with Marcus, whom they had sent regarding the war between Eumenes and Pharnaces, had reported back and had made clear both Eumenes’ moderation in every respect and Pharnaces’ greed and general arrogance.
 
-So after hearing the envoys now present, the senate did not require many arguments, but answered that it would again send commissioners to investigate more carefully the matters in dispute between the kings.
+So after hearing the envoys now present, the Senate did not require many arguments, but answered that it would again send commissioners to investigate more carefully the matters in dispute between the kings.
 
-After this the exiles from Sparta entered, together with the envoys from the city itself; and after listening to them at length, the senate did not censure the men from the city for what had taken place.
+After this the exiles from Sparta entered, together with the envoys from the city itself; and after listening to them at length, the Senate did not censure the men from the city for what had taken place.
 
 To the exiles, however, it promised that it would write to the Achaeans about securing their return home.
 
 A few days later the envoys headed by Bippus of Argos, who had been sent by the Achaean people, entered and explained the settlement of the Messenian question.
 
-The senate, showing displeasure at none of the arrangements, gave the envoys a gracious reception.
+The Senate, showing displeasure at none of the arrangements, gave the envoys a gracious reception.
 
 ## Book 24 Chapter 2: Treaty Between the Achaeans and the Messenians
 
 Affairs in Greece.
 
-When the Spartan exiles arrived in the Peloponnese from Rome and brought letters from the senate to the Achaeans asking them to make provision for the exiles’ return and safety in their homeland, the Achaeans decided to postpone deliberation on the matter until their own envoys should come back.
+When the Spartan exiles arrived in the Peloponnese from Rome and brought letters from the Senate to the Achaeans asking them to make provision for the exiles’ return and safety in their homeland, the Achaeans decided to postpone deliberation on the matter until their own envoys should come back.
 
 After giving this reply to the exiles, they set up the inscribed treaty with the Messenians, granting them, besides the other generous terms, exemption from taxes for three years, so that the devastation of the territory might burden the Achaeans no less than the Messenians.
 
-But when Bippus and his companions returned from Rome and explained that the letters about the exiles had been written not because the senate was eager for the measure, but because the exiles had pressed the matter, the Achaeans resolved to stand by the existing arrangements.
+But when Bippus and his companions returned from Rome and explained that the letters about the exiles had been written not because the Senate was eager for the measure, but because the exiles had pressed the matter, the Achaeans resolved to stand by the existing arrangements.
 
 ## Book 24 Chapter 3: Troubles in Crete
 
@@ -58,9 +58,9 @@ When they arrived at Rome, everyone in private life welcomed the young men warml
 
 It provided them with generous hospitality and the fullest support, and met them graciously in audience.
 
-When Attalus and his companions entered the senate, they first renewed at greater length the previous expressions of goodwill, and then, after accusing Pharnaces, asked the senate to take some action by which he might receive the punishment he deserved.
+When Attalus and his companions entered the Senate, they first renewed at greater length the previous expressions of goodwill, and then, after accusing Pharnaces, asked the Senate to take some action by which he might receive the punishment he deserved.
 
-After hearing them graciously, the senate replied that it would send commissioners who would use every possible means to end the war.
+After hearing them graciously, the Senate replied that it would send commissioners who would use every possible means to end the war.
 
 That was the situation in Italy.
 
@@ -106,7 +106,7 @@ Therefore, even now, if anyone shows them that by obeying what is written the Ac
 
 But Hyperbatus and Callicrates urged obedience to the Roman letters, and said that neither law nor inscription nor anything else should be considered more binding than this.
 
-As this dispute went on, the Achaeans decided to send envoys to the senate to explain the points made by Lycortas.
+As this dispute went on, the Achaeans decided to send envoys to the Senate to explain the points made by Lycortas.
 
 They immediately appointed as envoys Callicrates of Leontium, Lydiadas of Megalopolis, and Aratus of Sicyon, and after giving them instructions in accordance with this policy, sent them off.
 
@@ -146,7 +146,7 @@ After Callicrates had spoken these and similar words, he withdrew.
 
 Then the exiles came in, briefly explained their own case, added some appeals to common pity, and departed.
 
-The senate judged that Callicrates had said things advantageous to its own interests, and learned from him that it ought to strengthen those who supported its decrees and humble those who opposed them.
+The Senate judged that Callicrates had said things advantageous to its own interests, and learned from him that it ought to strengthen those who supported its decrees and humble those who opposed them.
 
 Thus, from that time onward, it first set itself to weakening in their own states the men who took the noblest course, and to gathering around itself those who ran to it, whether justly or unjustly. As time went on, the result for Rome was that it came to have plenty of flatterers but few genuine friends.
 
@@ -166,7 +166,7 @@ But whenever someone who has kept faith reminds them of what is just, they draw 
 
 Callicrates, however, when he went to Rome at this time, was supposed to speak for the rights of the Achaeans; instead he acted in the opposite way, and by dragging in the Messenian affair—a matter about which the Romans were not even making accusations—returned to Achaea magnifying the fear inspired by Rome.
 
-And by his embassy he overawed and broke the spirit of the masses, since the common people had no idea what he had truly said in the senate. First of all, he was elected general, and, to add to the other evils, he took bribes; and after taking office he restored the exiles from Sparta and from Messene.
+And by his embassy he overawed and broke the spirit of the masses, since the common people had no idea what he had truly said in the Senate. First of all, he was elected general, and, to add to the other evils, he took bribes; and after taking office he restored the exiles from Sparta and from Messene.
 
 ## Book 24 Chapter 11: Philopoemen and Aristaenus Contrasted
 
