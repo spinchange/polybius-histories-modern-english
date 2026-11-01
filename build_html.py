@@ -151,6 +151,41 @@ footer {
   margin-top: 4rem;
 }
 .book-note { font-style: italic; color: var(--muted); }
+
+/* Margin-note layers (readers / parallels / survival): off until toggled. */
+#layer-bar {
+  position: sticky; top: 0; z-index: 10;
+  display: flex; flex-wrap: wrap; gap: 0.4rem 1.2rem; align-items: center; justify-content: center;
+  padding: 0.5rem 1rem; font-size: 0.9rem;
+  background: var(--bg); border-bottom: 1px solid var(--rule); color: var(--muted);
+}
+#layer-bar label { cursor: pointer; white-space: nowrap; }
+#layer-bar input { margin-right: 0.3em; accent-color: var(--accent); }
+#layer-bar .count { opacity: 0.7; }
+aside.margin {
+  display: none;
+  font-size: 0.88rem; line-height: 1.5; color: var(--muted);
+  border-left: 3px solid var(--rule);
+  padding: 0.1rem 0 0.1rem 0.8rem; margin: 0 0 1.1rem 0;
+}
+body.show-readers aside.margin-readers,
+body.show-parallels aside.margin-parallels,
+body.show-survival aside.margin-survival { display: block; }
+aside.margin-readers { border-left-color: #a8542f; }
+aside.margin-parallels { border-left-color: #3f7a6b; }
+aside.margin-survival { border-left-color: #6b5aa6; }
+aside.margin .m-head { font-variant: small-caps; letter-spacing: 0.04em; color: var(--accent); margin: 0 0 0.3rem; }
+aside.margin .m-work { font-style: italic; }
+aside.margin blockquote { margin: 0.3rem 0 0.5rem; padding: 0; color: var(--ink); }
+aside.margin blockquote p { margin: 0 0 0.5em; }
+aside.margin p { margin: 0 0 0.5em; }
+aside.margin .m-src { font-size: 0.8rem; opacity: 0.8; }
+@media (min-width: 82rem) {
+  aside.margin { float: right; clear: right; width: 17rem; margin: 0 -19.5rem 1rem 1.5rem; }
+}
+@media print {
+  #layer-bar, aside.margin { display: none !important; }
+}
 @media print {
   :root {
     --bg: #ffffff;
@@ -307,7 +342,87 @@ def toc_html(books: list[eb.Book]) -> str:
     return "\n".join(parts)
 
 
-def book_html(book: eb.Book, manifest_books: dict[int, dict] | None = None) -> str:
+ANN_DIR = eb.DIST / "annotations"
+LAYERS = [("readers", "Readers"), ("parallels", "Parallels"), ("survival", "Survival")]
+PLACED: set[str] = set()
+
+
+def load_annotations() -> tuple[dict[tuple[int, str], list[tuple[str, dict]]], dict[str, int]]:
+    """Verified annotations from dist/annotations/*.json, keyed by the chapter
+    where each one starts. Run work/scripts/ann_build.py first to refresh them."""
+    by_anchor: dict[tuple[int, str], list[tuple[str, dict]]] = {}
+    counts: dict[str, int] = {}
+    for layer, _label in LAYERS:
+        path = ANN_DIR / f"{layer}.json"
+        if not path.exists():
+            continue
+        records = json.loads(path.read_text(encoding="utf-8"))["annotations"]
+        counts[layer] = len(records)
+        for rec in records:
+            first = rec["anchors"][0]
+            by_anchor.setdefault((first["book"], first["from"]), []).append((layer, rec))
+    return by_anchor, counts
+
+
+def anchor_span(rec: dict) -> str:
+    first, last = rec["anchors"][0], rec["anchors"][-1]
+    if first["book"] == last["book"] and first["from"] != last["to"]:
+        return f"Chapters {first['book']}.{first['from']}–{last['to']}"
+    return f"Chapter {first['book']}.{first['from']}"
+
+
+def annotation_html(layer: str, rec: dict) -> str:
+    PLACED.add(rec["id"])
+    head = f'{html.escape(rec["annotator"])}'
+    if rec.get("date") and rec["date"] not in ("not applicable", "uncertain"):
+        head += f' ({html.escape(str(rec["date"]))})'
+    parts = [f'  <aside class="margin margin-{layer}" data-layer="{layer}" id="ann-{html.escape(rec["id"].replace("/", "-"))}">']
+    parts.append(f'    <p class="m-head">{head}</p>')
+    parts.append(f'    <p class="m-work">{eb.inline_note_markup(rec["work"])} · {anchor_span(rec)}</p>')
+    quote = (rec.get("quote") or "").strip()
+    if quote:
+        paras = [p.replace("\n", " ") for p in quote.split("\n\n") if p.strip()]
+        parts.append("    <blockquote>" + "".join(f"<p>{eb.inline_note_markup(p)}</p>" for p in paras) + "</blockquote>")
+    for note_para in [p for p in rec["note"].split("\n\n") if p.strip()]:
+        parts.append(f"    <p>{eb.inline_note_markup(note_para.replace(chr(10), ' '))}</p>")
+    if rec.get("source_pub"):
+        parts.append(f'    <p class="m-src">{html.escape(rec["source_pub"])}</p>')
+    parts.append("  </aside>")
+    return "\n".join(parts)
+
+
+def layer_bar_html(counts: dict[str, int]) -> str:
+    labels = "".join(
+        f'<label><input type="checkbox" data-layer="{layer}"/>{label} <span class="count">({counts.get(layer, 0)})</span></label>'
+        for layer, label in LAYERS
+        if counts.get(layer)
+    )
+    return (
+        '<div id="layer-bar" role="group" aria-label="Margin notes">'
+        f'<span>Margin notes:</span>{labels}</div>'
+    )
+
+
+LAYER_JS = """
+(function () {
+  var KEY = 'polybius-layers';
+  var on = {};
+  try { on = JSON.parse(localStorage.getItem(KEY) || '{}'); } catch (e) {}
+  var boxes = document.querySelectorAll('#layer-bar input[data-layer]');
+  function apply() {
+    boxes.forEach(function (b) {
+      document.body.classList.toggle('show-' + b.dataset.layer, b.checked);
+    });
+    try { localStorage.setItem(KEY, JSON.stringify(Object.fromEntries(
+      Array.prototype.map.call(boxes, function (b) { return [b.dataset.layer, b.checked]; })))); } catch (e) {}
+  }
+  boxes.forEach(function (b) { b.checked = !!on[b.dataset.layer]; b.addEventListener('change', apply); });
+  apply();
+})();
+"""
+
+
+def book_html(book: eb.Book, manifest_books: dict[int, dict] | None = None, annotations: dict | None = None) -> str:
     parts = [f'<section class="book" id="{eb.book_id(book.number)}">', f"  <h2>{book.title}</h2>"]
     plate_file = eb.BASE / "art" / f"book_{book.number:02d}_plate.png"
     if plate_file.exists():
@@ -327,6 +442,8 @@ def book_html(book: eb.Book, manifest_books: dict[int, dict] | None = None) -> s
         for chapter in book.chapters:
             parts.append(f'  <section class="chapter" id="{eb.chapter_id(book.number, chapter.label)}">')
             parts.append(f"    <h3>{chapter_heading(book, chapter)}</h3>")
+            for layer, rec in (annotations or {}).get((book.number, chapter.label), []):
+                parts.append(annotation_html(layer, rec))
             for paragraph in chapter.paragraphs:
                 parts.append(eb.paragraph_markup(paragraph))
             parts.append("  </section>")
@@ -344,6 +461,7 @@ def build() -> dict[str, object]:
     copied_art = sync_art_to_dist()
     manifest = load_manifest()
     manifest_books = {b["book"]: b for b in manifest.get("books", []) if "book" in b}
+    annotations, ann_counts = load_annotations()
 
     header_parts = [
         '<header id="titlepage">',
@@ -376,12 +494,15 @@ def build() -> dict[str, object]:
         f"  <style>{CSS}</style>",
         "</head>",
         "<body>",
+        layer_bar_html(ann_counts),
+        "<noscript><style>#layer-bar{display:none}</style></noscript>",
         "\n".join(header_parts),
         editorial_note_html(),
         toc_html(books),
         "<main>",
-        "\n".join(book_html(book, manifest_books=manifest_books) for book in books),
+        "\n".join(book_html(book, manifest_books=manifest_books, annotations=annotations) for book in books),
         "</main>",
+        f"<script>{LAYER_JS}</script>",
         "<footer>Polybius, <i>The Histories</i> &mdash; modern English translation by Claude (Anthropic), edited by Christopher Duffy, Sr.. <a href='https://creativecommons.org/publicdomain/zero/1.0/'>CC0 1.0</a> &middot; <i>Pragmatike Historia</i>.</footer>",
         "</body>",
         "</html>",
@@ -394,6 +515,10 @@ def build() -> dict[str, object]:
         "chapters": sum(len(book.chapters) for book in books),
         "art_synced": len(copied_art),
         "bytes": HTML_OUT.stat().st_size,
+        "annotations_placed": len(PLACED),
+        "annotations_unplaced": sorted(
+            rec["id"] for recs in annotations.values() for _l, rec in recs if rec["id"] not in PLACED
+        ),
     }
 
 
