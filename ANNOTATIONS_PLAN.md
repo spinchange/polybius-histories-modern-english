@@ -78,12 +78,12 @@ general reader recognizes, or a hook they'd repeat at dinner, does.
 ### readers layer
 | Annotator | Work (PD source) | Anchor in Polybius | The hook |
 |---|---|---|---|
-| Marcus Junius Brutus | Plutarch, *Brutus* 4 (Perrin or Dryden tr.) | 1.1 (site epigraph) | Epitomizing Polybius in his tent on the eve of Pharsalus |
+| Marcus Junius Brutus | Plutarch, *Brutus* 4 (Long & Stewart tr.) | 1.1 (site epigraph) | Epitomizing Polybius in his tent on the eve of Pharsalus |
 | Cicero | *De Re Publica* II (PD tr.); *De Officiis* III on Regulus | 6.3–18; 1.31–35 | Rome's mixed constitution, explicitly after Polybius; the Regulus story |
 | Dionysius of Halicarnassus | *De Compositione Verborum* 4 | 1.4 or colophon | The famous dig: among authors "no one reads to the end" — own it |
 | Livy | see parallels layer | — | — |
 | Constantine VII | *Excerpta* prefaces (tr. ours) | Book 7 headnote + survival layer | The emperor whose scissors saved the book |
-| Machiavelli | *Discourses* I.2 (Detmold 1882 tr.) | 6.3–10 | Anacyclosis lifted nearly whole |
+| Machiavelli | *Discourses* I.2 (Thomson 1883 tr.) | 6.3–10 | Anacyclosis lifted nearly whole |
 | Frederick the Great | preface to the Folard abridgment (tr. ours) | 3.107–118 | A king assigning Polybius homework |
 | Montesquieu | *Spirit of the Laws* XI; *Considérations* (PD tr.) | 6.11–18 | Separation of powers' Polybian ancestry |
 | John Adams | *Defence of the Constitutions* I (founders.archives.gov) | 6.3–18 | Quotes Book 6 at length; line to the U.S. Constitution |

@@ -2738,3 +2738,20 @@ phase,book,chapter,action,verdict,notes
 4c,24,12,edits_small,FIXED,
 1,,,heading_report,report,"1310 headings; {'case': 11, 'olympiad-rubric-missing': 4}"
 1,,,seam_report,report,{'known': 9}
+A2,,,pd-check,OK,"adams_works_v4_1851.txt: title, vol. IV, Charles Francis Adams editor and 1851 match front matter"
+A2,,,pd-check,OK,"appian_roman_history_v1_white_1899.txt: Horace White translator, vol. I and 1899 match front matter"
+A2,,,pd-check,OK,"cicero_de_officiis_miller_1913.txt: De Officiis, Walter Miller translator and 1913 match Gutenberg header and title page"
+A2,,,pd-check,OK,cicero_republic_featherstonhaugh_1829.txt: Featherstonhaugh translator and 1829 match front matter
+A2,,,pd-check,DOUBTFUL,"constantine_excerpta_v1_de_boor_1903.txt: front matter is unreadable Greek OCR so de Boor and 1903 cannot be confirmed; the garbled numerals include 1880 and 1883, which conflict with 1903 but OCR is unreliable"
+A2,,,pd-check,DOUBTFUL,"dionysius_literary_composition_roberts_1910.txt: first 120 lines are unreadable OCR with no legible title, translator or year, so Roberts 1910 cannot be verified"
+A2,,,pd-check,OK,"federalist_papers.txt: Hamilton, Jay, Madison and title match Gutenberg header; front matter dates Federalist 1 to 1787 and does not state 1788, which is still pre-1930"
+A2,,,pd-check,OK,"frederick_oeuvres_militaires_v1_preuss_1856.txt: Oeuvres militaires, Tome I, Berlin 1856 match front matter; French original is pre-1930; Preuss not named in first 120 lines"
+A2,,,pd-check,OK,livy_09_26_spillan_edmonds.txt: Spillan and Edmonds translators and title match Gutenberg header; 1849 is not stated in front matter and is not contradicted
+A2,,,pd-check,OK,livy_27_36_edmonds.txt: Cyrus R. Edmonds translator and MDCCCL (1850) match front matter
+A2,,,pd-check,OK,livy_37_end_mcdevitte.txt: W. A. McDevitte translator and MDCCCL (1850) match front matter
+A2,,,pd-check,OK,machiavelli_discourses_thomson_1883.txt: Ninian Hill Thomson translator and 1883 match front matter
+A2,,,pd-check,OK,montesquieu_considerations_baker_1882.txt: Jehu Baker translator and 1882 match front matter
+A2,,,pd-check,DOUBTFUL,"montesquieu_spirit_of_laws_v1_nugent_1899.txt: front matter gives New York, Colonial Press, 1899 (manifest says London) and names only Thomas Nugent; the 'rev. J. V. Prichard' credit does not appear in the first 120 lines"
+A2,,,pd-check,DOUBTFUL,plutarch_lives_v1_long_stewart.txt: title page is dated 1894 (reprint from stereotype plates) but manifest records 1880
+A2,,,pd-check,DOUBTFUL,plutarch_lives_v2_long_stewart.txt: title page is dated 1899 but manifest records 1880
+A2,,,pd-check,DOUBTFUL,plutarch_lives_v4_long_stewart.txt: title page is dated 1892 but manifest records 1882 (pd_rationale says 1880-82)
