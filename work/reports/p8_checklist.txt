@@ -1,0 +1,137 @@
+
+== stray-ellipsis: 215
+  B01 Book 1 Chapter 19 L379: [...] of supplies. After this, the aforementioned man observed that the Romans w
+  B01 Book 1 Chapter 51 L1127: [...] joining battle. When the two fleets were close to one another, the signals
+  B01 Book 1 Chapter 56 L1235: For, first, using this as his base, he ravaged by sea the coast of Italy as far 
+  B01 Book 1 Chapter 70 L1511: After this, when nearly all the peoples of Libya readily heeded their call to re
+  B02 Book 2 Chapter 13 L267: Accordingly, as soon as they had sent envoys to Hasdrubal and made a treaty with
+  B02 Book 2 Chapter 17 L335: [...] except that these plains were in ancient times occupied by the Etruscans, 
+  B02 Book 2 Chapter 18 L377: After this alarm they kept quiet for thirteen years; and after that, seeing the 
+  B02 Book 2 Chapter 19 L381: [...] [peace] and a treaty. Having kept firmly to it for thirty years, when a fr
+  B02 Book 2 Chapter 30 L611: The Roman shields, that is, made a great difference for protection, and their sw
+  B02 Book 2 Chapter 53 L991: He fell back upon Argos and for a while contested the city; but afterward, when 
+  B03 Book 3 Chapter 12 L213: These, then, are to be considered the causes of the war with Hannibal. As for th
+  B03 Book 3 Chapter 13 L217: [...] The Carthaginians had taken hard their defeat over Sicily, but their anger
+  B03 Book 3 Chapter 24 L439: A Carthaginian shall do likewise. If one does otherwise, he shall not take redre
+  B03 Book 3 Chapter 39 L689: For the distance from the Pillars to New Town happens to be three thousand stade
+  B03 Book 3 Chapter 49 L899: When the elder courted him and called on him to join in helping him secure the t
+  B03 Book 3 Chapter 52 L961: When the barbarians had handed over the hostages, supplied cattle in abundance, 
+  B03 Book 3 Chapter 70 L1313: Hannibal, then, knowing the attack that was to come [...]
+  B03 Book 3 Chapter 93 L1731: [...] he encamped. When the Carthaginians arrived and pitched their camp on the 
+  B03 Book 3 Chapter 95 L1783: When the men sent out to reconnoiter reported that the enemy’s fleet happened to
+  B04 Book 4 Chapter 10 L195: So, reasoning along these lines, they advanced and pitched camp near [...]
+  B04 Book 4 Chapter 16 L291: Having concluded this agreement with Scerdilaidas, Agelaus, Dorimachus, and Scop
+  B04 Book 4 Chapter 17 L295: [...] Achaea, together with the Illyrians. Meanwhile Ariston, the general of the
+  B04 Book 4 Chapter 18 L319: [...] to destroy it root and branch. The deed they carried out with the followin
+  B04 Book 4 Chapter 34 L605: He at once approached the ephors [...], the men holding that Machatas ought to b
+  B04 Book 4 Chapter 40 L735: The same will happen with the Pontus, and is in fact happening now; but it is no
+  B04 Book 4 Chapter 44 L811: These, then, are the things that give the Byzantines their advantage by sea; the
+  B04 Book 4 Chapter 73 L1305: [...] in this fashion. The Eleans who were keeping watch over Lasion, learning o
+  B05 Book 5 Chapter 36 L743: To carry out this plan [...]
+  B05 Book 5 Chapter 50 L1005: When Epigenes withdrew, as ordered, [...], the men in the council were appalled 
+  B05 Book 5 Chapter 52 L1075: Molon, for his part, did what he could to calm the disturbance [...]
+  B05 Book 5 Chapter 64 L1335: These men, exhorting the troops both privately and in public, instilled in them 
+  B05 Book 5 Chapter 68 L1413: After thoroughly surveying the peculiarities of the terrain, he withdrew for tha
+  B05 Book 5 Chapter 70 L1453: Having secured Atabyrium as well, he broke camp and, advancing, took over Pella 
+  B05 Book 5 Chapter 71 L1459: Strengthened by the hopes and the supplies they offered, he pushed on, and gaini
+  B05 Book 5 Chapter 89 L1797: [...] of the Syracusans. Ptolemy too promised them three hundred talents of silv
+  B06 Book 6 Chapter 2 L29: For this reason, since I could see no sharper or greater change in our times tha
+  B06 Book 6 Chapter 11 L187: The Roman state, reckoning from the crossing of Xerxes into Greece [...] and thi
+  B07 Book 7 Chapter 3 L35: But Hieronymus, while the Carthaginian envoys were still close at hand [...], sa
+  B07 Book 7 Chapter 11 L189: The same may be said of the Peloponnesians and Boeotians, and likewise of the Ep
+  B07 Book 7 Chapter 13 L233: An even clearer proof of the character of the two men is the advice given about 
+  B07 Book 7 Chapter 14 L237: [...] Aetolians. Once these points are admitted, it is already easy to reckon up
+  B08 Book 8 Chapter 1 L9: For who would not be struck by the fact that, while they were engaged in so grea
+  B08 Book 8 Chapter 8a L159: [...] Demetrius, after rashly and recklessly attempting, with Philip’s approval,
+  B09 Book 9 Chapter 9 L171: By remembering such actions, or by having them set before their eyes, they may b
+  B09 Book 9 Chapter 12 L245: So much has nature made even one small detail enough to bring an intended plan t
+  B09 Book 9 Chapter 15 L319: There is an easy way to observe this as well, for one month marks out a single e
+  B09 Book 9 Chapter 17 L333: When Aratus, the Achaean general, planned to seize the city of Cynaetha by treac
+  B09 Book 9 Chapter 24 L469: [...] Hannibal could say nothing against the daring and practical force of the p
+  B09 Book 9 Chapter 25 L481: And I heard it even more precisely from Masannasus [...], who brought charges in
+  B09 Book 9 Chapter 26a L529: As for those who wish to command and take part in public life, yet are ignorant 
+  B09 Book 9 Chapter 30 L605: [...] For the Aetolians alone among the Greeks stood face to face with Antipater
+  B09 Book 9 Chapter 32 L657: And if not...”
+  B09 Book 9 Chapter 40 L809: At least if they wish to keep their alliance not merely in writing, but in deeds
+  B09 Book 9 Chapter 45 L885: Arsinoe is a city of Libya. [...] The ethnic is Arsinoites, and in the Aetolian 
+  B10 Book 10 Chapter 6 L127: Second, once he had undertaken it, he passed over the obvious and commonplace me
+  B10 Book 10 Chapter 10 L205: Opposite it on the west is the [...] hill, in a corresponding position, on which
+  B10 Book 10 Chapter 26 L537: And so, using the license he enjoyed while staying among them [...] without rest
+  B10 Book 10 Chapter 32 L667: The men in camp saw what was happening but were in no way able to come to the re
+  B10 Book 10 Chapter 49 L1031: In this engagement the king’s horse [...] was killed after being wounded [...], 
+  B11 Book 11 Chapter 2 L51: I have also shown how he fought many struggles against the Romans and wrestled w
+
+== curly-quote-unbalanced: 91
+  B01 Book 1 Chapter 62 L1347
+  B01 Book 1 Chapter 62 L1349
+  B02 Book 2 Chapter 8 L155
+  B02 Book 2 Chapter 8 L157
+  B03 Book 3 Chapter 22 L409
+  B03 Book 3 Chapter 22 L413
+  B03 Book 3 Chapter 24 L435
+  B03 Book 3 Chapter 24 L439
+  B03 Book 3 Chapter 25 L451
+  B03 Book 3 Chapter 25 L455
+  B03 Book 3 Chapter 27 L481
+  B03 Book 3 Chapter 27 L487
+  B03 Book 3 Chapter 64 L1167
+  B03 Book 3 Chapter 64 L1171
+  B03 Book 3 Chapter 108 L2029
+  B03 Book 3 Chapter 108 L2033
+  B03 Book 3 Chapter 109 L2037
+  B03 Book 3 Chapter 109 L2057
+  B03 Book 3 Chapter 111 L2087
+  B03 Book 3 Chapter 111 L2099
+  B05 Book 5 Chapter 36 L733
+  B05 Book 5 Chapter 36 L737
+  B07 Book 7 Chapter 12 L205
+  B07 Book 7 Chapter 12 L207
+  B07 Book 7 Chapter 12 L211
+  B07 Book 7 Chapter 12 L213
+  B08 Book 8 Chapter 9 L169
+  B08 Book 8 Chapter 9 L183
+  B09 Book 9 Chapter 32 L639
+  B09 Book 9 Chapter 32 L657
+  B11 Book 11 Chapter 4 L85
+  B11 Book 11 Chapter 4 L99
+  B11 Book 11 Chapter 5 L103
+  B11 Book 11 Chapter 5 L117
+  B11 Book 11 Chapter 6 L121
+  B11 Book 11 Chapter 6 L131
+  B11 Book 11 Chapter 28 L515
+  B11 Book 11 Chapter 28 L529
+  B11 Book 11 Chapter 29 L533
+  B11 Book 11 Chapter 29 L555
+  B15 Book 15 Chapter 26 L563
+  B15 Book 15 Chapter 26 L569
+  B15 Book 15 Chapter 29 L651
+  B15 Book 15 Chapter 29 L653
+  B16 Book 16 Chapter 22a L443
+  B16 Book 16 Chapter 22a L453
+  B16 Book 16 Chapter 36 L679
+  B16 Book 16 Chapter 36 L681
+  B16 Book 16 Chapter 39 L719
+  B16 Book 16 Chapter 39 L723
+  B18 Book 18 Chapter 4 L79
+  B18 Book 18 Chapter 4 L85
+  B18 Book 18 Chapter 5 L91
+  B18 Book 18 Chapter 5 L97
+  B18 Book 18 Chapter 6 L101
+  B18 Book 18 Chapter 6 L107
+  B18 Book 18 Chapter 23 L415
+  B18 Book 18 Chapter 23 L421
+  B18 Book 18 Chapter 37 L677
+  B18 Book 18 Chapter 37 L681
+
+== adjacent-brackets: 2
+  B02 Book 2 Chapter 19 L381: [...] [peace] and a treaty. Having kept firmly to it for thirty years, when a fr
+  B18 Book 18 Chapter 19 L347: [...] [The orders were] to fall back to the camps below and to recall those adva
+
+== lowercase-start: 4
+  B03 Book 3 Chapter 110 L2079: (this being a continuous mountain range that separates all the watercourses of I
+  B05 Book 5 Chapter 2 L41: *delighting in war as in a feast.*
+  B05 Book 5 Chapter 73 L1495: against the Pednelissians. The Selgians, meanwhile, sent out a general with an a
+  B05 Book 5 Chapter 75 L1545: and to prepare for the attempt. During this period, as the two sides came togeth
+
+== nonstandard-lacuna: 1
+  B32 Book 32 Chapter 1 L9: [with part of the text missing]

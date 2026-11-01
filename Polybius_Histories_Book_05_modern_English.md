@@ -1492,7 +1492,7 @@ But Garsyeris, wheeling about and marching at speed, came up to the passes. Find
 
 ## Book 5 Chapter 73: Defeat of the Selgians
 
-against the Pednelissians. The Selgians, meanwhile, sent out a general with an army at this time, hoping that by exploiting their familiarity with the terrain they could intimidate Phaÿllus and drive him out of his strongholds.
+[...] against the Pednelissians. The Selgians, meanwhile, sent out a general with an army at this time, hoping that by exploiting their familiarity with the terrain they could intimidate Phaÿllus and drive him out of his strongholds.
 
 But they failed to achieve their aim; instead they lost many of their soldiers in the assaults, and so they gave up this hope—yet they pressed on with the siege and the siegeworks no less than before, indeed with greater determination.
 
@@ -1542,7 +1542,7 @@ Garsyeris, then, eagerly seizing on this prospect, sent men to Achaeus to bring 
 
 ## Book 5 Chapter 75: Achaeus At Selge
 
-and to prepare for the attempt. During this period, as the two sides came together for parley more and more often, the men from the camp grew accustomed to slipping into the city to buy grain.
+[...] and to prepare for the attempt. During this period, as the two sides came together for parley more and more often, the men from the camp grew accustomed to slipping into the city to buy grain.
 
 This is the very thing that has already, for many people and on many occasions, been a cause of ruin. And it seems to me that of all animals man is the most easily deceived, though he is reputed to be the most cunning.
 

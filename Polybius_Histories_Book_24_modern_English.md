@@ -188,7 +188,7 @@ Aristaenus used such arguments as these before the Achaeans in defense of his ow
 
 To miss both, he said, is the clearest mark of poor judgment. And this plainly happens to those who agree without excuse to everything ordered, yet do so unwillingly and with resentment.
 
-Therefore we must either show that we are capable of refusing obedience, or, if we do not dare even to say that, we must be ready to comply promptly with all commands.”
+“Therefore we must either show that we are capable of refusing obedience, or, if we do not dare even to say that, we must be ready to comply promptly with all commands.”
 
 ## Book 24 Chapter 13: Philopoemen Resists the Inevitable
 
