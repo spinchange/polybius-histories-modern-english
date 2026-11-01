@@ -415,3 +415,12 @@ Sonnet drafts; the user signs off (this is the one phase that is mostly human):
 - `dist/` rebuilt from main's current book files, so it now includes the Phase 4-4c text fixes. EPUBCheck 0/0/0/0. EPUB is ~81 MB (plates).
 - Domain pragmatikehistoria.org is owned. Not wired up here.
 - Untracked and left out: `work/audio/`, ElevenLabs notes and podcast scripts (separate podcast work).
+
+
+## Phase 7 outcome (branch feat/p7-front-matter, merged af35483)
+
+- **`PREFACE.md`** replaces `EDITORIAL_NOTE.md` in both builds (retitled "Translator's Preface"; the old note stays in the repo, unused). Covers Greek basis, the 1889 crib, what is excluded (Book 17, Book 40), lacuna and units conventions, the Gauls/Galatians and Spartans/Lacedaemonians rules, the art colophon, the CC0 dedication and a machine-translation caveat. Builds now render `##` headings as `<h3>`.
+- **`STYLE_SHEET.md`** written: decided rules plus Sonnet's PROPOSED calls (units: stades with feet kept in Book 6 camp chapters; "Senate" capital for Rome only; "strategus" only for league offices, "general" otherwise; sentence-case titles). Awaiting editor sign-off on the proposed items.
+- **Metadata:** title-page credit line; OPF `trl`/`edt` contributors, CC0 `dc:rights`, publisher `Pragmatike Historia (pragmatikehistoria.org)`, `dc:description` cleaned; HTML `cc:license` link, footer credit, OG text. All "local source corpus" wording removed. `dist/` rebuilt; EPUBCheck 0/0/0.
+- **To confirm before print:** Teubner dates (1889–1905) in the preface were written from memory; the "second pass against the Greek" wording; editor name `spinchange` (swap for a personal name if desired).
+- **Still open:** `[...]` vs `[text missing]` / `[Text breaks.]` in Books 31–32; unattributed testimonia (`work/reports/phase6_escalations.md`); 2 Phase 4c HUMAN items (4.5, 33.4); 4 missing olympiad rubrics (4.2, 4.15, 11.1, 21.43). Not pushed; no CNAME/DNS yet (planned for start of Phase 8).
